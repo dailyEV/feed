@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "73",
-        "pitches": "440",
+        "batters": "75",
+        "pitches": "444",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "45.7",
-        "si%sinker %": "9.8",
-        "fc%cutter %": "8.0",
+        "si%sinker %": "9.9",
+        "fc%cutter %": "7.9",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "13.4",
-        "sl%slider %": "16.6",
-        "cu%curve %": "5.7",
+        "ch%changeup %": "13.3",
+        "sl%slider %": "16.7",
+        "cu%curve %": "5.6",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "27",
         "hh%hard hit %": "34.6",
         "brlbarrels": "7",
         "brl%barrel %": "9.0",
-        "ab": "105",
-        "avg": ".152",
-        "h": "16",
-        "1b": "7",
+        "ab": "107",
+        "avg": ".159",
+        "h": "17",
+        "1b": "8",
         "2b": "5",
         "3b": "0",
         "hr": "4",
-        "so": "25",
+        "so": "27",
         "bipballs in play": "78",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-07-11 19:29:39.343271"
+        "updated": "2025-07-11 19:29:47.152705"
     },
     "cle @ chw": [
         {
@@ -1004,7 +1004,7 @@
             "team": "mia",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1192,6 +1192,21 @@
     ],
     "chc @ nyy": [
         {
+            "player": "dansby swanson",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-11 19:29:42",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete crow armstrong",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -1201,7 +1216,7 @@
             "team": "chc",
             "start": "7:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1329,6 +1344,21 @@
     ],
     "col @ cin": [
         {
+            "player": "brenton doyle",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-11 19:29:42",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mcmahon",
             "game": "col @ cin",
             "hr/park": "",
@@ -1338,7 +1368,7 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "81.4",
             "la": "18",
             "dist": "213"
