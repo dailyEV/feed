@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "18",
         "batters": "81",
-        "pitches": "471",
+        "pitches": "474",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "44.6",
-        "si%sinker %": "10.2",
+        "ff%fourseam fastball %": "44.3",
+        "si%sinker %": "10.3",
         "fc%cutter %": "7.6",
         "fs%splitter %": "0.8",
-        "ch%changeup %": "13.0",
-        "sl%slider %": "17.8",
-        "cu%curve %": "5.9",
+        "ch%changeup %": "12.9",
+        "sl%slider %": "17.7",
+        "cu%curve %": "6.3",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "30",
-        "hh%hard hit %": "36.6",
+        "hhhard hit": "31",
+        "hh%hard hit %": "37.3",
         "brlbarrels": "7",
-        "brl%barrel %": "8.5",
+        "brl%barrel %": "8.4",
         "ab": "113",
         "avg": ".168",
         "h": "19",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "4",
         "so": "29",
-        "bipballs in play": "82",
+        "bipballs in play": "83",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-07-11 19:33:05.343951"
+        "updated": "2025-07-11 19:33:13.042559"
     },
     "cle @ chw": [
         {
@@ -1413,7 +1413,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1596,9 +1596,9 @@
             "start": "7:10 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "98.5",
+            "la": "16",
+            "dist": "284"
         },
         {
             "player": "jorge polanco",
