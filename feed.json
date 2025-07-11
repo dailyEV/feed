@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "111",
-        "pitches": "703",
+        "batters": "112",
+        "pitches": "704",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "43.2",
+        "ff%fourseam fastball %": "42.9",
         "si%sinker %": "10.4",
-        "fc%cutter %": "7.8",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "1.0",
-        "ch%changeup %": "11.2",
-        "sl%slider %": "18.1",
-        "cu%curve %": "8.3",
+        "ch%changeup %": "11.4",
+        "sl%slider %": "17.9",
+        "cu%curve %": "8.5",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "51",
-        "hh%hard hit %": "41.1",
+        "hhhard hit": "52",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "9",
-        "brl%barrel %": "7.3",
+        "brl%barrel %": "7.2",
         "ab": "164",
-        "avg": ".226",
-        "h": "37",
-        "1b": "22",
+        "avg": ".232",
+        "h": "38",
+        "1b": "23",
         "2b": "7",
         "3b": "2",
         "hr": "6",
-        "so": "41",
-        "bipballs in play": "124",
+        "so": "42",
+        "bipballs in play": "125",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-07-11 19:58:53.818664"
+        "updated": "2025-07-11 19:59:01.907664"
     },
     "cle @ chw": [
         {
@@ -995,6 +995,21 @@
     "cle-gm2 @ chw-gm2": [],
     "mia @ bal": [
         {
+            "player": "tyler oneill",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-07-11 19:58:56",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "colton cowser",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1004,7 +1019,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1749,21 +1764,6 @@
     ],
     "col @ cin": [
         {
-            "player": "austin hays",
-            "game": "col @ cin",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-07-11 19:58:42",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "7:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "elly de la cruz",
             "game": "col @ cin",
             "hr/park": "",
@@ -2141,21 +2141,6 @@
     ],
     "sea @ det": [
         {
-            "player": "randy arozarena",
-            "game": "sea @ det",
-            "hr/park": "",
-            "pa": "23",
-            "dt": "2025-07-11 19:58:42",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "colt keith",
             "game": "sea @ det",
             "hr/park": "",
@@ -2487,6 +2472,21 @@
         }
     ],
     "tb @ bos": [
+        {
+            "player": "ceddanne rafaela",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-07-11 19:58:56",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "105.4",
+            "la": "2",
+            "dist": "66"
+        },
         {
             "player": "abraham toro",
             "game": "tb @ bos",
