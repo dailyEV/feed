@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "18",
         "batters": "60",
-        "pitches": "388",
+        "pitches": "390",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "45.9",
         "si%sinker %": "9.5",
-        "fc%cutter %": "8.0",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "1.0",
-        "ch%changeup %": "13.4",
+        "ch%changeup %": "13.3",
         "sl%slider %": "16.2",
         "cu%curve %": "5.9",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "24",
         "hh%hard hit %": "34.3",
-        "brlbarrels": "7",
-        "brl%barrel %": "10.0",
+        "brlbarrels": "6",
+        "brl%barrel %": "8.6",
         "ab": "92",
         "avg": ".163",
         "h": "15",
@@ -28,7 +28,7 @@
         "bipballs in play": "70",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-07-11 19:25:21.277235"
+        "updated": "2025-07-11 19:25:28.945543"
     },
     "cle @ chw": [
         {
@@ -1147,21 +1147,6 @@
     ],
     "chc @ nyy": [
         {
-            "player": "ben rice",
-            "game": "chc @ nyy",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-07-11 19:25:12",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "1",
-            "result": "Flyout",
-            "evo": "100.2",
-            "la": "27",
-            "dist": "350"
-        },
-        {
             "player": "cody bellinger",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -1468,6 +1453,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "alex bregman",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-07-11 19:25:27",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jarren duran",
             "game": "tb @ bos",
             "hr/park": "",
@@ -1477,10 +1477,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "113.5",
+            "la": "8",
+            "dist": "158"
         },
         {
             "player": "taylor walls",
