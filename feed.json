@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "71",
-        "pitches": "427",
+        "batters": "72",
+        "pitches": "428",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "45.7",
-        "si%sinker %": "9.6",
-        "fc%cutter %": "8.0",
+        "ff%fourseam fastball %": "45.6",
+        "si%sinker %": "10.0",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "0.9",
-        "ch%changeup %": "13.1",
-        "sl%slider %": "16.9",
-        "cu%curve %": "5.9",
+        "ch%changeup %": "13.3",
+        "sl%slider %": "16.1",
+        "cu%curve %": "5.8",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "27",
-        "hh%hard hit %": "35.5",
+        "hh%hard hit %": "35.1",
         "brlbarrels": "7",
-        "brl%barrel %": "9.2",
-        "ab": "103",
-        "avg": ".155",
+        "brl%barrel %": "9.1",
+        "ab": "104",
+        "avg": ".154",
         "h": "16",
         "1b": "7",
         "2b": "5",
         "3b": "0",
         "hr": "4",
         "so": "25",
-        "bipballs in play": "76",
+        "bipballs in play": "77",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-07-11 19:28:36.314962"
+        "updated": "2025-07-11 19:28:44.153921"
     },
     "cle @ chw": [
         {
@@ -1338,10 +1338,10 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "58.8",
+            "la": "46",
+            "dist": "175"
         },
         {
             "player": "jordan beck",
@@ -1602,6 +1602,21 @@
         }
     ],
     "tb @ bos": [
+        {
+            "player": "carlos narvaez",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-11 19:28:41",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "masataka yoshida",
             "game": "tb @ bos",
