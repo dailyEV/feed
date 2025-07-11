@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "19",
-        "batters": "102",
-        "pitches": "592",
+        "batters": "103",
+        "pitches": "598",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "44.6",
-        "si%sinker %": "11.0",
-        "fc%cutter %": "6.8",
+        "ff%fourseam fastball %": "44.3",
+        "si%sinker %": "10.9",
+        "fc%cutter %": "6.7",
         "fs%splitter %": "1.2",
         "ch%changeup %": "11.5",
-        "sl%slider %": "18.2",
-        "cu%curve %": "6.8",
+        "sl%slider %": "18.6",
+        "cu%curve %": "6.9",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "37",
-        "hh%hard hit %": "35.9",
+        "hh%hard hit %": "35.6",
         "brlbarrels": "7",
-        "brl%barrel %": "6.8",
-        "ab": "139",
-        "avg": ".180",
+        "brl%barrel %": "6.7",
+        "ab": "140",
+        "avg": ".179",
         "h": "25",
         "1b": "14",
         "2b": "6",
         "3b": "1",
         "hr": "4",
         "so": "35",
-        "bipballs in play": "103",
+        "bipballs in play": "104",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-07-11 19:47:38.570076"
+        "updated": "2025-07-11 19:47:46.567756"
     },
     "cle @ chw": [
         {
@@ -1004,10 +1004,10 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "77.0",
+            "la": "44",
+            "dist": "253"
         },
         {
             "player": "jesus sanchez",
@@ -1578,7 +1578,7 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2127,6 +2127,21 @@
         }
     ],
     "tb @ bos": [
+        {
+            "player": "wilyer abreu",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-11 19:47:42",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "yandy diaz",
             "game": "tb @ bos",
