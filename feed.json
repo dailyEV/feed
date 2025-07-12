@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "62",
-        "batters": "203",
-        "pitches": "2422",
+        "pitchers": "63",
+        "batters": "204",
+        "pitches": "2431",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "35.9",
-        "si%sinker %": "13.7",
+        "ff%fourseam fastball %": "35.8",
+        "si%sinker %": "13.8",
         "fc%cutter %": "7.7",
         "fs%splitter %": "1.9",
         "ch%changeup %": "9.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.4",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "172",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "30",
         "brl%barrel %": "7.0",
-        "ab": "554",
-        "avg": ".255",
+        "ab": "557",
+        "avg": ".253",
         "h": "141",
         "1b": "86",
         "2b": "31",
         "3b": "4",
         "hr": "20",
-        "so": "130",
-        "bipballs in play": "429",
+        "so": "132",
+        "bipballs in play": "431",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:42:50.498924"
+        "updated": "2025-07-11 21:43:01.082985"
     },
     "cle @ chw": [
         {
@@ -3649,7 +3649,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5753,10 +5753,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.3",
+            "la": "-16",
+            "dist": "5"
         },
         {
             "player": "danny jansen",
@@ -7475,6 +7475,21 @@
     ],
     "pit @ min": [
         {
+            "player": "brooks lee",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-11 21:42:28",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos correa",
             "game": "pit @ min",
             "hr/park": "",
@@ -7484,7 +7499,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7957,6 +7972,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "luis garcia",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-11 21:42:57",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alex call",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -7966,10 +7996,10 @@
             "team": "wsh",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "76.3",
+            "la": "-18",
+            "dist": "7"
         },
         {
             "player": "nathaniel lowe",
