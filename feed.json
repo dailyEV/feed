@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "75",
         "batters": "206",
-        "pitches": "2664",
+        "pitches": "2668",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.8",
         "si%sinker %": "15.6",
-        "fc%cutter %": "10.1",
+        "fc%cutter %": "10.2",
         "fs%splitter %": "3.2",
         "ch%changeup %": "9.6",
         "sl%slider %": "20.1",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.2",
         "brlbarrels": "38",
         "brl%barrel %": "7.6",
-        "ab": "638",
+        "ab": "639",
         "avg": ".241",
         "h": "154",
         "1b": "97",
         "2b": "32",
         "3b": "3",
         "hr": "22",
-        "so": "151",
-        "bipballs in play": "502",
+        "so": "152",
+        "bipballs in play": "503",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 18:08:34.569222"
+        "updated": "2025-07-12 18:08:44.967718"
     },
     "chc @ nyy": [
         {
@@ -5856,10 +5856,10 @@
             "team": "mia",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "64.4",
+            "la": "51",
+            "dist": "174"
         },
         {
             "player": "jesus sanchez",
@@ -6713,7 +6713,7 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "91.9",
             "la": "6",
             "dist": "101"
@@ -8262,7 +8262,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9696,6 +9696,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "nathaniel lowe",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-12 18:08:41",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh bell",
             "game": "wsh @ mil",
