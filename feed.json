@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "131",
-        "pitches": "1025",
+        "batters": "132",
+        "pitches": "1028",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "42.2",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.2",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.6",
-        "sl%slider %": "17.1",
-        "cu%curve %": "9.9",
+        "sl%slider %": "17.0",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "69",
-        "hh%hard hit %": "39.7",
+        "hhhard hit": "70",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "12",
         "brl%barrel %": "6.9",
-        "ab": "234",
-        "avg": ".231",
-        "h": "54",
-        "1b": "35",
+        "ab": "235",
+        "avg": ".234",
+        "h": "55",
+        "1b": "36",
         "2b": "9",
         "3b": "2",
         "hr": "8",
         "so": "60",
-        "bipballs in play": "174",
+        "bipballs in play": "175",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:26:24.626493"
+        "updated": "2025-07-11 20:26:32.926281"
     },
     "cle @ chw": [
         {
@@ -3754,6 +3754,21 @@
     "pit @ min": [],
     "wsh @ mil": [
         {
+            "player": "jackson chourio",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-07-11 20:26:27",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "william contreras",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -3763,10 +3778,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "107.2",
+            "la": "9",
+            "dist": "175"
         },
         {
             "player": "sal frelick",
@@ -3870,7 +3885,7 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "89.8",
             "la": "19",
             "dist": "278"
