@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "26",
         "batters": "133",
-        "pitches": "1045",
+        "pitches": "1049",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "42.1",
-        "si%sinker %": "11.5",
-        "fc%cutter %": "7.2",
+        "ff%fourseam fastball %": "42.2",
+        "si%sinker %": "11.4",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.6",
-        "sl%slider %": "17.1",
-        "cu%curve %": "10.0",
+        "sl%slider %": "17.2",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "70",
-        "hh%hard hit %": "39.1",
-        "brlbarrels": "12",
-        "brl%barrel %": "6.7",
-        "ab": "238",
-        "avg": ".231",
-        "h": "55",
+        "hhhard hit": "72",
+        "hh%hard hit %": "39.8",
+        "brlbarrels": "13",
+        "brl%barrel %": "7.2",
+        "ab": "239",
+        "avg": ".234",
+        "h": "56",
         "1b": "36",
         "2b": "9",
         "3b": "2",
-        "hr": "8",
+        "hr": "9",
         "so": "61",
-        "bipballs in play": "179",
+        "bipballs in play": "181",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:27:24.571166"
+        "updated": "2025-07-11 20:27:32.731602"
     },
     "cle @ chw": [
         {
@@ -995,6 +995,21 @@
     "cle-gm2 @ chw-gm2": [],
     "mia @ bal": [
         {
+            "player": "javier sanoja",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-11 20:27:27",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "connor norby",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1004,10 +1019,10 @@
             "team": "mia",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "72.2",
+            "la": "7",
+            "dist": "75"
         },
         {
             "player": "liam hicks",
@@ -1551,6 +1566,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "cody bellinger",
+            "game": "chc @ nyy",
+            "hr/park": "27/30",
+            "pa": "39",
+            "dt": "2025-07-11 20:26:44",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Home Run",
+            "evo": "102.0",
+            "la": "35",
+            "dist": "376"
+        },
         {
             "player": "aaron judge",
             "game": "chc @ nyy",
@@ -2123,21 +2153,6 @@
         }
     ],
     "col @ cin": [
-        {
-            "player": "noelvi marte",
-            "game": "col @ cin",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-07-11 20:26:58",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "7:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "84.8",
-            "la": "-4",
-            "dist": "29"
-        },
         {
             "player": "jordan beck",
             "game": "col @ cin",
@@ -3247,7 +3262,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "3",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "89.6",
             "la": "71",
             "dist": "95"
@@ -3808,10 +3823,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "109.3",
+            "la": "5",
+            "dist": "170"
         },
         {
             "player": "william contreras",
@@ -3930,7 +3945,7 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "85.5",
             "la": "49",
             "dist": "283"
