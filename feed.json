@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "77",
         "batters": "248",
-        "pitches": "2888",
+        "pitches": "2891",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.7",
+        "ff%fourseam fastball %": "35.8",
         "si%sinker %": "13.8",
         "fc%cutter %": "7.7",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "9.2",
+        "ch%changeup %": "9.1",
         "sl%slider %": "22.1",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "202",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "38",
-        "brl%barrel %": "7.5",
-        "ab": "663",
+        "brl%barrel %": "7.4",
+        "ab": "665",
         "avg": ".250",
         "h": "166",
         "1b": "98",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "28",
         "so": "164",
-        "bipballs in play": "509",
+        "bipballs in play": "511",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-07-11 22:09:03.887631"
+        "updated": "2025-07-11 22:09:14.471283"
     },
     "cle @ chw": [
         {
@@ -7291,6 +7291,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "brandon nimmo",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-11 22:09:12",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyrone taylor",
             "game": "nym @ kc",
             "hr/park": "",
@@ -7577,6 +7592,21 @@
         }
     ],
     "tex @ hou": [
+        {
+            "player": "victor caratini",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-11 22:09:12",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "90.2",
+            "la": "60",
+            "dist": "219"
+        },
         {
             "player": "josh smith",
             "game": "tex @ hou",
@@ -11245,9 +11275,9 @@
             "start": "10:05 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "80.9",
+            "la": "-72",
+            "dist": "1"
         }
     ],
     "lad @ sf": []
