@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "151",
-        "pitches": "1292",
+        "batters": "154",
+        "pitches": "1305",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "29.4",
-        "si%sinker %": "17.3",
-        "fc%cutter %": "10.6",
+        "ff%fourseam fastball %": "29.6",
+        "si%sinker %": "17.1",
+        "fc%cutter %": "10.7",
         "fs%splitter %": "3.4",
         "ch%changeup %": "8.6",
         "sl%slider %": "18.5",
         "cu%curve %": "12.2",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "87",
-        "hh%hard hit %": "37.0",
+        "hh%hard hit %": "36.9",
         "brlbarrels": "25",
         "brl%barrel %": "10.6",
-        "ab": "302",
-        "avg": ".245",
+        "ab": "305",
+        "avg": ".243",
         "h": "74",
         "1b": "42",
         "2b": "15",
         "3b": "2",
         "hr": "15",
         "so": "71",
-        "bipballs in play": "235",
+        "bipballs in play": "236",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:35:37.424597"
+        "updated": "2025-07-12 16:35:45.865404"
     },
     "chc @ nyy": [
         {
@@ -1108,7 +1108,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3895,6 +3895,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "jung hoo lee",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-12 16:35:40",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "willy adames",
             "game": "lad @ sf",
             "hr/park": "",
@@ -4116,7 +4131,7 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "91.1",
             "la": "78",
             "dist": "76"
@@ -4333,6 +4348,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "spencer steer",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-12 16:35:40",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brenton doyle",
             "game": "col @ cin",
@@ -4653,6 +4683,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "trevor story",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-12 16:35:40",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masataka yoshida",
             "game": "tb @ bos",
             "hr/park": "",
@@ -4662,10 +4707,10 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "88.7",
+            "la": "-25",
+            "dist": "7"
         },
         {
             "player": "danny jansen",
