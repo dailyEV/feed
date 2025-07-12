@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "35",
         "batters": "166",
-        "pitches": "1449",
+        "pitches": "1454",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "39.1",
-        "si%sinker %": "12.6",
-        "fc%cutter %": "7.0",
+        "ff%fourseam fastball %": "38.9",
+        "si%sinker %": "12.5",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "17.8",
+        "ch%changeup %": "10.7",
+        "sl%slider %": "17.9",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "101",
         "hh%hard hit %": "39.8",
         "brlbarrels": "16",
         "brl%barrel %": "6.3",
-        "ab": "335",
-        "avg": ".227",
+        "ab": "336",
+        "avg": ".226",
         "h": "76",
         "1b": "48",
         "2b": "14",
         "3b": "3",
         "hr": "11",
-        "so": "82",
+        "so": "84",
         "bipballs in play": "254",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:51:04.495052"
+        "updated": "2025-07-11 20:51:13.239833"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "daniel schneemann",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-11 20:51:13",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "angel martinez",
             "game": "cle-gm2 @ chw-gm2",
@@ -2674,7 +2689,7 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4766,7 +4781,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5432,7 +5447,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "Caught Stealing 2B",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
