@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "43",
         "batters": "185",
-        "pitches": "1851",
+        "pitches": "1858",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.9",
         "si%sinker %": "13.3",
-        "fc%cutter %": "6.8",
+        "fc%cutter %": "6.7",
         "fs%splitter %": "1.9",
         "ch%changeup %": "10.0",
-        "sl%slider %": "20.2",
-        "cu%curve %": "10.9",
+        "sl%slider %": "20.3",
+        "cu%curve %": "10.8",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "131",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "20",
-        "brl%barrel %": "6.2",
-        "ab": "426",
-        "avg": ".249",
+        "brl%barrel %": "6.1",
+        "ab": "428",
+        "avg": ".248",
         "h": "106",
         "1b": "69",
         "2b": "19",
         "3b": "4",
         "hr": "14",
         "so": "106",
-        "bipballs in play": "325",
+        "bipballs in play": "326",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:12:35.866983"
+        "updated": "2025-07-11 21:12:45.059806"
     },
     "cle @ chw": [
         {
@@ -1280,6 +1280,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "javier sanoja",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-11 21:12:41",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "connor norby",
             "game": "mia @ bal",
@@ -4814,6 +4829,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "marcelo mayer",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-07-11 21:12:41",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor story",
             "game": "tb @ bos",
             "hr/park": "",
@@ -6255,10 +6285,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.5",
+            "la": "38",
+            "dist": "298"
         },
         {
             "player": "caleb durbin",
