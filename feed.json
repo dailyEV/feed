@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "33",
-        "batters": "161",
-        "pitches": "1362",
+        "pitchers": "34",
+        "batters": "162",
+        "pitches": "1367",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "39.6",
-        "si%sinker %": "11.7",
+        "ff%fourseam fastball %": "39.9",
+        "si%sinker %": "11.8",
         "fc%cutter %": "7.2",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "17.9",
-        "cu%curve %": "11.1",
+        "ch%changeup %": "10.7",
+        "sl%slider %": "17.8",
+        "cu%curve %": "11.0",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "97",
         "hh%hard hit %": "40.4",
         "brlbarrels": "16",
         "brl%barrel %": "6.7",
-        "ab": "314",
-        "avg": ".236",
+        "ab": "316",
+        "avg": ".234",
         "h": "74",
         "1b": "47",
         "2b": "13",
         "3b": "3",
         "hr": "11",
-        "so": "77",
+        "so": "78",
         "bipballs in play": "240",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:45:52.509279"
+        "updated": "2025-07-11 20:46:01.337294"
     },
     "cle @ chw": [
         {
@@ -1817,7 +1817,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3297,19 +3297,34 @@
     ],
     "sea @ det": [
         {
-            "player": "gleyber torres",
+            "player": "randy arozarena",
             "game": "sea @ det",
             "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-11 20:45:56",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "gleyber torres",
+            "game": "sea @ det",
+            "hr/park": "0/30",
             "pa": "41",
             "dt": "2025-07-11 20:41:27",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.7",
+            "la": "28",
+            "dist": "337"
         },
         {
             "player": "colt keith",
@@ -4527,9 +4542,9 @@
             "start": "8:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "88.8",
-            "la": "-7",
-            "dist": "23"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "victor caratini",
@@ -4713,6 +4728,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "kebryan hayes",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-11 20:45:56",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "oneil cruz",
             "game": "pit @ min",
