@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "57",
         "batters": "203",
-        "pitches": "2256",
+        "pitches": "2268",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "31.0",
-        "si%sinker %": "15.9",
-        "fc%cutter %": "10.3",
+        "ff%fourseam fastball %": "31.1",
+        "si%sinker %": "15.8",
+        "fc%cutter %": "10.2",
         "fs%splitter %": "2.8",
-        "ch%changeup %": "8.9",
-        "sl%slider %": "19.7",
+        "ch%changeup %": "8.8",
+        "sl%slider %": "19.8",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "167",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "33",
-        "brl%barrel %": "8.0",
-        "ab": "540",
-        "avg": ".235",
-        "h": "127",
+        "brl%barrel %": "7.9",
+        "ab": "543",
+        "avg": ".236",
+        "h": "128",
         "1b": "79",
-        "2b": "24",
+        "2b": "25",
         "3b": "3",
         "hr": "21",
         "so": "134",
-        "bipballs in play": "414",
+        "bipballs in play": "418",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:36:49.973583"
+        "updated": "2025-07-12 17:36:59.666088"
     },
     "chc @ nyy": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "sea @ det": [
         {
+            "player": "wenceel perez",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "82",
+            "dt": "2025-07-12 17:36:56",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "93.2",
+            "la": "-20",
+            "dist": "8"
+        },
+        {
             "player": "gleyber torres",
             "game": "sea @ det",
             "hr/park": "",
@@ -1108,10 +1123,10 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "63.8",
+            "la": "19",
+            "dist": "158"
         },
         {
             "player": "colt keith",
@@ -4684,7 +4699,7 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5436,10 +5451,10 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "84.8",
+            "la": "-4",
+            "dist": "24"
         },
         {
             "player": "jackson holliday",
@@ -6691,6 +6706,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "francisco lindor",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-12 17:36:10",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "john rave",
             "game": "nym @ kc",
             "hr/park": "",
@@ -7233,6 +7263,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "ceddanne rafaela",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-12 17:36:56",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jarren duran",
             "game": "tb @ bos",
             "hr/park": "",
@@ -7242,10 +7287,10 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "92.7",
+            "la": "-26",
+            "dist": "5"
         },
         {
             "player": "jake mangum",
