@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "38",
         "batters": "179",
-        "pitches": "1620",
+        "pitches": "1628",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "37.5",
+        "ff%fourseam fastball %": "37.6",
         "si%sinker %": "12.7",
-        "fc%cutter %": "7.0",
-        "fs%splitter %": "2.2",
+        "fc%cutter %": "6.9",
+        "fs%splitter %": "2.1",
         "ch%changeup %": "10.1",
         "sl%slider %": "19.2",
-        "cu%curve %": "11.3",
+        "cu%curve %": "11.4",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "114",
-        "hh%hard hit %": "39.9",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "18",
         "brl%barrel %": "6.3",
-        "ab": "375",
-        "avg": ".240",
-        "h": "90",
+        "ab": "377",
+        "avg": ".241",
+        "h": "91",
         "1b": "58",
         "2b": "17",
         "3b": "4",
-        "hr": "11",
+        "hr": "12",
         "so": "92",
-        "bipballs in play": "286",
+        "bipballs in play": "287",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:00:38.676273"
+        "updated": "2025-07-11 21:00:47.781949"
     },
     "cle @ chw": [
         {
@@ -1220,6 +1220,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "jackson holliday",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-11 21:00:43",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "liam hicks",
             "game": "mia @ bal",
@@ -2839,10 +2854,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.5",
+            "la": "-7",
+            "dist": "16"
         },
         {
             "player": "tj friedl",
@@ -4379,21 +4394,6 @@
     ],
     "tb @ bos": [
         {
-            "player": "chandler simpson",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "47",
-            "dt": "2025-07-11 21:00:27",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "masataka yoshida",
             "game": "tb @ bos",
             "hr/park": "",
@@ -5541,6 +5541,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "andrew vaughn",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-07-11 21:00:43",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian yelich",
             "game": "wsh @ mil",
             "hr/park": "30/30",
@@ -5550,7 +5565,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "105.1",
             "la": "29",
             "dist": "405"
@@ -5932,6 +5947,21 @@
         }
     ],
     "atl @ stl": [
+        {
+            "player": "masyn winn",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-07-11 21:00:43",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brendan donovan",
             "game": "atl @ stl",
