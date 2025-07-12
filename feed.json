@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "105",
+        "pitchers": "106",
         "batters": "294",
-        "pitches": "3851",
+        "pitches": "3854",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.0",
@@ -14,10 +14,10 @@
         "cu%curve %": "8.4",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "259",
-        "hh%hard hit %": "38.2",
+        "hh%hard hit %": "38.1",
         "brlbarrels": "51",
         "brl%barrel %": "7.5",
-        "ab": "884",
+        "ab": "886",
         "avg": ".242",
         "h": "214",
         "1b": "132",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "33",
         "so": "227",
-        "bipballs in play": "678",
+        "bipballs in play": "679",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:08:15.421842"
+        "updated": "2025-07-11 23:08:28.094167"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "8",
-            "result": "Walk",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8412,7 +8412,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "9",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11664,6 +11664,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "sean murphy",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "78",
+            "dt": "2025-07-11 23:08:28",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "73.8",
+            "la": "70",
+            "dist": "100"
+        },
+        {
             "player": "luke williams",
             "game": "atl @ stl",
             "hr/park": "",
@@ -13462,7 +13477,7 @@
             "team": "phi",
             "start": "9:40 PM",
             "in": "6",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "105.1",
             "la": "-7",
             "dist": "20"
@@ -14100,6 +14115,21 @@
     ],
     "tor @ ath": [
         {
+            "player": "shea langeliers",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-11 23:08:28",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick kurtz",
             "game": "tor @ ath",
             "hr/park": "",
@@ -14109,7 +14139,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
