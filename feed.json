@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "71",
-        "batters": "223",
-        "pitches": "2664",
+        "batters": "224",
+        "pitches": "2668",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "35.8",
-        "si%sinker %": "13.8",
+        "ff%fourseam fastball %": "35.9",
+        "si%sinker %": "13.7",
         "fc%cutter %": "7.5",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.4",
         "sl%slider %": "22.2",
-        "cu%curve %": "9.2",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "182",
-        "hh%hard hit %": "39.1",
-        "brlbarrels": "32",
-        "brl%barrel %": "6.9",
-        "ab": "611",
-        "avg": ".249",
-        "h": "152",
+        "hhhard hit": "184",
+        "hh%hard hit %": "39.3",
+        "brlbarrels": "33",
+        "brl%barrel %": "7.1",
+        "ab": "610",
+        "avg": ".248",
+        "h": "151",
         "1b": "90",
         "2b": "35",
-        "3b": "5",
+        "3b": "4",
         "hr": "22",
         "so": "151",
-        "bipballs in play": "466",
+        "bipballs in play": "468",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:56:17.193155"
+        "updated": "2025-07-11 21:56:27.651455"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Triple",
+            "result": "In Progress",
             "evo": "74.3",
             "la": "6",
             "dist": "74"
@@ -7248,36 +7248,6 @@
     ],
     "tex @ hou": [
         {
-            "player": "cam smith",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "45",
-            "dt": "2025-07-11 21:55:59",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "isaac paredes",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-07-11 21:54:42",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "Flyout",
-            "evo": "73.7",
-            "la": "44",
-            "dist": "235"
-        },
-        {
             "player": "taylor trammell",
             "game": "tex @ hou",
             "hr/park": "0/30",
@@ -7925,6 +7895,21 @@
     ],
     "pit @ min": [
         {
+            "player": "christian vazquez",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-11 21:56:27",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Pop Out",
+            "evo": "56.9",
+            "la": "56",
+            "dist": "128"
+        },
+        {
             "player": "kody clemens",
             "game": "pit @ min",
             "hr/park": "",
@@ -8522,9 +8507,9 @@
             "start": "8:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "102.4",
+            "la": "35",
+            "dist": "397"
         },
         {
             "player": "jackson chourio",
@@ -10091,11 +10076,11 @@
     ],
     "ari @ laa": [
         {
-            "player": "taylor ward",
+            "player": "jo adell",
             "game": "ari @ laa",
             "hr/park": "",
-            "pa": "7",
-            "dt": "2025-07-11 21:53:57",
+            "pa": "8",
+            "dt": "2025-07-11 21:56:27",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "start": "9:38 PM",
@@ -10104,6 +10089,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "taylor ward",
+            "game": "ari @ laa",
+            "hr/park": "0/30",
+            "pa": "7",
+            "dt": "2025-07-11 21:53:57",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "Sac Fly",
+            "evo": "95.3",
+            "la": "37",
+            "dist": "337"
         },
         {
             "player": "mike trout",
