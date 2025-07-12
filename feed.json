@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "45",
         "batters": "183",
-        "pitches": "1484",
-        "max velomax pitch velocity": "102.5",
+        "pitches": "1492",
+        "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "30.1",
+        "ff%fourseam fastball %": "30.3",
         "si%sinker %": "16.5",
-        "fc%cutter %": "10.6",
+        "fc%cutter %": "10.7",
         "fs%splitter %": "3.3",
         "ch%changeup %": "8.2",
-        "sl%slider %": "18.9",
+        "sl%slider %": "18.6",
         "cu%curve %": "12.3",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "101",
-        "hh%hard hit %": "37.7",
+        "hh%hard hit %": "37.4",
         "brlbarrels": "27",
-        "brl%barrel %": "10.1",
-        "ab": "348",
-        "avg": ".236",
-        "h": "82",
-        "1b": "49",
+        "brl%barrel %": "10.0",
+        "ab": "350",
+        "avg": ".231",
+        "h": "81",
+        "1b": "48",
         "2b": "15",
         "3b": "2",
         "hr": "16",
         "so": "84",
-        "bipballs in play": "268",
+        "bipballs in play": "270",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:46:07.303928"
+        "updated": "2025-07-12 16:46:15.973198"
     },
     "chc @ nyy": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "sea @ det": [
         {
+            "player": "trey sweeney",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-07-12 16:46:10",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt vierling",
             "game": "sea @ det",
             "hr/park": "",
@@ -1108,7 +1123,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "103.4",
             "la": "-4",
             "dist": "21"
@@ -1965,7 +1980,7 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "8",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "88.6",
             "la": "10",
             "dist": "174"
@@ -3048,9 +3063,9 @@
             "start": "2:15 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "86.4",
+            "la": "-7",
+            "dist": "16"
         },
         {
             "player": "drake baldwin",
@@ -4119,6 +4134,21 @@
         }
     ],
     "lad @ sf": [
+        {
+            "player": "mike yastrzemski",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-12 16:46:10",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "patrick bailey",
             "game": "lad @ sf",
@@ -5248,9 +5278,9 @@
             "start": "4:10 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "62.5",
+            "la": "-12",
+            "dist": "14"
         },
         {
             "player": "yandy diaz",
