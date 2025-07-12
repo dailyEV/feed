@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "19",
         "batters": "112",
-        "pitches": "723",
+        "pitches": "728",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "43.2",
+        "ff%fourseam fastball %": "43.3",
         "si%sinker %": "10.2",
         "fc%cutter %": "8.0",
         "fs%splitter %": "1.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.4",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "52",
-        "hh%hard hit %": "40.6",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "9",
         "brl%barrel %": "7.0",
-        "ab": "169",
-        "avg": ".225",
+        "ab": "171",
+        "avg": ".222",
         "h": "38",
         "1b": "23",
         "2b": "7",
         "3b": "2",
         "hr": "6",
         "so": "43",
-        "bipballs in play": "128",
+        "bipballs in play": "129",
         "liveGames": 6,
         "totGames": 16,
-        "updated": "2025-07-11 20:01:40.066390"
+        "updated": "2025-07-11 20:01:48.010555"
     },
     "cle @ chw": [
         {
@@ -995,6 +995,21 @@
     "cle-gm2 @ chw-gm2": [],
     "mia @ bal": [
         {
+            "player": "otto lopez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-11 20:01:42",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler oneill",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1794,6 +1809,21 @@
     ],
     "col @ cin": [
         {
+            "player": "michael toglia",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-07-11 20:01:42",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin hays",
             "game": "col @ cin",
             "hr/park": "",
@@ -2542,10 +2572,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.9",
+            "la": "46",
+            "dist": "278"
         },
         {
             "player": "ceddanne rafaela",
