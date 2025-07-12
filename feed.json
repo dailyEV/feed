@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "40",
         "batters": "181",
-        "pitches": "1684",
+        "pitches": "1687",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "37.6",
+        "ff%fourseam fastball %": "37.5",
         "si%sinker %": "12.6",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "9.7",
+        "ch%changeup %": "9.8",
         "sl%slider %": "19.6",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "117",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "18",
         "brl%barrel %": "6.1",
-        "ab": "389",
+        "ab": "390",
         "avg": ".244",
         "h": "95",
         "1b": "61",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "12",
         "so": "93",
-        "bipballs in play": "296",
+        "bipballs in play": "297",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:03:18.196005"
+        "updated": "2025-07-11 21:03:27.650880"
     },
     "cle @ chw": [
         {
@@ -1236,6 +1236,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "gunnar henderson",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-11 21:03:27",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan westburg",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1245,10 +1260,10 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "76.0",
+            "la": "-11",
+            "dist": "13"
         },
         {
             "player": "jackson holliday",
@@ -2057,7 +2072,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "7",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "107.8",
             "la": "-1",
             "dist": "37"
