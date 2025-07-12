@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "33",
         "batters": "160",
-        "pitches": "1348",
+        "pitches": "1354",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "39.8",
-        "si%sinker %": "11.6",
+        "ff%fourseam fastball %": "39.7",
+        "si%sinker %": "11.7",
         "fc%cutter %": "7.2",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "17.8",
-        "cu%curve %": "11.1",
-        "max evmax exit velocity": "114.2",
-        "hhhard hit": "95",
-        "hh%hard hit %": "40.1",
+        "ch%changeup %": "10.7",
+        "sl%slider %": "17.9",
+        "cu%curve %": "11.2",
+        "max evmax exit velocity": "115.3",
+        "hhhard hit": "97",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "16",
-        "brl%barrel %": "6.8",
+        "brl%barrel %": "6.7",
         "ab": "312",
         "avg": ".234",
         "h": "73",
@@ -24,11 +24,11 @@
         "2b": "13",
         "3b": "3",
         "hr": "11",
-        "so": "75",
-        "bipballs in play": "237",
+        "so": "76",
+        "bipballs in play": "239",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:44:33.494570"
+        "updated": "2025-07-11 20:44:42.234062"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2539,7 +2539,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3276,10 +3276,10 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Flyout",
-            "evo": "89.7",
-            "la": "28",
-            "dist": "337"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "colt keith",
@@ -3893,7 +3893,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Double Play",
             "evo": "93.9",
             "la": "6",
             "dist": "127"
@@ -4694,9 +4694,9 @@
             "start": "8:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "115.3",
+            "la": "-16",
+            "dist": "9"
         },
         {
             "player": "nick gonzales",
@@ -4760,6 +4760,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "nathaniel lowe",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-11 20:44:42",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "97.6",
+            "la": "39",
+            "dist": "349"
+        },
         {
             "player": "josh bell",
             "game": "wsh @ mil",
@@ -5057,10 +5072,10 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "62.8",
+            "la": "60",
+            "dist": "151"
         },
         {
             "player": "nolan arenado",
