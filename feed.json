@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "47",
-        "batters": "186",
-        "pitches": "1971",
+        "batters": "187",
+        "pitches": "1980",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.5",
-        "si%sinker %": "13.3",
-        "fc%cutter %": "6.9",
+        "si%sinker %": "13.4",
+        "fc%cutter %": "7.0",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "9.9",
-        "sl%slider %": "20.9",
+        "ch%changeup %": "9.8",
+        "sl%slider %": "21.0",
         "cu%curve %": "10.5",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "140",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "23",
         "brl%barrel %": "6.6",
-        "ab": "450",
-        "avg": ".251",
+        "ab": "455",
+        "avg": ".248",
         "h": "113",
         "1b": "73",
         "2b": "21",
         "3b": "4",
         "hr": "15",
         "so": "110",
-        "bipballs in play": "347",
+        "bipballs in play": "348",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:19:38.362048"
+        "updated": "2025-07-11 21:19:47.960076"
     },
     "cle @ chw": [
         {
@@ -1326,6 +1326,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "cedric mullins",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-11 21:19:43",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler oneill",
             "game": "mia @ bal",
             "hr/park": "",
@@ -2257,6 +2272,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "kyle tucker",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-11 21:19:43",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nico hoerner",
             "game": "chc @ nyy",
@@ -3229,7 +3259,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6274,6 +6304,21 @@
     ],
     "pit @ min": [
         {
+            "player": "kody clemens",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-11 21:19:43",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "85.3",
+            "la": "58",
+            "dist": "209"
+        },
+        {
             "player": "royce lewis",
             "game": "pit @ min",
             "hr/park": "",
@@ -6590,6 +6635,36 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "riley adams",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-07-11 21:19:43",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "daylen lile",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-11 21:18:27",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "75.5",
+            "la": "13",
+            "dist": "165"
+        },
         {
             "player": "jackson chourio",
             "game": "wsh @ mil",
@@ -7157,10 +7232,10 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "3",
-            "result": "Double Play",
-            "evo": "91.8",
-            "la": "50",
-            "dist": "268"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nick allen",
