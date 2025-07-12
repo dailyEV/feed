@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "39",
+        "pitchers": "38",
         "batters": "180",
-        "pitches": "1636",
+        "pitches": "1647",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "37.6",
+        "ff%fourseam fastball %": "37.5",
         "si%sinker %": "12.8",
         "fc%cutter %": "6.9",
         "fs%splitter %": "2.2",
         "ch%changeup %": "10.0",
-        "sl%slider %": "19.1",
+        "sl%slider %": "19.2",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "114",
-        "hh%hard hit %": "39.3",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "18",
         "brl%barrel %": "6.2",
-        "ab": "378",
-        "avg": ".243",
-        "h": "92",
-        "1b": "58",
+        "ab": "381",
+        "avg": ".247",
+        "h": "94",
+        "1b": "60",
         "2b": "18",
         "3b": "4",
         "hr": "12",
         "so": "92",
-        "bipballs in play": "290",
+        "bipballs in play": "291",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:01:35.250167"
+        "updated": "2025-07-11 21:01:44.645565"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "josh rojas",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-11 21:01:43",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "colson montgomery",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1003,7 +1018,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1220,21 +1235,6 @@
         }
     ],
     "mia @ bal": [
-        {
-            "player": "jackson holliday",
-            "game": "mia @ bal",
-            "hr/park": "",
-            "pa": "53",
-            "dt": "2025-07-11 21:00:43",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "7:05 PM",
-            "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "liam hicks",
             "game": "mia @ bal",
@@ -2017,6 +2017,36 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "jazz chisholm",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-07-11 21:01:43",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "ben rice",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-11 20:59:12",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "Single",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cody bellinger",
             "game": "chc @ nyy",
@@ -2829,6 +2859,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "austin hays",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-11 21:01:43",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt mclain",
             "game": "col @ cin",
@@ -5555,6 +5600,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "isaac collins",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-11 21:01:43",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andrew vaughn",
             "game": "wsh @ mil",
