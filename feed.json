@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "36",
-        "batters": "168",
-        "pitches": "1474",
+        "batters": "169",
+        "pitches": "1481",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "38.5",
-        "si%sinker %": "12.8",
-        "fc%cutter %": "7.1",
+        "si%sinker %": "13.0",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.5",
-        "sl%slider %": "18.1",
-        "cu%curve %": "11.2",
+        "sl%slider %": "18.2",
+        "cu%curve %": "11.1",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "103",
-        "hh%hard hit %": "40.1",
+        "hhhard hit": "102",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "16",
         "brl%barrel %": "6.2",
         "ab": "339",
         "avg": ".227",
         "h": "77",
-        "1b": "48",
-        "2b": "15",
+        "1b": "49",
+        "2b": "14",
         "3b": "3",
         "hr": "11",
         "so": "84",
-        "bipballs in play": "257",
+        "bipballs in play": "258",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:52:25.419949"
+        "updated": "2025-07-11 20:52:34.370912"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "will wilson",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-11 20:52:28",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Passed Ball",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "daniel schneemann",
             "game": "cle-gm2 @ chw-gm2",
@@ -3487,9 +3502,9 @@
             "start": "7:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "90.1",
+            "la": "-16",
+            "dist": "7"
         },
         {
             "player": "jorge polanco",
@@ -4811,7 +4826,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5145,10 +5160,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "67.3",
+            "la": "38",
+            "dist": "219"
         },
         {
             "player": "caleb durbin",
@@ -5477,10 +5492,10 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "2",
-            "result": "Double",
-            "evo": "104.7",
-            "la": "12",
-            "dist": "252"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nick allen",
