@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "89",
-        "batters": "272",
-        "pitches": "3241",
+        "batters": "273",
+        "pitches": "3251",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.1",
+        "ff%fourseam fastball %": "35.2",
         "si%sinker %": "14.6",
         "fc%cutter %": "8.3",
         "fs%splitter %": "2.1",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.7",
         "brlbarrels": "44",
         "brl%barrel %": "7.7",
-        "ab": "743",
+        "ab": "744",
         "avg": ".253",
         "h": "188",
         "1b": "112",
         "2b": "40",
         "3b": "5",
         "hr": "31",
-        "so": "185",
+        "so": "186",
         "bipballs in play": "575",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:28:54.977857"
+        "updated": "2025-07-11 22:29:06.153981"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7456,6 +7456,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "maikel garcia",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-07-11 22:28:28",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "nym @ kc",
             "hr/park": "",
@@ -11978,9 +11993,9 @@
             "start": "9:40 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "44.5",
-            "la": "52",
-            "dist": "102"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "manny machado",
@@ -12345,6 +12360,21 @@
     ],
     "tor @ ath": [
         {
+            "player": "myles straw",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-11 22:28:58",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "10:05 PM",
+            "in": "2",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ernie clement",
             "game": "tor @ ath",
             "hr/park": "",
@@ -12536,10 +12566,10 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "88.2",
+            "la": "36",
+            "dist": "321"
         },
         {
             "player": "mike yastrzemski",
