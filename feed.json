@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "50",
         "batters": "201",
-        "pitches": "1889",
+        "pitches": "1893",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.3",
@@ -14,9 +14,9 @@
         "cu%curve %": "11.9",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "135",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "30",
-        "brl%barrel %": "8.8",
+        "brl%barrel %": "8.7",
         "ab": "448",
         "avg": ".237",
         "h": "106",
@@ -24,11 +24,11 @@
         "2b": "20",
         "3b": "3",
         "hr": "19",
-        "so": "110",
-        "bipballs in play": "342",
+        "so": "111",
+        "bipballs in play": "343",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:09:17.180418"
+        "updated": "2025-07-12 17:09:26.574210"
     },
     "chc @ nyy": [
         {
@@ -5016,7 +5016,7 @@
             "team": "mia",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6303,6 +6303,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "danny jansen",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-12 17:09:24",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "curtis mead",
             "game": "tb @ bos",
             "hr/park": "",
@@ -6312,10 +6327,10 @@
             "team": "tb",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "59.3",
+            "la": "-5",
+            "dist": "13"
         },
         {
             "player": "christopher morel",
@@ -6764,7 +6779,7 @@
             "team": "chw",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
