@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "53",
         "batters": "203",
-        "pitches": "2092",
+        "pitches": "2098",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.4",
@@ -13,22 +13,22 @@
         "sl%slider %": "19.1",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "113.7",
-        "hhhard hit": "151",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "153",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "32",
         "brl%barrel %": "8.4",
-        "ab": "496",
-        "avg": ".236",
+        "ab": "497",
+        "avg": ".235",
         "h": "117",
         "1b": "71",
         "2b": "23",
         "3b": "3",
         "hr": "20",
         "so": "125",
-        "bipballs in play": "379",
+        "bipballs in play": "382",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:24:52.538705"
+        "updated": "2025-07-12 17:25:02.296431"
     },
     "chc @ nyy": [
         {
@@ -4580,9 +4580,9 @@
             "start": "4:05 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "92.4",
+            "la": "15",
+            "dist": "231"
         },
         {
             "player": "andy pages",
@@ -5759,6 +5759,21 @@
     ],
     "col @ cin": [
         {
+            "player": "tj friedl",
+            "game": "col @ cin",
+            "hr/park": "0/30",
+            "pa": "38",
+            "dt": "2025-07-12 17:24:55",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "97.2",
+            "la": "27",
+            "dist": "378"
+        },
+        {
             "player": "noelvi marte",
             "game": "col @ cin",
             "hr/park": "",
@@ -5768,10 +5783,10 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "102.6",
+            "la": "-11",
+            "dist": "11"
         },
         {
             "player": "jose trevino",
@@ -6325,7 +6340,7 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
