@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "90",
-        "batters": "273",
-        "pitches": "3259",
+        "pitchers": "89",
+        "batters": "274",
+        "pitches": "3265",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.1",
+        "ff%fourseam fastball %": "35.2",
         "si%sinker %": "14.6",
         "fc%cutter %": "8.3",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "9.4",
+        "ch%changeup %": "9.3",
         "sl%slider %": "21.6",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "228",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "44",
         "brl%barrel %": "7.6",
         "ab": "748",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "31",
         "so": "186",
-        "bipballs in play": "577",
+        "bipballs in play": "579",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:30:04.104408"
+        "updated": "2025-07-11 22:30:15.952387"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7465,10 +7465,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "94.5",
+            "la": "-32",
+            "dist": "5"
         },
         {
             "player": "vinnie pasquantino",
@@ -7862,21 +7862,6 @@
         }
     ],
     "tex @ hou": [
-        {
-            "player": "taylor trammell",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "60",
-            "dt": "2025-07-11 22:29:57",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "evan carter",
             "game": "tex @ hou",
@@ -10674,6 +10659,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "alec burleson",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-11 22:30:13",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "drake baldwin",
             "game": "atl @ stl",
             "hr/park": "",
@@ -12601,6 +12601,21 @@
         }
     ],
     "lad @ sf": [
+        {
+            "player": "rafael devers",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-11 22:30:14",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "10:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "75.1",
+            "la": "66",
+            "dist": "148"
+        },
         {
             "player": "heliot ramos",
             "game": "lad @ sf",
