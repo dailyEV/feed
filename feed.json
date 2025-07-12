@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "102",
         "batters": "294",
-        "pitches": "3721",
+        "pitches": "3732",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "34.7",
+        "ff%fourseam fastball %": "34.8",
         "si%sinker %": "14.3",
-        "fc%cutter %": "8.9",
+        "fc%cutter %": "8.8",
         "fs%splitter %": "2.8",
-        "ch%changeup %": "9.4",
+        "ch%changeup %": "9.3",
         "sl%slider %": "21.2",
         "cu%curve %": "8.5",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "251",
-        "hh%hard hit %": "38.3",
-        "brlbarrels": "47",
-        "brl%barrel %": "7.2",
+        "hhhard hit": "253",
+        "hh%hard hit %": "38.4",
+        "brlbarrels": "49",
+        "brl%barrel %": "7.4",
         "ab": "854",
-        "avg": ".242",
-        "h": "207",
-        "1b": "127",
-        "2b": "42",
+        "avg": ".245",
+        "h": "209",
+        "1b": "128",
+        "2b": "43",
         "3b": "5",
         "hr": "33",
-        "so": "216",
-        "bipballs in play": "655",
+        "so": "217",
+        "bipballs in play": "659",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:59:18.489426"
+        "updated": "2025-07-11 22:59:30.478880"
     },
     "cle @ chw": [
         {
@@ -7651,6 +7651,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "pete alonso",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-11 22:59:28",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "juan soto",
             "game": "nym @ kc",
             "hr/park": "",
@@ -7660,7 +7675,7 @@
             "team": "nym",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11478,10 +11493,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "99.7",
+            "la": "27",
+            "dist": "366"
         },
         {
             "player": "victor scott",
@@ -12590,10 +12605,10 @@
             "team": "ari",
             "start": "9:38 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "80.7",
+            "la": "18",
+            "dist": "221"
         },
         {
             "player": "ketel marte",
@@ -13734,7 +13749,7 @@
             "team": "tor",
             "start": "10:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14126,10 +14141,10 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "104.3",
+            "la": "22",
+            "dist": "377"
         },
         {
             "player": "patrick bailey",
