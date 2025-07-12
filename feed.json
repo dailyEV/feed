@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "35",
         "batters": "166",
-        "pitches": "1454",
+        "pitches": "1457",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "38.9",
-        "si%sinker %": "12.5",
-        "fc%cutter %": "7.2",
+        "ff%fourseam fastball %": "38.8",
+        "si%sinker %": "12.8",
+        "fc%cutter %": "7.0",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "10.7",
-        "sl%slider %": "17.9",
+        "ch%changeup %": "10.6",
+        "sl%slider %": "18.0",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "101",
@@ -24,11 +24,11 @@
         "2b": "14",
         "3b": "3",
         "hr": "11",
-        "so": "84",
+        "so": "83",
         "bipballs in play": "254",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:51:22.480693"
+        "updated": "2025-07-11 20:51:31.329729"
     },
     "cle @ chw": [
         {
@@ -993,21 +993,6 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
-        {
-            "player": "daniel schneemann",
-            "game": "cle-gm2 @ chw-gm2",
-            "hr/park": "",
-            "pa": "11",
-            "dt": "2025-07-11 20:51:13",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "8:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "angel martinez",
             "game": "cle-gm2 @ chw-gm2",
@@ -3462,9 +3447,24 @@
     ],
     "sea @ det": [
         {
-            "player": "jorge polanco",
+            "player": "donovan solano",
             "game": "sea @ det",
             "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-11 20:51:26",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jorge polanco",
+            "game": "sea @ det",
+            "hr/park": "0/30",
             "pa": "44",
             "dt": "2025-07-11 20:49:42",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
@@ -4781,7 +4781,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5447,7 +5447,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
