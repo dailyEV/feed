@@ -1,15 +1,15 @@
 {
     "all": {
-        "pitchers": "82",
-        "batters": "260",
-        "pitches": "3031",
+        "pitchers": "83",
+        "batters": "262",
+        "pitches": "3037",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.3",
-        "si%sinker %": "14.1",
-        "fc%cutter %": "8.1",
+        "ff%fourseam fastball %": "35.4",
+        "si%sinker %": "14.2",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "9.5",
+        "ch%changeup %": "9.4",
         "sl%slider %": "21.8",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "115.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "40.0",
         "brlbarrels": "41",
         "brl%barrel %": "7.6",
-        "ab": "698",
-        "avg": ".255",
-        "h": "178",
-        "1b": "104",
+        "ab": "700",
+        "avg": ".256",
+        "h": "179",
+        "1b": "105",
         "2b": "40",
         "3b": "5",
         "hr": "29",
-        "so": "175",
-        "bipballs in play": "537",
+        "so": "174",
+        "bipballs in play": "538",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:17:18.255081"
+        "updated": "2025-07-11 22:17:29.558885"
     },
     "cle @ chw": [
         {
@@ -8579,7 +8579,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11195,10 +11195,10 @@
             "team": "ari",
             "start": "9:38 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "61.3",
+            "la": "32",
+            "dist": "177"
         },
         {
             "player": "jose herrera",
@@ -11774,6 +11774,21 @@
         }
     ],
     "tor @ ath": [
+        {
+            "player": "nick kurtz",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-11 22:17:27",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brent rooker",
             "game": "tor @ ath",
