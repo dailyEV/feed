@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "35",
-        "batters": "165",
-        "pitches": "1436",
+        "batters": "166",
+        "pitches": "1442",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "39.1",
-        "si%sinker %": "12.5",
+        "ff%fourseam fastball %": "39.0",
+        "si%sinker %": "12.6",
         "fc%cutter %": "7.0",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "10.5",
-        "sl%slider %": "18.0",
+        "ch%changeup %": "10.6",
+        "sl%slider %": "17.9",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "100",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "16",
-        "brl%barrel %": "6.4",
-        "ab": "332",
-        "avg": ".229",
+        "brl%barrel %": "6.3",
+        "ab": "334",
+        "avg": ".228",
         "h": "76",
         "1b": "48",
         "2b": "14",
         "3b": "3",
         "hr": "11",
-        "so": "83",
-        "bipballs in play": "251",
+        "so": "82",
+        "bipballs in play": "253",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:50:37.987331"
+        "updated": "2025-07-11 20:50:46.747405"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "angel martinez",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-11 20:49:57",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "85.9",
+            "la": "48",
+            "dist": "223"
+        },
+        {
             "player": "kyle teel",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1163,7 +1178,7 @@
         {
             "player": "tyler oneill",
             "game": "mia @ bal",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "46",
             "dt": "2025-07-11 20:46:57",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
@@ -4727,6 +4742,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "kyle higashioka",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-11 20:50:42",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonah heim",
             "game": "tex @ hou",
             "hr/park": "",
@@ -4736,10 +4766,10 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "65.5",
+            "la": "77",
+            "dist": "51"
         },
         {
             "player": "yainer diaz",
@@ -5387,7 +5417,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
