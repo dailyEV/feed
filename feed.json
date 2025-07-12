@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "103",
         "batters": "294",
-        "pitches": "3793",
+        "pitches": "3801",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.7",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.8",
         "fs%splitter %": "2.7",
         "ch%changeup %": "9.4",
-        "sl%slider %": "21.2",
+        "sl%slider %": "21.3",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "257",
-        "hh%hard hit %": "38.4",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "51",
         "brl%barrel %": "7.6",
-        "ab": "871",
+        "ab": "872",
         "avg": ".242",
         "h": "211",
         "1b": "129",
         "2b": "44",
         "3b": "5",
         "hr": "33",
-        "so": "221",
-        "bipballs in play": "670",
+        "so": "223",
+        "bipballs in play": "672",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:04:33.907333"
+        "updated": "2025-07-11 23:04:45.603189"
     },
     "cle @ chw": [
         {
@@ -1003,10 +1003,10 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "87.0",
+            "la": "30",
+            "dist": "314"
         },
         {
             "player": "brayan rocchio",
@@ -7681,6 +7681,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "maikel garcia",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-11 23:04:43",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mark vientos",
             "game": "nym @ kc",
             "hr/park": "",
@@ -8352,7 +8367,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11568,7 +11583,7 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14381,10 +14396,10 @@
             "team": "lad",
             "start": "10:15 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "84.1",
+            "la": "37",
+            "dist": "295"
         },
         {
             "player": "heliot ramos",
