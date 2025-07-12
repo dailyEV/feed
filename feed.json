@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "51",
         "batters": "203",
-        "pitches": "2070",
+        "pitches": "2075",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "31.4",
+        "ff%fourseam fastball %": "31.3",
         "si%sinker %": "15.5",
         "fc%cutter %": "10.4",
         "fs%splitter %": "2.9",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.9",
         "sl%slider %": "19.2",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "149",
-        "hh%hard hit %": "39.9",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "32",
-        "brl%barrel %": "8.6",
+        "brl%barrel %": "8.5",
         "ab": "489",
         "avg": ".237",
         "h": "116",
@@ -24,11 +24,11 @@
         "2b": "23",
         "3b": "3",
         "hr": "20",
-        "so": "124",
-        "bipballs in play": "373",
+        "so": "125",
+        "bipballs in play": "375",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:22:47.576320"
+        "updated": "2025-07-12 17:22:57.105023"
     },
     "chc @ nyy": [
         {
@@ -1108,7 +1108,7 @@
             "team": "sea",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5226,7 +5226,7 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "87.1",
             "la": "53",
             "dist": "225"
@@ -5738,10 +5738,10 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "81.3",
+            "la": "-7",
+            "dist": "16"
         },
         {
             "player": "tyler freeman",
@@ -6733,9 +6733,9 @@
             "start": "4:10 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "86.4",
+            "la": "32",
+            "dist": "323"
         },
         {
             "player": "abraham toro",
