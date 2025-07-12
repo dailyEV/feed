@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "53",
-        "batters": "190",
-        "pitches": "2206",
+        "pitchers": "55",
+        "batters": "192",
+        "pitches": "2217",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "36.1",
-        "si%sinker %": "13.2",
+        "ff%fourseam fastball %": "36.3",
+        "si%sinker %": "13.3",
         "fc%cutter %": "7.7",
         "fs%splitter %": "1.8",
         "ch%changeup %": "9.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.7",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "155",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "25",
-        "brl%barrel %": "6.5",
-        "ab": "503",
-        "avg": ".250",
-        "h": "126",
-        "1b": "78",
+        "brl%barrel %": "6.4",
+        "ab": "505",
+        "avg": ".248",
+        "h": "125",
+        "1b": "77",
         "2b": "26",
         "3b": "4",
         "hr": "18",
         "so": "121",
-        "bipballs in play": "387",
+        "bipballs in play": "388",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:32:33.165281"
+        "updated": "2025-07-11 21:32:43.071087"
     },
     "cle @ chw": [
         {
@@ -2410,17 +2410,17 @@
         {
             "player": "jazz chisholm",
             "game": "chc @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "70",
             "dt": "2025-07-11 21:32:13",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "95.6",
+            "la": "23",
+            "dist": "360"
         },
         {
             "player": "ben rice",
@@ -4527,6 +4527,21 @@
     ],
     "sea @ det": [
         {
+            "player": "jahmai jones",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-07-11 21:32:43",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mitch garver",
             "game": "sea @ det",
             "hr/park": "",
@@ -6404,8 +6419,39 @@
             "dist": ""
         }
     ],
-    "nym @ kc": [],
+    "nym @ kc": [
+        {
+            "player": "brandon nimmo",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-11 21:32:43",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "tex @ hou": [
+        {
+            "player": "christian walker",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-11 21:32:43",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "marcus semien",
             "game": "tex @ hou",
@@ -7326,6 +7372,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "brice turang",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-11 21:32:43",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "88.9",
+            "la": "28",
+            "dist": "337"
+        },
+        {
             "player": "isaac collins",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -7335,7 +7396,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7987,21 +8048,6 @@
         }
     ],
     "atl @ stl": [
-        {
-            "player": "pedro pages",
-            "game": "atl @ stl",
-            "hr/park": "",
-            "pa": "36",
-            "dt": "2025-07-11 21:31:27",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "8:15 PM",
-            "in": "3",
-            "result": "Single",
-            "evo": "102.2",
-            "la": "11",
-            "dist": "267"
-        },
         {
             "player": "nolan gorman",
             "game": "atl @ stl",
