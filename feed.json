@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "97",
-        "batters": "224",
-        "pitches": "3115",
+        "batters": "226",
+        "pitches": "3119",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "15.3",
+        "si%sinker %": "15.4",
         "fc%cutter %": "9.7",
         "fs%splitter %": "3.2",
         "ch%changeup %": "9.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.9",
         "brlbarrels": "44",
         "brl%barrel %": "7.5",
-        "ab": "738",
-        "avg": ".240",
+        "ab": "740",
+        "avg": ".239",
         "h": "177",
         "1b": "112",
         "2b": "36",
         "3b": "4",
         "hr": "25",
         "so": "176",
-        "bipballs in play": "588",
+        "bipballs in play": "589",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-12 19:48:20.132656"
+        "updated": "2025-07-12 19:48:31.004331"
     },
     "chc @ nyy": [
         {
@@ -12189,6 +12189,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "jonah heim",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-12 19:48:25",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wyatt langford",
             "game": "tex @ hou",
             "hr/park": "",
@@ -12266,6 +12281,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "manny machado",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-12 19:48:25",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "7:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis arraez",
             "game": "phi @ sd",
             "hr/park": "",
@@ -12275,10 +12305,10 @@
             "team": "sd",
             "start": "7:35 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "83.8",
+            "la": "41",
+            "dist": "289"
         },
         {
             "player": "fernando tatis",
