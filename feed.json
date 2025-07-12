@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "35",
         "batters": "166",
-        "pitches": "1442",
+        "pitches": "1449",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "39.0",
+        "ff%fourseam fastball %": "39.1",
         "si%sinker %": "12.6",
         "fc%cutter %": "7.0",
-        "fs%splitter %": "1.5",
+        "fs%splitter %": "1.6",
         "ch%changeup %": "10.6",
-        "sl%slider %": "17.9",
+        "sl%slider %": "17.8",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "100",
-        "hh%hard hit %": "39.5",
+        "hhhard hit": "101",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "16",
         "brl%barrel %": "6.3",
-        "ab": "334",
-        "avg": ".228",
+        "ab": "335",
+        "avg": ".227",
         "h": "76",
         "1b": "48",
         "2b": "14",
         "3b": "3",
         "hr": "11",
         "so": "82",
-        "bipballs in play": "253",
+        "bipballs in play": "254",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:50:55.799152"
+        "updated": "2025-07-11 20:51:04.495052"
     },
     "cle @ chw": [
         {
@@ -1146,6 +1146,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "agustin ramirez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-11 20:50:13",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob stallings",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1171,9 +1186,9 @@
             "start": "7:05 PM",
             "in": "6",
             "result": "Flyout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "83.2",
+            "la": "32",
+            "dist": "294"
         },
         {
             "player": "tyler oneill",
@@ -3441,10 +3456,10 @@
             "team": "sea",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "101.3",
+            "la": "50",
+            "dist": "302"
         },
         {
             "player": "mitch garver",
@@ -5070,7 +5085,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
