@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "62",
-        "batters": "201",
-        "pitches": "2395",
+        "batters": "202",
+        "pitches": "2402",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "35.9",
-        "si%sinker %": "13.7",
+        "ff%fourseam fastball %": "36.0",
+        "si%sinker %": "13.8",
         "fc%cutter %": "7.7",
         "fs%splitter %": "1.8",
         "ch%changeup %": "9.4",
         "sl%slider %": "22.0",
         "cu%curve %": "9.5",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "170",
-        "hh%hard hit %": "40.2",
-        "brlbarrels": "29",
-        "brl%barrel %": "6.9",
-        "ab": "548",
-        "avg": ".250",
-        "h": "137",
-        "1b": "83",
-        "2b": "30",
+        "hhhard hit": "171",
+        "hh%hard hit %": "40.1",
+        "brlbarrels": "30",
+        "brl%barrel %": "7.0",
+        "ab": "550",
+        "avg": ".253",
+        "h": "139",
+        "1b": "84",
+        "2b": "31",
         "3b": "4",
         "hr": "20",
-        "so": "129",
-        "bipballs in play": "423",
+        "so": "130",
+        "bipballs in play": "426",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:41:38.805360"
+        "updated": "2025-07-11 21:41:48.744601"
     },
     "cle @ chw": [
         {
@@ -4761,10 +4761,10 @@
             "team": "sea",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "94.5",
+            "la": "6",
+            "dist": "104"
         },
         {
             "player": "jorge polanco",
@@ -6775,10 +6775,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "111.2",
+            "la": "15",
+            "dist": "292"
         },
         {
             "player": "jonathan india",
@@ -6857,6 +6857,21 @@
         }
     ],
     "tex @ hou": [
+        {
+            "player": "adolis garcia",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-07-11 21:41:43",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brice matthews",
             "game": "tex @ hou",
@@ -7439,7 +7454,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7921,10 +7936,10 @@
             "team": "wsh",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "49.7",
+            "la": "-74",
+            "dist": "2"
         },
         {
             "player": "josh bell",
@@ -9251,6 +9266,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "geraldo perdomo",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-11 21:41:43",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ketel marte",
             "game": "ari @ laa",
             "hr/park": "",
@@ -9260,7 +9290,7 @@
             "team": "ari",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "88.5",
             "la": "79",
             "dist": "37"
