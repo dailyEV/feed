@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "42",
         "batters": "185",
-        "pitches": "1809",
+        "pitches": "1813",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "37.0",
-        "si%sinker %": "13.1",
+        "ff%fourseam fastball %": "37.1",
+        "si%sinker %": "13.0",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "10.1",
-        "sl%slider %": "20.0",
-        "cu%curve %": "11.1",
+        "ch%changeup %": "9.9",
+        "sl%slider %": "20.1",
+        "cu%curve %": "11.0",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "127",
         "hh%hard hit %": "40.3",
         "brlbarrels": "20",
         "brl%barrel %": "6.3",
-        "ab": "415",
-        "avg": ".246",
-        "h": "102",
-        "1b": "66",
+        "ab": "418",
+        "avg": ".242",
+        "h": "101",
+        "1b": "65",
         "2b": "18",
         "3b": "4",
         "hr": "14",
@@ -28,7 +28,7 @@
         "bipballs in play": "315",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:10:05.109783"
+        "updated": "2025-07-11 21:10:14.816018"
     },
     "cle @ chw": [
         {
@@ -2153,6 +2153,21 @@
     ],
     "chc @ nyy": [
         {
+            "player": "justin turner",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-11 21:09:13",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "oswald peraza",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -3054,6 +3069,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "michael toglia",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-11 21:09:43",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jordan beck",
             "game": "col @ cin",
@@ -4724,6 +4754,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "trevor story",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-11 21:10:13",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wilyer abreu",
             "game": "tb @ bos",
             "hr/park": "",
@@ -4733,10 +4778,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.5",
+            "la": "52",
+            "dist": "241"
         },
         {
             "player": "carlos narvaez",
@@ -5507,21 +5552,6 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
-            "player": "jake burger",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "25",
-            "dt": "2025-07-11 21:09:43",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:10 PM",
-            "in": "3",
-            "result": "Single",
-            "evo": "55.3",
-            "la": "14",
-            "dist": "104"
-        },
-        {
             "player": "evan carter",
             "game": "tex @ hou",
             "hr/park": "",
@@ -5531,7 +5561,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
