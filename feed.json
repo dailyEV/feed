@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "90",
-        "batters": "276",
-        "pitches": "3311",
+        "pitchers": "91",
+        "batters": "278",
+        "pitches": "3315",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.1",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.5",
         "brlbarrels": "45",
         "brl%barrel %": "7.6",
-        "ab": "762",
-        "avg": ".253",
+        "ab": "765",
+        "avg": ".252",
         "h": "193",
         "1b": "117",
         "2b": "40",
         "3b": "5",
         "hr": "31",
         "so": "188",
-        "bipballs in play": "592",
+        "bipballs in play": "593",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:33:01.060940"
+        "updated": "2025-07-11 22:33:12.795498"
     },
     "cle @ chw": [
         {
@@ -7932,7 +7932,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "98.4",
             "la": "-9",
             "dist": "14"
@@ -10809,6 +10809,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "willson contreras",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-11 22:33:12",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alec burleson",
             "game": "atl @ stl",
             "hr/park": "",
@@ -12599,6 +12614,36 @@
         }
     ],
     "tor @ ath": [
+        {
+            "player": "max muncy",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-11 22:33:12",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "miguel andujar",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-11 22:32:43",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "2",
+            "result": "Pop Out",
+            "evo": "87.0",
+            "la": "66",
+            "dist": "153"
+        },
         {
             "player": "tyler soderstrom",
             "game": "tor @ ath",
