@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "68",
+        "pitchers": "69",
         "batters": "217",
-        "pitches": "2552",
+        "pitches": "2559",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "35.9",
+        "ff%fourseam fastball %": "35.8",
         "si%sinker %": "13.7",
         "fc%cutter %": "7.6",
         "fs%splitter %": "2.0",
         "ch%changeup %": "9.2",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.3",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "175",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "177",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "31",
         "brl%barrel %": "6.9",
-        "ab": "586",
+        "ab": "588",
         "avg": ".247",
         "h": "145",
         "1b": "88",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "21",
         "so": "143",
-        "bipballs in play": "449",
+        "bipballs in play": "451",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:50:34.731670"
+        "updated": "2025-07-11 21:50:45.246251"
     },
     "cle @ chw": [
         {
@@ -5864,6 +5864,36 @@
     ],
     "tb @ bos": [
         {
+            "player": "jonathan aranda",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-07-11 21:50:43",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "97.8",
+            "la": "54",
+            "dist": "258"
+        },
+        {
+            "player": "yandy diaz",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-07-11 21:49:43",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "104.3",
+            "la": "-15",
+            "dist": "10"
+        },
+        {
             "player": "trevor story",
             "game": "tb @ bos",
             "hr/park": "",
@@ -7077,7 +7107,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9063,7 +9093,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "78.6",
             "la": "78",
             "dist": "84"
