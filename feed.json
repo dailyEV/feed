@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "51",
-        "batters": "202",
-        "pitches": "2038",
+        "batters": "203",
+        "pitches": "2043",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.3",
         "si%sinker %": "15.5",
-        "fc%cutter %": "10.5",
-        "fs%splitter %": "2.9",
+        "fc%cutter %": "10.4",
+        "fs%splitter %": "3.0",
         "ch%changeup %": "8.7",
         "sl%slider %": "19.2",
-        "cu%curve %": "11.9",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "113.7",
-        "hhhard hit": "146",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "148",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "31",
         "brl%barrel %": "8.4",
-        "ab": "483",
-        "avg": ".236",
-        "h": "114",
-        "1b": "69",
+        "ab": "484",
+        "avg": ".238",
+        "h": "115",
+        "1b": "70",
         "2b": "23",
         "3b": "3",
         "hr": "19",
         "so": "123",
-        "bipballs in play": "367",
+        "bipballs in play": "370",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:20:22.588155"
+        "updated": "2025-07-12 17:20:32.257250"
     },
     "chc @ nyy": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "sea @ det": [
         {
+            "player": "randy arozarena",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-07-12 17:20:25",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cal raleigh",
             "game": "sea @ det",
             "hr/park": "0/30",
@@ -1108,7 +1123,7 @@
             "team": "sea",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "100.3",
             "la": "40",
             "dist": "337"
@@ -4549,7 +4564,7 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "86.8",
             "la": "15",
             "dist": "195"
@@ -5181,7 +5196,7 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "5",
-            "result": "Mound Visit",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5678,10 +5693,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "96.4",
+            "la": "-7",
+            "dist": "17"
         },
         {
             "player": "ryan ritter",
@@ -6198,17 +6213,17 @@
         {
             "player": "salvador perez",
             "game": "nym @ kc",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "30",
             "dt": "2025-07-12 17:17:10",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Game Advisory",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "103.0",
+            "la": "40",
+            "dist": "366"
         },
         {
             "player": "maikel garcia",
@@ -7159,6 +7174,21 @@
         }
     ],
     "cle @ chw": [
+        {
+            "player": "will robertson",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-12 17:20:25",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "josh rojas",
             "game": "cle @ chw",
