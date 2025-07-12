@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "106",
         "batters": "294",
-        "pitches": "3877",
+        "pitches": "3882",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.3",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "259",
-        "hh%hard hit %": "38.0",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "51",
         "brl%barrel %": "7.5",
         "ab": "890",
-        "avg": ".240",
-        "h": "214",
-        "1b": "132",
+        "avg": ".242",
+        "h": "215",
+        "1b": "133",
         "2b": "44",
         "3b": "5",
         "hr": "33",
         "so": "228",
-        "bipballs in play": "682",
+        "bipballs in play": "684",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:10:11.319829"
+        "updated": "2025-07-11 23:10:23.526040"
     },
     "cle @ chw": [
         {
@@ -7720,7 +7720,7 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14175,19 +14175,34 @@
     ],
     "tor @ ath": [
         {
-            "player": "shea langeliers",
+            "player": "tyler soderstrom",
             "game": "tor @ ath",
             "hr/park": "",
+            "pa": "32",
+            "dt": "2025-07-11 23:10:15",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "71.4",
+            "la": "24",
+            "dist": "234"
+        },
+        {
+            "player": "shea langeliers",
+            "game": "tor @ ath",
+            "hr/park": "0/30",
             "pa": "31",
             "dt": "2025-07-11 23:08:28",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "start": "10:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.0",
+            "la": "45",
+            "dist": "330"
         },
         {
             "player": "nick kurtz",
@@ -14651,7 +14666,7 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
