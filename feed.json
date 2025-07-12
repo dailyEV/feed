@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "32",
         "batters": "154",
-        "pitches": "1243",
+        "pitches": "1251",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "40.2",
         "si%sinker %": "11.6",
-        "fc%cutter %": "7.1",
+        "fc%cutter %": "7.0",
         "fs%splitter %": "1.4",
         "ch%changeup %": "10.9",
-        "sl%slider %": "18.3",
-        "cu%curve %": "10.5",
+        "sl%slider %": "18.5",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "88",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "14",
         "brl%barrel %": "6.4",
-        "ab": "288",
-        "avg": ".233",
+        "ab": "289",
+        "avg": ".232",
         "h": "67",
         "1b": "44",
         "2b": "11",
         "3b": "2",
         "hr": "10",
-        "so": "70",
-        "bipballs in play": "220",
+        "so": "71",
+        "bipballs in play": "219",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:39:17.972916"
+        "updated": "2025-07-11 20:39:27.017334"
     },
     "cle @ chw": [
         {
@@ -1698,9 +1698,9 @@
             "start": "7:05 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "89.8",
-            "la": "-40",
-            "dist": "2"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "paul goldschmidt",
@@ -3072,6 +3072,21 @@
     ],
     "sea @ det": [
         {
+            "player": "colt keith",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-11 20:38:28",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier baez",
             "game": "sea @ det",
             "hr/park": "",
@@ -3081,7 +3096,7 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4226,7 +4241,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "95.7",
             "la": "5",
             "dist": "102"
