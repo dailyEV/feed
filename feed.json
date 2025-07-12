@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "56",
-        "batters": "192",
-        "pitches": "2260",
+        "batters": "193",
+        "pitches": "2269",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.2",
         "si%sinker %": "13.3",
-        "fc%cutter %": "7.7",
+        "fc%cutter %": "7.6",
         "fs%splitter %": "1.8",
         "ch%changeup %": "9.5",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.0",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "160",
         "hh%hard hit %": "40.3",
-        "brlbarrels": "26",
-        "brl%barrel %": "6.5",
-        "ab": "515",
-        "avg": ".250",
-        "h": "129",
-        "1b": "79",
+        "brlbarrels": "25",
+        "brl%barrel %": "6.3",
+        "ab": "517",
+        "avg": ".253",
+        "h": "131",
+        "1b": "80",
         "2b": "28",
         "3b": "4",
-        "hr": "18",
+        "hr": "19",
         "so": "121",
         "bipballs in play": "397",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:35:12.427548"
+        "updated": "2025-07-11 21:35:22.884697"
     },
     "cle @ chw": [
         {
@@ -994,21 +994,6 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
-            "player": "kyle teel",
-            "game": "cle-gm2 @ chw-gm2",
-            "hr/park": "",
-            "pa": "28",
-            "dt": "2025-07-11 21:34:57",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "8:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "miguel vargas",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "0/30",
@@ -1415,6 +1400,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "kyle stowers",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-07-11 21:35:19",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "agustin ramirez",
             "game": "mia @ bal",
@@ -4602,21 +4602,6 @@
     ],
     "sea @ det": [
         {
-            "player": "riley greene",
-            "game": "sea @ det",
-            "hr/park": "",
-            "pa": "63",
-            "dt": "2025-07-11 21:34:42",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "7:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jahmai jones",
             "game": "sea @ det",
             "hr/park": "",
@@ -4626,10 +4611,10 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "8",
-            "result": "Flyout",
-            "evo": "102.0",
-            "la": "34",
-            "dist": "386"
+            "result": "Game Advisory",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "mitch garver",
@@ -6526,6 +6511,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "francisco lindor",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-11 21:33:57",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon nimmo",
             "game": "nym @ kc",
             "hr/park": "",
@@ -6535,13 +6535,28 @@
             "team": "nym",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "74.2",
             "la": "-36",
             "dist": "5"
         }
     ],
     "tex @ hou": [
+        {
+            "player": "yainer diaz",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-07-11 21:34:30",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "victor caratini",
             "game": "tex @ hou",
@@ -6552,7 +6567,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "100.9",
             "la": "23",
             "dist": "339"
@@ -8184,6 +8199,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-11 21:35:19",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "victor scott",
             "game": "atl @ stl",
             "hr/park": "",
@@ -8193,10 +8223,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "104.0",
+            "la": "8",
+            "dist": "156"
         },
         {
             "player": "pedro pages",
