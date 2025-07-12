@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "77",
-        "batters": "250",
-        "pitches": "2903",
+        "pitchers": "78",
+        "batters": "249",
+        "pitches": "2906",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.6",
-        "si%sinker %": "13.9",
+        "ff%fourseam fastball %": "35.7",
+        "si%sinker %": "13.8",
         "fc%cutter %": "7.8",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.2",
         "sl%slider %": "22.1",
         "cu%curve %": "9.0",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "202",
-        "hh%hard hit %": "39.3",
-        "brlbarrels": "38",
-        "brl%barrel %": "7.4",
-        "ab": "665",
+        "hhhard hit": "203",
+        "hh%hard hit %": "39.4",
+        "brlbarrels": "39",
+        "brl%barrel %": "7.6",
+        "ab": "667",
         "avg": ".253",
-        "h": "168",
+        "h": "169",
         "1b": "99",
         "2b": "36",
         "3b": "5",
-        "hr": "28",
+        "hr": "29",
         "so": "164",
-        "bipballs in play": "514",
+        "bipballs in play": "515",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-07-11 22:10:18.592132"
+        "updated": "2025-07-11 22:10:29.256500"
     },
     "cle @ chw": [
         {
@@ -1003,10 +1003,10 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Groundout",
-            "evo": "77.4",
-            "la": "3",
-            "dist": "65"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "kyle teel",
@@ -4977,6 +4977,21 @@
     ],
     "sea @ det": [
         {
+            "player": "trey sweeney",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-07-11 22:10:27",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach mckinstry",
             "game": "sea @ det",
             "hr/park": "",
@@ -7593,6 +7608,36 @@
     ],
     "tex @ hou": [
         {
+            "player": "yainer diaz",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-11 22:10:27",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "92.1",
+            "la": "12",
+            "dist": "204"
+        },
+        {
+            "player": "victor caratini",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-11 22:09:12",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "90.2",
+            "la": "60",
+            "dist": "219"
+        },
+        {
             "player": "josh smith",
             "game": "tex @ hou",
             "hr/park": "0/30",
@@ -8345,6 +8390,21 @@
     ],
     "pit @ min": [
         {
+            "player": "henry davis",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-07-11 22:10:27",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer horwitz",
             "game": "pit @ min",
             "hr/park": "0/30",
@@ -9031,10 +9091,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.5",
+            "la": "8",
+            "dist": "146"
         },
         {
             "player": "isaac collins",
@@ -10805,10 +10865,10 @@
             "team": "ari",
             "start": "9:38 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "109.7",
+            "la": "26",
+            "dist": "430"
         },
         {
             "player": "josh naylor",
@@ -11022,21 +11082,6 @@
         }
     ],
     "phi @ sd": [
-        {
-            "player": "jake cronenworth",
-            "game": "phi @ sd",
-            "hr/park": "",
-            "pa": "16",
-            "dt": "2025-07-11 22:09:28",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "9:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jose iglesias",
             "game": "phi @ sd",
@@ -11265,21 +11310,6 @@
     ],
     "tor @ ath": [
         {
-            "player": "george springer",
-            "game": "tor @ ath",
-            "hr/park": "",
-            "pa": "2",
-            "dt": "2025-07-11 22:09:43",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "10:05 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "103.5",
-            "la": "6",
-            "dist": "107"
-        },
-        {
             "player": "nathan lukes",
             "game": "tor @ ath",
             "hr/park": "",
@@ -11289,7 +11319,7 @@
             "team": "tor",
             "start": "10:05 PM",
             "in": "1",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "80.9",
             "la": "-72",
             "dist": "1"
