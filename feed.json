@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "50",
         "batters": "201",
-        "pitches": "1893",
+        "pitches": "1896",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.3",
         "si%sinker %": "15.5",
-        "fc%cutter %": "10.6",
+        "fc%cutter %": "10.7",
         "fs%splitter %": "3.1",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.6",
         "sl%slider %": "18.8",
         "cu%curve %": "11.9",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "135",
-        "hh%hard hit %": "39.4",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "30",
         "brl%barrel %": "8.7",
         "ab": "448",
-        "avg": ".237",
-        "h": "106",
-        "1b": "64",
+        "avg": ".239",
+        "h": "107",
+        "1b": "65",
         "2b": "20",
         "3b": "3",
         "hr": "19",
-        "so": "111",
-        "bipballs in play": "343",
+        "so": "112",
+        "bipballs in play": "345",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:09:36.393523"
+        "updated": "2025-07-12 17:09:45.540200"
     },
     "chc @ nyy": [
         {
@@ -1108,10 +1108,10 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "73.8",
+            "la": "27",
+            "dist": "252"
         },
         {
             "player": "gleyber torres",
@@ -4480,6 +4480,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "mookie betts",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-07-12 17:09:40",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "75.6",
+            "la": "-28",
+            "dist": "4"
+        },
+        {
             "player": "shohei ohtani",
             "game": "lad @ sf",
             "hr/park": "",
@@ -5920,7 +5935,7 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6302,21 +6317,6 @@
         }
     ],
     "tb @ bos": [
-        {
-            "player": "danny jansen",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "31",
-            "dt": "2025-07-12 17:09:24",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "4:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "curtis mead",
             "game": "tb @ bos",
