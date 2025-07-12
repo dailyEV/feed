@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "24",
+        "pitchers": "23",
         "batters": "127",
-        "pitches": "970",
+        "pitches": "972",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "42.4",
+        "ff%fourseam fastball %": "42.2",
         "si%sinker %": "11.3",
         "fc%cutter %": "7.6",
         "fs%splitter %": "1.3",
         "ch%changeup %": "10.9",
-        "sl%slider %": "16.9",
+        "sl%slider %": "17.2",
         "cu%curve %": "9.5",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "65",
-        "hh%hard hit %": "39.4",
-        "brlbarrels": "11",
-        "brl%barrel %": "6.7",
-        "ab": "220",
-        "avg": ".232",
-        "h": "51",
+        "hhhard hit": "66",
+        "hh%hard hit %": "39.8",
+        "brlbarrels": "12",
+        "brl%barrel %": "7.2",
+        "ab": "221",
+        "avg": ".235",
+        "h": "52",
         "1b": "33",
         "2b": "9",
         "3b": "2",
-        "hr": "7",
+        "hr": "8",
         "so": "58",
-        "bipballs in play": "165",
+        "bipballs in play": "166",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:22:34.580557"
+        "updated": "2025-07-11 20:22:42.893024"
     },
     "cle @ chw": [
         {
@@ -2064,6 +2064,21 @@
     ],
     "col @ cin": [
         {
+            "player": "mickey moniak",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-11 20:22:42",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will benson",
             "game": "col @ cin",
             "hr/park": "",
@@ -3511,6 +3526,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "evan carter",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-11 20:22:42",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wyatt langford",
             "game": "tex @ hou",
             "hr/park": "",
@@ -3588,21 +3618,6 @@
     ],
     "pit @ min": [],
     "wsh @ mil": [
-        {
-            "player": "sal frelick",
-            "game": "wsh @ mil",
-            "hr/park": "",
-            "pa": "6",
-            "dt": "2025-07-11 20:21:26",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "8:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "alex call",
             "game": "wsh @ mil",
@@ -3683,17 +3698,17 @@
         {
             "player": "sean murphy",
             "game": "atl @ stl",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "4",
             "dt": "2025-07-11 20:20:57",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "107.3",
+            "la": "30",
+            "dist": "437"
         },
         {
             "player": "austin riley",
