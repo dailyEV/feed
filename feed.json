@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "108",
         "batters": "295",
-        "pitches": "3974",
+        "pitches": "3976",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.3",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "265",
-        "hh%hard hit %": "37.9",
+        "hhhard hit": "264",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "52",
         "brl%barrel %": "7.4",
-        "ab": "909",
-        "avg": ".240",
+        "ab": "911",
+        "avg": ".239",
         "h": "218",
-        "1b": "135",
-        "2b": "45",
+        "1b": "134",
+        "2b": "46",
         "3b": "5",
         "hr": "33",
         "so": "232",
-        "bipballs in play": "699",
+        "bipballs in play": "701",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:17:00.840383"
+        "updated": "2025-07-11 23:17:13.764141"
     },
     "cle @ chw": [
         {
@@ -8508,6 +8508,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "isaac paredes",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "80",
+            "dt": "2025-07-11 23:17:13",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cooper hummel",
             "game": "tex @ hou",
             "hr/park": "",
@@ -8517,10 +8532,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "89.8",
+            "la": "-19",
+            "dist": "6"
         },
         {
             "player": "brice matthews",
@@ -13025,10 +13040,10 @@
             "team": "ari",
             "start": "9:38 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "71.7",
+            "la": "35",
+            "dist": "250"
         },
         {
             "player": "josh naylor",
@@ -13717,10 +13732,10 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "6",
-            "result": "Single",
-            "evo": "106.2",
-            "la": "6",
-            "dist": "126"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "gavin sheets",
@@ -14414,6 +14429,21 @@
         }
     ],
     "tor @ ath": [
+        {
+            "player": "george springer",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-07-11 23:17:13",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "10:05 PM",
+            "in": "5",
+            "result": "Field Error",
+            "evo": "63.5",
+            "la": "14",
+            "dist": "119"
+        },
         {
             "player": "nathan lukes",
             "game": "tor @ ath",
