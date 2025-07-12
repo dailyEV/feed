@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "43",
         "batters": "185",
-        "pitches": "1887",
+        "pitches": "1895",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.7",
-        "si%sinker %": "13.4",
+        "si%sinker %": "13.2",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.0",
         "ch%changeup %": "9.9",
         "sl%slider %": "20.6",
-        "cu%curve %": "10.8",
+        "cu%curve %": "10.7",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "132",
+        "hhhard hit": "133",
         "hh%hard hit %": "40.1",
         "brlbarrels": "20",
-        "brl%barrel %": "6.1",
-        "ab": "435",
-        "avg": ".244",
-        "h": "106",
+        "brl%barrel %": "6.0",
+        "ab": "436",
+        "avg": ".245",
+        "h": "107",
         "1b": "69",
-        "2b": "19",
+        "2b": "20",
         "3b": "4",
         "hr": "14",
         "so": "107",
-        "bipballs in play": "329",
+        "bipballs in play": "332",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:14:20.299242"
+        "updated": "2025-07-11 21:14:29.827135"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2212,6 +2212,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "jon berti",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-11 21:14:28",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "michael busch",
             "game": "chc @ nyy",
@@ -4101,10 +4116,10 @@
             "team": "sea",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "66.1",
+            "la": "3",
+            "dist": "50"
         },
         {
             "player": "dylan moore",
@@ -4899,9 +4914,9 @@
             "start": "7:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "83.1",
+            "la": "82",
+            "dist": "6"
         },
         {
             "player": "marcelo mayer",
@@ -5726,7 +5741,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "95.5",
             "la": "26",
             "dist": "331"
@@ -6109,6 +6124,21 @@
     ],
     "pit @ min": [
         {
+            "player": "bryan reynolds",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-11 21:13:42",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew mccutchen",
             "game": "pit @ min",
             "hr/park": "",
@@ -6375,7 +6405,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6903,9 +6933,9 @@
             "start": "8:15 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "103.1",
+            "la": "18",
+            "dist": "327"
         },
         {
             "player": "jurickson profar",
