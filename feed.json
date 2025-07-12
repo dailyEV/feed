@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "93",
-        "batters": "283",
-        "pitches": "3440",
+        "batters": "284",
+        "pitches": "3452",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.9",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.5",
         "fs%splitter %": "2.4",
         "ch%changeup %": "9.4",
-        "sl%slider %": "21.3",
+        "sl%slider %": "21.4",
         "cu%curve %": "8.5",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "238",
-        "hh%hard hit %": "38.8",
-        "brlbarrels": "45",
-        "brl%barrel %": "7.3",
-        "ab": "795",
-        "avg": ".250",
-        "h": "199",
+        "hhhard hit": "239",
+        "hh%hard hit %": "38.7",
+        "brlbarrels": "46",
+        "brl%barrel %": "7.4",
+        "ab": "797",
+        "avg": ".251",
+        "h": "200",
         "1b": "122",
         "2b": "41",
         "3b": "5",
-        "hr": "31",
-        "so": "196",
-        "bipballs in play": "614",
+        "hr": "32",
+        "so": "197",
+        "bipballs in play": "618",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:41:11.878068"
+        "updated": "2025-07-11 22:41:45.185750"
     },
     "cle @ chw": [
         {
@@ -8043,21 +8043,6 @@
     ],
     "tex @ hou": [
         {
-            "player": "corey seager",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-07-11 22:40:58",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "josh smith",
             "game": "tex @ hou",
             "hr/park": "",
@@ -12080,10 +12065,10 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "62.0",
+            "la": "56",
+            "dist": "153"
         },
         {
             "player": "jo adell",
@@ -12538,6 +12523,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "jose iglesias",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-11 22:41:45",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "69.7",
+            "la": "15",
+            "dist": "136"
+        },
+        {
             "player": "max kepler",
             "game": "phi @ sd",
             "hr/park": "0/30",
@@ -12990,6 +12990,21 @@
     ],
     "tor @ ath": [
         {
+            "player": "vladimir guerrero",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-07-11 22:41:45",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "10:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "george springer",
             "game": "tor @ ath",
             "hr/park": "",
@@ -12999,10 +13014,10 @@
             "team": "tor",
             "start": "10:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "85.3",
+            "la": "-1",
+            "dist": "31"
         },
         {
             "player": "nathan lukes",
@@ -13262,6 +13277,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "willy adames",
+            "game": "lad @ sf",
+            "hr/park": "29/30",
+            "pa": "12",
+            "dt": "2025-07-11 22:41:36",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "10:15 PM",
+            "in": "2",
+            "result": "Home Run",
+            "evo": "104.8",
+            "la": "24",
+            "dist": "416"
+        },
+        {
             "player": "matt chapman",
             "game": "lad @ sf",
             "hr/park": "",
@@ -13271,7 +13301,7 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
