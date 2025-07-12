@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "81",
         "batters": "257",
-        "pitches": "2977",
+        "pitches": "2985",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.5",
-        "si%sinker %": "13.9",
+        "ff%fourseam fastball %": "35.4",
+        "si%sinker %": "14.0",
         "fc%cutter %": "8.1",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.8",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "213",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "40",
-        "brl%barrel %": "7.6",
-        "ab": "685",
+        "brl%barrel %": "7.5",
+        "ab": "687",
         "avg": ".255",
         "h": "175",
         "1b": "102",
         "2b": "39",
         "3b": "5",
         "hr": "29",
-        "so": "167",
-        "bipballs in play": "529",
+        "so": "168",
+        "bipballs in play": "530",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-07-11 22:14:18.751559"
+        "updated": "2025-07-11 22:14:30.075967"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "bo naylor",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-11 22:14:28",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "Bunt Pop Out",
+            "evo": "28.9",
+            "la": "85",
+            "dist": "9"
+        },
         {
             "player": "will wilson",
             "game": "cle-gm2 @ chw-gm2",
@@ -5016,7 +5031,7 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10209,6 +10224,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "luke williams",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-11 22:14:28",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt olson",
             "game": "atl @ stl",
             "hr/park": "",
@@ -11332,7 +11362,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "2",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
