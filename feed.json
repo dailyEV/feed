@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "60",
+        "pitchers": "59",
         "batters": "197",
-        "pitches": "2353",
+        "pitches": "2354",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.0",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.6",
         "fs%splitter %": "1.7",
         "ch%changeup %": "9.5",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.0",
         "cu%curve %": "9.5",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "167",
-        "hh%hard hit %": "40.1",
-        "brlbarrels": "28",
-        "brl%barrel %": "6.7",
-        "ab": "536",
+        "hh%hard hit %": "40.0",
+        "brlbarrels": "29",
+        "brl%barrel %": "7.0",
+        "ab": "535",
         "avg": ".250",
         "h": "134",
         "1b": "81",
         "2b": "29",
         "3b": "4",
         "hr": "20",
-        "so": "127",
-        "bipballs in play": "416",
-        "liveGames": 13,
+        "so": "128",
+        "bipballs in play": "417",
+        "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:39:54.640774"
+        "updated": "2025-07-11 21:40:04.534612"
     },
     "cle @ chw": [
         {
@@ -2482,6 +2482,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "reese mcguire",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-07-11 21:39:57",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "43.9",
+            "la": "-37",
+            "dist": "6"
+        },
         {
             "player": "vidal brujan",
             "game": "chc @ nyy",
@@ -6646,21 +6661,6 @@
     ],
     "nym @ kc": [
         {
-            "player": "jonathan india",
-            "game": "nym @ kc",
-            "hr/park": "",
-            "pa": "5",
-            "dt": "2025-07-11 21:39:27",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "8:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "95.0",
-            "la": "-6",
-            "dist": "24"
-        },
-        {
             "player": "pete alonso",
             "game": "nym @ kc",
             "hr/park": "2/30",
@@ -6732,7 +6732,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7295,21 +7295,6 @@
     ],
     "pit @ min": [
         {
-            "player": "carlos correa",
-            "game": "pit @ min",
-            "hr/park": "",
-            "pa": "32",
-            "dt": "2025-07-11 21:39:42",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "8:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "trevor larnach",
             "game": "pit @ min",
             "hr/park": "29/30",
@@ -7779,7 +7764,7 @@
         {
             "player": "josh bell",
             "game": "wsh @ mil",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "48",
             "dt": "2025-07-11 21:38:42",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
@@ -7787,9 +7772,9 @@
             "start": "8:10 PM",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "102.6",
+            "la": "23",
+            "dist": "388"
         },
         {
             "player": "joey ortiz",
