@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "45",
-        "batters": "179",
-        "pitches": "1463",
+        "batters": "180",
+        "pitches": "1468",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "29.9",
+        "ff%fourseam fastball %": "30.0",
         "si%sinker %": "16.4",
-        "fc%cutter %": "10.7",
+        "fc%cutter %": "10.6",
         "fs%splitter %": "3.3",
-        "ch%changeup %": "8.3",
+        "ch%changeup %": "8.2",
         "sl%slider %": "18.9",
         "cu%curve %": "12.4",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "99",
-        "hh%hard hit %": "37.5",
+        "hhhard hit": "100",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "27",
         "brl%barrel %": "10.2",
-        "ab": "341",
-        "avg": ".238",
-        "h": "81",
-        "1b": "48",
+        "ab": "344",
+        "avg": ".233",
+        "h": "80",
+        "1b": "47",
         "2b": "15",
         "3b": "2",
         "hr": "16",
         "so": "82",
-        "bipballs in play": "264",
+        "bipballs in play": "266",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:45:05.526168"
+        "updated": "2025-07-12 16:45:14.161873"
     },
     "chc @ nyy": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "sea @ det": [
         {
+            "player": "matt vierling",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-12 16:44:41",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach mckinstry",
             "game": "sea @ det",
             "hr/park": "",
@@ -1940,6 +1955,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "oneil cruz",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-07-12 16:45:11",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nick gonzales",
             "game": "pit @ min",
@@ -4099,10 +4129,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.2",
+            "la": "67",
+            "dist": "189"
         },
         {
             "player": "freddie freeman",
@@ -4951,6 +4981,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "brett baty",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-12 16:44:41",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "106.3",
+            "la": "-9",
+            "dist": "12"
+        },
+        {
             "player": "tyrone taylor",
             "game": "nym @ kc",
             "hr/park": "",
@@ -5521,7 +5566,7 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "3",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "96.5",
             "la": "15",
             "dist": "259"
