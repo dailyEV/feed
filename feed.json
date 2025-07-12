@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "103",
         "batters": "294",
-        "pitches": "3783",
+        "pitches": "3789",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.8",
@@ -11,24 +11,24 @@
         "fs%splitter %": "2.7",
         "ch%changeup %": "9.4",
         "sl%slider %": "21.3",
-        "cu%curve %": "8.5",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "257",
         "hh%hard hit %": "38.4",
         "brlbarrels": "51",
         "brl%barrel %": "7.6",
-        "ab": "868",
-        "avg": ".243",
+        "ab": "871",
+        "avg": ".242",
         "h": "211",
         "1b": "129",
         "2b": "44",
         "3b": "5",
         "hr": "33",
         "so": "221",
-        "bipballs in play": "669",
+        "bipballs in play": "670",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:04:09.522951"
+        "updated": "2025-07-11 23:04:21.649399"
     },
     "cle @ chw": [
         {
@@ -8352,7 +8352,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11559,6 +11559,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "luke williams",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-07-11 23:04:13",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt olson",
             "game": "atl @ stl",
             "hr/park": "",
@@ -11568,7 +11583,7 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "74.6",
             "la": "80",
             "dist": "42"
@@ -13302,6 +13317,36 @@
         }
     ],
     "phi @ sd": [
+        {
+            "player": "manny machado",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-11 23:04:13",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "luis arraez",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-07-11 23:04:13",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "Lineout",
+            "evo": "89.6",
+            "la": "20",
+            "dist": "267"
+        },
         {
             "player": "fernando tatis",
             "game": "phi @ sd",
