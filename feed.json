@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "50",
         "batters": "200",
-        "pitches": "1834",
+        "pitches": "1839",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.5",
         "si%sinker %": "15.5",
         "fc%cutter %": "10.6",
         "fs%splitter %": "3.2",
-        "ch%changeup %": "8.5",
+        "ch%changeup %": "8.4",
         "sl%slider %": "18.9",
-        "cu%curve %": "11.7",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "130",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "131",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "30",
         "brl%barrel %": "9.0",
-        "ab": "434",
-        "avg": ".230",
-        "h": "100",
-        "1b": "60",
+        "ab": "436",
+        "avg": ".232",
+        "h": "101",
+        "1b": "61",
         "2b": "18",
         "3b": "3",
         "hr": "19",
         "so": "108",
-        "bipballs in play": "333",
+        "bipballs in play": "334",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:06:17.394829"
+        "updated": "2025-07-12 17:06:26.940714"
     },
     "chc @ nyy": [
         {
@@ -1108,7 +1108,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Game Advisory",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4465,6 +4465,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "dalton rushing",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-12 17:06:25",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "casey schmitt",
             "game": "lad @ sf",
             "hr/park": "0/30",
@@ -4961,6 +4976,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "dane myers",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-12 17:06:25",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ramon laureano",
             "game": "mia @ bal",
@@ -5830,10 +5860,10 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "103.5",
+            "la": "6",
+            "dist": "111"
         },
         {
             "player": "pete alonso",
