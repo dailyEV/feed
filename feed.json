@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "144",
-        "pitches": "1166",
+        "batters": "146",
+        "pitches": "1180",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "40.3",
+        "ff%fourseam fastball %": "40.1",
         "si%sinker %": "11.9",
-        "fc%cutter %": "7.3",
-        "fs%splitter %": "1.5",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "17.9",
-        "cu%curve %": "10.5",
+        "fc%cutter %": "7.1",
+        "fs%splitter %": "1.4",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "18.0",
+        "cu%curve %": "10.6",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "80",
-        "hh%hard hit %": "39.4",
+        "hhhard hit": "81",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "14",
-        "brl%barrel %": "6.9",
-        "ab": "268",
-        "avg": ".235",
-        "h": "63",
-        "1b": "41",
+        "brl%barrel %": "6.8",
+        "ab": "271",
+        "avg": ".236",
+        "h": "64",
+        "1b": "42",
         "2b": "10",
         "3b": "2",
         "hr": "10",
-        "so": "64",
-        "bipballs in play": "203",
+        "so": "65",
+        "bipballs in play": "205",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:35:24.389734"
+        "updated": "2025-07-11 20:35:32.793500"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Passed Ball",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3509,11 +3509,11 @@
     ],
     "tb @ bos": [
         {
-            "player": "jake mangum",
+            "player": "junior caminero",
             "game": "tb @ bos",
             "hr/park": "",
-            "pa": "34",
-            "dt": "2025-07-11 20:32:44",
+            "pa": "35",
+            "dt": "2025-07-11 20:34:27",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:10 PM",
@@ -3522,6 +3522,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jake mangum",
+            "game": "tb @ bos",
+            "hr/park": "0/30",
+            "pa": "34",
+            "dt": "2025-07-11 20:32:44",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "93.6",
+            "la": "26",
+            "dist": "318"
         },
         {
             "player": "jonathan aranda",
@@ -4022,6 +4037,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "cam smith",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-07-11 20:34:44",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac paredes",
             "game": "tex @ hou",
             "hr/park": "",
@@ -4153,13 +4183,28 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "andrew vaughn",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-11 20:35:27",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "daylen lile",
             "game": "wsh @ mil",
@@ -4352,10 +4397,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "100.1",
+            "la": "-10",
+            "dist": "11"
         },
         {
             "player": "alec burleson",
