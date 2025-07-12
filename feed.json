@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "61",
         "batters": "203",
-        "pitches": "2393",
+        "pitches": "2396",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "15.6",
-        "fc%cutter %": "10.2",
-        "fs%splitter %": "2.8",
+        "si%sinker %": "15.7",
+        "fc%cutter %": "10.3",
+        "fs%splitter %": "2.7",
         "ch%changeup %": "9.5",
         "sl%slider %": "19.8",
         "cu%curve %": "11.0",
         "max evmax exit velocity": "113.7",
-        "hhhard hit": "179",
-        "hh%hard hit %": "40.1",
+        "hhhard hit": "180",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "34",
         "brl%barrel %": "7.6",
-        "ab": "573",
-        "avg": ".244",
+        "ab": "575",
+        "avg": ".243",
         "h": "140",
         "1b": "88",
         "2b": "28",
         "3b": "3",
         "hr": "21",
         "so": "138",
-        "bipballs in play": "446",
+        "bipballs in play": "447",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:46:23.586485"
+        "updated": "2025-07-12 17:46:33.655571"
     },
     "chc @ nyy": [
         {
@@ -4735,6 +4735,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "freddie freeman",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-12 17:46:26",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mookie betts",
             "game": "lad @ sf",
             "hr/park": "0/30",
@@ -7548,6 +7563,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "curtis mead",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-12 17:46:26",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christopher morel",
             "game": "tb @ bos",
             "hr/park": "",
@@ -7557,10 +7587,10 @@
             "team": "tb",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "109.5",
+            "la": "7",
+            "dist": "164"
         },
         {
             "player": "junior caminero",
