@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "4",
         "batters": "20",
-        "pitches": "112",
+        "pitches": "114",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "72.0",
-        "ff%fourseam fastball %": "28.6",
-        "si%sinker %": "11.6",
-        "fc%cutter %": "18.8",
+        "ff%fourseam fastball %": "27.2",
+        "si%sinker %": "13.2",
+        "fc%cutter %": "18.4",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "9.8",
-        "sl%slider %": "12.5",
-        "cu%curve %": "18.8",
+        "ch%changeup %": "9.6",
+        "sl%slider %": "13.2",
+        "cu%curve %": "18.4",
         "max evmax exit velocity": "110.4",
         "hhhard hit": "7",
         "hh%hard hit %": "31.8",
         "brlbarrels": "4",
         "brl%barrel %": "18.2",
-        "ab": "28",
-        "avg": ".214",
+        "ab": "29",
+        "avg": ".207",
         "h": "6",
         "1b": "4",
         "2b": "1",
@@ -28,9 +28,24 @@
         "bipballs in play": "22",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-12 14:13:51.743329"
+        "updated": "2025-07-12 14:13:58.996694"
     },
     "chc @ nyy": [
+        {
+            "player": "seiya suzuki",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-07-12 14:13:55",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle tucker",
             "game": "chc @ nyy",
@@ -41,10 +56,10 @@
             "team": "chc",
             "start": "1:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "93.2",
+            "la": "19",
+            "dist": "291"
         },
         {
             "player": "nico hoerner",
@@ -479,10 +494,10 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "1",
-            "result": "Flyout",
-            "evo": "93.3",
-            "la": "54",
-            "dist": "258"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "spencer horwitz",
