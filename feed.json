@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "72",
+        "pitchers": "73",
         "batters": "204",
-        "pitches": "2608",
+        "pitches": "2614",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "30.9",
+        "ff%fourseam fastball %": "30.8",
         "si%sinker %": "15.5",
-        "fc%cutter %": "10.0",
+        "fc%cutter %": "10.1",
         "fs%splitter %": "3.3",
         "ch%changeup %": "9.7",
         "sl%slider %": "20.0",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "113.7",
-        "hhhard hit": "191",
-        "hh%hard hit %": "39.3",
+        "hhhard hit": "190",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "36",
         "brl%barrel %": "7.4",
-        "ab": "619",
-        "avg": ".242",
+        "ab": "623",
+        "avg": ".241",
         "h": "150",
         "1b": "94",
         "2b": "32",
@@ -28,7 +28,7 @@
         "bipballs in play": "486",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 18:03:30.212086"
+        "updated": "2025-07-12 18:03:40.574141"
     },
     "chc @ nyy": [
         {
@@ -1099,11 +1099,11 @@
     ],
     "sea @ det": [
         {
-            "player": "jahmai jones",
+            "player": "spencer torkelson",
             "game": "sea @ det",
             "hr/park": "",
-            "pa": "92",
-            "dt": "2025-07-12 18:02:56",
+            "pa": "93",
+            "dt": "2025-07-12 18:03:40",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "1:10 PM",
@@ -1112,6 +1112,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jahmai jones",
+            "game": "sea @ det",
+            "hr/park": "0/30",
+            "pa": "92",
+            "dt": "2025-07-12 18:02:56",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "92.6",
+            "la": "29",
+            "dist": "350"
         },
         {
             "player": "jorge polanco",
@@ -4849,7 +4864,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "75.3",
             "la": "-22",
             "dist": "6"
@@ -5771,6 +5786,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "agustin ramirez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-12 18:03:40",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "xavier edwards",
             "game": "mia @ bal",
@@ -7391,9 +7421,9 @@
             "start": "4:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "95.6",
-            "la": "35",
-            "dist": "379"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "mark vientos",
@@ -8870,6 +8900,21 @@
     ],
     "cle @ chw": [
         {
+            "player": "mike tauchman",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-07-12 18:03:40",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will robertson",
             "game": "cle @ chw",
             "hr/park": "",
@@ -9441,6 +9486,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "isaac collins",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-07-12 18:03:40",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andrew vaughn",
             "game": "wsh @ mil",
