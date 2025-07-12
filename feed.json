@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "66",
-        "batters": "213",
-        "pitches": "2503",
+        "pitchers": "67",
+        "batters": "214",
+        "pitches": "2506",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "35.8",
@@ -10,11 +10,11 @@
         "fc%cutter %": "7.6",
         "fs%splitter %": "2.0",
         "ch%changeup %": "9.4",
-        "sl%slider %": "22.3",
+        "sl%slider %": "22.1",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "175",
-        "hh%hard hit %": "39.6",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "31",
         "brl%barrel %": "7.0",
         "ab": "575",
@@ -24,11 +24,11 @@
         "2b": "32",
         "3b": "4",
         "hr": "21",
-        "so": "141",
-        "bipballs in play": "442",
+        "so": "142",
+        "bipballs in play": "440",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:48:11.092762"
+        "updated": "2025-07-11 21:48:21.376629"
     },
     "cle @ chw": [
         {
@@ -4782,6 +4782,21 @@
     ],
     "sea @ det": [
         {
+            "player": "jp crawford",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-07-11 21:48:14",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ben williamson",
             "game": "sea @ det",
             "hr/park": "",
@@ -6865,7 +6880,7 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8934,36 +8949,6 @@
     ],
     "atl @ stl": [
         {
-            "player": "willson contreras",
-            "game": "atl @ stl",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-07-11 21:47:43",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "8:15 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "73.8",
-            "la": "-5",
-            "dist": "17"
-        },
-        {
-            "player": "alec burleson",
-            "game": "atl @ stl",
-            "hr/park": "",
-            "pa": "43",
-            "dt": "2025-07-11 21:47:28",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "8:15 PM",
-            "in": "4",
-            "result": "Flyout",
-            "evo": "84.2",
-            "la": "30",
-            "dist": "293"
-        },
-        {
             "player": "masyn winn",
             "game": "atl @ stl",
             "hr/park": "",
@@ -8973,7 +8958,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "4",
-            "result": "Field Error",
+            "result": "In Progress",
             "evo": "71.4",
             "la": "-7",
             "dist": "16"
@@ -9595,6 +9580,21 @@
         }
     ],
     "ari @ laa": [
+        {
+            "player": "nolan schanuel",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-11 21:47:28",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "zach neto",
             "game": "ari @ laa",
