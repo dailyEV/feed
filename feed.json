@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "36",
         "batters": "167",
-        "pitches": "1463",
+        "pitches": "1466",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "38.8",
-        "si%sinker %": "12.7",
-        "fc%cutter %": "7.0",
+        "ff%fourseam fastball %": "38.7",
+        "si%sinker %": "12.8",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "10.5",
+        "ch%changeup %": "10.6",
         "sl%slider %": "18.0",
         "cu%curve %": "11.1",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "101",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "16",
         "brl%barrel %": "6.3",
         "ab": "338",
@@ -24,11 +24,11 @@
         "2b": "14",
         "3b": "3",
         "hr": "11",
-        "so": "83",
-        "bipballs in play": "254",
+        "so": "84",
+        "bipballs in play": "255",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:51:49.440224"
+        "updated": "2025-07-11 20:51:58.648192"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "daniel schneemann",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-11 20:51:13",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "angel martinez",
             "game": "cle-gm2 @ chw-gm2",
@@ -4344,9 +4359,9 @@
             "start": "7:10 PM",
             "in": "3",
             "result": "Flyout",
-            "evo": "89.4",
-            "la": "40",
-            "dist": "288"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "alex bregman",
@@ -5477,7 +5492,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "Caught Stealing 2B",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
