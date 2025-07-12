@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "34",
+        "pitchers": "35",
         "batters": "162",
-        "pitches": "1383",
+        "pitches": "1389",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "39.6",
-        "si%sinker %": "12.1",
-        "fc%cutter %": "7.2",
+        "ff%fourseam fastball %": "39.7",
+        "si%sinker %": "12.0",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.7",
-        "sl%slider %": "17.8",
-        "cu%curve %": "11.1",
+        "sl%slider %": "17.9",
+        "cu%curve %": "11.0",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "99",
-        "hh%hard hit %": "40.6",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "16",
-        "brl%barrel %": "6.6",
-        "ab": "319",
-        "avg": ".232",
+        "brl%barrel %": "6.5",
+        "ab": "320",
+        "avg": ".231",
         "h": "74",
         "1b": "47",
         "2b": "13",
         "3b": "3",
         "hr": "11",
         "so": "79",
-        "bipballs in play": "244",
+        "bipballs in play": "245",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:47:03.030472"
+        "updated": "2025-07-11 20:47:11.956522"
     },
     "cle @ chw": [
         {
@@ -1131,6 +1131,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "jacob stallings",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-07-11 20:47:11",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "68.6",
+            "la": "-17",
+            "dist": "10"
+        },
+        {
             "player": "cedric mullins",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1140,10 +1155,10 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "6",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "83.2",
+            "la": "32",
+            "dist": "294"
         },
         {
             "player": "tyler oneill",
@@ -2590,6 +2605,21 @@
     ],
     "col @ cin": [
         {
+            "player": "kyle farmer",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-11 20:47:11",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler stephenson",
             "game": "col @ cin",
             "hr/park": "",
@@ -3958,21 +3988,6 @@
         }
     ],
     "tb @ bos": [
-        {
-            "player": "josh lowe",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "41",
-            "dt": "2025-07-11 20:46:42",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:10 PM",
-            "in": "5",
-            "result": "Groundout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ceddanne rafaela",
             "game": "tb @ bos",
