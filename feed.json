@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "51",
         "batters": "189",
-        "pitches": "2138",
+        "pitches": "2156",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "36.5",
-        "si%sinker %": "13.3",
-        "fc%cutter %": "7.2",
-        "fs%splitter %": "1.8",
-        "ch%changeup %": "9.6",
-        "sl%slider %": "21.7",
+        "ff%fourseam fastball %": "36.3",
+        "si%sinker %": "13.2",
+        "fc%cutter %": "7.4",
+        "fs%splitter %": "1.9",
+        "ch%changeup %": "9.5",
+        "sl%slider %": "21.8",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "146",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "147",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "25",
-        "brl%barrel %": "6.7",
-        "ab": "490",
-        "avg": ".245",
-        "h": "120",
-        "1b": "76",
+        "brl%barrel %": "6.6",
+        "ab": "491",
+        "avg": ".246",
+        "h": "121",
+        "1b": "77",
         "2b": "23",
         "3b": "4",
         "hr": "17",
-        "so": "118",
-        "bipballs in play": "375",
+        "so": "120",
+        "bipballs in play": "377",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:28:41.138106"
+        "updated": "2025-07-11 21:28:50.830344"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "andrew benintendi",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-07-11 21:28:44",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lenyn sosa",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1003,7 +1018,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1380,10 +1395,10 @@
             "team": "mia",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "106.3",
+            "la": "-16",
+            "dist": "7"
         },
         {
             "player": "jackson holliday",
@@ -4452,6 +4467,21 @@
     ],
     "sea @ det": [
         {
+            "player": "randy arozarena",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-11 21:27:58",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cal raleigh",
             "game": "sea @ det",
             "hr/park": "16/30",
@@ -5348,10 +5378,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "67.3",
             "la": "",
-            "dist": ""
+            "dist": "34"
         },
         {
             "player": "jose caballero",
@@ -6748,7 +6778,7 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7140,7 +7170,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7763,9 +7793,24 @@
     ],
     "atl @ stl": [
         {
-            "player": "nolan arenado",
+            "player": "nolan gorman",
             "game": "atl @ stl",
             "hr/park": "",
+            "pa": "35",
+            "dt": "2025-07-11 21:28:44",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nolan arenado",
+            "game": "atl @ stl",
+            "hr/park": "0/30",
             "pa": "34",
             "dt": "2025-07-11 21:27:42",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
