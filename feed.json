@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "55",
         "batters": "203",
-        "pitches": "2186",
+        "pitches": "2196",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "15.6",
+        "ff%fourseam fastball %": "31.2",
+        "si%sinker %": "15.7",
         "fc%cutter %": "10.3",
         "fs%splitter %": "2.8",
-        "ch%changeup %": "8.9",
+        "ch%changeup %": "8.8",
         "sl%slider %": "19.6",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "164",
-        "hh%hard hit %": "40.6",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "33",
-        "brl%barrel %": "8.2",
-        "ab": "526",
-        "avg": ".238",
+        "brl%barrel %": "8.1",
+        "ab": "527",
+        "avg": ".237",
         "h": "125",
         "1b": "77",
         "2b": "24",
         "3b": "3",
         "hr": "21",
-        "so": "129",
-        "bipballs in play": "404",
+        "so": "130",
+        "bipballs in play": "405",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:31:45.917637"
+        "updated": "2025-07-12 17:31:56.012511"
     },
     "chc @ nyy": [
         {
@@ -1098,6 +1098,21 @@
         }
     ],
     "sea @ det": [
+        {
+            "player": "colt keith",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "80",
+            "dt": "2025-07-12 17:31:56",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake rogers",
             "game": "sea @ det",
@@ -5939,6 +5954,21 @@
     ],
     "col @ cin": [
         {
+            "player": "jordan beck",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-07-12 17:31:56",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "hunter goodman",
             "game": "col @ cin",
             "hr/park": "",
@@ -6550,7 +6580,7 @@
             "team": "kc",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7672,17 +7702,17 @@
         {
             "player": "angel martinez",
             "game": "cle @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "27",
             "dt": "2025-07-12 17:29:40",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "89.7",
+            "la": "23",
+            "dist": "309"
         },
         {
             "player": "daniel schneemann",
@@ -8086,7 +8116,7 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
