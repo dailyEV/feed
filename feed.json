@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "87",
         "batters": "266",
-        "pitches": "3141",
+        "pitches": "3146",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.2",
         "si%sinker %": "14.4",
         "fc%cutter %": "8.2",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "9.6",
+        "ch%changeup %": "9.5",
         "sl%slider %": "21.8",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "221",
-        "hh%hard hit %": "39.6",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "43",
         "brl%barrel %": "7.7",
-        "ab": "722",
+        "ab": "723",
         "avg": ".253",
         "h": "183",
         "1b": "108",
         "2b": "40",
         "3b": "5",
         "hr": "30",
-        "so": "179",
-        "bipballs in play": "558",
+        "so": "180",
+        "bipballs in play": "559",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:23:22.215322"
+        "updated": "2025-07-11 22:23:34.038165"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "luis robert",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-11 22:23:28",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "steven kwan",
             "game": "cle-gm2 @ chw-gm2",
@@ -7797,7 +7812,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9421,7 +9436,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "56.1",
             "la": "-66",
             "dist": "1"
@@ -11752,7 +11767,7 @@
             "team": "phi",
             "start": "9:40 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12214,17 +12229,17 @@
         {
             "player": "will smith",
             "game": "lad @ sf",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "4",
             "dt": "2025-07-11 22:22:13",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "10:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.3",
+            "la": "39",
+            "dist": "314"
         },
         {
             "player": "freddie freeman",
