@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "47",
         "batters": "187",
-        "pitches": "1984",
+        "pitches": "1987",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "36.4",
-        "si%sinker %": "13.4",
+        "ff%fourseam fastball %": "36.3",
+        "si%sinker %": "13.6",
         "fc%cutter %": "7.0",
         "fs%splitter %": "1.9",
         "ch%changeup %": "9.8",
-        "sl%slider %": "21.0",
+        "sl%slider %": "20.9",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "140",
-        "hh%hard hit %": "40.1",
+        "hhhard hit": "141",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "23",
         "brl%barrel %": "6.6",
-        "ab": "454",
-        "avg": ".249",
+        "ab": "457",
+        "avg": ".247",
         "h": "113",
         "1b": "73",
         "2b": "21",
         "3b": "4",
         "hr": "15",
         "so": "110",
-        "bipballs in play": "349",
+        "bipballs in play": "350",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:20:26.146025"
+        "updated": "2025-07-11 21:20:35.918122"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "angel martinez",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-07-11 21:20:29",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle manzardo",
             "game": "cle-gm2 @ chw-gm2",
@@ -4212,6 +4227,21 @@
     ],
     "sea @ det": [
         {
+            "player": "javier baez",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-11 21:20:29",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "104.6",
+            "la": "-32",
+            "dist": "5"
+        },
+        {
             "player": "jp crawford",
             "game": "sea @ det",
             "hr/park": "",
@@ -5033,7 +5063,7 @@
             "team": "tb",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Walk",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
