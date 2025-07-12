@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "108",
         "batters": "295",
-        "pitches": "3980",
+        "pitches": "3984",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.1",
+        "ff%fourseam fastball %": "35.2",
         "si%sinker %": "13.9",
         "fc%cutter %": "8.8",
         "fs%splitter %": "2.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.3",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "264",
-        "hh%hard hit %": "37.7",
+        "hhhard hit": "266",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "52",
         "brl%barrel %": "7.4",
         "ab": "911",
         "avg": ".240",
         "h": "219",
-        "1b": "135",
+        "1b": "134",
         "2b": "46",
-        "3b": "5",
+        "3b": "6",
         "hr": "33",
         "so": "232",
-        "bipballs in play": "701",
+        "bipballs in play": "703",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:17:38.958208"
+        "updated": "2025-07-11 23:17:51.207228"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13732,7 +13732,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "6",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "106.2",
             "la": "6",
             "dist": "126"
@@ -14430,6 +14430,21 @@
     ],
     "tor @ ath": [
         {
+            "player": "vladimir guerrero",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-07-11 23:17:44",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "10:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "98.4",
+            "la": "17",
+            "dist": "323"
+        },
+        {
             "player": "george springer",
             "game": "tor @ ath",
             "hr/park": "",
@@ -14959,17 +14974,17 @@
         {
             "player": "jung hoo lee",
             "game": "lad @ sf",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "30",
             "dt": "2025-07-11 23:16:14",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "10:15 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Triple",
+            "evo": "98.6",
+            "la": "22",
+            "dist": "374"
         },
         {
             "player": "willy adames",
