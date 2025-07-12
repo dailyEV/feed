@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "48",
-        "batters": "188",
-        "pitches": "2074",
+        "pitchers": "49",
+        "batters": "189",
+        "pitches": "2081",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.3",
-        "si%sinker %": "13.4",
-        "fc%cutter %": "7.2",
+        "si%sinker %": "13.3",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "1.9",
         "ch%changeup %": "9.6",
         "sl%slider %": "21.6",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "143",
-        "hh%hard hit %": "39.4",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "23",
         "brl%barrel %": "6.3",
-        "ab": "475",
-        "avg": ".244",
+        "ab": "477",
+        "avg": ".243",
         "h": "116",
         "1b": "74",
         "2b": "23",
         "3b": "4",
         "hr": "15",
         "so": "117",
-        "bipballs in play": "363",
+        "bipballs in play": "364",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:25:26.616391"
+        "updated": "2025-07-11 21:25:36.188363"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3340,6 +3340,21 @@
     ],
     "col @ cin": [
         {
+            "player": "yanquiel fernandez",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-11 21:25:29",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "will benson",
             "game": "col @ cin",
             "hr/park": "",
@@ -4346,6 +4361,21 @@
         }
     ],
     "sea @ det": [
+        {
+            "player": "julio rodriguez",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-07-11 21:25:29",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gleyber torres",
             "game": "sea @ det",
@@ -6559,6 +6589,21 @@
     ],
     "pit @ min": [
         {
+            "player": "kebryan hayes",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-07-11 21:25:29",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian vazquez",
             "game": "pit @ min",
             "hr/park": "",
@@ -7532,10 +7577,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "76.5",
+            "la": "-53",
+            "dist": "3"
         },
         {
             "player": "alec burleson",
