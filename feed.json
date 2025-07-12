@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "40",
+        "pitchers": "41",
         "batters": "182",
-        "pitches": "1709",
+        "pitches": "1712",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "37.4",
+        "ff%fourseam fastball %": "37.6",
         "si%sinker %": "12.8",
         "fc%cutter %": "6.7",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.7",
         "sl%slider %": "19.8",
-        "cu%curve %": "11.4",
+        "cu%curve %": "11.3",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "121",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "122",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "18",
         "brl%barrel %": "5.9",
         "ab": "394",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "12",
         "so": "96",
-        "bipballs in play": "303",
+        "bipballs in play": "304",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:05:10.504631"
+        "updated": "2025-07-11 21:05:19.533353"
     },
     "cle @ chw": [
         {
@@ -1250,21 +1250,6 @@
         }
     ],
     "mia @ bal": [
-        {
-            "player": "ryan ohearn",
-            "game": "mia @ bal",
-            "hr/park": "",
-            "pa": "56",
-            "dt": "2025-07-11 21:04:57",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "7:05 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "gunnar henderson",
             "game": "mia @ bal",
@@ -2965,6 +2950,21 @@
     ],
     "col @ cin": [
         {
+            "player": "mickey moniak",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-11 21:05:13",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin hays",
             "game": "col @ cin",
             "hr/park": "",
@@ -3824,7 +3824,7 @@
         {
             "player": "dillon dingler",
             "game": "sea @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "50",
             "dt": "2025-07-11 21:04:57",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
@@ -5638,10 +5638,10 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.2",
+            "la": "48",
+            "dist": "292"
         },
         {
             "player": "isiah kiner falefa",
@@ -6355,7 +6355,7 @@
         {
             "player": "austin riley",
             "game": "atl @ stl",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "18",
             "dt": "2025-07-11 20:54:12",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
