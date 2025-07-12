@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "86",
+        "pitchers": "87",
         "batters": "265",
-        "pitches": "3106",
+        "pitches": "3109",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.4",
-        "si%sinker %": "14.1",
+        "ff%fourseam fastball %": "35.3",
+        "si%sinker %": "14.2",
         "fc%cutter %": "8.2",
         "fs%splitter %": "2.0",
         "ch%changeup %": "9.6",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.5",
         "brlbarrels": "41",
         "brl%barrel %": "7.5",
-        "ab": "713",
-        "avg": ".254",
+        "ab": "715",
+        "avg": ".253",
         "h": "181",
         "1b": "107",
         "2b": "40",
         "3b": "5",
         "hr": "29",
         "so": "177",
-        "bipballs in play": "549",
+        "bipballs in play": "550",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:20:53.396901"
+        "updated": "2025-07-11 22:21:05.392082"
     },
     "cle @ chw": [
         {
@@ -1003,10 +1003,10 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Lineout",
-            "evo": "83.9",
-            "la": "23",
-            "dist": "277"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "brayan rocchio",
@@ -8630,6 +8630,21 @@
     ],
     "pit @ min": [
         {
+            "player": "isiah kiner falefa",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-11 22:20:59",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt wallner",
             "game": "pit @ min",
             "hr/park": "",
@@ -11653,6 +11668,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "kyle schwarber",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-11 22:20:59",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "9:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trea turner",
             "game": "phi @ sd",
             "hr/park": "",
@@ -11662,10 +11692,10 @@
             "team": "phi",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.0",
+            "la": "26",
+            "dist": "338"
         },
         {
             "player": "brandon marsh",
@@ -11979,7 +12009,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12101,10 +12131,10 @@
             "team": "lad",
             "start": "10:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "62.0",
+            "la": "-14",
+            "dist": "13"
         },
         {
             "player": "mookie betts",
