@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "81",
-        "batters": "257",
-        "pitches": "3015",
+        "pitchers": "83",
+        "batters": "260",
+        "pitches": "3020",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.3",
         "si%sinker %": "14.2",
-        "fc%cutter %": "8.2",
+        "fc%cutter %": "8.1",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.4",
         "sl%slider %": "21.9",
-        "cu%curve %": "8.8",
+        "cu%curve %": "8.7",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "214",
-        "hh%hard hit %": "39.9",
-        "brlbarrels": "40",
-        "brl%barrel %": "7.5",
-        "ab": "693",
-        "avg": ".257",
-        "h": "178",
+        "hhhard hit": "215",
+        "hh%hard hit %": "40.1",
+        "brlbarrels": "41",
+        "brl%barrel %": "7.6",
+        "ab": "697",
+        "avg": ".254",
+        "h": "177",
         "1b": "104",
-        "2b": "40",
+        "2b": "39",
         "3b": "5",
         "hr": "29",
-        "so": "171",
+        "so": "172",
         "bipballs in play": "536",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:16:21.485839"
+        "updated": "2025-07-11 22:16:32.830149"
     },
     "cle @ chw": [
         {
@@ -1003,10 +1003,10 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "6",
-            "result": "Double",
-            "evo": "77.6",
-            "la": "10",
-            "dist": "109"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "bo naylor",
@@ -7411,6 +7411,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "pete alonso",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-07-11 22:16:29",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "juan soto",
             "game": "nym @ kc",
             "hr/park": "",
@@ -7420,7 +7435,7 @@
             "team": "nym",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Game Advisory",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11730,6 +11745,36 @@
     ],
     "tor @ ath": [
         {
+            "player": "brent rooker",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-11 22:15:58",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "lawrence butler",
+            "game": "tor @ ath",
+            "hr/park": "0/30",
+            "pa": "5",
+            "dt": "2025-07-11 22:15:28",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "1",
+            "result": "Lineout",
+            "evo": "106.8",
+            "la": "18",
+            "dist": "367"
+        },
+        {
             "player": "bo bichette",
             "game": "tor @ ath",
             "hr/park": "",
@@ -11790,5 +11835,21 @@
             "dist": "1"
         }
     ],
-    "lad @ sf": []
+    "lad @ sf": [
+        {
+            "player": "shohei ohtani",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-11 22:16:29",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "10:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ]
 }
