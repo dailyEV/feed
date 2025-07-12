@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "71",
-        "batters": "236",
-        "pitches": "2766",
+        "batters": "238",
+        "pitches": "2772",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "35.8",
@@ -10,17 +10,17 @@
         "fc%cutter %": "7.5",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.3",
-        "sl%slider %": "22.1",
+        "sl%slider %": "22.2",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "191",
         "hh%hard hit %": "39.5",
         "brlbarrels": "35",
         "brl%barrel %": "7.2",
-        "ab": "633",
+        "ab": "635",
         "avg": ".250",
-        "h": "158",
-        "1b": "93",
+        "h": "159",
+        "1b": "94",
         "2b": "35",
         "3b": "5",
         "hr": "25",
@@ -28,7 +28,7 @@
         "bipballs in play": "484",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 22:01:23.593639"
+        "updated": "2025-07-11 22:01:33.824021"
     },
     "cle @ chw": [
         {
@@ -1003,10 +1003,10 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Flyout",
-            "evo": "95.4",
-            "la": "34",
-            "dist": "342"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "kyle manzardo",
@@ -9639,6 +9639,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "michael harris",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-11 22:01:28",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick allen",
             "game": "atl @ stl",
             "hr/park": "",
@@ -10391,6 +10406,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "gustavo campero",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-11 22:01:28",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis rengifo",
             "game": "ari @ laa",
             "hr/park": "",
@@ -10400,10 +10430,10 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "99.7",
+            "la": "1",
+            "dist": "55"
         },
         {
             "player": "logan ohoppe",
@@ -10558,6 +10588,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "jt realmuto",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-11 22:01:28",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "max kepler",
             "game": "phi @ sd",
             "hr/park": "",
@@ -10567,7 +10612,7 @@
             "team": "phi",
             "start": "9:40 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
