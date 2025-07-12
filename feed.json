@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "121",
         "batters": "296",
-        "pitches": "4273",
+        "pitches": "4281",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.4",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.6",
         "fs%splitter %": "2.7",
         "ch%changeup %": "9.8",
-        "sl%slider %": "21.6",
+        "sl%slider %": "21.7",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "282",
+        "hhhard hit": "283",
         "hh%hard hit %": "37.8",
         "brlbarrels": "56",
         "brl%barrel %": "7.5",
-        "ab": "973",
-        "avg": ".244",
-        "h": "237",
-        "1b": "147",
+        "ab": "975",
+        "avg": ".245",
+        "h": "239",
+        "1b": "149",
         "2b": "49",
         "3b": "6",
         "hr": "35",
         "so": "249",
-        "bipballs in play": "746",
+        "bipballs in play": "748",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:46:49.043245"
+        "updated": "2025-07-11 23:47:03.004580"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "10",
-            "result": "Game Advisory",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14272,10 +14272,10 @@
             "team": "phi",
             "start": "9:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "90.2",
+            "la": "7",
+            "dist": "134"
         },
         {
             "player": "bryce harper",
@@ -15164,6 +15164,36 @@
         }
     ],
     "tor @ ath": [
+        {
+            "player": "addison barger",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-11 23:47:00",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "10:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "bo bichette",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-11 23:47:00",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "10:05 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "104.2",
+            "la": "11",
+            "dist": "261"
+        },
         {
             "player": "vladimir guerrero",
             "game": "tor @ ath",
