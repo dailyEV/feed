@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "95",
-        "batters": "290",
-        "pitches": "3608",
+        "batters": "291",
+        "pitches": "3613",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.0",
         "si%sinker %": "14.4",
         "fc%cutter %": "8.7",
-        "fs%splitter %": "2.4",
+        "fs%splitter %": "2.5",
         "ch%changeup %": "9.5",
         "sl%slider %": "21.3",
         "cu%curve %": "8.4",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "248",
-        "hh%hard hit %": "38.8",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "47",
-        "brl%barrel %": "7.4",
-        "ab": "830",
+        "brl%barrel %": "7.3",
+        "ab": "833",
         "avg": ".246",
-        "h": "204",
-        "1b": "125",
+        "h": "205",
+        "1b": "126",
         "2b": "41",
         "3b": "5",
         "hr": "33",
         "so": "210",
-        "bipballs in play": "639",
+        "bipballs in play": "641",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:51:47.320418"
+        "updated": "2025-07-11 22:51:59.942765"
     },
     "cle @ chw": [
         {
@@ -994,9 +994,24 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "andrew benintendi",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "0/30",
+            "pa": "64",
+            "dt": "2025-07-11 22:51:57",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "Lineout",
+            "evo": "87.3",
+            "la": "25",
+            "dist": "319"
+        },
+        {
             "player": "lenyn sosa",
             "game": "cle-gm2 @ chw-gm2",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "63",
             "dt": "2025-07-11 22:49:58",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -9215,6 +9230,21 @@
     ],
     "pit @ min": [
         {
+            "player": "adam frazier",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-11 22:51:57",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer horwitz",
             "game": "pit @ min",
             "hr/park": "",
@@ -9224,10 +9254,10 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "90.5",
+            "la": "10",
+            "dist": "162"
         },
         {
             "player": "kebryan hayes",
@@ -13756,6 +13786,21 @@
         }
     ],
     "lad @ sf": [
+        {
+            "player": "mookie betts",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-11 22:51:57",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "10:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "shohei ohtani",
             "game": "lad @ sf",
