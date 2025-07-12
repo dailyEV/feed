@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "78",
-        "pitches": "836",
+        "batters": "79",
+        "pitches": "846",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "28.3",
-        "si%sinker %": "18.3",
-        "fc%cutter %": "9.7",
+        "ff%fourseam fastball %": "28.6",
+        "si%sinker %": "18.2",
+        "fc%cutter %": "9.6",
         "fs%splitter %": "3.7",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "19.4",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "19.3",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "67",
-        "hh%hard hit %": "41.6",
+        "hh%hard hit %": "41.4",
         "brlbarrels": "22",
-        "brl%barrel %": "13.7",
-        "ab": "200",
-        "avg": ".255",
+        "brl%barrel %": "13.6",
+        "ab": "202",
+        "avg": ".252",
         "h": "51",
         "1b": "28",
         "2b": "11",
         "3b": "2",
         "hr": "10",
         "so": "47",
-        "bipballs in play": "161",
+        "bipballs in play": "162",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-07-12 16:09:17.038550"
+        "updated": "2025-07-12 16:09:24.935739"
     },
     "chc @ nyy": [
         {
@@ -1098,6 +1098,21 @@
         }
     ],
     "sea @ det": [
+        {
+            "player": "zach mckinstry",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-12 16:09:24",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "randy arozarena",
             "game": "sea @ det",
@@ -3340,6 +3355,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "teoscar hernandez",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-07-12 16:09:24",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "freddie freeman",
             "game": "lad @ sf",
             "hr/park": "12/30",
@@ -3396,10 +3426,10 @@
             "team": "mia",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "62.6",
+            "la": "39",
+            "dist": "187"
         }
     ],
     "col @ cin": [],
