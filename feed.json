@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "27",
-        "batters": "138",
-        "pitches": "1105",
+        "pitchers": "28",
+        "batters": "140",
+        "pitches": "1109",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "41.1",
+        "ff%fourseam fastball %": "41.0",
         "si%sinker %": "12.0",
-        "fc%cutter %": "7.1",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "10.3",
+        "ch%changeup %": "10.5",
         "sl%slider %": "17.7",
-        "cu%curve %": "10.2",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "75",
-        "hh%hard hit %": "39.3",
+        "hhhard hit": "76",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "13",
-        "brl%barrel %": "6.8",
-        "ab": "251",
-        "avg": ".231",
+        "brl%barrel %": "6.7",
+        "ab": "253",
+        "avg": ".229",
         "h": "58",
         "1b": "38",
         "2b": "9",
         "3b": "2",
         "hr": "9",
         "so": "62",
-        "bipballs in play": "191",
+        "bipballs in play": "193",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:31:33.548250"
+        "updated": "2025-07-11 20:31:41.913049"
     },
     "cle @ chw": [
         {
@@ -3841,6 +3841,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "isaac paredes",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-07-11 20:31:41",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake burger",
             "game": "tex @ hou",
             "hr/park": "0/30",
@@ -3949,11 +3964,11 @@
     "pit @ min": [],
     "wsh @ mil": [
         {
-            "player": "luis garcia",
+            "player": "brady house",
             "game": "wsh @ mil",
             "hr/park": "",
-            "pa": "10",
-            "dt": "2025-07-11 20:30:43",
+            "pa": "11",
+            "dt": "2025-07-11 20:31:41",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "start": "8:10 PM",
@@ -3962,6 +3977,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "luis garcia",
+            "game": "wsh @ mil",
+            "hr/park": "0/30",
+            "pa": "10",
+            "dt": "2025-07-11 20:30:43",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Lineout",
+            "evo": "95.8",
+            "la": "19",
+            "dist": "328"
         },
         {
             "player": "christian yelich",
@@ -4110,10 +4140,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "37.2",
+            "la": "18",
+            "dist": "51"
         },
         {
             "player": "brendan donovan",
