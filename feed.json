@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "74",
-        "batters": "243",
-        "pitches": "2859",
+        "pitchers": "76",
+        "batters": "244",
+        "pitches": "2864",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.7",
+        "ff%fourseam fastball %": "35.8",
         "si%sinker %": "13.8",
-        "fc%cutter %": "7.7",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.1",
         "sl%slider %": "22.1",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "200",
+        "hhhard hit": "201",
         "hh%hard hit %": "39.8",
         "brlbarrels": "38",
-        "brl%barrel %": "7.6",
-        "ab": "656",
-        "avg": ".253",
+        "brl%barrel %": "7.5",
+        "ab": "659",
+        "avg": ".252",
         "h": "166",
         "1b": "98",
         "2b": "35",
         "3b": "5",
         "hr": "28",
         "so": "164",
-        "bipballs in play": "503",
+        "bipballs in play": "505",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-07-11 22:07:25.988269"
+        "updated": "2025-07-11 22:07:36.509944"
     },
     "cle @ chw": [
         {
@@ -4962,6 +4962,21 @@
     ],
     "sea @ det": [
         {
+            "player": "zach mckinstry",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "78",
+            "dt": "2025-07-11 22:07:29",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ben williamson",
             "game": "sea @ det",
             "hr/park": "",
@@ -7533,6 +7548,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "josh smith",
+            "game": "tex @ hou",
+            "hr/park": "0/30",
+            "pa": "50",
+            "dt": "2025-07-11 22:07:29",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "98.3",
+            "la": "22",
+            "dist": "355"
+        },
+        {
             "player": "kyle higashioka",
             "game": "tex @ hou",
             "hr/park": "",
@@ -8279,10 +8309,10 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.2",
+            "la": "42",
+            "dist": "313"
         },
         {
             "player": "kebryan hayes",
@@ -8956,7 +8986,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
