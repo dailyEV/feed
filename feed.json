@@ -1,15 +1,15 @@
 {
     "all": {
-        "pitchers": "70",
+        "pitchers": "71",
         "batters": "223",
-        "pitches": "2641",
+        "pitches": "2643",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.0",
         "si%sinker %": "13.7",
         "fc%cutter %": "7.5",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "9.4",
+        "ch%changeup %": "9.3",
         "sl%slider %": "22.1",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "115.3",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "39.2",
         "brlbarrels": "32",
         "brl%barrel %": "6.9",
-        "ab": "606",
-        "avg": ".248",
+        "ab": "608",
+        "avg": ".247",
         "h": "150",
         "1b": "89",
         "2b": "35",
@@ -28,7 +28,7 @@
         "bipballs in play": "462",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:55:05.695609"
+        "updated": "2025-07-11 21:55:15.614481"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "nolan jones",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-11 21:55:14",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "steven kwan",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1003,10 +1018,10 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "85.6",
+            "la": "-2",
+            "dist": "31"
         },
         {
             "player": "brayan rocchio",
@@ -4857,9 +4872,24 @@
     ],
     "sea @ det": [
         {
-            "player": "cal raleigh",
+            "player": "randy arozarena",
             "game": "sea @ det",
             "hr/park": "",
+            "pa": "72",
+            "dt": "2025-07-11 21:55:14",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "cal raleigh",
+            "game": "sea @ det",
+            "hr/park": "30/30",
             "pa": "71",
             "dt": "2025-07-11 21:52:13",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
@@ -5923,6 +5953,21 @@
         }
     ],
     "tb @ bos": [
+        {
+            "player": "marcelo mayer",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-07-11 21:55:14",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake mangum",
             "game": "tb @ bos",
@@ -7203,21 +7248,6 @@
     ],
     "tex @ hou": [
         {
-            "player": "isaac paredes",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-07-11 21:54:42",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "taylor trammell",
             "game": "tex @ hou",
             "hr/park": "0/30",
@@ -7865,21 +7895,6 @@
     ],
     "pit @ min": [
         {
-            "player": "kody clemens",
-            "game": "pit @ min",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-07-11 21:54:28",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "8:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "royce lewis",
             "game": "pit @ min",
             "hr/park": "",
@@ -7889,10 +7904,10 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Flyout",
-            "evo": "76.5",
-            "la": "30",
-            "dist": "283"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nick gonzales",
@@ -9293,6 +9308,21 @@
         }
     ],
     "atl @ stl": [
+        {
+            "player": "drake baldwin",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-07-11 21:55:14",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jurickson profar",
             "game": "atl @ stl",
