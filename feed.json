@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "119",
         "batters": "296",
-        "pitches": "4222",
+        "pitches": "4229",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.5",
@@ -11,10 +11,10 @@
         "fs%splitter %": "2.8",
         "ch%changeup %": "9.7",
         "sl%slider %": "21.6",
-        "cu%curve %": "8.1",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "278",
-        "hh%hard hit %": "37.6",
+        "hhhard hit": "279",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "56",
         "brl%barrel %": "7.6",
         "ab": "964",
@@ -24,11 +24,11 @@
         "2b": "49",
         "3b": "6",
         "hr": "35",
-        "so": "246",
-        "bipballs in play": "739",
+        "so": "247",
+        "bipballs in play": "741",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:41:46.546343"
+        "updated": "2025-07-11 23:41:59.898154"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "daniel schneemann",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "82",
+            "dt": "2025-07-11 23:41:59",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "10",
+            "result": "Flyout",
+            "evo": "79.0",
+            "la": "35",
+            "dist": "278"
+        },
+        {
             "player": "angel martinez",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1003,7 +1018,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "10",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13310,7 +13325,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14182,10 +14197,10 @@
             "team": "phi",
             "start": "9:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "95.6",
+            "la": "50",
+            "dist": "269"
         },
         {
             "player": "trea turner",
