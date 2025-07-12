@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "79",
-        "batters": "254",
-        "pitches": "2937",
+        "batters": "255",
+        "pitches": "2947",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "22.0",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "208",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "210",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "40",
-        "brl%barrel %": "7.7",
-        "ab": "676",
-        "avg": ".254",
-        "h": "172",
-        "1b": "100",
+        "brl%barrel %": "7.6",
+        "ab": "679",
+        "avg": ".255",
+        "h": "173",
+        "1b": "101",
         "2b": "38",
         "3b": "5",
         "hr": "29",
         "so": "165",
-        "bipballs in play": "522",
+        "bipballs in play": "525",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-07-11 22:12:07.412429"
+        "updated": "2025-07-11 22:12:18.894556"
     },
     "cle @ chw": [
         {
@@ -5007,6 +5007,21 @@
     ],
     "sea @ det": [
         {
+            "player": "parker meadows",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "80",
+            "dt": "2025-07-11 22:12:12",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trey sweeney",
             "game": "sea @ det",
             "hr/park": "",
@@ -9136,7 +9151,7 @@
             "team": "wsh",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11202,6 +11217,36 @@
         }
     ],
     "phi @ sd": [
+        {
+            "player": "fernando tatis",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-11 22:12:12",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "95.6",
+            "la": "18",
+            "dist": "288"
+        },
+        {
+            "player": "elias diaz",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-07-11 22:12:12",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "101.2",
+            "la": "-18",
+            "dist": "10"
+        },
         {
             "player": "jake cronenworth",
             "game": "phi @ sd",
