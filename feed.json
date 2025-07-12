@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "31",
         "batters": "152",
-        "pitches": "1227",
+        "pitches": "1229",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "40.5",
-        "si%sinker %": "11.7",
-        "fc%cutter %": "7.1",
+        "ff%fourseam fastball %": "40.2",
+        "si%sinker %": "11.6",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.9",
-        "sl%slider %": "18.1",
-        "cu%curve %": "10.3",
+        "sl%slider %": "18.2",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "85",
-        "hh%hard hit %": "39.4",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "14",
-        "brl%barrel %": "6.5",
-        "ab": "283",
-        "avg": ".233",
+        "brl%barrel %": "6.6",
+        "ab": "284",
+        "avg": ".232",
         "h": "66",
         "1b": "44",
         "2b": "10",
         "3b": "2",
         "hr": "10",
-        "so": "69",
-        "bipballs in play": "216",
+        "so": "71",
+        "bipballs in play": "213",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:38:25.252139"
+        "updated": "2025-07-11 20:38:33.824709"
     },
     "cle @ chw": [
         {
@@ -2350,21 +2350,6 @@
     ],
     "col @ cin": [
         {
-            "player": "brenton doyle",
-            "game": "col @ cin",
-            "hr/park": "",
-            "pa": "47",
-            "dt": "2025-07-11 20:37:41",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "7:10 PM",
-            "in": "6",
-            "result": "Groundout",
-            "evo": "74.1",
-            "la": "-49",
-            "dist": "3"
-        },
-        {
             "player": "ryan mcmahon",
             "game": "col @ cin",
             "hr/park": "",
@@ -3042,6 +3027,21 @@
     ],
     "sea @ det": [
         {
+            "player": "colt keith",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-11 20:38:28",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier baez",
             "game": "sea @ det",
             "hr/park": "",
@@ -3051,7 +3051,7 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3638,7 +3638,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4371,21 +4371,6 @@
     ],
     "wsh @ mil": [
         {
-            "player": "brice turang",
-            "game": "wsh @ mil",
-            "hr/park": "",
-            "pa": "15",
-            "dt": "2025-07-11 20:37:27",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "8:10 PM",
-            "in": "2",
-            "result": "Groundout",
-            "evo": "85.1",
-            "la": "-25",
-            "dist": "8"
-        },
-        {
             "player": "isaac collins",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -4395,10 +4380,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Groundout",
-            "evo": "83.7",
-            "la": "-38",
-            "dist": "4"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "andrew vaughn",
@@ -4598,6 +4583,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "nolan arenado",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-11 20:37:57",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lars nootbaar",
             "game": "atl @ stl",
             "hr/park": "",
@@ -4607,7 +4607,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
