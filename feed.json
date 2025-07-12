@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "134",
         "batters": "299",
-        "pitches": "4616",
+        "pitches": "4619",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.5",
         "brlbarrels": "68",
         "brl%barrel %": "8.3",
-        "ab": "1048",
-        "avg": ".249",
-        "h": "261",
+        "ab": "1049",
+        "avg": ".250",
+        "h": "262",
         "1b": "158",
-        "2b": "54",
+        "2b": "55",
         "3b": "7",
         "hr": "42",
         "so": "261",
         "bipballs in play": "818",
         "liveGames": 0,
         "totGames": 16,
-        "updated": "2025-07-12 00:24:05.369104"
+        "updated": "2025-07-12 00:24:18.502300"
     },
     "cle @ chw": [
         {
@@ -13775,7 +13775,7 @@
             "team": "laa",
             "start": "",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -16952,16 +16952,31 @@
     ],
     "lad @ sf": [
         {
-            "player": "mookie betts",
+            "player": "freddie freeman",
             "game": "lad @ sf",
             "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-12 00:24:09",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "mookie betts",
+            "game": "lad @ sf",
+            "hr/park": "0/30",
             "pa": "59",
             "dt": "2025-07-12 00:22:22",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "",
             "in": "7",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "96.3",
             "la": "27",
             "dist": "379"
