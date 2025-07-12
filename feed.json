@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "136",
         "batters": "299",
-        "pitches": "4645",
+        "pitches": "4651",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.1",
         "si%sinker %": "14.5",
-        "fc%cutter %": "8.4",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "2.6",
         "ch%changeup %": "9.9",
         "sl%slider %": "22.1",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "309",
+        "hhhard hit": "310",
         "hh%hard hit %": "37.5",
         "brlbarrels": "68",
         "brl%barrel %": "8.2",
-        "ab": "1057",
+        "ab": "1059",
         "avg": ".250",
-        "h": "264",
-        "1b": "160",
+        "h": "265",
+        "1b": "161",
         "2b": "55",
         "3b": "7",
         "hr": "42",
         "so": "263",
-        "bipballs in play": "825",
+        "bipballs in play": "827",
         "liveGames": 0,
         "totGames": 16,
-        "updated": "2025-07-12 00:31:01.861349"
+        "updated": "2025-07-12 00:31:15.730102"
     },
     "cle @ chw": [
         {
@@ -13766,6 +13766,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "geraldo perdomo",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "79",
+            "dt": "2025-07-12 00:31:08",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ketel marte",
             "game": "ari @ laa",
             "hr/park": "",
@@ -13775,10 +13790,10 @@
             "team": "ari",
             "start": "",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "113.0",
+            "la": "8",
+            "dist": "169"
         },
         {
             "player": "jo adell",
@@ -15977,7 +15992,7 @@
         {
             "player": "addison barger",
             "game": "tor @ ath",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "70",
             "dt": "2025-07-12 00:29:06",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -17027,11 +17042,11 @@
     ],
     "lad @ sf": [
         {
-            "player": "matt chapman",
+            "player": "willy adames",
             "game": "lad @ sf",
             "hr/park": "",
-            "pa": "63",
-            "dt": "2025-07-12 00:29:52",
+            "pa": "64",
+            "dt": "2025-07-12 00:31:08",
             "img": "https://www.mlbstatic.com/team-logos/137.svg",
             "team": "sf",
             "start": "",
@@ -17040,6 +17055,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "matt chapman",
+            "game": "lad @ sf",
+            "hr/park": "0/30",
+            "pa": "63",
+            "dt": "2025-07-12 00:29:52",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "",
+            "in": "7",
+            "result": "Lineout",
+            "evo": "92.7",
+            "la": "18",
+            "dist": "308"
         },
         {
             "player": "teoscar hernandez",
