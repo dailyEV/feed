@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "61",
+        "pitchers": "62",
         "batters": "199",
-        "pitches": "2365",
+        "pitches": "2373",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "36.0",
+        "ff%fourseam fastball %": "36.1",
         "si%sinker %": "13.6",
         "fc%cutter %": "7.7",
         "fs%splitter %": "1.8",
         "ch%changeup %": "9.5",
-        "sl%slider %": "22.0",
-        "cu%curve %": "9.5",
+        "sl%slider %": "21.9",
+        "cu%curve %": "9.4",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "168",
+        "hhhard hit": "169",
         "hh%hard hit %": "40.2",
         "brlbarrels": "29",
         "brl%barrel %": "6.9",
-        "ab": "539",
-        "avg": ".250",
-        "h": "135",
-        "1b": "82",
+        "ab": "542",
+        "avg": ".251",
+        "h": "136",
+        "1b": "83",
         "2b": "29",
         "3b": "4",
         "hr": "20",
         "so": "128",
-        "bipballs in play": "418",
+        "bipballs in play": "420",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:40:35.367092"
+        "updated": "2025-07-11 21:40:45.278402"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "daniel schneemann",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-07-11 21:40:43",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis robert",
             "game": "cle-gm2 @ chw-gm2",
@@ -2483,21 +2498,6 @@
     ],
     "chc @ nyy": [
         {
-            "player": "reese mcguire",
-            "game": "chc @ nyy",
-            "hr/park": "",
-            "pa": "74",
-            "dt": "2025-07-11 21:39:57",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "7:05 PM",
-            "in": "9",
-            "result": "Groundout",
-            "evo": "43.9",
-            "la": "-37",
-            "dist": "6"
-        },
-        {
             "player": "vidal brujan",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -3594,6 +3594,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "austin hays",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-07-11 21:40:43",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt mclain",
             "game": "col @ cin",
@@ -4701,10 +4716,10 @@
             "team": "sea",
             "start": "7:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "108.1",
+            "la": "-6",
+            "dist": "20"
         },
         {
             "player": "spencer torkelson",
@@ -8544,6 +8559,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "matt olson",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-11 21:40:43",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ronald acuna",
             "game": "atl @ stl",
             "hr/park": "",
@@ -8553,10 +8583,10 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "81.6",
+            "la": "50",
+            "dist": "248"
         },
         {
             "player": "brendan donovan",
@@ -9129,7 +9159,23 @@
             "dist": "312"
         }
     ],
-    "ari @ laa": [],
+    "ari @ laa": [
+        {
+            "player": "ketel marte",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-11 21:40:43",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:38 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "88.5",
+            "la": "79",
+            "dist": "37"
+        }
+    ],
     "phi @ sd": [],
     "tor @ ath": [],
     "lad @ sf": []
