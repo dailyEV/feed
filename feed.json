@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "108",
         "batters": "294",
-        "pitches": "3943",
+        "pitches": "3948",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.1",
-        "si%sinker %": "13.9",
+        "si%sinker %": "14.0",
         "fc%cutter %": "8.9",
         "fs%splitter %": "3.0",
         "ch%changeup %": "9.4",
-        "sl%slider %": "21.2",
+        "sl%slider %": "21.3",
         "cu%curve %": "8.2",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "262",
-        "hh%hard hit %": "37.7",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "51",
         "brl%barrel %": "7.3",
-        "ab": "905",
+        "ab": "904",
         "avg": ".240",
         "h": "217",
         "1b": "134",
         "2b": "45",
         "3b": "5",
         "hr": "33",
-        "so": "229",
-        "bipballs in play": "695",
+        "so": "230",
+        "bipballs in play": "696",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:15:20.566272"
+        "updated": "2025-07-11 23:15:32.998439"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "edgar quero",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-07-11 23:15:28",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh rojas",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "0/30",
@@ -1003,7 +1018,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "93.5",
             "la": "43",
             "dist": "310"
@@ -8480,17 +8495,17 @@
         {
             "player": "brice matthews",
             "game": "tex @ hou",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "78",
             "dt": "2025-07-11 23:14:13",
             "img": "https://www.mlbstatic.com/team-logos/117.svg",
             "team": "hou",
             "start": "8:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.7",
+            "la": "27",
+            "dist": "322"
         },
         {
             "player": "ezequiel duran",
@@ -14355,21 +14370,6 @@
     ],
     "tor @ ath": [
         {
-            "player": "nathan lukes",
-            "game": "tor @ ath",
-            "hr/park": "",
-            "pa": "34",
-            "dt": "2025-07-11 23:15:14",
-            "img": "https://www.mlbstatic.com/team-logos/141.svg",
-            "team": "tor",
-            "start": "10:05 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "miguel andujar",
             "game": "tor @ ath",
             "hr/park": "0/30",
@@ -14876,7 +14876,7 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
