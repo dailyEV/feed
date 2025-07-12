@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "37",
-        "batters": "104",
-        "pitches": "1016",
+        "pitchers": "38",
+        "batters": "105",
+        "pitches": "1021",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.2",
         "ff%fourseam fastball %": "28.4",
-        "si%sinker %": "18.2",
+        "si%sinker %": "18.1",
         "fc%cutter %": "11.0",
         "fs%splitter %": "3.2",
-        "ch%changeup %": "8.9",
+        "ch%changeup %": "8.8",
         "sl%slider %": "18.7",
-        "cu%curve %": "11.5",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "72",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "22",
-        "brl%barrel %": "11.8",
-        "ab": "238",
-        "avg": ".239",
+        "brl%barrel %": "11.7",
+        "ab": "239",
+        "avg": ".238",
         "h": "57",
         "1b": "32",
         "2b": "13",
         "3b": "2",
         "hr": "10",
         "so": "58",
-        "bipballs in play": "187",
+        "bipballs in play": "188",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:19:51.113677"
+        "updated": "2025-07-12 16:19:59.306207"
     },
     "chc @ nyy": [
         {
@@ -3672,6 +3672,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "jackson holliday",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-12 16:19:55",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eric wagaman",
             "game": "mia @ bal",
             "hr/park": "",
@@ -3898,9 +3913,9 @@
             "start": "4:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "77.6",
+            "la": "17",
+            "dist": "208"
         },
         {
             "player": "jarren duran",
