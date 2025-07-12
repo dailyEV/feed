@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "44",
-        "batters": "172",
-        "pitches": "1434",
+        "batters": "173",
+        "pitches": "1438",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "29.6",
         "si%sinker %": "16.3",
-        "fc%cutter %": "10.9",
+        "fc%cutter %": "10.8",
         "fs%splitter %": "3.4",
-        "ch%changeup %": "8.4",
+        "ch%changeup %": "8.3",
         "sl%slider %": "18.9",
-        "cu%curve %": "12.5",
+        "cu%curve %": "12.4",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "97",
+        "hhhard hit": "98",
         "hh%hard hit %": "37.5",
         "brlbarrels": "27",
-        "brl%barrel %": "10.4",
-        "ab": "330",
-        "avg": ".233",
-        "h": "77",
-        "1b": "44",
+        "brl%barrel %": "10.3",
+        "ab": "332",
+        "avg": ".235",
+        "h": "78",
+        "1b": "45",
         "2b": "15",
         "3b": "2",
         "hr": "16",
-        "so": "79",
-        "bipballs in play": "259",
+        "so": "80",
+        "bipballs in play": "261",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:43:19.321292"
+        "updated": "2025-07-12 16:43:27.900704"
     },
     "chc @ nyy": [
         {
@@ -1926,6 +1926,21 @@
     ],
     "pit @ min": [
         {
+            "player": "nick gonzales",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-07-12 16:43:25",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adam frazier",
             "game": "pit @ min",
             "hr/park": "",
@@ -2977,6 +2992,21 @@
         }
     ],
     "atl @ stl": [
+        {
+            "player": "drake baldwin",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-07-12 16:43:25",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "2:15 PM",
+            "in": "9",
+            "result": "Single",
+            "evo": "104.8",
+            "la": "9",
+            "dist": "196"
+        },
         {
             "player": "michael harris",
             "game": "atl @ stl",
@@ -5037,10 +5067,10 @@
             "team": "tb",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.8",
+            "la": "-28",
+            "dist": "6"
         },
         {
             "player": "taylor walls",
@@ -5371,7 +5401,7 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
