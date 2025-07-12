@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "48",
+        "pitchers": "49",
         "batters": "192",
-        "pitches": "1616",
+        "pitches": "1627",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "30.8",
         "si%sinker %": "16.2",
         "fc%cutter %": "10.4",
-        "fs%splitter %": "3.3",
-        "ch%changeup %": "8.2",
-        "sl%slider %": "18.8",
-        "cu%curve %": "12.3",
+        "fs%splitter %": "3.4",
+        "ch%changeup %": "8.3",
+        "sl%slider %": "18.6",
+        "cu%curve %": "12.2",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "110",
-        "hh%hard hit %": "37.5",
+        "hhhard hit": "111",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "27",
         "brl%barrel %": "9.2",
-        "ab": "381",
-        "avg": ".236",
-        "h": "90",
-        "1b": "55",
+        "ab": "384",
+        "avg": ".237",
+        "h": "91",
+        "1b": "56",
         "2b": "16",
         "3b": "2",
         "hr": "17",
-        "so": "93",
-        "bipballs in play": "293",
+        "so": "94",
+        "bipballs in play": "294",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:53:16.324638"
+        "updated": "2025-07-12 16:53:25.163339"
     },
     "chc @ nyy": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "sea @ det": [
         {
+            "player": "jorge polanco",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-12 16:52:42",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "randy arozarena",
             "game": "sea @ det",
             "hr/park": "",
@@ -1985,6 +2000,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "royce lewis",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-07-12 16:53:25",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt wallner",
             "game": "pit @ min",
@@ -4647,6 +4677,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "otto lopez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-07-12 16:53:25",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "heriberto hernandez",
             "game": "mia @ bal",
             "hr/park": "",
@@ -4656,7 +4701,7 @@
             "team": "mia",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5003,10 +5048,10 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "111.5",
+            "la": "4",
+            "dist": "118"
         },
         {
             "player": "matt mclain",
@@ -5622,7 +5667,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Caught Stealing 2B",
             "evo": "",
             "la": "",
             "dist": ""
