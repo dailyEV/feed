@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "154",
-        "pitches": "1306",
+        "batters": "156",
+        "pitches": "1316",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "29.4",
-        "si%sinker %": "17.1",
-        "fc%cutter %": "10.7",
-        "fs%splitter %": "3.4",
-        "ch%changeup %": "8.6",
-        "sl%slider %": "18.7",
-        "cu%curve %": "12.1",
+        "si%sinker %": "16.9",
+        "fc%cutter %": "10.9",
+        "fs%splitter %": "3.3",
+        "ch%changeup %": "8.5",
+        "sl%slider %": "18.6",
+        "cu%curve %": "12.2",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "87",
-        "hh%hard hit %": "36.9",
+        "hh%hard hit %": "36.7",
         "brlbarrels": "25",
-        "brl%barrel %": "10.6",
-        "ab": "304",
-        "avg": ".243",
+        "brl%barrel %": "10.5",
+        "ab": "306",
+        "avg": ".242",
         "h": "74",
         "1b": "42",
         "2b": "15",
         "3b": "2",
         "hr": "15",
         "so": "71",
-        "bipballs in play": "236",
+        "bipballs in play": "237",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:36:20.583007"
+        "updated": "2025-07-12 16:36:29.138133"
     },
     "chc @ nyy": [
         {
@@ -1875,7 +1875,7 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4379,6 +4379,21 @@
     ],
     "col @ cin": [
         {
+            "player": "spencer steer",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-12 16:35:40",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brenton doyle",
             "game": "col @ cin",
             "hr/park": "",
@@ -4697,6 +4712,21 @@
         }
     ],
     "tb @ bos": [
+        {
+            "player": "trevor story",
+            "game": "tb @ bos",
+            "hr/park": "0/30",
+            "pa": "13",
+            "dt": "2025-07-12 16:35:40",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "89.1",
+            "la": "27",
+            "dist": "305"
+        },
         {
             "player": "masataka yoshida",
             "game": "tb @ bos",
