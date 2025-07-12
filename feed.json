@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "40",
         "batters": "123",
-        "pitches": "1124",
+        "pitches": "1130",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "28.2",
+        "ff%fourseam fastball %": "28.3",
         "si%sinker %": "17.3",
         "fc%cutter %": "11.1",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "8.6",
+        "ch%changeup %": "8.7",
         "sl%slider %": "18.6",
         "cu%curve %": "12.5",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "80",
-        "hh%hard hit %": "38.6",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "22",
         "brl%barrel %": "10.6",
         "ab": "265",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "11",
         "so": "60",
-        "bipballs in play": "207",
+        "bipballs in play": "208",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:26:19.009871"
+        "updated": "2025-07-12 16:26:27.518959"
     },
     "chc @ nyy": [
         {
@@ -1831,9 +1831,9 @@
             "start": "2:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "92.3",
+            "la": "-16",
+            "dist": "5"
         },
         {
             "player": "isiah kiner falefa",
@@ -2762,7 +2762,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4096,6 +4096,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "maikel garcia",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-12 16:26:24",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vinnie pasquantino",
             "game": "nym @ kc",
             "hr/park": "",
@@ -4187,21 +4202,6 @@
         }
     ],
     "tb @ bos": [
-        {
-            "player": "junior caminero",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-07-12 16:26:10",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "4:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "carlos narvaez",
             "game": "tb @ bos",
