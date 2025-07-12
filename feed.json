@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "90",
-        "batters": "275",
-        "pitches": "3301",
+        "batters": "277",
+        "pitches": "3306",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.1",
-        "si%sinker %": "14.7",
-        "fc%cutter %": "8.4",
+        "si%sinker %": "14.6",
+        "fc%cutter %": "8.3",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "9.3",
+        "ch%changeup %": "9.4",
         "sl%slider %": "21.5",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "115.3",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.3",
         "brlbarrels": "45",
         "brl%barrel %": "7.6",
-        "ab": "759",
-        "avg": ".254",
-        "h": "193",
-        "1b": "117",
+        "ab": "761",
+        "avg": ".252",
+        "h": "192",
+        "1b": "116",
         "2b": "40",
         "3b": "5",
         "hr": "31",
         "so": "187",
-        "bipballs in play": "590",
+        "bipballs in play": "591",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:32:37.658519"
+        "updated": "2025-07-11 22:32:49.486097"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "101.6",
             "la": "",
             "dist": "53"
@@ -7932,7 +7932,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "7",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "96.0",
             "la": "18",
             "dist": "234"
@@ -12165,14 +12165,14 @@
         {
             "player": "jackson merrill",
             "game": "phi @ sd",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "27",
             "dt": "2025-07-11 22:31:13",
             "img": "https://www.mlbstatic.com/team-logos/135.svg",
             "team": "sd",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "103.1",
             "la": "28",
             "dist": "397"
@@ -12570,9 +12570,24 @@
     ],
     "tor @ ath": [
         {
-            "player": "tyler soderstrom",
+            "player": "miguel andujar",
             "game": "tor @ ath",
             "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-11 22:32:43",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "2",
+            "result": "Pop Out",
+            "evo": "87.0",
+            "la": "66",
+            "dist": "153"
+        },
+        {
+            "player": "tyler soderstrom",
+            "game": "tor @ ath",
+            "hr/park": "1/30",
             "pa": "14",
             "dt": "2025-07-11 22:31:59",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
@@ -12781,6 +12796,21 @@
         }
     ],
     "lad @ sf": [
+        {
+            "player": "teoscar hernandez",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-07-11 22:32:43",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "10:15 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "rafael devers",
             "game": "lad @ sf",
