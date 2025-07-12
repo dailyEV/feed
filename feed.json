@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "113",
         "batters": "296",
-        "pitches": "4068",
+        "pitches": "4072",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "14.3",
+        "si%sinker %": "14.4",
         "fc%cutter %": "8.7",
         "fs%splitter %": "2.9",
         "ch%changeup %": "9.5",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "37.7",
         "brlbarrels": "52",
         "brl%barrel %": "7.3",
-        "ab": "930",
+        "ab": "932",
         "avg": ".241",
-        "h": "224",
-        "1b": "138",
+        "h": "225",
+        "1b": "139",
         "2b": "47",
         "3b": "6",
         "hr": "33",
@@ -28,7 +28,7 @@
         "bipballs in play": "714",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:26:45.120499"
+        "updated": "2025-07-11 23:26:57.517522"
     },
     "cle @ chw": [
         {
@@ -13106,6 +13106,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "gustavo campero",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-11 23:26:57",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis rengifo",
             "game": "ari @ laa",
             "hr/park": "",
@@ -14649,7 +14664,7 @@
             "team": "tor",
             "start": "10:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "109.6",
             "la": "-3",
             "dist": "28"
@@ -15227,6 +15242,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "shohei ohtani",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-07-11 23:26:57",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "10:15 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tommy edman",
             "game": "lad @ sf",
             "hr/park": "",
@@ -15236,7 +15266,7 @@
             "team": "lad",
             "start": "10:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "72.6",
             "la": "35",
             "dist": "256"
