@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "41",
-        "batters": "137",
-        "pitches": "1227",
+        "batters": "138",
+        "pitches": "1232",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "28.6",
-        "si%sinker %": "17.7",
+        "ff%fourseam fastball %": "28.8",
+        "si%sinker %": "17.5",
         "fc%cutter %": "10.8",
         "fs%splitter %": "3.6",
         "ch%changeup %": "8.9",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "38.2",
         "brlbarrels": "25",
         "brl%barrel %": "11.1",
-        "ab": "283",
+        "ab": "284",
         "avg": ".254",
         "h": "72",
         "1b": "40",
@@ -28,7 +28,7 @@
         "bipballs in play": "225",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:31:53.192369"
+        "updated": "2025-07-12 16:32:01.483891"
     },
     "chc @ nyy": [
         {
@@ -1846,9 +1846,9 @@
             "start": "2:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "76.4",
+            "la": "-2",
+            "dist": "27"
         },
         {
             "player": "trevor larnach",
@@ -4199,6 +4199,21 @@
     ],
     "col @ cin": [
         {
+            "player": "jordan beck",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-07-12 16:31:55",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gavin lux",
             "game": "col @ cin",
             "hr/park": "",
@@ -4320,21 +4335,6 @@
         }
     ],
     "nym @ kc": [
-        {
-            "player": "pete alonso",
-            "game": "nym @ kc",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-07-12 16:31:12",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "4:10 PM",
-            "in": "2",
-            "result": "Groundout",
-            "evo": "83.6",
-            "la": "-41",
-            "dist": "4"
-        },
         {
             "player": "maikel garcia",
             "game": "nym @ kc",
@@ -4608,7 +4608,23 @@
             "dist": ""
         }
     ],
-    "cle @ chw": [],
+    "cle @ chw": [
+        {
+            "player": "steven kwan",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-12 16:31:55",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "wsh @ mil": [
         {
             "player": "riley adams",
