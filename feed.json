@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "100",
         "batters": "293",
-        "pitches": "3676",
+        "pitches": "3682",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.9",
-        "si%sinker %": "14.4",
+        "si%sinker %": "14.3",
         "fc%cutter %": "8.9",
-        "fs%splitter %": "2.6",
+        "fs%splitter %": "2.7",
         "ch%changeup %": "9.4",
         "sl%slider %": "21.1",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "250",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "47",
         "brl%barrel %": "7.2",
-        "ab": "849",
+        "ab": "848",
         "avg": ".243",
         "h": "206",
         "1b": "126",
         "2b": "42",
         "3b": "5",
         "hr": "33",
-        "so": "215",
-        "bipballs in play": "650",
+        "so": "216",
+        "bipballs in play": "651",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:56:18.504046"
+        "updated": "2025-07-11 22:56:29.857446"
     },
     "cle @ chw": [
         {
@@ -9329,7 +9329,7 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11433,7 +11433,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13635,6 +13635,21 @@
     ],
     "tor @ ath": [
         {
+            "player": "will wagner",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-07-11 22:56:27",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "10:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alejandro kirk",
             "game": "tor @ ath",
             "hr/park": "",
@@ -13644,7 +13659,7 @@
             "team": "tor",
             "start": "10:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -14021,10 +14036,10 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "90.4",
+            "la": "65",
+            "dist": "163"
         },
         {
             "player": "freddie freeman",
