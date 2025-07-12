@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "57",
         "batters": "193",
-        "pitches": "2278",
+        "pitches": "2287",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.2",
-        "si%sinker %": "13.2",
+        "si%sinker %": "13.3",
         "fc%cutter %": "7.7",
-        "fs%splitter %": "1.8",
+        "fs%splitter %": "1.7",
         "ch%changeup %": "9.5",
         "sl%slider %": "22.0",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "160",
-        "hh%hard hit %": "40.2",
-        "brlbarrels": "25",
-        "brl%barrel %": "6.3",
-        "ab": "519",
+        "hhhard hit": "162",
+        "hh%hard hit %": "40.3",
+        "brlbarrels": "26",
+        "brl%barrel %": "6.5",
+        "ab": "520",
         "avg": ".252",
         "h": "131",
         "1b": "80",
         "2b": "28",
         "3b": "4",
         "hr": "19",
-        "so": "121",
-        "bipballs in play": "398",
+        "so": "122",
+        "bipballs in play": "402",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:35:33.455514"
+        "updated": "2025-07-11 21:35:43.598806"
     },
     "cle @ chw": [
         {
@@ -1425,7 +1425,7 @@
             "team": "mia",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2462,10 +2462,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "87.5",
+            "la": "57",
+            "dist": "194"
         },
         {
             "player": "paul goldschmidt",
@@ -3544,7 +3544,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4617,19 +4617,34 @@
     ],
     "sea @ det": [
         {
-            "player": "jahmai jones",
+            "player": "riley greene",
             "game": "sea @ det",
             "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-11 21:34:42",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "111.9",
+            "la": "9",
+            "dist": "183"
+        },
+        {
+            "player": "jahmai jones",
+            "game": "sea @ det",
+            "hr/park": "0/30",
             "pa": "62",
             "dt": "2025-07-11 21:32:43",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "7:10 PM",
             "in": "8",
-            "result": "Game Advisory",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "102.0",
+            "la": "34",
+            "dist": "386"
         },
         {
             "player": "mitch garver",
@@ -5558,10 +5573,10 @@
             "team": "tb",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "89.7",
+            "la": "4",
+            "dist": "89"
         },
         {
             "player": "masataka yoshida",
@@ -6567,7 +6582,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7546,7 +7561,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
