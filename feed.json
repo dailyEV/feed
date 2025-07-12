@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "76",
-        "batters": "246",
-        "pitches": "2877",
+        "pitchers": "77",
+        "batters": "248",
+        "pitches": "2887",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.0",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "202",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "38",
         "brl%barrel %": "7.5",
-        "ab": "662",
-        "avg": ".251",
+        "ab": "663",
+        "avg": ".250",
         "h": "166",
         "1b": "98",
         "2b": "35",
         "3b": "5",
         "hr": "28",
         "so": "164",
-        "bipballs in play": "507",
+        "bipballs in play": "509",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-07-11 22:08:42.153897"
+        "updated": "2025-07-11 22:08:52.842238"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "angel martinez",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-07-11 22:08:45",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle teel",
             "game": "cle-gm2 @ chw-gm2",
@@ -7285,10 +7300,10 @@
             "team": "nym",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Sac Bunt",
+            "evo": "33.7",
             "la": "",
-            "dist": ""
+            "dist": "23"
         },
         {
             "player": "luis torrens",
@@ -10992,6 +11007,36 @@
         }
     ],
     "phi @ sd": [
+        {
+            "player": "jose iglesias",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-11 22:08:45",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jackson merrill",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-11 22:08:45",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "Sac Bunt",
+            "evo": "54.0",
+            "la": "-40",
+            "dist": "2"
+        },
         {
             "player": "xander bogaerts",
             "game": "phi @ sd",
