@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "73",
-        "batters": "205",
-        "pitches": "2640",
+        "batters": "206",
+        "pitches": "2645",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.7",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.2",
         "ch%changeup %": "9.7",
         "sl%slider %": "20.1",
-        "cu%curve %": "10.6",
+        "cu%curve %": "10.5",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "195",
         "hh%hard hit %": "39.5",
         "brlbarrels": "38",
         "brl%barrel %": "7.7",
-        "ab": "627",
-        "avg": ".241",
+        "ab": "630",
+        "avg": ".240",
         "h": "151",
         "1b": "94",
         "2b": "32",
         "3b": "3",
         "hr": "22",
-        "so": "150",
+        "so": "151",
         "bipballs in play": "494",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 18:05:36.583519"
+        "updated": "2025-07-12 18:05:46.920662"
     },
     "chc @ nyy": [
         {
@@ -1214,9 +1214,9 @@
             "start": "1:10 PM",
             "in": "9",
             "result": "Double",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "77.4",
+            "la": "21",
+            "dist": "216"
         },
         {
             "player": "cole young",
@@ -5802,6 +5802,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "jesus sanchez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-07-12 18:05:41",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "agustin ramirez",
             "game": "mia @ bal",
             "hr/park": "0/30",
@@ -6628,6 +6643,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "tj friedl",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-12 18:05:41",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "noelvi marte",
             "game": "col @ cin",
@@ -8148,6 +8178,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "taylor walls",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-07-12 18:05:41",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose caballero",
             "game": "tb @ bos",
             "hr/park": "",
@@ -8157,7 +8202,7 @@
             "team": "tb",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
