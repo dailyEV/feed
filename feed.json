@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "147",
-        "pitches": "1185",
+        "batters": "149",
+        "pitches": "1200",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "40.2",
-        "si%sinker %": "11.9",
-        "fc%cutter %": "7.1",
+        "si%sinker %": "11.8",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "10.9",
-        "sl%slider %": "18.1",
+        "ch%changeup %": "11.0",
+        "sl%slider %": "17.8",
         "cu%curve %": "10.5",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "81",
-        "hh%hard hit %": "39.5",
+        "hhhard hit": "82",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "14",
-        "brl%barrel %": "6.8",
-        "ab": "273",
-        "avg": ".234",
-        "h": "64",
-        "1b": "42",
+        "brl%barrel %": "6.7",
+        "ab": "275",
+        "avg": ".236",
+        "h": "65",
+        "1b": "43",
         "2b": "10",
         "3b": "2",
         "hr": "10",
         "so": "68",
-        "bipballs in play": "205",
+        "bipballs in play": "209",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:36:41.462980"
+        "updated": "2025-07-11 20:36:50.114963"
     },
     "cle @ chw": [
         {
@@ -1003,10 +1003,10 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Passed Ball",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "103.1",
+            "la": "9",
+            "dist": "154"
         },
         {
             "player": "nolan jones",
@@ -1041,6 +1041,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "ryan ohearn",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-11 20:36:44",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "GIDP",
+            "evo": "84.7",
+            "la": "-32",
+            "dist": "4"
+        },
+        {
             "player": "gunnar henderson",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1050,7 +1065,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4198,10 +4213,10 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "82.0",
+            "la": "18",
+            "dist": "227"
         },
         {
             "player": "tommy pham",
@@ -4220,6 +4235,36 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "isaac collins",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-11 20:36:44",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "andrew vaughn",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-11 20:35:27",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "92.8",
+            "la": "54",
+            "dist": "250"
+        },
         {
             "player": "daylen lile",
             "game": "wsh @ mil",
