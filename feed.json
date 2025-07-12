@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "26",
         "batters": "133",
-        "pitches": "1037",
+        "pitches": "1043",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "42.2",
-        "si%sinker %": "11.3",
+        "si%sinker %": "11.5",
         "fc%cutter %": "7.2",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.6",
-        "sl%slider %": "17.1",
-        "cu%curve %": "10.0",
+        "sl%slider %": "16.9",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "70",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "72",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "12",
-        "brl%barrel %": "6.8",
+        "brl%barrel %": "6.7",
         "ab": "237",
-        "avg": ".232",
-        "h": "55",
-        "1b": "36",
+        "avg": ".236",
+        "h": "56",
+        "1b": "37",
         "2b": "9",
         "3b": "2",
         "hr": "8",
         "so": "61",
-        "bipballs in play": "176",
+        "bipballs in play": "179",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:26:50.130266"
+        "updated": "2025-07-11 20:26:58.717229"
     },
     "cle @ chw": [
         {
@@ -2139,6 +2139,21 @@
     ],
     "col @ cin": [
         {
+            "player": "noelvi marte",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-11 20:26:58",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "84.8",
+            "la": "-4",
+            "dist": "29"
+        },
+        {
             "player": "jordan beck",
             "game": "col @ cin",
             "hr/park": "0/30",
@@ -2725,21 +2740,6 @@
         }
     ],
     "sea @ det": [
-        {
-            "player": "dylan moore",
-            "game": "sea @ det",
-            "hr/park": "",
-            "pa": "34",
-            "dt": "2025-07-11 20:26:44",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "7:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "donovan solano",
             "game": "sea @ det",
@@ -3700,10 +3700,10 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "104.9",
+            "la": "11",
+            "dist": "218"
         },
         {
             "player": "wyatt langford",
@@ -3793,10 +3793,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "109.3",
+            "la": "5",
+            "dist": "170"
         },
         {
             "player": "william contreras",
