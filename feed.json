@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "26",
-        "batters": "77",
-        "pitches": "827",
+        "pitchers": "27",
+        "batters": "78",
+        "pitches": "831",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "28.2",
+        "ff%fourseam fastball %": "28.3",
         "si%sinker %": "18.3",
-        "fc%cutter %": "9.8",
+        "fc%cutter %": "9.7",
         "fs%splitter %": "3.7",
         "ch%changeup %": "8.5",
-        "sl%slider %": "19.6",
-        "cu%curve %": "12.0",
+        "sl%slider %": "19.5",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "64",
-        "hh%hard hit %": "40.5",
-        "brlbarrels": "20",
-        "brl%barrel %": "12.7",
-        "ab": "197",
-        "avg": ".249",
-        "h": "49",
+        "hhhard hit": "65",
+        "hh%hard hit %": "40.9",
+        "brlbarrels": "21",
+        "brl%barrel %": "13.2",
+        "ab": "199",
+        "avg": ".251",
+        "h": "50",
         "1b": "28",
         "2b": "10",
         "3b": "2",
-        "hr": "9",
+        "hr": "10",
         "so": "47",
-        "bipballs in play": "158",
+        "bipballs in play": "159",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-07-12 16:08:04.619901"
+        "updated": "2025-07-12 16:08:12.554718"
     },
     "chc @ nyy": [
         {
@@ -1655,6 +1655,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "matt wallner",
+            "game": "pit @ min",
+            "hr/park": "30/30",
+            "pa": "55",
+            "dt": "2025-07-12 16:08:09",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "Home Run",
+            "evo": "112.8",
+            "la": "22",
+            "dist": "434"
+        },
         {
             "player": "brooks lee",
             "game": "pit @ min",
@@ -3355,7 +3370,23 @@
             "dist": "5"
         }
     ],
-    "mia @ bal": [],
+    "mia @ bal": [
+        {
+            "player": "xavier edwards",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-12 16:08:09",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "col @ cin": [],
     "nym @ kc": [],
     "tb @ bos": [],
