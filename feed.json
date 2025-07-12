@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "183",
-        "pitches": "1797",
+        "batters": "185",
+        "pitches": "1798",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "37.1",
+        "ff%fourseam fastball %": "37.0",
         "si%sinker %": "13.1",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "10.0",
-        "sl%slider %": "20.0",
+        "ch%changeup %": "9.8",
+        "sl%slider %": "20.1",
         "cu%curve %": "11.1",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "125",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "126",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "20",
         "brl%barrel %": "6.4",
-        "ab": "412",
-        "avg": ".243",
+        "ab": "415",
+        "avg": ".241",
         "h": "100",
         "1b": "64",
         "2b": "18",
         "3b": "4",
         "hr": "14",
-        "so": "105",
-        "bipballs in play": "311",
+        "so": "104",
+        "bipballs in play": "314",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:09:18.245428"
+        "updated": "2025-07-11 21:09:27.955509"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3055,21 +3055,6 @@
     ],
     "col @ cin": [
         {
-            "player": "jordan beck",
-            "game": "col @ cin",
-            "hr/park": "",
-            "pa": "62",
-            "dt": "2025-07-11 21:08:57",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "7:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "hunter goodman",
             "game": "col @ cin",
             "hr/park": "",
@@ -3079,7 +3064,7 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "8",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4724,6 +4709,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "wilyer abreu",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-11 21:09:27",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "86.5",
+            "la": "52",
+            "dist": "241"
+        },
+        {
             "player": "carlos narvaez",
             "game": "tb @ bos",
             "hr/park": "",
@@ -5854,6 +5854,36 @@
     ],
     "pit @ min": [
         {
+            "player": "matt wallner",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-11 21:09:27",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brooks lee",
+            "game": "pit @ min",
+            "hr/park": "0/30",
+            "pa": "15",
+            "dt": "2025-07-11 21:09:27",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "103.6",
+            "la": "49",
+            "dist": "300"
+        },
+        {
             "player": "carlos correa",
             "game": "pit @ min",
             "hr/park": "",
@@ -6076,9 +6106,9 @@
             "start": "8:10 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "71.8",
+            "la": "3",
+            "dist": "63"
         },
         {
             "player": "luis garcia",
