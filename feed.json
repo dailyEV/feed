@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "27",
+        "pitchers": "26",
         "batters": "135",
-        "pitches": "1066",
+        "pitches": "1073",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "42.2",
-        "si%sinker %": "11.7",
+        "ff%fourseam fastball %": "41.9",
+        "si%sinker %": "11.8",
         "fc%cutter %": "7.1",
-        "fs%splitter %": "1.5",
-        "ch%changeup %": "10.4",
-        "sl%slider %": "17.1",
+        "fs%splitter %": "1.6",
+        "ch%changeup %": "10.3",
+        "sl%slider %": "17.3",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "73",
-        "hh%hard hit %": "39.7",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "13",
-        "brl%barrel %": "7.1",
+        "brl%barrel %": "7.0",
         "ab": "244",
         "avg": ".234",
         "h": "57",
@@ -24,11 +24,11 @@
         "2b": "9",
         "3b": "2",
         "hr": "9",
-        "so": "61",
-        "bipballs in play": "184",
+        "so": "62",
+        "bipballs in play": "186",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:29:06.529844"
+        "updated": "2025-07-11 20:29:14.761336"
     },
     "cle @ chw": [
         {
@@ -1004,7 +1004,7 @@
             "team": "mia",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1576,10 +1576,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "68.2",
+            "la": "60",
+            "dist": "147"
         },
         {
             "player": "cody bellinger",
@@ -2169,6 +2169,21 @@
     ],
     "col @ cin": [
         {
+            "player": "matt mclain",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-11 20:29:12",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tj friedl",
             "game": "col @ cin",
             "hr/park": "",
@@ -2178,7 +2193,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3766,6 +3781,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "jake burger",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-11 20:27:57",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "evan carter",
             "game": "tex @ hou",
             "hr/park": "",
@@ -3868,10 +3898,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "82.0",
+            "la": "-9",
+            "dist": "17"
         },
         {
             "player": "jackson chourio",
@@ -3995,21 +4025,6 @@
         }
     ],
     "atl @ stl": [
-        {
-            "player": "brendan donovan",
-            "game": "atl @ stl",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-07-11 20:28:44",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "8:15 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "ozzie albies",
             "game": "atl @ stl",
