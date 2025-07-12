@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "32",
-        "batters": "84",
-        "pitches": "890",
+        "pitchers": "33",
+        "batters": "86",
+        "pitches": "893",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.2",
         "ff%fourseam fastball %": "28.2",
-        "si%sinker %": "18.2",
-        "fc%cutter %": "9.9",
+        "si%sinker %": "18.0",
+        "fc%cutter %": "10.0",
         "fs%splitter %": "3.5",
         "ch%changeup %": "9.1",
-        "sl%slider %": "19.2",
-        "cu%curve %": "11.8",
+        "sl%slider %": "19.3",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "67",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "69",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "22",
-        "brl%barrel %": "13.1",
-        "ab": "211",
-        "avg": ".242",
+        "brl%barrel %": "12.9",
+        "ab": "213",
+        "avg": ".239",
         "h": "51",
         "1b": "28",
         "2b": "11",
         "3b": "2",
         "hr": "10",
         "so": "47",
-        "bipballs in play": "168",
+        "bipballs in play": "170",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:12:48.154350"
+        "updated": "2025-07-12 16:12:56.255014"
     },
     "chc @ nyy": [
         {
@@ -1108,10 +1108,10 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.3",
+            "la": "-10",
+            "dist": "14"
         },
         {
             "player": "matt vierling",
@@ -2568,9 +2568,9 @@
             "start": "2:15 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "99.3",
+            "la": "19",
+            "dist": "305"
         },
         {
             "player": "masyn winn",
@@ -3534,9 +3534,9 @@
             "start": "4:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "89.4",
-            "la": "11",
-            "dist": "190"
+            "evo": "",
+            "la": "",
+            "dist": ""
         }
     ],
     "nym @ kc": [
@@ -3576,6 +3576,21 @@
     "cle @ chw": [],
     "wsh @ mil": [
         {
+            "player": "james wood",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-12 16:12:54",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cj abrams",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -3585,10 +3600,10 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.4",
+            "la": "-4",
+            "dist": "34"
         }
     ],
     "tex @ hou": [],
