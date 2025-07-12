@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "43",
-        "batters": "171",
-        "pitches": "1427",
+        "pitchers": "44",
+        "batters": "172",
+        "pitches": "1431",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "29.6",
@@ -10,25 +10,25 @@
         "fc%cutter %": "10.8",
         "fs%splitter %": "3.4",
         "ch%changeup %": "8.4",
-        "sl%slider %": "18.8",
+        "sl%slider %": "18.9",
         "cu%curve %": "12.5",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "97",
-        "hh%hard hit %": "38.2",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "27",
-        "brl%barrel %": "10.6",
-        "ab": "328",
-        "avg": ".232",
+        "brl%barrel %": "10.5",
+        "ab": "329",
+        "avg": ".231",
         "h": "76",
         "1b": "43",
         "2b": "15",
         "3b": "2",
         "hr": "16",
         "so": "79",
-        "bipballs in play": "254",
+        "bipballs in play": "257",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:42:52.384288"
+        "updated": "2025-07-12 16:43:01.251534"
     },
     "chc @ nyy": [
         {
@@ -1926,6 +1926,21 @@
     ],
     "pit @ min": [
         {
+            "player": "adam frazier",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-12 16:42:55",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "85.0",
+            "la": "10",
+            "dist": "129"
+        },
+        {
             "player": "andrew mccutchen",
             "game": "pit @ min",
             "hr/park": "",
@@ -2962,6 +2977,21 @@
         }
     ],
     "atl @ stl": [
+        {
+            "player": "michael harris",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-12 16:42:55",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "2:15 PM",
+            "in": "9",
+            "result": "Sac Bunt",
+            "evo": "32.6",
+            "la": "-25",
+            "dist": "5"
+        },
         {
             "player": "nacho alvarez",
             "game": "atl @ stl",
@@ -4296,7 +4326,7 @@
             "team": "mia",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "81.0",
             "la": "64",
             "dist": "157"
@@ -5000,17 +5030,17 @@
         {
             "player": "taylor walls",
             "game": "tb @ bos",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "16",
             "dt": "2025-07-12 16:41:55",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "90.5",
+            "la": "23",
+            "dist": "318"
         },
         {
             "player": "jose caballero",
