@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "47",
         "batters": "187",
-        "pitches": "1980",
+        "pitches": "1984",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "36.5",
+        "ff%fourseam fastball %": "36.4",
         "si%sinker %": "13.4",
         "fc%cutter %": "7.0",
         "fs%splitter %": "1.9",
         "ch%changeup %": "9.8",
         "sl%slider %": "21.0",
-        "cu%curve %": "10.5",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "140",
-        "hh%hard hit %": "40.2",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "23",
         "brl%barrel %": "6.6",
-        "ab": "455",
-        "avg": ".248",
+        "ab": "454",
+        "avg": ".249",
         "h": "113",
         "1b": "73",
         "2b": "21",
         "3b": "4",
         "hr": "15",
         "so": "110",
-        "bipballs in play": "348",
+        "bipballs in play": "349",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:19:47.960076"
+        "updated": "2025-07-11 21:19:57.673241"
     },
     "cle @ chw": [
         {
@@ -1325,21 +1325,6 @@
         }
     ],
     "mia @ bal": [
-        {
-            "player": "cedric mullins",
-            "game": "mia @ bal",
-            "hr/park": "",
-            "pa": "63",
-            "dt": "2025-07-11 21:19:43",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "7:05 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "tyler oneill",
             "game": "mia @ bal",
@@ -3259,7 +3244,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7232,10 +7217,10 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double Play",
+            "evo": "91.8",
+            "la": "50",
+            "dist": "268"
         },
         {
             "player": "nick allen",
