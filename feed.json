@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "50",
         "batters": "198",
-        "pitches": "1744",
+        "pitches": "1750",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "31.3",
         "si%sinker %": "15.9",
         "fc%cutter %": "10.5",
         "fs%splitter %": "3.3",
-        "ch%changeup %": "8.5",
+        "ch%changeup %": "8.6",
         "sl%slider %": "18.6",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "121",
+        "hhhard hit": "122",
         "hh%hard hit %": "38.2",
-        "brlbarrels": "28",
-        "brl%barrel %": "8.8",
-        "ab": "414",
-        "avg": ".229",
-        "h": "95",
+        "brlbarrels": "29",
+        "brl%barrel %": "9.1",
+        "ab": "416",
+        "avg": ".231",
+        "h": "96",
         "1b": "58",
         "2b": "17",
         "3b": "3",
-        "hr": "17",
+        "hr": "18",
         "so": "103",
-        "bipballs in play": "317",
+        "bipballs in play": "319",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:00:36.283426"
+        "updated": "2025-07-12 17:00:45.715063"
     },
     "chc @ nyy": [
         {
@@ -2078,7 +2078,7 @@
         {
             "player": "joey bart",
             "game": "pit @ min",
-            "hr/park": "",
+            "hr/park": "5/30",
             "pa": "79",
             "dt": "2025-07-12 16:59:10",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -4414,7 +4414,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "98.0",
             "la": "-19",
             "dist": "8"
@@ -4856,6 +4856,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "ryan ohearn",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-07-12 17:00:40",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "86.5",
+            "la": "-25",
+            "dist": "8"
+        },
         {
             "player": "gunnar henderson",
             "game": "mia @ bal",
@@ -5982,7 +5997,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "4",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "65.9",
             "la": "-24",
             "dist": "7"
@@ -6546,6 +6561,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "brady house",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-12 17:00:40",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "Home Run",
+            "evo": "108.7",
+            "la": "27",
+            "dist": "427"
+        },
         {
             "player": "luis garcia",
             "game": "wsh @ mil",
