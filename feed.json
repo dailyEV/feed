@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "71",
-        "batters": "228",
-        "pitches": "2683",
+        "batters": "227",
+        "pitches": "2694",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "35.9",
-        "si%sinker %": "13.7",
+        "ff%fourseam fastball %": "35.8",
+        "si%sinker %": "13.8",
         "fc%cutter %": "7.5",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.4",
-        "sl%slider %": "22.3",
+        "sl%slider %": "22.2",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "186",
-        "hh%hard hit %": "39.3",
-        "brlbarrels": "34",
-        "brl%barrel %": "7.2",
-        "ab": "619",
-        "avg": ".249",
+        "hhhard hit": "187",
+        "hh%hard hit %": "39.5",
+        "brlbarrels": "33",
+        "brl%barrel %": "7.0",
+        "ab": "620",
+        "avg": ".248",
         "h": "154",
-        "1b": "90",
+        "1b": "91",
         "2b": "35",
         "3b": "5",
-        "hr": "24",
+        "hr": "23",
         "so": "152",
-        "bipballs in play": "473",
+        "bipballs in play": "474",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:57:39.775878"
+        "updated": "2025-07-11 21:57:50.150241"
     },
     "cle @ chw": [
         {
@@ -4872,6 +4872,21 @@
     ],
     "sea @ det": [
         {
+            "player": "mitch garver",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-07-11 21:57:43",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "randy arozarena",
             "game": "sea @ det",
             "hr/park": "",
@@ -4881,7 +4896,7 @@
             "team": "sea",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5963,10 +5978,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "95.5",
+            "la": "-16",
+            "dist": "8"
         },
         {
             "player": "jake mangum",
@@ -7964,10 +7979,10 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "106.8",
+            "la": "-3",
+            "dist": "31"
         },
         {
             "player": "christian vazquez",
@@ -8571,6 +8586,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "cj abrams",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-07-11 21:57:43",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "66.2",
+            "la": "-44",
+            "dist": "3"
+        },
         {
             "player": "riley adams",
             "game": "wsh @ mil",
@@ -9429,6 +9459,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "ozzie albies",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-11 21:57:43",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "drake baldwin",
             "game": "atl @ stl",
             "hr/park": "",
@@ -10151,21 +10196,6 @@
     ],
     "ari @ laa": [
         {
-            "player": "yoan moncada",
-            "game": "ari @ laa",
-            "hr/park": "",
-            "pa": "9",
-            "dt": "2025-07-11 21:57:27",
-            "img": "https://www.mlbstatic.com/team-logos/108.svg",
-            "team": "laa",
-            "start": "9:38 PM",
-            "in": "1",
-            "result": "Home Run",
-            "evo": "103.4",
-            "la": "35",
-            "dist": "405"
-        },
-        {
             "player": "jo adell",
             "game": "ari @ laa",
             "hr/park": "",
@@ -10175,10 +10205,10 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "1",
-            "result": "Flyout",
-            "evo": "91.1",
-            "la": "29",
-            "dist": "352"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "taylor ward",
