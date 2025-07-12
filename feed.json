@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "54",
+        "pitchers": "55",
         "batters": "203",
-        "pitches": "2108",
+        "pitches": "2111",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "31.3",
+        "ff%fourseam fastball %": "31.4",
         "si%sinker %": "15.6",
         "fc%cutter %": "10.4",
         "fs%splitter %": "2.9",
         "ch%changeup %": "8.8",
         "sl%slider %": "19.2",
-        "cu%curve %": "11.8",
+        "cu%curve %": "11.7",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "153",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "32",
         "brl%barrel %": "8.3",
-        "ab": "499",
+        "ab": "500",
         "avg": ".236",
         "h": "118",
         "1b": "72",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "20",
         "so": "125",
-        "bipballs in play": "384",
+        "bipballs in play": "386",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:26:20.606130"
+        "updated": "2025-07-12 17:26:30.091024"
     },
     "chc @ nyy": [
         {
@@ -1108,7 +1108,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5247,6 +5247,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "jacob stallings",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-07-12 17:25:40",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "Forceout",
+            "evo": "84.8",
+            "la": "-2",
+            "dist": "28"
+        },
+        {
             "player": "cedric mullins",
             "game": "mia @ bal",
             "hr/park": "0/30",
@@ -5256,7 +5271,7 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "88.6",
             "la": "28",
             "dist": "341"
@@ -7716,6 +7731,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "caleb durbin",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-12 17:26:25",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "Pop Out",
+            "evo": "67.4",
+            "la": "64",
+            "dist": "125"
+        },
         {
             "player": "cj abrams",
             "game": "wsh @ mil",
