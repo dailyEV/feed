@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "81",
         "batters": "207",
-        "pitches": "2801",
+        "pitches": "2802",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.6",
@@ -14,10 +14,10 @@
         "cu%curve %": "10.0",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "206",
-        "hh%hard hit %": "38.8",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "41",
         "brl%barrel %": "7.7",
-        "ab": "670",
+        "ab": "671",
         "avg": ".237",
         "h": "159",
         "1b": "100",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "24",
         "so": "156",
-        "bipballs in play": "531",
+        "bipballs in play": "532",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 18:19:46.140100"
+        "updated": "2025-07-12 18:19:56.562996"
     },
     "chc @ nyy": [
         {
@@ -5907,21 +5907,6 @@
     ],
     "mia @ bal": [
         {
-            "player": "derek hill",
-            "game": "mia @ bal",
-            "hr/park": "",
-            "pa": "65",
-            "dt": "2025-07-12 18:19:28",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "4:05 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "kyle stowers",
             "game": "mia @ bal",
             "hr/park": "",
@@ -6883,6 +6868,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "gavin lux",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-07-12 18:19:56",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "austin hays",
             "game": "col @ cin",
@@ -8583,6 +8583,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "jake mangum",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-12 18:19:56",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "82.6",
+            "la": "22",
+            "dist": "255"
+        },
+        {
             "player": "ha seong kim",
             "game": "tb @ bos",
             "hr/park": "",
@@ -8592,7 +8607,7 @@
             "team": "tb",
             "start": "4:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "59.2",
             "la": "-79",
             "dist": "1"
