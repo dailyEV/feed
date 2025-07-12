@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "63",
         "batters": "203",
-        "pitches": "2459",
+        "pitches": "2462",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "30.9",
+        "ff%fourseam fastball %": "31.0",
         "si%sinker %": "15.7",
         "fc%cutter %": "10.2",
         "fs%splitter %": "2.7",
@@ -14,9 +14,9 @@
         "cu%curve %": "10.9",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "184",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "34",
-        "brl%barrel %": "7.5",
+        "brl%barrel %": "7.4",
         "ab": "588",
         "avg": ".247",
         "h": "145",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "21",
         "so": "142",
-        "bipballs in play": "456",
+        "bipballs in play": "457",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:52:09.181648"
+        "updated": "2025-07-12 17:52:18.949391"
     },
     "chc @ nyy": [
         {
@@ -4774,7 +4774,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7713,6 +7713,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "trevor story",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-12 17:52:12",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masataka yoshida",
             "game": "tb @ bos",
             "hr/park": "",
@@ -7722,7 +7737,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
