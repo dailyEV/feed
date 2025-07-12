@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "56",
         "batters": "203",
-        "pitches": "2208",
+        "pitches": "2210",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.3",
@@ -13,12 +13,12 @@
         "sl%slider %": "19.6",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "113.7",
-        "hhhard hit": "164",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "165",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "33",
         "brl%barrel %": "8.1",
-        "ab": "530",
-        "avg": ".236",
+        "ab": "531",
+        "avg": ".235",
         "h": "125",
         "1b": "77",
         "2b": "24",
@@ -28,7 +28,7 @@
         "bipballs in play": "408",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:32:54.704640"
+        "updated": "2025-07-12 17:33:04.301598"
     },
     "chc @ nyy": [
         {
@@ -4660,6 +4660,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "dalton rushing",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-12 17:32:57",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tommy edman",
             "game": "lad @ sf",
             "hr/park": "",
@@ -6596,9 +6611,9 @@
             "start": "4:10 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "81.1",
-            "la": "74",
-            "dist": "66"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jac caglianone",
@@ -7122,10 +7137,10 @@
             "team": "tb",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "103.6",
+            "la": "-23",
+            "dist": "5"
         },
         {
             "player": "ha seong kim",
