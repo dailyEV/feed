@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "108",
         "batters": "295",
-        "pitches": "3990",
+        "pitches": "3992",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.2",
+        "ff%fourseam fastball %": "35.1",
         "si%sinker %": "14.0",
         "fc%cutter %": "8.8",
         "fs%splitter %": "2.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.3",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "265",
+        "hhhard hit": "266",
         "hh%hard hit %": "37.7",
         "brlbarrels": "52",
         "brl%barrel %": "7.4",
-        "ab": "912",
-        "avg": ".241",
-        "h": "220",
-        "1b": "135",
+        "ab": "914",
+        "avg": ".242",
+        "h": "221",
+        "1b": "136",
         "2b": "46",
         "3b": "6",
         "hr": "33",
-        "so": "233",
-        "bipballs in play": "703",
+        "so": "232",
+        "bipballs in play": "705",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:18:42.172375"
+        "updated": "2025-07-11 23:18:54.258915"
     },
     "cle @ chw": [
         {
@@ -7765,7 +7765,7 @@
             "team": "nym",
             "start": "8:10 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13031,6 +13031,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "blaze alexander",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-11 23:18:45",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:38 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "71.7",
+            "la": "-16",
+            "dist": "10"
+        },
+        {
             "player": "randal grichuk",
             "game": "ari @ laa",
             "hr/park": "",
@@ -14444,6 +14459,21 @@
         }
     ],
     "tor @ ath": [
+        {
+            "player": "vladimir guerrero",
+            "game": "tor @ ath",
+            "hr/park": "0/30",
+            "pa": "36",
+            "dt": "2025-07-11 23:17:44",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "10:05 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "98.4",
+            "la": "17",
+            "dist": "323"
+        },
         {
             "player": "george springer",
             "game": "tor @ ath",
