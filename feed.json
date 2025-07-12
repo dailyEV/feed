@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "101",
+        "pitchers": "102",
         "batters": "294",
-        "pitches": "3693",
+        "pitches": "3698",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.8",
-        "si%sinker %": "14.4",
+        "si%sinker %": "14.3",
         "fc%cutter %": "8.9",
         "fs%splitter %": "2.7",
         "ch%changeup %": "9.4",
         "sl%slider %": "21.1",
-        "cu%curve %": "8.6",
+        "cu%curve %": "8.5",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "250",
-        "hh%hard hit %": "38.3",
+        "hhhard hit": "251",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "47",
         "brl%barrel %": "7.2",
-        "ab": "853",
-        "avg": ".242",
+        "ab": "854",
+        "avg": ".241",
         "h": "206",
         "1b": "126",
         "2b": "42",
         "3b": "5",
         "hr": "33",
         "so": "216",
-        "bipballs in play": "652",
+        "bipballs in play": "653",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:57:17.875628"
+        "updated": "2025-07-11 22:57:29.778998"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "bo naylor",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-11 22:57:27",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "miguel vargas",
             "game": "cle-gm2 @ chw-gm2",
@@ -14096,10 +14111,10 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "104.6",
             "la": "",
-            "dist": ""
+            "dist": "48"
         },
         {
             "player": "dominic smith",
