@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "66",
+        "pitchers": "67",
         "batters": "203",
-        "pitches": "2532",
+        "pitches": "2539",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.8",
-        "si%sinker %": "15.7",
+        "si%sinker %": "15.6",
         "fc%cutter %": "10.1",
-        "fs%splitter %": "3.0",
+        "fs%splitter %": "3.1",
         "ch%changeup %": "9.8",
         "sl%slider %": "19.7",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "188",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "34",
         "brl%barrel %": "7.2",
-        "ab": "602",
-        "avg": ".246",
-        "h": "148",
-        "1b": "93",
+        "ab": "604",
+        "avg": ".247",
+        "h": "149",
+        "1b": "94",
         "2b": "31",
         "3b": "3",
         "hr": "21",
-        "so": "144",
-        "bipballs in play": "469",
+        "so": "145",
+        "bipballs in play": "470",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:57:36.720342"
+        "updated": "2025-07-12 17:57:46.773607"
     },
     "chc @ nyy": [
         {
@@ -4819,7 +4819,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "93.2",
             "la": "7",
             "dist": "158"
@@ -6479,6 +6479,21 @@
     ],
     "col @ cin": [
         {
+            "player": "orlando arcia",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-12 17:57:41",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yanquiel fernandez",
             "game": "col @ cin",
             "hr/park": "",
@@ -7902,7 +7917,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8645,6 +8660,21 @@
     ],
     "cle @ chw": [
         {
+            "player": "nolan jones",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-12 17:57:41",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "steven kwan",
             "game": "cle @ chw",
             "hr/park": "",
@@ -8654,10 +8684,10 @@
             "team": "cle",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "75.8",
+            "la": "34",
+            "dist": "250"
         },
         {
             "player": "brayan rocchio",
