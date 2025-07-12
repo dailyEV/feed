@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "31",
         "batters": "146",
-        "pitches": "1180",
+        "pitches": "1184",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "40.1",
+        "ff%fourseam fastball %": "40.0",
         "si%sinker %": "11.9",
-        "fc%cutter %": "7.1",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "18.0",
+        "ch%changeup %": "10.9",
+        "sl%slider %": "17.9",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "81",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "14",
         "brl%barrel %": "6.8",
         "ab": "271",
@@ -24,11 +24,11 @@
         "2b": "10",
         "3b": "2",
         "hr": "10",
-        "so": "65",
-        "bipballs in play": "205",
+        "so": "67",
+        "bipballs in play": "206",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:35:41.586928"
+        "updated": "2025-07-11 20:35:49.897887"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Passed Ball",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1637,7 +1637,7 @@
             "team": "chc",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3518,7 +3518,7 @@
             "team": "tb",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4200,10 +4200,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.8",
+            "la": "54",
+            "dist": "250"
         },
         {
             "player": "daylen lile",
