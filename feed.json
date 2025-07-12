@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "57",
         "batters": "203",
-        "pitches": "2277",
+        "pitches": "2282",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "11.3",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "168",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "33",
-        "brl%barrel %": "7.9",
-        "ab": "545",
-        "avg": ".237",
-        "h": "129",
+        "brl%barrel %": "7.8",
+        "ab": "546",
+        "avg": ".238",
+        "h": "130",
         "1b": "80",
-        "2b": "25",
+        "2b": "26",
         "3b": "3",
         "hr": "21",
         "so": "135",
-        "bipballs in play": "419",
+        "bipballs in play": "421",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:37:48.664957"
+        "updated": "2025-07-12 17:37:58.604865"
     },
     "chc @ nyy": [
         {
@@ -5451,10 +5451,10 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "79.3",
+            "la": "25",
+            "dist": "250"
         },
         {
             "player": "jordan westburg",
@@ -6074,6 +6074,21 @@
     ],
     "col @ cin": [
         {
+            "player": "austin hays",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-12 17:37:55",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "elly de la cruz",
             "game": "col @ cin",
             "hr/park": "",
@@ -6083,10 +6098,10 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "79.1",
+            "la": "-10",
+            "dist": "10"
         },
         {
             "player": "matt mclain",
