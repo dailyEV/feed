@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "134",
-        "pitches": "1051",
+        "batters": "135",
+        "pitches": "1057",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "42.1",
-        "si%sinker %": "11.6",
-        "fc%cutter %": "7.1",
+        "ff%fourseam fastball %": "41.9",
+        "si%sinker %": "11.7",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "10.6",
+        "ch%changeup %": "10.5",
         "sl%slider %": "17.1",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "72",
-        "hh%hard hit %": "39.6",
-        "brlbarrels": "12",
-        "brl%barrel %": "6.6",
-        "ab": "240",
-        "avg": ".233",
-        "h": "56",
+        "hhhard hit": "73",
+        "hh%hard hit %": "39.9",
+        "brlbarrels": "13",
+        "brl%barrel %": "7.1",
+        "ab": "243",
+        "avg": ".235",
+        "h": "57",
         "1b": "37",
         "2b": "9",
         "3b": "2",
-        "hr": "8",
+        "hr": "9",
         "so": "61",
-        "bipballs in play": "182",
+        "bipballs in play": "183",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:27:49.745220"
+        "updated": "2025-07-11 20:27:58.527166"
     },
     "cle @ chw": [
         {
@@ -1567,6 +1567,21 @@
     ],
     "chc @ nyy": [
         {
+            "player": "cody bellinger",
+            "game": "chc @ nyy",
+            "hr/park": "27/30",
+            "pa": "39",
+            "dt": "2025-07-11 20:26:44",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "Home Run",
+            "evo": "102.0",
+            "la": "35",
+            "dist": "376"
+        },
+        {
             "player": "aaron judge",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -2139,6 +2154,21 @@
     ],
     "col @ cin": [
         {
+            "player": "tj friedl",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-07-11 20:27:57",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "noelvi marte",
             "game": "col @ cin",
             "hr/park": "",
@@ -2148,7 +2178,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "84.8",
             "la": "-4",
             "dist": "29"
@@ -3262,7 +3292,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "89.6",
             "la": "71",
             "dist": "95"
@@ -3721,6 +3751,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "jake burger",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-11 20:27:57",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "evan carter",
             "game": "tex @ hou",
             "hr/park": "",
@@ -3960,7 +4005,7 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "85.5",
             "la": "49",
             "dist": "283"
