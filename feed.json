@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "159",
-        "pitches": "1324",
+        "pitches": "1338",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "40.0",
-        "si%sinker %": "11.9",
-        "fc%cutter %": "7.3",
+        "ff%fourseam fastball %": "39.8",
+        "si%sinker %": "11.7",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "10.7",
-        "sl%slider %": "18.0",
-        "cu%curve %": "10.6",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "17.9",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "94",
-        "hh%hard hit %": "40.7",
+        "hhhard hit": "95",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "16",
-        "brl%barrel %": "6.9",
-        "ab": "306",
-        "avg": ".239",
+        "brl%barrel %": "6.8",
+        "ab": "310",
+        "avg": ".235",
         "h": "73",
         "1b": "46",
         "2b": "13",
         "3b": "3",
         "hr": "11",
         "so": "75",
-        "bipballs in play": "231",
+        "bipballs in play": "234",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:43:22.910375"
+        "updated": "2025-07-11 20:43:31.509296"
     },
     "cle @ chw": [
         {
@@ -1116,6 +1116,36 @@
     ],
     "mia @ bal": [
         {
+            "player": "otto lopez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-11 20:43:27",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "104.5",
+            "la": "-11",
+            "dist": "13"
+        },
+        {
+            "player": "jesus sanchez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-11 20:41:58",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "Flyout",
+            "evo": "94.9",
+            "la": "50",
+            "dist": "274"
+        },
+        {
             "player": "xavier edwards",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1762,6 +1792,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "jasson dominguez",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-11 20:43:27",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "oswald peraza",
             "game": "chc @ nyy",
@@ -2485,6 +2530,21 @@
     ],
     "col @ cin": [
         {
+            "player": "tyler stephenson",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-11 20:43:27",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer steer",
             "game": "col @ cin",
             "hr/park": "",
@@ -2494,10 +2554,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.5",
+            "la": "-10",
+            "dist": "14"
         },
         {
             "player": "gavin lux",
@@ -3216,10 +3276,10 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "5",
-            "result": "Flyout",
-            "evo": "89.7",
-            "la": "28",
-            "dist": "337"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "colt keith",
@@ -4695,10 +4755,10 @@
             "team": "wsh",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "74.2",
+            "la": "14",
+            "dist": "149"
         },
         {
             "player": "cj abrams",
