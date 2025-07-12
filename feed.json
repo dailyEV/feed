@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "39",
-        "batters": "118",
-        "pitches": "1094",
+        "batters": "120",
+        "pitches": "1101",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "27.7",
-        "si%sinker %": "17.6",
+        "ff%fourseam fastball %": "27.9",
+        "si%sinker %": "17.5",
         "fc%cutter %": "11.3",
         "fs%splitter %": "3.5",
-        "ch%changeup %": "8.9",
+        "ch%changeup %": "8.8",
         "sl%slider %": "18.5",
-        "cu%curve %": "12.5",
+        "cu%curve %": "12.4",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "78",
         "hh%hard hit %": "38.0",
         "brlbarrels": "22",
         "brl%barrel %": "10.7",
-        "ab": "257",
-        "avg": ".253",
+        "ab": "259",
+        "avg": ".251",
         "h": "65",
         "1b": "37",
         "2b": "15",
@@ -28,7 +28,7 @@
         "bipballs in play": "205",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:24:20.865315"
+        "updated": "2025-07-12 16:24:29.250254"
     },
     "chc @ nyy": [
         {
@@ -3792,6 +3792,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "ryan ohearn",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-07-12 16:24:25",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gunnar henderson",
             "game": "mia @ bal",
             "hr/park": "",
@@ -3913,6 +3928,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "austin hays",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-12 16:24:25",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "elly de la cruz",
             "game": "col @ cin",
@@ -4107,7 +4137,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "93.4",
             "la": "-24",
             "dist": "8"
