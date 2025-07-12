@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "50",
         "batters": "200",
-        "pitches": "1850",
+        "pitches": "1855",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "15.5",
-        "fc%cutter %": "10.5",
+        "si%sinker %": "15.4",
+        "fc%cutter %": "10.6",
         "fs%splitter %": "3.2",
-        "ch%changeup %": "8.4",
+        "ch%changeup %": "8.5",
         "sl%slider %": "18.8",
-        "cu%curve %": "11.9",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "133",
+        "hhhard hit": "134",
         "hh%hard hit %": "39.5",
         "brlbarrels": "30",
-        "brl%barrel %": "8.9",
-        "ab": "438",
-        "avg": ".235",
-        "h": "103",
+        "brl%barrel %": "8.8",
+        "ab": "439",
+        "avg": ".237",
+        "h": "104",
         "1b": "63",
-        "2b": "18",
+        "2b": "19",
         "3b": "3",
         "hr": "19",
         "so": "108",
-        "bipballs in play": "337",
+        "bipballs in play": "339",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:07:23.541635"
+        "updated": "2025-07-12 17:07:32.912161"
     },
     "chc @ nyy": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "sea @ det": [
         {
+            "player": "wenceel perez",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-12 17:07:26",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gleyber torres",
             "game": "sea @ det",
             "hr/park": "",
@@ -1108,7 +1123,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "85.0",
             "la": "15",
             "dist": "205"
@@ -6652,17 +6667,17 @@
         {
             "player": "luis robert",
             "game": "cle @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "15",
             "dt": "2025-07-12 17:05:55",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "start": "4:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "103.7",
+            "la": "41",
+            "dist": "364"
         },
         {
             "player": "kyle teel",
@@ -6887,9 +6902,9 @@
             "start": "4:10 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "87.2",
+            "la": "9",
+            "dist": "136"
         },
         {
             "player": "sal frelick",
