@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "37",
-        "batters": "177",
-        "pitches": "1597",
+        "batters": "179",
+        "pitches": "1608",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "37.8",
-        "si%sinker %": "12.8",
-        "fc%cutter %": "7.0",
+        "ff%fourseam fastball %": "37.7",
+        "si%sinker %": "12.7",
+        "fc%cutter %": "6.9",
         "fs%splitter %": "2.2",
-        "ch%changeup %": "10.3",
-        "sl%slider %": "18.7",
+        "ch%changeup %": "10.2",
+        "sl%slider %": "19.0",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "113",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "17",
         "brl%barrel %": "6.0",
-        "ab": "369",
+        "ab": "373",
         "avg": ".241",
-        "h": "89",
-        "1b": "57",
+        "h": "90",
+        "1b": "58",
         "2b": "17",
         "3b": "4",
         "hr": "11",
-        "so": "91",
-        "bipballs in play": "282",
+        "so": "92",
+        "bipballs in play": "284",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:59:06.188470"
+        "updated": "2025-07-11 20:59:15.629999"
     },
     "cle @ chw": [
         {
@@ -2003,6 +2003,21 @@
     ],
     "chc @ nyy": [
         {
+            "player": "ben rice",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-11 20:59:12",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cody bellinger",
             "game": "chc @ nyy",
             "hr/park": "1/30",
@@ -2824,7 +2839,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "81.1",
             "la": "-7",
             "dist": "14"
@@ -3644,7 +3659,7 @@
         {
             "player": "riley greene",
             "game": "sea @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "47",
             "dt": "2025-07-11 20:55:56",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
@@ -5042,6 +5057,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "brice matthews",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-07-11 20:59:12",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mauricio dubon",
             "game": "tex @ hou",
             "hr/park": "",
@@ -5051,10 +5081,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "76.8",
+            "la": "29",
+            "dist": "271"
         },
         {
             "player": "corey seager",
@@ -5481,6 +5511,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "christian yelich",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-07-11 20:59:12",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jackson chourio",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -5857,6 +5902,21 @@
         }
     ],
     "atl @ stl": [
+        {
+            "player": "victor scott",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-11 20:58:27",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "43.4",
+            "la": "-82",
+            "dist": "3"
+        },
         {
             "player": "pedro pages",
             "game": "atl @ stl",
