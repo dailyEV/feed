@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "74",
-        "batters": "239",
-        "pitches": "2819",
+        "batters": "240",
+        "pitches": "2822",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.7",
-        "si%sinker %": "13.9",
+        "si%sinker %": "13.8",
         "fc%cutter %": "7.6",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.2",
-        "sl%slider %": "22.2",
+        "sl%slider %": "22.1",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "196",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "38",
         "brl%barrel %": "7.7",
-        "ab": "647",
+        "ab": "646",
         "avg": ".252",
         "h": "163",
         "1b": "95",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "28",
         "so": "161",
-        "bipballs in play": "493",
+        "bipballs in play": "495",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-07-11 22:05:06.263276"
+        "updated": "2025-07-11 22:05:17.208638"
     },
     "cle @ chw": [
         {
@@ -4947,6 +4947,21 @@
     ],
     "sea @ det": [
         {
+            "player": "ben williamson",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-07-11 22:04:14",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Lineout",
+            "evo": "83.1",
+            "la": "23",
+            "dist": "279"
+        },
+        {
             "player": "luke raley",
             "game": "sea @ det",
             "hr/park": "",
@@ -4956,7 +4971,7 @@
             "team": "sea",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8210,21 +8225,6 @@
     ],
     "pit @ min": [
         {
-            "player": "kebryan hayes",
-            "game": "pit @ min",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-07-11 22:04:58",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "8:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "oneil cruz",
             "game": "pit @ min",
             "hr/park": "",
@@ -9804,21 +9804,6 @@
     ],
     "atl @ stl": [
         {
-            "player": "nolan arenado",
-            "game": "atl @ stl",
-            "hr/park": "",
-            "pa": "52",
-            "dt": "2025-07-11 22:04:58",
-            "img": "https://www.mlbstatic.com/team-logos/138.svg",
-            "team": "stl",
-            "start": "8:15 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "michael harris",
             "game": "atl @ stl",
             "hr/park": "",
@@ -10585,6 +10570,21 @@
         }
     ],
     "ari @ laa": [
+        {
+            "player": "eugenio suarez",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-11 22:04:43",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gustavo campero",
             "game": "ari @ laa",
