@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "70",
         "batters": "219",
-        "pitches": "2583",
+        "pitches": "2588",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "22.2",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "178",
-        "hh%hard hit %": "39.4",
+        "hhhard hit": "177",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "31",
         "brl%barrel %": "6.9",
         "ab": "592",
-        "avg": ".245",
-        "h": "145",
-        "1b": "88",
+        "avg": ".247",
+        "h": "146",
+        "1b": "89",
         "2b": "32",
         "3b": "4",
         "hr": "21",
-        "so": "146",
+        "so": "147",
         "bipballs in play": "452",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:52:08.788459"
+        "updated": "2025-07-11 21:52:18.811446"
     },
     "cle @ chw": [
         {
@@ -4827,6 +4827,21 @@
     ],
     "sea @ det": [
         {
+            "player": "cal raleigh",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-07-11 21:52:13",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Game Advisory",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "julio rodriguez",
             "game": "sea @ det",
             "hr/park": "",
@@ -4836,7 +4851,7 @@
             "team": "sea",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5878,36 +5893,6 @@
         }
     ],
     "tb @ bos": [
-        {
-            "player": "jake mangum",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "73",
-            "dt": "2025-07-11 21:51:30",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:10 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "jonathan aranda",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "72",
-            "dt": "2025-07-11 21:50:43",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:10 PM",
-            "in": "9",
-            "result": "Flyout",
-            "evo": "97.8",
-            "la": "54",
-            "dist": "258"
-        },
         {
             "player": "yandy diaz",
             "game": "tb @ bos",
@@ -8326,7 +8311,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9128,6 +9113,36 @@
         }
     ],
     "atl @ stl": [
+        {
+            "player": "jurickson profar",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-11 21:52:13",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "sean murphy",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-07-11 21:52:13",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "55.0",
+            "la": "47",
+            "dist": "156"
+        },
         {
             "player": "lars nootbaar",
             "game": "atl @ stl",
