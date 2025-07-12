@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "71",
-        "batters": "232",
-        "pitches": "2722",
+        "batters": "233",
+        "pitches": "2733",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "35.7",
+        "ff%fourseam fastball %": "35.6",
         "si%sinker %": "13.9",
         "fc%cutter %": "7.5",
         "fs%splitter %": "2.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "22.3",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "189",
-        "hh%hard hit %": "39.3",
-        "brlbarrels": "34",
-        "brl%barrel %": "7.1",
-        "ab": "627",
+        "hhhard hit": "190",
+        "hh%hard hit %": "39.4",
+        "brlbarrels": "35",
+        "brl%barrel %": "7.3",
+        "ab": "630",
         "avg": ".249",
-        "h": "156",
+        "h": "157",
         "1b": "92",
         "2b": "35",
         "3b": "5",
-        "hr": "24",
-        "so": "154",
-        "bipballs in play": "481",
+        "hr": "25",
+        "so": "155",
+        "bipballs in play": "482",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:59:26.083153"
+        "updated": "2025-07-11 21:59:36.749524"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "66.6",
             "la": "-8",
             "dist": "15"
@@ -8030,6 +8030,21 @@
     ],
     "pit @ min": [
         {
+            "player": "willi castro",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-11 21:59:29",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "byron buxton",
             "game": "pit @ min",
             "hr/park": "",
@@ -9549,6 +9564,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "nick allen",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-11 21:59:29",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ozzie albies",
             "game": "atl @ stl",
             "hr/park": "",
@@ -9558,7 +9588,7 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10438,11 +10468,11 @@
     ],
     "phi @ sd": [
         {
-            "player": "nick castellanos",
+            "player": "max kepler",
             "game": "phi @ sd",
             "hr/park": "",
-            "pa": "9",
-            "dt": "2025-07-11 21:56:42",
+            "pa": "10",
+            "dt": "2025-07-11 21:58:27",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
             "team": "phi",
             "start": "9:40 PM",
@@ -10451,6 +10481,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "nick castellanos",
+            "game": "phi @ sd",
+            "hr/park": "14/30",
+            "pa": "9",
+            "dt": "2025-07-11 21:56:42",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "9:40 PM",
+            "in": "2",
+            "result": "Home Run",
+            "evo": "106.6",
+            "la": "33",
+            "dist": "407"
         },
         {
             "player": "alec bohm",
