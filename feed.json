@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "23",
-        "batters": "126",
-        "pitches": "956",
+        "pitchers": "24",
+        "batters": "127",
+        "pitches": "964",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "42.6",
+        "ff%fourseam fastball %": "42.5",
         "si%sinker %": "11.4",
         "fc%cutter %": "7.7",
-        "fs%splitter %": "1.4",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "17.1",
+        "fs%splitter %": "1.3",
+        "ch%changeup %": "11.0",
+        "sl%slider %": "16.9",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "64",
-        "hh%hard hit %": "39.3",
+        "hhhard hit": "65",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "11",
         "brl%barrel %": "6.7",
-        "ab": "218",
-        "avg": ".229",
-        "h": "50",
-        "1b": "32",
+        "ab": "219",
+        "avg": ".233",
+        "h": "51",
+        "1b": "33",
         "2b": "9",
         "3b": "2",
         "hr": "7",
         "so": "56",
-        "bipballs in play": "163",
+        "bipballs in play": "165",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:21:18.676127"
+        "updated": "2025-07-11 20:21:26.949051"
     },
     "cle @ chw": [
         {
@@ -1004,7 +1004,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3075,17 +3075,17 @@
         {
             "player": "danny jansen",
             "game": "tb @ bos",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "28",
             "dt": "2025-07-11 20:20:27",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.6",
+            "la": "32",
+            "dist": "314"
         },
         {
             "player": "chandler simpson",
@@ -3505,10 +3505,10 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "106.6",
+            "la": "6",
+            "dist": "114"
         },
         {
             "player": "adolis garcia",
@@ -3573,6 +3573,21 @@
     ],
     "pit @ min": [],
     "wsh @ mil": [
+        {
+            "player": "sal frelick",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-11 20:21:26",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alex call",
             "game": "wsh @ mil",
