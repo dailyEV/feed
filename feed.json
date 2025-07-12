@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "158",
-        "pitches": "1323",
+        "batters": "159",
+        "pitches": "1329",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "29.5",
+        "ff%fourseam fastball %": "29.6",
         "si%sinker %": "16.9",
-        "fc%cutter %": "10.9",
+        "fc%cutter %": "10.8",
         "fs%splitter %": "3.3",
-        "ch%changeup %": "8.5",
-        "sl%slider %": "18.5",
+        "ch%changeup %": "8.4",
+        "sl%slider %": "18.7",
         "cu%curve %": "12.3",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "89",
         "hh%hard hit %": "37.1",
         "brlbarrels": "25",
         "brl%barrel %": "10.4",
-        "ab": "306",
-        "avg": ".242",
+        "ab": "307",
+        "avg": ".241",
         "h": "74",
         "1b": "42",
         "2b": "15",
@@ -28,7 +28,7 @@
         "bipballs in play": "240",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:37:03.568106"
+        "updated": "2025-07-12 16:37:12.116274"
     },
     "chc @ nyy": [
         {
@@ -2888,6 +2888,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "nolan gorman",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-12 16:37:10",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "thomas saggese",
             "game": "atl @ stl",
             "hr/park": "",
@@ -4728,6 +4743,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "wilyer abreu",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-12 16:37:10",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor story",
             "game": "tb @ bos",
             "hr/park": "0/30",
@@ -4996,7 +5026,7 @@
             "team": "mil",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
