@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "82",
         "batters": "258",
-        "pitches": "3003",
+        "pitches": "3012",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.3",
         "si%sinker %": "14.1",
-        "fc%cutter %": "8.1",
+        "fc%cutter %": "8.2",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "9.4",
+        "ch%changeup %": "9.3",
         "sl%slider %": "21.9",
         "cu%curve %": "8.8",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "214",
-        "hh%hard hit %": "40.1",
+        "hhhard hit": "215",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "41",
         "brl%barrel %": "7.7",
-        "ab": "690",
-        "avg": ".255",
-        "h": "176",
-        "1b": "103",
+        "ab": "692",
+        "avg": ".256",
+        "h": "177",
+        "1b": "104",
         "2b": "39",
         "3b": "5",
         "hr": "29",
-        "so": "169",
-        "bipballs in play": "534",
+        "so": "171",
+        "bipballs in play": "535",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:15:31.823381"
+        "updated": "2025-07-11 22:15:43.330887"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "brayan rocchio",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-11 22:15:03",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "bo naylor",
             "game": "cle-gm2 @ chw-gm2",
@@ -5022,6 +5037,21 @@
     ],
     "sea @ det": [
         {
+            "player": "colt keith",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "82",
+            "dt": "2025-07-11 22:15:43",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "javier baez",
             "game": "sea @ det",
             "hr/park": "",
@@ -8534,10 +8564,10 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "106.0",
+            "la": "-11",
+            "dist": "10"
         },
         {
             "player": "trevor larnach",
@@ -9256,7 +9286,7 @@
             "team": "wsh",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
