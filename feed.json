@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "93",
         "batters": "283",
-        "pitches": "3421",
+        "pitches": "3434",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.4",
         "cu%curve %": "8.5",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "237",
-        "hh%hard hit %": "38.7",
+        "hhhard hit": "238",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "45",
-        "brl%barrel %": "7.4",
-        "ab": "791",
-        "avg": ".249",
-        "h": "197",
-        "1b": "121",
-        "2b": "40",
+        "brl%barrel %": "7.3",
+        "ab": "793",
+        "avg": ".251",
+        "h": "199",
+        "1b": "122",
+        "2b": "41",
         "3b": "5",
         "hr": "31",
         "so": "196",
-        "bipballs in play": "612",
+        "bipballs in play": "614",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:40:23.671151"
+        "updated": "2025-07-11 22:40:35.187115"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "daniel schneemann",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-11 22:40:29",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "angel martinez",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1003,7 +1018,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "81.9",
             "la": "1",
             "dist": "51"
@@ -7548,7 +7563,7 @@
         {
             "player": "luis torrens",
             "game": "nym @ kc",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "32",
             "dt": "2025-07-11 22:39:13",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -8027,6 +8042,21 @@
         }
     ],
     "tex @ hou": [
+        {
+            "player": "josh smith",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-11 22:39:57",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "Single",
+            "evo": "103.9",
+            "la": "6",
+            "dist": "122"
+        },
         {
             "player": "kyle higashioka",
             "game": "tex @ hou",
@@ -11006,17 +11036,17 @@
         {
             "player": "thomas saggese",
             "game": "atl @ stl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "67",
             "dt": "2025-07-11 22:38:58",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "8:15 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.0",
+            "la": "26",
+            "dist": "332"
         },
         {
             "player": "lars nootbaar",
