@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "28",
-        "batters": "79",
-        "pitches": "854",
+        "pitchers": "27",
+        "batters": "80",
+        "pitches": "856",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "28.5",
+        "ff%fourseam fastball %": "28.7",
         "si%sinker %": "18.0",
         "fc%cutter %": "9.5",
         "fs%splitter %": "3.6",
         "ch%changeup %": "9.1",
-        "sl%slider %": "19.4",
+        "sl%slider %": "19.3",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "67",
-        "hh%hard hit %": "41.1",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "22",
-        "brl%barrel %": "13.5",
+        "brl%barrel %": "13.3",
         "ab": "204",
         "avg": ".250",
         "h": "51",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "10",
         "so": "47",
-        "bipballs in play": "163",
+        "bipballs in play": "165",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:10:37.652810"
+        "updated": "2025-07-12 16:10:45.661776"
     },
     "chc @ nyy": [
         {
@@ -2528,21 +2528,6 @@
     ],
     "atl @ stl": [
         {
-            "player": "jurickson profar",
-            "game": "atl @ stl",
-            "hr/park": "",
-            "pa": "57",
-            "dt": "2025-07-12 16:10:25",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "2:15 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "masyn winn",
             "game": "atl @ stl",
             "hr/park": "",
@@ -3447,6 +3432,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "agustin ramirez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-12 16:10:40",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "74.3",
+            "la": "-11",
+            "dist": "15"
+        },
+        {
             "player": "xavier edwards",
             "game": "mia @ bal",
             "hr/park": "",
@@ -3456,10 +3456,10 @@
             "team": "mia",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "62.6",
+            "la": "39",
+            "dist": "187"
         }
     ],
     "col @ cin": [],
