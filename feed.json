@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "26",
         "batters": "131",
-        "pitches": "1023",
+        "pitches": "1025",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "42.3",
+        "ff%fourseam fastball %": "42.2",
         "si%sinker %": "11.4",
         "fc%cutter %": "7.2",
-        "fs%splitter %": "1.4",
-        "ch%changeup %": "10.7",
+        "fs%splitter %": "1.6",
+        "ch%changeup %": "10.6",
         "sl%slider %": "17.1",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "114.2",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "39.7",
         "brlbarrels": "12",
         "brl%barrel %": "6.9",
-        "ab": "233",
-        "avg": ".236",
-        "h": "55",
-        "1b": "36",
+        "ab": "234",
+        "avg": ".231",
+        "h": "54",
+        "1b": "35",
         "2b": "9",
         "3b": "2",
         "hr": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "174",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:26:07.491901"
+        "updated": "2025-07-11 20:26:15.800436"
     },
     "cle @ chw": [
         {
@@ -3208,6 +3208,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "masataka yoshida",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-07-11 20:26:12",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alex bregman",
             "game": "tb @ bos",
             "hr/park": "",
@@ -3855,7 +3870,7 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "89.8",
             "la": "19",
             "dist": "278"
