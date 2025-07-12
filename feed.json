@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "50",
         "batters": "201",
-        "pitches": "1949",
+        "pitches": "1955",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.4",
         "si%sinker %": "15.2",
         "fc%cutter %": "10.6",
         "fs%splitter %": "3.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "19.0",
         "cu%curve %": "12.1",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "138",
+        "hhhard hit": "139",
         "hh%hard hit %": "39.2",
         "brlbarrels": "31",
-        "brl%barrel %": "8.8",
-        "ab": "462",
-        "avg": ".236",
-        "h": "109",
-        "1b": "66",
+        "brl%barrel %": "8.7",
+        "ab": "464",
+        "avg": ".239",
+        "h": "111",
+        "1b": "68",
         "2b": "21",
         "3b": "3",
         "hr": "19",
         "so": "115",
-        "bipballs in play": "352",
+        "bipballs in play": "355",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:14:00.526838"
+        "updated": "2025-07-12 17:14:10.244699"
     },
     "chc @ nyy": [
         {
@@ -1101,17 +1101,17 @@
         {
             "player": "jp crawford",
             "game": "sea @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "70",
             "dt": "2025-07-12 17:13:25",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "1:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "100.8",
+            "la": "15",
+            "dist": "301"
         },
         {
             "player": "riley greene",
@@ -5549,6 +5549,21 @@
     ],
     "col @ cin": [
         {
+            "player": "orlando arcia",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-12 17:14:10",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "89.6",
+            "la": "4",
+            "dist": "84"
+        },
+        {
             "player": "yanquiel fernandez",
             "game": "col @ cin",
             "hr/park": "",
@@ -6031,6 +6046,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "vinnie pasquantino",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-12 17:14:10",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "75.9",
+            "la": "19",
+            "dist": "220"
+        },
+        {
             "player": "bobby witt",
             "game": "nym @ kc",
             "hr/park": "20/30",
@@ -6447,7 +6477,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
