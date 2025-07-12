@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "136",
-        "pitches": "1087",
+        "batters": "138",
+        "pitches": "1095",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "41.6",
-        "si%sinker %": "12.0",
-        "fc%cutter %": "7.0",
+        "ff%fourseam fastball %": "41.5",
+        "si%sinker %": "11.9",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "10.3",
-        "sl%slider %": "17.6",
-        "cu%curve %": "10.0",
+        "ch%changeup %": "10.2",
+        "sl%slider %": "17.5",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "74",
-        "hh%hard hit %": "39.2",
+        "hhhard hit": "75",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "13",
-        "brl%barrel %": "6.9",
-        "ab": "248",
-        "avg": ".230",
-        "h": "57",
-        "1b": "37",
+        "brl%barrel %": "6.8",
+        "ab": "250",
+        "avg": ".232",
+        "h": "58",
+        "1b": "38",
         "2b": "9",
         "3b": "2",
         "hr": "9",
         "so": "62",
-        "bipballs in play": "189",
+        "bipballs in play": "190",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:30:40.361524"
+        "updated": "2025-07-11 20:30:48.887058"
     },
     "cle @ chw": [
         {
@@ -1576,10 +1576,10 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "5",
-            "result": "Groundout",
-            "evo": "72.8",
-            "la": "1",
-            "dist": "42"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "ben rice",
@@ -3934,6 +3934,21 @@
     "pit @ min": [],
     "wsh @ mil": [
         {
+            "player": "luis garcia",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-11 20:30:43",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "95.8",
+            "la": "19",
+            "dist": "328"
+        },
+        {
             "player": "christian yelich",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -4071,6 +4086,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "masyn winn",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-07-11 20:30:43",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brendan donovan",
             "game": "atl @ stl",
             "hr/park": "",
@@ -4080,10 +4110,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "93.8",
+            "la": "11",
+            "dist": "212"
         },
         {
             "player": "ozzie albies",
