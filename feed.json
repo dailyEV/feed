@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "141",
-        "pitches": "1245",
+        "batters": "142",
+        "pitches": "1251",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "29.1",
-        "si%sinker %": "17.7",
-        "fc%cutter %": "10.7",
+        "ff%fourseam fastball %": "28.9",
+        "si%sinker %": "17.6",
+        "fc%cutter %": "10.6",
         "fs%splitter %": "3.5",
         "ch%changeup %": "8.9",
-        "sl%slider %": "18.1",
-        "cu%curve %": "12.0",
+        "sl%slider %": "18.3",
+        "cu%curve %": "12.1",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "87",
-        "hh%hard hit %": "38.2",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "25",
-        "brl%barrel %": "11.0",
-        "ab": "288",
-        "avg": ".253",
+        "brl%barrel %": "10.9",
+        "ab": "290",
+        "avg": ".252",
         "h": "73",
         "1b": "41",
         "2b": "15",
         "3b": "2",
         "hr": "15",
         "so": "68",
-        "bipballs in play": "228",
+        "bipballs in play": "230",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:32:53.812520"
+        "updated": "2025-07-12 16:33:02.193828"
     },
     "chc @ nyy": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "sea @ det": [
         {
+            "player": "spencer torkelson",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-12 16:32:56",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "90.2",
+            "la": "17",
+            "dist": "249"
+        },
+        {
             "player": "riley greene",
             "game": "sea @ det",
             "hr/park": "6/30",
@@ -1845,7 +1860,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "76.4",
             "la": "-2",
             "dist": "27"
@@ -4041,7 +4056,7 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "2",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "95.5",
             "la": "16",
             "dist": "259"
@@ -4670,6 +4685,21 @@
     ],
     "cle @ chw": [
         {
+            "player": "nolan jones",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-12 16:32:56",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "steven kwan",
             "game": "cle @ chw",
             "hr/park": "",
@@ -4679,10 +4709,10 @@
             "team": "cle",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.4",
+            "la": "50",
+            "dist": "256"
         }
     ],
     "wsh @ mil": [
