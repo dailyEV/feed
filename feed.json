@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "88",
+        "pitchers": "89",
         "batters": "271",
-        "pitches": "3215",
+        "pitches": "3221",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.0",
+        "ff%fourseam fastball %": "35.1",
         "si%sinker %": "14.5",
         "fc%cutter %": "8.3",
         "fs%splitter %": "2.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.7",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "227",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "228",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "44",
         "brl%barrel %": "7.7",
         "ab": "741",
-        "avg": ".252",
-        "h": "187",
-        "1b": "111",
+        "avg": ".254",
+        "h": "188",
+        "1b": "112",
         "2b": "40",
         "3b": "5",
         "hr": "31",
-        "so": "183",
-        "bipballs in play": "570",
+        "so": "184",
+        "bipballs in play": "571",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:27:22.266887"
+        "updated": "2025-07-11 22:27:34.004759"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "colson montgomery",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-11 22:27:28",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis robert",
             "game": "cle-gm2 @ chw-gm2",
@@ -7450,10 +7465,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "103.2",
+            "la": "-18",
+            "dist": "8"
         },
         {
             "player": "bobby witt",
@@ -7842,7 +7857,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11962,7 +11977,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
