@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "69",
+        "pitchers": "68",
         "batters": "215",
-        "pitches": "2539",
+        "pitches": "2542",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "35.8",
+        "ff%fourseam fastball %": "36.0",
         "si%sinker %": "13.7",
-        "fc%cutter %": "7.5",
+        "fc%cutter %": "7.6",
         "fs%splitter %": "2.0",
         "ch%changeup %": "9.3",
-        "sl%slider %": "22.3",
+        "sl%slider %": "22.1",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "175",
         "hh%hard hit %": "39.1",
         "brlbarrels": "31",
         "brl%barrel %": "6.9",
-        "ab": "585",
-        "avg": ".248",
+        "ab": "582",
+        "avg": ".249",
         "h": "145",
         "1b": "88",
         "2b": "32",
         "3b": "4",
         "hr": "21",
-        "so": "142",
-        "bipballs in play": "448",
+        "so": "143",
+        "bipballs in play": "447",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:49:54.011824"
+        "updated": "2025-07-11 21:50:03.896311"
     },
     "cle @ chw": [
         {
@@ -994,36 +994,6 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
-            "player": "will robertson",
-            "game": "cle-gm2 @ chw-gm2",
-            "hr/park": "",
-            "pa": "35",
-            "dt": "2025-07-11 21:49:43",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "8:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
-            "player": "josh rojas",
-            "game": "cle-gm2 @ chw-gm2",
-            "hr/park": "",
-            "pa": "34",
-            "dt": "2025-07-11 21:49:43",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "8:10 PM",
-            "in": "4",
-            "result": "Flyout",
-            "evo": "75.9",
-            "la": "36",
-            "dist": "263"
-        },
-        {
             "player": "colson montgomery",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1033,10 +1003,10 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "4",
-            "result": "Lineout",
-            "evo": "67.9",
-            "la": "19",
-            "dist": "168"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "bo naylor",
@@ -5864,21 +5834,6 @@
     ],
     "tb @ bos": [
         {
-            "player": "yandy diaz",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "71",
-            "dt": "2025-07-11 21:49:43",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:10 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "trevor story",
             "game": "tb @ bos",
             "hr/park": "",
@@ -7700,6 +7655,21 @@
     ],
     "pit @ min": [
         {
+            "player": "nick gonzales",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-11 21:49:58",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "82.1",
+            "la": "47",
+            "dist": "258"
+        },
+        {
             "player": "bryan reynolds",
             "game": "pit @ min",
             "hr/park": "",
@@ -7709,7 +7679,7 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9725,7 +9695,7 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9802,7 +9772,7 @@
             "team": "sd",
             "start": "9:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
