@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "37",
         "batters": "171",
-        "pitches": "1523",
+        "pitches": "1525",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "38.1",
+        "ff%fourseam fastball %": "38.3",
         "si%sinker %": "12.9",
         "fc%cutter %": "7.0",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "18.2",
-        "cu%curve %": "11.2",
+        "ch%changeup %": "10.4",
+        "sl%slider %": "18.3",
+        "cu%curve %": "11.1",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "106",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "107",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "16",
-        "brl%barrel %": "6.1",
-        "ab": "349",
-        "avg": ".232",
+        "brl%barrel %": "6.0",
+        "ab": "350",
+        "avg": ".231",
         "h": "81",
         "1b": "52",
         "2b": "15",
         "3b": "3",
         "hr": "11",
-        "so": "86",
-        "bipballs in play": "264",
+        "so": "85",
+        "bipballs in play": "265",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:54:50.282901"
+        "updated": "2025-07-11 20:54:59.016705"
     },
     "cle @ chw": [
         {
@@ -3522,6 +3522,21 @@
     ],
     "sea @ det": [
         {
+            "player": "wenceel perez",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-07-11 20:54:57",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "donovan solano",
             "game": "sea @ det",
             "hr/park": "",
@@ -4199,6 +4214,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "alex bregman",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-11 20:54:57",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jarren duran",
             "game": "tb @ bos",
             "hr/park": "",
@@ -4208,10 +4238,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "96.4",
+            "la": "65",
+            "dist": "171"
         },
         {
             "player": "jose caballero",
@@ -4862,21 +4892,6 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
-            "player": "corey seager",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "17",
-            "dt": "2025-07-11 20:54:12",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:10 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "josh smith",
             "game": "tex @ hou",
             "hr/park": "",
@@ -4886,7 +4901,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
