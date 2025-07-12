@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "50",
         "batters": "201",
-        "pitches": "1861",
+        "pitches": "1866",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.6",
         "si%sinker %": "15.4",
         "fc%cutter %": "10.6",
         "fs%splitter %": "3.2",
-        "ch%changeup %": "8.4",
+        "ch%changeup %": "8.5",
         "sl%slider %": "18.8",
-        "cu%curve %": "11.9",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "134",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "30",
         "brl%barrel %": "8.8",
-        "ab": "442",
-        "avg": ".235",
-        "h": "104",
-        "1b": "63",
+        "ab": "444",
+        "avg": ".236",
+        "h": "105",
+        "1b": "64",
         "2b": "19",
         "3b": "3",
         "hr": "19",
-        "so": "108",
-        "bipballs in play": "339",
+        "so": "109",
+        "bipballs in play": "340",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:07:52.486283"
+        "updated": "2025-07-12 17:08:01.697738"
     },
     "chc @ nyy": [
         {
@@ -4489,7 +4489,7 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5444,6 +5444,21 @@
     ],
     "col @ cin": [
         {
+            "player": "spencer steer",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-07-12 17:07:55",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gavin lux",
             "game": "col @ cin",
             "hr/park": "",
@@ -6267,10 +6282,10 @@
             "team": "tb",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "64.1",
+            "la": "-30",
+            "dist": "6"
         },
         {
             "player": "masataka yoshida",
@@ -6937,6 +6952,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "jackson chourio",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-12 17:07:55",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "william contreras",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -6946,7 +6976,7 @@
             "team": "mil",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "87.2",
             "la": "9",
             "dist": "136"
