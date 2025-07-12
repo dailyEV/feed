@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "107",
         "batters": "294",
-        "pitches": "3915",
+        "pitches": "3919",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.0",
+        "ff%fourseam fastball %": "35.1",
         "si%sinker %": "14.0",
         "fc%cutter %": "8.9",
         "fs%splitter %": "2.9",
         "ch%changeup %": "9.4",
-        "sl%slider %": "21.3",
+        "sl%slider %": "21.2",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "262",
-        "hh%hard hit %": "37.9",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "51",
         "brl%barrel %": "7.4",
         "ab": "897",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "33",
         "so": "228",
-        "bipballs in play": "691",
+        "bipballs in play": "693",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:13:07.416477"
+        "updated": "2025-07-11 23:13:26.722587"
     },
     "cle @ chw": [
         {
@@ -11733,10 +11733,10 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "83.5",
+            "la": "50",
+            "dist": "265"
         },
         {
             "player": "masyn winn",
@@ -12925,6 +12925,21 @@
         }
     ],
     "ari @ laa": [
+        {
+            "player": "eugenio suarez",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-11 23:13:15",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:38 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "91.7",
+            "la": "55",
+            "dist": "235"
+        },
         {
             "player": "taylor ward",
             "game": "ari @ laa",
@@ -14252,7 +14267,7 @@
         {
             "player": "miguel andujar",
             "game": "tor @ ath",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "33",
             "dt": "2025-07-11 23:12:13",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
@@ -14756,7 +14771,7 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
