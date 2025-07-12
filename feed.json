@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "49",
         "batters": "196",
-        "pitches": "1697",
+        "pitches": "1703",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.2",
         "si%sinker %": "16.0",
-        "fc%cutter %": "10.4",
+        "fc%cutter %": "10.5",
         "fs%splitter %": "3.4",
         "ch%changeup %": "8.5",
-        "sl%slider %": "18.5",
-        "cu%curve %": "12.0",
+        "sl%slider %": "18.4",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "116",
-        "hh%hard hit %": "37.5",
+        "hhhard hit": "117",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "27",
         "brl%barrel %": "8.7",
-        "ab": "402",
+        "ab": "403",
         "avg": ".231",
         "h": "93",
         "1b": "57",
         "2b": "16",
         "3b": "3",
         "hr": "17",
-        "so": "99",
-        "bipballs in play": "309",
+        "so": "100",
+        "bipballs in play": "310",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:58:07.969498"
+        "updated": "2025-07-12 16:58:17.179944"
     },
     "chc @ nyy": [
         {
@@ -1098,6 +1098,21 @@
         }
     ],
     "sea @ det": [
+        {
+            "player": "ben williamson",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-12 16:57:40",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "dominic canzone",
             "game": "sea @ det",
@@ -5530,7 +5545,7 @@
             "team": "kc",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6376,10 +6391,10 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "101.5",
+            "la": "17",
+            "dist": "325"
         },
         {
             "player": "joey ortiz",
