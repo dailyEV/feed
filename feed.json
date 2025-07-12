@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "33",
         "batters": "157",
-        "pitches": "1282",
+        "pitches": "1293",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "40.1",
+        "ff%fourseam fastball %": "40.2",
         "si%sinker %": "11.8",
         "fc%cutter %": "7.1",
         "fs%splitter %": "1.4",
         "ch%changeup %": "10.8",
         "sl%slider %": "18.3",
-        "cu%curve %": "10.5",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "91",
-        "hh%hard hit %": "40.4",
+        "hhhard hit": "92",
+        "hh%hard hit %": "40.5",
         "brlbarrels": "15",
-        "brl%barrel %": "6.7",
-        "ab": "298",
-        "avg": ".232",
-        "h": "69",
-        "1b": "45",
-        "2b": "12",
+        "brl%barrel %": "6.6",
+        "ab": "299",
+        "avg": ".237",
+        "h": "71",
+        "1b": "46",
+        "2b": "13",
         "3b": "2",
         "hr": "10",
-        "so": "71",
-        "bipballs in play": "225",
+        "so": "73",
+        "bipballs in play": "227",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:41:20.510861"
+        "updated": "2025-07-11 20:41:29.104952"
     },
     "cle @ chw": [
         {
@@ -1086,21 +1086,6 @@
     ],
     "mia @ bal": [
         {
-            "player": "xavier edwards",
-            "game": "mia @ bal",
-            "hr/park": "",
-            "pa": "43",
-            "dt": "2025-07-11 20:40:27",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "7:05 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "colton cowser",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1732,6 +1717,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "oswald peraza",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-07-11 20:41:27",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "Single",
+            "evo": "93.3",
+            "la": "1",
+            "dist": "54"
+        },
         {
             "player": "anthony volpe",
             "game": "chc @ nyy",
@@ -2449,7 +2449,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3147,6 +3147,21 @@
     ],
     "sea @ det": [
         {
+            "player": "gleyber torres",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-07-11 20:41:27",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "colt keith",
             "game": "sea @ det",
             "hr/park": "",
@@ -3156,7 +3171,7 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3758,7 +3773,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "106.2",
             "la": "18",
             "dist": "371"
@@ -4576,9 +4591,9 @@
             "start": "8:10 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "105.7",
+            "la": "15",
+            "dist": "338"
         },
         {
             "player": "riley adams",
@@ -4832,7 +4847,7 @@
             "team": "stl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
