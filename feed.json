@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "88",
+        "pitchers": "87",
         "batters": "208",
-        "pitches": "2884",
+        "pitches": "2886",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.9",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "215",
-        "hh%hard hit %": "39.4",
-        "brlbarrels": "42",
-        "brl%barrel %": "7.7",
+        "hhhard hit": "214",
+        "hh%hard hit %": "39.2",
+        "brlbarrels": "41",
+        "brl%barrel %": "7.5",
         "ab": "688",
-        "avg": ".241",
-        "h": "166",
+        "avg": ".240",
+        "h": "165",
         "1b": "104",
-        "2b": "34",
+        "2b": "33",
         "3b": "3",
         "hr": "25",
-        "so": "159",
+        "so": "160",
         "bipballs in play": "546",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 18:30:08.605602"
+        "updated": "2025-07-12 18:30:18.917286"
     },
     "chc @ nyy": [
         {
@@ -6959,6 +6959,21 @@
     ],
     "col @ cin": [
         {
+            "player": "yanquiel fernandez",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-12 18:30:11",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "9",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brenton doyle",
             "game": "col @ cin",
             "hr/park": "",
@@ -6968,7 +6983,7 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9695,21 +9710,6 @@
     ],
     "cle @ chw": [
         {
-            "player": "austin hedges",
-            "game": "cle @ chw",
-            "hr/park": "10/30",
-            "pa": "49",
-            "dt": "2025-07-12 18:29:55",
-            "img": "https://www.mlbstatic.com/team-logos/114.svg",
-            "team": "cle",
-            "start": "4:10 PM",
-            "in": "7",
-            "result": "Double",
-            "evo": "104.4",
-            "la": "23",
-            "dist": "390"
-        },
-        {
             "player": "kyle teel",
             "game": "cle @ chw",
             "hr/park": "",
@@ -10442,9 +10442,9 @@
             "start": "4:10 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "80.9",
+            "la": "-1",
+            "dist": "38"
         },
         {
             "player": "riley adams",
