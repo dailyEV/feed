@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "98",
+        "pitchers": "100",
         "batters": "292",
-        "pitches": "3645",
+        "pitches": "3652",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.9",
         "si%sinker %": "14.4",
-        "fc%cutter %": "8.9",
+        "fc%cutter %": "8.8",
         "fs%splitter %": "2.5",
         "ch%changeup %": "9.4",
         "sl%slider %": "21.2",
         "cu%curve %": "8.5",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "250",
-        "hh%hard hit %": "38.8",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "47",
         "brl%barrel %": "7.3",
-        "ab": "840",
-        "avg": ".245",
+        "ab": "844",
+        "avg": ".244",
         "h": "206",
         "1b": "126",
         "2b": "42",
         "3b": "5",
         "hr": "33",
-        "so": "212",
-        "bipballs in play": "645",
+        "so": "213",
+        "bipballs in play": "646",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:54:33.148545"
+        "updated": "2025-07-11 22:54:44.840859"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "miguel vargas",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-11 22:54:44",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andrew benintendi",
             "game": "cle-gm2 @ chw-gm2",
@@ -9260,6 +9275,21 @@
     ],
     "pit @ min": [
         {
+            "player": "isiah kiner falefa",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-11 22:54:44",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adam frazier",
             "game": "pit @ min",
             "hr/park": "",
@@ -11349,11 +11379,11 @@
     ],
     "atl @ stl": [
         {
-            "player": "jose fermin",
+            "player": "victor scott",
             "game": "atl @ stl",
             "hr/park": "",
-            "pa": "72",
-            "dt": "2025-07-11 22:53:28",
+            "pa": "73",
+            "dt": "2025-07-11 22:54:44",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "8:15 PM",
@@ -11362,6 +11392,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "jose fermin",
+            "game": "atl @ stl",
+            "hr/park": "0/30",
+            "pa": "72",
+            "dt": "2025-07-11 22:53:28",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "82.2",
+            "la": "31",
+            "dist": "316"
         },
         {
             "player": "michael harris",
@@ -12973,6 +13018,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "kyle schwarber",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-11 22:54:44",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "9:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trea turner",
             "game": "phi @ sd",
             "hr/park": "",
@@ -13539,7 +13599,7 @@
             "team": "tor",
             "start": "10:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
