@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "111",
         "batters": "295",
-        "pitches": "4029",
+        "pitches": "4036",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.1",
-        "si%sinker %": "14.1",
+        "ff%fourseam fastball %": "35.0",
+        "si%sinker %": "14.2",
         "fc%cutter %": "8.7",
         "fs%splitter %": "2.9",
         "ch%changeup %": "9.5",
         "sl%slider %": "21.4",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "266",
+        "hhhard hit": "267",
         "hh%hard hit %": "37.7",
         "brlbarrels": "52",
-        "brl%barrel %": "7.4",
-        "ab": "920",
+        "brl%barrel %": "7.3",
+        "ab": "922",
         "avg": ".240",
         "h": "221",
         "1b": "136",
         "2b": "46",
         "3b": "6",
         "hr": "33",
-        "so": "237",
-        "bipballs in play": "706",
+        "so": "238",
+        "bipballs in play": "708",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:22:53.805618"
+        "updated": "2025-07-11 23:23:07.649703"
     },
     "cle @ chw": [
         {
@@ -13061,6 +13061,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "logan ohoppe",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-11 23:22:58",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yoan moncada",
             "game": "ari @ laa",
             "hr/park": "",
@@ -13070,10 +13085,10 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "100.2",
+            "la": "-3",
+            "dist": "25"
         },
         {
             "player": "jo adell",
@@ -13798,6 +13813,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "bryson stott",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-11 23:22:13",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "9:40 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "94.9",
+            "la": "-17",
+            "dist": "7"
+        },
+        {
             "player": "jt realmuto",
             "game": "phi @ sd",
             "hr/park": "",
@@ -13807,7 +13837,7 @@
             "team": "phi",
             "start": "9:40 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
