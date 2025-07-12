@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "72",
+        "pitchers": "73",
         "batters": "239",
-        "pitches": "2792",
+        "pitches": "2802",
         "max velomax pitch velocity": "101.4",
-        "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "35.8",
-        "si%sinker %": "13.9",
-        "fc%cutter %": "7.5",
+        "min velomin pitch velocity": "52.3",
+        "ff%fourseam fastball %": "35.7",
+        "si%sinker %": "13.8",
+        "fc%cutter %": "7.6",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "9.3",
+        "ch%changeup %": "9.2",
         "sl%slider %": "22.2",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "193",
+        "hhhard hit": "194",
         "hh%hard hit %": "39.6",
-        "brlbarrels": "36",
-        "brl%barrel %": "7.4",
-        "ab": "637",
-        "avg": ".251",
-        "h": "160",
+        "brlbarrels": "37",
+        "brl%barrel %": "7.6",
+        "ab": "640",
+        "avg": ".252",
+        "h": "161",
         "1b": "94",
         "2b": "35",
         "3b": "5",
-        "hr": "26",
+        "hr": "27",
         "so": "159",
-        "bipballs in play": "487",
+        "bipballs in play": "490",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 22:03:18.550943"
+        "updated": "2025-07-11 22:03:29.112832"
     },
     "cle @ chw": [
         {
@@ -994,19 +994,34 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
-            "player": "lenyn sosa",
+            "player": "andrew benintendi",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-11 22:03:29",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Pop Out",
+            "evo": "81.5",
+            "la": "72",
+            "dist": "96"
+        },
+        {
+            "player": "lenyn sosa",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "30/30",
             "pa": "42",
             "dt": "2025-07-11 22:01:58",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "111.2",
+            "la": "27",
+            "dist": "440"
         },
         {
             "player": "mike tauchman",
@@ -4917,6 +4932,21 @@
     ],
     "sea @ det": [
         {
+            "player": "luke raley",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-07-11 22:03:29",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "donovan solano",
             "game": "sea @ det",
             "hr/park": "",
@@ -4926,10 +4956,10 @@
             "team": "sea",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "59.2",
+            "la": "-24",
+            "dist": "9"
         },
         {
             "player": "miles mastrobuoni",
@@ -8134,6 +8164,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "oneil cruz",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-11 22:03:29",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "willi castro",
             "game": "pit @ min",
