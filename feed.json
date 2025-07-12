@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "42",
         "batters": "166",
-        "pitches": "1387",
+        "pitches": "1393",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "29.6",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.5",
         "ch%changeup %": "8.4",
         "sl%slider %": "18.7",
-        "cu%curve %": "12.5",
+        "cu%curve %": "12.6",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "95",
-        "hh%hard hit %": "38.2",
-        "brlbarrels": "25",
-        "brl%barrel %": "10.0",
+        "hhhard hit": "96",
+        "hh%hard hit %": "38.4",
+        "brlbarrels": "26",
+        "brl%barrel %": "10.4",
         "ab": "319",
-        "avg": ".232",
-        "h": "74",
+        "avg": ".235",
+        "h": "75",
         "1b": "42",
         "2b": "15",
         "3b": "2",
-        "hr": "15",
+        "hr": "16",
         "so": "76",
-        "bipballs in play": "249",
+        "bipballs in play": "250",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:40:23.961815"
+        "updated": "2025-07-12 16:40:32.597645"
     },
     "chc @ nyy": [
         {
@@ -1098,6 +1098,21 @@
         }
     ],
     "sea @ det": [
+        {
+            "player": "julio rodriguez",
+            "game": "sea @ det",
+            "hr/park": "30/30",
+            "pa": "54",
+            "dt": "2025-07-12 16:40:26",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:10 PM",
+            "in": "6",
+            "result": "Home Run",
+            "evo": "111.6",
+            "la": "29",
+            "dist": "427"
+        },
         {
             "player": "jp crawford",
             "game": "sea @ det",
@@ -4236,7 +4251,7 @@
             "team": "mia",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5129,7 +5144,7 @@
             "team": "cle",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
