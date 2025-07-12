@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "50",
         "batters": "199",
-        "pitches": "1807",
+        "pitches": "1810",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "31.4",
         "si%sinker %": "15.6",
-        "fc%cutter %": "10.6",
+        "fc%cutter %": "10.7",
         "fs%splitter %": "3.2",
         "ch%changeup %": "8.5",
         "sl%slider %": "19.0",
         "cu%curve %": "11.7",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "125",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "30",
         "brl%barrel %": "9.2",
         "ab": "427",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "19",
         "so": "108",
-        "bipballs in play": "325",
+        "bipballs in play": "326",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:04:15.517214"
+        "updated": "2025-07-12 17:04:25.454033"
     },
     "chc @ nyy": [
         {
@@ -2093,17 +2093,17 @@
         {
             "player": "spencer horwitz",
             "game": "pit @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "81",
             "dt": "2025-07-12 17:02:25",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
             "team": "pit",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "91.6",
+            "la": "32",
+            "dist": "329"
         },
         {
             "player": "alexander canario",
@@ -5778,7 +5778,7 @@
         {
             "player": "juan soto",
             "game": "nym @ kc",
-            "hr/park": "30/30",
+            "hr/park": "",
             "pa": "22",
             "dt": "2025-07-12 17:01:25",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -6117,7 +6117,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
