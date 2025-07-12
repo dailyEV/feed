@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "93",
-        "batters": "286",
-        "pitches": "3513",
+        "batters": "287",
+        "pitches": "3524",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "8.5",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "241",
-        "hh%hard hit %": "38.7",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "46",
         "brl%barrel %": "7.4",
-        "ab": "809",
-        "avg": ".247",
+        "ab": "812",
+        "avg": ".246",
         "h": "200",
         "1b": "122",
         "2b": "41",
         "3b": "5",
         "hr": "32",
-        "so": "204",
-        "bipballs in play": "622",
+        "so": "205",
+        "bipballs in play": "625",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:45:16.615430"
+        "updated": "2025-07-11 22:45:28.294004"
     },
     "cle @ chw": [
         {
@@ -7576,6 +7576,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "kyle isbel",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-07-11 22:45:28",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "39.6",
+            "la": "-13",
+            "dist": "12"
+        },
+        {
             "player": "john rave",
             "game": "nym @ kc",
             "hr/park": "",
@@ -8097,10 +8112,10 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.7",
+            "la": "65",
+            "dist": "160"
         },
         {
             "player": "corey seager",
@@ -9119,7 +9134,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11139,6 +11154,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "nick allen",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-11 22:45:28",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "8",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ozzie albies",
             "game": "atl @ stl",
             "hr/park": "0/30",
@@ -11148,7 +11178,7 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "98.5",
             "la": "31",
             "dist": "382"
@@ -13170,6 +13200,21 @@
     ],
     "tor @ ath": [
         {
+            "player": "zack gelof",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-11 22:45:28",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "10:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vladimir guerrero",
             "game": "tor @ ath",
             "hr/park": "",
@@ -13467,9 +13512,9 @@
             "start": "10:15 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "86.6",
+            "la": "2",
+            "dist": "60"
         },
         {
             "player": "jung hoo lee",
