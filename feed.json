@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "36",
         "batters": "170",
-        "pitches": "1484",
+        "pitches": "1491",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "38.5",
+        "ff%fourseam fastball %": "38.6",
         "si%sinker %": "12.9",
         "fc%cutter %": "7.1",
-        "fs%splitter %": "1.6",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "18.0",
-        "cu%curve %": "11.2",
+        "fs%splitter %": "1.7",
+        "ch%changeup %": "10.5",
+        "sl%slider %": "18.1",
+        "cu%curve %": "11.1",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "104",
-        "hh%hard hit %": "40.0",
+        "hhhard hit": "103",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "16",
         "brl%barrel %": "6.2",
-        "ab": "342",
-        "avg": ".231",
-        "h": "79",
-        "1b": "50",
+        "ab": "343",
+        "avg": ".227",
+        "h": "78",
+        "1b": "49",
         "2b": "15",
         "3b": "3",
         "hr": "11",
         "so": "84",
-        "bipballs in play": "260",
+        "bipballs in play": "259",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:53:10.308958"
+        "updated": "2025-07-11 20:53:19.035823"
     },
     "cle @ chw": [
         {
@@ -1928,6 +1928,21 @@
     ],
     "chc @ nyy": [
         {
+            "player": "dansby swanson",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-11 20:51:43",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "Lineout",
+            "evo": "94.5",
+            "la": "13",
+            "dist": "178"
+        },
+        {
             "player": "pete crow armstrong",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -3501,10 +3516,10 @@
             "team": "sea",
             "start": "7:10 PM",
             "in": "6",
-            "result": "Forceout",
-            "evo": "90.1",
-            "la": "-16",
-            "dist": "7"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jorge polanco",
@@ -4169,6 +4184,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "jarren duran",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-11 20:53:13",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose caballero",
             "game": "tb @ bos",
             "hr/park": "",
@@ -4374,9 +4404,9 @@
             "start": "7:10 PM",
             "in": "3",
             "result": "Flyout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "89.4",
+            "la": "40",
+            "dist": "288"
         },
         {
             "player": "alex bregman",
@@ -4817,6 +4847,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "josh smith",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-11 20:53:13",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle higashioka",
             "game": "tex @ hou",
             "hr/park": "",
@@ -4826,7 +4871,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5053,7 +5098,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5497,21 +5542,6 @@
         }
     ],
     "atl @ stl": [
-        {
-            "player": "ronald acuna",
-            "game": "atl @ stl",
-            "hr/park": "",
-            "pa": "16",
-            "dt": "2025-07-11 20:52:58",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "8:15 PM",
-            "in": "2",
-            "result": "Single",
-            "evo": "98.9",
-            "la": "5",
-            "dist": "93"
-        },
         {
             "player": "michael harris",
             "game": "atl @ stl",
