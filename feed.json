@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "56",
         "batters": "203",
-        "pitches": "2222",
+        "pitches": "2228",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.1",
         "si%sinker %": "15.8",
-        "fc%cutter %": "10.3",
+        "fc%cutter %": "10.2",
         "fs%splitter %": "2.8",
-        "ch%changeup %": "8.9",
+        "ch%changeup %": "8.8",
         "sl%slider %": "19.7",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "113.7",
-        "hhhard hit": "165",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "166",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "33",
         "brl%barrel %": "8.0",
         "ab": "531",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "21",
         "so": "131",
-        "bipballs in play": "410",
+        "bipballs in play": "412",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:34:03.676686"
+        "updated": "2025-07-12 17:34:13.558991"
     },
     "chc @ nyy": [
         {
@@ -6616,6 +6616,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "john rave",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-07-12 17:34:10",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "59.1",
+            "la": "-55",
+            "dist": "2"
+        },
+        {
             "player": "nick loftin",
             "game": "nym @ kc",
             "hr/park": "",
@@ -7747,17 +7762,17 @@
         {
             "player": "austin hedges",
             "game": "cle @ chw",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "28",
             "dt": "2025-07-12 17:32:40",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
             "team": "cle",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "100.0",
+            "la": "34",
+            "dist": "396"
         },
         {
             "player": "angel martinez",
@@ -8176,7 +8191,7 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
