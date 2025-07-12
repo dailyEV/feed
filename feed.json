@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "42",
         "batters": "185",
-        "pitches": "1823",
+        "pitches": "1839",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "37.0",
+        "ff%fourseam fastball %": "36.9",
         "si%sinker %": "13.1",
         "fc%cutter %": "6.7",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "10.1",
-        "sl%slider %": "20.1",
-        "cu%curve %": "11.0",
+        "ch%changeup %": "10.0",
+        "sl%slider %": "20.3",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "129",
-        "hh%hard hit %": "40.6",
+        "hhhard hit": "131",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "20",
-        "brl%barrel %": "6.3",
-        "ab": "420",
+        "brl%barrel %": "6.2",
+        "ab": "424",
         "avg": ".245",
-        "h": "103",
-        "1b": "67",
+        "h": "104",
+        "1b": "68",
         "2b": "18",
         "3b": "4",
         "hr": "14",
-        "so": "105",
-        "bipballs in play": "318",
+        "so": "106",
+        "bipballs in play": "321",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:11:11.165997"
+        "updated": "2025-07-11 21:11:20.304861"
     },
     "cle @ chw": [
         {
@@ -1003,10 +1003,10 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.0",
+            "la": "6",
+            "dist": "103"
         },
         {
             "player": "brayan rocchio",
@@ -2153,6 +2153,21 @@
     ],
     "chc @ nyy": [
         {
+            "player": "michael busch",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-07-11 21:11:14",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "justin turner",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -2162,10 +2177,10 @@
             "team": "chc",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.7",
+            "la": "3",
+            "dist": "75"
         },
         {
             "player": "oswald peraza",
@@ -3070,6 +3085,21 @@
     ],
     "col @ cin": [
         {
+            "player": "ryan mcmahon",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-11 21:11:14",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael toglia",
             "game": "col @ cin",
             "hr/park": "",
@@ -3079,7 +3109,7 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3986,6 +4016,21 @@
         }
     ],
     "sea @ det": [
+        {
+            "player": "dylan moore",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-11 21:11:14",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "parker meadows",
             "game": "sea @ det",
@@ -6185,6 +6230,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "caleb durbin",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-11 21:11:14",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "Bunt Groundout",
+            "evo": "34.0",
+            "la": "-1",
+            "dist": "21"
+        },
         {
             "player": "brady house",
             "game": "wsh @ mil",
