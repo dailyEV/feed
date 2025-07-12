@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "49",
-        "batters": "193",
-        "pitches": "1641",
+        "batters": "194",
+        "pitches": "1647",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "31.0",
         "si%sinker %": "16.0",
-        "fc%cutter %": "10.4",
+        "fc%cutter %": "10.3",
         "fs%splitter %": "3.4",
-        "ch%changeup %": "8.3",
+        "ch%changeup %": "8.5",
         "sl%slider %": "18.5",
-        "cu%curve %": "12.2",
+        "cu%curve %": "12.3",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "111",
-        "hh%hard hit %": "37.2",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "27",
-        "brl%barrel %": "9.1",
+        "brl%barrel %": "9.0",
         "ab": "388",
         "avg": ".235",
         "h": "91",
@@ -24,11 +24,11 @@
         "2b": "16",
         "3b": "2",
         "hr": "17",
-        "so": "95",
-        "bipballs in play": "298",
+        "so": "97",
+        "bipballs in play": "300",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:54:38.426075"
+        "updated": "2025-07-12 16:54:47.301563"
     },
     "chc @ nyy": [
         {
@@ -1109,9 +1109,9 @@
             "start": "1:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "91.1",
+            "la": "48",
+            "dist": "284"
         },
         {
             "player": "randy arozarena",
@@ -4309,7 +4309,7 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4716,7 +4716,7 @@
             "team": "mia",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5068,21 +5068,6 @@
         }
     ],
     "col @ cin": [
-        {
-            "player": "austin hays",
-            "game": "col @ cin",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-07-12 16:54:26",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "4:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "elly de la cruz",
             "game": "col @ cin",
@@ -6186,6 +6171,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "joey ortiz",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-12 16:54:41",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "90.3",
+            "la": "46",
+            "dist": "285"
+        },
         {
             "player": "caleb durbin",
             "game": "wsh @ mil",
