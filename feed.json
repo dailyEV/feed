@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "47",
         "batters": "188",
-        "pitches": "2037",
+        "pitches": "2041",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "36.4",
+        "ff%fourseam fastball %": "36.5",
         "si%sinker %": "13.3",
         "fc%cutter %": "7.3",
         "fs%splitter %": "1.9",
@@ -28,7 +28,7 @@
         "bipballs in play": "358",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:22:51.123665"
+        "updated": "2025-07-11 21:23:00.648663"
     },
     "cle @ chw": [
         {
@@ -1350,7 +1350,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "87.3",
             "la": "55",
             "dist": "219"
@@ -3280,6 +3280,21 @@
     ],
     "col @ cin": [
         {
+            "player": "will benson",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-07-11 21:22:57",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyler stephenson",
             "game": "col @ cin",
             "hr/park": "",
@@ -5123,7 +5138,7 @@
             "team": "tb",
             "start": "7:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "72.8",
             "la": "5",
             "dist": "69"
@@ -5987,21 +6002,6 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
-            "player": "jose altuve",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "29",
-            "dt": "2025-07-11 21:21:57",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "8:10 PM",
-            "in": "3",
-            "result": "Double Play",
-            "evo": "78.6",
-            "la": "13",
-            "dist": "136"
-        },
-        {
             "player": "cam smith",
             "game": "tex @ hou",
             "hr/park": "",
@@ -6433,10 +6433,10 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "85.3",
+            "la": "57",
+            "dist": "197"
         },
         {
             "player": "kody clemens",
