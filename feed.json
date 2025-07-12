@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "45",
         "batters": "183",
-        "pitches": "1500",
+        "pitches": "1506",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "30.3",
-        "si%sinker %": "16.4",
+        "si%sinker %": "16.5",
         "fc%cutter %": "10.7",
         "fs%splitter %": "3.3",
         "ch%changeup %": "8.2",
         "sl%slider %": "18.7",
         "cu%curve %": "12.3",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "102",
+        "hhhard hit": "103",
         "hh%hard hit %": "37.6",
         "brlbarrels": "27",
-        "brl%barrel %": "10.0",
-        "ab": "351",
-        "avg": ".236",
-        "h": "83",
+        "brl%barrel %": "9.9",
+        "ab": "352",
+        "avg": ".239",
+        "h": "84",
         "1b": "49",
-        "2b": "15",
+        "2b": "16",
         "3b": "2",
         "hr": "17",
-        "so": "84",
-        "bipballs in play": "271",
+        "so": "85",
+        "bipballs in play": "274",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:46:51.579944"
+        "updated": "2025-07-12 16:47:00.374355"
     },
     "chc @ nyy": [
         {
@@ -3068,6 +3068,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "matt olson",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-07-12 16:46:56",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "2:15 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "87.0",
+            "la": "-14",
+            "dist": "11"
+        },
+        {
             "player": "jurickson profar",
             "game": "atl @ stl",
             "hr/park": "",
@@ -3077,7 +3092,7 @@
             "team": "atl",
             "start": "2:15 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "86.4",
             "la": "-7",
             "dist": "16"
@@ -4491,10 +4506,10 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "93.3",
+            "la": "53",
+            "dist": "273"
         },
         {
             "player": "agustin ramirez",
@@ -5043,17 +5058,17 @@
         {
             "player": "luis torrens",
             "game": "nym @ kc",
-            "hr/park": "",
+            "hr/park": "29/30",
             "pa": "16",
             "dt": "2025-07-12 16:45:40",
             "img": "https://www.mlbstatic.com/team-logos/121.svg",
             "team": "nym",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "99.4",
+            "la": "33",
+            "dist": "380"
         },
         {
             "player": "brett baty",
@@ -5292,7 +5307,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "62.5",
             "la": "-12",
             "dist": "14"
@@ -5656,7 +5671,7 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
