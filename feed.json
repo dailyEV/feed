@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "78",
         "batters": "207",
-        "pitches": "2731",
+        "pitches": "2733",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.5",
@@ -11,14 +11,14 @@
         "fs%splitter %": "3.3",
         "ch%changeup %": "9.8",
         "sl%slider %": "20.5",
-        "cu%curve %": "10.3",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "202",
         "hh%hard hit %": "39.4",
-        "brlbarrels": "39",
-        "brl%barrel %": "7.6",
-        "ab": "651",
-        "avg": ".240",
+        "brlbarrels": "40",
+        "brl%barrel %": "7.8",
+        "ab": "652",
+        "avg": ".239",
         "h": "156",
         "1b": "98",
         "2b": "32",
@@ -28,7 +28,7 @@
         "bipballs in play": "513",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 18:13:19.082836"
+        "updated": "2025-07-12 18:13:29.515797"
     },
     "chc @ nyy": [
         {
@@ -6788,10 +6788,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "8",
-            "result": "Groundout",
-            "evo": "98.6",
-            "la": "-13",
-            "dist": "12"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "tyler freeman",
@@ -7653,17 +7653,17 @@
         {
             "player": "jac caglianone",
             "game": "nym @ kc",
-            "hr/park": "",
+            "hr/park": "20/30",
             "pa": "49",
             "dt": "2025-07-12 18:12:40",
             "img": "https://www.mlbstatic.com/team-logos/118.svg",
             "team": "kc",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "102.4",
+            "la": "27",
+            "dist": "406"
         },
         {
             "player": "salvador perez",
@@ -9260,9 +9260,24 @@
     ],
     "cle @ chw": [
         {
-            "player": "kyle manzardo",
+            "player": "carlos santana",
             "game": "cle @ chw",
             "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-12 18:13:26",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "4:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "kyle manzardo",
+            "game": "cle @ chw",
+            "hr/park": "29/30",
             "pa": "42",
             "dt": "2025-07-12 18:12:56",
             "img": "https://www.mlbstatic.com/team-logos/114.svg",
@@ -9901,7 +9916,7 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "8",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "54.7",
             "la": "-49",
             "dist": "4"
