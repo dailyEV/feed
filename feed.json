@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "34",
         "batters": "94",
-        "pitches": "945",
+        "pitches": "950",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "28.7",
+        "ff%fourseam fastball %": "28.6",
         "si%sinker %": "18.2",
-        "fc%cutter %": "10.3",
+        "fc%cutter %": "10.5",
         "fs%splitter %": "3.3",
         "ch%changeup %": "9.2",
-        "sl%slider %": "18.8",
+        "sl%slider %": "18.7",
         "cu%curve %": "11.5",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "70",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "22",
-        "brl%barrel %": "12.6",
+        "brl%barrel %": "12.5",
         "ab": "224",
-        "avg": ".237",
-        "h": "53",
-        "1b": "29",
+        "avg": ".241",
+        "h": "54",
+        "1b": "30",
         "2b": "12",
         "3b": "2",
         "hr": "10",
         "so": "53",
-        "bipballs in play": "175",
+        "bipballs in play": "176",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:15:33.856675"
+        "updated": "2025-07-12 16:15:42.047401"
     },
     "chc @ nyy": [
         {
@@ -3638,10 +3638,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "60.2",
+            "la": "-21",
+            "dist": "10"
         },
         {
             "player": "ryan mcmahon",
@@ -3676,21 +3676,6 @@
     ],
     "nym @ kc": [
         {
-            "player": "francisco lindor",
-            "game": "nym @ kc",
-            "hr/park": "0/30",
-            "pa": "2",
-            "dt": "2025-07-12 16:15:25",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "4:10 PM",
-            "in": "1",
-            "result": "Flyout",
-            "evo": "85.9",
-            "la": "37",
-            "dist": "303"
-        },
-        {
             "player": "brandon nimmo",
             "game": "nym @ kc",
             "hr/park": "",
@@ -3707,6 +3692,21 @@
         }
     ],
     "tb @ bos": [
+        {
+            "player": "jake mangum",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-07-12 16:15:11",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ha seong kim",
             "game": "tb @ bos",
@@ -3750,10 +3750,10 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "82.7",
+            "la": "13",
+            "dist": "197"
         },
         {
             "player": "james wood",
