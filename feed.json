@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "43",
         "batters": "185",
-        "pitches": "1895",
+        "pitches": "1900",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.7",
-        "si%sinker %": "13.2",
+        "si%sinker %": "13.3",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.0",
         "ch%changeup %": "9.9",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "40.1",
         "brlbarrels": "20",
         "brl%barrel %": "6.0",
-        "ab": "436",
+        "ab": "437",
         "avg": ".245",
         "h": "107",
-        "1b": "69",
-        "2b": "20",
+        "1b": "70",
+        "2b": "19",
         "3b": "4",
         "hr": "14",
-        "so": "107",
+        "so": "108",
         "bipballs in play": "332",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:14:39.328969"
+        "updated": "2025-07-11 21:14:48.783887"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2222,7 +2222,7 @@
             "team": "chc",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5741,7 +5741,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Double",
+            "result": "In Progress",
             "evo": "95.5",
             "la": "26",
             "dist": "331"
@@ -6124,6 +6124,21 @@
     ],
     "pit @ min": [
         {
+            "player": "nick gonzales",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-07-11 21:14:43",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryan reynolds",
             "game": "pit @ min",
             "hr/park": "",
@@ -6133,7 +6148,7 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6925,14 +6940,14 @@
         {
             "player": "drake baldwin",
             "game": "atl @ stl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "27",
             "dt": "2025-07-11 21:13:27",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
             "team": "atl",
             "start": "8:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "103.1",
             "la": "18",
             "dist": "327"
