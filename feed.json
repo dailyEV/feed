@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "106",
         "batters": "294",
-        "pitches": "3854",
+        "pitches": "3858",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.0",
@@ -28,7 +28,7 @@
         "bipballs in play": "679",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:08:41.525335"
+        "updated": "2025-07-11 23:08:54.642462"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13468,6 +13468,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "nick castellanos",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-11 23:08:45",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "9:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alec bohm",
             "game": "phi @ sd",
             "hr/park": "",
@@ -13477,7 +13492,7 @@
             "team": "phi",
             "start": "9:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "105.1",
             "la": "-7",
             "dist": "20"
