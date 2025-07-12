@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "150",
-        "pitches": "1201",
+        "batters": "151",
+        "pitches": "1221",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "40.1",
-        "si%sinker %": "11.8",
-        "fc%cutter %": "7.2",
+        "ff%fourseam fastball %": "40.3",
+        "si%sinker %": "11.7",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "1.4",
         "ch%changeup %": "11.0",
-        "sl%slider %": "17.9",
+        "sl%slider %": "18.0",
         "cu%curve %": "10.5",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "82",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "84",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "14",
         "brl%barrel %": "6.6",
-        "ab": "277",
-        "avg": ".235",
-        "h": "65",
-        "1b": "43",
+        "ab": "283",
+        "avg": ".233",
+        "h": "66",
+        "1b": "44",
         "2b": "10",
         "3b": "2",
         "hr": "10",
-        "so": "68",
-        "bipballs in play": "211",
+        "so": "69",
+        "bipballs in play": "213",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:37:33.079878"
+        "updated": "2025-07-11 20:37:41.898734"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "kyle manzardo",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-07-11 20:37:41",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "98.1",
+            "la": "1",
+            "dist": "56"
+        },
+        {
             "player": "jose ramirez",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1003,7 +1018,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "103.1",
             "la": "9",
             "dist": "154"
@@ -1041,6 +1056,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "colton cowser",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-11 20:37:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "7:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ramon laureano",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1050,10 +1080,10 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "89.5",
+            "la": "14",
+            "dist": "216"
         },
         {
             "player": "ryan ohearn",
@@ -2320,6 +2350,36 @@
     ],
     "col @ cin": [
         {
+            "player": "brenton doyle",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-11 20:37:41",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "74.1",
+            "la": "-49",
+            "dist": "3"
+        },
+        {
+            "player": "ryan mcmahon",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-07-11 20:37:41",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael toglia",
             "game": "col @ cin",
             "hr/park": "",
@@ -2329,10 +2389,10 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "95.2",
+            "la": "64",
+            "dist": "161"
         },
         {
             "player": "austin hays",
@@ -2982,6 +3042,21 @@
     ],
     "sea @ det": [
         {
+            "player": "javier baez",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-07-11 20:37:41",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cal raleigh",
             "game": "sea @ det",
             "hr/park": "",
@@ -3554,6 +3629,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "wilyer abreu",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-07-11 20:37:41",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "junior caminero",
             "game": "tb @ bos",
             "hr/park": "",
@@ -4082,6 +4172,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "jose altuve",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-11 20:37:41",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cam smith",
             "game": "tex @ hou",
             "hr/park": "",
@@ -4091,7 +4196,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4266,21 +4371,6 @@
     ],
     "wsh @ mil": [
         {
-            "player": "brice turang",
-            "game": "wsh @ mil",
-            "hr/park": "",
-            "pa": "15",
-            "dt": "2025-07-11 20:37:27",
-            "img": "https://www.mlbstatic.com/team-logos/158.svg",
-            "team": "mil",
-            "start": "8:10 PM",
-            "in": "2",
-            "result": "Groundout",
-            "evo": "85.1",
-            "la": "-25",
-            "dist": "8"
-        },
-        {
             "player": "isaac collins",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -4290,10 +4380,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "2",
-            "result": "Groundout",
-            "evo": "83.7",
-            "la": "-38",
-            "dist": "4"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "andrew vaughn",
@@ -4492,6 +4582,21 @@
         }
     ],
     "atl @ stl": [
+        {
+            "player": "lars nootbaar",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-11 20:36:12",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "8:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "willson contreras",
             "game": "atl @ stl",
