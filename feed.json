@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "119",
         "batters": "296",
-        "pitches": "4232",
+        "pitches": "4235",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.5",
@@ -11,14 +11,14 @@
         "fs%splitter %": "2.8",
         "ch%changeup %": "9.7",
         "sl%slider %": "21.6",
-        "cu%curve %": "8.2",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "279",
         "hh%hard hit %": "37.6",
         "brlbarrels": "56",
         "brl%barrel %": "7.5",
-        "ab": "964",
-        "avg": ".244",
+        "ab": "966",
+        "avg": ".243",
         "h": "235",
         "1b": "145",
         "2b": "49",
@@ -28,7 +28,7 @@
         "bipballs in play": "742",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:42:39.110256"
+        "updated": "2025-07-11 23:42:52.323911"
     },
     "cle @ chw": [
         {
@@ -7900,7 +7900,7 @@
             "team": "nym",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -13316,6 +13316,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "taylor ward",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-11 23:42:43",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike trout",
             "game": "ari @ laa",
             "hr/park": "",
@@ -14187,6 +14202,21 @@
         }
     ],
     "phi @ sd": [
+        {
+            "player": "bryce harper",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-11 23:42:43",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "9:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle schwarber",
             "game": "phi @ sd",
@@ -15761,7 +15791,7 @@
             "team": "sf",
             "start": "10:15 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "83.1",
             "la": "-38",
             "dist": "4"
