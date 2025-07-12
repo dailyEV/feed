@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "51",
         "batters": "189",
-        "pitches": "2137",
+        "pitches": "2138",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.5",
-        "si%sinker %": "13.2",
-        "fc%cutter %": "7.3",
+        "si%sinker %": "13.3",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "1.8",
         "ch%changeup %": "9.6",
         "sl%slider %": "21.7",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "146",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "25",
         "brl%barrel %": "6.7",
         "ab": "490",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "17",
         "so": "118",
-        "bipballs in play": "374",
+        "bipballs in play": "375",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:28:21.463036"
+        "updated": "2025-07-11 21:28:30.955555"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3400,6 +3400,21 @@
     ],
     "col @ cin": [
         {
+            "player": "tyler freeman",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-07-11 21:28:27",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "92.2",
+            "la": "-1",
+            "dist": "38"
+        },
+        {
             "player": "ryan ritter",
             "game": "col @ cin",
             "hr/park": "",
@@ -3409,7 +3424,7 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "64.9",
             "la": "-18",
             "dist": "10"
@@ -4436,21 +4451,6 @@
         }
     ],
     "sea @ det": [
-        {
-            "player": "randy arozarena",
-            "game": "sea @ det",
-            "hr/park": "",
-            "pa": "60",
-            "dt": "2025-07-11 21:27:58",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "7:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "cal raleigh",
             "game": "sea @ det",
