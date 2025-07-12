@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "87",
         "batters": "265",
-        "pitches": "3117",
+        "pitches": "3120",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.3",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.7",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "217",
-        "hh%hard hit %": "39.4",
-        "brlbarrels": "41",
-        "brl%barrel %": "7.4",
+        "hhhard hit": "219",
+        "hh%hard hit %": "39.5",
+        "brlbarrels": "42",
+        "brl%barrel %": "7.6",
         "ab": "715",
-        "avg": ".253",
-        "h": "181",
+        "avg": ".255",
+        "h": "182",
         "1b": "107",
         "2b": "40",
         "3b": "5",
-        "hr": "29",
-        "so": "178",
-        "bipballs in play": "551",
+        "hr": "30",
+        "so": "177",
+        "bipballs in play": "554",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:21:39.096741"
+        "updated": "2025-07-11 22:21:50.335285"
     },
     "cle @ chw": [
         {
@@ -7435,7 +7435,7 @@
             "team": "nym",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8639,10 +8639,10 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "85.6",
+            "la": "-14",
+            "dist": "11"
         },
         {
             "player": "matt wallner",
@@ -9406,10 +9406,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "GIDP",
+            "evo": "107.2",
+            "la": "-14",
+            "dist": "8"
         },
         {
             "player": "caleb durbin",
@@ -11677,15 +11677,15 @@
             "team": "phi",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "110.9",
+            "la": "33",
+            "dist": "425"
         },
         {
             "player": "trea turner",
             "game": "phi @ sd",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "21",
             "dt": "2025-07-11 22:19:59",
             "img": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -12009,7 +12009,7 @@
             "team": "ath",
             "start": "10:05 PM",
             "in": "1",
-            "result": "Stolen Base 2B",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
