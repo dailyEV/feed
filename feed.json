@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "43",
         "batters": "185",
-        "pitches": "1900",
+        "pitches": "1902",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "36.7",
+        "ff%fourseam fastball %": "36.6",
         "si%sinker %": "13.3",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.0",
         "ch%changeup %": "9.9",
         "sl%slider %": "20.6",
-        "cu%curve %": "10.7",
+        "cu%curve %": "10.8",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "133",
-        "hh%hard hit %": "40.1",
-        "brlbarrels": "20",
-        "brl%barrel %": "6.0",
-        "ab": "437",
-        "avg": ".245",
-        "h": "107",
+        "hhhard hit": "135",
+        "hh%hard hit %": "40.4",
+        "brlbarrels": "21",
+        "brl%barrel %": "6.3",
+        "ab": "438",
+        "avg": ".249",
+        "h": "109",
         "1b": "70",
-        "2b": "19",
+        "2b": "21",
         "3b": "4",
         "hr": "14",
         "so": "108",
-        "bipballs in play": "332",
+        "bipballs in play": "334",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:14:48.783887"
+        "updated": "2025-07-11 21:14:58.333689"
     },
     "cle @ chw": [
         {
@@ -1305,10 +1305,10 @@
             "team": "mia",
             "start": "7:05 PM",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.1",
+            "la": "-24",
+            "dist": "5"
         },
         {
             "player": "javier sanoja",
@@ -4913,7 +4913,7 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "83.1",
             "la": "82",
             "dist": "6"
@@ -5741,7 +5741,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "95.5",
             "la": "26",
             "dist": "331"
@@ -6410,6 +6410,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "william contreras",
+            "game": "wsh @ mil",
+            "hr/park": "0/30",
+            "pa": "36",
+            "dt": "2025-07-11 21:14:58",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "Double",
+            "evo": "110.4",
+            "la": "18",
+            "dist": "342"
+        },
         {
             "player": "sal frelick",
             "game": "wsh @ mil",
