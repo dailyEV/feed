@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "57",
         "batters": "194",
-        "pitches": "2288",
+        "pitches": "2295",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.2",
-        "si%sinker %": "13.3",
-        "fc%cutter %": "7.6",
+        "si%sinker %": "13.2",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "1.7",
-        "ch%changeup %": "9.5",
-        "sl%slider %": "22.0",
+        "ch%changeup %": "9.6",
+        "sl%slider %": "21.9",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "163",
-        "hh%hard hit %": "40.4",
+        "hhhard hit": "162",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "26",
         "brl%barrel %": "6.5",
-        "ab": "522",
-        "avg": ".251",
+        "ab": "523",
+        "avg": ".250",
         "h": "131",
         "1b": "80",
         "2b": "28",
         "3b": "4",
         "hr": "19",
-        "so": "122",
-        "bipballs in play": "403",
+        "so": "124",
+        "bipballs in play": "402",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:36:23.665246"
+        "updated": "2025-07-11 21:36:33.501510"
     },
     "cle @ chw": [
         {
@@ -994,21 +994,6 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
-            "player": "luis robert",
-            "game": "cle-gm2 @ chw-gm2",
-            "hr/park": "",
-            "pa": "29",
-            "dt": "2025-07-11 21:36:13",
-            "img": "https://www.mlbstatic.com/team-logos/145.svg",
-            "team": "chw",
-            "start": "8:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "kyle teel",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1018,10 +1003,10 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "3",
-            "result": "Forceout",
-            "evo": "101.8",
-            "la": "2",
-            "dist": "72"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "miguel vargas",
@@ -1440,7 +1425,7 @@
             "team": "mia",
             "start": "7:05 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3550,6 +3535,21 @@
     ],
     "col @ cin": [
         {
+            "player": "matt mclain",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-07-11 21:36:33",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "7:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tj friedl",
             "game": "col @ cin",
             "hr/park": "",
@@ -3559,7 +3559,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7606,7 +7606,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "5",
-            "result": "Hit By Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8299,9 +8299,9 @@
             "start": "8:15 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "61.5",
+            "la": "5",
+            "dist": "57"
         },
         {
             "player": "victor scott",
