@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "62",
-        "batters": "199",
-        "pitches": "2375",
+        "batters": "201",
+        "pitches": "2395",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "36.0",
-        "si%sinker %": "13.6",
+        "ff%fourseam fastball %": "35.9",
+        "si%sinker %": "13.7",
         "fc%cutter %": "7.7",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "9.5",
-        "sl%slider %": "21.9",
-        "cu%curve %": "9.6",
+        "ch%changeup %": "9.4",
+        "sl%slider %": "22.0",
+        "cu%curve %": "9.5",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "169",
+        "hhhard hit": "170",
         "hh%hard hit %": "40.2",
         "brlbarrels": "29",
         "brl%barrel %": "6.9",
-        "ab": "543",
+        "ab": "548",
         "avg": ".250",
-        "h": "136",
+        "h": "137",
         "1b": "83",
-        "2b": "29",
+        "2b": "30",
         "3b": "4",
         "hr": "20",
         "so": "129",
-        "bipballs in play": "420",
+        "bipballs in play": "423",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:41:15.632871"
+        "updated": "2025-07-11 21:41:28.205744"
     },
     "cle @ chw": [
         {
@@ -2497,6 +2497,51 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "dansby swanson",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-07-11 21:41:28",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "matt shaw",
+            "game": "chc @ nyy",
+            "hr/park": "0/30",
+            "pa": "75",
+            "dt": "2025-07-11 21:41:28",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "98.0",
+            "la": "41",
+            "dist": "333"
+        },
+        {
+            "player": "reese mcguire",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-07-11 21:39:57",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "43.9",
+            "la": "-37",
+            "dist": "6"
+        },
         {
             "player": "vidal brujan",
             "game": "chc @ nyy",
@@ -5709,9 +5754,9 @@
             "start": "7:10 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "87.3",
+            "la": "-16",
+            "dist": "5"
         },
         {
             "player": "danny jansen",
@@ -7385,6 +7430,21 @@
     ],
     "pit @ min": [
         {
+            "player": "carlos correa",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-07-11 21:39:42",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "trevor larnach",
             "game": "pit @ min",
             "hr/park": "29/30",
@@ -7852,6 +7912,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "nathaniel lowe",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-11 21:41:28",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "8:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh bell",
             "game": "wsh @ mil",
             "hr/park": "0/30",
@@ -7861,7 +7936,7 @@
             "team": "wsh",
             "start": "8:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "102.6",
             "la": "23",
             "dist": "388"
