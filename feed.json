@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "67",
         "batters": "203",
-        "pitches": "2548",
+        "pitches": "2555",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.8",
@@ -10,25 +10,25 @@
         "fc%cutter %": "10.1",
         "fs%splitter %": "3.1",
         "ch%changeup %": "9.8",
-        "sl%slider %": "19.7",
+        "sl%slider %": "19.8",
         "cu%curve %": "10.8",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "188",
-        "hh%hard hit %": "39.8",
+        "hh%hard hit %": "39.7",
         "brlbarrels": "34",
         "brl%barrel %": "7.2",
-        "ab": "605",
-        "avg": ".246",
+        "ab": "607",
+        "avg": ".245",
         "h": "149",
         "1b": "94",
         "2b": "31",
         "3b": "3",
         "hr": "21",
-        "so": "145",
-        "bipballs in play": "472",
+        "so": "146",
+        "bipballs in play": "473",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:58:37.142276"
+        "updated": "2025-07-12 17:58:47.355832"
     },
     "chc @ nyy": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "sea @ det": [
         {
+            "player": "jorge polanco",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "91",
+            "dt": "2025-07-12 17:58:40",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "randy arozarena",
             "game": "sea @ det",
             "hr/park": "",
@@ -1108,7 +1123,7 @@
             "team": "sea",
             "start": "1:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5711,6 +5726,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "cedric mullins",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-12 17:58:40",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "Flyout",
+            "evo": "90.8",
+            "la": "46",
+            "dist": "284"
+        },
         {
             "player": "tyler oneill",
             "game": "mia @ bal",
