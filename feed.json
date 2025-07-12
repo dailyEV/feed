@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "87",
         "batters": "266",
-        "pitches": "3154",
+        "pitches": "3155",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.1",
-        "si%sinker %": "14.4",
+        "si%sinker %": "14.3",
         "fc%cutter %": "8.2",
         "fs%splitter %": "2.0",
         "ch%changeup %": "9.5",
-        "sl%slider %": "21.8",
+        "sl%slider %": "21.9",
         "cu%curve %": "8.7",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "222",
@@ -24,11 +24,11 @@
         "2b": "40",
         "3b": "5",
         "hr": "30",
-        "so": "180",
+        "so": "181",
         "bipballs in play": "560",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:24:07.676216"
+        "updated": "2025-07-11 22:24:19.065957"
     },
     "cle @ chw": [
         {
@@ -10509,21 +10509,6 @@
     ],
     "atl @ stl": [
         {
-            "player": "jurickson profar",
-            "game": "atl @ stl",
-            "hr/park": "",
-            "pa": "62",
-            "dt": "2025-07-11 22:23:14",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "8:15 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "sean murphy",
             "game": "atl @ stl",
             "hr/park": "0/30",
@@ -11441,9 +11426,24 @@
     ],
     "ari @ laa": [
         {
-            "player": "nolan schanuel",
+            "player": "mike trout",
             "game": "ari @ laa",
             "hr/park": "",
+            "pa": "24",
+            "dt": "2025-07-11 22:24:13",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "nolan schanuel",
+            "game": "ari @ laa",
+            "hr/park": "0/30",
             "pa": "23",
             "dt": "2025-07-11 22:24:00",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
@@ -11797,7 +11797,7 @@
             "team": "phi",
             "start": "9:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
