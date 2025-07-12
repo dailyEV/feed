@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "39",
-        "batters": "110",
-        "pitches": "1036",
+        "batters": "111",
+        "pitches": "1043",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "28.5",
-        "si%sinker %": "18.1",
-        "fc%cutter %": "11.1",
+        "ff%fourseam fastball %": "28.4",
+        "si%sinker %": "17.9",
+        "fc%cutter %": "11.0",
         "fs%splitter %": "3.3",
         "ch%changeup %": "8.7",
         "sl%slider %": "18.5",
-        "cu%curve %": "11.9",
+        "cu%curve %": "12.2",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "73",
-        "hh%hard hit %": "38.4",
+        "hh%hard hit %": "37.8",
         "brlbarrels": "22",
-        "brl%barrel %": "11.6",
-        "ab": "246",
-        "avg": ".244",
+        "brl%barrel %": "11.4",
+        "ab": "247",
+        "avg": ".243",
         "h": "60",
         "1b": "33",
         "2b": "14",
         "3b": "2",
         "hr": "11",
         "so": "58",
-        "bipballs in play": "190",
+        "bipballs in play": "193",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:21:07.392796"
+        "updated": "2025-07-12 16:21:15.705360"
     },
     "chc @ nyy": [
         {
@@ -3726,10 +3726,10 @@
             "team": "bal",
             "start": "4:05 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "76.3",
+            "la": "-60",
+            "dist": "1"
         },
         {
             "player": "eric wagaman",
@@ -4071,6 +4071,21 @@
     "cle @ chw": [],
     "wsh @ mil": [
         {
+            "player": "william contreras",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-12 16:21:10",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "93.2",
+            "la": "-4",
+            "dist": "26"
+        },
+        {
             "player": "sal frelick",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -4080,10 +4095,10 @@
             "team": "mil",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "82.5",
+            "la": "26",
+            "dist": "289"
         },
         {
             "player": "nathaniel lowe",
