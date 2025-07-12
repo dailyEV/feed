@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "26",
         "batters": "133",
-        "pitches": "1043",
+        "pitches": "1045",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "42.2",
+        "ff%fourseam fastball %": "42.1",
         "si%sinker %": "11.5",
         "fc%cutter %": "7.2",
         "fs%splitter %": "1.5",
         "ch%changeup %": "10.6",
-        "sl%slider %": "16.9",
-        "cu%curve %": "10.1",
+        "sl%slider %": "17.1",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "72",
-        "hh%hard hit %": "40.2",
+        "hhhard hit": "70",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "12",
         "brl%barrel %": "6.7",
-        "ab": "237",
-        "avg": ".236",
-        "h": "56",
-        "1b": "37",
+        "ab": "238",
+        "avg": ".231",
+        "h": "55",
+        "1b": "36",
         "2b": "9",
         "3b": "2",
         "hr": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "179",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:27:07.277302"
+        "updated": "2025-07-11 20:27:15.765724"
     },
     "cle @ chw": [
         {
@@ -1552,21 +1552,6 @@
     ],
     "chc @ nyy": [
         {
-            "player": "cody bellinger",
-            "game": "chc @ nyy",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-07-11 20:26:44",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "aaron judge",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -2741,6 +2726,21 @@
     ],
     "sea @ det": [
         {
+            "player": "dylan moore",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-11 20:26:44",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "donovan solano",
             "game": "sea @ det",
             "hr/park": "",
@@ -3238,6 +3238,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "carlos narvaez",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-11 20:27:12",
+            "img": "https://www.mlbstatic.com/team-logos/111.svg",
+            "team": "bos",
+            "start": "7:10 PM",
+            "in": "3",
+            "result": "Pop Out",
+            "evo": "89.6",
+            "la": "71",
+            "dist": "95"
+        },
+        {
             "player": "masataka yoshida",
             "game": "tb @ bos",
             "hr/park": "",
@@ -3247,10 +3262,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "89.4",
+            "la": "40",
+            "dist": "288"
         },
         {
             "player": "alex bregman",
@@ -3700,10 +3715,10 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Single",
-            "evo": "104.9",
-            "la": "11",
-            "dist": "218"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "wyatt langford",
@@ -3793,10 +3808,10 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Lineout",
-            "evo": "109.3",
-            "la": "5",
-            "dist": "170"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "william contreras",
@@ -3915,7 +3930,7 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "85.5",
             "la": "49",
             "dist": "283"
