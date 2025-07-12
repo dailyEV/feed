@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "80",
         "batters": "255",
-        "pitches": "2957",
+        "pitches": "2961",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "35.5",
         "si%sinker %": "13.9",
         "fc%cutter %": "8.1",
         "fs%splitter %": "2.1",
-        "ch%changeup %": "9.2",
+        "ch%changeup %": "9.3",
         "sl%slider %": "22.0",
         "cu%curve %": "8.9",
         "max evmax exit velocity": "115.3",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "40.1",
         "brlbarrels": "40",
         "brl%barrel %": "7.6",
-        "ab": "680",
-        "avg": ".254",
-        "h": "173",
-        "1b": "101",
+        "ab": "681",
+        "avg": ".256",
+        "h": "174",
+        "1b": "102",
         "2b": "38",
         "3b": "5",
         "hr": "29",
@@ -28,7 +28,7 @@
         "bipballs in play": "526",
         "liveGames": 15,
         "totGames": 16,
-        "updated": "2025-07-11 22:13:23.716182"
+        "updated": "2025-07-11 22:13:34.370043"
     },
     "cle @ chw": [
         {
@@ -7351,6 +7351,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "juan soto",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-11 22:13:28",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "francisco lindor",
             "game": "nym @ kc",
             "hr/park": "",
@@ -7360,7 +7375,7 @@
             "team": "nym",
             "start": "8:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "101.8",
             "la": "9",
             "dist": "198"
@@ -9166,7 +9181,7 @@
             "team": "wsh",
             "start": "8:10 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
