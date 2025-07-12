@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "115",
-        "pitches": "846",
+        "batters": "114",
+        "pitches": "853",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "44.6",
+        "ff%fourseam fastball %": "44.4",
         "si%sinker %": "10.0",
-        "fc%cutter %": "8.0",
+        "fc%cutter %": "8.1",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "10.8",
-        "sl%slider %": "16.4",
+        "ch%changeup %": "10.7",
+        "sl%slider %": "16.8",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "60",
-        "hh%hard hit %": "41.4",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "10",
-        "brl%barrel %": "6.9",
-        "ab": "192",
-        "avg": ".229",
+        "brl%barrel %": "6.8",
+        "ab": "194",
+        "avg": ".227",
         "h": "44",
         "1b": "27",
         "2b": "8",
         "3b": "2",
         "hr": "7",
-        "so": "48",
-        "bipballs in play": "145",
+        "so": "49",
+        "bipballs in play": "147",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-07-11 20:13:21.509495"
+        "updated": "2025-07-11 20:13:29.618197"
     },
     "cle @ chw": [
         {
@@ -1462,6 +1462,36 @@
     ],
     "chc @ nyy": [
         {
+            "player": "oswald peraza",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-11 20:13:27",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "anthony volpe",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-07-11 20:13:27",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "94.6",
+            "la": "-22",
+            "dist": "5"
+        },
+        {
             "player": "jc escarra",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -1938,7 +1968,7 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2410,6 +2440,21 @@
         }
     ],
     "sea @ det": [
+        {
+            "player": "spencer torkelson",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-11 20:13:27",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "riley greene",
             "game": "sea @ det",
@@ -3220,29 +3265,14 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "92.0",
+            "la": "-21",
+            "dist": "7"
         }
     ],
     "pit @ min": [],
     "wsh @ mil": [
-        {
-            "player": "james wood",
-            "game": "wsh @ mil",
-            "hr/park": "",
-            "pa": "2",
-            "dt": "2025-07-11 20:12:43",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "8:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "cj abrams",
             "game": "wsh @ mil",
