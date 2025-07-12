@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "57",
-        "batters": "194",
-        "pitches": "2313",
+        "batters": "195",
+        "pitches": "2323",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.1",
@@ -11,24 +11,24 @@
         "fs%splitter %": "1.7",
         "ch%changeup %": "9.6",
         "sl%slider %": "22.0",
-        "cu%curve %": "9.6",
+        "cu%curve %": "9.5",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "163",
-        "hh%hard hit %": "39.8",
-        "brlbarrels": "26",
-        "brl%barrel %": "6.3",
-        "ab": "528",
-        "avg": ".250",
+        "hhhard hit": "165",
+        "hh%hard hit %": "40.0",
+        "brlbarrels": "27",
+        "brl%barrel %": "6.5",
+        "ab": "530",
+        "avg": ".249",
         "h": "132",
         "1b": "81",
         "2b": "28",
         "3b": "4",
         "hr": "19",
         "so": "125",
-        "bipballs in play": "410",
+        "bipballs in play": "413",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:37:34.115920"
+        "updated": "2025-07-11 21:37:44.154693"
     },
     "cle @ chw": [
         {
@@ -1440,10 +1440,10 @@
             "team": "mia",
             "start": "7:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "96.1",
+            "la": "-14",
+            "dist": "9"
         },
         {
             "player": "kyle stowers",
@@ -4647,6 +4647,21 @@
     ],
     "sea @ det": [
         {
+            "player": "spencer torkelson",
+            "game": "sea @ det",
+            "hr/park": "0/30",
+            "pa": "64",
+            "dt": "2025-07-11 21:36:43",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "92.0",
+            "la": "35",
+            "dist": "338"
+        },
+        {
             "player": "riley greene",
             "game": "sea @ det",
             "hr/park": "",
@@ -6601,6 +6616,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "pete alonso",
+            "game": "nym @ kc",
+            "hr/park": "2/30",
+            "pa": "4",
+            "dt": "2025-07-11 21:37:42",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "98.6",
+            "la": "30",
+            "dist": "363"
+        },
+        {
             "player": "juan soto",
             "game": "nym @ kc",
             "hr/park": "",
@@ -6610,7 +6640,7 @@
             "team": "nym",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7219,6 +7249,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "trevor larnach",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-11 21:37:42",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "willi castro",
             "game": "pit @ min",
