@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "35",
         "batters": "165",
-        "pitches": "1421",
+        "pitches": "1427",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "39.5",
-        "si%sinker %": "12.2",
+        "ff%fourseam fastball %": "39.4",
+        "si%sinker %": "12.4",
         "fc%cutter %": "7.1",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "10.6",
+        "ch%changeup %": "10.5",
         "sl%slider %": "17.9",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "100",
-        "hh%hard hit %": "40.2",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "16",
         "brl%barrel %": "6.4",
-        "ab": "329",
-        "avg": ".228",
-        "h": "75",
-        "1b": "47",
+        "ab": "330",
+        "avg": ".230",
+        "h": "76",
+        "1b": "48",
         "2b": "14",
         "3b": "3",
         "hr": "11",
-        "so": "82",
-        "bipballs in play": "249",
+        "so": "81",
+        "bipballs in play": "251",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:49:35.520125"
+        "updated": "2025-07-11 20:49:44.221052"
     },
     "cle @ chw": [
         {
@@ -1853,6 +1853,21 @@
     ],
     "chc @ nyy": [
         {
+            "player": "pete crow armstrong",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-11 20:48:28",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "66.1",
+            "la": "-15",
+            "dist": "4"
+        },
+        {
             "player": "carson kelly",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -2620,21 +2635,6 @@
     ],
     "col @ cin": [
         {
-            "player": "tyler freeman",
-            "game": "col @ cin",
-            "hr/park": "",
-            "pa": "53",
-            "dt": "2025-07-11 20:49:13",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "7:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "ryan ritter",
             "game": "col @ cin",
             "hr/park": "",
@@ -2644,7 +2644,7 @@
             "team": "col",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3402,6 +3402,21 @@
     ],
     "sea @ det": [
         {
+            "player": "jorge polanco",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-11 20:49:42",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mitch garver",
             "game": "sea @ det",
             "hr/park": "",
@@ -3411,10 +3426,10 @@
             "team": "sea",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Single",
+            "evo": "90.5",
             "la": "",
-            "dist": ""
+            "dist": "48"
         },
         {
             "player": "randy arozarena",
