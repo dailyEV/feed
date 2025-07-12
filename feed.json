@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "66",
         "batters": "203",
-        "pitches": "2528",
+        "pitches": "2530",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.8",
-        "si%sinker %": "15.6",
+        "si%sinker %": "15.7",
         "fc%cutter %": "10.1",
         "fs%splitter %": "3.0",
         "ch%changeup %": "9.8",
-        "sl%slider %": "19.7",
+        "sl%slider %": "19.6",
         "cu%curve %": "10.9",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "188",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "34",
-        "brl%barrel %": "7.2",
+        "brl%barrel %": "7.3",
         "ab": "601",
         "avg": ".246",
         "h": "148",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "21",
         "so": "144",
-        "bipballs in play": "469",
+        "bipballs in play": "468",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:57:05.599243"
+        "updated": "2025-07-12 17:57:15.663963"
     },
     "chc @ nyy": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "sea @ det": [
         {
+            "player": "randy arozarena",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "90",
+            "dt": "2025-07-12 17:57:10",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cal raleigh",
             "game": "sea @ det",
             "hr/park": "",
@@ -1108,7 +1123,7 @@
             "team": "sea",
             "start": "1:10 PM",
             "in": "9",
-            "result": "Wild Pitch",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4794,21 +4809,6 @@
         }
     ],
     "lad @ sf": [
-        {
-            "player": "heliot ramos",
-            "game": "lad @ sf",
-            "hr/park": "",
-            "pa": "60",
-            "dt": "2025-07-12 17:56:55",
-            "img": "https://www.mlbstatic.com/team-logos/137.svg",
-            "team": "sf",
-            "start": "4:05 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "93.2",
-            "la": "7",
-            "dist": "158"
-        },
         {
             "player": "mike yastrzemski",
             "game": "lad @ sf",
@@ -9172,6 +9172,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "james wood",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-12 17:57:10",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cj abrams",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -9181,7 +9196,7 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "75.4",
             "la": "-17",
             "dist": "8"
