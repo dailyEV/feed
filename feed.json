@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "49",
         "batters": "189",
-        "pitches": "2087",
+        "pitches": "2103",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.3",
-        "si%sinker %": "13.3",
-        "fc%cutter %": "7.2",
+        "si%sinker %": "13.2",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "9.6",
-        "sl%slider %": "21.7",
-        "cu%curve %": "10.1",
+        "ch%changeup %": "9.7",
+        "sl%slider %": "21.8",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "143",
-        "hh%hard hit %": "39.2",
-        "brlbarrels": "23",
-        "brl%barrel %": "6.3",
-        "ab": "478",
-        "avg": ".243",
+        "hhhard hit": "144",
+        "hh%hard hit %": "39.1",
+        "brlbarrels": "24",
+        "brl%barrel %": "6.5",
+        "ab": "482",
+        "avg": ".241",
         "h": "116",
         "1b": "74",
         "2b": "23",
         "3b": "4",
         "hr": "15",
-        "so": "117",
-        "bipballs in play": "365",
+        "so": "118",
+        "bipballs in play": "368",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:26:24.577385"
+        "updated": "2025-07-11 21:26:33.901052"
     },
     "cle @ chw": [
         {
@@ -993,6 +993,21 @@
         }
     ],
     "cle-gm2 @ chw-gm2": [
+        {
+            "player": "lenyn sosa",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-11 21:26:27",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "mike tauchman",
             "game": "cle-gm2 @ chw-gm2",
@@ -2333,6 +2348,21 @@
     ],
     "chc @ nyy": [
         {
+            "player": "cody bellinger",
+            "game": "chc @ nyy",
+            "hr/park": "5/30",
+            "pa": "68",
+            "dt": "2025-07-11 21:26:27",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "102.9",
+            "la": "36",
+            "dist": "380"
+        },
+        {
             "player": "aaron judge",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -2342,7 +2372,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4362,6 +4392,21 @@
     ],
     "sea @ det": [
         {
+            "player": "cal raleigh",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-11 21:26:27",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "julio rodriguez",
             "game": "sea @ det",
             "hr/park": "",
@@ -4371,10 +4416,10 @@
             "team": "sea",
             "start": "7:10 PM",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "57.1",
+            "la": "6",
+            "dist": "57"
         },
         {
             "player": "gleyber torres",
@@ -6137,6 +6182,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "josh smith",
+            "game": "tex @ hou",
+            "hr/park": "0/30",
+            "pa": "31",
+            "dt": "2025-07-11 21:26:27",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "93.3",
+            "la": "44",
+            "dist": "300"
+        },
+        {
             "player": "kyle higashioka",
             "game": "tex @ hou",
             "hr/park": "",
@@ -6146,7 +6206,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6588,6 +6648,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "spencer horwitz",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-11 21:26:27",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kebryan hayes",
             "game": "pit @ min",
