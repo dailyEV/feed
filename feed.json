@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "45",
-        "batters": "177",
-        "pitches": "1452",
+        "batters": "179",
+        "pitches": "1460",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "70.3",
         "ff%fourseam fastball %": "29.8",
-        "si%sinker %": "16.5",
+        "si%sinker %": "16.4",
         "fc%cutter %": "10.7",
         "fs%splitter %": "3.4",
         "ch%changeup %": "8.3",
         "sl%slider %": "18.9",
         "cu%curve %": "12.5",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "98",
-        "hh%hard hit %": "37.4",
+        "hhhard hit": "100",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "27",
-        "brl%barrel %": "10.3",
-        "ab": "338",
-        "avg": ".234",
-        "h": "79",
-        "1b": "46",
+        "brl%barrel %": "10.2",
+        "ab": "341",
+        "avg": ".238",
+        "h": "81",
+        "1b": "48",
         "2b": "15",
         "3b": "2",
         "hr": "16",
-        "so": "80",
-        "bipballs in play": "262",
+        "so": "81",
+        "bipballs in play": "265",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:44:38.331832"
+        "updated": "2025-07-12 16:44:47.001602"
     },
     "chc @ nyy": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "sea @ det": [
         {
+            "player": "matt vierling",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-12 16:44:41",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach mckinstry",
             "game": "sea @ det",
             "hr/park": "",
@@ -1108,10 +1123,10 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.3",
+            "la": "35",
+            "dist": "284"
         },
         {
             "player": "cal raleigh",
@@ -1950,7 +1965,7 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "66.5",
             "la": "23",
             "dist": "204"
@@ -4377,6 +4392,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "jacob stallings",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-12 16:44:41",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "agustin ramirez",
             "game": "mia @ bal",
             "hr/park": "",
@@ -4906,6 +4936,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "brett baty",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-12 16:44:41",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "106.3",
+            "la": "-9",
+            "dist": "12"
+        },
+        {
             "player": "tyrone taylor",
             "game": "nym @ kc",
             "hr/park": "",
@@ -4915,7 +4960,7 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5476,10 +5521,10 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.5",
+            "la": "15",
+            "dist": "259"
         },
         {
             "player": "jacob young",
