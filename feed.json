@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "51",
+        "pitchers": "52",
         "batters": "189",
-        "pitches": "2174",
+        "pitches": "2180",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.2",
         "si%sinker %": "13.2",
-        "fc%cutter %": "7.4",
+        "fc%cutter %": "7.6",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "9.6",
+        "ch%changeup %": "9.5",
         "sl%slider %": "21.9",
         "cu%curve %": "9.8",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "149",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "150",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "25",
         "brl%barrel %": "6.6",
-        "ab": "496",
-        "avg": ".246",
+        "ab": "498",
+        "avg": ".245",
         "h": "122",
         "1b": "77",
         "2b": "24",
         "3b": "4",
         "hr": "17",
         "so": "120",
-        "bipballs in play": "381",
+        "bipballs in play": "380",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:30:22.547839"
+        "updated": "2025-07-11 21:30:32.755557"
     },
     "cle @ chw": [
         {
@@ -4482,6 +4482,21 @@
     ],
     "sea @ det": [
         {
+            "player": "mitch garver",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-11 21:28:58",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "Pop Out",
+            "evo": "95.4",
+            "la": "61",
+            "dist": "187"
+        },
+        {
             "player": "randy arozarena",
             "game": "sea @ det",
             "hr/park": "",
@@ -5384,21 +5399,6 @@
     ],
     "tb @ bos": [
         {
-            "player": "alex bregman",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "63",
-            "dt": "2025-07-11 21:29:28",
-            "img": "https://www.mlbstatic.com/team-logos/111.svg",
-            "team": "bos",
-            "start": "7:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "97.8",
-            "la": "44",
-            "dist": "349"
-        },
-        {
             "player": "jarren duran",
             "game": "tb @ bos",
             "hr/park": "",
@@ -5408,10 +5408,10 @@
             "team": "bos",
             "start": "7:10 PM",
             "in": "7",
-            "result": "Groundout",
-            "evo": "82.5",
-            "la": "-43",
-            "dist": "4"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "ceddanne rafaela",
@@ -6332,6 +6332,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "marcus semien",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-11 21:29:57",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "96.1",
+            "la": "45",
+            "dist": "305"
+        },
+        {
             "player": "corey seager",
             "game": "tex @ hou",
             "hr/park": "",
@@ -6814,6 +6829,21 @@
     ],
     "pit @ min": [
         {
+            "player": "tommy pham",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-11 21:30:28",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isiah kiner falefa",
             "game": "pit @ min",
             "hr/park": "",
@@ -7231,9 +7261,9 @@
             "start": "8:10 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "88.1",
-            "la": "46",
-            "dist": "279"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "christian yelich",
