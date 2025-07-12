@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "24",
         "batters": "74",
-        "pitches": "777",
+        "pitches": "779",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "29.1",
-        "si%sinker %": "17.6",
+        "ff%fourseam fastball %": "29.0",
+        "si%sinker %": "17.7",
         "fc%cutter %": "10.4",
         "fs%splitter %": "4.0",
         "ch%changeup %": "8.1",
-        "sl%slider %": "18.8",
-        "cu%curve %": "12.0",
+        "sl%slider %": "18.9",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "64",
         "hh%hard hit %": "42.4",
         "brlbarrels": "20",
         "brl%barrel %": "13.2",
-        "ab": "187",
-        "avg": ".251",
+        "ab": "188",
+        "avg": ".250",
         "h": "47",
         "1b": "26",
         "2b": "10",
@@ -28,7 +28,7 @@
         "bipballs in play": "151",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-07-12 16:01:15.951015"
+        "updated": "2025-07-12 16:01:24.679540"
     },
     "chc @ nyy": [
         {
@@ -1099,6 +1099,21 @@
     ],
     "sea @ det": [
         {
+            "player": "julio rodriguez",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-07-12 16:01:24",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jp crawford",
             "game": "sea @ det",
             "hr/park": "",
@@ -1108,7 +1123,7 @@
             "team": "sea",
             "start": "1:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "53.9",
             "la": "21",
             "dist": "134"
