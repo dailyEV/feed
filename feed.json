@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "55",
+        "pitchers": "56",
         "batters": "193",
-        "pitches": "2241",
+        "pitches": "2245",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.2",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.7",
         "fs%splitter %": "1.8",
         "ch%changeup %": "9.5",
-        "sl%slider %": "22.0",
+        "sl%slider %": "22.1",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.3",
         "hhhard hit": "159",
         "hh%hard hit %": "40.3",
         "brlbarrels": "25",
         "brl%barrel %": "6.3",
-        "ab": "511",
-        "avg": ".252",
-        "h": "129",
+        "ab": "513",
+        "avg": ".250",
+        "h": "128",
         "1b": "79",
-        "2b": "28",
+        "2b": "27",
         "3b": "4",
         "hr": "18",
         "so": "121",
         "bipballs in play": "395",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:34:03.797287"
+        "updated": "2025-07-11 21:34:14.704381"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "miguel vargas",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-07-11 21:34:14",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew benintendi",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1388,7 +1403,7 @@
         {
             "player": "agustin ramirez",
             "game": "mia @ bal",
-            "hr/park": "",
+            "hr/park": "2/30",
             "pa": "68",
             "dt": "2025-07-11 21:32:13",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
@@ -2417,7 +2432,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "8",
-            "result": "Double",
+            "result": "In Progress",
             "evo": "84.6",
             "la": "20",
             "dist": "236"
@@ -5489,6 +5504,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "jose caballero",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-11 21:34:14",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "7:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "masataka yoshida",
             "game": "tb @ bos",
             "hr/park": "",
@@ -7441,7 +7471,7 @@
             "team": "mil",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "88.9",
             "la": "28",
             "dist": "337"
