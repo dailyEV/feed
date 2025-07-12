@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "80",
         "batters": "207",
-        "pitches": "2786",
+        "pitches": "2789",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.6",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.2",
         "ch%changeup %": "9.8",
         "sl%slider %": "20.7",
-        "cu%curve %": "10.1",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "206",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "41",
         "brl%barrel %": "7.8",
-        "ab": "665",
-        "avg": ".236",
+        "ab": "667",
+        "avg": ".235",
         "h": "157",
         "1b": "98",
         "2b": "32",
         "3b": "3",
         "hr": "24",
         "so": "155",
-        "bipballs in play": "526",
+        "bipballs in play": "527",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 18:18:22.689453"
+        "updated": "2025-07-12 18:18:33.049175"
     },
     "chc @ nyy": [
         {
@@ -5907,6 +5907,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "dane myers",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-12 18:18:25",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "4:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "eric wagaman",
             "game": "mia @ bal",
             "hr/park": "",
@@ -7765,7 +7780,7 @@
             "team": "kc",
             "start": "4:10 PM",
             "in": "7",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "75.8",
             "la": "-13",
             "dist": "14"
@@ -8538,6 +8553,21 @@
     ],
     "tb @ bos": [
         {
+            "player": "ha seong kim",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-12 18:18:25",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yandy diaz",
             "game": "tb @ bos",
             "hr/park": "",
@@ -8547,10 +8577,10 @@
             "team": "tb",
             "start": "4:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "74.1",
+            "la": "-49",
+            "dist": "3"
         },
         {
             "player": "roman anthony",
