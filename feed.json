@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "63",
         "batters": "203",
-        "pitches": "2448",
+        "pitches": "2454",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "30.9",
-        "si%sinker %": "15.8",
+        "si%sinker %": "15.7",
         "fc%cutter %": "10.2",
         "fs%splitter %": "2.7",
         "ch%changeup %": "9.8",
         "sl%slider %": "19.7",
-        "cu%curve %": "10.9",
+        "cu%curve %": "11.0",
         "max evmax exit velocity": "113.7",
         "hhhard hit": "184",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.3",
         "brlbarrels": "34",
-        "brl%barrel %": "7.5",
+        "brl%barrel %": "7.4",
         "ab": "586",
         "avg": ".247",
         "h": "145",
@@ -24,11 +24,11 @@
         "2b": "30",
         "3b": "3",
         "hr": "21",
-        "so": "141",
-        "bipballs in play": "456",
+        "so": "142",
+        "bipballs in play": "457",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:51:38.768946"
+        "updated": "2025-07-12 17:51:48.798101"
     },
     "chc @ nyy": [
         {
@@ -4774,7 +4774,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6344,6 +6344,21 @@
     ],
     "col @ cin": [
         {
+            "player": "brenton doyle",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-12 17:51:41",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael toglia",
             "game": "col @ cin",
             "hr/park": "",
@@ -6353,7 +6368,7 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7707,7 +7722,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
