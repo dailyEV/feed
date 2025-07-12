@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "93",
         "batters": "281",
-        "pitches": "3356",
+        "pitches": "3366",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "35.0",
+        "ff%fourseam fastball %": "34.9",
         "si%sinker %": "14.7",
         "fc%cutter %": "8.4",
         "fs%splitter %": "2.2",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.4",
         "cu%curve %": "8.6",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "234",
-        "hh%hard hit %": "39.2",
+        "hhhard hit": "235",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "45",
         "brl%barrel %": "7.5",
-        "ab": "773",
-        "avg": ".250",
-        "h": "193",
-        "1b": "117",
+        "ab": "776",
+        "avg": ".251",
+        "h": "195",
+        "1b": "119",
         "2b": "40",
         "3b": "5",
         "hr": "31",
-        "so": "193",
-        "bipballs in play": "597",
+        "so": "194",
+        "bipballs in play": "598",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:36:16.522950"
+        "updated": "2025-07-11 22:36:28.632280"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "jose ramirez",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-11 22:35:59",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan jones",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1003,7 +1018,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "58.3",
             "la": "14",
             "dist": "92"
@@ -7501,6 +7516,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "jeff mcneil",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-07-11 22:36:28",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "8:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jac caglianone",
             "game": "nym @ kc",
             "hr/park": "",
@@ -10871,17 +10901,17 @@
         {
             "player": "willson contreras",
             "game": "atl @ stl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "65",
             "dt": "2025-07-11 22:33:12",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
             "team": "stl",
             "start": "8:15 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.5",
+            "la": "18",
+            "dist": "302"
         },
         {
             "player": "alec burleson",
@@ -12283,6 +12313,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "nick castellanos",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-11 22:36:28",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "9:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alec bohm",
             "game": "phi @ sd",
             "hr/park": "",
@@ -12956,7 +13001,7 @@
             "team": "lad",
             "start": "10:15 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
