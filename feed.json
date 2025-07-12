@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "124",
-        "pitches": "952",
+        "batters": "126",
+        "pitches": "954",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "42.9",
+        "ff%fourseam fastball %": "42.7",
         "si%sinker %": "11.3",
         "fc%cutter %": "7.8",
         "fs%splitter %": "1.4",
-        "ch%changeup %": "10.6",
-        "sl%slider %": "16.9",
+        "ch%changeup %": "10.8",
+        "sl%slider %": "17.0",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "64",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "11",
-        "brl%barrel %": "6.8",
-        "ab": "216",
-        "avg": ".227",
-        "h": "49",
-        "1b": "31",
+        "brl%barrel %": "6.7",
+        "ab": "217",
+        "avg": ".230",
+        "h": "50",
+        "1b": "32",
         "2b": "9",
         "3b": "2",
         "hr": "7",
-        "so": "55",
-        "bipballs in play": "162",
+        "so": "56",
+        "bipballs in play": "163",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:20:53.212929"
+        "updated": "2025-07-11 20:21:01.644657"
     },
     "cle @ chw": [
         {
@@ -1004,7 +1004,7 @@
             "team": "bal",
             "start": "7:05 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1509,7 +1509,7 @@
         {
             "player": "jon berti",
             "game": "chc @ nyy",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "36",
             "dt": "2025-07-11 20:20:27",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -3073,21 +3073,6 @@
     ],
     "tb @ bos": [
         {
-            "player": "danny jansen",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "28",
-            "dt": "2025-07-11 20:20:27",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "chandler simpson",
             "game": "tb @ bos",
             "hr/park": "",
@@ -3496,6 +3481,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "wyatt langford",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-11 20:20:57",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "adolis garcia",
             "game": "tex @ hou",
             "hr/park": "",
@@ -3505,7 +3505,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Mound Visit",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3636,6 +3636,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "sean murphy",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-07-11 20:20:57",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "8:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin riley",
             "game": "atl @ stl",
             "hr/park": "",
@@ -3645,10 +3660,10 @@
             "team": "atl",
             "start": "8:15 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "83.3",
+            "la": "22",
+            "dist": "278"
         },
         {
             "player": "matt olson",
