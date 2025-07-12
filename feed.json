@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "71",
         "batters": "223",
-        "pitches": "2643",
+        "pitches": "2652",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.0",
         "si%sinker %": "13.7",
         "fc%cutter %": "7.5",
-        "fs%splitter %": "2.0",
-        "ch%changeup %": "9.3",
+        "fs%splitter %": "2.1",
+        "ch%changeup %": "9.4",
         "sl%slider %": "22.1",
         "cu%curve %": "9.3",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "181",
-        "hh%hard hit %": "39.2",
+        "hhhard hit": "183",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "32",
         "brl%barrel %": "6.9",
         "ab": "608",
-        "avg": ".247",
-        "h": "150",
-        "1b": "89",
+        "avg": ".248",
+        "h": "151",
+        "1b": "90",
         "2b": "35",
         "3b": "4",
         "hr": "22",
-        "so": "150",
-        "bipballs in play": "462",
+        "so": "151",
+        "bipballs in play": "466",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:55:26.287298"
+        "updated": "2025-07-11 21:55:36.230519"
     },
     "cle @ chw": [
         {
@@ -7075,7 +7075,7 @@
             "team": "nym",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7247,6 +7247,21 @@
         }
     ],
     "tex @ hou": [
+        {
+            "player": "isaac paredes",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-11 21:54:42",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "73.7",
+            "la": "44",
+            "dist": "235"
+        },
         {
             "player": "taylor trammell",
             "game": "tex @ hou",
@@ -7895,6 +7910,21 @@
     ],
     "pit @ min": [
         {
+            "player": "kody clemens",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-07-11 21:54:28",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "8:10 PM",
+            "in": "5",
+            "result": "Single",
+            "evo": "106.2",
+            "la": "2",
+            "dist": "70"
+        },
+        {
             "player": "royce lewis",
             "game": "pit @ min",
             "hr/park": "",
@@ -7904,10 +7934,10 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "76.5",
+            "la": "30",
+            "dist": "283"
         },
         {
             "player": "nick gonzales",
@@ -9309,21 +9339,6 @@
     ],
     "atl @ stl": [
         {
-            "player": "drake baldwin",
-            "game": "atl @ stl",
-            "hr/park": "",
-            "pa": "48",
-            "dt": "2025-07-11 21:55:14",
-            "img": "https://www.mlbstatic.com/team-logos/144.svg",
-            "team": "atl",
-            "start": "8:15 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jurickson profar",
             "game": "atl @ stl",
             "hr/park": "",
@@ -10033,17 +10048,17 @@
         {
             "player": "taylor ward",
             "game": "ari @ laa",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "7",
             "dt": "2025-07-11 21:53:57",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "95.3",
+            "la": "37",
+            "dist": "337"
         },
         {
             "player": "mike trout",
