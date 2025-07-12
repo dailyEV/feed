@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "40",
-        "batters": "130",
-        "pitches": "1160",
+        "batters": "131",
+        "pitches": "1166",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.1",
-        "ff%fourseam fastball %": "28.7",
+        "ff%fourseam fastball %": "28.8",
         "si%sinker %": "17.2",
         "fc%cutter %": "11.0",
         "fs%splitter %": "3.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "12.3",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "82",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "22",
         "brl%barrel %": "10.3",
-        "ab": "273",
-        "avg": ".245",
-        "h": "67",
-        "1b": "39",
+        "ab": "274",
+        "avg": ".248",
+        "h": "68",
+        "1b": "40",
         "2b": "15",
         "3b": "2",
         "hr": "11",
         "so": "64",
-        "bipballs in play": "213",
+        "bipballs in play": "214",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:28:00.984248"
+        "updated": "2025-07-12 16:28:09.815762"
     },
     "chc @ nyy": [
         {
@@ -1108,7 +1108,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1820,6 +1820,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "byron buxton",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-12 16:28:09",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kody clemens",
             "game": "pit @ min",
@@ -4292,6 +4307,21 @@
         }
     ],
     "tb @ bos": [
+        {
+            "player": "curtis mead",
+            "game": "tb @ bos",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-12 16:28:09",
+            "img": "https://www.mlbstatic.com/team-logos/139.svg",
+            "team": "tb",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "Single",
+            "evo": "69.0",
+            "la": "26",
+            "dist": "199"
+        },
         {
             "player": "christopher morel",
             "game": "tb @ bos",
