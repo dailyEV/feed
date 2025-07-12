@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "40",
         "batters": "181",
-        "pitches": "1687",
+        "pitches": "1695",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "37.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.1",
         "ch%changeup %": "9.8",
-        "sl%slider %": "19.6",
+        "sl%slider %": "19.8",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "117",
-        "hh%hard hit %": "39.4",
+        "hhhard hit": "119",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "18",
-        "brl%barrel %": "6.1",
-        "ab": "390",
-        "avg": ".244",
-        "h": "95",
-        "1b": "61",
+        "brl%barrel %": "6.0",
+        "ab": "391",
+        "avg": ".246",
+        "h": "96",
+        "1b": "62",
         "2b": "18",
         "3b": "4",
         "hr": "12",
-        "so": "93",
-        "bipballs in play": "297",
+        "so": "95",
+        "bipballs in play": "298",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:03:55.696471"
+        "updated": "2025-07-11 21:04:04.843076"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2063,6 +2063,21 @@
     ],
     "chc @ nyy": [
         {
+            "player": "jc escarra",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-07-11 21:03:58",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "7:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "paul goldschmidt",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -2072,7 +2087,7 @@
             "team": "nyy",
             "start": "7:05 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "107.8",
             "la": "-1",
             "dist": "37"
@@ -2088,9 +2103,9 @@
             "start": "7:05 PM",
             "in": "7",
             "result": "Single",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "100.1",
+            "la": "8",
+            "dist": "122"
         },
         {
             "player": "ben rice",
@@ -2103,9 +2118,9 @@
             "start": "7:05 PM",
             "in": "7",
             "result": "Single",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "108.7",
+            "la": "9",
+            "dist": "273"
         },
         {
             "player": "cody bellinger",
@@ -5246,7 +5261,7 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5548,7 +5563,7 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Mound Visit",
             "evo": "",
             "la": "",
             "dist": ""
