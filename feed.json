@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "78",
         "batters": "207",
-        "pitches": "2733",
+        "pitches": "2739",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "30.5",
-        "si%sinker %": "15.6",
-        "fc%cutter %": "10.1",
-        "fs%splitter %": "3.3",
+        "ff%fourseam fastball %": "30.6",
+        "si%sinker %": "15.5",
+        "fc%cutter %": "10.2",
+        "fs%splitter %": "3.2",
         "ch%changeup %": "9.8",
-        "sl%slider %": "20.5",
+        "sl%slider %": "20.4",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "202",
-        "hh%hard hit %": "39.4",
+        "hhhard hit": "203",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "40",
         "brl%barrel %": "7.8",
         "ab": "652",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "23",
         "so": "153",
-        "bipballs in play": "513",
+        "bipballs in play": "516",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 18:13:50.198484"
+        "updated": "2025-07-12 18:14:00.689418"
     },
     "chc @ nyy": [
         {
@@ -4879,10 +4879,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "88.0",
+            "la": "80",
+            "dist": "39"
         },
         {
             "player": "tommy edman",
@@ -6788,10 +6788,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "98.6",
+            "la": "-13",
+            "dist": "12"
         },
         {
             "player": "tyler freeman",
@@ -7651,6 +7651,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "nick loftin",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-12 18:13:55",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "Hit By Pitch",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jac caglianone",
             "game": "nym @ kc",
             "hr/park": "20/30",
@@ -8397,7 +8412,7 @@
             "team": "bos",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9916,7 +9931,7 @@
             "team": "wsh",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "54.7",
             "la": "-49",
             "dist": "4"
