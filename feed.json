@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "116",
         "batters": "296",
-        "pitches": "4161",
+        "pitches": "4168",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
         "ff%fourseam fastball %": "34.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "21.5",
         "cu%curve %": "8.1",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "273",
+        "hhhard hit": "274",
         "hh%hard hit %": "37.5",
-        "brlbarrels": "54",
-        "brl%barrel %": "7.4",
-        "ab": "948",
-        "avg": ".243",
-        "h": "230",
-        "1b": "143",
-        "2b": "47",
+        "brlbarrels": "55",
+        "brl%barrel %": "7.5",
+        "ab": "952",
+        "avg": ".245",
+        "h": "233",
+        "1b": "144",
+        "2b": "48",
         "3b": "6",
-        "hr": "34",
-        "so": "244",
-        "bipballs in play": "728",
+        "hr": "35",
+        "so": "245",
+        "bipballs in play": "730",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:35:37.906434"
+        "updated": "2025-07-11 23:35:51.013165"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "miguel vargas",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "80",
+            "dt": "2025-07-11 23:35:44",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew benintendi",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1003,7 +1018,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7846,6 +7861,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "bobby witt",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-07-11 23:35:44",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "Home Run",
+            "evo": "105.0",
+            "la": "28",
+            "dist": "431"
+        },
+        {
             "player": "jonathan india",
             "game": "nym @ kc",
             "hr/park": "",
@@ -7855,10 +7885,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "73.5",
+            "la": "28",
+            "dist": "256"
         },
         {
             "player": "kyle isbel",
@@ -13196,6 +13226,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "ketel marte",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-07-11 23:35:44",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "9:38 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jose herrera",
             "game": "ari @ laa",
             "hr/park": "",
@@ -14850,6 +14895,21 @@
     ],
     "tor @ ath": [
         {
+            "player": "george springer",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-11 23:35:44",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "10:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nathan lukes",
             "game": "tor @ ath",
             "hr/park": "",
@@ -14859,7 +14919,7 @@
             "team": "tor",
             "start": "10:05 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "100.6",
             "la": "-1",
             "dist": "46"
