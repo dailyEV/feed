@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "31",
-        "batters": "144",
-        "pitches": "1150",
+        "pitchers": "30",
+        "batters": "145",
+        "pitches": "1162",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "40.4",
-        "si%sinker %": "12.0",
-        "fc%cutter %": "7.3",
+        "ff%fourseam fastball %": "40.5",
+        "si%sinker %": "11.9",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "1.5",
-        "ch%changeup %": "10.5",
-        "sl%slider %": "17.7",
-        "cu%curve %": "10.6",
+        "ch%changeup %": "10.6",
+        "sl%slider %": "18.0",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "114.2",
-        "hhhard hit": "79",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "80",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "14",
         "brl%barrel %": "6.9",
-        "ab": "267",
-        "avg": ".232",
-        "h": "62",
-        "1b": "40",
+        "ab": "268",
+        "avg": ".235",
+        "h": "63",
+        "1b": "41",
         "2b": "10",
         "3b": "2",
         "hr": "10",
         "so": "64",
-        "bipballs in play": "202",
+        "bipballs in play": "203",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:34:41.340660"
+        "updated": "2025-07-11 20:34:50.010898"
     },
     "cle @ chw": [
         {
@@ -1041,21 +1041,6 @@
     ],
     "mia @ bal": [
         {
-            "player": "gunnar henderson",
-            "game": "mia @ bal",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-07-11 20:33:58",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "7:05 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "javier sanoja",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1628,6 +1613,21 @@
     ],
     "chc @ nyy": [
         {
+            "player": "seiya suzuki",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-11 20:34:44",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle tucker",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -1637,10 +1637,10 @@
             "team": "chc",
             "start": "7:05 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.1",
+            "la": "55",
+            "dist": "244"
         },
         {
             "player": "nico hoerner",
@@ -2922,6 +2922,21 @@
     ],
     "sea @ det": [
         {
+            "player": "cal raleigh",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-11 20:33:44",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "7:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "julio rodriguez",
             "game": "sea @ det",
             "hr/park": "30/30",
@@ -3479,34 +3494,19 @@
     ],
     "tb @ bos": [
         {
-            "player": "junior caminero",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "35",
-            "dt": "2025-07-11 20:34:27",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "7:10 PM",
-            "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jake mangum",
             "game": "tb @ bos",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "34",
             "dt": "2025-07-11 20:32:44",
             "img": "https://www.mlbstatic.com/team-logos/139.svg",
             "team": "tb",
             "start": "7:10 PM",
             "in": "4",
-            "result": "Flyout",
-            "evo": "93.6",
-            "la": "26",
-            "dist": "318"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jonathan aranda",
@@ -4007,6 +4007,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "cam smith",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-07-11 20:34:44",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac paredes",
             "game": "tex @ hou",
             "hr/park": "",
@@ -4016,10 +4031,10 @@
             "team": "hou",
             "start": "8:10 PM",
             "in": "1",
-            "result": "Game Advisory",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "96.3",
+            "la": "4",
+            "dist": "84"
         },
         {
             "player": "jake burger",
