@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "63",
+        "pitchers": "62",
         "batters": "203",
-        "pitches": "2416",
+        "pitches": "2422",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "35.9",
         "si%sinker %": "13.7",
         "fc%cutter %": "7.7",
-        "fs%splitter %": "1.8",
+        "fs%splitter %": "1.9",
         "ch%changeup %": "9.4",
         "sl%slider %": "22.0",
         "cu%curve %": "9.4",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "171",
-        "hh%hard hit %": "40.0",
-        "brlbarrels": "29",
-        "brl%barrel %": "6.8",
+        "hhhard hit": "172",
+        "hh%hard hit %": "40.1",
+        "brlbarrels": "30",
+        "brl%barrel %": "7.0",
         "ab": "554",
-        "avg": ".253",
-        "h": "140",
+        "avg": ".255",
+        "h": "141",
         "1b": "86",
-        "2b": "30",
+        "2b": "31",
         "3b": "4",
         "hr": "20",
         "so": "130",
-        "bipballs in play": "427",
+        "bipballs in play": "429",
         "liveGames": 14,
         "totGames": 16,
-        "updated": "2025-07-11 21:42:40.555964"
+        "updated": "2025-07-11 21:42:50.498924"
     },
     "cle @ chw": [
         {
@@ -2497,6 +2497,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "dansby swanson",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-07-11 21:41:28",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "7:05 PM",
+            "in": "9",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt shaw",
             "game": "chc @ nyy",
@@ -6751,6 +6766,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "vinnie pasquantino",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-11 21:42:43",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bobby witt",
             "game": "nym @ kc",
             "hr/park": "",
@@ -6760,10 +6790,10 @@
             "team": "kc",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "111.2",
+            "la": "15",
+            "dist": "292"
         },
         {
             "player": "jonathan india",
@@ -7445,21 +7475,6 @@
     ],
     "pit @ min": [
         {
-            "player": "brooks lee",
-            "game": "pit @ min",
-            "hr/park": "",
-            "pa": "33",
-            "dt": "2025-07-11 21:42:28",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "8:10 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "carlos correa",
             "game": "pit @ min",
             "hr/park": "",
@@ -7469,7 +7484,7 @@
             "team": "min",
             "start": "8:10 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9320,10 +9335,10 @@
             "team": "ari",
             "start": "9:38 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "90.8",
+            "la": "-19",
+            "dist": "11"
         },
         {
             "player": "ketel marte",
