@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "40",
-        "batters": "181",
-        "pitches": "1699",
+        "batters": "182",
+        "pitches": "1701",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "37.4",
+        "ff%fourseam fastball %": "37.5",
         "si%sinker %": "12.7",
         "fc%cutter %": "6.8",
         "fs%splitter %": "2.1",
@@ -13,8 +13,8 @@
         "sl%slider %": "19.7",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "117",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "118",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "18",
         "brl%barrel %": "6.0",
         "ab": "392",
@@ -24,11 +24,11 @@
         "2b": "18",
         "3b": "4",
         "hr": "12",
-        "so": "95",
-        "bipballs in play": "300",
+        "so": "96",
+        "bipballs in play": "301",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:04:32.900916"
+        "updated": "2025-07-11 21:04:42.459480"
     },
     "cle @ chw": [
         {
@@ -994,6 +994,21 @@
     ],
     "cle-gm2 @ chw-gm2": [
         {
+            "player": "will robertson",
+            "game": "cle-gm2 @ chw-gm2",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-07-11 21:04:42",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "8:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh rojas",
             "game": "cle-gm2 @ chw-gm2",
             "hr/park": "",
@@ -1003,7 +1018,7 @@
             "team": "chw",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5267,21 +5282,6 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
-            "player": "marcus semien",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "21",
-            "dt": "2025-07-11 21:04:28",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "8:10 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "taylor trammell",
             "game": "tex @ hou",
             "hr/park": "",
@@ -5593,10 +5593,10 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "97.2",
+            "la": "48",
+            "dist": "292"
         },
         {
             "player": "isiah kiner falefa",
@@ -6310,7 +6310,7 @@
         {
             "player": "austin riley",
             "game": "atl @ stl",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "18",
             "dt": "2025-07-11 20:54:12",
             "img": "https://www.mlbstatic.com/team-logos/144.svg",
