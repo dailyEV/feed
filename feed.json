@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "19",
-        "batters": "112",
-        "pitches": "829",
+        "pitchers": "20",
+        "batters": "113",
+        "pitches": "833",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "45.0",
+        "ff%fourseam fastball %": "44.9",
         "si%sinker %": "10.0",
-        "fc%cutter %": "7.7",
+        "fc%cutter %": "8.0",
         "fs%splitter %": "1.6",
         "ch%changeup %": "10.7",
         "sl%slider %": "16.6",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "41.3",
         "brlbarrels": "10",
         "brl%barrel %": "7.0",
-        "ab": "190",
-        "avg": ".226",
+        "ab": "191",
+        "avg": ".225",
         "h": "43",
         "1b": "26",
         "2b": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "143",
         "liveGames": 11,
         "totGames": 16,
-        "updated": "2025-07-11 20:11:51.008287"
+        "updated": "2025-07-11 20:11:59.258897"
     },
     "cle @ chw": [
         {
@@ -2420,7 +2420,7 @@
             "team": "det",
             "start": "7:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "82.4",
             "la": "52",
             "dist": "244"
@@ -3209,7 +3209,23 @@
         }
     ],
     "nym @ kc": [],
-    "tex @ hou": [],
+    "tex @ hou": [
+        {
+            "player": "josh smith",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-11 20:11:57",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "pit @ min": [],
     "wsh @ mil": [],
     "atl @ stl": [],
