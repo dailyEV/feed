@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "55",
         "batters": "192",
-        "pitches": "2222",
+        "pitches": "2224",
         "max velomax pitch velocity": "100.5",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "36.2",
-        "si%sinker %": "13.2",
+        "si%sinker %": "13.3",
         "fc%cutter %": "7.7",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "9.5",
+        "ch%changeup %": "9.4",
         "sl%slider %": "21.9",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "156",
-        "hh%hard hit %": "40.1",
+        "hhhard hit": "157",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "25",
         "brl%barrel %": "6.4",
-        "ab": "506",
-        "avg": ".249",
-        "h": "126",
+        "ab": "505",
+        "avg": ".251",
+        "h": "127",
         "1b": "78",
-        "2b": "26",
+        "2b": "27",
         "3b": "4",
         "hr": "18",
-        "so": "120",
-        "bipballs in play": "389",
+        "so": "121",
+        "bipballs in play": "391",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 21:33:03.630203"
+        "updated": "2025-07-11 21:33:13.804862"
     },
     "cle @ chw": [
         {
@@ -1395,7 +1395,7 @@
             "team": "mia",
             "start": "7:05 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2407,21 +2407,6 @@
         }
     ],
     "chc @ nyy": [
-        {
-            "player": "paul goldschmidt",
-            "game": "chc @ nyy",
-            "hr/park": "",
-            "pa": "71",
-            "dt": "2025-07-11 21:32:58",
-            "img": "https://www.mlbstatic.com/team-logos/147.svg",
-            "team": "nyy",
-            "start": "7:05 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jazz chisholm",
             "game": "chc @ nyy",
@@ -3484,10 +3469,10 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "99.3",
+            "la": "19",
+            "dist": "369"
         },
         {
             "player": "tyler freeman",
@@ -6445,10 +6430,10 @@
             "team": "nym",
             "start": "8:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "74.2",
+            "la": "-36",
+            "dist": "5"
         }
     ],
     "tex @ hou": [
@@ -6959,7 +6944,7 @@
             "team": "pit",
             "start": "8:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7374,7 +7359,7 @@
         {
             "player": "brice turang",
             "game": "wsh @ mil",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "45",
             "dt": "2025-07-11 21:32:43",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
