@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "93",
         "batters": "285",
-        "pitches": "3479",
+        "pitches": "3481",
         "max velomax pitch velocity": "101.4",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "34.9",
+        "ff%fourseam fastball %": "35.0",
         "si%sinker %": "14.6",
-        "fc%cutter %": "8.6",
+        "fc%cutter %": "8.5",
         "fs%splitter %": "2.5",
         "ch%changeup %": "9.4",
         "sl%slider %": "21.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.6",
         "brlbarrels": "46",
         "brl%barrel %": "7.4",
-        "ab": "805",
-        "avg": ".248",
+        "ab": "804",
+        "avg": ".249",
         "h": "200",
         "1b": "122",
         "2b": "41",
         "3b": "5",
         "hr": "32",
-        "so": "200",
+        "so": "201",
         "bipballs in play": "619",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 22:43:07.874638"
+        "updated": "2025-07-11 22:43:19.682450"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8073,6 +8073,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "marcus semien",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-11 22:43:13",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "8:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "corey seager",
             "game": "tex @ hou",
             "hr/park": "",
@@ -8082,7 +8097,7 @@
             "team": "tex",
             "start": "8:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9079,21 +9094,6 @@
         }
     ],
     "pit @ min": [
-        {
-            "player": "willi castro",
-            "game": "pit @ min",
-            "hr/park": "",
-            "pa": "61",
-            "dt": "2025-07-11 22:42:28",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "8:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "byron buxton",
             "game": "pit @ min",
@@ -13104,7 +13104,7 @@
             "team": "tor",
             "start": "10:05 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
