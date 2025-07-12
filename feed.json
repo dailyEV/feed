@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "40",
-        "batters": "134",
-        "pitches": "1204",
+        "batters": "135",
+        "pitches": "1207",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.1",
         "ff%fourseam fastball %": "28.6",
         "si%sinker %": "17.4",
         "fc%cutter %": "10.9",
         "fs%splitter %": "3.5",
-        "ch%changeup %": "9.1",
+        "ch%changeup %": "9.0",
         "sl%slider %": "18.5",
         "cu%curve %": "12.1",
         "max evmax exit velocity": "113.4",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.5",
         "brlbarrels": "24",
         "brl%barrel %": "10.9",
-        "ab": "281",
-        "avg": ".249",
-        "h": "70",
+        "ab": "282",
+        "avg": ".252",
+        "h": "71",
         "1b": "40",
         "2b": "15",
         "3b": "2",
-        "hr": "13",
+        "hr": "14",
         "so": "65",
         "bipballs in play": "221",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:30:17.788550"
+        "updated": "2025-07-12 16:30:26.475783"
     },
     "chc @ nyy": [
         {
@@ -3820,6 +3820,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "dalton rushing",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-12 16:30:25",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tommy edman",
             "game": "lad @ sf",
             "hr/park": "",
@@ -3829,7 +3844,7 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "99.0",
             "la": "-2",
             "dist": "35"
@@ -4178,7 +4193,7 @@
             "team": "cin",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "83.3",
             "la": "-12",
             "dist": "12"
@@ -4568,14 +4583,14 @@
         {
             "player": "daylen lile",
             "game": "wsh @ mil",
-            "hr/park": "17/30",
+            "hr/park": "",
             "pa": "11",
             "dt": "2025-07-12 16:28:25",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
             "team": "wsh",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "93.0",
             "la": "29",
             "dist": "369"
