@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "33",
         "batters": "160",
-        "pitches": "1345",
+        "pitches": "1348",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "69.0",
-        "ff%fourseam fastball %": "39.9",
-        "si%sinker %": "11.7",
+        "ff%fourseam fastball %": "39.8",
+        "si%sinker %": "11.6",
         "fc%cutter %": "7.2",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "10.7",
+        "ch%changeup %": "10.8",
         "sl%slider %": "17.8",
-        "cu%curve %": "10.9",
+        "cu%curve %": "11.1",
         "max evmax exit velocity": "114.2",
         "hhhard hit": "95",
         "hh%hard hit %": "40.1",
         "brlbarrels": "16",
         "brl%barrel %": "6.8",
-        "ab": "311",
-        "avg": ".235",
+        "ab": "312",
+        "avg": ".234",
         "h": "73",
         "1b": "46",
         "2b": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "237",
         "liveGames": 12,
         "totGames": 16,
-        "updated": "2025-07-11 20:43:49.388833"
+        "updated": "2025-07-11 20:43:58.283264"
     },
     "cle @ chw": [
         {
@@ -2539,7 +2539,7 @@
             "team": "cin",
             "start": "7:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4761,6 +4761,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "josh bell",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-07-11 20:43:56",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "8:10 PM",
+            "in": "3",
+            "result": "Fielders Choice Out",
+            "evo": "94.0",
+            "la": "-12",
+            "dist": "8"
+        },
+        {
             "player": "james wood",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -5043,9 +5058,9 @@
             "start": "8:15 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "62.8",
-            "la": "60",
-            "dist": "151"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nolan arenado",
