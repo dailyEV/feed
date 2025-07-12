@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "114",
+        "pitchers": "115",
         "batters": "296",
-        "pitches": "4087",
+        "pitches": "4089",
         "max velomax pitch velocity": "102.7",
         "min velomin pitch velocity": "52.3",
-        "ff%fourseam fastball %": "34.9",
+        "ff%fourseam fastball %": "34.8",
         "si%sinker %": "14.4",
         "fc%cutter %": "8.7",
         "fs%splitter %": "2.9",
         "ch%changeup %": "9.6",
         "sl%slider %": "21.4",
-        "cu%curve %": "8.1",
+        "cu%curve %": "8.0",
         "max evmax exit velocity": "115.3",
-        "hhhard hit": "269",
-        "hh%hard hit %": "37.7",
-        "brlbarrels": "52",
-        "brl%barrel %": "7.3",
-        "ab": "933",
+        "hhhard hit": "270",
+        "hh%hard hit %": "37.8",
+        "brlbarrels": "53",
+        "brl%barrel %": "7.4",
+        "ab": "935",
         "avg": ".241",
         "h": "225",
         "1b": "139",
@@ -25,10 +25,10 @@
         "3b": "6",
         "hr": "33",
         "so": "241",
-        "bipballs in play": "714",
+        "bipballs in play": "715",
         "liveGames": 16,
         "totGames": 16,
-        "updated": "2025-07-11 23:28:27.655433"
+        "updated": "2025-07-11 23:28:40.590702"
     },
     "cle @ chw": [
         {
@@ -1003,7 +1003,7 @@
             "team": "cle",
             "start": "8:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7786,6 +7786,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "kyle isbel",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-07-11 23:28:31",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "8:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "tyrone taylor",
             "game": "nym @ kc",
             "hr/park": "",
@@ -13106,6 +13121,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "zach neto",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-11 23:27:59",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "9:38 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gustavo campero",
             "game": "ari @ laa",
             "hr/park": "",
@@ -15274,17 +15304,17 @@
         {
             "player": "shohei ohtani",
             "game": "lad @ sf",
-            "hr/park": "",
+            "hr/park": "3/30",
             "pa": "35",
             "dt": "2025-07-11 23:26:57",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "10:15 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "103.2",
+            "la": "29",
+            "dist": "381"
         },
         {
             "player": "tommy edman",
