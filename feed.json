@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "50",
         "batters": "198",
-        "pitches": "1772",
+        "pitches": "1779",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "70.3",
-        "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "15.8",
-        "fc%cutter %": "10.4",
+        "ff%fourseam fastball %": "31.2",
+        "si%sinker %": "15.7",
+        "fc%cutter %": "10.5",
         "fs%splitter %": "3.3",
         "ch%changeup %": "8.6",
-        "sl%slider %": "18.7",
+        "sl%slider %": "18.9",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "113.4",
-        "hhhard hit": "123",
-        "hh%hard hit %": "38.3",
+        "hhhard hit": "124",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "29",
         "brl%barrel %": "9.0",
-        "ab": "422",
-        "avg": ".230",
+        "ab": "423",
+        "avg": ".229",
         "h": "97",
         "1b": "59",
         "2b": "17",
         "3b": "3",
         "hr": "18",
         "so": "105",
-        "bipballs in play": "321",
+        "bipballs in play": "322",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 17:02:03.200603"
+        "updated": "2025-07-12 17:02:12.779364"
     },
     "chc @ nyy": [
         {
@@ -1108,7 +1108,7 @@
             "team": "det",
             "start": "1:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5309,6 +5309,21 @@
     ],
     "col @ cin": [
         {
+            "player": "brenton doyle",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-12 17:02:11",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael toglia",
             "game": "col @ cin",
             "hr/park": "",
@@ -6058,9 +6073,9 @@
             "start": "4:10 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "103.4",
+            "la": "11",
+            "dist": "176"
         },
         {
             "player": "ceddanne rafaela",
