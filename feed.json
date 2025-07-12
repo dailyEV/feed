@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "33",
-        "batters": "89",
-        "pitches": "918",
+        "pitchers": "34",
+        "batters": "91",
+        "pitches": "924",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.2",
         "ff%fourseam fastball %": "28.6",
-        "si%sinker %": "18.1",
-        "fc%cutter %": "9.9",
+        "si%sinker %": "18.3",
+        "fc%cutter %": "9.8",
         "fs%splitter %": "3.4",
-        "ch%changeup %": "9.2",
+        "ch%changeup %": "9.1",
         "sl%slider %": "19.0",
-        "cu%curve %": "11.8",
+        "cu%curve %": "11.7",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "69",
-        "hh%hard hit %": "40.4",
+        "hh%hard hit %": "40.1",
         "brlbarrels": "22",
-        "brl%barrel %": "12.9",
-        "ab": "217",
-        "avg": ".244",
+        "brl%barrel %": "12.8",
+        "ab": "219",
+        "avg": ".242",
         "h": "53",
         "1b": "29",
         "2b": "12",
         "3b": "2",
         "hr": "10",
-        "so": "49",
-        "bipballs in play": "171",
+        "so": "51",
+        "bipballs in play": "172",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-12 16:14:19.079882"
+        "updated": "2025-07-12 16:14:27.301261"
     },
     "chc @ nyy": [
         {
@@ -1710,7 +1710,7 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3445,6 +3445,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "mike yastrzemski",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-12 16:14:26",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "teoscar hernandez",
             "game": "lad @ sf",
             "hr/park": "",
@@ -3516,7 +3531,7 @@
             "team": "mia",
             "start": "4:05 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3554,6 +3569,21 @@
     ],
     "col @ cin": [
         {
+            "player": "hunter goodman",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-07-12 16:14:26",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mcmahon",
             "game": "col @ cin",
             "hr/park": "",
@@ -3563,10 +3593,10 @@
             "team": "col",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "88.5",
+            "la": "25",
+            "dist": "288"
         },
         {
             "player": "tyler freeman",
@@ -3595,7 +3625,7 @@
             "team": "nym",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
