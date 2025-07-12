@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "19",
         "batters": "73",
-        "pitches": "629",
+        "pitches": "631",
         "max velomax pitch velocity": "98.9",
         "min velomin pitch velocity": "71.2",
         "ff%fourseam fastball %": "26.1",
@@ -10,13 +10,13 @@
         "fc%cutter %": "12.7",
         "fs%splitter %": "3.3",
         "ch%changeup %": "8.7",
-        "sl%slider %": "17.0",
-        "cu%curve %": "12.1",
+        "sl%slider %": "17.1",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "55",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "17",
-        "brl%barrel %": "13.1",
+        "brl%barrel %": "13.0",
         "ab": "152",
         "avg": ".257",
         "h": "39",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "6",
         "so": "28",
-        "bipballs in play": "130",
+        "bipballs in play": "131",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-07-12 15:35:16.995735"
+        "updated": "2025-07-12 15:35:24.820282"
     },
     "chc @ nyy": [
         {
@@ -1069,19 +1069,34 @@
     ],
     "sea @ det": [
         {
-            "player": "cal raleigh",
+            "player": "randy arozarena",
             "game": "sea @ det",
             "hr/park": "",
+            "pa": "24",
+            "dt": "2025-07-12 15:35:24",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "cal raleigh",
+            "game": "sea @ det",
+            "hr/park": "0/30",
             "pa": "23",
             "dt": "2025-07-12 15:32:10",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "1:10 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "91.2",
+            "la": "37",
+            "dist": "318"
         },
         {
             "player": "julio rodriguez",
