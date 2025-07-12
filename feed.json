@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "24",
         "batters": "74",
-        "pitches": "779",
+        "pitches": "783",
         "max velomax pitch velocity": "102.5",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "29.0",
-        "si%sinker %": "17.7",
-        "fc%cutter %": "10.4",
+        "ff%fourseam fastball %": "28.9",
+        "si%sinker %": "17.8",
+        "fc%cutter %": "10.3",
         "fs%splitter %": "4.0",
-        "ch%changeup %": "8.1",
-        "sl%slider %": "18.9",
+        "ch%changeup %": "8.0",
+        "sl%slider %": "19.2",
         "cu%curve %": "11.9",
         "max evmax exit velocity": "113.4",
         "hhhard hit": "64",
-        "hh%hard hit %": "42.4",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "20",
-        "brl%barrel %": "13.2",
+        "brl%barrel %": "13.1",
         "ab": "188",
         "avg": ".250",
         "h": "47",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "9",
         "so": "43",
-        "bipballs in play": "151",
+        "bipballs in play": "153",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-07-12 16:01:32.912165"
+        "updated": "2025-07-12 16:01:40.865142"
     },
     "chc @ nyy": [
         {
@@ -1109,9 +1109,9 @@
             "start": "1:10 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "80.0",
+            "la": "20",
+            "dist": "240"
         },
         {
             "player": "jp crawford",
@@ -2393,6 +2393,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-12 16:01:39",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "victor scott",
             "game": "atl @ stl",
             "hr/park": "",
@@ -2402,10 +2417,10 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Bunt",
+            "evo": "20.8",
+            "la": "-58",
+            "dist": "3"
         },
         {
             "player": "nolan gorman",
