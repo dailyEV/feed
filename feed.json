@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "193",
-        "pitches": "1657",
+        "batters": "194",
+        "pitches": "1671",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "38.9",
-        "si%sinker %": "10.6",
-        "fc%cutter %": "7.0",
+        "ff%fourseam fastball %": "38.7",
+        "si%sinker %": "10.7",
+        "fc%cutter %": "7.2",
         "fs%splitter %": "6.2",
         "ch%changeup %": "8.9",
         "sl%slider %": "16.5",
-        "cu%curve %": "11.9",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "116",
-        "hh%hard hit %": "37.2",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "24",
         "brl%barrel %": "7.7",
-        "ab": "402",
-        "avg": ".231",
-        "h": "93",
-        "1b": "60",
+        "ab": "404",
+        "avg": ".233",
+        "h": "94",
+        "1b": "61",
         "2b": "19",
         "3b": "2",
         "hr": "12",
-        "so": "91",
-        "bipballs in play": "312",
+        "so": "92",
+        "bipballs in play": "313",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:36:55.376343"
+        "updated": "2025-07-13 15:37:04.399398"
     },
     "tb @ bos": [
         {
@@ -858,6 +858,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "dane myers",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-13 15:35:48",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "liam hicks",
             "game": "mia @ bal",
@@ -2619,6 +2634,21 @@
         }
     ],
     "sea @ det": [
+        {
+            "player": "dominic canzone",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-13 15:37:02",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "mitch garver",
             "game": "sea @ det",
@@ -5549,10 +5579,10 @@
             "team": "wsh",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "72.2",
+            "la": "7",
+            "dist": "97"
         },
         {
             "player": "riley adams",
