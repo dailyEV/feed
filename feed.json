@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "23",
+        "pitchers": "24",
         "batters": "180",
-        "pitches": "1322",
+        "pitches": "1329",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "40.1",
+        "ff%fourseam fastball %": "40.0",
         "si%sinker %": "9.8",
         "fc%cutter %": "6.7",
-        "fs%splitter %": "6.0",
-        "ch%changeup %": "8.5",
+        "fs%splitter %": "6.1",
+        "ch%changeup %": "8.4",
         "sl%slider %": "17.2",
-        "cu%curve %": "11.9",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "92",
-        "hh%hard hit %": "36.7",
+        "hh%hard hit %": "36.5",
         "brlbarrels": "21",
-        "brl%barrel %": "8.4",
-        "ab": "321",
-        "avg": ".227",
+        "brl%barrel %": "8.3",
+        "ab": "323",
+        "avg": ".226",
         "h": "73",
         "1b": "48",
         "2b": "14",
         "3b": "2",
         "hr": "9",
-        "so": "70",
-        "bipballs in play": "251",
+        "so": "71",
+        "bipballs in play": "252",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:16:55.041703"
+        "updated": "2025-07-13 15:17:03.782370"
     },
     "tb @ bos": [
         {
@@ -800,6 +800,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "paul goldschmidt",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-07-13 15:17:03",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "87.3",
+            "la": "",
+            "dist": "40"
+        },
         {
             "player": "oswald peraza",
             "game": "chc @ nyy",
@@ -2169,6 +2184,21 @@
         }
     ],
     "sea @ det": [
+        {
+            "player": "cal raleigh",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-13 15:17:03",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "spencer torkelson",
             "game": "sea @ det",
@@ -4439,7 +4469,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
