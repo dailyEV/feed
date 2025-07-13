@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "171",
-        "pitches": "1168",
+        "batters": "172",
+        "pitches": "1173",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "41.6",
         "si%sinker %": "9.3",
         "fc%cutter %": "6.4",
         "fs%splitter %": "6.1",
-        "ch%changeup %": "8.1",
+        "ch%changeup %": "8.2",
         "sl%slider %": "17.0",
         "cu%curve %": "11.4",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "81",
-        "hh%hard hit %": "37.3",
+        "hh%hard hit %": "36.8",
         "brlbarrels": "18",
-        "brl%barrel %": "8.3",
-        "ab": "281",
-        "avg": ".224",
+        "brl%barrel %": "8.2",
+        "ab": "282",
+        "avg": ".223",
         "h": "63",
         "1b": "42",
         "2b": "11",
         "3b": "2",
         "hr": "8",
         "so": "62",
-        "bipballs in play": "217",
+        "bipballs in play": "220",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:08:01.696209"
+        "updated": "2025-07-13 15:08:10.331113"
     },
     "tb @ bos": [
         {
@@ -41,10 +41,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.0",
+            "la": "6",
+            "dist": "101"
         },
         {
             "player": "junior caminero",
@@ -1306,7 +1306,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "87.8",
             "la": "62",
             "dist": "170"
@@ -2515,6 +2515,21 @@
         }
     ],
     "nym @ kc": [
+        {
+            "player": "tyrone taylor",
+            "game": "nym @ kc",
+            "hr/park": "0/30",
+            "pa": "10",
+            "dt": "2025-07-13 15:08:04",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "93.4",
+            "la": "33",
+            "dist": "309"
+        },
         {
             "player": "ronny mauricio",
             "game": "nym @ kc",
@@ -3853,10 +3868,10 @@
             "team": "wsh",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "87.6",
+            "la": "48",
+            "dist": "271"
         },
         {
             "player": "jake bauers",
