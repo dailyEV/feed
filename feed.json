@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "77",
-        "batters": "259",
-        "pitches": "2697",
+        "pitchers": "78",
+        "batters": "260",
+        "pitches": "2708",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.2",
+        "ff%fourseam fastball %": "37.1",
         "si%sinker %": "12.1",
         "fc%cutter %": "7.9",
         "fs%splitter %": "6.2",
         "ch%changeup %": "8.8",
         "sl%slider %": "17.7",
-        "cu%curve %": "10.1",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "194",
         "hh%hard hit %": "39.4",
         "brlbarrels": "35",
         "brl%barrel %": "7.1",
-        "ab": "645",
+        "ab": "647",
         "avg": ".226",
         "h": "146",
         "1b": "91",
         "2b": "29",
         "3b": "2",
         "hr": "24",
-        "so": "158",
-        "bipballs in play": "492",
+        "so": "159",
+        "bipballs in play": "493",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:30:31.683503"
+        "updated": "2025-07-13 16:30:42.041589"
     },
     "tb @ bos": [
         {
@@ -5579,6 +5579,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "sam haggerty",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-13 16:30:35",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle higashioka",
             "game": "tex @ hou",
             "hr/park": "",
@@ -6525,6 +6540,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "carlos correa",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-07-13 16:30:35",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "andrew mccutchen",
             "game": "pit @ min",
@@ -7557,10 +7587,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "56.8",
+            "la": "34",
+            "dist": "175"
         },
         {
             "player": "edgar quero",
@@ -8504,7 +8534,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10350,6 +10380,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "jackson merrill",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-13 16:29:48",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "xander bogaerts",
             "game": "phi @ sd",
             "hr/park": "",
@@ -10359,7 +10404,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
