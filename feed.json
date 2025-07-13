@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "33",
         "batters": "195",
-        "pitches": "1737",
+        "pitches": "1739",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "38.5",
@@ -10,14 +10,14 @@
         "fc%cutter %": "7.5",
         "fs%splitter %": "6.2",
         "ch%changeup %": "8.9",
-        "sl%slider %": "16.5",
+        "sl%slider %": "16.4",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "119",
-        "hh%hard hit %": "36.8",
+        "hhhard hit": "120",
+        "hh%hard hit %": "37.2",
         "brlbarrels": "24",
         "brl%barrel %": "7.4",
-        "ab": "418",
+        "ab": "419",
         "avg": ".227",
         "h": "95",
         "1b": "62",
@@ -28,7 +28,7 @@
         "bipballs in play": "323",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:40:27.170365"
+        "updated": "2025-07-13 15:40:36.226986"
     },
     "tb @ bos": [
         {
@@ -873,6 +873,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "ryan ohearn",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-13 15:40:33",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "Pop Out",
+            "evo": "101.4",
+            "la": "65",
+            "dist": "173"
+        },
         {
             "player": "graham pauley",
             "game": "mia @ bal",
@@ -3516,10 +3531,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "3",
-            "result": "Groundout",
-            "evo": "70.3",
-            "la": "4",
-            "dist": "61"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "bobby witt",
