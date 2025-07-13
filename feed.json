@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "63",
-        "batters": "229",
-        "pitches": "2417",
+        "pitchers": "65",
+        "batters": "230",
+        "pitches": "2419",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.3",
+        "ff%fourseam fastball %": "37.4",
         "si%sinker %": "11.9",
-        "fc%cutter %": "7.4",
+        "fc%cutter %": "7.3",
         "fs%splitter %": "6.2",
         "ch%changeup %": "8.6",
         "sl%slider %": "18.0",
-        "cu%curve %": "10.6",
+        "cu%curve %": "10.5",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "170",
         "hh%hard hit %": "38.5",
         "brlbarrels": "30",
         "brl%barrel %": "6.8",
-        "ab": "581",
-        "avg": ".217",
+        "ab": "582",
+        "avg": ".216",
         "h": "126",
         "1b": "80",
         "2b": "25",
         "3b": "2",
         "hr": "19",
-        "so": "143",
-        "bipballs in play": "441",
+        "so": "142",
+        "bipballs in play": "442",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:18:13.939839"
+        "updated": "2025-07-13 16:18:23.938397"
     },
     "tb @ bos": [
         {
@@ -2582,7 +2582,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5264,21 +5264,6 @@
     ],
     "tex @ hou": [
         {
-            "player": "zack short",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "59",
-            "dt": "2025-07-13 16:18:03",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "2:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "cooper hummel",
             "game": "tex @ hou",
             "hr/park": "",
@@ -5288,7 +5273,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "8",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6150,6 +6135,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "jack suwinski",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-13 16:18:18",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "trevor larnach",
             "game": "pit @ min",
@@ -7082,6 +7082,21 @@
         }
     ],
     "cle @ chw": [
+        {
+            "player": "brayan rocchio",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-07-13 16:18:18",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "chase meidroth",
             "game": "cle @ chw",
@@ -9205,6 +9220,21 @@
         }
     ],
     "tor @ ath": [
+        {
+            "player": "nick kurtz",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-13 16:18:18",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jacob wilson",
             "game": "tor @ ath",
