@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "90",
         "batters": "298",
-        "pitches": "3522",
+        "pitches": "3528",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "35.5",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "249",
-        "hh%hard hit %": "38.9",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "45",
         "brl%barrel %": "7.0",
-        "ab": "832",
+        "ab": "833",
         "avg": ".226",
         "h": "188",
         "1b": "121",
         "2b": "36",
         "3b": "3",
         "hr": "28",
-        "so": "207",
-        "bipballs in play": "640",
+        "so": "208",
+        "bipballs in play": "641",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 17:26:53.921938"
+        "updated": "2025-07-13 17:27:06.071000"
     },
     "tb @ bos": [
         {
@@ -1038,6 +1038,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "otto lopez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-13 17:27:04",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle stowers",
             "game": "mia @ bal",
@@ -11328,7 +11343,7 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -11930,10 +11945,10 @@
             "team": "ath",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Field Error",
+            "evo": "62.6",
+            "la": "-47",
+            "dist": "4"
         },
         {
             "player": "nathan lukes",
