@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "49",
         "batters": "208",
-        "pitches": "2120",
+        "pitches": "2121",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "38.1",
-        "si%sinker %": "11.2",
+        "ff%fourseam fastball %": "38.0",
+        "si%sinker %": "11.3",
         "fc%cutter %": "7.6",
         "fs%splitter %": "6.2",
-        "ch%changeup %": "8.8",
+        "ch%changeup %": "8.7",
         "sl%slider %": "16.8",
         "cu%curve %": "11.2",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "152",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "28",
         "brl%barrel %": "7.2",
         "ab": "511",
@@ -24,11 +24,11 @@
         "2b": "23",
         "3b": "2",
         "hr": "18",
-        "so": "124",
-        "bipballs in play": "390",
+        "so": "123",
+        "bipballs in play": "389",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 16:03:53.240296"
+        "updated": "2025-07-13 16:04:02.948024"
     },
     "tb @ bos": [
         {
@@ -4793,10 +4793,10 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Groundout",
-            "evo": "94.8",
-            "la": "-7",
-            "dist": "18"
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "victor caratini",
@@ -6387,7 +6387,7 @@
             "team": "cle",
             "start": "2:10 PM",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
