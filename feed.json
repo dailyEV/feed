@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "82",
+        "pitchers": "81",
         "batters": "274",
-        "pitches": "2856",
+        "pitches": "2865",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "36.9",
+        "ff%fourseam fastball %": "36.8",
         "si%sinker %": "12.4",
         "fc%cutter %": "7.8",
         "fs%splitter %": "6.1",
-        "ch%changeup %": "8.9",
-        "sl%slider %": "17.7",
+        "ch%changeup %": "8.8",
+        "sl%slider %": "17.8",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "204",
         "hh%hard hit %": "39.4",
         "brlbarrels": "36",
         "brl%barrel %": "6.9",
-        "ab": "679",
+        "ab": "680",
         "avg": ".224",
         "h": "152",
         "1b": "95",
         "2b": "30",
         "3b": "2",
         "hr": "25",
-        "so": "167",
+        "so": "168",
         "bipballs in play": "518",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:37:42.359615"
+        "updated": "2025-07-13 16:37:52.826419"
     },
     "tb @ bos": [
         {
@@ -1048,7 +1048,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4977,21 +4977,6 @@
     ],
     "nym @ kc": [
         {
-            "player": "francisco lindor",
-            "game": "nym @ kc",
-            "hr/park": "",
-            "pa": "51",
-            "dt": "2025-07-13 16:37:19",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "2:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "luisangel acuna",
             "game": "nym @ kc",
             "hr/park": "",
@@ -6745,7 +6730,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "9",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7802,6 +7787,21 @@
         }
     ],
     "cle @ chw": [
+        {
+            "player": "bo naylor",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-13 16:37:49",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "carlos santana",
             "game": "cle @ chw",
@@ -9766,7 +9766,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10460,7 +10460,7 @@
             "team": "ath",
             "start": "4:05 PM",
             "in": "2",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "93.9",
             "la": "-11",
             "dist": "14"
@@ -10889,6 +10889,21 @@
         }
     ],
     "phi @ sd": [
+        {
+            "player": "kyle schwarber",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-13 16:37:49",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "edmundo sosa",
             "game": "phi @ sd",
