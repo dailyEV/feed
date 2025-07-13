@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "98",
         "batters": "250",
-        "pitches": "3306",
+        "pitches": "3309",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.1",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "38.5",
         "brlbarrels": "48",
         "brl%barrel %": "7.7",
-        "ab": "783",
+        "ab": "784",
         "avg": ".239",
         "h": "187",
         "1b": "115",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "27",
         "so": "189",
-        "bipballs in play": "623",
+        "bipballs in play": "624",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-12 20:40:31.649505"
+        "updated": "2025-07-12 20:40:42.854401"
     },
     "chc @ nyy": [
         {
@@ -12189,6 +12189,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "victor caratini",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-07-12 20:40:41",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "7:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "christian walker",
             "game": "tex @ hou",
             "hr/park": "",
@@ -12635,10 +12650,10 @@
             "team": "phi",
             "start": "7:35 PM",
             "in": "4",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "69.4",
+            "la": "-20",
+            "dist": "10"
         },
         {
             "player": "nick castellanos",
