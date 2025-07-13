@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "30",
+        "pitchers": "29",
         "batters": "189",
-        "pitches": "1532",
+        "pitches": "1540",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "39.1",
-        "si%sinker %": "10.8",
+        "si%sinker %": "10.7",
         "fc%cutter %": "6.9",
         "fs%splitter %": "6.0",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "16.6",
-        "cu%curve %": "11.9",
+        "ch%changeup %": "8.8",
+        "sl%slider %": "16.7",
+        "cu%curve %": "11.8",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "106",
-        "hh%hard hit %": "36.9",
+        "hhhard hit": "107",
+        "hh%hard hit %": "37.2",
         "brlbarrels": "22",
-        "brl%barrel %": "7.7",
+        "brl%barrel %": "7.6",
         "ab": "367",
         "avg": ".234",
         "h": "86",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "10",
         "so": "83",
-        "bipballs in play": "287",
+        "bipballs in play": "288",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:29:29.143566"
+        "updated": "2025-07-13 15:29:38.175975"
     },
     "tb @ bos": [
         {
@@ -905,21 +905,6 @@
         }
     ],
     "chc @ nyy": [
-        {
-            "player": "carson kelly",
-            "game": "chc @ nyy",
-            "hr/park": "",
-            "pa": "51",
-            "dt": "2025-07-13 15:29:18",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "1:35 PM",
-            "in": "7",
-            "result": "Flyout",
-            "evo": "85.3",
-            "la": "36",
-            "dist": "288"
-        },
         {
             "player": "pete crow armstrong",
             "game": "chc @ nyy",
@@ -3141,10 +3126,10 @@
             "team": "nym",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "95.5",
             "la": "",
-            "dist": ""
+            "dist": "49"
         },
         {
             "player": "kyle isbel",
@@ -4518,6 +4503,21 @@
     ],
     "cle @ chw": [
         {
+            "player": "edgar quero",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-13 15:29:33",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "austin slater",
             "game": "cle @ chw",
             "hr/park": "",
@@ -5085,9 +5085,9 @@
             "start": "2:10 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "72.1",
+            "la": "-1",
+            "dist": "27"
         },
         {
             "player": "daylen lile",
