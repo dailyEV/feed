@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "106",
-        "pitches": "503",
+        "batters": "107",
+        "pitches": "510",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "43.9",
-        "si%sinker %": "8.9",
-        "fc%cutter %": "5.6",
-        "fs%splitter %": "4.4",
-        "ch%changeup %": "9.1",
-        "sl%slider %": "18.9",
-        "cu%curve %": "9.1",
+        "ff%fourseam fastball %": "43.5",
+        "si%sinker %": "9.0",
+        "fc%cutter %": "5.5",
+        "fs%splitter %": "4.7",
+        "ch%changeup %": "9.0",
+        "sl%slider %": "19.0",
+        "cu%curve %": "9.2",
         "max evmax exit velocity": "109.9",
         "hhhard hit": "31",
-        "hh%hard hit %": "35.2",
+        "hh%hard hit %": "34.8",
         "brlbarrels": "7",
-        "brl%barrel %": "8.0",
+        "brl%barrel %": "7.9",
         "ab": "116",
-        "avg": ".207",
-        "h": "24",
-        "1b": "15",
+        "avg": ".216",
+        "h": "25",
+        "1b": "16",
         "2b": "5",
         "3b": "0",
         "hr": "4",
-        "so": "23",
-        "bipballs in play": "88",
+        "so": "24",
+        "bipballs in play": "89",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:27:56.893896"
+        "updated": "2025-07-13 14:28:04.716591"
     },
     "tb @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": ""
@@ -781,10 +781,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "80.0",
+            "la": "7",
+            "dist": "93"
         },
         {
             "player": "elly de la cruz",
@@ -1158,7 +1158,7 @@
             "team": "sea",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1461,7 +1461,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1695,6 +1695,21 @@
         }
     ],
     "cle @ chw": [
+        {
+            "player": "kyle manzardo",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-13 14:28:03",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "edgar quero",
             "game": "cle @ chw",
