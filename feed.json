@@ -1,16 +1,16 @@
 {
     "all": {
-        "pitchers": "79",
-        "batters": "264",
-        "pitches": "2750",
+        "pitchers": "80",
+        "batters": "263",
+        "pitches": "2757",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "37.1",
-        "si%sinker %": "12.2",
+        "si%sinker %": "12.3",
         "fc%cutter %": "7.8",
         "fs%splitter %": "6.2",
-        "ch%changeup %": "8.8",
-        "sl%slider %": "17.7",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "17.6",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "198",
@@ -24,11 +24,11 @@
         "2b": "30",
         "3b": "2",
         "hr": "24",
-        "so": "161",
+        "so": "163",
         "bipballs in play": "501",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:33:12.708570"
+        "updated": "2025-07-13 16:33:23.883383"
     },
     "tb @ bos": [
         {
@@ -1038,6 +1038,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "colton cowser",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-13 16:32:49",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ramon laureano",
             "game": "mia @ bal",
@@ -4902,21 +4917,6 @@
     ],
     "nym @ kc": [
         {
-            "player": "luis torrens",
-            "game": "nym @ kc",
-            "hr/park": "",
-            "pa": "49",
-            "dt": "2025-07-13 16:32:49",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "2:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "tyrone taylor",
             "game": "nym @ kc",
             "hr/park": "",
@@ -8630,6 +8630,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "caleb durbin",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-13 16:33:18",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jake bauers",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -9562,6 +9577,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "drake baldwin",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-13 16:33:18",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "2:15 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "sean murphy",
             "game": "atl @ stl",
             "hr/park": "",
@@ -9571,7 +9601,7 @@
             "team": "atl",
             "start": "2:15 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9969,21 +9999,6 @@
     ],
     "lad @ sf": [
         {
-            "player": "tommy edman",
-            "game": "lad @ sf",
-            "hr/park": "",
-            "pa": "14",
-            "dt": "2025-07-13 16:33:05",
-            "img": "https://www.mlbstatic.com/team-logos/119.svg",
-            "team": "lad",
-            "start": "4:05 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jung hoo lee",
             "game": "lad @ sf",
             "hr/park": "",
@@ -10180,21 +10195,6 @@
         }
     ],
     "tor @ ath": [
-        {
-            "player": "gio urshela",
-            "game": "tor @ ath",
-            "hr/park": "",
-            "pa": "12",
-            "dt": "2025-07-13 16:32:49",
-            "img": "https://www.mlbstatic.com/team-logos/133.svg",
-            "team": "ath",
-            "start": "4:05 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "davis schneider",
             "game": "tor @ ath",
@@ -10554,7 +10554,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
