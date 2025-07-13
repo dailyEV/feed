@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "22",
         "batters": "174",
-        "pitches": "1219",
+        "pitches": "1222",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "40.9",
@@ -11,14 +11,14 @@
         "fs%splitter %": "5.9",
         "ch%changeup %": "8.6",
         "sl%slider %": "16.7",
-        "cu%curve %": "11.9",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "86",
         "hh%hard hit %": "37.4",
         "brlbarrels": "19",
         "brl%barrel %": "8.3",
-        "ab": "297",
-        "avg": ".222",
+        "ab": "298",
+        "avg": ".221",
         "h": "66",
         "1b": "43",
         "2b": "12",
@@ -28,7 +28,7 @@
         "bipballs in play": "230",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:10:29.713748"
+        "updated": "2025-07-13 15:10:38.334375"
     },
     "tb @ bos": [
         {
@@ -2013,10 +2013,10 @@
             "team": "det",
             "start": "1:40 PM",
             "in": "5",
-            "result": "Single",
-            "evo": "97.0",
-            "la": "13",
-            "dist": "223"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "colt keith",
@@ -2788,6 +2788,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "alejandro osuna",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-07-13 15:10:33",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle higashioka",
             "game": "tex @ hou",
             "hr/park": "",
@@ -2797,10 +2812,10 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "95.3",
+            "la": "14",
+            "dist": "232"
         },
         {
             "player": "evan carter",
