@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "91",
         "batters": "298",
-        "pitches": "3559",
+        "pitches": "3562",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "35.2",
-        "si%sinker %": "13.9",
+        "si%sinker %": "14.0",
         "fc%cutter %": "7.8",
-        "fs%splitter %": "5.3",
+        "fs%splitter %": "5.2",
         "ch%changeup %": "9.0",
         "sl%slider %": "18.5",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "251",
-        "hh%hard hit %": "38.7",
-        "brlbarrels": "46",
-        "brl%barrel %": "7.1",
-        "ab": "840",
+        "hhhard hit": "252",
+        "hh%hard hit %": "38.8",
+        "brlbarrels": "47",
+        "brl%barrel %": "7.2",
+        "ab": "841",
         "avg": ".227",
         "h": "191",
         "1b": "123",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "29",
         "so": "210",
-        "bipballs in play": "648",
+        "bipballs in play": "649",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 17:31:22.746560"
+        "updated": "2025-07-13 17:31:34.271151"
     },
     "tb @ bos": [
         {
@@ -11996,6 +11996,21 @@
     ],
     "tor @ ath": [
         {
+            "player": "tyler soderstrom",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-07-13 17:31:34",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brent rooker",
             "game": "tor @ ath",
             "hr/park": "",
@@ -12570,17 +12585,17 @@
         {
             "player": "josh naylor",
             "game": "ari @ laa",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "38",
             "dt": "2025-07-13 17:28:50",
             "img": "https://www.mlbstatic.com/team-logos/109.svg",
             "team": "ari",
             "start": "4:07 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "100.8",
+            "la": "25",
+            "dist": "359"
         },
         {
             "player": "geraldo perdomo",
