@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "18",
         "batters": "146",
-        "pitches": "799",
+        "pitches": "807",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "44.4",
-        "si%sinker %": "8.6",
+        "ff%fourseam fastball %": "44.1",
+        "si%sinker %": "8.7",
         "fc%cutter %": "5.6",
-        "fs%splitter %": "5.0",
-        "ch%changeup %": "8.3",
-        "sl%slider %": "18.0",
-        "cu%curve %": "10.0",
+        "fs%splitter %": "5.1",
+        "ch%changeup %": "8.2",
+        "sl%slider %": "18.2",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "110.3",
-        "hhhard hit": "51",
-        "hh%hard hit %": "36.4",
+        "hhhard hit": "52",
+        "hh%hard hit %": "36.9",
         "brlbarrels": "10",
         "brl%barrel %": "7.1",
         "ab": "186",
@@ -24,11 +24,11 @@
         "2b": "8",
         "3b": "1",
         "hr": "6",
-        "so": "41",
-        "bipballs in play": "140",
+        "so": "42",
+        "bipballs in play": "141",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:45:11.573411"
+        "updated": "2025-07-13 14:45:19.675964"
     },
     "tb @ bos": [
         {
@@ -1036,7 +1036,7 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1518,7 +1518,7 @@
             "team": "sea",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2440,10 +2440,10 @@
             "team": "cle",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "104.0",
+            "la": "-17",
+            "dist": "8"
         },
         {
             "player": "miguel vargas",
