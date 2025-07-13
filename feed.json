@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "34",
         "batters": "197",
-        "pitches": "1763",
+        "pitches": "1770",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "38.4",
-        "si%sinker %": "10.7",
+        "ff%fourseam fastball %": "38.3",
+        "si%sinker %": "10.9",
         "fc%cutter %": "7.6",
         "fs%splitter %": "6.2",
-        "ch%changeup %": "8.8",
+        "ch%changeup %": "8.9",
         "sl%slider %": "16.4",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "110.7",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.4",
         "brlbarrels": "24",
         "brl%barrel %": "7.3",
-        "ab": "422",
-        "avg": ".230",
+        "ab": "423",
+        "avg": ".229",
         "h": "97",
         "1b": "63",
         "2b": "20",
         "3b": "2",
         "hr": "12",
-        "so": "95",
+        "so": "97",
         "bipballs in play": "329",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:42:17.051652"
+        "updated": "2025-07-13 15:42:26.331336"
     },
     "tb @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -898,7 +898,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1115,6 +1115,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "dansby swanson",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-07-13 15:42:20",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ian happ",
             "game": "chc @ nyy",
@@ -2770,6 +2785,21 @@
     ],
     "sea @ det": [
         {
+            "player": "jp crawford",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-07-13 15:41:19",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cole young",
             "game": "sea @ det",
             "hr/park": "",
@@ -3953,7 +3983,7 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5247,7 +5277,7 @@
             "team": "cle",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
