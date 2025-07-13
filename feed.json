@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "35",
         "batters": "198",
-        "pitches": "1795",
+        "pitches": "1805",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "38.3",
-        "si%sinker %": "10.9",
-        "fc%cutter %": "7.6",
-        "fs%splitter %": "6.2",
-        "ch%changeup %": "8.9",
+        "si%sinker %": "11.0",
+        "fc%cutter %": "7.5",
+        "fs%splitter %": "6.1",
+        "ch%changeup %": "8.8",
         "sl%slider %": "16.5",
         "cu%curve %": "11.7",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "124",
-        "hh%hard hit %": "37.5",
+        "hhhard hit": "126",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "24",
-        "brl%barrel %": "7.3",
-        "ab": "429",
-        "avg": ".226",
-        "h": "97",
-        "1b": "63",
+        "brl%barrel %": "7.2",
+        "ab": "432",
+        "avg": ".229",
+        "h": "99",
+        "1b": "65",
         "2b": "20",
         "3b": "2",
         "hr": "12",
         "so": "98",
-        "bipballs in play": "331",
+        "bipballs in play": "334",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:44:23.479935"
+        "updated": "2025-07-13 15:44:33.154403"
     },
     "tb @ bos": [
         {
@@ -913,7 +913,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "2",
-            "result": "Caught Stealing 3B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1146,6 +1146,21 @@
     ],
     "chc @ nyy": [
         {
+            "player": "nico hoerner",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-13 15:44:33",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dansby swanson",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -1155,10 +1170,10 @@
             "team": "chc",
             "start": "1:35 PM",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "95.4",
+            "la": "6",
+            "dist": "100"
         },
         {
             "player": "ian happ",
@@ -3651,10 +3666,10 @@
             "team": "nym",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "89.7",
+            "la": "14",
+            "dist": "234"
         },
         {
             "player": "vinnie pasquantino",
@@ -4033,6 +4048,21 @@
         }
     ],
     "tex @ hou": [
+        {
+            "player": "zack short",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-13 15:44:33",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "kyle higashioka",
             "game": "tex @ hou",
@@ -4665,6 +4695,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "willi castro",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-13 15:43:49",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "105.0",
+            "la": "-21",
+            "dist": "5"
+        },
         {
             "player": "kebryan hayes",
             "game": "pit @ min",
