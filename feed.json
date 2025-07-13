@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "68",
-        "batters": "240",
-        "pitches": "2491",
+        "batters": "241",
+        "pitches": "2495",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.1",
+        "ff%fourseam fastball %": "37.0",
         "si%sinker %": "11.9",
         "fc%cutter %": "7.5",
         "fs%splitter %": "6.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.6",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "176",
-        "hh%hard hit %": "38.6",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "30",
-        "brl%barrel %": "6.6",
-        "ab": "598",
-        "avg": ".216",
-        "h": "129",
-        "1b": "82",
+        "brl%barrel %": "6.5",
+        "ab": "600",
+        "avg": ".218",
+        "h": "131",
+        "1b": "84",
         "2b": "26",
         "3b": "2",
         "hr": "19",
         "so": "146",
-        "bipballs in play": "456",
+        "bipballs in play": "459",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:21:38.994744"
+        "updated": "2025-07-13 16:21:48.902511"
     },
     "tb @ bos": [
         {
@@ -4722,6 +4722,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "ronny mauricio",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-13 16:21:48",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "76.5",
+            "la": "-10",
+            "dist": "10"
+        },
+        {
             "player": "brandon nimmo",
             "game": "nym @ kc",
             "hr/park": "",
@@ -4731,7 +4746,7 @@
             "team": "nym",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "74.1",
             "la": "1",
             "dist": "41"
@@ -6250,10 +6265,10 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "64.4",
+            "la": "-52",
+            "dist": "5"
         },
         {
             "player": "kebryan hayes",
@@ -7227,7 +7242,7 @@
             "team": "cle",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "95.7",
             "la": "11",
             "dist": "165"
@@ -9308,6 +9323,21 @@
         }
     ],
     "lad @ sf": [
+        {
+            "player": "andy pages",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-07-13 16:21:48",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "87.4",
+            "la": "-2",
+            "dist": "33"
+        },
         {
             "player": "teoscar hernandez",
             "game": "lad @ sf",
