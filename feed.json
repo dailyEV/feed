@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "20",
         "batters": "170",
-        "pitches": "1136",
+        "pitches": "1141",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "41.6",
@@ -11,24 +11,24 @@
         "fs%splitter %": "6.0",
         "ch%changeup %": "7.9",
         "sl%slider %": "17.3",
-        "cu%curve %": "11.3",
+        "cu%curve %": "11.4",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "79",
-        "hh%hard hit %": "37.4",
+        "hh%hard hit %": "37.3",
         "brlbarrels": "17",
-        "brl%barrel %": "8.1",
-        "ab": "271",
+        "brl%barrel %": "8.0",
+        "ab": "272",
         "avg": ".221",
         "h": "60",
         "1b": "40",
         "2b": "11",
         "3b": "2",
         "hr": "7",
-        "so": "59",
-        "bipballs in play": "211",
+        "so": "61",
+        "bipballs in play": "212",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:05:17.526465"
+        "updated": "2025-07-13 15:05:26.082142"
     },
     "tb @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1893,7 +1893,7 @@
             "team": "sea",
             "start": "1:40 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2939,6 +2939,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "kebryan hayes",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-13 15:05:20",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "87.2",
+            "la": "58",
+            "dist": "210"
+        },
         {
             "player": "jack suwinski",
             "game": "pit @ min",
