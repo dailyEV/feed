@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "1",
-        "batters": "1",
-        "pitches": "3",
+        "pitchers": "2",
+        "batters": "2",
+        "pitches": "5",
         "max velomax pitch velocity": "95.4",
-        "min velomin pitch velocity": "95.0",
-        "ff%fourseam fastball %": "33.3",
-        "si%sinker %": "66.7",
+        "min velomin pitch velocity": "81.3",
+        "ff%fourseam fastball %": "40.0",
+        "si%sinker %": "40.0",
         "fc%cutter %": "0.0",
         "fs%splitter %": "0.0",
         "ch%changeup %": "0.0",
-        "sl%slider %": "0.0",
+        "sl%slider %": "20.0",
         "cu%curve %": "0.0",
         "max evmax exit velocity": "",
         "hhhard hit": "",
         "hh%hard hit %": "",
         "brlbarrels": "",
         "brl%barrel %": "",
-        "ab": "1",
+        "ab": "2",
         "avg": ".000",
         "h": "0",
         "1b": "0",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "0",
         "so": "0",
-        "bipballs in play": "0",
+        "bipballs in play": "1",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-13 13:39:42.907375"
+        "updated": "2025-07-13 13:39:50.090159"
     },
     "tb @ bos": [
         {
@@ -48,7 +48,23 @@
         }
     ],
     "mia @ bal": [],
-    "chc @ nyy": [],
+    "chc @ nyy": [
+        {
+            "player": "michael busch",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-13 13:39:47",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "col @ cin": [],
     "sea @ det": [],
     "nym @ kc": [],
