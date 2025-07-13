@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "83",
         "batters": "283",
-        "pitches": "2985",
+        "pitches": "2990",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "36.8",
@@ -11,13 +11,13 @@
         "fs%splitter %": "6.0",
         "ch%changeup %": "8.8",
         "sl%slider %": "17.8",
-        "cu%curve %": "10.2",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "211",
-        "hh%hard hit %": "39.2",
+        "hhhard hit": "212",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "36",
         "brl%barrel %": "6.7",
-        "ab": "709",
+        "ab": "710",
         "avg": ".220",
         "h": "156",
         "1b": "99",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "25",
         "so": "178",
-        "bipballs in play": "538",
+        "bipballs in play": "539",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:43:22.296078"
+        "updated": "2025-07-13 16:43:33.419000"
     },
     "tb @ bos": [
         {
@@ -10012,6 +10012,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "michael harris",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-13 16:43:33",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "2:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nacho alvarez",
             "game": "atl @ stl",
             "hr/park": "",
@@ -11334,10 +11349,10 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "100.9",
+            "la": "10",
+            "dist": "178"
         },
         {
             "player": "luis campusano",
