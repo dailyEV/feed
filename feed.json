@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "50",
         "batters": "208",
-        "pitches": "2164",
+        "pitches": "2173",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.9",
-        "si%sinker %": "11.3",
+        "ff%fourseam fastball %": "37.7",
+        "si%sinker %": "11.6",
         "fc%cutter %": "7.5",
-        "fs%splitter %": "6.3",
-        "ch%changeup %": "9.0",
+        "fs%splitter %": "6.4",
+        "ch%changeup %": "8.9",
         "sl%slider %": "16.9",
         "cu%curve %": "11.0",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "153",
-        "hh%hard hit %": "38.8",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "28",
         "brl%barrel %": "7.1",
-        "ab": "520",
-        "avg": ".233",
+        "ab": "523",
+        "avg": ".231",
         "h": "121",
         "1b": "78",
         "2b": "23",
         "3b": "2",
         "hr": "18",
         "so": "127",
-        "bipballs in play": "394",
+        "bipballs in play": "396",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-13 16:06:28.403309"
+        "updated": "2025-07-13 16:06:38.258715"
     },
     "tb @ bos": [
         {
@@ -1039,6 +1039,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "graham pauley",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-13 16:06:33",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dane myers",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1048,10 +1063,10 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "86.0",
+            "la": "-20",
+            "dist": "10"
         },
         {
             "player": "alex jackson",
@@ -6483,6 +6498,21 @@
     ],
     "cle @ chw": [
         {
+            "player": "johnathan rodriguez",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-13 16:06:33",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "angel martinez",
             "game": "cle @ chw",
             "hr/park": "",
@@ -7250,6 +7280,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "eric haase",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-13 16:06:33",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andruw monasterio",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -7259,10 +7304,10 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "92.1",
+            "la": "22",
+            "dist": "299"
         },
         {
             "player": "riley adams",
