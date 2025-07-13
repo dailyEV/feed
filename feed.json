@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "107",
-        "pitches": "510",
+        "batters": "109",
+        "pitches": "511",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "43.5",
+        "ff%fourseam fastball %": "43.6",
         "si%sinker %": "9.0",
         "fc%cutter %": "5.5",
         "fs%splitter %": "4.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "19.0",
         "cu%curve %": "9.2",
         "max evmax exit velocity": "109.9",
-        "hhhard hit": "31",
-        "hh%hard hit %": "34.8",
+        "hhhard hit": "32",
+        "hh%hard hit %": "35.6",
         "brlbarrels": "7",
-        "brl%barrel %": "7.9",
-        "ab": "116",
-        "avg": ".216",
+        "brl%barrel %": "7.8",
+        "ab": "118",
+        "avg": ".212",
         "h": "25",
         "1b": "16",
         "2b": "5",
         "3b": "0",
         "hr": "4",
-        "so": "24",
-        "bipballs in play": "89",
+        "so": "23",
+        "bipballs in play": "90",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:28:13.051559"
+        "updated": "2025-07-13 14:28:20.944104"
     },
     "tb @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Wild Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1158,7 +1158,7 @@
             "team": "sea",
             "start": "1:40 PM",
             "in": "3",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1803,6 +1803,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "paul dejong",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-13 14:28:18",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "96.8",
+            "la": "35",
+            "dist": "359"
+        },
+        {
             "player": "christian yelich",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -1894,6 +1909,21 @@
         }
     ],
     "atl @ stl": [
+        {
+            "player": "willson contreras",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-13 14:28:18",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alec burleson",
             "game": "atl @ stl",
