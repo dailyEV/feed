@@ -1,16 +1,16 @@
 {
     "all": {
         "pitchers": "54",
-        "batters": "213",
-        "pitches": "2219",
+        "batters": "212",
+        "pitches": "2225",
         "max velomax pitch velocity": "100.3",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "37.8",
-        "si%sinker %": "11.5",
+        "si%sinker %": "11.6",
         "fc%cutter %": "7.4",
         "fs%splitter %": "6.4",
         "ch%changeup %": "8.8",
-        "sl%slider %": "17.0",
+        "sl%slider %": "17.1",
         "cu%curve %": "11.0",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "159",
@@ -24,11 +24,11 @@
         "2b": "24",
         "3b": "2",
         "hr": "18",
-        "so": "129",
+        "so": "131",
         "bipballs in play": "405",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-13 16:08:45.184146"
+        "updated": "2025-07-13 16:08:54.909514"
     },
     "tb @ bos": [
         {
@@ -1048,7 +1048,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1500,7 +1500,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2482,21 +2482,6 @@
         }
     ],
     "col @ cin": [
-        {
-            "player": "hunter goodman",
-            "game": "col @ cin",
-            "hr/park": "",
-            "pa": "68",
-            "dt": "2025-07-13 16:08:33",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "1:40 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "yanquiel fernandez",
             "game": "col @ cin",
@@ -4446,7 +4431,7 @@
             "team": "nym",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5806,6 +5791,21 @@
     ],
     "pit @ min": [
         {
+            "player": "tommy pham",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-13 16:08:48",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick gonzales",
             "game": "pit @ min",
             "hr/park": "",
@@ -5815,7 +5815,7 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
