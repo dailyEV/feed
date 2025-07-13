@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "149",
-        "pitches": "831",
+        "batters": "150",
+        "pitches": "839",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "43.9",
+        "ff%fourseam fastball %": "43.7",
         "si%sinker %": "8.7",
         "fc%cutter %": "5.5",
-        "fs%splitter %": "5.4",
+        "fs%splitter %": "5.5",
         "ch%changeup %": "8.1",
-        "sl%slider %": "18.3",
+        "sl%slider %": "18.4",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "110.3",
-        "hhhard hit": "54",
-        "hh%hard hit %": "36.7",
+        "hhhard hit": "56",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "11",
-        "brl%barrel %": "7.5",
-        "ab": "192",
-        "avg": ".234",
+        "brl%barrel %": "7.3",
+        "ab": "194",
+        "avg": ".232",
         "h": "45",
         "1b": "30",
         "2b": "8",
         "3b": "1",
         "hr": "6",
         "so": "44",
-        "bipballs in play": "147",
+        "bipballs in play": "151",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:46:58.845674"
+        "updated": "2025-07-13 14:47:07.264269"
     },
     "tb @ bos": [
         {
@@ -1036,10 +1036,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "70.4",
+            "la": "59",
+            "dist": "159"
         },
         {
             "player": "tyler stephenson",
@@ -1511,14 +1511,14 @@
         {
             "player": "dominic canzone",
             "game": "sea @ det",
-            "hr/park": "",
+            "hr/park": "4/30",
             "pa": "31",
             "dt": "2025-07-13 14:46:33",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "103.4",
             "la": "35",
             "dist": "388"
@@ -2219,6 +2219,21 @@
     ],
     "pit @ min": [
         {
+            "player": "kody clemens",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-13 14:47:03",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "94.8",
+            "la": "45",
+            "dist": "327"
+        },
+        {
             "player": "royce lewis",
             "game": "pit @ min",
             "hr/park": "",
@@ -2228,10 +2243,10 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "99.1",
+            "la": "-5",
+            "dist": "24"
         },
         {
             "player": "matt wallner",
@@ -2475,6 +2490,21 @@
         }
     ],
     "cle @ chw": [
+        {
+            "player": "steven kwan",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-07-13 14:47:03",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "brayan rocchio",
             "game": "cle @ chw",
@@ -2727,7 +2757,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3000,9 +3030,9 @@
             "start": "2:15 PM",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "95.5",
+            "la": "-16",
+            "dist": "10"
         },
         {
             "player": "pedro pages",
