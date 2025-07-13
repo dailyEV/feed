@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "86",
         "batters": "290",
-        "pitches": "3107",
+        "pitches": "3112",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "36.2",
@@ -13,12 +13,12 @@
         "sl%slider %": "18.2",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "222",
-        "hh%hard hit %": "39.4",
+        "hhhard hit": "221",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "37",
         "brl%barrel %": "6.6",
-        "ab": "737",
-        "avg": ".220",
+        "ab": "740",
+        "avg": ".219",
         "h": "162",
         "1b": "104",
         "2b": "31",
@@ -28,7 +28,7 @@
         "bipballs in play": "563",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:51:09.461851"
+        "updated": "2025-07-13 16:51:20.699195"
     },
     "tb @ bos": [
         {
@@ -1038,6 +1038,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "alex jackson",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-13 16:50:51",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cedric mullins",
             "game": "mia @ bal",
@@ -8028,6 +8043,21 @@
     ],
     "cle @ chw": [
         {
+            "player": "steven kwan",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-07-13 16:51:19",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "2:10 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "david fry",
             "game": "cle @ chw",
             "hr/park": "",
@@ -9134,10 +9164,10 @@
             "team": "wsh",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.0",
+            "la": "47",
+            "dist": "269"
         },
         {
             "player": "paul dejong",
@@ -10202,9 +10232,9 @@
             "start": "2:15 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "107.1",
-            "la": "6",
-            "dist": "161"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jurickson profar",
@@ -10758,10 +10788,10 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "4",
-            "result": "Flyout",
-            "evo": "83.9",
-            "la": "29",
-            "dist": "302"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "mookie betts",
@@ -11098,7 +11128,7 @@
         {
             "player": "brent rooker",
             "game": "tor @ ath",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "22",
             "dt": "2025-07-13 16:51:04",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
@@ -11729,6 +11759,21 @@
         }
     ],
     "phi @ sd": [
+        {
+            "player": "fernando tatis",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-07-13 16:51:19",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "80.5",
+            "la": "-16",
+            "dist": "9"
+        },
         {
             "player": "nick castellanos",
             "game": "phi @ sd",
