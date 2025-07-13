@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "22",
         "batters": "174",
-        "pitches": "1222",
+        "pitches": "1224",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "40.9",
+        "ff%fourseam fastball %": "41.0",
         "si%sinker %": "9.6",
         "fc%cutter %": "6.3",
         "fs%splitter %": "5.9",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.4",
         "brlbarrels": "19",
         "brl%barrel %": "8.3",
-        "ab": "298",
+        "ab": "299",
         "avg": ".221",
         "h": "66",
         "1b": "43",
         "2b": "12",
         "3b": "2",
         "hr": "9",
-        "so": "64",
+        "so": "66",
         "bipballs in play": "230",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:10:46.923054"
+        "updated": "2025-07-13 15:10:55.507404"
     },
     "tb @ bos": [
         {
@@ -719,7 +719,7 @@
             "team": "chc",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3195,6 +3195,21 @@
     ],
     "pit @ min": [
         {
+            "player": "royce lewis",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-07-13 15:10:49",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt wallner",
             "game": "pit @ min",
             "hr/park": "",
@@ -3204,7 +3219,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
