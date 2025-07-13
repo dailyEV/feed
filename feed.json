@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "19",
         "batters": "162",
-        "pitches": "978",
+        "pitches": "983",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "42.4",
+        "ff%fourseam fastball %": "42.5",
         "si%sinker %": "8.9",
         "fc%cutter %": "5.8",
         "fs%splitter %": "6.0",
-        "ch%changeup %": "8.1",
+        "ch%changeup %": "8.0",
         "sl%slider %": "17.9",
-        "cu%curve %": "10.8",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "110.3",
-        "hhhard hit": "68",
-        "hh%hard hit %": "38.0",
+        "hhhard hit": "67",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "12",
         "brl%barrel %": "6.7",
-        "ab": "232",
-        "avg": ".224",
-        "h": "52",
-        "1b": "36",
+        "ab": "234",
+        "avg": ".218",
+        "h": "51",
+        "1b": "35",
         "2b": "8",
         "3b": "2",
         "hr": "6",
-        "so": "53",
-        "bipballs in play": "179",
+        "so": "54",
+        "bipballs in play": "178",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:56:16.667969"
+        "updated": "2025-07-13 14:56:24.906914"
     },
     "tb @ bos": [
         {
@@ -2278,6 +2278,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "adolis garcia",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-13 14:56:19",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "marcus semien",
             "game": "tex @ hou",
             "hr/park": "",
@@ -2287,7 +2302,7 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2574,7 +2589,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "58.1",
             "la": "-39",
             "dist": "4"
@@ -3229,6 +3244,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "alex call",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-13 14:56:19",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jacob young",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -3540,10 +3570,10 @@
             "team": "atl",
             "start": "2:15 PM",
             "in": "3",
-            "result": "Single",
-            "evo": "105.8",
-            "la": "7",
-            "dist": "126"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "nick allen",
