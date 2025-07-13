@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "87",
+        "pitchers": "86",
         "batters": "290",
-        "pitches": "3202",
+        "pitches": "3205",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "36.2",
@@ -13,22 +13,22 @@
         "sl%slider %": "18.5",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "228",
+        "hhhard hit": "229",
         "hh%hard hit %": "39.3",
         "brlbarrels": "38",
-        "brl%barrel %": "6.6",
-        "ab": "758",
-        "avg": ".219",
-        "h": "166",
-        "1b": "106",
+        "brl%barrel %": "6.5",
+        "ab": "759",
+        "avg": ".221",
+        "h": "168",
+        "1b": "108",
         "2b": "32",
         "3b": "2",
         "hr": "26",
         "so": "192",
-        "bipballs in play": "580",
+        "bipballs in play": "582",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:58:18.045961"
+        "updated": "2025-07-13 16:58:29.293743"
     },
     "tb @ bos": [
         {
@@ -1038,21 +1038,6 @@
         }
     ],
     "mia @ bal": [
-        {
-            "player": "agustin ramirez",
-            "game": "mia @ bal",
-            "hr/park": "",
-            "pa": "51",
-            "dt": "2025-07-13 16:58:04",
-            "img": "https://www.mlbstatic.com/team-logos/146.svg",
-            "team": "mia",
-            "start": "1:35 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jackson holliday",
             "game": "mia @ bal",
@@ -5127,6 +5112,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "jonathan india",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-13 16:58:21",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle isbel",
             "game": "nym @ kc",
             "hr/park": "",
@@ -5136,7 +5136,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "29.6",
             "la": "-20",
             "dist": "8"
@@ -11301,9 +11301,9 @@
             "start": "4:05 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "67.0",
+            "la": "-17",
+            "dist": "6"
         },
         {
             "player": "gio urshela",
@@ -11668,6 +11668,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "taylor ward",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-07-13 16:58:21",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "4:07 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mike trout",
             "game": "ari @ laa",
             "hr/park": "",
@@ -12024,10 +12039,10 @@
             "team": "phi",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "98.2",
+            "la": "-2",
+            "dist": "32"
         },
         {
             "player": "jt realmuto",
