@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "32",
         "batters": "194",
-        "pitches": "1675",
+        "pitches": "1681",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "38.6",
-        "si%sinker %": "10.6",
-        "fc%cutter %": "7.2",
+        "ff%fourseam fastball %": "38.5",
+        "si%sinker %": "10.7",
+        "fc%cutter %": "7.1",
         "fs%splitter %": "6.2",
         "ch%changeup %": "8.9",
-        "sl%slider %": "16.5",
+        "sl%slider %": "16.6",
         "cu%curve %": "11.9",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "117",
-        "hh%hard hit %": "37.1",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "24",
         "brl%barrel %": "7.6",
-        "ab": "405",
-        "avg": ".232",
-        "h": "94",
-        "1b": "61",
+        "ab": "407",
+        "avg": ".233",
+        "h": "95",
+        "1b": "62",
         "2b": "19",
         "3b": "2",
         "hr": "12",
-        "so": "92",
-        "bipballs in play": "315",
+        "so": "93",
+        "bipballs in play": "316",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:37:40.933790"
+        "updated": "2025-07-13 15:37:50.292119"
     },
     "tb @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1035,7 +1035,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2645,9 +2645,9 @@
             "start": "1:40 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "70.9",
+            "la": "-24",
+            "dist": "7"
         },
         {
             "player": "mitch garver",
@@ -3402,6 +3402,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "bobby witt",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-07-13 15:37:18",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonathan india",
             "game": "nym @ kc",
             "hr/park": "",
@@ -3411,7 +3426,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "100.5",
             "la": "10",
             "dist": "177"
@@ -5584,6 +5599,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "alex call",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-13 15:37:48",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jacob young",
             "game": "wsh @ mil",
