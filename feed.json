@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "131",
-        "pitches": "680",
+        "batters": "132",
+        "pitches": "681",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "44.0",
+        "ff%fourseam fastball %": "43.9",
         "si%sinker %": "8.5",
         "fc%cutter %": "6.3",
         "fs%splitter %": "4.6",
-        "ch%changeup %": "8.1",
+        "ch%changeup %": "8.2",
         "sl%slider %": "18.4",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "109.9",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "35.8",
         "brlbarrels": "9",
         "brl%barrel %": "7.3",
-        "ab": "157",
-        "avg": ".210",
+        "ab": "158",
+        "avg": ".209",
         "h": "33",
         "1b": "22",
         "2b": "5",
@@ -28,7 +28,7 @@
         "bipballs in play": "123",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:38:13.528649"
+        "updated": "2025-07-13 14:38:21.596596"
     },
     "tb @ bos": [
         {
@@ -931,7 +931,7 @@
             "team": "col",
             "start": "1:40 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1919,6 +1919,21 @@
     ],
     "pit @ min": [
         {
+            "player": "carlos correa",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-13 14:38:18",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew mccutchen",
             "game": "pit @ min",
             "hr/park": "0/30",
@@ -2140,7 +2155,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
