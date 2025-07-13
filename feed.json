@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "12",
-        "batters": "79",
-        "pitches": "340",
+        "batters": "80",
+        "pitches": "345",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "42.9",
-        "si%sinker %": "11.5",
-        "fc%cutter %": "6.2",
+        "si%sinker %": "11.3",
+        "fc%cutter %": "6.4",
         "fs%splitter %": "3.5",
-        "ch%changeup %": "9.7",
-        "sl%slider %": "17.9",
-        "cu%curve %": "8.2",
+        "ch%changeup %": "9.6",
+        "sl%slider %": "18.3",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "108.4",
         "hhhard hit": "21",
         "hh%hard hit %": "33.3",
-        "brlbarrels": "6",
-        "brl%barrel %": "9.5",
-        "ab": "80",
-        "avg": ".200",
+        "brlbarrels": "5",
+        "brl%barrel %": "7.9",
+        "ab": "81",
+        "avg": ".198",
         "h": "16",
         "1b": "11",
         "2b": "2",
@@ -28,7 +28,7 @@
         "bipballs in play": "63",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:17:39.662118"
+        "updated": "2025-07-13 14:17:47.771669"
     },
     "tb @ bos": [
         {
@@ -654,17 +654,17 @@
         {
             "player": "connor joe",
             "game": "col @ cin",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "21",
             "dt": "2025-07-13 14:16:32",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "start": "1:40 PM",
             "in": "3",
-            "result": "Flyout",
-            "evo": "100.2",
-            "la": "25",
-            "dist": "382"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "michael toglia",
@@ -969,6 +969,21 @@
     ],
     "sea @ det": [
         {
+            "player": "parker meadows",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-13 14:16:48",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:40 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "matt vierling",
             "game": "sea @ det",
             "hr/park": "",
@@ -1246,7 +1261,7 @@
         {
             "player": "bryan reynolds",
             "game": "pit @ min",
-            "hr/park": "",
+            "hr/park": "4/30",
             "pa": "3",
             "dt": "2025-07-13 14:14:19",
             "img": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -1254,9 +1269,9 @@
             "start": "2:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "97.1",
+            "la": "24",
+            "dist": "356"
         },
         {
             "player": "andrew mccutchen",
