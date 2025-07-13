@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "77",
-        "batters": "257",
-        "pitches": "2677",
+        "batters": "260",
+        "pitches": "2687",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.2",
-        "si%sinker %": "12.0",
-        "fc%cutter %": "8.0",
+        "ff%fourseam fastball %": "37.1",
+        "si%sinker %": "12.1",
+        "fc%cutter %": "7.9",
         "fs%splitter %": "6.2",
         "ch%changeup %": "8.8",
-        "sl%slider %": "17.7",
+        "sl%slider %": "17.8",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "194",
-        "hh%hard hit %": "39.6",
-        "brlbarrels": "35",
-        "brl%barrel %": "7.1",
-        "ab": "641",
+        "hhhard hit": "193",
+        "hh%hard hit %": "39.4",
+        "brlbarrels": "34",
+        "brl%barrel %": "6.9",
+        "ab": "643",
         "avg": ".226",
         "h": "145",
         "1b": "91",
-        "2b": "28",
+        "2b": "29",
         "3b": "2",
-        "hr": "24",
-        "so": "156",
+        "hr": "23",
+        "so": "157",
         "bipballs in play": "490",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:29:38.015395"
+        "updated": "2025-07-13 16:29:48.469542"
     },
     "tb @ bos": [
         {
@@ -1048,10 +1048,10 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "5",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "81.5",
+            "la": "-33",
+            "dist": "7"
         },
         {
             "player": "liam hicks",
@@ -3775,6 +3775,21 @@
     ],
     "sea @ det": [
         {
+            "player": "randy arozarena",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-07-13 16:29:48",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:40 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "julio rodriguez",
             "game": "sea @ det",
             "hr/park": "",
@@ -3784,7 +3799,7 @@
             "team": "sea",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Double",
             "evo": "108.6",
             "la": "5",
             "dist": "92"
@@ -4856,21 +4871,6 @@
         }
     ],
     "nym @ kc": [
-        {
-            "player": "salvador perez",
-            "game": "nym @ kc",
-            "hr/park": "",
-            "pa": "47",
-            "dt": "2025-07-13 16:28:49",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "2:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "maikel garcia",
             "game": "nym @ kc",
@@ -8482,17 +8482,17 @@
         {
             "player": "brice turang",
             "game": "wsh @ mil",
-            "hr/park": "21/30",
+            "hr/park": "",
             "pa": "61",
             "dt": "2025-07-13 16:28:34",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "start": "2:10 PM",
             "in": "8",
-            "result": "Home Run",
-            "evo": "102.1",
-            "la": "26",
-            "dist": "406"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jackson chourio",
@@ -9406,7 +9406,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9986,6 +9986,21 @@
     ],
     "tor @ ath": [
         {
+            "player": "davis schneider",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-13 16:29:48",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "addison barger",
             "game": "tor @ ath",
             "hr/park": "",
@@ -10138,6 +10153,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "alek thomas",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-13 16:29:48",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "4:07 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "lourdes gurriel",
             "game": "ari @ laa",
             "hr/park": "",
@@ -10147,7 +10177,7 @@
             "team": "ari",
             "start": "4:07 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "97.3",
             "la": "-3",
             "dist": "29"
@@ -10290,6 +10320,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "jackson merrill",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-13 16:29:48",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "xander bogaerts",
             "game": "phi @ sd",
             "hr/park": "",
@@ -10299,7 +10344,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
