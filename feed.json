@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "86",
         "batters": "290",
-        "pitches": "3134",
+        "pitches": "3135",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "36.1",
         "si%sinker %": "13.3",
-        "fc%cutter %": "7.8",
+        "fc%cutter %": "7.7",
         "fs%splitter %": "5.7",
         "ch%changeup %": "8.7",
         "sl%slider %": "18.3",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "223",
-        "hh%hard hit %": "39.3",
+        "hhhard hit": "225",
+        "hh%hard hit %": "39.5",
         "brlbarrels": "37",
         "brl%barrel %": "6.5",
-        "ab": "744",
+        "ab": "747",
         "avg": ".220",
         "h": "164",
         "1b": "105",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "25",
         "so": "188",
-        "bipballs in play": "568",
+        "bipballs in play": "570",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:52:38.348380"
+        "updated": "2025-07-13 16:52:49.444711"
     },
     "tb @ bos": [
         {
@@ -5096,6 +5096,21 @@
         }
     ],
     "nym @ kc": [
+        {
+            "player": "pete alonso",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-13 16:52:49",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "juan soto",
             "game": "nym @ kc",
@@ -11171,6 +11186,21 @@
     ],
     "tor @ ath": [
         {
+            "player": "tyler soderstrom",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-07-13 16:52:49",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brent rooker",
             "game": "tor @ ath",
             "hr/park": "1/30",
@@ -11503,21 +11533,6 @@
     ],
     "ari @ laa": [
         {
-            "player": "zach neto",
-            "game": "ari @ laa",
-            "hr/park": "",
-            "pa": "21",
-            "dt": "2025-07-13 16:52:34",
-            "img": "https://www.mlbstatic.com/team-logos/108.svg",
-            "team": "laa",
-            "start": "4:07 PM",
-            "in": "3",
-            "result": "Walk",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "luis rengifo",
             "game": "ari @ laa",
             "hr/park": "0/30",
@@ -11820,6 +11835,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "manny machado",
+            "game": "phi @ sd",
+            "hr/park": "0/30",
+            "pa": "25",
+            "dt": "2025-07-13 16:52:49",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "97.4",
+            "la": "25",
+            "dist": "366"
+        },
+        {
             "player": "luis arraez",
             "game": "phi @ sd",
             "hr/park": "",
@@ -11829,10 +11859,10 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "97.3",
+            "la": "10",
+            "dist": "186"
         },
         {
             "player": "fernando tatis",
