@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "20",
         "batters": "170",
-        "pitches": "1129",
+        "pitches": "1134",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
         "ff%fourseam fastball %": "41.5",
@@ -10,11 +10,11 @@
         "fc%cutter %": "6.5",
         "fs%splitter %": "6.0",
         "ch%changeup %": "7.9",
-        "sl%slider %": "17.4",
+        "sl%slider %": "17.3",
         "cu%curve %": "11.3",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "79",
-        "hh%hard hit %": "37.6",
+        "hh%hard hit %": "37.4",
         "brlbarrels": "17",
         "brl%barrel %": "8.1",
         "ab": "271",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "7",
         "so": "58",
-        "bipballs in play": "210",
+        "bipballs in play": "211",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:04:26.529296"
+        "updated": "2025-07-13 15:04:35.003117"
     },
     "tb @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -689,7 +689,7 @@
             "team": "chc",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "83.7",
             "la": "-20",
             "dist": "5"
@@ -1291,10 +1291,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "79.9",
+            "la": "59",
+            "dist": "196"
         },
         {
             "player": "matt mclain",
@@ -1893,7 +1893,7 @@
             "team": "sea",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
