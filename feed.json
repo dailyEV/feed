@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "31",
         "batters": "192",
-        "pitches": "1617",
+        "pitches": "1620",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "39.0",
+        "ff%fourseam fastball %": "38.9",
         "si%sinker %": "10.6",
-        "fc%cutter %": "6.9",
-        "fs%splitter %": "5.9",
-        "ch%changeup %": "8.8",
+        "fc%cutter %": "7.0",
+        "fs%splitter %": "6.0",
+        "ch%changeup %": "8.9",
         "sl%slider %": "16.6",
         "cu%curve %": "12.0",
         "max evmax exit velocity": "110.7",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "36.6",
         "brlbarrels": "23",
         "brl%barrel %": "7.6",
-        "ab": "390",
-        "avg": ".231",
+        "ab": "392",
+        "avg": ".230",
         "h": "90",
         "1b": "59",
         "2b": "18",
         "3b": "2",
         "hr": "11",
-        "so": "88",
+        "so": "89",
         "bipballs in play": "303",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:34:29.645012"
+        "updated": "2025-07-13 15:34:38.641046"
     },
     "tb @ bos": [
         {
@@ -838,7 +838,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2545,6 +2545,21 @@
     ],
     "sea @ det": [
         {
+            "player": "mitch garver",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-13 15:34:34",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "parker meadows",
             "game": "sea @ det",
             "hr/park": "",
@@ -4195,7 +4210,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "61.0",
             "la": "57",
             "dist": "137"
@@ -5389,6 +5404,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "riley adams",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-13 15:34:34",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "christian yelich",
             "game": "wsh @ mil",
