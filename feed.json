@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "63",
         "batters": "225",
-        "pitches": "2361",
+        "pitches": "2363",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.6",
+        "ff%fourseam fastball %": "37.5",
         "si%sinker %": "11.9",
         "fc%cutter %": "7.4",
         "fs%splitter %": "6.1",
-        "ch%changeup %": "8.6",
-        "sl%slider %": "17.7",
+        "ch%changeup %": "8.7",
+        "sl%slider %": "17.8",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "166",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "30",
-        "brl%barrel %": "7.0",
-        "ab": "568",
-        "avg": ".222",
+        "brl%barrel %": "6.9",
+        "ab": "569",
+        "avg": ".221",
         "h": "126",
         "1b": "80",
         "2b": "25",
         "3b": "2",
         "hr": "19",
         "so": "137",
-        "bipballs in play": "431",
+        "bipballs in play": "433",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:15:12.577443"
+        "updated": "2025-07-13 16:15:22.439394"
     },
     "tb @ bos": [
         {
@@ -1049,9 +1049,9 @@
             "start": "1:35 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "94.1",
-            "la": "68",
-            "dist": "133"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "jackson holliday",
@@ -2545,17 +2545,17 @@
         {
             "player": "santiago espinal",
             "game": "col @ cin",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "69",
             "dt": "2025-07-13 16:12:48",
             "img": "https://www.mlbstatic.com/team-logos/113.svg",
             "team": "cin",
             "start": "1:40 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "90.9",
+            "la": "20",
+            "dist": "312"
         },
         {
             "player": "hunter goodman",
@@ -4572,6 +4572,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "jonathan india",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-13 16:15:19",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle isbel",
             "game": "nym @ kc",
             "hr/park": "",
@@ -6015,6 +6030,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "willi castro",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-13 16:15:19",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "39.2",
+            "la": "-66",
+            "dist": "2"
+        },
         {
             "player": "byron buxton",
             "game": "pit @ min",
@@ -9097,7 +9127,7 @@
             "team": "ari",
             "start": "4:07 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
