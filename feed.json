@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "174",
-        "pitches": "1203",
+        "pitches": "1211",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "41.1",
-        "si%sinker %": "9.3",
+        "ff%fourseam fastball %": "41.0",
+        "si%sinker %": "9.7",
         "fc%cutter %": "6.4",
-        "fs%splitter %": "6.0",
-        "ch%changeup %": "8.6",
-        "sl%slider %": "16.9",
+        "fs%splitter %": "5.9",
+        "ch%changeup %": "8.5",
+        "sl%slider %": "16.8",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "85",
-        "hh%hard hit %": "37.4",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "19",
-        "brl%barrel %": "8.4",
-        "ab": "293",
-        "avg": ".222",
+        "brl%barrel %": "8.3",
+        "ab": "295",
+        "avg": ".220",
         "h": "65",
         "1b": "42",
         "2b": "12",
         "3b": "2",
         "hr": "9",
         "so": "64",
-        "bipballs in play": "227",
+        "bipballs in play": "229",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:09:54.353126"
+        "updated": "2025-07-13 15:10:03.241307"
     },
     "tb @ bos": [
         {
@@ -710,6 +710,21 @@
     "mia @ bal": [],
     "chc @ nyy": [
         {
+            "player": "nico hoerner",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-13 15:10:03",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dansby swanson",
             "game": "chc @ nyy",
             "hr/park": "30/30",
@@ -1326,6 +1341,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "tyler stephenson",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-13 15:10:03",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "noelvi marte",
             "game": "col @ cin",
@@ -1974,21 +2004,6 @@
     ],
     "sea @ det": [
         {
-            "player": "gleyber torres",
-            "game": "sea @ det",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-07-13 15:09:48",
-            "img": "https://www.mlbstatic.com/team-logos/116.svg",
-            "team": "det",
-            "start": "1:40 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "colt keith",
             "game": "sea @ det",
             "hr/park": "0/30",
@@ -1998,7 +2013,7 @@
             "team": "det",
             "start": "1:40 PM",
             "in": "5",
-            "result": "Lineout",
+            "result": "In Progress",
             "evo": "106.9",
             "la": "15",
             "dist": "320"
@@ -3150,6 +3165,21 @@
     ],
     "pit @ min": [
         {
+            "player": "matt wallner",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-13 15:10:03",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "carlos correa",
             "game": "pit @ min",
             "hr/park": "",
@@ -3611,10 +3641,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.7",
+            "la": "53",
+            "dist": "229"
         },
         {
             "player": "austin slater",
