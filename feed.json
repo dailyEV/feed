@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "82",
         "batters": "277",
-        "pitches": "2901",
+        "pitches": "2912",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "37.0",
-        "si%sinker %": "12.3",
+        "si%sinker %": "12.4",
         "fc%cutter %": "7.8",
         "fs%splitter %": "6.0",
         "ch%changeup %": "8.8",
         "sl%slider %": "17.8",
-        "cu%curve %": "10.3",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "206",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "36",
-        "brl%barrel %": "6.9",
-        "ab": "690",
+        "brl%barrel %": "6.8",
+        "ab": "691",
         "avg": ".223",
         "h": "154",
         "1b": "97",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "25",
         "so": "171",
-        "bipballs in play": "525",
+        "bipballs in play": "527",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:39:09.347202"
+        "updated": "2025-07-13 16:39:20.098601"
     },
     "tb @ bos": [
         {
@@ -1039,6 +1039,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "nick fortes",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-13 16:39:20",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "graham pauley",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1048,7 +1063,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3845,9 +3860,9 @@
             "start": "1:40 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "90.7",
+            "la": "4",
+            "dist": "85"
         },
         {
             "player": "parker meadows",
@@ -5001,7 +5016,7 @@
             "team": "nym",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "104.5",
             "la": "7",
             "dist": "127"
@@ -5758,6 +5773,21 @@
         }
     ],
     "tex @ hou": [
+        {
+            "player": "christian walker",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-13 16:39:20",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jose altuve",
             "game": "tex @ hou",
@@ -10323,10 +10353,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "86.0",
+            "la": "23",
+            "dist": "294"
         },
         {
             "player": "esteury ruiz",
