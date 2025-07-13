@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "79",
         "batters": "260",
-        "pitches": "2724",
+        "pitches": "2730",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.1",
+        "ff%fourseam fastball %": "37.2",
         "si%sinker %": "12.2",
-        "fc%cutter %": "7.9",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "6.2",
         "ch%changeup %": "8.8",
         "sl%slider %": "17.7",
-        "cu%curve %": "10.1",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "196",
-        "hh%hard hit %": "39.5",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "35",
-        "brl%barrel %": "7.1",
-        "ab": "651",
-        "avg": ".226",
+        "brl%barrel %": "7.0",
+        "ab": "652",
+        "avg": ".225",
         "h": "147",
         "1b": "91",
         "2b": "30",
         "3b": "2",
         "hr": "24",
         "so": "160",
-        "bipballs in play": "496",
+        "bipballs in play": "498",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:31:58.340533"
+        "updated": "2025-07-13 16:32:08.740058"
     },
     "tb @ bos": [
         {
@@ -1039,11 +1039,11 @@
     ],
     "mia @ bal": [
         {
-            "player": "ryan ohearn",
+            "player": "ramon laureano",
             "game": "mia @ bal",
             "hr/park": "",
-            "pa": "40",
-            "dt": "2025-07-13 16:31:18",
+            "pa": "41",
+            "dt": "2025-07-13 16:32:03",
             "img": "https://www.mlbstatic.com/team-logos/110.svg",
             "team": "bal",
             "start": "1:35 PM",
@@ -1052,6 +1052,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "ryan ohearn",
+            "game": "mia @ bal",
+            "hr/park": "11/30",
+            "pa": "40",
+            "dt": "2025-07-13 16:31:18",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "94.6",
+            "la": "35",
+            "dist": "360"
         },
         {
             "player": "dane myers",
@@ -3799,10 +3814,10 @@
             "team": "sea",
             "start": "1:40 PM",
             "in": "9",
-            "result": "Stolen Base 3B",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "94.6",
+            "la": "-21",
+            "dist": "5"
         },
         {
             "player": "julio rodriguez",
@@ -4886,21 +4901,6 @@
         }
     ],
     "nym @ kc": [
-        {
-            "player": "tyrone taylor",
-            "game": "nym @ kc",
-            "hr/park": "",
-            "pa": "48",
-            "dt": "2025-07-13 16:31:33",
-            "img": "https://www.mlbstatic.com/team-logos/121.svg",
-            "team": "nym",
-            "start": "2:10 PM",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "salvador perez",
             "game": "nym @ kc",
@@ -7607,6 +7607,21 @@
         }
     ],
     "cle @ chw": [
+        {
+            "player": "miguel vargas",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-13 16:32:03",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "luis robert",
             "game": "cle @ chw",
