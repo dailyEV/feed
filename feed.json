@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "191",
-        "pitches": "1610",
+        "batters": "192",
+        "pitches": "1617",
         "max velomax pitch velocity": "99.4",
-        "min velomin pitch velocity": "69.0",
+        "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "39.0",
-        "si%sinker %": "10.7",
+        "si%sinker %": "10.6",
         "fc%cutter %": "6.9",
         "fs%splitter %": "5.9",
-        "ch%changeup %": "8.9",
+        "ch%changeup %": "8.8",
         "sl%slider %": "16.6",
         "cu%curve %": "12.0",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "111",
-        "hh%hard hit %": "36.8",
+        "hh%hard hit %": "36.6",
         "brlbarrels": "23",
         "brl%barrel %": "7.6",
-        "ab": "387",
-        "avg": ".233",
+        "ab": "390",
+        "avg": ".231",
         "h": "90",
         "1b": "59",
         "2b": "18",
         "3b": "2",
         "hr": "11",
         "so": "88",
-        "bipballs in play": "302",
+        "bipballs in play": "303",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:34:02.084308"
+        "updated": "2025-07-13 15:34:10.974571"
     },
     "tb @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "76.5",
             "la": "4",
             "dist": "73"
@@ -829,6 +829,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "otto lopez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "9",
+            "dt": "2025-07-13 15:34:04",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle stowers",
             "game": "mia @ bal",
             "hr/park": "18/30",
@@ -950,6 +965,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "aaron judge",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-13 15:34:04",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "cody bellinger",
             "game": "chc @ nyy",
@@ -4165,7 +4195,7 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "61.0",
             "la": "57",
             "dist": "137"
@@ -4758,6 +4788,21 @@
     ],
     "cle @ chw": [
         {
+            "player": "brayan rocchio",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-13 15:34:04",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "2:10 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "johnathan rodriguez",
             "game": "cle @ chw",
             "hr/park": "",
@@ -4767,10 +4812,10 @@
             "team": "cle",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "76.0",
+            "la": "-55",
+            "dist": "3"
         },
         {
             "player": "edgar quero",
