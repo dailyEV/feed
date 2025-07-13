@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "194",
-        "pitches": "1681",
+        "batters": "195",
+        "pitches": "1682",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "38.5",
+        "ff%fourseam fastball %": "38.6",
         "si%sinker %": "10.7",
         "fc%cutter %": "7.1",
         "fs%splitter %": "6.2",
@@ -13,8 +13,8 @@
         "sl%slider %": "16.6",
         "cu%curve %": "11.9",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "117",
-        "hh%hard hit %": "37.0",
+        "hhhard hit": "118",
+        "hh%hard hit %": "37.2",
         "brlbarrels": "24",
         "brl%barrel %": "7.6",
         "ab": "407",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "12",
         "so": "93",
-        "bipballs in play": "316",
+        "bipballs in play": "317",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:37:59.610843"
+        "updated": "2025-07-13 15:38:08.483833"
     },
     "tb @ bos": [
         {
@@ -859,6 +859,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "graham pauley",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-13 15:38:04",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "dane myers",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1028,17 +1043,17 @@
         {
             "player": "giancarlo stanton",
             "game": "chc @ nyy",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "54",
             "dt": "2025-07-13 15:35:48",
             "img": "https://www.mlbstatic.com/team-logos/147.svg",
             "team": "nyy",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "99.5",
+            "la": "42",
+            "dist": "345"
         },
         {
             "player": "aaron judge",
@@ -4360,7 +4375,7 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "6",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "86.9",
             "la": "-5",
             "dist": "20"
@@ -5599,21 +5614,6 @@
         }
     ],
     "wsh @ mil": [
-        {
-            "player": "alex call",
-            "game": "wsh @ mil",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-07-13 15:37:48",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "2:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jacob young",
             "game": "wsh @ mil",
