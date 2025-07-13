@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "26",
         "batters": "183",
-        "pitches": "1387",
+        "pitches": "1394",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "39.5",
         "si%sinker %": "9.7",
         "fc%cutter %": "7.2",
-        "fs%splitter %": "6.3",
-        "ch%changeup %": "8.6",
+        "fs%splitter %": "6.2",
+        "ch%changeup %": "8.5",
         "sl%slider %": "16.7",
         "cu%curve %": "12.1",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "96",
-        "hh%hard hit %": "36.4",
+        "hhhard hit": "97",
+        "hh%hard hit %": "36.5",
         "brlbarrels": "21",
-        "brl%barrel %": "8.0",
-        "ab": "340",
+        "brl%barrel %": "7.9",
+        "ab": "341",
         "avg": ".226",
         "h": "77",
         "1b": "49",
         "2b": "16",
         "3b": "2",
         "hr": "10",
-        "so": "75",
-        "bipballs in play": "264",
+        "so": "76",
+        "bipballs in play": "266",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:20:53.843074"
+        "updated": "2025-07-13 15:21:02.991595"
     },
     "tb @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -793,10 +793,10 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "In Progress",
+            "evo": "100.8",
+            "la": "8",
+            "dist": "166"
         },
         {
             "player": "agustin ramirez",
@@ -855,7 +855,7 @@
             "team": "chc",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -3676,6 +3676,21 @@
     ],
     "pit @ min": [
         {
+            "player": "andrew mccutchen",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-07-13 15:21:03",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer horwitz",
             "game": "pit @ min",
             "hr/park": "",
@@ -3685,10 +3700,10 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "81.1",
+            "la": "30",
+            "dist": "264"
         },
         {
             "player": "isiah kiner falefa",
