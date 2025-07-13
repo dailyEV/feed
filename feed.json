@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "112",
         "batters": "305",
-        "pitches": "4039",
+        "pitches": "4041",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "34.2",
-        "si%sinker %": "14.4",
+        "si%sinker %": "14.5",
         "fc%cutter %": "7.9",
         "fs%splitter %": "4.9",
         "ch%changeup %": "8.6",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "38.7",
         "brlbarrels": "54",
         "brl%barrel %": "7.5",
-        "ab": "947",
+        "ab": "948",
         "avg": ".224",
         "h": "212",
         "1b": "136",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "32",
         "so": "250",
-        "bipballs in play": "718",
+        "bipballs in play": "719",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 18:34:27.740809"
+        "updated": "2025-07-13 18:34:40.323494"
     },
     "tb @ bos": [
         {
@@ -14520,6 +14520,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "edmundo sosa",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-13 18:34:33",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "4:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brandon marsh",
             "game": "phi @ sd",
             "hr/park": "",
@@ -14529,10 +14544,10 @@
             "team": "phi",
             "start": "4:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "89.8",
+            "la": "60",
+            "dist": "191"
         },
         {
             "player": "otto kemp",
