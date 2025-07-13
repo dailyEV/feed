@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "84",
-        "batters": "287",
-        "pitches": "3051",
+        "pitchers": "85",
+        "batters": "288",
+        "pitches": "3058",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "36.4",
-        "si%sinker %": "13.0",
+        "si%sinker %": "13.1",
         "fc%cutter %": "7.8",
         "fs%splitter %": "5.9",
         "ch%changeup %": "8.7",
         "sl%slider %": "18.1",
-        "cu%curve %": "10.2",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "216",
-        "hh%hard hit %": "39.3",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "36",
         "brl%barrel %": "6.5",
-        "ab": "722",
-        "avg": ".219",
+        "ab": "727",
+        "avg": ".217",
         "h": "158",
         "1b": "101",
         "2b": "30",
         "3b": "2",
         "hr": "25",
         "so": "184",
-        "bipballs in play": "550",
+        "bipballs in play": "554",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:47:38.983855"
+        "updated": "2025-07-13 16:47:49.945937"
     },
     "tb @ bos": [
         {
@@ -7983,6 +7983,21 @@
     ],
     "cle @ chw": [
         {
+            "player": "johnathan rodriguez",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-07-13 16:47:49",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "2:10 PM",
+            "in": "10",
+            "result": "Lineout",
+            "evo": "94.4",
+            "la": "9",
+            "dist": "162"
+        },
+        {
             "player": "chase meidroth",
             "game": "cle @ chw",
             "hr/park": "",
@@ -9050,6 +9065,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "paul dejong",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-13 16:47:20",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh bell",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -10087,6 +10117,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "matt olson",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-13 16:47:49",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "2:15 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jurickson profar",
             "game": "atl @ stl",
             "hr/park": "",
@@ -10638,7 +10683,7 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "4",
-            "result": "Walk",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10946,19 +10991,34 @@
     ],
     "tor @ ath": [
         {
-            "player": "myles straw",
+            "player": "will wagner",
             "game": "tor @ ath",
             "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-13 16:47:49",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "71.1",
+            "la": "-20",
+            "dist": "5"
+        },
+        {
+            "player": "myles straw",
+            "game": "tor @ ath",
+            "hr/park": "0/30",
             "pa": "19",
             "dt": "2025-07-13 16:46:03",
             "img": "https://www.mlbstatic.com/team-logos/141.svg",
             "team": "tor",
             "start": "4:05 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "92.0",
+            "la": "31",
+            "dist": "324"
         },
         {
             "player": "nathan lukes",
@@ -11243,9 +11303,9 @@
             "start": "4:07 PM",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "75.6",
+            "la": "-16",
+            "dist": "9"
         },
         {
             "player": "corbin carroll",
