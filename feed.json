@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "110",
         "batters": "262",
-        "pitches": "3623",
+        "pitches": "3629",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.4",
@@ -10,25 +10,25 @@
         "fc%cutter %": "8.7",
         "fs%splitter %": "3.1",
         "ch%changeup %": "8.7",
-        "sl%slider %": "21.6",
+        "sl%slider %": "21.7",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "114.5",
-        "hhhard hit": "268",
-        "hh%hard hit %": "39.8",
+        "hhhard hit": "269",
+        "hh%hard hit %": "39.9",
         "brlbarrels": "51",
         "brl%barrel %": "7.6",
-        "ab": "855",
-        "avg": ".236",
-        "h": "202",
-        "1b": "124",
+        "ab": "856",
+        "avg": ".237",
+        "h": "203",
+        "1b": "125",
         "2b": "43",
         "3b": "4",
         "hr": "31",
         "so": "211",
-        "bipballs in play": "673",
+        "bipballs in play": "674",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-12 22:03:34.366638"
+        "updated": "2025-07-12 22:03:45.782010"
     },
     "chc @ nyy": [
         {
@@ -12189,6 +12189,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "kyle higashioka",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-12 22:03:42",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jonah heim",
             "game": "tex @ hou",
             "hr/park": "",
@@ -12198,10 +12213,10 @@
             "team": "tex",
             "start": "7:35 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "105.9",
+            "la": "4",
+            "dist": "100"
         },
         {
             "player": "wyatt langford",
@@ -13145,7 +13160,7 @@
             "team": "phi",
             "start": "7:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "75.0",
             "la": "39",
             "dist": "243"
