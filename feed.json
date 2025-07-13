@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "18",
         "batters": "150",
-        "pitches": "844",
+        "pitches": "847",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "43.6",
+        "ff%fourseam fastball %": "43.7",
         "si%sinker %": "8.9",
-        "fc%cutter %": "5.6",
-        "fs%splitter %": "5.5",
-        "ch%changeup %": "8.1",
+        "fc%cutter %": "5.5",
+        "fs%splitter %": "5.4",
+        "ch%changeup %": "8.0",
         "sl%slider %": "18.2",
-        "cu%curve %": "10.2",
+        "cu%curve %": "10.3",
         "max evmax exit velocity": "110.3",
         "hhhard hit": "56",
         "hh%hard hit %": "36.8",
         "brlbarrels": "11",
         "brl%barrel %": "7.2",
-        "ab": "195",
-        "avg": ".231",
-        "h": "45",
-        "1b": "30",
+        "ab": "197",
+        "avg": ".234",
+        "h": "46",
+        "1b": "31",
         "2b": "8",
         "3b": "1",
         "hr": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "152",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:47:40.714345"
+        "updated": "2025-07-13 14:47:48.960340"
     },
     "tb @ bos": [
         {
@@ -1041,6 +1041,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "connor joe",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-13 14:47:47",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "santiago espinal",
             "game": "col @ cin",
@@ -2236,7 +2251,7 @@
         {
             "player": "kody clemens",
             "game": "pit @ min",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "18",
             "dt": "2025-07-13 14:47:03",
             "img": "https://www.mlbstatic.com/team-logos/142.svg",
@@ -3035,6 +3050,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "brendan donovan",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-13 14:47:47",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "2",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "victor scott",
             "game": "atl @ stl",
             "hr/park": "",
@@ -3044,7 +3074,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "95.5",
             "la": "-16",
             "dist": "10"
