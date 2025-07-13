@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "39",
+        "pitchers": "40",
         "batters": "201",
-        "pitches": "1903",
+        "pitches": "1913",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.8",
+        "ff%fourseam fastball %": "37.9",
         "si%sinker %": "11.4",
         "fc%cutter %": "7.7",
         "fs%splitter %": "6.3",
-        "ch%changeup %": "8.8",
-        "sl%slider %": "16.5",
+        "ch%changeup %": "8.7",
+        "sl%slider %": "16.4",
         "cu%curve %": "11.6",
-        "max evmax exit velocity": "110.7",
-        "hhhard hit": "137",
-        "hh%hard hit %": "38.7",
+        "max evmax exit velocity": "113.7",
+        "hhhard hit": "138",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "26",
         "brl%barrel %": "7.3",
-        "ab": "459",
-        "avg": ".233",
-        "h": "107",
+        "ab": "463",
+        "avg": ".235",
+        "h": "109",
         "1b": "71",
-        "2b": "20",
+        "2b": "22",
         "3b": "2",
         "hr": "14",
         "so": "106",
-        "bipballs in play": "354",
+        "bipballs in play": "356",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:50:56.212841"
+        "updated": "2025-07-13 15:51:05.680941"
     },
     "tb @ bos": [
         {
@@ -949,6 +949,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "agustin ramirez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-13 15:51:04",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jesus sanchez",
             "game": "mia @ bal",
             "hr/park": "",
@@ -958,10 +973,10 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "113.7",
+            "la": "10",
+            "dist": "215"
         },
         {
             "player": "xavier edwards",
@@ -2122,6 +2137,36 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "austin hays",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-13 15:50:34",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "elly de la cruz",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-13 15:50:34",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "Double",
+            "evo": "78.3",
+            "la": "26",
+            "dist": "269"
+        },
         {
             "player": "mickey moniak",
             "game": "col @ cin",
@@ -4980,6 +5025,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "isiah kiner falefa",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-13 15:51:04",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "henry davis",
             "game": "pit @ min",
