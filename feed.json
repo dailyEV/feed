@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "33",
         "batters": "195",
-        "pitches": "1709",
+        "pitches": "1716",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "38.6",
-        "si%sinker %": "10.6",
+        "ff%fourseam fastball %": "38.4",
+        "si%sinker %": "10.7",
         "fc%cutter %": "7.3",
-        "fs%splitter %": "6.1",
-        "ch%changeup %": "9.0",
-        "sl%slider %": "16.6",
+        "fs%splitter %": "6.2",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "16.5",
         "cu%curve %": "11.9",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "118",
-        "hh%hard hit %": "37.0",
+        "hh%hard hit %": "36.8",
         "brlbarrels": "24",
         "brl%barrel %": "7.5",
         "ab": "411",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "12",
         "so": "93",
-        "bipballs in play": "319",
+        "bipballs in play": "321",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:39:13.362771"
+        "updated": "2025-07-13 15:39:22.562399"
     },
     "tb @ bos": [
         {
@@ -1868,6 +1868,21 @@
     ],
     "col @ cin": [
         {
+            "player": "austin nola",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-13 15:39:17",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle farmer",
             "game": "col @ cin",
             "hr/park": "",
@@ -2689,10 +2704,10 @@
             "team": "sea",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.8",
+            "la": "-14",
+            "dist": "7"
         },
         {
             "player": "dominic canzone",
@@ -3833,10 +3848,10 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "77.9",
+            "la": "71",
+            "dist": "93"
         },
         {
             "player": "cooper hummel",
@@ -4425,21 +4440,6 @@
         }
     ],
     "pit @ min": [
-        {
-            "player": "kebryan hayes",
-            "game": "pit @ min",
-            "hr/park": "",
-            "pa": "44",
-            "dt": "2025-07-13 15:38:48",
-            "img": "https://www.mlbstatic.com/team-logos/134.svg",
-            "team": "pit",
-            "start": "2:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "jack suwinski",
             "game": "pit @ min",
@@ -5714,7 +5714,7 @@
             "team": "wsh",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
