@@ -2,25 +2,25 @@
     "all": {
         "pitchers": "18",
         "batters": "143",
-        "pitches": "779",
+        "pitches": "786",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "44.4",
-        "si%sinker %": "8.6",
-        "fc%cutter %": "5.8",
-        "fs%splitter %": "4.7",
-        "ch%changeup %": "8.2",
+        "ff%fourseam fastball %": "44.5",
+        "si%sinker %": "8.5",
+        "fc%cutter %": "5.7",
+        "fs%splitter %": "4.8",
+        "ch%changeup %": "8.3",
         "sl%slider %": "18.2",
-        "cu%curve %": "10.0",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "110.3",
         "hhhard hit": "51",
         "hh%hard hit %": "36.4",
         "brlbarrels": "10",
         "brl%barrel %": "7.1",
-        "ab": "179",
-        "avg": ".235",
-        "h": "42",
-        "1b": "27",
+        "ab": "181",
+        "avg": ".227",
+        "h": "41",
+        "1b": "26",
         "2b": "8",
         "3b": "1",
         "hr": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "140",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:44:13.692101"
+        "updated": "2025-07-13 14:44:21.813545"
     },
     "tb @ bos": [
         {
@@ -554,7 +554,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1011,6 +1011,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "santiago espinal",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-07-13 14:44:17",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tyler stephenson",
             "game": "col @ cin",
@@ -1478,6 +1493,21 @@
         }
     ],
     "sea @ det": [
+        {
+            "player": "luke raley",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-13 14:44:17",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "randy arozarena",
             "game": "sea @ det",
@@ -2577,7 +2607,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "2",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "103.5",
             "la": "6",
             "dist": "109"
