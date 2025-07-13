@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "62",
-        "batters": "221",
-        "pitches": "2326",
+        "batters": "223",
+        "pitches": "2334",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "37.7",
-        "si%sinker %": "11.8",
+        "si%sinker %": "11.9",
         "fc%cutter %": "7.4",
         "fs%splitter %": "6.2",
-        "ch%changeup %": "8.6",
+        "ch%changeup %": "8.5",
         "sl%slider %": "17.6",
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "166",
-        "hh%hard hit %": "39.1",
+        "hh%hard hit %": "38.9",
         "brlbarrels": "30",
-        "brl%barrel %": "7.1",
-        "ab": "559",
+        "brl%barrel %": "7.0",
+        "ab": "563",
         "avg": ".224",
-        "h": "125",
-        "1b": "79",
+        "h": "126",
+        "1b": "80",
         "2b": "25",
         "3b": "2",
         "hr": "19",
         "so": "135",
-        "bipballs in play": "425",
+        "bipballs in play": "427",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:14:02.302287"
+        "updated": "2025-07-13 16:14:12.148551"
     },
     "tb @ bos": [
         {
@@ -1048,7 +1048,7 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5986,6 +5986,21 @@
     ],
     "pit @ min": [
         {
+            "player": "byron buxton",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-13 16:13:35",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "Single",
+            "evo": "91.8",
+            "la": "-13",
+            "dist": "13"
+        },
+        {
             "player": "christian vazquez",
             "game": "pit @ min",
             "hr/park": "",
@@ -7685,6 +7700,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "jacob young",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-13 16:13:18",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "isaac collins",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -8859,6 +8889,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "rafael devers",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-13 16:13:18",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "66.0",
+            "la": "-38",
+            "dist": "5"
+        },
+        {
             "player": "heliot ramos",
             "game": "lad @ sf",
             "hr/park": "",
@@ -8982,6 +9027,21 @@
         }
     ],
     "ari @ laa": [
+        {
+            "player": "geraldo perdomo",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-07-13 16:14:05",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "4:07 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jake mccarthy",
             "game": "ari @ laa",
