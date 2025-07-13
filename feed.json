@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "85",
         "batters": "288",
-        "pitches": "3071",
+        "pitches": "3075",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "36.3",
@@ -13,22 +13,22 @@
         "sl%slider %": "18.1",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "216",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "217",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "36",
         "brl%barrel %": "6.5",
-        "ab": "728",
-        "avg": ".217",
+        "ab": "730",
+        "avg": ".216",
         "h": "158",
         "1b": "101",
         "2b": "30",
         "3b": "2",
         "hr": "25",
         "so": "185",
-        "bipballs in play": "553",
+        "bipballs in play": "556",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:48:46.056421"
+        "updated": "2025-07-13 16:48:56.962359"
     },
     "tb @ bos": [
         {
@@ -11332,10 +11332,10 @@
             "team": "ari",
             "start": "4:07 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "75.6",
+            "la": "-16",
+            "dist": "9"
         },
         {
             "player": "corbin carroll",
@@ -11609,6 +11609,36 @@
         }
     ],
     "phi @ sd": [
+        {
+            "player": "nick castellanos",
+            "game": "phi @ sd",
+            "hr/park": "0/30",
+            "pa": "22",
+            "dt": "2025-07-13 16:48:49",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "93.0",
+            "la": "39",
+            "dist": "331"
+        },
+        {
+            "player": "bryce harper",
+            "game": "phi @ sd",
+            "hr/park": "0/30",
+            "pa": "21",
+            "dt": "2025-07-13 16:48:49",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "4:10 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "95.4",
+            "la": "25",
+            "dist": "331"
+        },
         {
             "player": "trea turner",
             "game": "phi @ sd",
