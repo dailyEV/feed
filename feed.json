@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "82",
+        "pitchers": "83",
         "batters": "280",
-        "pitches": "2953",
+        "pitches": "2962",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "36.9",
-        "si%sinker %": "12.5",
+        "si%sinker %": "12.6",
         "fc%cutter %": "7.8",
         "fs%splitter %": "6.0",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.8",
         "sl%slider %": "17.7",
-        "cu%curve %": "10.3",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "208",
-        "hh%hard hit %": "39.1",
+        "hhhard hit": "209",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "36",
         "brl%barrel %": "6.8",
-        "ab": "699",
-        "avg": ".222",
+        "ab": "702",
+        "avg": ".221",
         "h": "155",
         "1b": "98",
         "2b": "30",
         "3b": "2",
         "hr": "25",
-        "so": "174",
-        "bipballs in play": "532",
+        "so": "176",
+        "bipballs in play": "533",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:41:52.706934"
+        "updated": "2025-07-13 16:42:03.848080"
     },
     "tb @ bos": [
         {
@@ -1039,6 +1039,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "xavier edwards",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-13 16:42:03",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick fortes",
             "game": "mia @ bal",
             "hr/park": "",
@@ -1048,7 +1063,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5789,6 +5804,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "victor caratini",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-07-13 16:41:33",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "96.1",
+            "la": "1",
+            "dist": "61"
+        },
+        {
             "player": "christian walker",
             "game": "tex @ hou",
             "hr/park": "",
@@ -7892,6 +7922,21 @@
         }
     ],
     "cle @ chw": [
+        {
+            "player": "colson montgomery",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-13 16:42:03",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "angel martinez",
             "game": "cle @ chw",
@@ -11199,7 +11244,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
