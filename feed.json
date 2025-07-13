@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "177",
-        "pitches": "1305",
+        "batters": "179",
+        "pitches": "1308",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "40.2",
+        "ff%fourseam fastball %": "40.3",
         "si%sinker %": "9.8",
         "fc%cutter %": "6.5",
-        "fs%splitter %": "5.7",
+        "fs%splitter %": "5.8",
         "ch%changeup %": "8.4",
         "sl%slider %": "17.2",
         "cu%curve %": "12.0",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "91",
-        "hh%hard hit %": "37.0",
+        "hhhard hit": "92",
+        "hh%hard hit %": "36.9",
         "brlbarrels": "21",
-        "brl%barrel %": "8.5",
-        "ab": "318",
+        "brl%barrel %": "8.4",
+        "ab": "319",
         "avg": ".226",
         "h": "72",
         "1b": "47",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "9",
         "so": "70",
-        "bipballs in play": "246",
+        "bipballs in play": "249",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:16:01.714758"
+        "updated": "2025-07-13 15:16:10.325910"
     },
     "tb @ bos": [
         {
@@ -754,19 +754,49 @@
     ],
     "mia @ bal": [
         {
-            "player": "xavier edwards",
+            "player": "agustin ramirez",
             "game": "mia @ bal",
             "hr/park": "",
+            "pa": "3",
+            "dt": "2025-07-13 15:16:04",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "jesus sanchez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-13 15:16:04",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "100.9",
+            "la": "59",
+            "dist": "235"
+        },
+        {
+            "player": "xavier edwards",
+            "game": "mia @ bal",
+            "hr/park": "0/30",
             "pa": "1",
             "dt": "2025-07-13 15:15:18",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "1:35 PM",
             "in": "1",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "86.9",
+            "la": "35",
+            "dist": "318"
         }
     ],
     "chc @ nyy": [
@@ -2751,7 +2781,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": ""
