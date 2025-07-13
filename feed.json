@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "62",
-        "pitches": "249",
+        "batters": "61",
+        "pitches": "251",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "43.8",
-        "si%sinker %": "12.9",
+        "ff%fourseam fastball %": "43.4",
+        "si%sinker %": "13.1",
         "fc%cutter %": "4.4",
-        "fs%splitter %": "4.0",
+        "fs%splitter %": "4.4",
         "ch%changeup %": "9.2",
-        "sl%slider %": "18.9",
+        "sl%slider %": "18.7",
         "cu%curve %": "6.8",
         "max evmax exit velocity": "108.0",
-        "hhhard hit": "15",
-        "hh%hard hit %": "31.9",
+        "hhhard hit": "16",
+        "hh%hard hit %": "33.3",
         "brlbarrels": "3",
-        "brl%barrel %": "6.4",
+        "brl%barrel %": "6.3",
         "ab": "58",
         "avg": ".224",
         "h": "13",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "3",
         "so": "10",
-        "bipballs in play": "47",
+        "bipballs in play": "48",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-13 14:11:42.385679"
+        "updated": "2025-07-13 14:11:50.006919"
     },
     "tb @ bos": [
         {
@@ -314,10 +314,10 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "103.2",
+            "la": "61",
+            "dist": "216"
         },
         {
             "player": "jasson dominguez",
@@ -561,6 +561,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "tyler freeman",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-13 14:11:47",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "ryan ritter",
             "game": "col @ cin",
@@ -818,21 +833,6 @@
         }
     ],
     "sea @ det": [
-        {
-            "player": "ben williamson",
-            "game": "sea @ det",
-            "hr/park": "",
-            "pa": "14",
-            "dt": "2025-07-13 14:11:33",
-            "img": "https://www.mlbstatic.com/team-logos/136.svg",
-            "team": "sea",
-            "start": "1:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "dominic canzone",
             "game": "sea @ det",
