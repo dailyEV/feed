@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "98",
-        "batters": "237",
-        "pitches": "3156",
+        "batters": "238",
+        "pitches": "3158",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
-        "ff%fourseam fastball %": "31.4",
+        "ff%fourseam fastball %": "31.3",
         "si%sinker %": "15.5",
         "fc%cutter %": "9.6",
         "fs%splitter %": "3.2",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "38.7",
         "brlbarrels": "45",
         "brl%barrel %": "7.5",
-        "ab": "750",
+        "ab": "751",
         "avg": ".240",
         "h": "180",
         "1b": "113",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "26",
         "so": "178",
-        "bipballs in play": "599",
+        "bipballs in play": "600",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-12 20:00:37.407902"
+        "updated": "2025-07-12 20:00:48.567241"
     },
     "chc @ nyy": [
         {
@@ -12189,6 +12189,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "josh smith",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-12 20:00:40",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kyle higashioka",
             "game": "tex @ hou",
             "hr/park": "",
@@ -12198,10 +12213,10 @@
             "team": "tex",
             "start": "7:35 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "93.8",
+            "la": "-12",
+            "dist": "11"
         },
         {
             "player": "christian walker",
