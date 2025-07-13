@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "143",
-        "pitches": "789",
+        "batters": "146",
+        "pitches": "799",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "44.6",
-        "si%sinker %": "8.5",
-        "fc%cutter %": "5.7",
-        "fs%splitter %": "4.8",
-        "ch%changeup %": "8.4",
-        "sl%slider %": "18.1",
-        "cu%curve %": "9.9",
+        "ff%fourseam fastball %": "44.4",
+        "si%sinker %": "8.6",
+        "fc%cutter %": "5.6",
+        "fs%splitter %": "5.0",
+        "ch%changeup %": "8.3",
+        "sl%slider %": "18.0",
+        "cu%curve %": "10.0",
         "max evmax exit velocity": "110.3",
         "hhhard hit": "51",
         "hh%hard hit %": "36.4",
         "brlbarrels": "10",
         "brl%barrel %": "7.1",
-        "ab": "182",
-        "avg": ".225",
-        "h": "41",
-        "1b": "26",
+        "ab": "186",
+        "avg": ".226",
+        "h": "42",
+        "1b": "27",
         "2b": "8",
         "3b": "1",
         "hr": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "140",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:44:46.636508"
+        "updated": "2025-07-13 14:44:55.032438"
     },
     "tb @ bos": [
         {
@@ -569,7 +569,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1947,6 +1947,21 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
+            "player": "victor caratini",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-13 14:44:49",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "josh smith",
             "game": "tex @ hou",
             "hr/park": "",
@@ -2158,6 +2173,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "royce lewis",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-07-13 14:44:49",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "matt wallner",
             "game": "pit @ min",
@@ -2401,6 +2431,21 @@
     ],
     "cle @ chw": [
         {
+            "player": "johnathan rodriguez",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-13 14:44:49",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "miguel vargas",
             "game": "cle @ chw",
             "hr/park": "",
@@ -2613,6 +2658,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "sal frelick",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-07-13 14:44:49",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "anthony seigler",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -2622,7 +2682,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "103.5",
             "la": "6",
             "dist": "109"
