@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "80",
-        "batters": "270",
-        "pitches": "2830",
+        "batters": "274",
+        "pitches": "2837",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "36.9",
         "si%sinker %": "12.4",
-        "fc%cutter %": "7.8",
+        "fc%cutter %": "7.9",
         "fs%splitter %": "6.1",
-        "ch%changeup %": "8.9",
+        "ch%changeup %": "8.8",
         "sl%slider %": "17.6",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "202",
-        "hh%hard hit %": "39.4",
+        "hhhard hit": "204",
+        "hh%hard hit %": "39.6",
         "brlbarrels": "36",
         "brl%barrel %": "7.0",
-        "ab": "672",
+        "ab": "676",
         "avg": ".225",
-        "h": "151",
+        "h": "152",
         "1b": "95",
         "2b": "30",
         "3b": "2",
-        "hr": "24",
+        "hr": "25",
         "so": "166",
-        "bipballs in play": "513",
+        "bipballs in play": "515",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:36:26.812334"
+        "updated": "2025-07-13 16:36:37.323330"
     },
     "tb @ bos": [
         {
@@ -8759,7 +8759,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10391,11 +10391,11 @@
     ],
     "tor @ ath": [
         {
-            "player": "austin wynns",
+            "player": "denzel clarke",
             "game": "tor @ ath",
             "hr/park": "",
-            "pa": "14",
-            "dt": "2025-07-13 16:36:03",
+            "pa": "15",
+            "dt": "2025-07-13 16:36:33",
             "img": "https://www.mlbstatic.com/team-logos/133.svg",
             "team": "ath",
             "start": "4:05 PM",
@@ -10404,6 +10404,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "austin wynns",
+            "game": "tor @ ath",
+            "hr/park": "30/30",
+            "pa": "14",
+            "dt": "2025-07-13 16:36:03",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "Home Run",
+            "evo": "103.6",
+            "la": "43",
+            "dist": "387"
         },
         {
             "player": "max muncy",
@@ -10603,6 +10618,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "logan ohoppe",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-13 16:36:33",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "4:07 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "yoan moncada",
             "game": "ari @ laa",
             "hr/park": "",
@@ -10799,6 +10829,36 @@
         }
     ],
     "phi @ sd": [
+        {
+            "player": "edmundo sosa",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-13 16:36:33",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "brandon marsh",
+            "game": "phi @ sd",
+            "hr/park": "0/30",
+            "pa": "14",
+            "dt": "2025-07-13 16:36:33",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "4:10 PM",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "102.8",
+            "la": "41",
+            "dist": "344"
+        },
         {
             "player": "jose iglesias",
             "game": "phi @ sd",
