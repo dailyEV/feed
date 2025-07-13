@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "8",
-        "batters": "45",
-        "pitches": "166",
+        "batters": "44",
+        "pitches": "167",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "44.0",
-        "si%sinker %": "13.9",
+        "ff%fourseam fastball %": "43.1",
+        "si%sinker %": "14.4",
         "fc%cutter %": "4.8",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "9.0",
-        "sl%slider %": "18.1",
+        "ch%changeup %": "9.6",
+        "sl%slider %": "18.0",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "108.0",
         "hhhard hit": "10",
         "hh%hard hit %": "32.3",
         "brlbarrels": "2",
         "brl%barrel %": "6.5",
-        "ab": "42",
-        "avg": ".190",
+        "ab": "41",
+        "avg": ".195",
         "h": "8",
         "1b": "6",
         "2b": "0",
@@ -28,7 +28,7 @@
         "bipballs in play": "31",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-07-13 14:01:27.315767"
+        "updated": "2025-07-13 14:01:34.862966"
     },
     "tb @ bos": [
         {
@@ -215,6 +215,21 @@
     "mia @ bal": [],
     "chc @ nyy": [
         {
+            "player": "michael busch",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-13 14:01:04",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "vidal brujan",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -397,21 +412,6 @@
     ],
     "col @ cin": [
         {
-            "player": "noelvi marte",
-            "game": "col @ cin",
-            "hr/park": "",
-            "pa": "12",
-            "dt": "2025-07-13 14:01:18",
-            "img": "https://www.mlbstatic.com/team-logos/113.svg",
-            "team": "cin",
-            "start": "1:40 PM",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "spencer steer",
             "game": "col @ cin",
             "hr/park": "",
@@ -588,7 +588,7 @@
             "team": "det",
             "start": "1:40 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": ""
