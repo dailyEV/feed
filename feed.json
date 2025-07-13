@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "24",
-        "batters": "181",
-        "pitches": "1380",
+        "pitchers": "26",
+        "batters": "183",
+        "pitches": "1387",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "39.6",
-        "si%sinker %": "9.6",
+        "ff%fourseam fastball %": "39.5",
+        "si%sinker %": "9.7",
         "fc%cutter %": "7.2",
         "fs%splitter %": "6.3",
         "ch%changeup %": "8.6",
         "sl%slider %": "16.7",
         "cu%curve %": "12.1",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "95",
-        "hh%hard hit %": "36.1",
+        "hhhard hit": "96",
+        "hh%hard hit %": "36.4",
         "brlbarrels": "21",
         "brl%barrel %": "8.0",
-        "ab": "337",
+        "ab": "340",
         "avg": ".226",
-        "h": "76",
+        "h": "77",
         "1b": "49",
-        "2b": "15",
+        "2b": "16",
         "3b": "2",
         "hr": "10",
-        "so": "74",
-        "bipballs in play": "263",
+        "so": "75",
+        "bipballs in play": "264",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:20:45.049603"
+        "updated": "2025-07-13 15:20:53.843074"
     },
     "tb @ bos": [
         {
@@ -784,6 +784,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "jackson holliday",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-07-13 15:20:47",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "agustin ramirez",
             "game": "mia @ bal",
             "hr/park": "",
@@ -830,6 +845,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "michael busch",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-13 15:20:47",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "paul goldschmidt",
             "game": "chc @ nyy",
@@ -2907,6 +2937,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "freddy fermin",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-07-13 15:20:47",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "john rave",
             "game": "nym @ kc",
             "hr/park": "",
@@ -3158,7 +3203,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4152,10 +4197,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Double",
+            "evo": "100.6",
+            "la": "20",
+            "dist": "260"
         },
         {
             "player": "angel martinez",
