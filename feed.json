@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "68",
-        "batters": "239",
-        "pitches": "2490",
+        "batters": "240",
+        "pitches": "2491",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "37.1",
@@ -13,11 +13,11 @@
         "sl%slider %": "17.8",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "175",
-        "hh%hard hit %": "38.5",
+        "hhhard hit": "176",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "30",
         "brl%barrel %": "6.6",
-        "ab": "597",
+        "ab": "598",
         "avg": ".216",
         "h": "129",
         "1b": "82",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "19",
         "so": "146",
-        "bipballs in play": "455",
+        "bipballs in play": "456",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:21:28.867725"
+        "updated": "2025-07-13 16:21:38.994744"
     },
     "tb @ bos": [
         {
@@ -3694,7 +3694,7 @@
             "team": "sea",
             "start": "1:40 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6241,6 +6241,21 @@
     ],
     "pit @ min": [
         {
+            "player": "oneil cruz",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-13 16:21:03",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "kebryan hayes",
             "game": "pit @ min",
             "hr/park": "",
@@ -7213,9 +7228,9 @@
             "start": "2:10 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "95.7",
+            "la": "11",
+            "dist": "165"
         },
         {
             "player": "steven kwan",
