@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "63",
         "batters": "229",
-        "pitches": "2413",
+        "pitches": "2417",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "37.3",
         "si%sinker %": "11.9",
-        "fc%cutter %": "7.3",
+        "fc%cutter %": "7.4",
         "fs%splitter %": "6.2",
         "ch%changeup %": "8.6",
         "sl%slider %": "18.0",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.5",
         "brlbarrels": "30",
         "brl%barrel %": "6.8",
-        "ab": "578",
-        "avg": ".218",
+        "ab": "581",
+        "avg": ".217",
         "h": "126",
         "1b": "80",
         "2b": "25",
         "3b": "2",
         "hr": "19",
-        "so": "142",
+        "so": "143",
         "bipballs in play": "441",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:17:53.416273"
+        "updated": "2025-07-13 16:18:03.467435"
     },
     "tb @ bos": [
         {
@@ -1038,6 +1038,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "jesus sanchez",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-13 16:18:03",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gunnar henderson",
             "game": "mia @ bal",
@@ -3625,6 +3640,21 @@
     ],
     "sea @ det": [
         {
+            "player": "wenceel perez",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-13 16:18:03",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "zach mckinstry",
             "game": "sea @ det",
             "hr/park": "",
@@ -5234,6 +5264,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "zack short",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-13 16:18:03",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cooper hummel",
             "game": "tex @ hou",
             "hr/park": "",
@@ -5243,7 +5288,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
