@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "52",
-        "batters": "209",
-        "pitches": "2194",
+        "pitchers": "53",
+        "batters": "210",
+        "pitches": "2201",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.9",
+        "ff%fourseam fastball %": "37.8",
         "si%sinker %": "11.5",
         "fc%cutter %": "7.4",
         "fs%splitter %": "6.5",
         "ch%changeup %": "8.9",
         "sl%slider %": "16.9",
-        "cu%curve %": "10.9",
+        "cu%curve %": "11.0",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "157",
         "hh%hard hit %": "39.2",
         "brlbarrels": "29",
         "brl%barrel %": "7.2",
-        "ab": "527",
-        "avg": ".231",
+        "ab": "530",
+        "avg": ".230",
         "h": "122",
         "1b": "78",
         "2b": "24",
@@ -28,7 +28,7 @@
         "bipballs in play": "401",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-13 16:07:27.100299"
+        "updated": "2025-07-13 16:07:36.944072"
     },
     "tb @ bos": [
         {
@@ -3460,6 +3460,21 @@
     ],
     "sea @ det": [
         {
+            "player": "randy arozarena",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-07-13 16:07:33",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "cal raleigh",
             "game": "sea @ det",
             "hr/park": "",
@@ -5731,6 +5746,21 @@
     ],
     "pit @ min": [
         {
+            "player": "nick gonzales",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-07-13 16:07:33",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryan reynolds",
             "game": "pit @ min",
             "hr/park": "",
@@ -5740,7 +5770,7 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "64.2",
             "la": "16",
             "dist": "139"
@@ -8482,7 +8512,23 @@
             "dist": "353"
         }
     ],
-    "lad @ sf": [],
+    "lad @ sf": [
+        {
+            "player": "shohei ohtani",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-13 16:07:33",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "tor @ ath": [
         {
             "player": "ernie clement",
