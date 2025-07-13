@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "51",
-        "batters": "208",
-        "pitches": "2187",
+        "pitchers": "52",
+        "batters": "209",
+        "pitches": "2194",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.8",
+        "ff%fourseam fastball %": "37.9",
         "si%sinker %": "11.5",
-        "fc%cutter %": "7.5",
-        "fs%splitter %": "6.4",
+        "fc%cutter %": "7.4",
+        "fs%splitter %": "6.5",
         "ch%changeup %": "8.9",
-        "sl%slider %": "16.8",
-        "cu%curve %": "11.0",
+        "sl%slider %": "16.9",
+        "cu%curve %": "10.9",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "155",
-        "hh%hard hit %": "38.8",
-        "brlbarrels": "28",
-        "brl%barrel %": "7.0",
-        "ab": "525",
-        "avg": ".230",
-        "h": "121",
+        "hhhard hit": "157",
+        "hh%hard hit %": "39.2",
+        "brlbarrels": "29",
+        "brl%barrel %": "7.2",
+        "ab": "527",
+        "avg": ".231",
+        "h": "122",
         "1b": "78",
-        "2b": "23",
+        "2b": "24",
         "3b": "2",
         "hr": "18",
-        "so": "127",
-        "bipballs in play": "399",
+        "so": "128",
+        "bipballs in play": "401",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-13 16:07:17.530010"
+        "updated": "2025-07-13 16:07:27.100299"
     },
     "tb @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1038,6 +1038,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "nick fortes",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-13 16:07:20",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "Double",
+            "evo": "108.2",
+            "la": "16",
+            "dist": "376"
+        },
         {
             "player": "graham pauley",
             "game": "mia @ bal",
@@ -6553,9 +6568,9 @@
             "start": "2:10 PM",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "95.5",
+            "la": "-7",
+            "dist": "13"
         },
         {
             "player": "angel martinez",
@@ -8468,7 +8483,23 @@
         }
     ],
     "lad @ sf": [],
-    "tor @ ath": [],
+    "tor @ ath": [
+        {
+            "player": "ernie clement",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-13 16:07:20",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "ari @ laa": [],
     "phi @ sd": []
 }
