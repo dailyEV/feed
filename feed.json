@@ -1,9 +1,9 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "187",
-        "pitches": "1514",
-        "max velomax pitch velocity": "99.0",
+        "batters": "188",
+        "pitches": "1516",
+        "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "39.1",
         "si%sinker %": "10.6",
@@ -14,21 +14,21 @@
         "cu%curve %": "12.0",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "105",
-        "hh%hard hit %": "37.1",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "22",
-        "brl%barrel %": "7.8",
-        "ab": "362",
-        "avg": ".238",
-        "h": "86",
-        "1b": "56",
+        "brl%barrel %": "7.7",
+        "ab": "363",
+        "avg": ".234",
+        "h": "85",
+        "1b": "55",
         "2b": "18",
         "3b": "2",
         "hr": "10",
         "so": "81",
-        "bipballs in play": "283",
+        "bipballs in play": "284",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:27:56.973802"
+        "updated": "2025-07-13 15:28:06.169673"
     },
     "tb @ bos": [
         {
@@ -799,6 +799,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "ryan ohearn",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-13 15:28:03",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "gunnar henderson",
             "game": "mia @ bal",
             "hr/park": "",
@@ -808,10 +823,10 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Fielders Choice Out",
+            "evo": "74.9",
+            "la": "-12",
+            "dist": "12"
         },
         {
             "player": "jordan westburg",
@@ -4452,7 +4467,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "101.3",
             "la": "11",
             "dist": "200"
