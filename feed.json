@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "27",
-        "batters": "185",
-        "pitches": "1469",
+        "batters": "186",
+        "pitches": "1480",
         "max velomax pitch velocity": "98.5",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "39.3",
-        "si%sinker %": "10.2",
-        "fc%cutter %": "7.1",
-        "fs%splitter %": "6.3",
+        "si%sinker %": "10.3",
+        "fc%cutter %": "7.0",
+        "fs%splitter %": "6.1",
         "ch%changeup %": "8.6",
-        "sl%slider %": "16.7",
-        "cu%curve %": "11.8",
+        "sl%slider %": "16.8",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "102",
-        "hh%hard hit %": "36.8",
+        "hhhard hit": "104",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "22",
         "brl%barrel %": "7.9",
-        "ab": "355",
-        "avg": ".231",
-        "h": "82",
+        "ab": "358",
+        "avg": ".232",
+        "h": "83",
         "1b": "54",
-        "2b": "16",
+        "2b": "17",
         "3b": "2",
         "hr": "10",
         "so": "79",
-        "bipballs in play": "277",
+        "bipballs in play": "280",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:25:13.109490"
+        "updated": "2025-07-13 15:25:21.868629"
     },
     "tb @ bos": [
         {
@@ -799,6 +799,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "gunnar henderson",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-13 15:25:19",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "jordan westburg",
             "game": "mia @ bal",
             "hr/park": "",
@@ -876,11 +891,11 @@
     ],
     "chc @ nyy": [
         {
-            "player": "seiya suzuki",
+            "player": "pete crow armstrong",
             "game": "chc @ nyy",
             "hr/park": "",
-            "pa": "49",
-            "dt": "2025-07-13 15:23:19",
+            "pa": "50",
+            "dt": "2025-07-13 15:25:19",
             "img": "https://www.mlbstatic.com/team-logos/112.svg",
             "team": "chc",
             "start": "1:35 PM",
@@ -889,6 +904,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "seiya suzuki",
+            "game": "chc @ nyy",
+            "hr/park": "0/30",
+            "pa": "49",
+            "dt": "2025-07-13 15:23:19",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Double",
+            "evo": "96.3",
+            "la": "25",
+            "dist": "352"
         },
         {
             "player": "kyle tucker",
@@ -1615,7 +1645,7 @@
         {
             "player": "brenton doyle",
             "game": "col @ cin",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "48",
             "dt": "2025-07-13 15:24:32",
             "img": "https://www.mlbstatic.com/team-logos/115.svg",
@@ -3314,6 +3344,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "corey seager",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-13 15:25:19",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "victor caratini",
             "game": "tex @ hou",
             "hr/park": "",
@@ -3820,7 +3865,7 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4353,19 +4398,34 @@
     ],
     "cle @ chw": [
         {
-            "player": "michael a taylor",
+            "player": "chase meidroth",
             "game": "cle @ chw",
             "hr/park": "",
+            "pa": "36",
+            "dt": "2025-07-13 15:25:19",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "106.9",
+            "la": "-11",
+            "dist": "12"
+        },
+        {
+            "player": "michael a taylor",
+            "game": "cle @ chw",
+            "hr/park": "0/30",
             "pa": "35",
             "dt": "2025-07-13 15:23:33",
             "img": "https://www.mlbstatic.com/team-logos/145.svg",
             "team": "chw",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Fly",
+            "evo": "88.9",
+            "la": "26",
+            "dist": "317"
         },
         {
             "player": "colson montgomery",
