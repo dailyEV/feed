@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "42",
         "batters": "202",
-        "pitches": "1973",
+        "pitches": "1981",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "37.9",
-        "si%sinker %": "11.3",
-        "fc%cutter %": "7.6",
+        "si%sinker %": "11.2",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "6.2",
         "ch%changeup %": "8.8",
-        "sl%slider %": "16.5",
+        "sl%slider %": "16.4",
         "cu%curve %": "11.8",
         "max evmax exit velocity": "113.7",
-        "hhhard hit": "143",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "144",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "28",
-        "brl%barrel %": "7.6",
-        "ab": "481",
-        "avg": ".239",
-        "h": "115",
-        "1b": "75",
+        "brl%barrel %": "7.5",
+        "ab": "483",
+        "avg": ".242",
+        "h": "117",
+        "1b": "76",
         "2b": "23",
         "3b": "2",
-        "hr": "15",
+        "hr": "16",
         "so": "110",
-        "bipballs in play": "368",
+        "bipballs in play": "371",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:55:30.752145"
+        "updated": "2025-07-13 15:55:40.348574"
     },
     "tb @ bos": [
         {
@@ -1320,7 +1320,7 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Game Advisory",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2213,6 +2213,21 @@
     ],
     "col @ cin": [
         {
+            "player": "noelvi marte",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-07-13 15:55:33",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "spencer steer",
             "game": "col @ cin",
             "hr/park": "",
@@ -2222,10 +2237,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.3",
+            "la": "-1",
+            "dist": "46"
         },
         {
             "player": "austin hays",
@@ -3996,10 +4011,10 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.0",
+            "la": "-21",
+            "dist": "8"
         },
         {
             "player": "luisangel acuna",
@@ -5967,7 +5982,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Home Run",
             "evo": "100.6",
             "la": "32",
             "dist": "394"
@@ -6665,6 +6680,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "daylen lile",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-13 15:55:33",
+            "img": "https://www.mlbstatic.com/team-logos/120.svg",
+            "team": "wsh",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "brady house",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -6674,10 +6704,10 @@
             "team": "wsh",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "90.7",
+            "la": "-33",
+            "dist": "4"
         },
         {
             "player": "luis garcia",
