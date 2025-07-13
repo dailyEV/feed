@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "57",
-        "batters": "216",
-        "pitches": "2272",
+        "batters": "217",
+        "pitches": "2278",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.8",
+        "ff%fourseam fastball %": "37.9",
         "si%sinker %": "11.8",
         "fc%cutter %": "7.3",
         "fs%splitter %": "6.3",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.8",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "162",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "30",
-        "brl%barrel %": "7.3",
-        "ab": "543",
-        "avg": ".227",
-        "h": "123",
+        "brl%barrel %": "7.2",
+        "ab": "545",
+        "avg": ".228",
+        "h": "124",
         "1b": "78",
         "2b": "25",
         "3b": "2",
-        "hr": "18",
+        "hr": "19",
         "so": "132",
-        "bipballs in play": "413",
+        "bipballs in play": "415",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:11:32.581484"
+        "updated": "2025-07-13 16:11:42.293037"
     },
     "tb @ bos": [
         {
@@ -1490,6 +1490,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "ben rice",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-07-13 16:11:35",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "9",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "austin wells",
             "game": "chc @ nyy",
@@ -3505,6 +3520,21 @@
     ],
     "sea @ det": [
         {
+            "player": "mitch garver",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-13 16:11:35",
+            "img": "https://www.mlbstatic.com/team-logos/136.svg",
+            "team": "sea",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "79.4",
+            "la": "37",
+            "dist": "277"
+        },
+        {
             "player": "luke raley",
             "game": "sea @ det",
             "hr/park": "",
@@ -5026,17 +5056,17 @@
         {
             "player": "marcus semien",
             "game": "tex @ hou",
-            "hr/park": "",
+            "hr/park": "7/30",
             "pa": "55",
             "dt": "2025-07-13 16:10:48",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "start": "2:10 PM",
             "in": "8",
-            "result": "Mound Visit",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "93.0",
+            "la": "29",
+            "dist": "357"
         },
         {
             "player": "corey seager",
@@ -7514,7 +7544,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "93.9",
             "la": "16",
             "dist": "273"
