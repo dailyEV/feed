@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "12",
-        "batters": "78",
-        "pitches": "330",
+        "pitchers": "13",
+        "batters": "79",
+        "pitches": "334",
         "max velomax pitch velocity": "98.3",
-        "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "42.4",
-        "si%sinker %": "11.8",
-        "fc%cutter %": "6.4",
+        "min velomin pitch velocity": "72.8",
+        "ff%fourseam fastball %": "42.5",
+        "si%sinker %": "11.7",
+        "fc%cutter %": "6.0",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "10.0",
-        "sl%slider %": "17.9",
-        "cu%curve %": "7.9",
+        "ch%changeup %": "9.9",
+        "sl%slider %": "18.0",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "108.4",
         "hhhard hit": "19",
         "hh%hard hit %": "31.1",
         "brlbarrels": "4",
         "brl%barrel %": "6.6",
-        "ab": "78",
-        "avg": ".205",
+        "ab": "79",
+        "avg": ".203",
         "h": "16",
         "1b": "11",
         "2b": "2",
@@ -28,7 +28,7 @@
         "bipballs in play": "61",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:17:00.261054"
+        "updated": "2025-07-13 14:17:07.972153"
     },
     "tb @ bos": [
         {
@@ -622,6 +622,21 @@
     ],
     "col @ cin": [
         {
+            "player": "connor joe",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-13 14:16:32",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael toglia",
             "game": "col @ cin",
             "hr/park": "0/30",
@@ -1167,21 +1182,6 @@
     "nym @ kc": [],
     "tex @ hou": [
         {
-            "player": "marcus semien",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "3",
-            "dt": "2025-07-13 14:16:48",
-            "img": "https://www.mlbstatic.com/team-logos/140.svg",
-            "team": "tex",
-            "start": "2:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "corey seager",
             "game": "tex @ hou",
             "hr/park": "",
@@ -1353,7 +1353,23 @@
             "dist": ""
         }
     ],
-    "atl @ stl": [],
+    "atl @ stl": [
+        {
+            "player": "jurickson profar",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-13 14:17:02",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "2:15 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        }
+    ],
     "lad @ sf": [],
     "tor @ ath": [],
     "ari @ laa": [],
