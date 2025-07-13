@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "87",
         "batters": "290",
-        "pitches": "3220",
+        "pitches": "3226",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "36.2",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.8",
         "fs%splitter %": "5.6",
         "ch%changeup %": "8.6",
-        "sl%slider %": "18.5",
-        "cu%curve %": "10.0",
+        "sl%slider %": "18.4",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "229",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "38",
         "brl%barrel %": "6.5",
-        "ab": "763",
+        "ab": "764",
         "avg": ".220",
         "h": "168",
         "1b": "108",
         "2b": "32",
         "3b": "2",
         "hr": "26",
-        "so": "192",
-        "bipballs in play": "584",
+        "so": "193",
+        "bipballs in play": "585",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:59:59.223311"
+        "updated": "2025-07-13 17:00:10.793591"
     },
     "tb @ bos": [
         {
@@ -1048,7 +1048,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8163,6 +8163,21 @@
     ],
     "cle @ chw": [
         {
+            "player": "mike tauchman",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-07-13 17:00:05",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nolan jones",
             "game": "cle @ chw",
             "hr/park": "",
@@ -10938,10 +10953,10 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "94.5",
+            "la": "19",
+            "dist": "290"
         },
         {
             "player": "andy pages",
@@ -12084,7 +12099,7 @@
             "team": "phi",
             "start": "4:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
