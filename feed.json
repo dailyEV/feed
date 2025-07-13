@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "77",
-        "batters": "255",
-        "pitches": "2661",
+        "batters": "256",
+        "pitches": "2669",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "37.1",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.9",
         "fs%splitter %": "6.3",
         "ch%changeup %": "8.9",
-        "sl%slider %": "17.7",
+        "sl%slider %": "17.8",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "191",
-        "hh%hard hit %": "39.3",
-        "brlbarrels": "34",
-        "brl%barrel %": "7.0",
+        "hhhard hit": "192",
+        "hh%hard hit %": "39.4",
+        "brlbarrels": "35",
+        "brl%barrel %": "7.2",
         "ab": "637",
-        "avg": ".224",
-        "h": "143",
+        "avg": ".226",
+        "h": "144",
         "1b": "90",
         "2b": "28",
         "3b": "2",
-        "hr": "23",
+        "hr": "24",
         "so": "155",
-        "bipballs in play": "486",
+        "bipballs in play": "487",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:28:55.227739"
+        "updated": "2025-07-13 16:29:05.792932"
     },
     "tb @ bos": [
         {
@@ -1048,7 +1048,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4857,21 +4857,6 @@
     ],
     "nym @ kc": [
         {
-            "player": "salvador perez",
-            "game": "nym @ kc",
-            "hr/park": "",
-            "pa": "47",
-            "dt": "2025-07-13 16:28:49",
-            "img": "https://www.mlbstatic.com/team-logos/118.svg",
-            "team": "kc",
-            "start": "2:10 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "maikel garcia",
             "game": "nym @ kc",
             "hr/park": "",
@@ -4881,7 +4866,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8452,17 +8437,17 @@
         {
             "player": "brice turang",
             "game": "wsh @ mil",
-            "hr/park": "",
+            "hr/park": "21/30",
             "pa": "61",
             "dt": "2025-07-13 16:28:34",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "102.1",
+            "la": "26",
+            "dist": "406"
         },
         {
             "player": "jackson chourio",
@@ -9376,7 +9361,7 @@
             "team": "stl",
             "start": "2:15 PM",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9965,7 +9950,7 @@
             "team": "tor",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10244,6 +10229,21 @@
         }
     ],
     "phi @ sd": [
+        {
+            "player": "xander bogaerts",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-13 16:29:04",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "manny machado",
             "game": "phi @ sd",
