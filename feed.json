@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "75",
-        "batters": "251",
-        "pitches": "2623",
+        "batters": "253",
+        "pitches": "2634",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "37.1",
         "si%sinker %": "11.8",
         "fc%cutter %": "8.0",
         "fs%splitter %": "6.3",
-        "ch%changeup %": "9.0",
-        "sl%slider %": "17.8",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "17.7",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "188",
-        "hh%hard hit %": "39.2",
-        "brlbarrels": "33",
-        "brl%barrel %": "6.9",
-        "ab": "628",
-        "avg": ".223",
-        "h": "140",
+        "hhhard hit": "189",
+        "hh%hard hit %": "39.3",
+        "brlbarrels": "34",
+        "brl%barrel %": "7.1",
+        "ab": "630",
+        "avg": ".224",
+        "h": "141",
         "1b": "89",
         "2b": "27",
         "3b": "2",
-        "hr": "22",
-        "so": "152",
-        "bipballs in play": "480",
+        "hr": "23",
+        "so": "154",
+        "bipballs in play": "481",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:27:30.880383"
+        "updated": "2025-07-13 16:27:41.378352"
     },
     "tb @ bos": [
         {
@@ -6445,7 +6445,7 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -7467,7 +7467,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8377,17 +8377,17 @@
         {
             "player": "jackson chourio",
             "game": "wsh @ mil",
-            "hr/park": "",
+            "hr/park": "30/30",
             "pa": "60",
             "dt": "2025-07-13 16:26:04",
             "img": "https://www.mlbstatic.com/team-logos/158.svg",
             "team": "mil",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "110.0",
+            "la": "21",
+            "dist": "425"
         },
         {
             "player": "christian yelich",
@@ -9277,9 +9277,24 @@
     ],
     "atl @ stl": [
         {
-            "player": "willson contreras",
+            "player": "thomas saggese",
             "game": "atl @ stl",
             "hr/park": "",
+            "pa": "26",
+            "dt": "2025-07-13 16:27:34",
+            "img": "https://www.mlbstatic.com/team-logos/138.svg",
+            "team": "stl",
+            "start": "2:15 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "willson contreras",
+            "game": "atl @ stl",
+            "hr/park": "0/30",
             "pa": "25",
             "dt": "2025-07-13 16:27:05",
             "img": "https://www.mlbstatic.com/team-logos/138.svg",
@@ -9663,7 +9678,7 @@
             "team": "sf",
             "start": "4:05 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -9835,6 +9850,21 @@
         }
     ],
     "tor @ ath": [
+        {
+            "player": "addison barger",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-13 16:27:05",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "4:05 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "alejandro kirk",
             "game": "tor @ ath",
@@ -10095,6 +10125,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "manny machado",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-13 16:27:34",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis arraez",
             "game": "phi @ sd",
             "hr/park": "",
@@ -10104,7 +10149,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "1",
-            "result": "In Progress",
+            "result": "Sac Bunt",
             "evo": "39.5",
             "la": "-38",
             "dist": "4"
