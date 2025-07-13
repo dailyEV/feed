@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "110",
         "batters": "305",
-        "pitches": "3987",
+        "pitches": "3989",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "34.1",
@@ -14,10 +14,10 @@
         "cu%curve %": "10.4",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "274",
-        "hh%hard hit %": "38.6",
+        "hh%hard hit %": "38.5",
         "brlbarrels": "53",
         "brl%barrel %": "7.5",
-        "ab": "938",
+        "ab": "939",
         "avg": ".225",
         "h": "211",
         "1b": "135",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "32",
         "so": "248",
-        "bipballs in play": "710",
+        "bipballs in play": "711",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 18:27:29.847063"
+        "updated": "2025-07-13 18:27:42.283698"
     },
     "tb @ bos": [
         {
@@ -11529,6 +11529,36 @@
     ],
     "lad @ sf": [
         {
+            "player": "jung hoo lee",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-07-13 18:27:33",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "wilmer flores",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-13 18:27:33",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "9",
+            "result": "Pop Out",
+            "evo": "85.2",
+            "la": "70",
+            "dist": "150"
+        },
+        {
             "player": "luis matos",
             "game": "lad @ sf",
             "hr/park": "29/30",
@@ -14370,21 +14400,6 @@
     ],
     "phi @ sd": [
         {
-            "player": "jose iglesias",
-            "game": "phi @ sd",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-07-13 18:27:21",
-            "img": "https://www.mlbstatic.com/team-logos/135.svg",
-            "team": "sd",
-            "start": "4:10 PM",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "jackson merrill",
             "game": "phi @ sd",
             "hr/park": "",
@@ -14394,7 +14409,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "8",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "90.8",
             "la": "44",
             "dist": "294"
