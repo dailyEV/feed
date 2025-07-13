@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "68",
         "batters": "238",
-        "pitches": "2476",
+        "pitches": "2478",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "37.1",
-        "si%sinker %": "12.0",
+        "si%sinker %": "11.9",
         "fc%cutter %": "7.5",
         "fs%splitter %": "6.3",
         "ch%changeup %": "8.7",
-        "sl%slider %": "17.9",
-        "cu%curve %": "10.5",
+        "sl%slider %": "17.8",
+        "cu%curve %": "10.6",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "173",
-        "hh%hard hit %": "38.4",
+        "hh%hard hit %": "38.3",
         "brlbarrels": "30",
-        "brl%barrel %": "6.7",
+        "brl%barrel %": "6.6",
         "ab": "594",
         "avg": ".217",
         "h": "129",
@@ -24,11 +24,11 @@
         "2b": "26",
         "3b": "2",
         "hr": "19",
-        "so": "145",
-        "bipballs in play": "451",
+        "so": "146",
+        "bipballs in play": "452",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:20:46.978468"
+        "updated": "2025-07-13 16:20:57.021132"
     },
     "tb @ bos": [
         {
@@ -5333,7 +5333,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -8032,7 +8032,7 @@
         {
             "player": "nathaniel lowe",
             "game": "wsh @ mil",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "57",
             "dt": "2025-07-13 16:20:04",
             "img": "https://www.mlbstatic.com/team-logos/120.svg",
@@ -8040,9 +8040,9 @@
             "start": "2:10 PM",
             "in": "8",
             "result": "In Progress",
-            "evo": "99.4",
-            "la": "20",
-            "dist": "319"
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "alex call",
@@ -9251,17 +9251,17 @@
         {
             "player": "teoscar hernandez",
             "game": "lad @ sf",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "8",
             "dt": "2025-07-13 16:20:33",
             "img": "https://www.mlbstatic.com/team-logos/119.svg",
             "team": "lad",
             "start": "4:05 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "98.2",
+            "la": "24",
+            "dist": "380"
         },
         {
             "player": "freddie freeman",
@@ -9580,9 +9580,9 @@
             "start": "4:10 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "84.2",
+            "la": "-3",
+            "dist": "23"
         },
         {
             "player": "jt realmuto",
