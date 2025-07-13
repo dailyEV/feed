@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "23",
-        "batters": "179",
-        "pitches": "1319",
+        "batters": "180",
+        "pitches": "1322",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "40.2",
+        "ff%fourseam fastball %": "40.1",
         "si%sinker %": "9.8",
         "fc%cutter %": "6.7",
-        "fs%splitter %": "5.9",
+        "fs%splitter %": "6.0",
         "ch%changeup %": "8.5",
-        "sl%slider %": "17.1",
+        "sl%slider %": "17.2",
         "cu%curve %": "11.9",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "92",
-        "hh%hard hit %": "36.8",
+        "hh%hard hit %": "36.7",
         "brlbarrels": "21",
         "brl%barrel %": "8.4",
-        "ab": "320",
-        "avg": ".225",
-        "h": "72",
-        "1b": "47",
+        "ab": "321",
+        "avg": ".227",
+        "h": "73",
+        "1b": "48",
         "2b": "14",
         "3b": "2",
         "hr": "9",
         "so": "70",
-        "bipballs in play": "250",
+        "bipballs in play": "251",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:16:46.405579"
+        "updated": "2025-07-13 15:16:55.041703"
     },
     "tb @ bos": [
         {
@@ -2802,6 +2802,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "jac caglianone",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-13 15:16:18",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "salvador perez",
             "game": "nym @ kc",
             "hr/park": "",
@@ -3460,10 +3475,10 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "70.9",
+            "la": "-5",
+            "dist": "15"
         },
         {
             "player": "royce lewis",
