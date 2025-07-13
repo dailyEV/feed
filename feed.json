@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "175",
-        "pitches": "1246",
+        "pitches": "1253",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "40.7",
-        "si%sinker %": "9.9",
-        "fc%cutter %": "6.3",
-        "fs%splitter %": "5.8",
-        "ch%changeup %": "8.6",
-        "sl%slider %": "16.9",
-        "cu%curve %": "12.0",
+        "ff%fourseam fastball %": "40.5",
+        "si%sinker %": "9.8",
+        "fc%cutter %": "6.2",
+        "fs%splitter %": "5.7",
+        "ch%changeup %": "8.5",
+        "sl%slider %": "17.1",
+        "cu%curve %": "12.1",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "88",
-        "hh%hard hit %": "37.4",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "20",
-        "brl%barrel %": "8.5",
-        "ab": "303",
-        "avg": ".228",
+        "brl%barrel %": "8.4",
+        "ab": "305",
+        "avg": ".226",
         "h": "69",
         "1b": "45",
         "2b": "13",
         "3b": "2",
         "hr": "9",
         "so": "66",
-        "bipballs in play": "235",
+        "bipballs in play": "238",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:12:31.639673"
+        "updated": "2025-07-13 15:12:40.416008"
     },
     "tb @ bos": [
         {
@@ -1366,10 +1366,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "82.9",
+            "la": "70",
+            "dist": "120"
         },
         {
             "player": "noelvi marte",
@@ -2028,7 +2028,7 @@
             "team": "det",
             "start": "1:40 PM",
             "in": "5",
-            "result": "Game Advisory",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2833,6 +2833,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "ezequiel duran",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-13 15:12:04",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "Game Advisory",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "alejandro osuna",
             "game": "tex @ hou",
             "hr/park": "0/30",
@@ -3250,9 +3265,9 @@
             "start": "2:10 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "87.9",
+            "la": "38",
+            "dist": "320"
         },
         {
             "player": "matt wallner",
@@ -3721,6 +3736,21 @@
         }
     ],
     "cle @ chw": [
+        {
+            "player": "luis robert",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-13 15:12:34",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "84.9",
+            "la": "-26",
+            "dist": "6"
+        },
         {
             "player": "andrew benintendi",
             "game": "cle @ chw",
