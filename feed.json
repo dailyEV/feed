@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "90",
         "batters": "298",
-        "pitches": "3538",
+        "pitches": "3542",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "35.4",
-        "si%sinker %": "13.8",
-        "fc%cutter %": "7.9",
+        "si%sinker %": "13.9",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "5.3",
-        "ch%changeup %": "9.0",
+        "ch%changeup %": "8.9",
         "sl%slider %": "18.4",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.4",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.8",
         "brlbarrels": "45",
         "brl%barrel %": "7.0",
-        "ab": "833",
-        "avg": ".226",
-        "h": "188",
-        "1b": "121",
+        "ab": "834",
+        "avg": ".227",
+        "h": "189",
+        "1b": "122",
         "2b": "36",
         "3b": "3",
         "hr": "28",
-        "so": "208",
-        "bipballs in play": "641",
+        "so": "210",
+        "bipballs in play": "642",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 17:28:38.877240"
+        "updated": "2025-07-13 17:28:50.292129"
     },
     "tb @ bos": [
         {
@@ -1048,10 +1048,10 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "93.3",
+            "la": "-2",
+            "dist": "23"
         },
         {
             "player": "kyle stowers",
@@ -11343,7 +11343,7 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -12493,6 +12493,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "josh naylor",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-13 17:28:50",
+            "img": "https://www.mlbstatic.com/team-logos/109.svg",
+            "team": "ari",
+            "start": "4:07 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "geraldo perdomo",
             "game": "ari @ laa",
             "hr/park": "",
@@ -13059,7 +13074,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
