@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "89",
         "batters": "295",
-        "pitches": "3387",
+        "pitches": "3389",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "35.9",
+        "ff%fourseam fastball %": "35.8",
         "si%sinker %": "13.5",
         "fc%cutter %": "7.9",
         "fs%splitter %": "5.4",
         "ch%changeup %": "8.8",
-        "sl%slider %": "18.2",
-        "cu%curve %": "10.3",
+        "sl%slider %": "18.3",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "238",
-        "hh%hard hit %": "38.7",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "42",
         "brl%barrel %": "6.8",
-        "ab": "801",
-        "avg": ".223",
-        "h": "179",
-        "1b": "114",
+        "ab": "802",
+        "avg": ".224",
+        "h": "180",
+        "1b": "115",
         "2b": "35",
         "3b": "3",
         "hr": "27",
         "so": "202",
-        "bipballs in play": "615",
+        "bipballs in play": "616",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 17:14:11.843072"
+        "updated": "2025-07-13 17:14:23.365481"
     },
     "tb @ bos": [
         {
@@ -1048,10 +1048,10 @@
             "team": "bal",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Forceout",
-            "evo": "96.3",
-            "la": "-20",
-            "dist": "5"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "david banuelos",
@@ -5242,9 +5242,9 @@
             "start": "2:10 PM",
             "in": "9",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "76.6",
+            "la": "-42",
+            "dist": "4"
         },
         {
             "player": "jeff mcneil",
@@ -11163,10 +11163,10 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.2",
+            "la": "11",
+            "dist": "166"
         },
         {
             "player": "esteury ruiz",
@@ -11665,6 +11665,21 @@
         }
     ],
     "tor @ ath": [
+        {
+            "player": "alejandro kirk",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-07-13 17:14:19",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "4:05 PM",
+            "in": "5",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "lawrence butler",
             "game": "tor @ ath",
