@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "112",
-        "batters": "305",
-        "pitches": "4057",
+        "batters": "306",
+        "pitches": "4059",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "34.2",
         "si%sinker %": "14.5",
         "fc%cutter %": "7.9",
         "fs%splitter %": "4.9",
-        "ch%changeup %": "8.6",
+        "ch%changeup %": "8.5",
         "sl%slider %": "19.6",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.4",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "38.6",
         "brlbarrels": "54",
         "brl%barrel %": "7.5",
-        "ab": "950",
+        "ab": "951",
         "avg": ".223",
         "h": "212",
         "1b": "136",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "32",
         "so": "251",
-        "bipballs in play": "720",
+        "bipballs in play": "721",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 18:36:44.082702"
+        "updated": "2025-07-13 18:36:56.459894"
     },
     "tb @ bos": [
         {
@@ -11529,6 +11529,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "james outman",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-07-13 18:36:50",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "hyeseong kim",
             "game": "lad @ sf",
             "hr/park": "",
@@ -11538,10 +11553,10 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "87.0",
+            "la": "-6",
+            "dist": "9"
         },
         {
             "player": "tommy edman",
