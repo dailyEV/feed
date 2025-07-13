@@ -1,22 +1,22 @@
 {
     "all": {
-        "pitchers": "10",
-        "batters": "65",
-        "pitches": "267",
+        "pitchers": "11",
+        "batters": "66",
+        "pitches": "270",
         "max velomax pitch velocity": "96.8",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "44.6",
-        "si%sinker %": "13.1",
-        "fc%cutter %": "4.5",
+        "ff%fourseam fastball %": "44.1",
+        "si%sinker %": "13.0",
+        "fc%cutter %": "5.2",
         "fs%splitter %": "4.1",
-        "ch%changeup %": "8.6",
-        "sl%slider %": "18.0",
-        "cu%curve %": "7.1",
+        "ch%changeup %": "8.5",
+        "sl%slider %": "18.5",
+        "cu%curve %": "6.7",
         "max evmax exit velocity": "108.0",
         "hhhard hit": "16",
-        "hh%hard hit %": "32.0",
+        "hh%hard hit %": "31.4",
         "brlbarrels": "3",
-        "brl%barrel %": "6.0",
+        "brl%barrel %": "5.9",
         "ab": "64",
         "avg": ".219",
         "h": "14",
@@ -24,11 +24,11 @@
         "2b": "1",
         "3b": "0",
         "hr": "3",
-        "so": "12",
-        "bipballs in play": "50",
+        "so": "11",
+        "bipballs in play": "51",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-13 14:13:14.641980"
+        "updated": "2025-07-13 14:13:22.213364"
     },
     "tb @ bos": [
         {
@@ -562,21 +562,6 @@
     ],
     "col @ cin": [
         {
-            "player": "michael toglia",
-            "game": "col @ cin",
-            "hr/park": "",
-            "pa": "20",
-            "dt": "2025-07-13 14:13:02",
-            "img": "https://www.mlbstatic.com/team-logos/115.svg",
-            "team": "col",
-            "start": "1:40 PM",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "mickey moniak",
             "game": "col @ cin",
             "hr/park": "",
@@ -1076,7 +1061,38 @@
     ],
     "nym @ kc": [],
     "tex @ hou": [],
-    "pit @ min": [],
+    "pit @ min": [
+        {
+            "player": "andrew mccutchen",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-13 14:13:18",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "spencer horwitz",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-13 14:13:18",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "Pop Out",
+            "evo": "85.3",
+            "la": "79",
+            "dist": "112"
+        }
+    ],
     "cle @ chw": [
         {
             "player": "steven kwan",
@@ -1096,21 +1112,6 @@
     ],
     "wsh @ mil": [
         {
-            "player": "nathaniel lowe",
-            "game": "wsh @ mil",
-            "hr/park": "",
-            "pa": "2",
-            "dt": "2025-07-13 14:13:02",
-            "img": "https://www.mlbstatic.com/team-logos/120.svg",
-            "team": "wsh",
-            "start": "2:10 PM",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "alex call",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -1120,7 +1121,7 @@
             "team": "wsh",
             "start": "2:10 PM",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
