@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "50",
         "batters": "208",
-        "pitches": "2156",
+        "pitches": "2159",
         "max velomax pitch velocity": "100.2",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.9",
+        "ff%fourseam fastball %": "37.8",
         "si%sinker %": "11.3",
         "fc%cutter %": "7.5",
-        "fs%splitter %": "6.3",
+        "fs%splitter %": "6.4",
         "ch%changeup %": "9.0",
         "sl%slider %": "16.9",
         "cu%curve %": "11.1",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "153",
-        "hh%hard hit %": "38.8",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "28",
         "brl%barrel %": "7.1",
         "ab": "519",
@@ -24,28 +24,13 @@
         "2b": "23",
         "3b": "2",
         "hr": "18",
-        "so": "125",
-        "bipballs in play": "394",
+        "so": "126",
+        "bipballs in play": "395",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-13 16:05:59.056788"
+        "updated": "2025-07-13 16:06:08.777489"
     },
     "tb @ bos": [
-        {
-            "player": "taylor walls",
-            "game": "tb @ bos",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-07-13 16:05:49",
-            "img": "https://www.mlbstatic.com/team-logos/139.svg",
-            "team": "tb",
-            "start": "1:35 PM",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "curtis mead",
             "game": "tb @ bos",
@@ -56,7 +41,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "9",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1049,9 +1034,9 @@
             "start": "1:35 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "86.0",
+            "la": "-20",
+            "dist": "10"
         },
         {
             "player": "alex jackson",
@@ -4332,6 +4317,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "mark vientos",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-07-13 16:06:04",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "francisco lindor",
             "game": "nym @ kc",
             "hr/park": "",
@@ -4341,7 +4341,7 @@
             "team": "nym",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -6477,7 +6477,7 @@
             "team": "cle",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
