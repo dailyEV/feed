@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "38",
+        "pitchers": "40",
         "batters": "201",
-        "pitches": "1898",
+        "pitches": "1902",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.7",
+        "ff%fourseam fastball %": "37.8",
         "si%sinker %": "11.4",
         "fc%cutter %": "7.7",
         "fs%splitter %": "6.3",
@@ -13,22 +13,22 @@
         "sl%slider %": "16.5",
         "cu%curve %": "11.6",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "136",
-        "hh%hard hit %": "38.5",
+        "hhhard hit": "137",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "26",
-        "brl%barrel %": "7.4",
-        "ab": "457",
-        "avg": ".234",
-        "h": "107",
+        "brl%barrel %": "7.3",
+        "ab": "460",
+        "avg": ".235",
+        "h": "108",
         "1b": "71",
-        "2b": "20",
+        "2b": "21",
         "3b": "2",
         "hr": "14",
-        "so": "104",
-        "bipballs in play": "353",
+        "so": "105",
+        "bipballs in play": "355",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:50:28.248966"
+        "updated": "2025-07-13 15:50:37.386457"
     },
     "tb @ bos": [
         {
@@ -1245,7 +1245,7 @@
             "team": "chc",
             "start": "1:35 PM",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2122,6 +2122,36 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "austin hays",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-13 15:50:34",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "elly de la cruz",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-13 15:50:34",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "Double",
+            "evo": "78.3",
+            "la": "26",
+            "dist": "269"
+        },
         {
             "player": "mickey moniak",
             "game": "col @ cin",
@@ -4965,6 +4995,21 @@
         }
     ],
     "pit @ min": [
+        {
+            "player": "henry davis",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-07-13 15:50:34",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "98.0",
+            "la": "1",
+            "dist": "68"
+        },
         {
             "player": "carlos correa",
             "game": "pit @ min",
