@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "83",
         "batters": "281",
-        "pitches": "2971",
+        "pitches": "2978",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "36.9",
+        "ff%fourseam fastball %": "36.8",
         "si%sinker %": "12.7",
         "fc%cutter %": "7.8",
         "fs%splitter %": "6.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "17.8",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "209",
+        "hhhard hit": "210",
         "hh%hard hit %": "39.2",
         "brlbarrels": "36",
-        "brl%barrel %": "6.8",
-        "ab": "703",
-        "avg": ".222",
+        "brl%barrel %": "6.7",
+        "ab": "706",
+        "avg": ".221",
         "h": "156",
         "1b": "99",
         "2b": "30",
         "3b": "2",
         "hr": "25",
-        "so": "176",
-        "bipballs in play": "533",
+        "so": "178",
+        "bipballs in play": "536",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:42:48.255488"
+        "updated": "2025-07-13 16:42:58.948832"
     },
     "tb @ bos": [
         {
@@ -5819,6 +5819,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "victor caratini",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-07-13 16:41:33",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "96.1",
+            "la": "1",
+            "dist": "61"
+        },
+        {
             "player": "christian walker",
             "game": "tex @ hou",
             "hr/park": "",
@@ -7932,10 +7947,10 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "56.7",
+            "la": "2",
+            "dist": "37"
         },
         {
             "player": "angel martinez",
@@ -8960,6 +8975,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "christian yelich",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-13 16:42:51",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "william contreras",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -8969,7 +8999,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -10464,6 +10494,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "rafael devers",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-13 16:42:51",
+            "img": "https://www.mlbstatic.com/team-logos/137.svg",
+            "team": "sf",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "63.1",
+            "la": "-35",
+            "dist": "4"
+        },
+        {
             "player": "heliot ramos",
             "game": "lad @ sf",
             "hr/park": "",
@@ -11259,7 +11304,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
