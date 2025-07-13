@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "85",
         "batters": "288",
-        "pitches": "3064",
+        "pitches": "3071",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "36.4",
+        "ff%fourseam fastball %": "36.3",
         "si%sinker %": "13.1",
         "fc%cutter %": "7.8",
         "fs%splitter %": "5.8",
-        "ch%changeup %": "8.6",
+        "ch%changeup %": "8.7",
         "sl%slider %": "18.1",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.4",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "39.1",
         "brlbarrels": "36",
         "brl%barrel %": "6.5",
-        "ab": "727",
+        "ab": "728",
         "avg": ".217",
         "h": "158",
         "1b": "101",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "25",
         "so": "185",
-        "bipballs in play": "552",
+        "bipballs in play": "553",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:48:23.522249"
+        "updated": "2025-07-13 16:48:34.827017"
     },
     "tb @ bos": [
         {
@@ -1038,6 +1038,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "ramon urias",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-13 16:48:34",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jesus sanchez",
             "game": "mia @ bal",
@@ -7992,10 +8007,10 @@
             "team": "cle",
             "start": "2:10 PM",
             "in": "10",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Lineout",
+            "evo": "94.4",
+            "la": "9",
+            "dist": "162"
         },
         {
             "player": "chase meidroth",
