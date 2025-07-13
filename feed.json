@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "12",
-        "batters": "68",
-        "pitches": "282",
+        "batters": "70",
+        "pitches": "283",
         "max velomax pitch velocity": "97.7",
         "min velomin pitch velocity": "73.7",
-        "ff%fourseam fastball %": "44.3",
+        "ff%fourseam fastball %": "44.2",
         "si%sinker %": "12.4",
-        "fc%cutter %": "5.0",
-        "fs%splitter %": "4.3",
+        "fc%cutter %": "5.3",
+        "fs%splitter %": "4.2",
         "ch%changeup %": "8.5",
-        "sl%slider %": "18.1",
-        "cu%curve %": "7.4",
+        "sl%slider %": "18.4",
+        "cu%curve %": "7.1",
         "max evmax exit velocity": "108.0",
-        "hhhard hit": "17",
-        "hh%hard hit %": "31.5",
+        "hhhard hit": "16",
+        "hh%hard hit %": "29.6",
         "brlbarrels": "3",
         "brl%barrel %": "5.6",
-        "ab": "68",
-        "avg": ".221",
+        "ab": "70",
+        "avg": ".214",
         "h": "15",
         "1b": "11",
         "2b": "1",
@@ -28,7 +28,7 @@
         "bipballs in play": "54",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-13 14:14:16.462781"
+        "updated": "2025-07-13 14:14:24.091400"
     },
     "tb @ bos": [
         {
@@ -586,10 +586,10 @@
             "team": "col",
             "start": "1:40 PM",
             "in": "3",
-            "result": "Flyout",
-            "evo": "103.8",
-            "la": "48",
-            "dist": "313"
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
         },
         {
             "player": "mickey moniak",
@@ -1109,6 +1109,21 @@
     ],
     "pit @ min": [
         {
+            "player": "bryan reynolds",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-07-13 14:14:19",
+            "img": "https://www.mlbstatic.com/team-logos/134.svg",
+            "team": "pit",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "andrew mccutchen",
             "game": "pit @ min",
             "hr/park": "",
@@ -1118,10 +1133,10 @@
             "team": "pit",
             "start": "2:10 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "82.5",
+            "la": "32",
+            "dist": "265"
         },
         {
             "player": "spencer horwitz",
@@ -1140,6 +1155,21 @@
         }
     ],
     "cle @ chw": [
+        {
+            "player": "nolan jones",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-13 14:14:19",
+            "img": "https://www.mlbstatic.com/team-logos/114.svg",
+            "team": "cle",
+            "start": "2:10 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "steven kwan",
             "game": "cle @ chw",
