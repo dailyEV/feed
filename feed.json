@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "22",
-        "batters": "173",
-        "pitches": "1186",
+        "batters": "174",
+        "pitches": "1188",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "41.2",
-        "si%sinker %": "9.4",
+        "ff%fourseam fastball %": "41.3",
+        "si%sinker %": "9.3",
         "fc%cutter %": "6.4",
         "fs%splitter %": "6.1",
         "ch%changeup %": "8.3",
-        "sl%slider %": "16.9",
-        "cu%curve %": "11.6",
+        "sl%slider %": "17.0",
+        "cu%curve %": "11.5",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "84",
-        "hh%hard hit %": "37.3",
+        "hhhard hit": "85",
+        "hh%hard hit %": "37.4",
         "brlbarrels": "19",
         "brl%barrel %": "8.4",
-        "ab": "287",
-        "avg": ".226",
+        "ab": "289",
+        "avg": ".225",
         "h": "65",
         "1b": "42",
         "2b": "12",
         "3b": "2",
         "hr": "9",
         "so": "62",
-        "bipballs in play": "225",
+        "bipballs in play": "227",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:09:02.539514"
+        "updated": "2025-07-13 15:09:11.043645"
     },
     "tb @ bos": [
         {
@@ -1961,7 +1961,7 @@
         {
             "player": "colt keith",
             "game": "sea @ det",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "39",
             "dt": "2025-07-13 15:07:04",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
@@ -1969,9 +1969,9 @@
             "start": "1:40 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "106.9",
+            "la": "15",
+            "dist": "320"
         },
         {
             "player": "julio rodriguez",
@@ -2546,6 +2546,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "luisangel acuna",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-13 15:09:05",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "2:10 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "luis torrens",
             "game": "nym @ kc",
             "hr/park": "",
@@ -3090,6 +3105,21 @@
     ],
     "pit @ min": [
         {
+            "player": "carlos correa",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-07-13 15:09:05",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "93.1",
+            "la": "67",
+            "dist": "125"
+        },
+        {
             "player": "henry davis",
             "game": "pit @ min",
             "hr/park": "",
@@ -3536,7 +3566,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
