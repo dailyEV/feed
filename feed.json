@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "30",
         "batters": "189",
-        "pitches": "1555",
+        "pitches": "1563",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "39.1",
-        "si%sinker %": "10.7",
-        "fc%cutter %": "6.9",
+        "ff%fourseam fastball %": "39.0",
+        "si%sinker %": "10.6",
+        "fc%cutter %": "7.0",
         "fs%splitter %": "5.9",
-        "ch%changeup %": "8.9",
-        "sl%slider %": "16.6",
-        "cu%curve %": "11.9",
+        "ch%changeup %": "9.0",
+        "sl%slider %": "16.5",
+        "cu%curve %": "12.0",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "107",
-        "hh%hard hit %": "36.9",
+        "hhhard hit": "108",
+        "hh%hard hit %": "37.1",
         "brlbarrels": "22",
         "brl%barrel %": "7.6",
-        "ab": "372",
-        "avg": ".234",
+        "ab": "375",
+        "avg": ".232",
         "h": "87",
         "1b": "57",
         "2b": "18",
         "3b": "2",
         "hr": "10",
-        "so": "84",
-        "bipballs in play": "290",
+        "so": "85",
+        "bipballs in play": "291",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:30:42.220340"
+        "updated": "2025-07-13 15:30:51.137510"
     },
     "tb @ bos": [
         {
@@ -3162,6 +3162,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "juan soto",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-13 15:30:48",
+            "img": "https://www.mlbstatic.com/team-logos/121.svg",
+            "team": "nym",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "mark vientos",
             "game": "nym @ kc",
             "hr/park": "",
@@ -4006,6 +4021,21 @@
     ],
     "pit @ min": [
         {
+            "player": "kody clemens",
+            "game": "pit @ min",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-13 15:30:48",
+            "img": "https://www.mlbstatic.com/team-logos/142.svg",
+            "team": "min",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nick gonzales",
             "game": "pit @ min",
             "hr/park": "",
@@ -4572,7 +4602,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5135,6 +5165,21 @@
     ],
     "wsh @ mil": [
         {
+            "player": "christian yelich",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-13 15:30:48",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "william contreras",
             "game": "wsh @ mil",
             "hr/park": "",
@@ -5144,10 +5189,10 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "97.2",
+            "la": "-11",
+            "dist": "10"
         },
         {
             "player": "isaac collins",
