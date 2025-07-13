@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "18",
         "batters": "111",
-        "pitches": "531",
+        "pitches": "543",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "43.5",
-        "si%sinker %": "8.9",
+        "ff%fourseam fastball %": "43.3",
+        "si%sinker %": "8.8",
         "fc%cutter %": "5.5",
-        "fs%splitter %": "4.7",
+        "fs%splitter %": "4.8",
         "ch%changeup %": "8.7",
-        "sl%slider %": "19.4",
-        "cu%curve %": "9.4",
+        "sl%slider %": "19.3",
+        "cu%curve %": "9.6",
         "max evmax exit velocity": "109.9",
-        "hhhard hit": "35",
-        "hh%hard hit %": "37.6",
-        "brlbarrels": "8",
-        "brl%barrel %": "8.6",
-        "ab": "122",
-        "avg": ".213",
-        "h": "26",
+        "hhhard hit": "36",
+        "hh%hard hit %": "37.5",
+        "brlbarrels": "9",
+        "brl%barrel %": "9.4",
+        "ab": "123",
+        "avg": ".220",
+        "h": "27",
         "1b": "17",
         "2b": "5",
         "3b": "0",
-        "hr": "4",
+        "hr": "5",
         "so": "24",
-        "bipballs in play": "93",
+        "bipballs in play": "96",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:29:41.162302"
+        "updated": "2025-07-13 14:29:48.886890"
     },
     "tb @ bos": [
         {
@@ -42,9 +42,9 @@
             "start": "1:35 PM",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "80.2",
+            "la": "-5",
+            "dist": "21"
         },
         {
             "player": "josh lowe",
@@ -424,6 +424,21 @@
     ],
     "mia @ bal": [],
     "chc @ nyy": [
+        {
+            "player": "ian happ",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-13 14:29:47",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "carson kelly",
             "game": "chc @ nyy",
@@ -1181,17 +1196,17 @@
         {
             "player": "julio rodriguez",
             "game": "sea @ det",
-            "hr/park": "",
+            "hr/park": "16/30",
             "pa": "21",
             "dt": "2025-07-13 14:28:33",
             "img": "https://www.mlbstatic.com/team-logos/136.svg",
             "team": "sea",
             "start": "1:40 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "107.0",
+            "la": "18",
+            "dist": "363"
         },
         {
             "player": "jp crawford",
@@ -1995,9 +2010,9 @@
             "start": "2:15 PM",
             "in": "1",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "87.2",
+            "la": "45",
+            "dist": "275"
         },
         {
             "player": "alec burleson",
