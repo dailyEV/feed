@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "110",
         "batters": "261",
-        "pitches": "3608",
+        "pitches": "3614",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.5",
-        "si%sinker %": "16.3",
+        "si%sinker %": "16.4",
         "fc%cutter %": "8.7",
         "fs%splitter %": "3.1",
         "ch%changeup %": "8.7",
@@ -14,10 +14,10 @@
         "cu%curve %": "10.0",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "267",
-        "hh%hard hit %": "39.9",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "51",
         "brl%barrel %": "7.6",
-        "ab": "851",
+        "ab": "853",
         "avg": ".237",
         "h": "202",
         "1b": "124",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "31",
         "so": "211",
-        "bipballs in play": "670",
+        "bipballs in play": "671",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-12 22:00:36.523720"
+        "updated": "2025-07-12 22:00:48.063041"
     },
     "chc @ nyy": [
         {
@@ -12189,6 +12189,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "jonah heim",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-12 22:00:42",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:35 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "wyatt langford",
             "game": "tex @ hou",
             "hr/park": "",
@@ -13120,6 +13135,21 @@
         }
     ],
     "phi @ sd": [
+        {
+            "player": "bryson stott",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-12 22:00:42",
+            "img": "https://www.mlbstatic.com/team-logos/143.svg",
+            "team": "phi",
+            "start": "7:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "nick castellanos",
             "game": "phi @ sd",
@@ -14077,10 +14107,10 @@
             "team": "laa",
             "start": "9:38 PM",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "90.4",
+            "la": "39",
+            "dist": "303"
         },
         {
             "player": "jo adell",
