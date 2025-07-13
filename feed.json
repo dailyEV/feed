@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "105",
+        "pitchers": "106",
         "batters": "302",
-        "pitches": "3886",
+        "pitches": "3889",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "34.4",
+        "ff%fourseam fastball %": "34.3",
         "si%sinker %": "14.5",
         "fc%cutter %": "8.0",
         "fs%splitter %": "5.0",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.0",
         "brlbarrels": "52",
         "brl%barrel %": "7.5",
-        "ab": "916",
-        "avg": ".224",
+        "ab": "918",
+        "avg": ".223",
         "h": "205",
         "1b": "131",
         "2b": "40",
         "3b": "3",
         "hr": "31",
-        "so": "241",
+        "so": "242",
         "bipballs in play": "693",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 18:13:14.069554"
+        "updated": "2025-07-13 18:13:26.258185"
     },
     "tb @ bos": [
         {
@@ -11529,6 +11529,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "will smith",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-13 18:13:19",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rafael devers",
             "game": "lad @ sf",
             "hr/park": "",
@@ -13228,16 +13243,31 @@
     ],
     "ari @ laa": [
         {
-            "player": "logan ohoppe",
+            "player": "lamonte wade",
             "game": "ari @ laa",
             "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-13 18:13:19",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "4:07 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "logan ohoppe",
+            "game": "ari @ laa",
+            "hr/park": "0/30",
             "pa": "56",
             "dt": "2025-07-13 18:10:03",
             "img": "https://www.mlbstatic.com/team-logos/108.svg",
             "team": "laa",
             "start": "4:07 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "92.2",
             "la": "30",
             "dist": "330"
@@ -14079,7 +14109,7 @@
             "team": "phi",
             "start": "4:10 PM",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
