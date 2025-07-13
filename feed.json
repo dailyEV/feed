@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "18",
         "batters": "126",
-        "pitches": "637",
+        "pitches": "649",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "44.0",
+        "ff%fourseam fastball %": "43.5",
         "si%sinker %": "8.8",
-        "fc%cutter %": "6.4",
-        "fs%splitter %": "4.6",
-        "ch%changeup %": "8.0",
-        "sl%slider %": "18.5",
-        "cu%curve %": "9.7",
+        "fc%cutter %": "6.5",
+        "fs%splitter %": "4.5",
+        "ch%changeup %": "8.2",
+        "sl%slider %": "18.8",
+        "cu%curve %": "9.9",
         "max evmax exit velocity": "109.9",
-        "hhhard hit": "42",
-        "hh%hard hit %": "36.5",
+        "hhhard hit": "43",
+        "hh%hard hit %": "36.8",
         "brlbarrels": "9",
-        "brl%barrel %": "7.8",
-        "ab": "147",
-        "avg": ".204",
-        "h": "30",
-        "1b": "20",
+        "brl%barrel %": "7.7",
+        "ab": "148",
+        "avg": ".216",
+        "h": "32",
+        "1b": "21",
         "2b": "5",
-        "3b": "0",
+        "3b": "1",
         "hr": "5",
-        "so": "27",
-        "bipballs in play": "115",
+        "so": "30",
+        "bipballs in play": "117",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:35:55.178656"
+        "updated": "2025-07-13 14:36:03.478231"
     },
     "tb @ bos": [
         {
@@ -41,10 +41,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "102.9",
+            "la": "12",
+            "dist": "201"
         },
         {
             "player": "masataka yoshida",
@@ -494,7 +494,7 @@
             "team": "chc",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -892,6 +892,21 @@
     ],
     "col @ cin": [
         {
+            "player": "brenton doyle",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-13 14:35:18",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:40 PM",
+            "in": "4",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "ryan mcmahon",
             "game": "col @ cin",
             "hr/park": "",
@@ -901,7 +916,7 @@
             "team": "col",
             "start": "1:40 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "79.1",
             "la": "27",
             "dist": "274"
@@ -1671,10 +1686,10 @@
             "team": "tex",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Triple",
+            "evo": "90.9",
+            "la": "15",
+            "dist": "233"
         },
         {
             "player": "wyatt langford",
@@ -2020,7 +2035,7 @@
             "team": "chw",
             "start": "2:10 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2187,7 +2202,7 @@
             "team": "mil",
             "start": "2:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2354,7 +2369,7 @@
             "team": "atl",
             "start": "2:15 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
