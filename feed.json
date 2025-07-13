@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "193",
-        "pitches": "1638",
+        "batters": "194",
+        "pitches": "1642",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "38.9",
+        "ff%fourseam fastball %": "38.8",
         "si%sinker %": "10.6",
         "fc%cutter %": "7.1",
-        "fs%splitter %": "6.1",
-        "ch%changeup %": "8.9",
-        "sl%slider %": "16.5",
-        "cu%curve %": "12.0",
+        "fs%splitter %": "6.0",
+        "ch%changeup %": "9.0",
+        "sl%slider %": "16.6",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "110.7",
-        "hhhard hit": "113",
-        "hh%hard hit %": "36.7",
+        "hhhard hit": "114",
+        "hh%hard hit %": "36.8",
         "brlbarrels": "24",
-        "brl%barrel %": "7.8",
-        "ab": "395",
-        "avg": ".230",
-        "h": "91",
-        "1b": "59",
+        "brl%barrel %": "7.7",
+        "ab": "398",
+        "avg": ".231",
+        "h": "92",
+        "1b": "60",
         "2b": "18",
         "3b": "2",
         "hr": "12",
         "so": "89",
-        "bipballs in play": "308",
+        "bipballs in play": "310",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:35:42.591273"
+        "updated": "2025-07-13 15:35:51.654768"
     },
     "tb @ bos": [
         {
@@ -829,6 +829,21 @@
     ],
     "mia @ bal": [
         {
+            "player": "dane myers",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-13 15:35:48",
+            "img": "https://www.mlbstatic.com/team-logos/146.svg",
+            "team": "mia",
+            "start": "1:35 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "liam hicks",
             "game": "mia @ bal",
             "hr/park": "",
@@ -838,10 +853,10 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Single",
+            "evo": "101.4",
+            "la": "-5",
+            "dist": "24"
         },
         {
             "player": "otto lopez",
@@ -980,6 +995,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "giancarlo stanton",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-07-13 15:35:48",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "aaron judge",
             "game": "chc @ nyy",
@@ -1777,6 +1807,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "matt mclain",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-13 15:34:47",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "6",
+            "result": "Pop Out",
+            "evo": "80.3",
+            "la": "69",
+            "dist": "127"
+        },
         {
             "player": "tj friedl",
             "game": "col @ cin",
@@ -3312,6 +3357,21 @@
     ],
     "nym @ kc": [
         {
+            "player": "jonathan india",
+            "game": "nym @ kc",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-07-13 15:35:48",
+            "img": "https://www.mlbstatic.com/team-logos/118.svg",
+            "team": "kc",
+            "start": "2:10 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "pete alonso",
             "game": "nym @ kc",
             "hr/park": "",
@@ -3644,21 +3704,6 @@
     ],
     "tex @ hou": [
         {
-            "player": "cooper hummel",
-            "game": "tex @ hou",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-07-13 15:35:18",
-            "img": "https://www.mlbstatic.com/team-logos/117.svg",
-            "team": "hou",
-            "start": "2:10 PM",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "mauricio dubon",
             "game": "tex @ hou",
             "hr/park": "",
@@ -3668,7 +3713,7 @@
             "team": "hou",
             "start": "2:10 PM",
             "in": "5",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "55.7",
             "la": "77",
             "dist": "49"
