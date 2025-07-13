@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "31",
         "batters": "191",
-        "pitches": "1603",
+        "pitches": "1610",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "69.0",
         "ff%fourseam fastball %": "39.0",
-        "si%sinker %": "10.6",
+        "si%sinker %": "10.7",
         "fc%cutter %": "6.9",
         "fs%splitter %": "5.9",
         "ch%changeup %": "8.9",
-        "sl%slider %": "16.7",
+        "sl%slider %": "16.6",
         "cu%curve %": "12.0",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "111",
-        "hh%hard hit %": "37.1",
+        "hh%hard hit %": "36.8",
         "brlbarrels": "23",
-        "brl%barrel %": "7.7",
-        "ab": "386",
+        "brl%barrel %": "7.6",
+        "ab": "387",
         "avg": ".233",
         "h": "90",
         "1b": "59",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "11",
         "so": "88",
-        "bipballs in play": "299",
+        "bipballs in play": "302",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:33:43.911080"
+        "updated": "2025-07-13 15:33:52.763694"
     },
     "tb @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "tb",
             "start": "1:35 PM",
             "in": "7",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "76.5",
             "la": "4",
             "dist": "73"
@@ -950,6 +950,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "cody bellinger",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-13 15:33:48",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "53.1",
+            "la": "-31",
+            "dist": "4"
+        },
         {
             "player": "carson kelly",
             "game": "chc @ nyy",
@@ -3246,10 +3261,10 @@
             "team": "nym",
             "start": "2:10 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "73.0",
+            "la": "-9",
+            "dist": "14"
         },
         {
             "player": "juan soto",
@@ -4150,10 +4165,10 @@
             "team": "min",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "61.0",
+            "la": "57",
+            "dist": "137"
         },
         {
             "player": "harrison bader",
