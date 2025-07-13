@@ -2,21 +2,21 @@
     "all": {
         "pitchers": "86",
         "batters": "290",
-        "pitches": "3106",
+        "pitches": "3107",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "36.3",
+        "ff%fourseam fastball %": "36.2",
         "si%sinker %": "13.2",
         "fc%cutter %": "7.7",
         "fs%splitter %": "5.8",
         "ch%changeup %": "8.6",
-        "sl%slider %": "18.3",
+        "sl%slider %": "18.2",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.4",
-        "hhhard hit": "220",
-        "hh%hard hit %": "39.2",
-        "brlbarrels": "36",
-        "brl%barrel %": "6.4",
+        "hhhard hit": "222",
+        "hh%hard hit %": "39.4",
+        "brlbarrels": "37",
+        "brl%barrel %": "6.6",
         "ab": "737",
         "avg": ".220",
         "h": "162",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "25",
         "so": "186",
-        "bipballs in play": "561",
+        "bipballs in play": "563",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:50:58.577911"
+        "updated": "2025-07-13 16:51:09.461851"
     },
     "tb @ bos": [
         {
@@ -1038,21 +1038,6 @@
         }
     ],
     "mia @ bal": [
-        {
-            "player": "alex jackson",
-            "game": "mia @ bal",
-            "hr/park": "",
-            "pa": "49",
-            "dt": "2025-07-13 16:50:51",
-            "img": "https://www.mlbstatic.com/team-logos/110.svg",
-            "team": "bal",
-            "start": "1:35 PM",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
         {
             "player": "cedric mullins",
             "game": "mia @ bal",
@@ -10217,9 +10202,9 @@
             "start": "2:15 PM",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "evo": "107.1",
+            "la": "6",
+            "dist": "161"
         },
         {
             "player": "jurickson profar",
@@ -11110,6 +11095,21 @@
         }
     ],
     "tor @ ath": [
+        {
+            "player": "brent rooker",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-13 16:51:04",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "103.7",
+            "la": "33",
+            "dist": "385"
+        },
         {
             "player": "nick kurtz",
             "game": "tor @ ath",
