@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "83",
         "batters": "286",
-        "pitches": "3024",
+        "pitches": "3030",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "36.5",
@@ -14,7 +14,7 @@
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "214",
-        "hh%hard hit %": "39.2",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "36",
         "brl%barrel %": "6.6",
         "ab": "716",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "25",
         "so": "181",
-        "bipballs in play": "546",
+        "bipballs in play": "548",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:45:46.826547"
+        "updated": "2025-07-13 16:45:57.765832"
     },
     "tb @ bos": [
         {
@@ -1048,10 +1048,10 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "89.8",
+            "la": "-6",
+            "dist": "21"
         },
         {
             "player": "xavier edwards",
@@ -10584,6 +10584,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "shohei ohtani",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-13 16:45:50",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "rafael devers",
             "game": "lad @ sf",
             "hr/park": "",
@@ -11167,10 +11182,10 @@
             "team": "ari",
             "start": "4:07 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Sac Bunt",
+            "evo": "40.0",
+            "la": "-40",
+            "dist": "5"
         },
         {
             "player": "blaze alexander",
@@ -11424,7 +11439,7 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "95.6",
             "la": "29",
             "dist": "350"
