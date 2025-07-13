@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "61",
-        "batters": "220",
-        "pitches": "2322",
+        "pitchers": "62",
+        "batters": "221",
+        "pitches": "2326",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.6",
+        "ff%fourseam fastball %": "37.7",
         "si%sinker %": "11.8",
         "fc%cutter %": "7.4",
         "fs%splitter %": "6.2",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.7",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "166",
-        "hh%hard hit %": "39.0",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "30",
-        "brl%barrel %": "7.0",
-        "ab": "558",
-        "avg": ".226",
-        "h": "126",
-        "1b": "80",
+        "brl%barrel %": "7.1",
+        "ab": "559",
+        "avg": ".224",
+        "h": "125",
+        "1b": "79",
         "2b": "25",
         "3b": "2",
         "hr": "19",
         "so": "135",
-        "bipballs in play": "426",
+        "bipballs in play": "425",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:13:42.277870"
+        "updated": "2025-07-13 16:13:52.449221"
     },
     "tb @ bos": [
         {
@@ -1038,6 +1038,21 @@
         }
     ],
     "mia @ bal": [
+        {
+            "player": "jackson holliday",
+            "game": "mia @ bal",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-13 16:13:18",
+            "img": "https://www.mlbstatic.com/team-logos/110.svg",
+            "team": "bal",
+            "start": "1:35 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "xavier edwards",
             "game": "mia @ bal",
@@ -4536,7 +4551,7 @@
             "team": "kc",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -5970,21 +5985,6 @@
         }
     ],
     "pit @ min": [
-        {
-            "player": "byron buxton",
-            "game": "pit @ min",
-            "hr/park": "",
-            "pa": "60",
-            "dt": "2025-07-13 16:13:35",
-            "img": "https://www.mlbstatic.com/team-logos/142.svg",
-            "team": "min",
-            "start": "2:10 PM",
-            "in": "8",
-            "result": "Single",
-            "evo": "91.8",
-            "la": "-13",
-            "dist": "13"
-        },
         {
             "player": "christian vazquez",
             "game": "pit @ min",
@@ -8920,6 +8920,21 @@
         }
     ],
     "tor @ ath": [
+        {
+            "player": "lawrence butler",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-07-13 16:13:18",
+            "img": "https://www.mlbstatic.com/team-logos/133.svg",
+            "team": "ath",
+            "start": "4:05 PM",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "vladimir guerrero",
             "game": "tor @ ath",
