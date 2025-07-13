@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "24",
         "batters": "180",
-        "pitches": "1352",
+        "pitches": "1354",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "70.7",
         "ff%fourseam fastball %": "39.9",
         "si%sinker %": "9.6",
-        "fc%cutter %": "7.0",
-        "fs%splitter %": "6.1",
+        "fc%cutter %": "7.1",
+        "fs%splitter %": "6.2",
         "ch%changeup %": "8.5",
-        "sl%slider %": "16.9",
-        "cu%curve %": "12.0",
+        "sl%slider %": "16.8",
+        "cu%curve %": "11.9",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "95",
-        "hh%hard hit %": "37.1",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "21",
         "brl%barrel %": "8.2",
         "ab": "328",
@@ -24,11 +24,11 @@
         "2b": "14",
         "3b": "2",
         "hr": "10",
-        "so": "73",
-        "bipballs in play": "256",
+        "so": "72",
+        "bipballs in play": "257",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:18:32.437378"
+        "updated": "2025-07-13 15:18:41.243782"
     },
     "tb @ bos": [
         {
@@ -41,7 +41,7 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "6",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2209,7 +2209,7 @@
             "team": "sea",
             "start": "1:40 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -4047,10 +4047,10 @@
             "team": "cle",
             "start": "2:10 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "83.2",
+            "la": "44",
+            "dist": "274"
         },
         {
             "player": "bo naylor",
