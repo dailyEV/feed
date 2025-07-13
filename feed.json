@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "43",
         "batters": "202",
-        "pitches": "2023",
+        "pitches": "2028",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "38.0",
@@ -10,25 +10,25 @@
         "fc%cutter %": "7.7",
         "fs%splitter %": "6.1",
         "ch%changeup %": "8.7",
-        "sl%slider %": "16.7",
+        "sl%slider %": "16.8",
         "cu%curve %": "11.6",
         "max evmax exit velocity": "113.7",
-        "hhhard hit": "149",
-        "hh%hard hit %": "39.3",
+        "hhhard hit": "150",
+        "hh%hard hit %": "39.4",
         "brlbarrels": "28",
-        "brl%barrel %": "7.4",
-        "ab": "490",
-        "avg": ".243",
-        "h": "119",
+        "brl%barrel %": "7.3",
+        "ab": "492",
+        "avg": ".244",
+        "h": "120",
         "1b": "77",
         "2b": "23",
         "3b": "2",
-        "hr": "17",
-        "so": "114",
-        "bipballs in play": "379",
+        "hr": "18",
+        "so": "113",
+        "bipballs in play": "381",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:57:44.479139"
+        "updated": "2025-07-13 15:57:54.007293"
     },
     "tb @ bos": [
         {
@@ -1003,7 +1003,7 @@
             "team": "mia",
             "start": "1:35 PM",
             "in": "3",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1350,10 +1350,10 @@
             "team": "nyy",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "94.9",
+            "la": "29",
+            "dist": "353"
         },
         {
             "player": "jasson dominguez",
@@ -2272,6 +2272,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "tyler stephenson",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-13 15:57:19",
+            "img": "https://www.mlbstatic.com/team-logos/113.svg",
+            "team": "cin",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "noelvi marte",
             "game": "col @ cin",
@@ -3205,11 +3220,11 @@
     ],
     "sea @ det": [
         {
-            "player": "riley greene",
+            "player": "spencer torkelson",
             "game": "sea @ det",
             "hr/park": "",
-            "pa": "58",
-            "dt": "2025-07-13 15:57:19",
+            "pa": "59",
+            "dt": "2025-07-13 15:57:49",
             "img": "https://www.mlbstatic.com/team-logos/116.svg",
             "team": "det",
             "start": "1:40 PM",
@@ -3218,6 +3233,21 @@
             "evo": "",
             "la": "",
             "dist": ""
+        },
+        {
+            "player": "riley greene",
+            "game": "sea @ det",
+            "hr/park": "30/30",
+            "pa": "58",
+            "dt": "2025-07-13 15:57:19",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:40 PM",
+            "in": "7",
+            "result": "Home Run",
+            "evo": "106.5",
+            "la": "45",
+            "dist": "386"
         },
         {
             "player": "gleyber torres",
