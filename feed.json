@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "98",
         "batters": "250",
-        "pitches": "3232",
+        "pitches": "3235",
         "max velomax pitch velocity": "103.4",
         "min velomin pitch velocity": "69.4",
         "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "15.7",
+        "si%sinker %": "15.8",
         "fc%cutter %": "9.5",
         "fs%splitter %": "3.1",
         "ch%changeup %": "9.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.8",
         "max evmax exit velocity": "114.5",
         "hhhard hit": "237",
-        "hh%hard hit %": "38.8",
+        "hh%hard hit %": "38.7",
         "brlbarrels": "46",
         "brl%barrel %": "7.5",
-        "ab": "766",
-        "avg": ".243",
+        "ab": "768",
+        "avg": ".242",
         "h": "186",
         "1b": "115",
         "2b": "40",
         "3b": "4",
         "hr": "27",
         "so": "183",
-        "bipballs in play": "611",
+        "bipballs in play": "613",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-12 20:20:35.024883"
+        "updated": "2025-07-12 20:20:46.211150"
     },
     "chc @ nyy": [
         {
@@ -12189,6 +12189,36 @@
     ],
     "tex @ hou": [
         {
+            "player": "adolis garcia",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-12 20:20:40",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:35 PM",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
+            "player": "marcus semien",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-12 20:20:40",
+            "img": "https://www.mlbstatic.com/team-logos/140.svg",
+            "team": "tex",
+            "start": "7:35 PM",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "79.5",
+            "la": "-18",
+            "dist": "7"
+        },
+        {
             "player": "corey seager",
             "game": "tex @ hou",
             "hr/park": "",
@@ -12198,10 +12228,10 @@
             "team": "tex",
             "start": "7:35 PM",
             "in": "3",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "74.0",
+            "la": "10",
+            "dist": "108"
         },
         {
             "player": "sam haggerty",
