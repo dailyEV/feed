@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "42",
         "batters": "202",
-        "pitches": "1994",
+        "pitches": "1996",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "37.9",
+        "ff%fourseam fastball %": "38.0",
         "si%sinker %": "11.1",
-        "fc%cutter %": "7.7",
+        "fc%cutter %": "7.8",
         "fs%splitter %": "6.2",
-        "ch%changeup %": "8.8",
+        "ch%changeup %": "8.7",
         "sl%slider %": "16.5",
         "cu%curve %": "11.7",
         "max evmax exit velocity": "113.7",
-        "hhhard hit": "145",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "147",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "28",
         "brl%barrel %": "7.5",
-        "ab": "484",
-        "avg": ".242",
-        "h": "117",
+        "ab": "485",
+        "avg": ".243",
+        "h": "118",
         "1b": "76",
         "2b": "23",
         "3b": "2",
-        "hr": "16",
+        "hr": "17",
         "so": "111",
-        "bipballs in play": "373",
+        "bipballs in play": "375",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:56:08.963132"
+        "updated": "2025-07-13 15:56:18.416054"
     },
     "tb @ bos": [
         {
@@ -41,10 +41,10 @@
             "team": "bos",
             "start": "1:35 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Forceout",
+            "evo": "100.6",
+            "la": "-11",
+            "dist": "12"
         },
         {
             "player": "alex bregman",
@@ -981,17 +981,17 @@
         {
             "player": "otto lopez",
             "game": "mia @ bal",
-            "hr/park": "",
+            "hr/park": "12/30",
             "pa": "22",
             "dt": "2025-07-13 15:54:49",
             "img": "https://www.mlbstatic.com/team-logos/146.svg",
             "team": "mia",
             "start": "1:35 PM",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Home Run",
+            "evo": "98.3",
+            "la": "34",
+            "dist": "379"
         },
         {
             "player": "kyle stowers",
@@ -1310,6 +1310,21 @@
         }
     ],
     "chc @ nyy": [
+        {
+            "player": "jasson dominguez",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-13 15:56:18",
+            "img": "https://www.mlbstatic.com/team-logos/147.svg",
+            "team": "nyy",
+            "start": "1:35 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "jazz chisholm",
             "game": "chc @ nyy",
