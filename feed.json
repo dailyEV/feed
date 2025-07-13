@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "22",
         "batters": "174",
-        "pitches": "1232",
+        "pitches": "1239",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "41.0",
-        "si%sinker %": "9.5",
-        "fc%cutter %": "6.3",
+        "ff%fourseam fastball %": "40.8",
+        "si%sinker %": "9.6",
+        "fc%cutter %": "6.2",
         "fs%splitter %": "5.8",
-        "ch%changeup %": "8.7",
-        "sl%slider %": "16.6",
+        "ch%changeup %": "8.6",
+        "sl%slider %": "16.8",
         "cu%curve %": "12.1",
         "max evmax exit velocity": "110.7",
         "hhhard hit": "88",
-        "hh%hard hit %": "37.6",
+        "hh%hard hit %": "37.3",
         "brlbarrels": "20",
         "brl%barrel %": "8.5",
-        "ab": "299",
-        "avg": ".227",
-        "h": "68",
-        "1b": "44",
+        "ab": "302",
+        "avg": ".228",
+        "h": "69",
+        "1b": "45",
         "2b": "13",
         "3b": "2",
         "hr": "9",
-        "so": "65",
-        "bipballs in play": "234",
+        "so": "66",
+        "bipballs in play": "236",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 15:11:39.150915"
+        "updated": "2025-07-13 15:11:47.724374"
     },
     "tb @ bos": [
         {
@@ -710,6 +710,21 @@
     "mia @ bal": [],
     "chc @ nyy": [
         {
+            "player": "vidal brujan",
+            "game": "chc @ nyy",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-13 15:11:47",
+            "img": "https://www.mlbstatic.com/team-logos/112.svg",
+            "team": "chc",
+            "start": "1:35 PM",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "nico hoerner",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -719,7 +734,7 @@
             "team": "chc",
             "start": "1:35 PM",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
@@ -1351,10 +1366,10 @@
             "team": "cin",
             "start": "1:40 PM",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Pop Out",
+            "evo": "82.9",
+            "la": "70",
+            "dist": "120"
         },
         {
             "player": "noelvi marte",
@@ -2003,6 +2018,21 @@
         }
     ],
     "sea @ det": [
+        {
+            "player": "riley greene",
+            "game": "sea @ det",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-07-13 15:11:47",
+            "img": "https://www.mlbstatic.com/team-logos/116.svg",
+            "team": "det",
+            "start": "1:40 PM",
+            "in": "5",
+            "result": "Game Advisory",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "gleyber torres",
             "game": "sea @ det",
@@ -2790,14 +2820,14 @@
         {
             "player": "alejandro osuna",
             "game": "tex @ hou",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "27",
             "dt": "2025-07-13 15:10:33",
             "img": "https://www.mlbstatic.com/team-logos/140.svg",
             "team": "tex",
             "start": "2:10 PM",
             "in": "4",
-            "result": "In Progress",
+            "result": "Sac Fly",
             "evo": "92.0",
             "la": "23",
             "dist": "336"
@@ -3677,6 +3707,21 @@
     ],
     "cle @ chw": [
         {
+            "player": "andrew benintendi",
+            "game": "cle @ chw",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-13 15:11:47",
+            "img": "https://www.mlbstatic.com/team-logos/145.svg",
+            "team": "chw",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "Single",
+            "evo": "84.5",
+            "la": "22",
+            "dist": "257"
+        },
+        {
             "player": "lenyn sosa",
             "game": "cle @ chw",
             "hr/park": "",
@@ -4083,6 +4128,21 @@
         }
     ],
     "wsh @ mil": [
+        {
+            "player": "andruw monasterio",
+            "game": "wsh @ mil",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-13 15:11:47",
+            "img": "https://www.mlbstatic.com/team-logos/158.svg",
+            "team": "mil",
+            "start": "2:10 PM",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "paul dejong",
             "game": "wsh @ mil",
