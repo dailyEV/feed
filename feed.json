@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "82",
-        "batters": "275",
-        "pitches": "2889",
+        "batters": "276",
+        "pitches": "2895",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "37.0",
         "si%sinker %": "12.3",
         "fc%cutter %": "7.8",
         "fs%splitter %": "6.0",
-        "ch%changeup %": "8.8",
+        "ch%changeup %": "8.7",
         "sl%slider %": "17.8",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "205",
-        "hh%hard hit %": "39.3",
+        "hh%hard hit %": "39.2",
         "brlbarrels": "36",
         "brl%barrel %": "6.9",
-        "ab": "687",
+        "ab": "689",
         "avg": ".221",
         "h": "152",
         "1b": "95",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "25",
         "so": "171",
-        "bipballs in play": "521",
+        "bipballs in play": "523",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 16:38:47.665142"
+        "updated": "2025-07-13 16:38:58.102103"
     },
     "tb @ bos": [
         {
@@ -5759,6 +5759,21 @@
     ],
     "tex @ hou": [
         {
+            "player": "jose altuve",
+            "game": "tex @ hou",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-07-13 16:38:18",
+            "img": "https://www.mlbstatic.com/team-logos/117.svg",
+            "team": "hou",
+            "start": "2:10 PM",
+            "in": "9",
+            "result": "Groundout",
+            "evo": "51.5",
+            "la": "-33",
+            "dist": "6"
+        },
+        {
             "player": "josh smith",
             "game": "tex @ hou",
             "hr/park": "",
@@ -10783,6 +10798,21 @@
     ],
     "ari @ laa": [
         {
+            "player": "lamonte wade",
+            "game": "ari @ laa",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-13 16:38:50",
+            "img": "https://www.mlbstatic.com/team-logos/108.svg",
+            "team": "laa",
+            "start": "4:07 PM",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "logan ohoppe",
             "game": "ari @ laa",
             "hr/park": "",
@@ -11004,10 +11034,10 @@
             "team": "phi",
             "start": "4:10 PM",
             "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "74.8",
+            "la": "-17",
+            "dist": "12"
         },
         {
             "player": "edmundo sosa",
