@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "18",
-        "batters": "126",
-        "pitches": "650",
+        "batters": "127",
+        "pitches": "651",
         "max velomax pitch velocity": "98.3",
         "min velomin pitch velocity": "72.8",
-        "ff%fourseam fastball %": "43.8",
+        "ff%fourseam fastball %": "43.6",
         "si%sinker %": "8.8",
         "fc%cutter %": "6.5",
         "fs%splitter %": "4.5",
-        "ch%changeup %": "8.2",
-        "sl%slider %": "18.6",
-        "cu%curve %": "9.7",
+        "ch%changeup %": "8.1",
+        "sl%slider %": "18.7",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "109.9",
         "hhhard hit": "44",
-        "hh%hard hit %": "37.3",
+        "hh%hard hit %": "37.0",
         "brlbarrels": "9",
         "brl%barrel %": "7.6",
         "ab": "148",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "5",
         "so": "29",
-        "bipballs in play": "118",
+        "bipballs in play": "119",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 14:36:27.908736"
+        "updated": "2025-07-13 14:36:35.812990"
     },
     "tb @ bos": [
         {
@@ -485,21 +485,6 @@
     "mia @ bal": [],
     "chc @ nyy": [
         {
-            "player": "vidal brujan",
-            "game": "chc @ nyy",
-            "hr/park": "",
-            "pa": "28",
-            "dt": "2025-07-13 14:36:18",
-            "img": "https://www.mlbstatic.com/team-logos/112.svg",
-            "team": "chc",
-            "start": "1:35 PM",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
-        },
-        {
             "player": "nico hoerner",
             "game": "chc @ nyy",
             "hr/park": "",
@@ -509,7 +494,7 @@
             "team": "chc",
             "start": "1:35 PM",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": ""
@@ -2375,6 +2360,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "ozzie albies",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-13 14:36:33",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "2:15 PM",
+            "in": "2",
+            "result": "Pop Out",
+            "evo": "75.6",
+            "la": "89",
+            "dist": "55"
+        },
+        {
             "player": "drake baldwin",
             "game": "atl @ stl",
             "hr/park": "",
@@ -2384,7 +2384,7 @@
             "team": "atl",
             "start": "2:15 PM",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": ""
