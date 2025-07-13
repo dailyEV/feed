@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "47",
+        "pitchers": "48",
         "batters": "205",
-        "pitches": "2072",
+        "pitches": "2075",
         "max velomax pitch velocity": "99.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "38.1",
+        "ff%fourseam fastball %": "38.0",
         "si%sinker %": "11.1",
         "fc%cutter %": "7.7",
-        "fs%splitter %": "6.1",
+        "fs%splitter %": "6.2",
         "ch%changeup %": "8.7",
-        "sl%slider %": "16.9",
+        "sl%slider %": "17.0",
         "cu%curve %": "11.4",
-        "max evmax exit velocity": "113.7",
-        "hhhard hit": "151",
-        "hh%hard hit %": "39.1",
+        "max evmax exit velocity": "115.4",
+        "hhhard hit": "152",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "28",
-        "brl%barrel %": "7.3",
-        "ab": "502",
+        "brl%barrel %": "7.2",
+        "ab": "503",
         "avg": ".239",
         "h": "120",
         "1b": "77",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "18",
         "so": "116",
-        "bipballs in play": "386",
+        "bipballs in play": "387",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-13 16:01:26.992045"
+        "updated": "2025-07-13 16:01:36.809273"
     },
     "tb @ bos": [
         {
@@ -2332,6 +2332,21 @@
         }
     ],
     "col @ cin": [
+        {
+            "player": "michael toglia",
+            "game": "col @ cin",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-13 16:01:33",
+            "img": "https://www.mlbstatic.com/team-logos/115.svg",
+            "team": "col",
+            "start": "1:40 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "tyler stephenson",
             "game": "col @ cin",
@@ -6989,10 +7004,10 @@
             "team": "wsh",
             "start": "2:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "115.4",
+            "la": "-6",
+            "dist": "19"
         },
         {
             "player": "daylen lile",
