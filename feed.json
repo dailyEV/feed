@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "101",
         "batters": "301",
-        "pitches": "3791",
+        "pitches": "3796",
         "max velomax pitch velocity": "102.4",
         "min velomin pitch velocity": "68.1",
-        "ff%fourseam fastball %": "34.4",
+        "ff%fourseam fastball %": "34.3",
         "si%sinker %": "14.5",
         "fc%cutter %": "8.0",
         "fs%splitter %": "5.1",
-        "ch%changeup %": "8.8",
-        "sl%slider %": "18.6",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "18.7",
         "cu%curve %": "10.6",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "266",
-        "hh%hard hit %": "39.1",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "49",
         "brl%barrel %": "7.2",
-        "ab": "894",
-        "avg": ".225",
+        "ab": "897",
+        "avg": ".224",
         "h": "201",
         "1b": "130",
         "2b": "38",
         "3b": "3",
         "hr": "30",
         "so": "233",
-        "bipballs in play": "681",
+        "bipballs in play": "682",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 17:58:47.887313"
+        "updated": "2025-07-13 17:58:59.310804"
     },
     "tb @ bos": [
         {
@@ -11529,6 +11529,21 @@
     ],
     "lad @ sf": [
         {
+            "player": "shohei ohtani",
+            "game": "lad @ sf",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-07-13 17:58:51",
+            "img": "https://www.mlbstatic.com/team-logos/119.svg",
+            "team": "lad",
+            "start": "4:05 PM",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "michael conforto",
             "game": "lad @ sf",
             "hr/park": "",
@@ -11538,10 +11553,10 @@
             "team": "lad",
             "start": "4:05 PM",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Flyout",
+            "evo": "85.2",
+            "la": "49",
+            "dist": "251"
         },
         {
             "player": "casey schmitt",
@@ -12325,6 +12340,21 @@
         }
     ],
     "tor @ ath": [
+        {
+            "player": "alejandro kirk",
+            "game": "tor @ ath",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-13 17:58:51",
+            "img": "https://www.mlbstatic.com/team-logos/141.svg",
+            "team": "tor",
+            "start": "4:05 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
         {
             "player": "vladimir guerrero",
             "game": "tor @ ath",
@@ -13815,6 +13845,21 @@
     ],
     "phi @ sd": [
         {
+            "player": "elias diaz",
+            "game": "phi @ sd",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-13 17:58:51",
+            "img": "https://www.mlbstatic.com/team-logos/135.svg",
+            "team": "sd",
+            "start": "4:10 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": ""
+        },
+        {
             "player": "bryce johnson",
             "game": "phi @ sd",
             "hr/park": "",
@@ -13824,10 +13869,10 @@
             "team": "sd",
             "start": "4:10 PM",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": ""
+            "result": "Groundout",
+            "evo": "77.6",
+            "la": "-12",
+            "dist": "10"
         },
         {
             "player": "kyle schwarber",
