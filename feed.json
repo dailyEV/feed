@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "121",
+        "pitchers": "122",
         "batters": "307",
-        "pitches": "4259",
+        "pitches": "4260",
         "max velomax pitch velocity": "104.1",
         "min velomin pitch velocity": "68.1",
         "ff%fourseam fastball %": "33.8",
@@ -14,10 +14,10 @@
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.4",
         "hhhard hit": "287",
-        "hh%hard hit %": "37.7",
+        "hh%hard hit %": "37.6",
         "brlbarrels": "56",
         "brl%barrel %": "7.3",
-        "ab": "996",
+        "ab": "997",
         "avg": ".225",
         "h": "224",
         "1b": "145",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "33",
         "so": "260",
-        "bipballs in play": "762",
+        "bipballs in play": "763",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-13 20:14:53.650494"
+        "updated": "2025-07-13 20:15:05.922632"
     },
     "tb @ bos": [
         {
@@ -10972,6 +10972,21 @@
     ],
     "atl @ stl": [
         {
+            "player": "matt olson",
+            "game": "atl @ stl",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-07-13 20:15:03",
+            "img": "https://www.mlbstatic.com/team-logos/144.svg",
+            "team": "atl",
+            "start": "2:15 PM",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "77.1",
+            "la": "67",
+            "dist": "156"
+        },
+        {
             "player": "jurickson profar",
             "game": "atl @ stl",
             "hr/park": "",
@@ -10981,7 +10996,7 @@
             "team": "atl",
             "start": "2:15 PM",
             "in": "7",
-            "result": "In Progress",
+            "result": "Field Error",
             "evo": "91.9",
             "la": "-40",
             "dist": "2"
