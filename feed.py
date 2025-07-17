@@ -18,6 +18,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+from supabase import create_client
+
 def commitChanges():
 	repo = git.Repo(".")
 	repo.git.add(A=True)
@@ -183,6 +185,3 @@ if __name__ == '__main__':
 	if args.commit:
 		commitChanges()
 		exit()
-
-	#time.sleep(7400)
-	writeFeed(date, args.loop)
