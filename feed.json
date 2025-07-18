@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "68",
-        "pitches": "467",
+        "batters": "71",
+        "pitches": "475",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "76.0",
-        "ff%fourseam fastball %": "42.0",
-        "si%sinker %": "12.4",
+        "ff%fourseam fastball %": "41.7",
+        "si%sinker %": "12.8",
         "fc%cutter %": "2.1",
-        "fs%splitter %": "4.5",
-        "ch%changeup %": "7.1",
-        "sl%slider %": "25.9",
-        "cu%curve %": "6.0",
+        "fs%splitter %": "4.4",
+        "ch%changeup %": "6.9",
+        "sl%slider %": "26.1",
+        "cu%curve %": "5.9",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "38",
         "hh%hard hit %": "46.3",
         "brlbarrels": "11",
         "brl%barrel %": "13.4",
-        "ab": "110",
-        "avg": ".218",
+        "ab": "113",
+        "avg": ".212",
         "h": "24",
         "1b": "16",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "82",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-07-18 19:14:06.828775"
+        "updated": "2025-07-18 19:14:14.775641"
     },
     "bos @ chc": [
         {
@@ -1241,6 +1241,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-18 19:14:09",
+            "player": "nick gonzales",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-18",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:10:39",
             "player": "chase meidroth",
             "game": "chw @ pit",
@@ -1463,6 +1480,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-18 19:14:09",
+            "player": "brady house",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-18",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:11:23",
             "player": "nathaniel lowe",
@@ -1707,7 +1741,7 @@
             "created_at": "2025-07-18 19:12:40",
             "player": "brandon marsh",
             "game": "laa @ phi",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "14",
             "dt": "2025-07-18",
             "team": "phi",
@@ -1953,11 +1987,11 @@
             "team": "sf",
             "stadium": "tor",
             "in": "1",
-            "result": "GIDP",
-            "evo": "106.4",
-            "la": "-10",
-            "dist": "14",
-            "is_hh": true,
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
             "is_brl": false
         },
         {
@@ -2042,11 +2076,11 @@
             "team": "ath",
             "stadium": "cle",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Groundout",
+            "evo": "95.3",
+            "la": "-11",
+            "dist": "13",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -2068,6 +2102,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-18 19:14:09",
+            "player": "vinnie pasquantino",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-07-18",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:12:40",
             "player": "bobby witt",
