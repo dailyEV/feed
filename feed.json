@@ -1,15 +1,15 @@
 {
     "all": {
-        "pitchers": "16",
-        "batters": "54",
-        "pitches": "420",
+        "pitchers": "17",
+        "batters": "55",
+        "pitches": "421",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "77.0",
-        "ff%fourseam fastball %": "41.2",
-        "si%sinker %": "11.7",
+        "ff%fourseam fastball %": "41.3",
+        "si%sinker %": "11.6",
         "fc%cutter %": "2.4",
         "fs%splitter %": "5.0",
-        "ch%changeup %": "7.9",
+        "ch%changeup %": "7.8",
         "sl%slider %": "25.7",
         "cu%curve %": "6.2",
         "max evmax exit velocity": "115.2",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "47.9",
         "brlbarrels": "10",
         "brl%barrel %": "13.7",
-        "ab": "96",
-        "avg": ".219",
+        "ab": "97",
+        "avg": ".216",
         "h": "21",
         "1b": "13",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "73",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-07-18 19:10:04.312431"
+        "updated": "2025-07-18 19:10:12.059282"
     },
     "bos @ chc": [
         {
@@ -1250,7 +1250,7 @@
             "team": "chw",
             "stadium": "pit",
             "in": "2",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "107.0",
             "la": "-25",
             "dist": "5",
@@ -1635,6 +1635,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-18 19:10:08",
+            "player": "nick castellanos",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-18",
+            "team": "phi",
+            "stadium": "phi",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:05:38",
             "player": "luis rengifo",
