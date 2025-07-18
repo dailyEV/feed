@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "14",
-        "batters": "31",
-        "pitches": "316",
+        "pitchers": "15",
+        "batters": "32",
+        "pitches": "320",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "77.0",
-        "ff%fourseam fastball %": "42.4",
-        "si%sinker %": "11.7",
+        "ff%fourseam fastball %": "41.9",
+        "si%sinker %": "12.2",
         "fc%cutter %": "1.6",
-        "fs%splitter %": "6.0",
-        "ch%changeup %": "7.3",
-        "sl%slider %": "23.1",
-        "cu%curve %": "7.9",
+        "fs%splitter %": "5.9",
+        "ch%changeup %": "7.2",
+        "sl%slider %": "23.4",
+        "cu%curve %": "7.8",
         "max evmax exit velocity": "115.2",
         "hhhard hit": "26",
         "hh%hard hit %": "45.6",
         "brlbarrels": "8",
         "brl%barrel %": "14.0",
-        "ab": "74",
-        "avg": ".189",
+        "ab": "75",
+        "avg": ".187",
         "h": "14",
         "1b": "9",
         "2b": "3",
@@ -28,7 +28,7 @@
         "bipballs in play": "57",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-07-18 18:52:46.765243"
+        "updated": "2025-07-18 18:52:54.350206"
     },
     "bos @ chc": [
         {
@@ -1327,6 +1327,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-18 18:52:54",
+            "player": "cj abrams",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-07-18",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 18:51:08",
             "player": "manny machado",
