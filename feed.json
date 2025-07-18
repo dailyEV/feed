@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "102",
-        "pitches": "628",
+        "batters": "103",
+        "pitches": "629",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "41.7",
+        "ff%fourseam fastball %": "41.8",
         "si%sinker %": "13.2",
         "fc%cutter %": "2.5",
         "fs%splitter %": "3.3",
         "ch%changeup %": "6.7",
-        "sl%slider %": "26.8",
+        "sl%slider %": "26.7",
         "cu%curve %": "5.7",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "48",
         "hh%hard hit %": "44.4",
         "brlbarrels": "13",
         "brl%barrel %": "12.0",
-        "ab": "145",
-        "avg": ".228",
+        "ab": "146",
+        "avg": ".226",
         "h": "33",
         "1b": "24",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "108",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-18 19:24:19.899139"
+        "updated": "2025-07-18 19:24:28.120159"
     },
     "bos @ chc": [
         {
@@ -2215,6 +2215,23 @@
         }
     ],
     "sf @ tor": [
+        {
+            "created_at": "2025-07-18 19:24:22",
+            "player": "bo bichette",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-07-18",
+            "team": "tor",
+            "stadium": "tor",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:22:07",
             "player": "vladimir guerrero",
