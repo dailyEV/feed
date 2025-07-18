@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "28",
         "batters": "150",
-        "pitches": "896",
+        "pitches": "898",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "39.4",
+        "ff%fourseam fastball %": "39.3",
         "si%sinker %": "13.7",
         "fc%cutter %": "3.1",
         "fs%splitter %": "2.7",
-        "ch%changeup %": "7.3",
+        "ch%changeup %": "7.2",
         "sl%slider %": "27.6",
         "cu%curve %": "6.3",
         "max evmax exit velocity": "115.7",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "41.3",
         "brlbarrels": "18",
         "brl%barrel %": "11.3",
-        "ab": "205",
-        "avg": ".249",
+        "ab": "206",
+        "avg": ".248",
         "h": "51",
         "1b": "33",
         "2b": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "160",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-18 19:41:34.010031"
+        "updated": "2025-07-18 19:41:42.513253"
     },
     "bos @ chc": [
         {
@@ -2573,6 +2573,23 @@
     ],
     "sf @ tor": [
         {
+            "created_at": "2025-07-18 19:41:38",
+            "player": "nathan lukes",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-18",
+            "team": "tor",
+            "stadium": "tor",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:40:38",
             "player": "will wagner",
             "game": "sf @ tor",
@@ -2873,7 +2890,7 @@
             "team": "nym",
             "stadium": "nym",
             "in": "2",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": "",
