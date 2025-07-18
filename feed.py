@@ -44,10 +44,18 @@ def writeFeed(date, loop):
 	with open("feed_times.json") as fh:
 		times = json.load(fh)
 
+	url = "https://nkdhryqpiulrepmphwmt.supabase.co"
+	key = os.environ.get("SUPABASE_KEY")
+	if not key:
+		print("Need SUPABASE_KEY")
+		exit()
+	psql = create_client(url, key)
+
 	headers = {"Accept": "application/vnd.github.v3.raw"}
 	url = "https://api.github.com/repos/dailyev/props/contents/static/mlb/schedule.json"
 	response = requests.get(url, headers=headers)
 	schedule = response.json()
+	inserted = {}
 
 	i = 0
 	while True:
@@ -78,6 +86,8 @@ def writeFeed(date, loop):
 		if not loop:
 			break
 
+		upsertFeed(psql, data, inserted)
+
 		time.sleep(1)
 		if i >= 5:
 			commitChanges()
@@ -85,7 +95,11 @@ def writeFeed(date, loop):
 
 	driver.quit()
 
-def parseFeed(date, data, times, games, totGames, soup):
+def upsertFeed(psql, data, inserted):
+
+	await 
+
+def parseFeed(date, data, times, games, totGames, soup, inserted):
 	allTable = soup.find("div", id="allMetrics")
 	hdrs = [th.text.lower() for th in allTable.find_all("th")]
 	starts = {}
