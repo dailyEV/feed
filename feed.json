@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "29",
-        "batters": "161",
-        "pitches": "997",
+        "batters": "162",
+        "pitches": "999",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "40.0",
+        "ff%fourseam fastball %": "39.9",
         "si%sinker %": "13.0",
         "fc%cutter %": "2.8",
         "fs%splitter %": "2.5",
         "ch%changeup %": "7.2",
-        "sl%slider %": "27.1",
+        "sl%slider %": "27.2",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "75",
         "hh%hard hit %": "41.9",
         "brlbarrels": "20",
         "brl%barrel %": "11.2",
-        "ab": "231",
-        "avg": ".255",
+        "ab": "232",
+        "avg": ".254",
         "h": "59",
         "1b": "38",
         "2b": "11",
@@ -28,7 +28,7 @@
         "bipballs in play": "179",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-18 19:47:36.174688"
+        "updated": "2025-07-18 19:47:44.809484"
     },
     "bos @ chc": [
         {
@@ -3358,6 +3358,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-18 19:47:39",
+            "player": "bo naylor",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-18",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:44:39",
             "player": "denzel clarke",
