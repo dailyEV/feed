@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "30",
         "batters": "169",
-        "pitches": "1090",
+        "pitches": "1097",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.6",
-        "ff%fourseam fastball %": "39.9",
-        "si%sinker %": "12.7",
-        "fc%cutter %": "2.8",
+        "ff%fourseam fastball %": "39.8",
+        "si%sinker %": "12.6",
+        "fc%cutter %": "2.7",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "7.4",
+        "ch%changeup %": "7.7",
         "sl%slider %": "27.3",
-        "cu%curve %": "7.5",
+        "cu%curve %": "7.6",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "86",
         "hh%hard hit %": "42.8",
         "brlbarrels": "26",
         "brl%barrel %": "12.9",
-        "ab": "256",
-        "avg": ".262",
+        "ab": "259",
+        "avg": ".259",
         "h": "67",
         "1b": "40",
         "2b": "14",
@@ -28,7 +28,7 @@
         "bipballs in play": "201",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-18 19:53:06.809256"
+        "updated": "2025-07-18 19:53:15.657238"
     },
     "bos @ chc": [
         {
@@ -1820,6 +1820,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-18 19:53:09",
+            "player": "trenton brooks",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-07-18",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:52:08",
             "player": "jake cronenworth",
@@ -3614,6 +3631,23 @@
     ],
     "ath @ cle": [
         {
+            "created_at": "2025-07-18 19:53:09",
+            "player": "jose ramirez",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-18",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:52:25",
             "player": "david fry",
             "game": "ath @ cle",
@@ -3973,10 +4007,27 @@
     ],
     "kc @ mia": [
         {
+            "created_at": "2025-07-18 19:53:09",
+            "player": "agustin ramirez",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-18",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:52:38",
             "player": "otto lopez",
             "game": "kc @ mia",
-            "hr/park": "",
+            "hr/park": "18/30",
             "pa": "24",
             "dt": "2025-07-18",
             "team": "mia",
