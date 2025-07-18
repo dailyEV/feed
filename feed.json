@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "175",
-        "pitches": "1183",
+        "batters": "174",
+        "pitches": "1188",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.6",
-        "ff%fourseam fastball %": "40.2",
-        "si%sinker %": "12.2",
-        "fc%cutter %": "3.2",
+        "ff%fourseam fastball %": "39.9",
+        "si%sinker %": "12.5",
+        "fc%cutter %": "3.3",
         "fs%splitter %": "2.2",
         "ch%changeup %": "7.7",
         "sl%slider %": "26.8",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "41.0",
         "brlbarrels": "28",
         "brl%barrel %": "12.6",
-        "ab": "279",
-        "avg": ".258",
+        "ab": "280",
+        "avg": ".257",
         "h": "72",
         "1b": "43",
         "2b": "15",
@@ -28,7 +28,7 @@
         "bipballs in play": "222",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-18 19:58:59.609588"
+        "updated": "2025-07-18 19:59:08.796778"
     },
     "bos @ chc": [
         {
@@ -1864,7 +1864,7 @@
             "team": "sd",
             "stadium": "wsh",
             "in": "5",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "71.8",
             "la": "80",
             "dist": "20",
@@ -3032,6 +3032,23 @@
     ],
     "sf @ tor": [
         {
+            "created_at": "2025-07-18 19:59:08",
+            "player": "heliot ramos",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-18",
+            "team": "sf",
+            "stadium": "tor",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:56:24",
             "player": "mike yastrzemski",
             "game": "sf @ tor",
@@ -3851,6 +3868,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-18 19:59:08",
+            "player": "lawrence butler",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-18",
+            "team": "ath",
+            "stadium": "cle",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:55:53",
             "player": "nolan jones",
@@ -4739,23 +4773,6 @@
         }
     ],
     "nyy @ atl": [
-        {
-            "created_at": "2025-07-18 19:58:53",
-            "player": "austin wells",
-            "game": "nyy @ atl",
-            "hr/park": "",
-            "pa": "20",
-            "dt": "2025-07-18",
-            "team": "nyy",
-            "stadium": "atl",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 19:54:23",
             "player": "ronald acuna",
