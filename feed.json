@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "28",
-        "batters": "146",
-        "pitches": "870",
+        "batters": "145",
+        "pitches": "873",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
-        "ff%fourseam fastball %": "40.1",
-        "si%sinker %": "13.8",
-        "fc%cutter %": "2.8",
+        "ff%fourseam fastball %": "39.9",
+        "si%sinker %": "13.7",
+        "fc%cutter %": "2.9",
         "fs%splitter %": "2.6",
-        "ch%changeup %": "7.1",
-        "sl%slider %": "27.9",
-        "cu%curve %": "5.6",
+        "ch%changeup %": "7.3",
+        "sl%slider %": "27.8",
+        "cu%curve %": "5.7",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "64",
-        "hh%hard hit %": "41.6",
+        "hh%hard hit %": "41.8",
         "brlbarrels": "17",
-        "brl%barrel %": "11.0",
+        "brl%barrel %": "11.1",
         "ab": "199",
         "avg": ".246",
         "h": "49",
@@ -25,10 +25,10 @@
         "3b": "0",
         "hr": "9",
         "so": "44",
-        "bipballs in play": "154",
+        "bipballs in play": "153",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-18 19:39:51.556619"
+        "updated": "2025-07-18 19:39:59.906074"
     },
     "bos @ chc": [
         {
@@ -2112,6 +2112,23 @@
     ],
     "laa @ phi": [
         {
+            "created_at": "2025-07-18 19:39:24",
+            "player": "nick castellanos",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-18",
+            "team": "phi",
+            "stadium": "phi",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:36:08",
             "player": "alec bohm",
             "game": "laa @ phi",
@@ -2521,23 +2538,6 @@
         }
     ],
     "sf @ tor": [
-        {
-            "created_at": "2025-07-18 19:38:53",
-            "player": "ernie clement",
-            "game": "sf @ tor",
-            "hr/park": "",
-            "pa": "16",
-            "dt": "2025-07-18",
-            "team": "tor",
-            "stadium": "tor",
-            "in": "2",
-            "result": "Groundout",
-            "evo": "68.1",
-            "la": "-14",
-            "dist": "11",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 19:38:53",
             "player": "joey loperfido",
@@ -3276,6 +3276,23 @@
     ],
     "kc @ mia": [
         {
+            "created_at": "2025-07-18 19:39:54",
+            "player": "graham pauley",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-07-18",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:38:38",
             "player": "dane myers",
             "game": "kc @ mia",
@@ -3738,23 +3755,6 @@
         }
     ],
     "bal @ tb": [
-        {
-            "created_at": "2025-07-18 19:39:38",
-            "player": "gunnar henderson",
-            "game": "bal @ tb",
-            "hr/park": "",
-            "pa": "3",
-            "dt": "2025-07-18",
-            "team": "bal",
-            "stadium": "tb",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 19:37:54",
             "player": "jordan westburg",
