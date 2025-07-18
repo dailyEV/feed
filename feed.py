@@ -45,7 +45,7 @@ def writeFeed(date, loop):
 		times = json.load(fh)
 
 	headers = {"Accept": "application/vnd.github.v3.raw"}
-	url = "https://api.github.com/repos/zhecht/props/contents/static/mlb/schedule.json"
+	url = "https://api.github.com/repos/dailyev/props/contents/static/mlb/schedule.json"
 	response = requests.get(url, headers=headers)
 	schedule = response.json()
 
@@ -181,6 +181,8 @@ if __name__ == '__main__':
 		with open("feed_times.json", "w") as fh:
 			json.dump({}, fh)
 		exit()
+
+	writeFeed(date, args.loop)
 
 	if args.commit:
 		commitChanges()
