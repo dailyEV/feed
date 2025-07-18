@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "78",
-        "pitches": "513",
+        "batters": "80",
+        "pitches": "516",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.0",
         "ff%fourseam fastball %": "42.1",
-        "si%sinker %": "13.5",
+        "si%sinker %": "13.6",
         "fc%cutter %": "2.1",
         "fs%splitter %": "4.1",
         "ch%changeup %": "6.4",
-        "sl%slider %": "26.1",
-        "cu%curve %": "5.7",
+        "sl%slider %": "26.2",
+        "cu%curve %": "5.6",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "45",
         "hh%hard hit %": "48.9",
         "brlbarrels": "12",
         "brl%barrel %": "13.0",
-        "ab": "119",
-        "avg": ".227",
+        "ab": "121",
+        "avg": ".223",
         "h": "27",
         "1b": "19",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "92",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-18 19:17:20.766786"
+        "updated": "2025-07-18 19:17:28.767929"
     },
     "bos @ chc": [
         {
@@ -1241,6 +1241,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-18 19:17:23",
+            "player": "joey bart",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-18",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:15:54",
             "player": "oneil cruz",
             "game": "chw @ pit",
@@ -1497,6 +1514,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-18 19:17:23",
+            "player": "riley adams",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-18",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:15:38",
             "player": "daylen lile",
@@ -1764,7 +1798,7 @@
             "team": "phi",
             "stadium": "phi",
             "in": "2",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "68.0",
             "la": "-10",
             "dist": "11",
@@ -2038,7 +2072,7 @@
             "team": "sf",
             "stadium": "tor",
             "in": "1",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "87.5",
             "la": "-1",
             "dist": "43",
