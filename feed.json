@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "30",
         "batters": "169",
-        "pitches": "1079",
+        "pitches": "1083",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.6",
-        "ff%fourseam fastball %": "40.1",
-        "si%sinker %": "12.8",
+        "ff%fourseam fastball %": "40.2",
+        "si%sinker %": "12.7",
         "fc%cutter %": "2.7",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "7.3",
+        "ch%changeup %": "7.4",
         "sl%slider %": "27.1",
         "cu%curve %": "7.6",
         "max evmax exit velocity": "115.7",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "42.4",
         "brlbarrels": "24",
         "brl%barrel %": "12.1",
-        "ab": "253",
-        "avg": ".257",
+        "ab": "254",
+        "avg": ".256",
         "h": "65",
         "1b": "40",
         "2b": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "198",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-18 19:52:22.679434"
+        "updated": "2025-07-18 19:52:31.376563"
     },
     "bos @ chc": [
         {
@@ -3597,6 +3597,23 @@
     ],
     "ath @ cle": [
         {
+            "created_at": "2025-07-18 19:52:25",
+            "player": "david fry",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-18",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:51:08",
             "player": "angel martinez",
             "game": "ath @ cle",
@@ -4332,6 +4349,23 @@
     ],
     "nyy @ atl": [
         {
+            "created_at": "2025-07-18 19:52:25",
+            "player": "matt olson",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-18",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:50:54",
             "player": "jurickson profar",
             "game": "nyy @ atl",
@@ -4341,7 +4375,7 @@
             "team": "atl",
             "stadium": "atl",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
