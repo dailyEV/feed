@@ -46,10 +46,12 @@ def writeFeed(date, loop):
 
 	url = "https://nkdhryqpiulrepmphwmt.supabase.co"
 	key = os.environ.get("SUPABASE_KEY")
-	if not key:
+	if False and not key:
 		print("Need SUPABASE_KEY")
+		driver.quit()
 		exit()
-	psql = create_client(url, key)
+
+	#psql = create_client(url, key)
 
 	headers = {"Accept": "application/vnd.github.v3.raw"}
 	url = "https://api.github.com/repos/dailyev/props/contents/static/mlb/schedule.json"
@@ -80,13 +82,13 @@ def writeFeed(date, loop):
 					games.append(gameData)
 			liveGames = len(games)
 		data = {}
-		parseFeed(date, data, times, games, totGames, soup)
+		parseFeed(date, data, times, games, totGames, soup, inserted)
 		i += 1
 
 		if not loop:
 			break
 
-		upsertFeed(psql, data, inserted)
+		#upsertFeed(psql, data, inserted)
 
 		time.sleep(1)
 		if i >= 5:
@@ -95,9 +97,23 @@ def writeFeed(date, loop):
 
 	driver.quit()
 
-def upsertFeed(psql, data, inserted):
+def feedKey(row):
+	return f"{row['dt']}-{row['game']}-{row['player']}-{row['pa']}-{row['result']}-{row['dist']}"
 
-	await 
+async def upsertFeed(psql, data, inserted):
+	rows = []
+	for game, arr in data.items():
+		if game == "all":
+			continue
+		for row in arr:
+			key = feedKey(row)
+			if key not in inserted:
+				inserted[key] = True
+				rows.append(row)
+
+	if rows:
+		print(f"Inserting {len(rows)} rows")
+		await supabase.table("Feed").upsert(rows).execute()
 
 def parseFeed(date, data, times, games, totGames, soup, inserted):
 	allTable = soup.find("div", id="allMetrics")
