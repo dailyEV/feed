@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "99",
-        "pitches": "590",
+        "batters": "97",
+        "pitches": "591",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "42.7",
+        "ff%fourseam fastball %": "43.0",
         "si%sinker %": "12.7",
         "fc%cutter %": "2.5",
         "fs%splitter %": "3.6",
         "ch%changeup %": "6.4",
-        "sl%slider %": "26.4",
+        "sl%slider %": "26.2",
         "cu%curve %": "5.6",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "47",
         "hh%hard hit %": "45.2",
         "brlbarrels": "13",
         "brl%barrel %": "12.5",
-        "ab": "142",
-        "avg": ".225",
+        "ab": "139",
+        "avg": ".230",
         "h": "32",
         "1b": "23",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "104",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-18 19:22:16.550697"
+        "updated": "2025-07-18 19:22:24.592019"
     },
     "bos @ chc": [
         {
@@ -1241,23 +1241,6 @@
     ],
     "chw @ pit": [
         {
-            "created_at": "2025-07-18 19:22:07",
-            "player": "kebryan hayes",
-            "game": "chw @ pit",
-            "hr/park": "",
-            "pa": "18",
-            "dt": "2025-07-18",
-            "team": "pit",
-            "stadium": "pit",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 19:19:09",
             "player": "spencer horwitz",
             "game": "chw @ pit",
@@ -2416,7 +2399,7 @@
             "team": "cle",
             "stadium": "cle",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -2614,23 +2597,6 @@
         }
     ],
     "nyy @ atl": [
-        {
-            "created_at": "2025-07-18 19:22:07",
-            "player": "aaron judge",
-            "game": "nyy @ atl",
-            "hr/park": "",
-            "pa": "3",
-            "dt": "2025-07-18",
-            "team": "nyy",
-            "stadium": "atl",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 19:19:54",
             "player": "cody bellinger",
