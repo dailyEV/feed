@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "28",
-        "batters": "151",
-        "pitches": "908",
+        "batters": "153",
+        "pitches": "911",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.0",
         "ff%fourseam fastball %": "39.4",
-        "si%sinker %": "13.8",
+        "si%sinker %": "13.7",
         "fc%cutter %": "3.1",
         "fs%splitter %": "2.6",
-        "ch%changeup %": "7.2",
+        "ch%changeup %": "7.1",
         "sl%slider %": "27.4",
-        "cu%curve %": "6.5",
+        "cu%curve %": "6.6",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "67",
-        "hh%hard hit %": "41.4",
+        "hhhard hit": "68",
+        "hh%hard hit %": "41.7",
         "brlbarrels": "18",
-        "brl%barrel %": "11.1",
-        "ab": "209",
-        "avg": ".249",
+        "brl%barrel %": "11.0",
+        "ab": "211",
+        "avg": ".246",
         "h": "52",
         "1b": "34",
         "2b": "8",
         "3b": "0",
         "hr": "10",
         "so": "46",
-        "bipballs in play": "162",
+        "bipballs in play": "163",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-18 19:42:34.439550"
+        "updated": "2025-07-18 19:42:42.738604"
     },
     "bos @ chc": [
         {
@@ -2173,10 +2173,10 @@
             "stadium": "phi",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "evo": "106.3",
+            "la": "3",
+            "dist": "83",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -2914,6 +2914,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-18 19:42:38",
+            "player": "tyrone taylor",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-18",
+            "team": "nym",
+            "stadium": "nym",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:41:08",
             "player": "jeff mcneil",
@@ -3736,6 +3753,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-18 19:42:38",
+            "player": "jasson dominguez",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-18",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:38:53",
             "player": "nacho alvarez",
