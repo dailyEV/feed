@@ -12,6 +12,16 @@ def commitChanges():
 	origin.push()
 	#print("Successful commit")
 
+def isHH(data):
+	ev = float(data["evo"] or 0)
+	return ev >= 95
+
+def isBarrel(data):
+	ev = float(data["evo"] or 0)
+	la = int(data["la"] or 0)
+
+	return (ev * 1.5 - la) >= 117 and (ev + la) >= 124 and la <= 50 and ev >= 98
+
 def getSuffix(num):
 	if num >= 11 and num <= 13:
 		return "th"

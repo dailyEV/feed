@@ -72,7 +72,7 @@ def writeFeed(date, loop):
 					games.append(gameData)
 			liveGames = len(games)
 		data = {}
-		parseFeed(data, times, games, totGames, soup)
+		parseFeed(date, data, times, games, totGames, soup)
 		i += 1
 
 		if not loop:
@@ -85,7 +85,7 @@ def writeFeed(date, loop):
 
 	driver.quit()
 
-def parseFeed(data, times, games, totGames, soup):
+def parseFeed(date, data, times, games, totGames, soup):
 	allTable = soup.find("div", id="allMetrics")
 	hdrs = [th.text.lower() for th in allTable.find_all("th")]
 	starts = {}
@@ -122,20 +122,22 @@ def parseFeed(data, times, games, totGames, soup):
 			dt = times[game].get(pa, str(datetime.now()).split(".")[0])
 			times[game][pa] = dt
 			j = {
+				"created_at": dt,
 				"player": player,
-				#"pitcher": pitcher,
 				"game": game,
 				"hr/park": hrPark,
 				"pa": pa,
-				"dt": dt,
-				"img": img,
+				"dt": date,
 				"team": team,
-				"start": starts.get(game, "")
+				"stadium": game.split(" @ ")[-1].replace("-gm2", "")
 			}
 			i = 3
 			for hdr in ["in", "result", "evo", "la", "dist"]:
 				j[hdr] = tds[i].text.strip()
 				i += 1
+
+			j["is_hh"] = isHH(j)
+			j["is_brl"] = isBarrel(j)
 
 			data[game].append(j)
 
