@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "17",
-        "batters": "55",
-        "pitches": "421",
+        "pitchers": "18",
+        "batters": "56",
+        "pitches": "423",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "77.0",
-        "ff%fourseam fastball %": "41.3",
-        "si%sinker %": "11.6",
+        "ff%fourseam fastball %": "41.1",
+        "si%sinker %": "12.1",
         "fc%cutter %": "2.4",
         "fs%splitter %": "5.0",
         "ch%changeup %": "7.8",
-        "sl%slider %": "25.7",
-        "cu%curve %": "6.2",
+        "sl%slider %": "25.5",
+        "cu%curve %": "6.1",
         "max evmax exit velocity": "115.2",
         "hhhard hit": "35",
         "hh%hard hit %": "47.9",
         "brlbarrels": "10",
         "brl%barrel %": "13.7",
-        "ab": "97",
-        "avg": ".216",
+        "ab": "98",
+        "avg": ".214",
         "h": "21",
         "1b": "13",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "73",
         "liveGames": 8,
         "totGames": 15,
-        "updated": "2025-07-18 19:10:20.291899"
+        "updated": "2025-07-18 19:10:28.335446"
     },
     "bos @ chc": [
         {
@@ -1857,7 +1857,25 @@
             "is_brl": false
         }
     ],
-    "sf @ tor": [],
+    "sf @ tor": [
+        {
+            "created_at": "2025-07-18 19:10:23",
+            "player": "mike yastrzemski",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-18",
+            "team": "sf",
+            "stadium": "tor",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        }
+    ],
     "cin @ nym": [],
     "ath @ cle": [],
     "kc @ mia": [],
