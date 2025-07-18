@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "26",
-        "batters": "110",
-        "pitches": "662",
+        "pitchers": "27",
+        "batters": "112",
+        "pitches": "669",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "70.7",
-        "ff%fourseam fastball %": "40.8",
-        "si%sinker %": "13.3",
-        "fc%cutter %": "2.9",
-        "fs%splitter %": "3.3",
-        "ch%changeup %": "6.8",
-        "sl%slider %": "27.2",
-        "cu%curve %": "5.7",
+        "ff%fourseam fastball %": "40.7",
+        "si%sinker %": "13.5",
+        "fc%cutter %": "2.8",
+        "fs%splitter %": "3.4",
+        "ch%changeup %": "6.7",
+        "sl%slider %": "27.1",
+        "cu%curve %": "5.8",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "51",
-        "hh%hard hit %": "44.0",
+        "hhhard hit": "52",
+        "hh%hard hit %": "44.8",
         "brlbarrels": "15",
         "brl%barrel %": "12.9",
-        "ab": "153",
-        "avg": ".242",
+        "ab": "156",
+        "avg": ".237",
         "h": "37",
         "1b": "26",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "116",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-18 19:27:32.278080"
+        "updated": "2025-07-18 19:27:40.526582"
     },
     "bos @ chc": [
         {
@@ -1241,6 +1241,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-18 19:27:39",
+            "player": "edgar quero",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-18",
+            "team": "chw",
+            "stadium": "pit",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:25:08",
             "player": "austin slater",
             "game": "chw @ pit",
@@ -1565,6 +1582,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-18 19:26:38",
+            "player": "jacob young",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-18",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:24:08",
             "player": "manny machado",
@@ -2242,7 +2276,7 @@
             "team": "sf",
             "stadium": "tor",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -2552,10 +2586,10 @@
             "team": "ath",
             "stadium": "cle",
             "in": "2",
-            "result": "Flyout",
-            "evo": "94.4",
-            "la": "42",
-            "dist": "309",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
             "is_hh": false,
             "is_brl": false
         },
@@ -2852,6 +2886,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-18 19:27:39",
+            "player": "jurickson profar",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-18",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "106.9",
+            "la": "-4",
+            "dist": "20",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:23:53",
             "player": "jazz chisholm",
