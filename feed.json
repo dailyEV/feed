@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "25",
-        "batters": "94",
-        "pitches": "580",
+        "pitchers": "26",
+        "batters": "99",
+        "pitches": "590",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "42.6",
-        "si%sinker %": "12.8",
-        "fc%cutter %": "2.6",
+        "ff%fourseam fastball %": "42.7",
+        "si%sinker %": "12.7",
+        "fc%cutter %": "2.5",
         "fs%splitter %": "3.6",
-        "ch%changeup %": "6.6",
+        "ch%changeup %": "6.4",
         "sl%slider %": "26.4",
-        "cu%curve %": "5.5",
+        "cu%curve %": "5.6",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "47",
         "hh%hard hit %": "45.2",
         "brlbarrels": "13",
         "brl%barrel %": "12.5",
-        "ab": "136",
-        "avg": ".235",
+        "ab": "142",
+        "avg": ".225",
         "h": "32",
         "1b": "23",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "104",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-18 19:21:59.719790"
+        "updated": "2025-07-18 19:22:07.944137"
     },
     "bos @ chc": [
         {
@@ -1241,6 +1241,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-18 19:22:07",
+            "player": "kebryan hayes",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-18",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:19:09",
             "player": "spencer horwitz",
             "game": "chw @ pit",
@@ -1250,7 +1267,7 @@
             "team": "pit",
             "stadium": "pit",
             "in": "2",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "71.6",
             "la": "33",
             "dist": "236",
@@ -1531,6 +1548,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-18 19:22:07",
+            "player": "fernando tatis",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-18",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:20:39",
             "player": "elias diaz",
@@ -2131,6 +2165,23 @@
     ],
     "sf @ tor": [
         {
+            "created_at": "2025-07-18 19:22:07",
+            "player": "vladimir guerrero",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-18",
+            "team": "tor",
+            "stadium": "tor",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:20:23",
             "player": "george springer",
             "game": "sf @ tor",
@@ -2234,6 +2285,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-18 19:21:24",
+            "player": "pete alonso",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-18",
+            "team": "nym",
+            "stadium": "nym",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:20:39",
             "player": "juan soto",
@@ -2443,6 +2511,23 @@
     ],
     "kc @ mia": [
         {
+            "created_at": "2025-07-18 19:22:07",
+            "player": "xavier edwards",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-18",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 19:17:40",
             "player": "salvador perez",
             "game": "kc @ mia",
@@ -2529,6 +2614,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-18 19:22:07",
+            "player": "aaron judge",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-07-18",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:19:54",
             "player": "cody bellinger",
