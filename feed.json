@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "106",
-        "pitches": "645",
+        "batters": "107",
+        "pitches": "649",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "73.0",
-        "ff%fourseam fastball %": "41.6",
-        "si%sinker %": "13.2",
-        "fc%cutter %": "2.6",
-        "fs%splitter %": "3.3",
-        "ch%changeup %": "6.7",
-        "sl%slider %": "27.0",
+        "ff%fourseam fastball %": "41.3",
+        "si%sinker %": "13.3",
+        "fc%cutter %": "2.8",
+        "fs%splitter %": "3.4",
+        "ch%changeup %": "6.8",
+        "sl%slider %": "26.8",
         "cu%curve %": "5.7",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "50",
         "hh%hard hit %": "44.2",
         "brlbarrels": "14",
         "brl%barrel %": "12.4",
-        "ab": "150",
-        "avg": ".233",
+        "ab": "151",
+        "avg": ".232",
         "h": "35",
         "1b": "25",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "113",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-18 19:26:01.160851"
+        "updated": "2025-07-18 19:26:09.294353"
     },
     "bos @ chc": [
         {
@@ -2629,6 +2629,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-18 19:26:08",
+            "player": "kyle stowers",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-18",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 19:25:38",
             "player": "agustin ramirez",
