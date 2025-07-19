@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "14",
         "batters": "54",
-        "pitches": "571",
+        "pitches": "574",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "23.1",
-        "si%sinker %": "19.8",
-        "fc%cutter %": "14.4",
-        "fs%splitter %": "2.5",
+        "ff%fourseam fastball %": "23.0",
+        "si%sinker %": "19.9",
+        "fc%cutter %": "14.5",
+        "fs%splitter %": "2.4",
         "ch%changeup %": "15.9",
-        "sl%slider %": "17.7",
-        "cu%curve %": "6.7",
+        "sl%slider %": "17.8",
+        "cu%curve %": "6.6",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "47",
         "hh%hard hit %": "36.2",
@@ -28,7 +28,7 @@
         "bipballs in play": "130",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-19 17:58:57.112724"
+        "updated": "2025-07-19 17:59:05.096044"
     },
     "sf @ tor": [
         {
@@ -1190,6 +1190,23 @@
     ],
     "cin @ nym": [
         {
+            "created_at": "2025-07-19 17:58:59",
+            "player": "pete alonso",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-19",
+            "team": "nym",
+            "stadium": "nym",
+            "in": "5",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 17:57:16",
             "player": "juan soto",
             "game": "cin @ nym",
@@ -1915,7 +1932,7 @@
             "team": "kc",
             "stadium": "mia",
             "in": "8",
-            "result": "Mound Visit",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
