@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "179",
-        "pitches": "1250",
+        "batters": "178",
+        "pitches": "1253",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.6",
         "ff%fourseam fastball %": "39.3",
@@ -10,13 +10,13 @@
         "fc%cutter %": "3.3",
         "fs%splitter %": "2.1",
         "ch%changeup %": "7.9",
-        "sl%slider %": "26.6",
-        "cu%curve %": "8.2",
+        "sl%slider %": "26.7",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "97",
-        "hh%hard hit %": "41.8",
+        "hh%hard hit %": "41.6",
         "brlbarrels": "28",
-        "brl%barrel %": "12.1",
+        "brl%barrel %": "12.0",
         "ab": "293",
         "avg": ".253",
         "h": "74",
@@ -24,11 +24,11 @@
         "2b": "15",
         "3b": "1",
         "hr": "13",
-        "so": "60",
-        "bipballs in play": "232",
+        "so": "61",
+        "bipballs in play": "233",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-18 20:03:07.451944"
+        "updated": "2025-07-18 20:03:16.451525"
     },
     "bos @ chc": [
         {
@@ -1240,6 +1240,23 @@
         }
     ],
     "chw @ pit": [
+        {
+            "created_at": "2025-07-18 20:03:10",
+            "player": "miguel vargas",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-18",
+            "team": "chw",
+            "stadium": "pit",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "69.8",
+            "la": "-8",
+            "dist": "12",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:00:54",
             "player": "edgar quero",
@@ -2486,6 +2503,23 @@
     ],
     "laa @ phi": [
         {
+            "created_at": "2025-07-18 20:03:10",
+            "player": "kevin newman",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-18",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:01:23",
             "player": "luis rengifo",
             "game": "laa @ phi",
@@ -2495,7 +2529,7 @@
             "team": "laa",
             "stadium": "phi",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -4953,7 +4987,7 @@
             "team": "nyy",
             "stadium": "atl",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -5319,23 +5353,6 @@
         }
     ],
     "bal @ tb": [
-        {
-            "created_at": "2025-07-18 20:02:53",
-            "player": "danny jansen",
-            "game": "bal @ tb",
-            "hr/park": "",
-            "pa": "16",
-            "dt": "2025-07-18",
-            "team": "tb",
-            "stadium": "tb",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 20:01:40",
             "player": "ha seong kim",
