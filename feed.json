@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "50",
+        "pitchers": "49",
         "batters": "197",
-        "pitches": "1929",
+        "pitches": "1934",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.2",
         "ff%fourseam fastball %": "35.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "25.9",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "155",
+        "hhhard hit": "156",
         "hh%hard hit %": "43.1",
         "brlbarrels": "40",
-        "brl%barrel %": "11.1",
-        "ab": "454",
-        "avg": ".264",
+        "brl%barrel %": "11.0",
+        "ab": "456",
+        "avg": ".263",
         "h": "120",
         "1b": "71",
         "2b": "26",
         "3b": "2",
         "hr": "21",
         "so": "99",
-        "bipballs in play": "360",
+        "bipballs in play": "362",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 20:42:34.659247"
+        "updated": "2025-07-18 20:42:44.257231"
     },
     "bos @ chc": [
         {
@@ -2178,6 +2178,23 @@
     ],
     "sd @ wsh": [
         {
+            "created_at": "2025-07-18 20:42:39",
+            "player": "nathaniel lowe",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-18",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:41:54",
             "player": "josh bell",
             "game": "sd @ wsh",
@@ -3959,10 +3976,10 @@
             "team": "tor",
             "stadium": "tor",
             "in": "5",
-            "result": "Game Advisory",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Groundout",
+            "evo": "81.6",
+            "la": "-62",
+            "dist": "3",
             "is_hh": false,
             "is_brl": false
         },
@@ -5467,23 +5484,6 @@
     ],
     "ath @ cle": [
         {
-            "created_at": "2025-07-18 20:42:23",
-            "player": "bo naylor",
-            "game": "ath @ cle",
-            "hr/park": "",
-            "pa": "49",
-            "dt": "2025-07-18",
-            "team": "cle",
-            "stadium": "cle",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 20:37:38",
             "player": "brent rooker",
             "game": "ath @ cle",
@@ -6301,6 +6301,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-18 20:42:39",
+            "player": "liam hicks",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-18",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:39:09",
             "player": "john rave",
@@ -7136,6 +7153,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-18 20:41:54",
+            "player": "anthony volpe",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-07-18",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:39:39",
             "player": "sean murphy",
@@ -8648,11 +8682,11 @@
             "team": "min",
             "stadium": "col",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Groundout",
+            "evo": "100.0",
+            "la": "-9",
+            "dist": "19",
+            "is_hh": true,
             "is_brl": false
         }
     ],
