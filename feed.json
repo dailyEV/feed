@@ -1,26 +1,26 @@
 {
     "all": {
         "pitchers": "98",
-        "batters": "250",
-        "pitches": "3294",
+        "batters": "251",
+        "pitches": "3295",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.5",
-        "si%sinker %": "14.8",
+        "si%sinker %": "14.9",
         "fc%cutter %": "5.0",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.6",
         "sl%slider %": "25.0",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "261",
-        "hh%hard hit %": "42.7",
+        "hhhard hit": "260",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "64",
         "brl%barrel %": "10.5",
         "ab": "775",
-        "avg": ".253",
-        "h": "196",
-        "1b": "110",
+        "avg": ".252",
+        "h": "195",
+        "1b": "109",
         "2b": "45",
         "3b": "8",
         "hr": "33",
@@ -28,7 +28,7 @@
         "bipballs in play": "611",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-18 22:01:57.152976"
+        "updated": "2025-07-18 22:02:08.422112"
     },
     "bos @ chc": [
         {
@@ -6383,23 +6383,6 @@
     ],
     "cin @ nym": [
         {
-            "created_at": "2025-07-18 22:01:02",
-            "player": "luis torrens",
-            "game": "cin @ nym",
-            "hr/park": "",
-            "pa": "81",
-            "dt": "2025-07-18",
-            "team": "nym",
-            "stadium": "nym",
-            "in": "9",
-            "result": "Single",
-            "evo": "101.5",
-            "la": "2",
-            "dist": "70",
-            "is_hh": true,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 21:59:04",
             "player": "brett baty",
             "game": "cin @ nym",
@@ -10427,10 +10410,10 @@
             "team": "nyy",
             "stadium": "atl",
             "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Flyout",
+            "evo": "90.0",
+            "la": "57",
+            "dist": "214",
             "is_hh": false,
             "is_brl": false
         },
@@ -14505,6 +14488,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-18 22:02:02",
+            "player": "eugenio suarez",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-18",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:59:18",
             "player": "jordan walker",
