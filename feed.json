@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "127",
+        "pitchers": "128",
         "batters": "300",
-        "pitches": "4248",
+        "pitches": "4250",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.1",
@@ -13,8 +13,8 @@
         "sl%slider %": "24.7",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "326",
-        "hh%hard hit %": "42.2",
+        "hhhard hit": "327",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "75",
         "brl%barrel %": "9.7",
         "ab": "998",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "38",
         "so": "242",
-        "bipballs in play": "772",
+        "bipballs in play": "773",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-19 00:25:12.371127"
+        "updated": "2025-07-19 00:25:25.319562"
     },
     "bos @ chc": [
         {
@@ -16659,11 +16659,11 @@
             "team": "sea",
             "stadium": "sea",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Sac Fly",
+            "evo": "97.0",
+            "la": "53",
+            "dist": "251",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -17722,6 +17722,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 00:25:16",
+            "player": "tommy edman",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-18",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 00:21:01",
             "player": "william contreras",
