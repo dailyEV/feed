@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "89",
-        "batters": "234",
-        "pitches": "3060",
+        "batters": "235",
+        "pitches": "3070",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "35.1",
-        "si%sinker %": "14.3",
+        "ff%fourseam fastball %": "35.0",
+        "si%sinker %": "14.4",
         "fc%cutter %": "5.0",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.6",
         "sl%slider %": "24.9",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "235",
-        "hh%hard hit %": "42.2",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "59",
         "brl%barrel %": "10.6",
-        "ab": "713",
-        "avg": ".252",
-        "h": "180",
-        "1b": "102",
+        "ab": "714",
+        "avg": ".254",
+        "h": "181",
+        "1b": "103",
         "2b": "40",
         "3b": "7",
         "hr": "31",
-        "so": "166",
-        "bipballs in play": "557",
+        "so": "167",
+        "bipballs in play": "559",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-18 21:42:08.279355"
+        "updated": "2025-07-18 21:42:19.471736"
     },
     "bos @ chc": [
         {
@@ -2551,6 +2551,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-18 21:42:11",
+            "player": "nathaniel lowe",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-07-18",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "9",
+            "result": "Single",
+            "evo": "83.2",
+            "la": "1",
+            "dist": "45",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:38:54",
             "player": "xander bogaerts",
@@ -7567,7 +7584,7 @@
             "team": "ath",
             "stadium": "cle",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -8827,10 +8844,10 @@
             "team": "kc",
             "stadium": "mia",
             "in": "10",
-            "result": "Stolen Base 2B",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Pop Out",
+            "evo": "85.8",
+            "la": "65",
+            "dist": "163",
             "is_hh": false,
             "is_brl": false
         },
@@ -12326,23 +12343,6 @@
     ],
     "det @ tex": [
         {
-            "created_at": "2025-07-18 21:40:54",
-            "player": "spencer torkelson",
-            "game": "det @ tex",
-            "hr/park": "",
-            "pa": "39",
-            "dt": "2025-07-18",
-            "team": "det",
-            "stadium": "tex",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 21:37:41",
             "player": "riley greene",
             "game": "det @ tex",
@@ -13552,7 +13552,25 @@
             "is_brl": false
         }
     ],
-    "stl @ ari": [],
+    "stl @ ari": [
+        {
+            "created_at": "2025-07-18 21:42:11",
+            "player": "brendan donovan",
+            "game": "stl @ ari",
+            "hr/park": "0/30",
+            "pa": "1",
+            "dt": "2025-07-18",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "1",
+            "result": "Flyout",
+            "evo": "91.1",
+            "la": "35",
+            "dist": "338",
+            "is_hh": false,
+            "is_brl": false
+        }
+    ],
     "hou @ sea": [],
     "mil @ lad": []
 }
