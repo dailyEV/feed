@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "52",
         "batters": "203",
-        "pitches": "2035",
+        "pitches": "2037",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.6",
         "si%sinker %": "13.7",
         "fc%cutter %": "3.9",
-        "fs%splitter %": "2.0",
+        "fs%splitter %": "2.1",
         "ch%changeup %": "8.7",
         "sl%slider %": "25.7",
-        "cu%curve %": "10.1",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "161",
-        "hh%hard hit %": "42.7",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "40",
         "brl%barrel %": "10.6",
         "ab": "480",
@@ -24,11 +24,11 @@
         "2b": "28",
         "3b": "2",
         "hr": "21",
-        "so": "105",
-        "bipballs in play": "377",
+        "so": "106",
+        "bipballs in play": "378",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 20:46:50.739090"
+        "updated": "2025-07-18 20:47:00.611672"
     },
     "bos @ chc": [
         {
@@ -2221,7 +2221,7 @@
             "team": "wsh",
             "stadium": "wsh",
             "in": "7",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -5671,6 +5671,23 @@
     ],
     "ath @ cle": [
         {
+            "created_at": "2025-07-18 20:46:53",
+            "player": "david fry",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-18",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "90.1",
+            "la": "-18",
+            "dist": "7",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:45:54",
             "player": "angel martinez",
             "game": "ath @ cle",
@@ -7425,23 +7442,6 @@
         }
     ],
     "nyy @ atl": [
-        {
-            "created_at": "2025-07-18 20:46:24",
-            "player": "trent grisham",
-            "game": "nyy @ atl",
-            "hr/park": "",
-            "pa": "42",
-            "dt": "2025-07-18",
-            "team": "nyy",
-            "stadium": "atl",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 20:45:39",
             "player": "jorbit vivas",
