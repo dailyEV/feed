@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "84",
-        "batters": "229",
-        "pitches": "2957",
+        "batters": "231",
+        "pitches": "2958",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.3",
@@ -10,14 +10,14 @@
         "fc%cutter %": "4.6",
         "fs%splitter %": "1.7",
         "ch%changeup %": "8.9",
-        "sl%slider %": "25.0",
+        "sl%slider %": "25.1",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "228",
-        "hh%hard hit %": "42.3",
+        "hhhard hit": "230",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "58",
-        "brl%barrel %": "10.8",
-        "ab": "689",
+        "brl%barrel %": "10.7",
+        "ab": "690",
         "avg": ".255",
         "h": "176",
         "1b": "101",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "31",
         "so": "159",
-        "bipballs in play": "539",
+        "bipballs in play": "542",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:35:00.176798"
+        "updated": "2025-07-18 21:35:11.363583"
     },
     "bos @ chc": [
         {
@@ -2552,6 +2552,23 @@
     ],
     "sd @ wsh": [
         {
+            "created_at": "2025-07-18 21:35:09",
+            "player": "bryce johnson",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-07-18",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:30:09",
             "player": "manny machado",
             "game": "sd @ wsh",
@@ -5072,6 +5089,23 @@
     ],
     "sf @ tor": [
         {
+            "created_at": "2025-07-18 21:35:09",
+            "player": "ernie clement",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-18",
+            "team": "tor",
+            "stadium": "tor",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "87.2",
+            "la": "38",
+            "dist": "301",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:33:26",
             "player": "joey loperfido",
             "game": "sf @ tor",
@@ -6222,11 +6256,11 @@
             "team": "nym",
             "stadium": "nym",
             "in": "8",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "In Progress",
+            "evo": "99.3",
+            "la": "-11",
+            "dist": "11",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -7387,23 +7421,6 @@
         }
     ],
     "ath @ cle": [
-        {
-            "created_at": "2025-07-18 21:34:41",
-            "player": "miguel andujar",
-            "game": "ath @ cle",
-            "hr/park": "",
-            "pa": "72",
-            "dt": "2025-07-18",
-            "team": "ath",
-            "stadium": "cle",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 21:30:53",
             "player": "shea langeliers",
@@ -8613,6 +8630,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-18 21:35:09",
+            "player": "derek hill",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-07-18",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:31:08",
             "player": "nick fortes",
@@ -9866,11 +9900,11 @@
             "team": "atl",
             "stadium": "atl",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Groundout",
+            "evo": "96.1",
+            "la": "-19",
+            "dist": "2",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -12599,23 +12633,6 @@
         }
     ],
     "min @ col": [
-        {
-            "created_at": "2025-07-18 21:34:41",
-            "player": "ty france",
-            "game": "min @ col",
-            "hr/park": "",
-            "pa": "30",
-            "dt": "2025-07-18",
-            "team": "min",
-            "stadium": "col",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 21:30:39",
             "player": "yanquiel fernandez",
