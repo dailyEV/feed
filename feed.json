@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "106",
-        "batters": "279",
-        "pitches": "3559",
+        "batters": "281",
+        "pitches": "3563",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.6",
         "si%sinker %": "14.8",
-        "fc%cutter %": "5.3",
+        "fc%cutter %": "5.4",
         "fs%splitter %": "2.1",
         "ch%changeup %": "8.7",
-        "sl%slider %": "24.0",
+        "sl%slider %": "24.1",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "274",
-        "hh%hard hit %": "42.1",
+        "hhhard hit": "275",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "65",
         "brl%barrel %": "10.0",
-        "ab": "834",
+        "ab": "835",
         "avg": ".253",
         "h": "211",
         "1b": "122",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "33",
         "so": "199",
-        "bipballs in play": "651",
+        "bipballs in play": "652",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:33:23.157163"
+        "updated": "2025-07-18 22:33:43.531492"
     },
     "bos @ chc": [
         {
@@ -14949,23 +14949,6 @@
     "stl @ ari": [
         {
             "created_at": "2025-07-18 22:32:48",
-            "player": "jose herrera",
-            "game": "stl @ ari",
-            "hr/park": "",
-            "pa": "30",
-            "dt": "2025-07-18",
-            "team": "ari",
-            "stadium": "ari",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
-            "created_at": "2025-07-18 22:32:48",
             "player": "alek thomas",
             "game": "stl @ ari",
             "hr/park": "",
@@ -15460,6 +15443,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-18 22:33:33",
+            "player": "taylor trammell",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-18",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "2",
+            "result": "Groundout",
+            "evo": "104.4",
+            "la": "-5",
+            "dist": "25",
+            "is_hh": true,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:31:18",
             "player": "yainer diaz",
             "game": "hou @ sea",
@@ -15614,6 +15614,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-18 22:33:33",
+            "player": "andy pages",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-18",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:31:47",
             "player": "michael conforto",
