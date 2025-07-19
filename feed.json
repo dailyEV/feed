@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "103",
-        "batters": "264",
-        "pitches": "3432",
+        "batters": "265",
+        "pitches": "3434",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.7",
+        "ff%fourseam fastball %": "34.8",
         "si%sinker %": "14.8",
         "fc%cutter %": "5.2",
         "fs%splitter %": "2.0",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.4",
         "brlbarrels": "64",
         "brl%barrel %": "10.2",
-        "ab": "801",
+        "ab": "802",
         "avg": ".252",
         "h": "202",
         "1b": "116",
@@ -28,7 +28,7 @@
         "bipballs in play": "627",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:19:00.686792"
+        "updated": "2025-07-18 22:19:12.168385"
     },
     "bos @ chc": [
         {
@@ -12998,7 +12998,7 @@
             "team": "det",
             "stadium": "tex",
             "in": "8",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -14736,7 +14736,7 @@
             "team": "stl",
             "stadium": "ari",
             "in": "3",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "61.8",
             "la": "78",
             "dist": "70",
@@ -15086,6 +15086,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-18 22:19:04",
+            "player": "christian walker",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-07-18",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:17:02",
             "player": "jose altuve",
             "game": "hou @ sea",
@@ -15095,7 +15112,7 @@
             "team": "hou",
             "stadium": "sea",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
