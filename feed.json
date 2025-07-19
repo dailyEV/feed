@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "129",
         "batters": "300",
-        "pitches": "4270",
+        "pitches": "4273",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "15.4",
+        "ff%fourseam fastball %": "34.0",
+        "si%sinker %": "15.5",
         "fc%cutter %": "5.6",
         "fs%splitter %": "2.1",
         "ch%changeup %": "8.3",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.3",
         "brlbarrels": "75",
         "brl%barrel %": "9.7",
-        "ab": "1002",
+        "ab": "1003",
         "avg": ".250",
         "h": "251",
         "1b": "149",
@@ -28,7 +28,7 @@
         "bipballs in play": "777",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-19 00:33:19.507390"
+        "updated": "2025-07-19 00:33:32.632647"
     },
     "bos @ chc": [
         {
@@ -16649,6 +16649,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 00:33:30",
+            "player": "yainer diaz",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-18",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 00:30:29",
             "player": "victor caratini",
