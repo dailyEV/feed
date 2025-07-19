@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "116",
         "batters": "297",
-        "pitches": "4060",
+        "pitches": "4061",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.0",
@@ -13,8 +13,8 @@
         "sl%slider %": "24.6",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "314",
-        "hh%hard hit %": "42.5",
+        "hhhard hit": "315",
+        "hh%hard hit %": "42.6",
         "brlbarrels": "73",
         "brl%barrel %": "9.9",
         "ab": "958",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "36",
         "so": "235",
-        "bipballs in play": "738",
+        "bipballs in play": "739",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:42:44.089566"
+        "updated": "2025-07-18 23:42:56.519233"
     },
     "bos @ chc": [
         {
@@ -15382,11 +15382,11 @@
             "team": "stl",
             "stadium": "ari",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Groundout",
+            "evo": "100.6",
+            "la": "3",
+            "dist": "74",
+            "is_hh": true,
             "is_brl": false
         },
         {
