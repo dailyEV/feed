@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "135",
-        "pitches": "1164",
+        "batters": "137",
+        "pitches": "1172",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "24.7",
-        "si%sinker %": "19.2",
-        "fc%cutter %": "14.9",
+        "ff%fourseam fastball %": "24.8",
+        "si%sinker %": "19.3",
+        "fc%cutter %": "14.8",
         "fs%splitter %": "4.0",
         "ch%changeup %": "10.9",
         "sl%slider %": "19.6",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.8",
         "brlbarrels": "12",
         "brl%barrel %": "5.3",
-        "ab": "290",
-        "avg": ".231",
+        "ab": "292",
+        "avg": ".229",
         "h": "67",
         "1b": "41",
         "2b": "15",
         "3b": "3",
         "hr": "8",
-        "so": "68",
+        "so": "69",
         "bipballs in play": "225",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:27:25.139338"
+        "updated": "2025-07-19 19:27:33.940152"
     },
     "sf @ tor": [
         {
@@ -5166,6 +5166,23 @@
     ],
     "bos @ chc": [
         {
+            "created_at": "2025-07-19 19:27:29",
+            "player": "kyle tucker",
+            "game": "bos @ chc",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-19",
+            "team": "chc",
+            "stadium": "chc",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:25:44",
             "player": "michael busch",
             "game": "bos @ chc",
@@ -5357,6 +5374,23 @@
     ],
     "nyy @ atl": [
         {
+            "created_at": "2025-07-19 19:27:29",
+            "player": "ronald acuna",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-19",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:25:29",
             "player": "matt olson",
             "game": "nyy @ atl",
@@ -5366,7 +5400,7 @@
             "team": "atl",
             "stadium": "atl",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
