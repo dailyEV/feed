@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "100",
-        "pitches": "938",
+        "batters": "101",
+        "pitches": "944",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "22.0",
-        "si%sinker %": "20.1",
+        "ff%fourseam fastball %": "21.9",
+        "si%sinker %": "20.3",
         "fc%cutter %": "14.7",
-        "fs%splitter %": "3.1",
-        "ch%changeup %": "13.0",
-        "sl%slider %": "20.5",
+        "fs%splitter %": "3.2",
+        "ch%changeup %": "12.9",
+        "sl%slider %": "20.3",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "72",
         "hh%hard hit %": "37.3",
         "brlbarrels": "10",
         "brl%barrel %": "5.2",
-        "ab": "240",
-        "avg": ".250",
+        "ab": "242",
+        "avg": ".248",
         "h": "60",
         "1b": "37",
         "2b": "14",
@@ -28,7 +28,7 @@
         "bipballs in play": "193",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-19 19:12:50.415152"
+        "updated": "2025-07-19 19:12:59.479622"
     },
     "sf @ tor": [
         {
@@ -3489,6 +3489,23 @@
     ],
     "laa @ phi": [
         {
+            "created_at": "2025-07-19 19:12:59",
+            "player": "otto kemp",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-07-19",
+            "team": "phi",
+            "stadium": "phi",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:11:44",
             "player": "jt realmuto",
             "game": "laa @ phi",
@@ -4394,6 +4411,23 @@
     ],
     "sd @ wsh": [],
     "bal @ tb": [
+        {
+            "created_at": "2025-07-19 19:12:15",
+            "player": "ryan ohearn",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-07-19",
+            "team": "bal",
+            "stadium": "tb",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:10:13",
             "player": "gunnar henderson",
