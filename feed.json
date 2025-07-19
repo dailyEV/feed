@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "35",
+        "pitchers": "36",
         "batters": "184",
-        "pitches": "1466",
+        "pitches": "1470",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.6",
         "ff%fourseam fastball %": "38.1",
@@ -10,15 +10,15 @@
         "fc%cutter %": "3.4",
         "fs%splitter %": "1.8",
         "ch%changeup %": "8.4",
-        "sl%slider %": "26.9",
-        "cu%curve %": "8.3",
+        "sl%slider %": "26.8",
+        "cu%curve %": "8.4",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "118",
         "hh%hard hit %": "43.1",
         "brlbarrels": "32",
         "brl%barrel %": "11.7",
-        "ab": "342",
-        "avg": ".269",
+        "ab": "343",
+        "avg": ".268",
         "h": "92",
         "1b": "56",
         "2b": "18",
@@ -28,7 +28,7 @@
         "bipballs in play": "274",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:15:34.726097"
+        "updated": "2025-07-18 20:15:43.613342"
     },
     "bos @ chc": [
         {
@@ -2655,6 +2655,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-18 20:15:39",
+            "player": "jo adell",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-18",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:11:38",
             "player": "taylor ward",
