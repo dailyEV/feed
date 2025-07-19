@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "125",
         "batters": "300",
-        "pitches": "4215",
+        "pitches": "4217",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.1",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.2",
         "brlbarrels": "75",
         "brl%barrel %": "9.8",
-        "ab": "992",
+        "ab": "993",
         "avg": ".251",
         "h": "249",
         "1b": "147",
@@ -28,7 +28,7 @@
         "bipballs in play": "768",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-19 00:14:12.861042"
+        "updated": "2025-07-19 00:14:25.430736"
     },
     "bos @ chc": [
         {
@@ -17655,6 +17655,23 @@
     ],
     "mil @ lad": [
         {
+            "created_at": "2025-07-19 00:14:16",
+            "player": "joey ortiz",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-07-18",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 00:13:44",
             "player": "caleb durbin",
             "game": "mil @ lad",
@@ -17664,7 +17681,7 @@
             "team": "mil",
             "stadium": "lad",
             "in": "9",
-            "result": "In Progress",
+            "result": "Forceout",
             "evo": "39.0",
             "la": "15",
             "dist": "62",
