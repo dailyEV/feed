@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "113",
         "batters": "297",
-        "pitches": "3978",
+        "pitches": "3980",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.6",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "307",
-        "hh%hard hit %": "42.3",
+        "hhhard hit": "308",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "72",
         "brl%barrel %": "9.9",
-        "ab": "939",
-        "avg": ".247",
-        "h": "232",
-        "1b": "135",
+        "ab": "940",
+        "avg": ".248",
+        "h": "233",
+        "1b": "136",
         "2b": "54",
         "3b": "8",
         "hr": "35",
         "so": "228",
-        "bipballs in play": "725",
+        "bipballs in play": "726",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:28:31.512623"
+        "updated": "2025-07-18 23:28:44.590246"
     },
     "bos @ chc": [
         {
@@ -16975,11 +16975,11 @@
     ],
     "mil @ lad": [
         {
-            "created_at": "2025-07-18 23:27:17",
-            "player": "hyeseong kim",
+            "created_at": "2025-07-18 23:28:35",
+            "player": "tommy edman",
             "game": "mil @ lad",
             "hr/park": "",
-            "pa": "40",
+            "pa": "41",
             "dt": "2025-07-18",
             "team": "lad",
             "stadium": "lad",
@@ -16989,6 +16989,23 @@
             "la": "",
             "dist": "",
             "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-18 23:27:17",
+            "player": "hyeseong kim",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-18",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "6",
+            "result": "Single",
+            "evo": "97.4",
+            "la": "9",
+            "dist": "136",
+            "is_hh": true,
             "is_brl": false
         },
         {
