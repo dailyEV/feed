@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "4",
-        "batters": "25",
-        "pitches": "167",
+        "batters": "26",
+        "pitches": "168",
         "max velomax pitch velocity": "95.2",
         "min velomin pitch velocity": "73.9",
-        "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "16.2",
-        "fc%cutter %": "13.2",
+        "ff%fourseam fastball %": "31.0",
+        "si%sinker %": "16.7",
+        "fc%cutter %": "13.1",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "20.4",
-        "sl%slider %": "12.6",
+        "ch%changeup %": "20.2",
+        "sl%slider %": "12.5",
         "cu%curve %": "4.8",
         "max evmax exit velocity": "108.4",
         "hhhard hit": "17",
         "hh%hard hit %": "42.5",
         "brlbarrels": "1",
         "brl%barrel %": "2.5",
-        "ab": "46",
-        "avg": ".217",
+        "ab": "47",
+        "avg": ".213",
         "h": "10",
         "1b": "7",
         "2b": "1",
@@ -28,7 +28,7 @@
         "bipballs in play": "40",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-19 16:26:40.450400"
+        "updated": "2025-07-19 16:26:48.072213"
     },
     "sf @ tor": [
         {
@@ -765,6 +765,23 @@
     ],
     "cin @ nym": [],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-19 16:26:43",
+            "player": "maikel garcia",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-07-19",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 16:23:41",
             "player": "agustin ramirez",
