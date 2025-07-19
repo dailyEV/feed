@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "39",
         "batters": "121",
-        "pitches": "1079",
+        "pitches": "1080",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "24.2",
         "si%sinker %": "19.4",
-        "fc%cutter %": "14.6",
-        "fs%splitter %": "4.0",
+        "fc%cutter %": "14.5",
+        "fs%splitter %": "4.1",
         "ch%changeup %": "11.6",
         "sl%slider %": "19.8",
         "cu%curve %": "6.5",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "37.7",
         "brlbarrels": "12",
         "brl%barrel %": "5.6",
-        "ab": "272",
-        "avg": ".232",
+        "ab": "273",
+        "avg": ".231",
         "h": "63",
         "1b": "39",
         "2b": "15",
@@ -28,7 +28,7 @@
         "bipballs in play": "215",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:21:39.397128"
+        "updated": "2025-07-19 19:21:48.090454"
     },
     "sf @ tor": [
         {
@@ -1189,6 +1189,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-19 19:21:45",
+            "player": "juan soto",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-07-19",
+            "team": "nym",
+            "stadium": "nym",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:17:30",
             "player": "francisco lindor",
