@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "110",
         "batters": "294",
-        "pitches": "3738",
+        "pitches": "3739",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.2",
+        "ff%fourseam fastball %": "34.3",
         "si%sinker %": "15.2",
         "fc%cutter %": "5.5",
         "fs%splitter %": "2.0",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.1",
         "brlbarrels": "67",
         "brl%barrel %": "9.8",
-        "ab": "880",
+        "ab": "881",
         "avg": ".250",
         "h": "220",
         "1b": "129",
@@ -28,7 +28,7 @@
         "bipballs in play": "686",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:54:05.005335"
+        "updated": "2025-07-18 22:54:17.079403"
     },
     "bos @ chc": [
         {
@@ -15868,6 +15868,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-18 22:54:17",
+            "player": "jp crawford",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-18",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:53:20",
             "player": "ben williamson",
             "game": "hou @ sea",
@@ -15877,7 +15894,7 @@
             "team": "sea",
             "stadium": "sea",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "89.5",
             "la": "3",
             "dist": "94",
