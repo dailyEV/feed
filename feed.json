@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "113",
         "batters": "297",
-        "pitches": "3985",
+        "pitches": "3987",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.0",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.7",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "308",
-        "hh%hard hit %": "42.4",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "72",
         "brl%barrel %": "9.9",
-        "ab": "940",
-        "avg": ".248",
+        "ab": "942",
+        "avg": ".247",
         "h": "233",
         "1b": "136",
         "2b": "54",
         "3b": "8",
         "hr": "35",
         "so": "230",
-        "bipballs in play": "727",
+        "bipballs in play": "728",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:30:11.639449"
+        "updated": "2025-07-18 23:30:23.591207"
     },
     "bos @ chc": [
         {
@@ -16310,6 +16310,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-18 23:30:17",
+            "player": "jp crawford",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-18",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 23:27:17",
             "player": "jose altuve",
             "game": "hou @ sea",
@@ -16974,6 +16991,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-18 23:30:17",
+            "player": "shohei ohtani",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-18",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "6",
+            "result": "Forceout",
+            "evo": "83.9",
+            "la": "-11",
+            "dist": "14",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 23:28:35",
             "player": "tommy edman",
