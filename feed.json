@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "106",
-        "batters": "276",
-        "pitches": "3528",
+        "batters": "277",
+        "pitches": "3531",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.8",
+        "ff%fourseam fastball %": "34.7",
         "si%sinker %": "14.7",
         "fc%cutter %": "5.3",
         "fs%splitter %": "2.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.1",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "270",
-        "hh%hard hit %": "41.9",
+        "hhhard hit": "271",
+        "hh%hard hit %": "42.0",
         "brlbarrels": "65",
         "brl%barrel %": "10.1",
-        "ab": "827",
-        "avg": ".253",
+        "ab": "828",
+        "avg": ".252",
         "h": "209",
         "1b": "121",
         "2b": "47",
         "3b": "8",
         "hr": "33",
         "so": "196",
-        "bipballs in play": "644",
+        "bipballs in play": "645",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:30:15.674733"
+        "updated": "2025-07-18 22:30:27.112894"
     },
     "bos @ chc": [
         {
@@ -12989,6 +12989,23 @@
     ],
     "det @ tex": [
         {
+            "created_at": "2025-07-18 22:30:19",
+            "player": "corey seager",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-18",
+            "team": "tex",
+            "stadium": "tex",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:27:17",
             "player": "josh smith",
             "game": "det @ tex",
@@ -12998,7 +13015,7 @@
             "team": "tex",
             "stadium": "tex",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -14924,10 +14941,10 @@
             "stadium": "ari",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "evo": "96.3",
+            "la": "-2",
+            "dist": "38",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -15512,6 +15529,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-18 22:30:19",
+            "player": "teoscar hernandez",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "12",
+            "dt": "2025-07-18",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:29:32",
             "player": "will smith",
