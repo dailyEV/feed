@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "52",
         "batters": "203",
-        "pitches": "2048",
+        "pitches": "2052",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.7",
@@ -13,10 +13,10 @@
         "sl%slider %": "25.8",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "161",
-        "hh%hard hit %": "42.5",
-        "brlbarrels": "40",
-        "brl%barrel %": "10.6",
+        "hhhard hit": "162",
+        "hh%hard hit %": "42.6",
+        "brlbarrels": "41",
+        "brl%barrel %": "10.8",
         "ab": "481",
         "avg": ".260",
         "h": "125",
@@ -24,11 +24,11 @@
         "2b": "28",
         "3b": "2",
         "hr": "21",
-        "so": "108",
-        "bipballs in play": "379",
+        "so": "109",
+        "bipballs in play": "380",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 20:47:30.612975"
+        "updated": "2025-07-18 20:47:40.298303"
     },
     "bos @ chc": [
         {
@@ -2221,7 +2221,7 @@
             "team": "wsh",
             "stadium": "wsh",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -4096,11 +4096,11 @@
             "stadium": "tor",
             "in": "6",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
+            "evo": "104.6",
+            "la": "22",
+            "dist": "387",
+            "is_hh": true,
+            "is_brl": true
         },
         {
             "created_at": "2025-07-18 20:43:23",
