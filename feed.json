@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "38",
-        "batters": "116",
-        "pitches": "1038",
+        "batters": "117",
+        "pitches": "1044",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "24.1",
@@ -11,24 +11,24 @@
         "fs%splitter %": "3.8",
         "ch%changeup %": "12.0",
         "sl%slider %": "19.7",
-        "cu%curve %": "6.4",
+        "cu%curve %": "6.3",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "80",
         "hh%hard hit %": "37.9",
         "brlbarrels": "12",
         "brl%barrel %": "5.7",
-        "ab": "265",
-        "avg": ".238",
+        "ab": "266",
+        "avg": ".237",
         "h": "63",
         "1b": "39",
         "2b": "15",
         "3b": "2",
         "hr": "7",
-        "so": "56",
+        "so": "57",
         "bipballs in play": "211",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:19:36.337351"
+        "updated": "2025-07-19 19:19:45.264801"
     },
     "sf @ tor": [
         {
@@ -3549,7 +3549,7 @@
             "team": "laa",
             "stadium": "phi",
             "in": "5",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -4685,6 +4685,23 @@
         }
     ],
     "det @ tex": [
+        {
+            "created_at": "2025-07-19 19:19:45",
+            "player": "marcus semien",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-19",
+            "team": "tex",
+            "stadium": "tex",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:18:30",
             "player": "corey seager",
