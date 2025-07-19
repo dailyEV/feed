@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "41",
         "batters": "189",
-        "pitches": "1636",
+        "pitches": "1639",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.2",
-        "ff%fourseam fastball %": "37.3",
+        "ff%fourseam fastball %": "37.4",
         "si%sinker %": "12.8",
         "fc%cutter %": "3.5",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "8.4",
-        "sl%slider %": "26.3",
-        "cu%curve %": "9.5",
+        "ch%changeup %": "8.5",
+        "sl%slider %": "26.2",
+        "cu%curve %": "9.6",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "133",
         "hh%hard hit %": "43.5",
         "brlbarrels": "35",
         "brl%barrel %": "11.4",
-        "ab": "382",
-        "avg": ".272",
+        "ab": "384",
+        "avg": ".271",
         "h": "104",
         "1b": "62",
         "2b": "22",
@@ -28,7 +28,7 @@
         "bipballs in play": "306",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:25:01.929044"
+        "updated": "2025-07-18 20:25:11.282086"
     },
     "bos @ chc": [
         {
@@ -5452,6 +5452,23 @@
     ],
     "kc @ mia": [
         {
+            "created_at": "2025-07-18 20:24:38",
+            "player": "vinnie pasquantino",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-07-18",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:24:08",
             "player": "bobby witt",
             "game": "kc @ mia",
@@ -5461,7 +5478,7 @@
             "team": "kc",
             "stadium": "mia",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "95.1",
             "la": "-18",
             "dist": "9",
@@ -6679,6 +6696,23 @@
         }
     ],
     "bal @ tb": [
+        {
+            "created_at": "2025-07-18 20:25:08",
+            "player": "gunnar henderson",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-18",
+            "team": "bal",
+            "stadium": "tb",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:23:24",
             "player": "jordan westburg",
