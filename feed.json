@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "9",
-        "batters": "48",
-        "pitches": "327",
+        "batters": "49",
+        "pitches": "328",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "27.5",
+        "ff%fourseam fastball %": "27.4",
         "si%sinker %": "18.3",
-        "fc%cutter %": "15.6",
-        "fs%splitter %": "2.8",
-        "ch%changeup %": "15.3",
-        "sl%slider %": "15.6",
+        "fc%cutter %": "15.5",
+        "fs%splitter %": "2.7",
+        "ch%changeup %": "15.2",
+        "sl%slider %": "15.9",
         "cu%curve %": "4.9",
         "max evmax exit velocity": "108.4",
         "hhhard hit": "34",
         "hh%hard hit %": "43.0",
         "brlbarrels": "3",
         "brl%barrel %": "3.8",
-        "ab": "89",
-        "avg": ".236",
+        "ab": "90",
+        "avg": ".233",
         "h": "21",
         "1b": "14",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "79",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-19 16:59:51.776685"
+        "updated": "2025-07-19 16:59:59.602032"
     },
     "sf @ tor": [
         {
@@ -1036,6 +1036,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-19 16:59:57",
+            "player": "spencer steer",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-19",
+            "team": "cin",
+            "stadium": "nym",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 16:56:56",
             "player": "gavin lux",
