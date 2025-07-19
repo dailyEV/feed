@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "62",
         "batters": "218",
-        "pitches": "2417",
+        "pitches": "2418",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "35.5",
+        "ff%fourseam fastball %": "35.4",
         "si%sinker %": "14.1",
         "fc%cutter %": "4.2",
         "fs%splitter %": "1.8",
@@ -13,8 +13,8 @@
         "sl%slider %": "25.2",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "191",
-        "hh%hard hit %": "42.4",
+        "hhhard hit": "190",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "47",
         "brl%barrel %": "10.4",
         "ab": "574",
@@ -24,11 +24,11 @@
         "2b": "33",
         "3b": "5",
         "hr": "24",
-        "so": "129",
-        "bipballs in play": "451",
+        "so": "128",
+        "bipballs in play": "450",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:06:33.285949"
+        "updated": "2025-07-18 21:06:43.706233"
     },
     "bos @ chc": [
         {
@@ -7468,10 +7468,10 @@
             "stadium": "mia",
             "in": "8",
             "result": "In Progress",
-            "evo": "100.0",
-            "la": "18",
-            "dist": "359",
-            "is_hh": true,
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
             "is_brl": false
         },
         {
@@ -10603,7 +10603,7 @@
             "team": "col",
             "stadium": "col",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
