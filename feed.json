@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "115",
         "batters": "297",
-        "pitches": "4038",
+        "pitches": "4042",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.0",
         "si%sinker %": "15.5",
         "fc%cutter %": "5.7",
-        "fs%splitter %": "1.9",
+        "fs%splitter %": "2.0",
         "ch%changeup %": "8.6",
         "sl%slider %": "24.6",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "311",
-        "hh%hard hit %": "42.4",
+        "hhhard hit": "312",
+        "hh%hard hit %": "42.5",
         "brlbarrels": "72",
         "brl%barrel %": "9.8",
-        "ab": "952",
+        "ab": "953",
         "avg": ".247",
         "h": "235",
         "1b": "137",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "35",
         "so": "234",
-        "bipballs in play": "733",
+        "bipballs in play": "734",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:39:20.150138"
+        "updated": "2025-07-18 23:39:32.903329"
     },
     "bos @ chc": [
         {
@@ -15372,6 +15372,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-18 23:39:32",
+            "player": "blaze alexander",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-18",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "105.4",
+            "la": "-16",
+            "dist": "7",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 23:37:32",
             "player": "adrian del castillo",
