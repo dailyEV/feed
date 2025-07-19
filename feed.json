@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "98",
         "batters": "255",
-        "pitches": "3346",
+        "pitches": "3347",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.6",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.6",
         "brlbarrels": "64",
         "brl%barrel %": "10.3",
-        "ab": "785",
-        "avg": ".252",
-        "h": "198",
-        "1b": "112",
+        "ab": "786",
+        "avg": ".253",
+        "h": "199",
+        "1b": "113",
         "2b": "45",
         "3b": "8",
         "hr": "33",
@@ -28,7 +28,7 @@
         "bipballs in play": "619",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-18 22:09:46.388773"
+        "updated": "2025-07-18 22:09:58.074064"
     },
     "bos @ chc": [
         {
@@ -14591,6 +14591,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-18 22:09:50",
+            "player": "corbin carroll",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-07-18",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:06:17",
             "player": "jose herrera",
             "game": "stl @ ari",
@@ -14600,7 +14617,7 @@
             "team": "ari",
             "stadium": "ari",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "98.4",
             "la": "13",
             "dist": "233",
