@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "32",
-        "batters": "104",
-        "pitches": "986",
+        "batters": "105",
+        "pitches": "989",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "22.4",
         "si%sinker %": "20.1",
         "fc%cutter %": "14.9",
-        "fs%splitter %": "3.3",
-        "ch%changeup %": "12.5",
-        "sl%slider %": "20.1",
+        "fs%splitter %": "3.4",
+        "ch%changeup %": "12.4",
+        "sl%slider %": "20.0",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "77",
         "hh%hard hit %": "38.1",
         "brlbarrels": "11",
         "brl%barrel %": "5.4",
-        "ab": "250",
-        "avg": ".248",
+        "ab": "251",
+        "avg": ".247",
         "h": "62",
         "1b": "39",
         "2b": "14",
@@ -28,7 +28,7 @@
         "bipballs in play": "202",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:16:42.673820"
+        "updated": "2025-07-19 19:16:51.090225"
     },
     "sf @ tor": [
         {
@@ -4513,6 +4513,23 @@
     ],
     "sd @ wsh": [],
     "bal @ tb": [
+        {
+            "created_at": "2025-07-19 19:16:45",
+            "player": "colton cowser",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-19",
+            "team": "bal",
+            "stadium": "tb",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:14:29",
             "player": "ramon laureano",
