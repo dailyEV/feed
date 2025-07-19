@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "43",
         "batters": "188",
-        "pitches": "1488",
+        "pitches": "1491",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "27.2",
-        "si%sinker %": "18.5",
-        "fc%cutter %": "13.8",
+        "si%sinker %": "18.4",
+        "fc%cutter %": "13.7",
         "fs%splitter %": "3.9",
         "ch%changeup %": "10.4",
         "sl%slider %": "19.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.6",
         "brlbarrels": "16",
         "brl%barrel %": "5.7",
-        "ab": "363",
-        "avg": ".240",
+        "ab": "365",
+        "avg": ".238",
         "h": "87",
         "1b": "55",
         "2b": "17",
         "3b": "3",
         "hr": "12",
-        "so": "84",
+        "so": "85",
         "bipballs in play": "282",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:48:36.158988"
+        "updated": "2025-07-19 19:48:45.369248"
     },
     "sf @ tor": [
         {
@@ -3574,6 +3574,23 @@
     ],
     "laa @ phi": [
         {
+            "created_at": "2025-07-19 19:48:43",
+            "player": "lamonte wade",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-07-19",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:47:59",
             "player": "travis darnaud",
             "game": "laa @ phi",
@@ -3583,7 +3600,7 @@
             "team": "laa",
             "stadium": "phi",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -6255,6 +6272,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-19 19:48:43",
+            "player": "geraldo perdomo",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-19",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:45:45",
             "player": "corbin carroll",
