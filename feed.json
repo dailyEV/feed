@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "42",
         "batters": "181",
-        "pitches": "1427",
+        "pitches": "1428",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "27.0",
         "si%sinker %": "18.7",
         "fc%cutter %": "13.9",
         "fs%splitter %": "4.0",
-        "ch%changeup %": "10.2",
-        "sl%slider %": "19.6",
+        "ch%changeup %": "10.3",
+        "sl%slider %": "19.5",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "98",
-        "hh%hard hit %": "36.8",
+        "hh%hard hit %": "36.7",
         "brlbarrels": "14",
-        "brl%barrel %": "5.3",
-        "ab": "344",
+        "brl%barrel %": "5.2",
+        "ab": "345",
         "avg": ".235",
         "h": "81",
         "1b": "51",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "11",
         "so": "83",
-        "bipballs in play": "266",
+        "bipballs in play": "267",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:44:11.527994"
+        "updated": "2025-07-19 19:44:20.615846"
     },
     "sf @ tor": [
         {
@@ -5212,6 +5212,23 @@
         }
     ],
     "det @ tex": [
+        {
+            "created_at": "2025-07-19 19:43:43",
+            "player": "colt keith",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-07-19",
+            "team": "det",
+            "stadium": "tex",
+            "in": "3",
+            "result": "Groundout",
+            "evo": "56.0",
+            "la": "-65",
+            "dist": "4",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:43:00",
             "player": "trey sweeney",
