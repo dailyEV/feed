@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "31",
-        "batters": "97",
-        "pitches": "919",
+        "pitchers": "30",
+        "batters": "96",
+        "pitches": "923",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "21.8",
-        "si%sinker %": "20.1",
-        "fc%cutter %": "14.9",
-        "fs%splitter %": "3.0",
-        "ch%changeup %": "12.8",
+        "ff%fourseam fastball %": "21.7",
+        "si%sinker %": "19.9",
+        "fc%cutter %": "15.0",
+        "fs%splitter %": "3.1",
+        "ch%changeup %": "13.0",
         "sl%slider %": "20.6",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "72",
-        "hh%hard hit %": "37.9",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "10",
-        "brl%barrel %": "5.3",
-        "ab": "237",
-        "avg": ".253",
+        "brl%barrel %": "5.2",
+        "ab": "238",
+        "avg": ".252",
         "h": "60",
         "1b": "37",
         "2b": "14",
         "3b": "2",
         "hr": "7",
         "so": "51",
-        "bipballs in play": "190",
+        "bipballs in play": "191",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-19 19:11:42.053894"
+        "updated": "2025-07-19 19:11:50.499834"
     },
     "sf @ tor": [
         {
@@ -1189,6 +1189,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-19 19:11:44",
+            "player": "tj friedl",
+            "game": "cin @ nym",
+            "hr/park": "3/30",
+            "pa": "72",
+            "dt": "2025-07-19",
+            "team": "cin",
+            "stadium": "nym",
+            "in": "9",
+            "result": "Lineout",
+            "evo": "94.3",
+            "la": "24",
+            "dist": "348",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:09:30",
             "player": "noelvi marte",
@@ -3471,6 +3488,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-19 19:11:44",
+            "player": "jt realmuto",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-19",
+            "team": "phi",
+            "stadium": "phi",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:07:44",
             "player": "nolan schanuel",
