@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "87",
         "batters": "233",
-        "pitches": "3035",
+        "pitches": "3036",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.1",
@@ -13,8 +13,8 @@
         "sl%slider %": "25.0",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "232",
-        "hh%hard hit %": "42.0",
+        "hhhard hit": "233",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "59",
         "brl%barrel %": "10.7",
         "ab": "706",
@@ -28,7 +28,7 @@
         "bipballs in play": "552",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:39:43.485568"
+        "updated": "2025-07-18 21:39:54.822515"
     },
     "bos @ chc": [
         {
@@ -10036,7 +10036,7 @@
             "team": "nyy",
             "stadium": "atl",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -11143,10 +11143,10 @@
             "team": "tb",
             "stadium": "tb",
             "in": "7",
-            "result": "Flyout",
-            "evo": "74.9",
-            "la": "35",
-            "dist": "249",
+            "result": "Wild Pitch",
+            "evo": "",
+            "la": "",
+            "dist": "",
             "is_hh": false,
             "is_brl": false
         },
@@ -12881,11 +12881,11 @@
             "team": "min",
             "stadium": "col",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Groundout",
+            "evo": "99.5",
+            "la": "5",
+            "dist": "109",
+            "is_hh": true,
             "is_brl": false
         },
         {
