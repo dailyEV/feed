@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "43",
         "batters": "193",
-        "pitches": "1536",
+        "pitches": "1538",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "27.4",
-        "si%sinker %": "18.4",
+        "si%sinker %": "18.5",
         "fc%cutter %": "13.7",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "10.2",
-        "sl%slider %": "19.5",
+        "ch%changeup %": "10.1",
+        "sl%slider %": "19.4",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "108",
@@ -24,11 +24,11 @@
         "2b": "18",
         "3b": "3",
         "hr": "12",
-        "so": "88",
+        "so": "87",
         "bipballs in play": "288",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:51:40.004248"
+        "updated": "2025-07-19 19:51:49.279028"
     },
     "sf @ tor": [
         {
@@ -5400,6 +5400,23 @@
     ],
     "det @ tex": [
         {
+            "created_at": "2025-07-19 19:50:59",
+            "player": "adolis garcia",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-07-19",
+            "team": "tex",
+            "stadium": "tex",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:49:15",
             "player": "marcus semien",
             "game": "det @ tex",
@@ -5776,23 +5793,6 @@
     ],
     "ath @ cle": [
         {
-            "created_at": "2025-07-19 19:51:30",
-            "player": "nolan jones",
-            "game": "ath @ cle",
-            "hr/park": "",
-            "pa": "21",
-            "dt": "2025-07-19",
-            "team": "cle",
-            "stadium": "cle",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 19:49:44",
             "player": "angel martinez",
             "game": "ath @ cle",
@@ -5802,7 +5802,7 @@
             "team": "cle",
             "stadium": "cle",
             "in": "3",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
