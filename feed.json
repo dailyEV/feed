@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "71",
         "batters": "224",
-        "pitches": "2604",
+        "pitches": "2610",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.9",
@@ -13,11 +13,11 @@
         "sl%slider %": "25.1",
         "cu%curve %": "10.5",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "202",
-        "hh%hard hit %": "42.2",
-        "brlbarrels": "50",
-        "brl%barrel %": "10.4",
-        "ab": "613",
+        "hhhard hit": "203",
+        "hh%hard hit %": "42.3",
+        "brlbarrels": "51",
+        "brl%barrel %": "10.6",
+        "ab": "614",
         "avg": ".251",
         "h": "154",
         "1b": "89",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "26",
         "so": "141",
-        "bipballs in play": "479",
+        "bipballs in play": "480",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:16:32.830618"
+        "updated": "2025-07-18 21:16:43.125171"
     },
     "bos @ chc": [
         {
@@ -4748,6 +4748,23 @@
         }
     ],
     "sf @ tor": [
+        {
+            "created_at": "2025-07-18 21:16:39",
+            "player": "george springer",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-07-18",
+            "team": "tor",
+            "stadium": "tor",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:12:23",
             "player": "heliot ramos",
@@ -11284,11 +11301,11 @@
             "stadium": "col",
             "in": "2",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
+            "evo": "108.8",
+            "la": "30",
+            "dist": "448",
+            "is_hh": true,
+            "is_brl": true
         },
         {
             "created_at": "2025-07-18 21:14:54",
