@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "170",
-        "pitches": "1348",
+        "batters": "172",
+        "pitches": "1354",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "26.0",
-        "si%sinker %": "19.4",
-        "fc%cutter %": "14.0",
+        "si%sinker %": "19.3",
+        "fc%cutter %": "14.3",
         "fs%splitter %": "3.9",
-        "ch%changeup %": "10.4",
-        "sl%slider %": "19.5",
+        "ch%changeup %": "10.3",
+        "sl%slider %": "19.4",
         "cu%curve %": "6.8",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "97",
         "hh%hard hit %": "38.2",
         "brlbarrels": "14",
         "brl%barrel %": "5.5",
-        "ab": "330",
-        "avg": ".233",
+        "ab": "332",
+        "avg": ".232",
         "h": "77",
         "1b": "47",
         "2b": "16",
@@ -28,7 +28,7 @@
         "bipballs in play": "254",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:39:08.914615"
+        "updated": "2025-07-19 19:39:17.800888"
     },
     "sf @ tor": [
         {
@@ -4871,6 +4871,23 @@
     "sd @ wsh": [],
     "bal @ tb": [
         {
+            "created_at": "2025-07-19 19:39:15",
+            "player": "jake mangum",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-19",
+            "team": "tb",
+            "stadium": "tb",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:37:45",
             "player": "josh lowe",
             "game": "bal @ tb",
@@ -4880,7 +4897,7 @@
             "team": "tb",
             "stadium": "tb",
             "in": "2",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "83.6",
             "la": "47",
             "dist": "261",
@@ -5830,6 +5847,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-19 19:39:15",
+            "player": "masyn winn",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-19",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:38:14",
             "player": "nolan arenado",
