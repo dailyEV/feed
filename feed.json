@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "100",
-        "batters": "257",
-        "pitches": "3369",
+        "pitchers": "101",
+        "batters": "258",
+        "pitches": "3373",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.8",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "265",
-        "hh%hard hit %": "42.7",
+        "hhhard hit": "266",
+        "hh%hard hit %": "42.8",
         "brlbarrels": "64",
         "brl%barrel %": "10.3",
-        "ab": "788",
+        "ab": "790",
         "avg": ".253",
-        "h": "199",
-        "1b": "113",
+        "h": "200",
+        "1b": "114",
         "2b": "45",
         "3b": "8",
         "hr": "33",
         "so": "182",
-        "bipballs in play": "620",
+        "bipballs in play": "621",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:13:15.131714"
+        "updated": "2025-07-18 22:13:26.980851"
     },
     "bos @ chc": [
         {
@@ -13833,11 +13833,11 @@
             "team": "min",
             "stadium": "col",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Single",
+            "evo": "96.3",
+            "la": "3",
+            "dist": "86",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -14625,6 +14625,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-18 22:13:18",
+            "player": "geraldo perdomo",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "18",
+            "dt": "2025-07-18",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:09:50",
             "player": "corbin carroll",
             "game": "stl @ ari",
@@ -14914,7 +14931,25 @@
             "is_brl": false
         }
     ],
-    "hou @ sea": [],
+    "hou @ sea": [
+        {
+            "created_at": "2025-07-18 22:13:18",
+            "player": "isaac paredes",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-18",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        }
+    ],
     "mil @ lad": [
         {
             "created_at": "2025-07-18 22:12:47",
