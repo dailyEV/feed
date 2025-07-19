@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "11",
         "batters": "54",
-        "pitches": "435",
+        "pitches": "436",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "25.1",
+        "ff%fourseam fastball %": "25.0",
         "si%sinker %": "20.9",
         "fc%cutter %": "13.8",
         "fs%splitter %": "3.0",
         "ch%changeup %": "15.6",
-        "sl%slider %": "16.6",
-        "cu%curve %": "5.1",
+        "sl%slider %": "16.5",
+        "cu%curve %": "5.3",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "41",
         "hh%hard hit %": "39.4",
         "brlbarrels": "4",
         "brl%barrel %": "3.8",
-        "ab": "117",
-        "avg": ".256",
+        "ab": "118",
+        "avg": ".254",
         "h": "30",
         "1b": "20",
         "2b": "5",
@@ -28,7 +28,7 @@
         "bipballs in play": "104",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-19 17:20:38.744432"
+        "updated": "2025-07-19 17:20:46.573206"
     },
     "sf @ tor": [
         {
@@ -1189,6 +1189,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-19 17:20:43",
+            "player": "juan soto",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-07-19",
+            "team": "nym",
+            "stadium": "nym",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 17:18:13",
             "player": "elly de la cruz",
