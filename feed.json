@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "61",
+        "pitchers": "62",
         "batters": "218",
-        "pitches": "2372",
+        "pitches": "2378",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.7",
-        "si%sinker %": "14.0",
+        "si%sinker %": "13.9",
         "fc%cutter %": "4.2",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "8.8",
+        "ch%changeup %": "8.7",
         "sl%slider %": "25.2",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "188",
-        "hh%hard hit %": "42.5",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "47",
         "brl%barrel %": "10.6",
-        "ab": "563",
+        "ab": "564",
         "avg": ".254",
         "h": "143",
         "1b": "81",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "24",
         "so": "124",
-        "bipballs in play": "442",
+        "bipballs in play": "443",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:04:50.322571"
+        "updated": "2025-07-18 21:05:00.372067"
     },
     "bos @ chc": [
         {
@@ -1250,10 +1250,10 @@
             "team": "chw",
             "stadium": "pit",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
+            "result": "Groundout",
+            "evo": "81.6",
             "la": "",
-            "dist": "",
+            "dist": "35",
             "is_hh": false,
             "is_brl": false
         },
@@ -7355,6 +7355,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-18 21:04:57",
+            "player": "vinnie pasquantino",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-18",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:01:40",
             "player": "otto lopez",
