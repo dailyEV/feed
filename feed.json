@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "39",
-        "batters": "121",
-        "pitches": "1080",
+        "batters": "122",
+        "pitches": "1081",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "24.2",
-        "si%sinker %": "19.4",
+        "si%sinker %": "19.3",
         "fc%cutter %": "14.5",
         "fs%splitter %": "4.1",
         "ch%changeup %": "11.6",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "37.7",
         "brlbarrels": "12",
         "brl%barrel %": "5.6",
-        "ab": "273",
-        "avg": ".231",
+        "ab": "274",
+        "avg": ".230",
         "h": "63",
         "1b": "39",
         "2b": "15",
@@ -28,7 +28,7 @@
         "bipballs in play": "215",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:21:56.982922"
+        "updated": "2025-07-19 19:22:05.690884"
     },
     "sf @ tor": [
         {
@@ -4891,6 +4891,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-19 19:22:00",
+            "player": "kyle manzardo",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-19",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:18:58",
             "player": "jose ramirez",
