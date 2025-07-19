@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "100",
-        "batters": "256",
-        "pitches": "3363",
+        "batters": "257",
+        "pitches": "3369",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.6",
+        "ff%fourseam fastball %": "34.7",
         "si%sinker %": "14.8",
         "fc%cutter %": "5.0",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.5",
-        "sl%slider %": "24.9",
+        "sl%slider %": "24.8",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "264",
-        "hh%hard hit %": "42.6",
+        "hhhard hit": "265",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "64",
         "brl%barrel %": "10.3",
-        "ab": "787",
+        "ab": "788",
         "avg": ".253",
         "h": "199",
         "1b": "113",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "33",
         "so": "182",
-        "bipballs in play": "619",
+        "bipballs in play": "620",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:12:40.103374"
+        "updated": "2025-07-18 22:12:51.733008"
     },
     "bos @ chc": [
         {
@@ -14917,11 +14917,11 @@
     "hou @ sea": [],
     "mil @ lad": [
         {
-            "created_at": "2025-07-18 22:11:33",
-            "player": "brice turang",
+            "created_at": "2025-07-18 22:12:47",
+            "player": "william contreras",
             "game": "mil @ lad",
             "hr/park": "",
-            "pa": "1",
+            "pa": "2",
             "dt": "2025-07-18",
             "team": "mil",
             "stadium": "lad",
@@ -14931,6 +14931,23 @@
             "la": "",
             "dist": "",
             "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-18 22:11:33",
+            "player": "brice turang",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-18",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "96.0",
+            "la": "-8",
+            "dist": "13",
+            "is_hh": true,
             "is_brl": false
         }
     ]
