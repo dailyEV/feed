@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "106",
-        "batters": "274",
-        "pitches": "3520",
+        "batters": "276",
+        "pitches": "3525",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.7",
+        "ff%fourseam fastball %": "34.8",
         "si%sinker %": "14.7",
         "fc%cutter %": "5.3",
         "fs%splitter %": "2.1",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "270",
-        "hh%hard hit %": "42.0",
+        "hh%hard hit %": "41.9",
         "brlbarrels": "65",
         "brl%barrel %": "10.1",
-        "ab": "824",
-        "avg": ".251",
-        "h": "207",
-        "1b": "119",
+        "ab": "826",
+        "avg": ".253",
+        "h": "209",
+        "1b": "121",
         "2b": "47",
         "3b": "8",
         "hr": "33",
         "so": "196",
-        "bipballs in play": "643",
+        "bipballs in play": "644",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:29:28.365853"
+        "updated": "2025-07-18 22:29:40.002311"
     },
     "bos @ chc": [
         {
@@ -12998,7 +12998,7 @@
             "team": "tex",
             "stadium": "tex",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -14914,6 +14914,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-18 22:29:32",
+            "player": "adrian del castillo",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "27",
+            "dt": "2025-07-18",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:28:02",
             "player": "eugenio suarez",
             "game": "stl @ ari",
@@ -14923,7 +14940,7 @@
             "team": "ari",
             "stadium": "ari",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "107.3",
             "la": "5",
             "dist": "103",
@@ -15358,6 +15375,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-18 22:29:32",
+            "player": "victor caratini",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-07-18",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:27:17",
             "player": "cal raleigh",
             "game": "hou @ sea",
@@ -15478,6 +15512,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-18 22:29:32",
+            "player": "will smith",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-18",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "2",
+            "result": "Single",
+            "evo": "80.4",
+            "la": "10",
+            "dist": "113",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:27:17",
             "player": "jake bauers",
