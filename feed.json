@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "25",
+        "pitchers": "26",
         "batters": "81",
-        "pitches": "808",
+        "pitches": "812",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "21.3",
-        "si%sinker %": "20.9",
-        "fc%cutter %": "14.1",
+        "ff%fourseam fastball %": "21.4",
+        "si%sinker %": "20.8",
+        "fc%cutter %": "14.0",
         "fs%splitter %": "2.5",
-        "ch%changeup %": "13.4",
-        "sl%slider %": "20.8",
-        "cu%curve %": "7.1",
+        "ch%changeup %": "13.3",
+        "sl%slider %": "20.9",
+        "cu%curve %": "7.0",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "61",
         "hh%hard hit %": "36.5",
         "brlbarrels": "8",
         "brl%barrel %": "4.8",
-        "ab": "203",
-        "avg": ".246",
+        "ab": "204",
+        "avg": ".245",
         "h": "50",
         "1b": "31",
         "2b": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "167",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-07-19 18:53:56.358112"
+        "updated": "2025-07-19 18:54:04.479150"
     },
     "sf @ tor": [
         {
@@ -1189,6 +1189,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-19 18:53:59",
+            "player": "austin hays",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-19",
+            "team": "cin",
+            "stadium": "nym",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 18:50:15",
             "player": "mark vientos",
@@ -3328,7 +3345,7 @@
             "team": "phi",
             "stadium": "phi",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": "",
