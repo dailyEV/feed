@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "85",
-        "batters": "230",
-        "pitches": "2963",
+        "batters": "231",
+        "pitches": "2974",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.2",
-        "si%sinker %": "14.3",
+        "si%sinker %": "14.4",
         "fc%cutter %": "4.7",
         "fs%splitter %": "1.7",
         "ch%changeup %": "8.9",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "42.4",
         "brlbarrels": "58",
         "brl%barrel %": "10.7",
-        "ab": "691",
-        "avg": ".256",
+        "ab": "693",
+        "avg": ".255",
         "h": "177",
         "1b": "101",
         "2b": "38",
         "3b": "7",
         "hr": "31",
-        "so": "159",
+        "so": "160",
         "bipballs in play": "543",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:35:35.310555"
+        "updated": "2025-07-18 21:35:46.511584"
     },
     "bos @ chc": [
         {
@@ -5092,7 +5092,7 @@
             "created_at": "2025-07-18 21:35:09",
             "player": "ernie clement",
             "game": "sf @ tor",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "68",
             "dt": "2025-07-18",
             "team": "tor",
@@ -8648,6 +8648,23 @@
     ],
     "kc @ mia": [
         {
+            "created_at": "2025-07-18 21:35:09",
+            "player": "derek hill",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-07-18",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:31:08",
             "player": "nick fortes",
             "game": "kc @ mia",
@@ -9890,6 +9907,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-18 21:35:38",
+            "player": "nacho alvarez",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-18",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "7",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:33:40",
             "player": "ozzie albies",
