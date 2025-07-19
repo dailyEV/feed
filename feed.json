@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "110",
         "batters": "295",
-        "pitches": "3760",
+        "pitches": "3764",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.3",
-        "si%sinker %": "15.2",
-        "fc%cutter %": "5.5",
+        "si%sinker %": "15.1",
+        "fc%cutter %": "5.4",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.6",
         "sl%slider %": "24.4",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "291",
-        "hh%hard hit %": "42.2",
+        "hh%hard hit %": "42.1",
         "brlbarrels": "68",
-        "brl%barrel %": "9.9",
-        "ab": "886",
+        "brl%barrel %": "9.8",
+        "ab": "887",
         "avg": ".249",
         "h": "221",
         "1b": "130",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "34",
         "so": "211",
-        "bipballs in play": "690",
+        "bipballs in play": "691",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:57:43.275187"
+        "updated": "2025-07-18 22:57:55.510747"
     },
     "bos @ chc": [
         {
@@ -15247,9 +15247,9 @@
             "stadium": "ari",
             "in": "5",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "evo": "84.1",
+            "la": "61",
+            "dist": "181",
             "is_hh": false,
             "is_brl": false
         },
@@ -15935,6 +15935,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-18 22:57:47",
+            "player": "christian walker",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-07-18",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:54:17",
             "player": "jp crawford",
