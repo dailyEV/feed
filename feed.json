@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "47",
         "batters": "196",
-        "pitches": "1918",
+        "pitches": "1919",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.2",
         "ff%fourseam fastball %": "35.5",
@@ -14,7 +14,7 @@
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "155",
-        "hh%hard hit %": "43.5",
+        "hh%hard hit %": "43.4",
         "brlbarrels": "40",
         "brl%barrel %": "11.2",
         "ab": "450",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "21",
         "so": "99",
-        "bipballs in play": "356",
+        "bipballs in play": "357",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 20:41:17.044178"
+        "updated": "2025-07-18 20:41:26.771500"
     },
     "bos @ chc": [
         {
@@ -3022,7 +3022,7 @@
             "team": "phi",
             "stadium": "phi",
             "in": "6",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "100.0",
             "la": "6",
             "dist": "158",
@@ -6260,10 +6260,10 @@
             "team": "kc",
             "stadium": "mia",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Groundout",
+            "evo": "70.4",
+            "la": "-22",
+            "dist": "6",
             "is_hh": false,
             "is_brl": false
         },
