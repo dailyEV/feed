@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "78",
         "batters": "228",
-        "pitches": "2800",
+        "pitches": "2801",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.1",
@@ -11,13 +11,13 @@
         "fs%splitter %": "1.6",
         "ch%changeup %": "8.9",
         "sl%slider %": "25.0",
-        "cu%curve %": "10.3",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "216",
         "hh%hard hit %": "42.1",
         "brlbarrels": "55",
         "brl%barrel %": "10.7",
-        "ab": "655",
+        "ab": "656",
         "avg": ".256",
         "h": "168",
         "1b": "96",
@@ -28,7 +28,7 @@
         "bipballs in play": "513",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:26:15.086367"
+        "updated": "2025-07-18 21:26:25.891415"
     },
     "bos @ chc": [
         {
@@ -10504,6 +10504,23 @@
         }
     ],
     "bal @ tb": [
+        {
+            "created_at": "2025-07-18 21:26:24",
+            "player": "cedric mullins",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-07-18",
+            "team": "bal",
+            "stadium": "tb",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:24:10",
             "player": "colton cowser",
