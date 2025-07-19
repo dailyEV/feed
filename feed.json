@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "5",
-        "batters": "32",
-        "pitches": "206",
+        "batters": "33",
+        "pitches": "209",
         "max velomax pitch velocity": "95.4",
         "min velomin pitch velocity": "73.9",
-        "ff%fourseam fastball %": "27.2",
-        "si%sinker %": "18.4",
-        "fc%cutter %": "15.0",
-        "fs%splitter %": "1.5",
-        "ch%changeup %": "19.9",
-        "sl%slider %": "14.1",
-        "cu%curve %": "3.9",
+        "ff%fourseam fastball %": "26.8",
+        "si%sinker %": "19.1",
+        "fc%cutter %": "15.3",
+        "fs%splitter %": "1.4",
+        "ch%changeup %": "19.6",
+        "sl%slider %": "13.9",
+        "cu%curve %": "3.8",
         "max evmax exit velocity": "108.4",
         "hhhard hit": "21",
         "hh%hard hit %": "42.0",
         "brlbarrels": "2",
         "brl%barrel %": "4.0",
-        "ab": "56",
-        "avg": ".250",
+        "ab": "57",
+        "avg": ".246",
         "h": "14",
         "1b": "9",
         "2b": "3",
@@ -28,7 +28,7 @@
         "bipballs in play": "50",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-19 16:34:51.504885"
+        "updated": "2025-07-19 16:34:59.105352"
     },
     "sf @ tor": [
         {
@@ -832,6 +832,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-19 16:34:56",
+            "player": "matt mclain",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-19",
+            "team": "cin",
+            "stadium": "nym",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 16:31:58",
             "player": "tj friedl",
