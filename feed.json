@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "72",
-        "pitches": "742",
+        "batters": "73",
+        "pitches": "743",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "20.9",
-        "si%sinker %": "21.2",
+        "si%sinker %": "21.1",
         "fc%cutter %": "14.7",
         "fs%splitter %": "2.6",
         "ch%changeup %": "13.9",
         "sl%slider %": "20.2",
-        "cu%curve %": "6.6",
+        "cu%curve %": "6.7",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "53",
         "hh%hard hit %": "34.2",
         "brlbarrels": "8",
         "brl%barrel %": "5.2",
-        "ab": "182",
-        "avg": ".253",
+        "ab": "183",
+        "avg": ".251",
         "h": "46",
         "1b": "28",
         "2b": "12",
@@ -28,7 +28,7 @@
         "bipballs in play": "155",
         "liveGames": 5,
         "totGames": 15,
-        "updated": "2025-07-19 18:40:09.736730"
+        "updated": "2025-07-19 18:40:17.808949"
     },
     "sf @ tor": [
         {
@@ -3216,6 +3216,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-19 18:40:15",
+            "player": "johan rojas",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-07-19",
+            "team": "phi",
+            "stadium": "phi",
+            "in": "2",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 18:38:59",
             "player": "brandon marsh",
