@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "39",
         "batters": "188",
-        "pitches": "1574",
+        "pitches": "1575",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.2",
-        "ff%fourseam fastball %": "37.6",
-        "si%sinker %": "13.0",
+        "ff%fourseam fastball %": "37.7",
+        "si%sinker %": "13.1",
         "fc%cutter %": "3.3",
         "fs%splitter %": "1.8",
         "ch%changeup %": "8.4",
         "sl%slider %": "26.3",
-        "cu%curve %": "9.5",
+        "cu%curve %": "9.3",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "125",
-        "hh%hard hit %": "42.8",
+        "hhhard hit": "126",
+        "hh%hard hit %": "42.9",
         "brlbarrels": "33",
-        "brl%barrel %": "11.3",
-        "ab": "369",
+        "brl%barrel %": "11.2",
+        "ab": "370",
         "avg": ".268",
         "h": "99",
         "1b": "61",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "18",
         "so": "76",
-        "bipballs in play": "292",
+        "bipballs in play": "294",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:20:58.446210"
+        "updated": "2025-07-18 20:21:08.083205"
     },
     "bos @ chc": [
         {
@@ -2025,6 +2025,23 @@
     ],
     "sd @ wsh": [
         {
+            "created_at": "2025-07-18 20:20:38",
+            "player": "cj abrams",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-18",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:19:38",
             "player": "jacob young",
             "game": "sd @ wsh",
@@ -2740,6 +2757,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-18 20:21:08",
+            "player": "bryce harper",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-18",
+            "team": "phi",
+            "stadium": "phi",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "113.8",
+            "la": "9",
+            "dist": "267",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:19:09",
             "player": "kyle schwarber",
@@ -5325,10 +5359,10 @@
             "team": "mia",
             "stadium": "mia",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Groundout",
+            "evo": "50.8",
+            "la": "-64",
+            "dist": "3",
             "is_hh": false,
             "is_brl": false
         },
@@ -5963,23 +5997,6 @@
         }
     ],
     "nyy @ atl": [
-        {
-            "created_at": "2025-07-18 20:20:38",
-            "player": "aaron judge",
-            "game": "nyy @ atl",
-            "hr/park": "",
-            "pa": "30",
-            "dt": "2025-07-18",
-            "team": "nyy",
-            "stadium": "atl",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 20:17:39",
             "player": "nick allen",
