@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "108",
-        "batters": "287",
-        "pitches": "3640",
+        "batters": "288",
+        "pitches": "3644",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.4",
-        "si%sinker %": "14.9",
+        "si%sinker %": "15.0",
         "fc%cutter %": "5.4",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.7",
@@ -14,10 +14,10 @@
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "281",
-        "hh%hard hit %": "42.2",
+        "hh%hard hit %": "42.1",
         "brlbarrels": "66",
         "brl%barrel %": "9.9",
-        "ab": "854",
+        "ab": "855",
         "avg": ".253",
         "h": "216",
         "1b": "126",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "34",
         "so": "204",
-        "bipballs in play": "666",
+        "bipballs in play": "668",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:41:07.139112"
+        "updated": "2025-07-18 22:41:19.396493"
     },
     "bos @ chc": [
         {
@@ -15127,10 +15127,10 @@
             "team": "stl",
             "stadium": "ari",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Groundout",
+            "evo": "75.0",
+            "la": "-28",
+            "dist": "6",
             "is_hh": false,
             "is_brl": false
         },
@@ -15690,7 +15690,7 @@
             "team": "sea",
             "stadium": "sea",
             "in": "2",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "44.3",
             "la": "-58",
             "dist": "3",
@@ -15920,6 +15920,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-18 22:41:19",
+            "player": "joey ortiz",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-18",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "3",
+            "result": "Pop Out",
+            "evo": "71.4",
+            "la": "59",
+            "dist": "154",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:38:16",
             "player": "caleb durbin",
