@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "33",
+        "pitchers": "34",
         "batters": "184",
-        "pitches": "1441",
+        "pitches": "1446",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.6",
         "ff%fourseam fastball %": "38.4",
         "si%sinker %": "12.9",
         "fc%cutter %": "3.5",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "8.1",
-        "sl%slider %": "27.1",
-        "cu%curve %": "8.2",
+        "ch%changeup %": "8.2",
+        "sl%slider %": "27.0",
+        "cu%curve %": "8.1",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "116",
-        "hh%hard hit %": "43.6",
+        "hhhard hit": "117",
+        "hh%hard hit %": "43.7",
         "brlbarrels": "31",
-        "brl%barrel %": "11.7",
-        "ab": "334",
+        "brl%barrel %": "11.6",
+        "ab": "335",
         "avg": ".266",
         "h": "89",
         "1b": "54",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "16",
         "so": "69",
-        "bipballs in play": "266",
+        "bipballs in play": "268",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:13:35.197875"
+        "updated": "2025-07-18 20:13:44.315373"
     },
     "bos @ chc": [
         {
@@ -2648,7 +2648,7 @@
             "team": "laa",
             "stadium": "phi",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -3337,6 +3337,23 @@
         }
     ],
     "sf @ tor": [
+        {
+            "created_at": "2025-07-18 20:12:53",
+            "player": "nathan lukes",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-07-18",
+            "team": "tor",
+            "stadium": "tor",
+            "in": "3",
+            "result": "Pop Out",
+            "evo": "64.5",
+            "la": "46",
+            "dist": "181",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:08:39",
             "player": "will wagner",
@@ -4395,6 +4412,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-18 20:13:38",
+            "player": "david fry",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-18",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:10:38",
             "player": "angel martinez",
@@ -5958,11 +5992,11 @@
             "team": "tb",
             "stadium": "tb",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Groundout",
+            "evo": "99.3",
+            "la": "-5",
+            "dist": "21",
+            "is_hh": true,
             "is_brl": false
         },
         {
