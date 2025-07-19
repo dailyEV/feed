@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "11",
         "batters": "54",
-        "pitches": "430",
+        "pitches": "431",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "25.1",
         "si%sinker %": "20.9",
-        "fc%cutter %": "14.0",
+        "fc%cutter %": "13.9",
         "fs%splitter %": "3.0",
-        "ch%changeup %": "15.6",
-        "sl%slider %": "16.3",
+        "ch%changeup %": "15.5",
+        "sl%slider %": "16.5",
         "cu%curve %": "5.1",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "41",
         "hh%hard hit %": "39.8",
         "brlbarrels": "4",
         "brl%barrel %": "3.9",
-        "ab": "116",
-        "avg": ".259",
+        "ab": "117",
+        "avg": ".256",
         "h": "30",
         "1b": "20",
         "2b": "5",
@@ -28,7 +28,7 @@
         "bipballs in play": "103",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-19 17:19:27.380462"
+        "updated": "2025-07-19 17:19:35.197327"
     },
     "sf @ tor": [
         {
@@ -1199,7 +1199,7 @@
             "team": "cin",
             "stadium": "nym",
             "in": "3",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "84.0",
             "la": "",
             "dist": "43",
@@ -1582,6 +1582,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-19 17:19:30",
+            "player": "dane myers",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-19",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 17:16:29",
             "player": "liam hicks",
