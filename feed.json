@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "98",
         "batters": "255",
-        "pitches": "3342",
+        "pitches": "3346",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.6",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.6",
         "brlbarrels": "64",
         "brl%barrel %": "10.3",
-        "ab": "784",
-        "avg": ".254",
-        "h": "199",
-        "1b": "113",
+        "ab": "785",
+        "avg": ".252",
+        "h": "198",
+        "1b": "112",
         "2b": "45",
         "3b": "8",
         "hr": "33",
@@ -28,7 +28,7 @@
         "bipballs in play": "619",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-18 22:09:00.546023"
+        "updated": "2025-07-18 22:09:11.672612"
     },
     "bos @ chc": [
         {
@@ -13807,6 +13807,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-18 22:09:04",
+            "player": "carlos correa",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-07-18",
+            "team": "min",
+            "stadium": "col",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:05:17",
             "player": "michael toglia",
             "game": "min @ col",
@@ -14583,7 +14600,7 @@
             "team": "ari",
             "stadium": "ari",
             "in": "2",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "98.4",
             "la": "13",
             "dist": "233",
