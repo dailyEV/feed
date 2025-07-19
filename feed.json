@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "62",
         "batters": "218",
-        "pitches": "2420",
+        "pitches": "2421",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.4",
-        "si%sinker %": "14.2",
+        "si%sinker %": "14.1",
         "fc%cutter %": "4.2",
         "fs%splitter %": "1.8",
-        "ch%changeup %": "8.9",
-        "sl%slider %": "25.2",
-        "cu%curve %": "10.1",
+        "ch%changeup %": "8.8",
+        "sl%slider %": "25.3",
+        "cu%curve %": "10.2",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "191",
         "hh%hard hit %": "42.4",
         "brlbarrels": "47",
         "brl%barrel %": "10.4",
-        "ab": "574",
+        "ab": "575",
         "avg": ".254",
         "h": "146",
         "1b": "84",
@@ -28,7 +28,7 @@
         "bipballs in play": "451",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:07:03.922817"
+        "updated": "2025-07-18 21:07:14.304948"
     },
     "bos @ chc": [
         {
@@ -6419,6 +6419,23 @@
     ],
     "ath @ cle": [
         {
+            "created_at": "2025-07-18 21:06:26",
+            "player": "lawrence butler",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-18",
+            "team": "ath",
+            "stadium": "cle",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:05:55",
             "player": "denzel clarke",
             "game": "ath @ cle",
@@ -7441,6 +7458,23 @@
     ],
     "kc @ mia": [
         {
+            "created_at": "2025-07-18 21:07:09",
+            "player": "salvador perez",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-07-18",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:05:38",
             "player": "maikel garcia",
             "game": "kc @ mia",
@@ -7450,7 +7484,7 @@
             "team": "kc",
             "stadium": "mia",
             "in": "8",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "100.0",
             "la": "18",
             "dist": "359",
@@ -9365,23 +9399,6 @@
         }
     ],
     "bal @ tb": [
-        {
-            "created_at": "2025-07-18 21:06:53",
-            "player": "ha seong kim",
-            "game": "bal @ tb",
-            "hr/park": "",
-            "pa": "48",
-            "dt": "2025-07-18",
-            "team": "tb",
-            "stadium": "tb",
-            "in": "6",
-            "result": "Stolen Base 2B",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 21:06:26",
             "player": "jake mangum",
