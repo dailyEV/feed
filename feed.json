@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "11",
         "batters": "54",
-        "pitches": "397",
+        "pitches": "401",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "25.4",
+        "ff%fourseam fastball %": "25.7",
         "si%sinker %": "20.9",
-        "fc%cutter %": "14.9",
+        "fc%cutter %": "14.7",
         "fs%splitter %": "3.0",
-        "ch%changeup %": "14.6",
-        "sl%slider %": "16.1",
+        "ch%changeup %": "14.7",
+        "sl%slider %": "16.0",
         "cu%curve %": "5.0",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "41",
-        "hh%hard hit %": "43.2",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "4",
         "brl%barrel %": "4.2",
         "ab": "110",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "4",
         "so": "18",
-        "bipballs in play": "95",
+        "bipballs in play": "96",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-19 17:13:40.339468"
+        "updated": "2025-07-19 17:13:48.190212"
     },
     "sf @ tor": [
         {
@@ -1182,7 +1182,7 @@
             "team": "cin",
             "stadium": "nym",
             "in": "3",
-            "result": "In Progress",
+            "result": "Hit By Pitch",
             "evo": "",
             "la": "",
             "dist": "",
@@ -1514,6 +1514,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-19 17:13:44",
+            "player": "kyle stowers",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-07-19",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 17:09:16",
             "player": "freddy fermin",
