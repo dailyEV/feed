@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "8",
         "batters": "46",
-        "pitches": "292",
+        "pitches": "295",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "28.8",
-        "si%sinker %": "17.8",
-        "fc%cutter %": "15.4",
-        "fs%splitter %": "1.7",
-        "ch%changeup %": "16.4",
-        "sl%slider %": "14.7",
+        "ff%fourseam fastball %": "28.5",
+        "si%sinker %": "17.6",
+        "fc%cutter %": "15.9",
+        "fs%splitter %": "2.0",
+        "ch%changeup %": "16.3",
+        "sl%slider %": "14.6",
         "cu%curve %": "5.1",
         "max evmax exit velocity": "108.4",
         "hhhard hit": "30",
         "hh%hard hit %": "41.7",
         "brlbarrels": "3",
         "brl%barrel %": "4.2",
-        "ab": "80",
-        "avg": ".250",
+        "ab": "81",
+        "avg": ".247",
         "h": "20",
         "1b": "13",
         "2b": "4",
@@ -28,7 +28,7 @@
         "bipballs in play": "72",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-19 16:52:38.972024"
+        "updated": "2025-07-19 16:52:46.603006"
     },
     "sf @ tor": [
         {
@@ -1140,6 +1140,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-19 16:52:41",
+            "player": "vinnie pasquantino",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-19",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 16:51:11",
             "player": "bobby witt",
