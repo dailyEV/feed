@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "39",
+        "pitchers": "40",
         "batters": "125",
-        "pitches": "1103",
+        "pitches": "1105",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "24.5",
-        "si%sinker %": "19.3",
+        "ff%fourseam fastball %": "24.6",
+        "si%sinker %": "19.1",
         "fc%cutter %": "14.4",
         "fs%splitter %": "4.1",
-        "ch%changeup %": "11.3",
+        "ch%changeup %": "11.4",
         "sl%slider %": "19.7",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "112.8",
-        "hhhard hit": "81",
-        "hh%hard hit %": "37.7",
+        "hhhard hit": "82",
+        "hh%hard hit %": "38.0",
         "brlbarrels": "12",
         "brl%barrel %": "5.6",
         "ab": "277",
@@ -24,11 +24,11 @@
         "2b": "15",
         "3b": "2",
         "hr": "7",
-        "so": "63",
-        "bipballs in play": "215",
+        "so": "64",
+        "bipballs in play": "216",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:23:07.206457"
+        "updated": "2025-07-19 19:23:16.198221"
     },
     "sf @ tor": [
         {
@@ -4248,11 +4248,11 @@
             "team": "chw",
             "stadium": "pit",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Lineout",
+            "evo": "105.7",
+            "la": "8",
+            "dist": "188",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -4788,23 +4788,6 @@
     ],
     "det @ tex": [
         {
-            "created_at": "2025-07-19 19:23:01",
-            "player": "spencer torkelson",
-            "game": "det @ tex",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-07-19",
-            "team": "det",
-            "stadium": "tex",
-            "in": "2",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 19:19:45",
             "player": "marcus semien",
             "game": "det @ tex",
@@ -5056,7 +5039,7 @@
             "team": "bos",
             "stadium": "chc",
             "in": "1",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -5116,6 +5099,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-19 19:23:14",
+            "player": "corbin carroll",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "4",
+            "dt": "2025-07-19",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:20:15",
             "player": "alec burleson",
