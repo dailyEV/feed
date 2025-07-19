@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "128",
         "batters": "300",
-        "pitches": "4259",
+        "pitches": "4261",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.1",
-        "si%sinker %": "15.4",
+        "si%sinker %": "15.3",
         "fc%cutter %": "5.7",
         "fs%splitter %": "2.1",
         "ch%changeup %": "8.3",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.3",
         "brlbarrels": "75",
         "brl%barrel %": "9.7",
-        "ab": "1000",
+        "ab": "1001",
         "avg": ".251",
         "h": "251",
         "1b": "149",
@@ -28,7 +28,7 @@
         "bipballs in play": "775",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-19 00:27:34.191047"
+        "updated": "2025-07-19 00:27:47.006732"
     },
     "bos @ chc": [
         {
@@ -16659,7 +16659,7 @@
             "team": "sea",
             "stadium": "sea",
             "in": "8",
-            "result": "In Progress",
+            "result": "Wild Pitch",
             "evo": "",
             "la": "",
             "dist": "",
@@ -17739,6 +17739,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 00:27:44",
+            "player": "mookie betts",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-07-18",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 00:27:14",
             "player": "shohei ohtani",
