@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "36",
         "batters": "184",
-        "pitches": "1481",
+        "pitches": "1484",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.6",
-        "ff%fourseam fastball %": "38.1",
+        "ff%fourseam fastball %": "38.2",
         "si%sinker %": "12.9",
         "fc%cutter %": "3.4",
         "fs%splitter %": "1.8",
         "ch%changeup %": "8.4",
-        "sl%slider %": "26.6",
-        "cu%curve %": "8.7",
+        "sl%slider %": "26.5",
+        "cu%curve %": "8.8",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "119",
         "hh%hard hit %": "43.3",
         "brlbarrels": "32",
         "brl%barrel %": "11.6",
-        "ab": "345",
-        "avg": ".267",
+        "ab": "346",
+        "avg": ".266",
         "h": "92",
         "1b": "56",
         "2b": "18",
@@ -28,7 +28,7 @@
         "bipballs in play": "275",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:16:20.820893"
+        "updated": "2025-07-18 20:16:29.981284"
     },
     "bos @ chc": [
         {
@@ -4463,6 +4463,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-18 20:16:23",
+            "player": "brent rooker",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-18",
+            "team": "ath",
+            "stadium": "cle",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:13:38",
             "player": "david fry",
