@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "38",
-        "batters": "185",
-        "pitches": "1506",
+        "batters": "186",
+        "pitches": "1511",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.6",
-        "ff%fourseam fastball %": "38.0",
-        "si%sinker %": "12.7",
+        "ff%fourseam fastball %": "38.1",
+        "si%sinker %": "12.8",
         "fc%cutter %": "3.3",
         "fs%splitter %": "1.7",
         "ch%changeup %": "8.3",
-        "sl%slider %": "26.6",
+        "sl%slider %": "26.5",
         "cu%curve %": "9.1",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "122",
-        "hh%hard hit %": "43.7",
-        "brlbarrels": "33",
-        "brl%barrel %": "11.8",
-        "ab": "353",
+        "hhhard hit": "121",
+        "hh%hard hit %": "43.5",
+        "brlbarrels": "32",
+        "brl%barrel %": "11.5",
+        "ab": "354",
         "avg": ".266",
         "h": "94",
         "1b": "58",
@@ -25,10 +25,10 @@
         "3b": "1",
         "hr": "17",
         "so": "74",
-        "bipballs in play": "279",
+        "bipballs in play": "278",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:17:44.049196"
+        "updated": "2025-07-18 20:17:53.346951"
     },
     "bos @ chc": [
         {
@@ -3406,6 +3406,23 @@
     ],
     "sf @ tor": [
         {
+            "created_at": "2025-07-18 20:17:53",
+            "player": "jung hoo lee",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-18",
+            "team": "sf",
+            "stadium": "tor",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:16:53",
             "player": "willy adames",
             "game": "sf @ tor",
@@ -3970,6 +3987,23 @@
     "cin @ nym": [
         {
             "created_at": "2025-07-18 20:17:10",
+            "player": "jake fraley",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-18",
+            "team": "cin",
+            "stadium": "nym",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-18 20:17:10",
             "player": "jose trevino",
             "game": "cin @ nym",
             "hr/park": "0/30",
@@ -4514,23 +4548,6 @@
         }
     ],
     "ath @ cle": [
-        {
-            "created_at": "2025-07-18 20:16:23",
-            "player": "brent rooker",
-            "game": "ath @ cle",
-            "hr/park": "",
-            "pa": "34",
-            "dt": "2025-07-18",
-            "team": "ath",
-            "stadium": "cle",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "106.4",
-            "la": "33",
-            "dist": "393",
-            "is_hh": true,
-            "is_brl": true
-        },
         {
             "created_at": "2025-07-18 20:13:38",
             "player": "david fry",
