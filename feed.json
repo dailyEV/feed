@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "59",
         "batters": "216",
-        "pitches": "2331",
+        "pitches": "2335",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.7",
@@ -10,15 +10,15 @@
         "fc%cutter %": "4.1",
         "fs%splitter %": "1.9",
         "ch%changeup %": "8.8",
-        "sl%slider %": "25.1",
+        "sl%slider %": "25.2",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "186",
         "hh%hard hit %": "42.5",
         "brlbarrels": "46",
         "brl%barrel %": "10.5",
-        "ab": "550",
-        "avg": ".256",
+        "ab": "552",
+        "avg": ".255",
         "h": "141",
         "1b": "79",
         "2b": "33",
@@ -28,7 +28,7 @@
         "bipballs in play": "438",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:02:37.926182"
+        "updated": "2025-07-18 21:02:47.899709"
     },
     "bos @ chc": [
         {
@@ -3319,6 +3319,23 @@
     ],
     "laa @ phi": [
         {
+            "created_at": "2025-07-18 21:02:41",
+            "player": "luis rengifo",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-18",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:00:23",
             "player": "logan ohoppe",
             "game": "laa @ phi",
@@ -4392,6 +4409,23 @@
     ],
     "sf @ tor": [
         {
+            "created_at": "2025-07-18 21:02:41",
+            "player": "dominic smith",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "54",
+            "dt": "2025-07-18",
+            "team": "sf",
+            "stadium": "tor",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:02:23",
             "player": "casey schmitt",
             "game": "sf @ tor",
@@ -4401,7 +4435,7 @@
             "team": "sf",
             "stadium": "tor",
             "in": "7",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "34.4",
             "la": "-51",
             "dist": "5",
@@ -9077,23 +9111,6 @@
     ],
     "bal @ tb": [
         {
-            "created_at": "2025-07-18 21:01:09",
-            "player": "ryan ohearn",
-            "game": "bal @ tb",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-07-18",
-            "team": "bal",
-            "stadium": "tb",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 20:58:23",
             "player": "gunnar henderson",
             "game": "bal @ tb",
@@ -9860,6 +9877,23 @@
         }
     ],
     "det @ tex": [
+        {
+            "created_at": "2025-07-18 21:01:09",
+            "player": "jahmai jones",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-18",
+            "team": "det",
+            "stadium": "tex",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:58:23",
             "player": "corey seager",
