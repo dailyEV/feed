@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "75",
         "batters": "227",
-        "pitches": "2731",
+        "pitches": "2737",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.0",
-        "si%sinker %": "14.6",
+        "si%sinker %": "14.7",
         "fc%cutter %": "4.3",
         "fs%splitter %": "1.6",
         "ch%changeup %": "8.9",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.2",
         "brlbarrels": "54",
         "brl%barrel %": "10.7",
-        "ab": "644",
+        "ab": "645",
         "avg": ".256",
         "h": "165",
         "1b": "94",
@@ -28,7 +28,7 @@
         "bipballs in play": "505",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:23:03.310577"
+        "updated": "2025-07-18 21:23:13.672523"
     },
     "bos @ chc": [
         {
@@ -7023,7 +7023,7 @@
             "team": "cle",
             "stadium": "cle",
             "in": "8",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "81.6",
             "la": "38",
             "dist": "275",
@@ -8164,7 +8164,7 @@
             "team": "kc",
             "stadium": "mia",
             "in": "9",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "100.5",
             "la": "-20",
             "dist": "9",
@@ -10347,7 +10347,7 @@
             "result": "Home Run",
             "evo": "96.0",
             "la": "44",
-            "dist": "332",
+            "dist": "341",
             "is_hh": true,
             "is_brl": false
         },
@@ -11254,6 +11254,23 @@
         }
     ],
     "det @ tex": [
+        {
+            "created_at": "2025-07-18 21:22:40",
+            "player": "zach mckinstry",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-18",
+            "team": "det",
+            "stadium": "tex",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:21:09",
             "player": "dillon dingler",
