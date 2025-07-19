@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "125",
+        "pitchers": "126",
         "batters": "300",
-        "pitches": "4218",
+        "pitches": "4220",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.0",
+        "ff%fourseam fastball %": "34.1",
         "si%sinker %": "15.4",
         "fc%cutter %": "5.7",
         "fs%splitter %": "2.0",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.1",
         "brlbarrels": "75",
         "brl%barrel %": "9.8",
-        "ab": "993",
+        "ab": "994",
         "avg": ".252",
         "h": "250",
         "1b": "148",
@@ -28,7 +28,7 @@
         "bipballs in play": "769",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-19 00:16:07.226103"
+        "updated": "2025-07-19 00:16:19.553132"
     },
     "bos @ chc": [
         {
@@ -16649,6 +16649,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 00:16:13",
+            "player": "julio rodriguez",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-18",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 00:11:30",
             "player": "jp crawford",
