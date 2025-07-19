@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "109",
+        "pitchers": "110",
         "batters": "293",
-        "pitches": "3719",
+        "pitches": "3721",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.3",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.3",
         "brlbarrels": "67",
         "brl%barrel %": "9.8",
-        "ab": "877",
+        "ab": "878",
         "avg": ".251",
         "h": "220",
         "1b": "129",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "34",
         "so": "209",
-        "bipballs in play": "683",
+        "bipballs in play": "684",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:52:40.768641"
+        "updated": "2025-07-18 22:52:52.405398"
     },
     "bos @ chc": [
         {
@@ -14045,6 +14045,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-18 22:52:48",
+            "player": "harrison bader",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-18",
+            "team": "min",
+            "stadium": "col",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:49:47",
             "player": "austin nola",
             "game": "min @ col",
@@ -15843,10 +15860,10 @@
             "team": "sea",
             "stadium": "sea",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Flyout",
+            "evo": "78.4",
+            "la": "53",
+            "dist": "212",
             "is_hh": false,
             "is_brl": false
         },
