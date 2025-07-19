@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "31",
-        "batters": "102",
-        "pitches": "960",
+        "batters": "103",
+        "pitches": "963",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "22.1",
-        "si%sinker %": "20.1",
+        "ff%fourseam fastball %": "22.2",
+        "si%sinker %": "20.0",
         "fc%cutter %": "15.0",
         "fs%splitter %": "3.3",
         "ch%changeup %": "12.7",
-        "sl%slider %": "20.2",
+        "sl%slider %": "20.1",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "74",
         "hh%hard hit %": "37.6",
         "brlbarrels": "11",
         "brl%barrel %": "5.6",
-        "ab": "244",
-        "avg": ".250",
+        "ab": "245",
+        "avg": ".249",
         "h": "61",
         "1b": "38",
         "2b": "14",
@@ -28,7 +28,7 @@
         "bipballs in play": "197",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-19 19:14:25.198126"
+        "updated": "2025-07-19 19:14:33.595064"
     },
     "sf @ tor": [
         {
@@ -4428,6 +4428,23 @@
     ],
     "sd @ wsh": [],
     "bal @ tb": [
+        {
+            "created_at": "2025-07-19 19:14:29",
+            "player": "ramon laureano",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-19",
+            "team": "bal",
+            "stadium": "tb",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:12:15",
             "player": "ryan ohearn",
