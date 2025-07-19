@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "11",
         "batters": "54",
-        "pitches": "470",
+        "pitches": "473",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "23.4",
+        "ff%fourseam fastball %": "23.3",
         "si%sinker %": "20.9",
-        "fc%cutter %": "14.9",
-        "fs%splitter %": "2.8",
-        "ch%changeup %": "16.2",
-        "sl%slider %": "16.4",
-        "cu%curve %": "5.5",
+        "fc%cutter %": "14.8",
+        "fs%splitter %": "2.7",
+        "ch%changeup %": "16.3",
+        "sl%slider %": "16.3",
+        "cu%curve %": "5.7",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "42",
         "hh%hard hit %": "38.5",
         "brlbarrels": "4",
         "brl%barrel %": "3.7",
-        "ab": "125",
-        "avg": ".240",
+        "ab": "127",
+        "avg": ".236",
         "h": "30",
         "1b": "20",
         "2b": "5",
@@ -28,7 +28,7 @@
         "bipballs in play": "109",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-19 17:30:09.120916"
+        "updated": "2025-07-19 17:30:17.204541"
     },
     "sf @ tor": [
         {
@@ -1190,6 +1190,23 @@
     ],
     "cin @ nym": [
         {
+            "created_at": "2025-07-19 17:30:14",
+            "player": "spencer steer",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-19",
+            "team": "cin",
+            "stadium": "nym",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 17:28:28",
             "player": "gavin lux",
             "game": "cin @ nym",
@@ -1667,6 +1684,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-19 17:30:14",
+            "player": "xavier edwards",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-19",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 17:29:00",
             "player": "graham pauley",
