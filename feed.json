@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "31",
         "batters": "179",
-        "pitches": "1268",
+        "pitches": "1275",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.6",
-        "ff%fourseam fastball %": "39.2",
-        "si%sinker %": "12.5",
+        "ff%fourseam fastball %": "39.3",
+        "si%sinker %": "12.4",
         "fc%cutter %": "3.2",
-        "fs%splitter %": "2.1",
-        "ch%changeup %": "8.0",
+        "fs%splitter %": "2.0",
+        "ch%changeup %": "7.9",
         "sl%slider %": "26.7",
         "cu%curve %": "8.3",
         "max evmax exit velocity": "115.7",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "42.3",
         "brlbarrels": "29",
         "brl%barrel %": "12.1",
-        "ab": "300",
-        "avg": ".263",
+        "ab": "301",
+        "avg": ".262",
         "h": "79",
         "1b": "48",
         "2b": "15",
@@ -28,7 +28,7 @@
         "bipballs in play": "239",
         "liveGames": 10,
         "totGames": 15,
-        "updated": "2025-07-18 20:04:19.128687"
+        "updated": "2025-07-18 20:04:27.788631"
     },
     "bos @ chc": [
         {
@@ -3177,7 +3177,7 @@
             "team": "tor",
             "stadium": "tor",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -5062,6 +5062,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-18 20:03:38",
+            "player": "cody bellinger",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-07-18",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:02:25",
             "player": "trent grisham",
