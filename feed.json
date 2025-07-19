@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "128",
         "batters": "300",
-        "pitches": "4258",
+        "pitches": "4259",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.1",
@@ -13,11 +13,11 @@
         "sl%slider %": "24.6",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "327",
-        "hh%hard hit %": "42.2",
+        "hhhard hit": "328",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "75",
         "brl%barrel %": "9.7",
-        "ab": "999",
+        "ab": "1000",
         "avg": ".251",
         "h": "251",
         "1b": "149",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "38",
         "so": "242",
-        "bipballs in play": "774",
+        "bipballs in play": "775",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-19 00:27:08.305605"
+        "updated": "2025-07-19 00:27:21.072965"
     },
     "bos @ chc": [
         {
@@ -17739,6 +17739,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 00:27:14",
+            "player": "shohei ohtani",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-18",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "9",
+            "result": "Flyout",
+            "evo": "106.7",
+            "la": "54",
+            "dist": "288",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 00:25:16",
             "player": "tommy edman",
