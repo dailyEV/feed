@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "129",
         "batters": "300",
-        "pitches": "4274",
+        "pitches": "4277",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.0",
@@ -13,11 +13,11 @@
         "sl%slider %": "24.7",
         "cu%curve %": "9.7",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "329",
-        "hh%hard hit %": "42.3",
+        "hhhard hit": "330",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "75",
         "brl%barrel %": "9.6",
-        "ab": "1003",
+        "ab": "1004",
         "avg": ".250",
         "h": "251",
         "1b": "149",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "38",
         "so": "243",
-        "bipballs in play": "778",
+        "bipballs in play": "779",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-19 00:34:49.584388"
+        "updated": "2025-07-19 00:35:02.370592"
     },
     "bos @ chc": [
         {
@@ -16649,6 +16649,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 00:35:00",
+            "player": "taylor trammell",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-07-18",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "108.0",
+            "la": "-25",
+            "dist": "4",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 00:33:30",
             "player": "yainer diaz",
