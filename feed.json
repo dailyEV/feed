@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "75",
+        "pitchers": "76",
         "batters": "227",
-        "pitches": "2738",
+        "pitches": "2745",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.0",
-        "si%sinker %": "14.8",
+        "si%sinker %": "14.7",
         "fc%cutter %": "4.3",
         "fs%splitter %": "1.6",
         "ch%changeup %": "8.9",
         "sl%slider %": "25.0",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "213",
-        "hh%hard hit %": "42.2",
+        "hhhard hit": "214",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "54",
         "brl%barrel %": "10.7",
         "ab": "645",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "30",
         "so": "148",
-        "bipballs in play": "505",
+        "bipballs in play": "506",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:23:34.715562"
+        "updated": "2025-07-18 21:23:45.292182"
     },
     "bos @ chc": [
         {
@@ -1240,6 +1240,23 @@
         }
     ],
     "chw @ pit": [
+        {
+            "created_at": "2025-07-18 21:23:39",
+            "player": "nick gonzales",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "74",
+            "dt": "2025-07-18",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:20:39",
             "player": "lenyn sosa",
@@ -5933,7 +5950,7 @@
             "team": "cin",
             "stadium": "nym",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -8155,6 +8172,23 @@
     ],
     "kc @ mia": [
         {
+            "created_at": "2025-07-18 21:23:39",
+            "player": "jonathan india",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-18",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:22:23",
             "player": "kyle isbel",
             "game": "kc @ mia",
@@ -10347,7 +10381,7 @@
             "result": "Home Run",
             "evo": "96.0",
             "la": "44",
-            "dist": "332",
+            "dist": "341",
             "is_hh": true,
             "is_brl": false
         },
@@ -11255,23 +11289,6 @@
     ],
     "det @ tex": [
         {
-            "created_at": "2025-07-18 21:22:40",
-            "player": "zach mckinstry",
-            "game": "det @ tex",
-            "hr/park": "",
-            "pa": "31",
-            "dt": "2025-07-18",
-            "team": "det",
-            "stadium": "tex",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 21:21:09",
             "player": "dillon dingler",
             "game": "det @ tex",
@@ -11794,10 +11811,10 @@
             "stadium": "col",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "evo": "99.7",
+            "la": "7",
+            "dist": "135",
+            "is_hh": true,
             "is_brl": false
         },
         {
