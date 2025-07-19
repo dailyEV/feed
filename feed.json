@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "39",
         "batters": "187",
-        "pitches": "1544",
+        "pitches": "1546",
         "max velomax pitch velocity": "100.4",
-        "min velomin pitch velocity": "67.2",
-        "ff%fourseam fastball %": "37.8",
-        "si%sinker %": "13.0",
+        "min velomin pitch velocity": "67.6",
+        "ff%fourseam fastball %": "37.7",
+        "si%sinker %": "12.9",
         "fc%cutter %": "3.4",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "8.4",
+        "ch%changeup %": "8.3",
         "sl%slider %": "26.6",
-        "cu%curve %": "9.1",
+        "cu%curve %": "9.2",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "123",
         "hh%hard hit %": "43.3",
         "brlbarrels": "33",
         "brl%barrel %": "11.6",
-        "ab": "361",
-        "avg": ".266",
+        "ab": "362",
+        "avg": ".265",
         "h": "96",
         "1b": "58",
         "2b": "19",
@@ -28,7 +28,7 @@
         "bipballs in play": "284",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:19:34.305330"
+        "updated": "2025-07-18 20:19:43.619641"
     },
     "bos @ chc": [
         {
@@ -2007,6 +2007,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-18 20:19:38",
+            "player": "jacob young",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-18",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:15:23",
             "player": "jackson merrill",
