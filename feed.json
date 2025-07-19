@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "122",
         "batters": "297",
-        "pitches": "4153",
+        "pitches": "4155",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.2",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.6",
         "brlbarrels": "74",
         "brl%barrel %": "9.8",
-        "ab": "978",
+        "ab": "979",
         "avg": ".248",
         "h": "243",
         "1b": "143",
@@ -28,7 +28,7 @@
         "bipballs in play": "754",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-19 00:00:46.569194"
+        "updated": "2025-07-19 00:00:59.379590"
     },
     "bos @ chc": [
         {
@@ -15373,6 +15373,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-19 00:00:50",
+            "player": "pedro pages",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-07-18",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 23:58:18",
             "player": "jordan walker",
             "game": "stl @ ari",
@@ -15382,7 +15399,7 @@
             "team": "stl",
             "stadium": "ari",
             "in": "9",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "95.7",
             "la": "-52",
             "dist": "4",
