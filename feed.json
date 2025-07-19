@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "32",
-        "batters": "180",
-        "pitches": "1364",
+        "pitchers": "33",
+        "batters": "181",
+        "pitches": "1369",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.6",
-        "ff%fourseam fastball %": "39.0",
-        "si%sinker %": "12.5",
+        "ff%fourseam fastball %": "38.9",
+        "si%sinker %": "12.6",
         "fc%cutter %": "3.4",
         "fs%splitter %": "1.9",
         "ch%changeup %": "7.8",
         "sl%slider %": "27.1",
-        "cu%curve %": "8.1",
+        "cu%curve %": "8.2",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "107",
         "hh%hard hit %": "42.3",
         "brlbarrels": "29",
         "brl%barrel %": "11.5",
-        "ab": "319",
-        "avg": ".260",
+        "ab": "320",
+        "avg": ".259",
         "h": "83",
         "1b": "51",
         "2b": "16",
@@ -28,7 +28,7 @@
         "bipballs in play": "253",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:09:16.984083"
+        "updated": "2025-07-18 20:09:26.417443"
     },
     "bos @ chc": [
         {
@@ -4303,7 +4303,7 @@
             "team": "cle",
             "stadium": "cle",
             "in": "4",
-            "result": "Fielders Choice",
+            "result": "In Progress",
             "evo": "67.3",
             "la": "-16",
             "dist": "10",
@@ -6068,7 +6068,25 @@
             "is_brl": false
         }
     ],
-    "det @ tex": [],
+    "det @ tex": [
+        {
+            "created_at": "2025-07-18 20:09:23",
+            "player": "gleyber torres",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-18",
+            "team": "det",
+            "stadium": "tex",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        }
+    ],
     "min @ col": [],
     "stl @ ari": [],
     "hou @ sea": [],
