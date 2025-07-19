@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "44",
-        "batters": "200",
-        "pitches": "1591",
+        "pitchers": "45",
+        "batters": "201",
+        "pitches": "1597",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "28.0",
+        "ff%fourseam fastball %": "28.1",
         "si%sinker %": "18.4",
         "fc%cutter %": "13.3",
         "fs%splitter %": "3.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "19.5",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "112.8",
-        "hhhard hit": "113",
-        "hh%hard hit %": "37.7",
+        "hhhard hit": "114",
+        "hh%hard hit %": "37.9",
         "brlbarrels": "19",
         "brl%barrel %": "6.3",
-        "ab": "385",
-        "avg": ".244",
+        "ab": "389",
+        "avg": ".242",
         "h": "94",
         "1b": "59",
         "2b": "18",
         "3b": "3",
         "hr": "14",
         "so": "90",
-        "bipballs in play": "300",
+        "bipballs in play": "301",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:55:13.681147"
+        "updated": "2025-07-19 19:55:22.820777"
     },
     "sf @ tor": [
         {
@@ -3574,6 +3574,23 @@
     ],
     "laa @ phi": [
         {
+            "created_at": "2025-07-19 19:55:16",
+            "player": "jt realmuto",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-19",
+            "team": "phi",
+            "stadium": "phi",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:50:15",
             "player": "luis rengifo",
             "game": "laa @ phi",
@@ -5074,11 +5091,11 @@
     ],
     "sd @ wsh": [
         {
-            "created_at": "2025-07-19 19:52:44",
-            "player": "luis arraez",
+            "created_at": "2025-07-19 19:55:16",
+            "player": "manny machado",
             "game": "sd @ wsh",
             "hr/park": "",
-            "pa": "2",
+            "pa": "3",
             "dt": "2025-07-19",
             "team": "sd",
             "stadium": "wsh",
@@ -5088,6 +5105,23 @@
             "la": "",
             "dist": "",
             "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-19 19:52:44",
+            "player": "luis arraez",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-19",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "1",
+            "result": "Groundout",
+            "evo": "96.7",
+            "la": "5",
+            "dist": "91",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -5486,6 +5520,23 @@
     ],
     "det @ tex": [
         {
+            "created_at": "2025-07-19 19:55:16",
+            "player": "gleyber torres",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-07-19",
+            "team": "det",
+            "stadium": "tex",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:50:59",
             "player": "adolis garcia",
             "game": "det @ tex",
@@ -5878,6 +5929,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-19 19:55:16",
+            "player": "kyle manzardo",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-07-19",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:53:59",
             "player": "jose ramirez",
