@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "113",
         "batters": "297",
-        "pitches": "3870",
+        "pitches": "3872",
         "max velomax pitch velocity": "101.3",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.2",
@@ -14,7 +14,7 @@
         "cu%curve %": "9.9",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "300",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "71",
         "brl%barrel %": "10.0",
         "ab": "911",
@@ -24,11 +24,11 @@
         "2b": "53",
         "3b": "8",
         "hr": "35",
-        "so": "216",
-        "bipballs in play": "710",
+        "so": "217",
+        "bipballs in play": "711",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:12:28.437965"
+        "updated": "2025-07-18 23:12:40.448887"
     },
     "bos @ chc": [
         {
@@ -14054,7 +14054,7 @@
             "team": "min",
             "stadium": "col",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -16644,10 +16644,10 @@
             "team": "mil",
             "stadium": "lad",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Flyout",
+            "evo": "90.8",
+            "la": "30",
+            "dist": "297",
             "is_hh": false,
             "is_brl": false
         },
