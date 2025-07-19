@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "110",
-        "batters": "293",
-        "pitches": "3727",
+        "batters": "294",
+        "pitches": "3732",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.2",
@@ -14,10 +14,10 @@
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "289",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "67",
         "brl%barrel %": "9.8",
-        "ab": "879",
+        "ab": "880",
         "avg": ".250",
         "h": "220",
         "1b": "129",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "34",
         "so": "209",
-        "bipballs in play": "684",
+        "bipballs in play": "685",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:53:16.728197"
+        "updated": "2025-07-18 22:53:28.369570"
     },
     "bos @ chc": [
         {
@@ -15212,10 +15212,10 @@
             "team": "stl",
             "stadium": "ari",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Groundout",
+            "evo": "94.4",
+            "la": "-1",
+            "dist": "44",
             "is_hh": false,
             "is_brl": false
         },
@@ -15867,6 +15867,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-18 22:53:20",
+            "player": "ben williamson",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-18",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:51:31",
             "player": "cole young",
