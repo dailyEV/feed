@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "73",
         "batters": "226",
-        "pitches": "2649",
+        "pitches": "2653",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "35.0",
+        "ff%fourseam fastball %": "34.9",
         "si%sinker %": "14.6",
         "fc%cutter %": "4.0",
         "fs%splitter %": "1.7",
@@ -14,10 +14,10 @@
         "cu%curve %": "10.5",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "206",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.1",
         "brlbarrels": "52",
-        "brl%barrel %": "10.7",
-        "ab": "625",
+        "brl%barrel %": "10.6",
+        "ab": "626",
         "avg": ".254",
         "h": "159",
         "1b": "91",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "28",
         "so": "142",
-        "bipballs in play": "487",
+        "bipballs in play": "489",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:18:49.552934"
+        "updated": "2025-07-18 21:18:59.998870"
     },
     "bos @ chc": [
         {
@@ -4810,9 +4810,9 @@
             "stadium": "tor",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "evo": "78.5",
+            "la": "-12",
+            "dist": "16",
             "is_hh": false,
             "is_brl": false
         },
@@ -6853,7 +6853,7 @@
             "team": "cle",
             "stadium": "cle",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -11477,6 +11477,23 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-18 21:18:10",
+            "player": "ryan mcmahon",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-18",
+            "team": "col",
+            "stadium": "col",
+            "in": "2",
+            "result": "Flyout",
+            "evo": "90.9",
+            "la": "55",
+            "dist": "256",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:16:09",
             "player": "jordan beck",
