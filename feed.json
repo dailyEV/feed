@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "110",
         "batters": "295",
-        "pitches": "3753",
+        "pitches": "3755",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.3",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.1",
         "brlbarrels": "67",
         "brl%barrel %": "9.7",
-        "ab": "884",
-        "avg": ".249",
-        "h": "220",
-        "1b": "129",
+        "ab": "885",
+        "avg": ".250",
+        "h": "221",
+        "1b": "130",
         "2b": "49",
         "3b": "8",
         "hr": "34",
@@ -28,7 +28,7 @@
         "bipballs in play": "689",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:56:06.860338"
+        "updated": "2025-07-18 22:56:18.714213"
     },
     "bos @ chc": [
         {
@@ -14045,6 +14045,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-18 22:56:18",
+            "player": "brooks lee",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-18",
+            "team": "min",
+            "stadium": "col",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:54:33",
             "player": "trevor larnach",
             "game": "min @ col",
@@ -14054,7 +14071,7 @@
             "team": "min",
             "stadium": "col",
             "in": "8",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "107.7",
             "la": "5",
             "dist": "111",
