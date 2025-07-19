@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "23",
         "batters": "77",
-        "pitches": "767",
+        "pitches": "769",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "20.9",
-        "si%sinker %": "20.7",
-        "fc%cutter %": "14.5",
-        "fs%splitter %": "2.5",
-        "ch%changeup %": "14.0",
+        "ff%fourseam fastball %": "20.8",
+        "si%sinker %": "20.8",
+        "fc%cutter %": "14.4",
+        "fs%splitter %": "2.6",
+        "ch%changeup %": "13.9",
         "sl%slider %": "20.7",
         "cu%curve %": "6.8",
         "max evmax exit velocity": "110.2",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "35.2",
         "brlbarrels": "8",
         "brl%barrel %": "5.0",
-        "ab": "190",
-        "avg": ".242",
+        "ab": "191",
+        "avg": ".241",
         "h": "46",
         "1b": "28",
         "2b": "12",
@@ -28,7 +28,7 @@
         "bipballs in play": "159",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-07-19 18:45:20.671833"
+        "updated": "2025-07-19 18:45:28.744172"
     },
     "sf @ tor": [
         {
@@ -3268,6 +3268,23 @@
     ],
     "laa @ phi": [
         {
+            "created_at": "2025-07-19 18:45:28",
+            "player": "zach neto",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-07-19",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 18:44:14",
             "player": "luis rengifo",
             "game": "laa @ phi",
@@ -3277,7 +3294,7 @@
             "team": "laa",
             "stadium": "phi",
             "in": "3",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "83.1",
             "la": "-28",
             "dist": "6",
