@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "51",
-        "batters": "200",
-        "pitches": "1947",
+        "batters": "201",
+        "pitches": "1953",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.2",
         "ff%fourseam fastball %": "35.7",
         "si%sinker %": "13.7",
-        "fc%cutter %": "3.7",
+        "fc%cutter %": "3.8",
         "fs%splitter %": "1.9",
         "ch%changeup %": "9.0",
         "sl%slider %": "25.9",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "43.3",
         "brlbarrels": "40",
         "brl%barrel %": "11.0",
-        "ab": "461",
-        "avg": ".262",
+        "ab": "463",
+        "avg": ".261",
         "h": "121",
         "1b": "71",
         "2b": "27",
@@ -28,7 +28,7 @@
         "bipballs in play": "363",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 20:43:13.544985"
+        "updated": "2025-07-18 20:43:23.609138"
     },
     "bos @ chc": [
         {
@@ -3983,6 +3983,23 @@
         }
     ],
     "sf @ tor": [
+        {
+            "created_at": "2025-07-18 20:43:23",
+            "player": "joey loperfido",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-18",
+            "team": "tor",
+            "stadium": "tor",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:39:53",
             "player": "alejandro kirk",
@@ -8740,6 +8757,23 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-18 20:43:23",
+            "player": "willi castro",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "3",
+            "dt": "2025-07-18",
+            "team": "min",
+            "stadium": "col",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:43:08",
             "player": "ryan jeffers",
