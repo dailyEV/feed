@@ -1,16 +1,16 @@
 {
     "all": {
-        "pitchers": "15",
-        "batters": "55",
-        "pitches": "599",
+        "pitchers": "16",
+        "batters": "56",
+        "pitches": "602",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "22.9",
-        "si%sinker %": "19.7",
-        "fc%cutter %": "14.4",
+        "ff%fourseam fastball %": "22.8",
+        "si%sinker %": "19.8",
+        "fc%cutter %": "14.5",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "16.2",
-        "sl%slider %": "18.2",
+        "ch%changeup %": "16.3",
+        "sl%slider %": "18.1",
         "cu%curve %": "6.3",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "48",
@@ -28,7 +28,7 @@
         "bipballs in play": "133",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-07-19 18:06:21.148470"
+        "updated": "2025-07-19 18:06:29.130671"
     },
     "sf @ tor": [
         {
@@ -1966,7 +1966,7 @@
             "team": "mia",
             "stadium": "mia",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -2892,7 +2892,25 @@
             "is_brl": false
         }
     ],
-    "laa @ phi": [],
+    "laa @ phi": [
+        {
+            "created_at": "2025-07-19 18:06:29",
+            "player": "zach neto",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-19",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        }
+    ],
     "chw @ pit": [],
     "sd @ wsh": [],
     "bal @ tb": [],
