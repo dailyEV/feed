@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "44",
         "batters": "192",
-        "pitches": "1736",
+        "pitches": "1737",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.2",
-        "ff%fourseam fastball %": "36.5",
-        "si%sinker %": "13.1",
+        "ff%fourseam fastball %": "36.4",
+        "si%sinker %": "13.0",
         "fc%cutter %": "3.8",
         "fs%splitter %": "1.8",
         "ch%changeup %": "8.6",
-        "sl%slider %": "26.3",
-        "cu%curve %": "9.9",
+        "sl%slider %": "26.4",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "141",
         "hh%hard hit %": "43.5",
         "brlbarrels": "37",
         "brl%barrel %": "11.4",
-        "ab": "411",
+        "ab": "412",
         "avg": ".260",
         "h": "107",
         "1b": "65",
@@ -28,7 +28,7 @@
         "bipballs in play": "324",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:30:47.381125"
+        "updated": "2025-07-18 20:30:56.831189"
     },
     "bos @ chc": [
         {
@@ -2859,6 +2859,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-18 20:30:53",
+            "player": "luis rengifo",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-18",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "6",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:27:53",
             "player": "logan ohoppe",
