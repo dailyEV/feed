@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "52",
         "batters": "205",
-        "pitches": "2065",
+        "pitches": "2066",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.6",
-        "si%sinker %": "13.7",
+        "si%sinker %": "13.6",
         "fc%cutter %": "3.9",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.7",
         "sl%slider %": "25.8",
-        "cu%curve %": "10.2",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "165",
-        "hh%hard hit %": "43.1",
+        "hhhard hit": "164",
+        "hh%hard hit %": "42.8",
         "brlbarrels": "42",
         "brl%barrel %": "11.0",
         "ab": "486",
@@ -28,7 +28,7 @@
         "bipballs in play": "383",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 20:48:59.396010"
+        "updated": "2025-07-18 20:49:09.628700"
     },
     "bos @ chc": [
         {
@@ -4921,6 +4921,23 @@
     ],
     "cin @ nym": [
         {
+            "created_at": "2025-07-18 20:49:09",
+            "player": "mark vientos",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-07-18",
+            "team": "nym",
+            "stadium": "nym",
+            "in": "6",
+            "result": "Pop Out",
+            "evo": "89.5",
+            "la": "81",
+            "dist": "70",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:44:38",
             "player": "tj friedl",
             "game": "cin @ nym",
@@ -5721,23 +5738,6 @@
         }
     ],
     "ath @ cle": [
-        {
-            "created_at": "2025-07-18 20:48:54",
-            "player": "tyler soderstrom",
-            "game": "ath @ cle",
-            "hr/park": "",
-            "pa": "53",
-            "dt": "2025-07-18",
-            "team": "ath",
-            "stadium": "cle",
-            "in": "7",
-            "result": "Lineout",
-            "evo": "102.5",
-            "la": "9",
-            "dist": "161",
-            "is_hh": true,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 20:46:53",
             "player": "david fry",
