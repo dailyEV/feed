@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "102",
-        "batters": "259",
-        "pitches": "3398",
+        "batters": "260",
+        "pitches": "3400",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.9",
@@ -10,25 +10,25 @@
         "fc%cutter %": "5.0",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.4",
-        "sl%slider %": "24.7",
+        "sl%slider %": "24.6",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "266",
-        "hh%hard hit %": "42.6",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "64",
         "brl%barrel %": "10.3",
-        "ab": "793",
+        "ab": "794",
         "avg": ".253",
         "h": "201",
         "1b": "115",
         "2b": "45",
         "3b": "8",
         "hr": "33",
-        "so": "184",
-        "bipballs in play": "624",
+        "so": "185",
+        "bipballs in play": "623",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:15:46.623158"
+        "updated": "2025-07-18 22:15:57.948942"
     },
     "bos @ chc": [
         {
@@ -13867,7 +13867,7 @@
             "team": "min",
             "stadium": "col",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -14686,9 +14686,9 @@
             "stadium": "ari",
             "in": "2",
             "result": "In Progress",
-            "evo": "93.6",
-            "la": "30",
-            "dist": "336",
+            "evo": "",
+            "la": "",
+            "dist": "",
             "is_hh": false,
             "is_brl": false
         },
@@ -15000,6 +15000,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-18 22:15:50",
+            "player": "cam smith",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-18",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:13:18",
             "player": "isaac paredes",
