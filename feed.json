@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "126",
+        "pitchers": "127",
         "batters": "300",
-        "pitches": "4225",
+        "pitches": "4227",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.1",
@@ -11,14 +11,14 @@
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.4",
         "sl%slider %": "24.6",
-        "cu%curve %": "9.8",
+        "cu%curve %": "9.7",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "324",
         "hh%hard hit %": "42.1",
         "brlbarrels": "75",
         "brl%barrel %": "9.8",
-        "ab": "993",
-        "avg": ".252",
+        "ab": "995",
+        "avg": ".251",
         "h": "250",
         "1b": "148",
         "2b": "56",
@@ -28,7 +28,7 @@
         "bipballs in play": "769",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-19 00:18:51.660499"
+        "updated": "2025-07-19 00:19:04.160023"
     },
     "bos @ chc": [
         {
@@ -16650,6 +16650,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-19 00:18:59",
+            "player": "cal raleigh",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-18",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 00:16:13",
             "player": "julio rodriguez",
             "game": "hou @ sea",
@@ -17671,6 +17688,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 00:18:59",
+            "player": "brice turang",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-18",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 00:14:16",
             "player": "joey ortiz",
