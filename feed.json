@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "26",
         "batters": "84",
-        "pitches": "838",
+        "pitches": "840",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "22.0",
@@ -10,15 +10,15 @@
         "fc%cutter %": "13.8",
         "fs%splitter %": "2.6",
         "ch%changeup %": "13.1",
-        "sl%slider %": "21.0",
+        "sl%slider %": "21.1",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "62",
         "hh%hard hit %": "36.3",
         "brlbarrels": "8",
         "brl%barrel %": "4.7",
-        "ab": "210",
-        "avg": ".243",
+        "ab": "211",
+        "avg": ".242",
         "h": "51",
         "1b": "32",
         "2b": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "171",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-07-19 18:58:45.843895"
+        "updated": "2025-07-19 18:58:54.094640"
     },
     "sf @ tor": [
         {
@@ -1189,6 +1189,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-19 18:58:48",
+            "player": "tyler stephenson",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-19",
+            "team": "cin",
+            "stadium": "nym",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 18:56:20",
             "player": "spencer steer",
