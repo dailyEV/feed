@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "20",
-        "batters": "65",
-        "pitches": "684",
+        "batters": "66",
+        "pitches": "686",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "21.2",
-        "si%sinker %": "20.5",
-        "fc%cutter %": "14.3",
+        "ff%fourseam fastball %": "21.1",
+        "si%sinker %": "20.4",
+        "fc%cutter %": "14.4",
         "fs%splitter %": "2.3",
-        "ch%changeup %": "15.1",
+        "ch%changeup %": "15.0",
         "sl%slider %": "20.8",
         "cu%curve %": "5.8",
         "max evmax exit velocity": "110.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "35.1",
         "brlbarrels": "8",
         "brl%barrel %": "5.3",
-        "ab": "174",
-        "avg": ".253",
+        "ab": "175",
+        "avg": ".251",
         "h": "44",
         "1b": "27",
         "2b": "11",
         "3b": "1",
         "hr": "5",
-        "so": "29",
+        "so": "30",
         "bipballs in play": "151",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-07-19 18:25:07.684778"
+        "updated": "2025-07-19 18:25:15.580922"
     },
     "sf @ tor": [
         {
@@ -1199,7 +1199,7 @@
             "team": "nym",
             "stadium": "nym",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -3148,6 +3148,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-19 18:25:14",
+            "player": "jo adell",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-19",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 18:22:29",
             "player": "jt realmuto",
