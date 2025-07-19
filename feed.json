@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "113",
         "batters": "297",
-        "pitches": "3912",
+        "pitches": "3915",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "42.4",
         "brlbarrels": "71",
         "brl%barrel %": "9.9",
-        "ab": "921",
-        "avg": ".248",
+        "ab": "923",
+        "avg": ".247",
         "h": "228",
         "1b": "132",
         "2b": "53",
         "3b": "8",
         "hr": "35",
-        "so": "222",
+        "so": "223",
         "bipballs in play": "715",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:17:57.943385"
+        "updated": "2025-07-18 23:18:10.222037"
     },
     "bos @ chc": [
         {
@@ -16225,6 +16225,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-18 23:18:03",
+            "player": "mitch garver",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-18",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 23:15:48",
             "player": "brice matthews",
             "game": "hou @ sea",
@@ -16771,6 +16788,23 @@
     ],
     "mil @ lad": [
         {
+            "created_at": "2025-07-18 23:18:03",
+            "player": "andy pages",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-07-18",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 23:16:03",
             "player": "michael conforto",
             "game": "mil @ lad",
@@ -16780,7 +16814,7 @@
             "team": "lad",
             "stadium": "lad",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
