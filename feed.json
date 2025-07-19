@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "42",
-        "batters": "189",
-        "pitches": "1649",
+        "pitchers": "43",
+        "batters": "190",
+        "pitches": "1660",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.2",
-        "ff%fourseam fastball %": "37.4",
-        "si%sinker %": "12.9",
-        "fc%cutter %": "3.5",
+        "ff%fourseam fastball %": "37.2",
+        "si%sinker %": "12.8",
+        "fc%cutter %": "3.6",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "8.5",
-        "sl%slider %": "26.1",
+        "ch%changeup %": "8.6",
+        "sl%slider %": "26.3",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "134",
-        "hh%hard hit %": "43.4",
+        "hh%hard hit %": "43.2",
         "brlbarrels": "35",
         "brl%barrel %": "11.3",
-        "ab": "388",
-        "avg": ".268",
+        "ab": "394",
+        "avg": ".264",
         "h": "104",
         "1b": "62",
         "2b": "22",
         "3b": "1",
         "hr": "19",
         "so": "81",
-        "bipballs in play": "309",
+        "bipballs in play": "310",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:25:58.765870"
+        "updated": "2025-07-18 20:26:08.568995"
     },
     "bos @ chc": [
         {
@@ -1240,6 +1240,23 @@
         }
     ],
     "chw @ pit": [
+        {
+            "created_at": "2025-07-18 20:26:08",
+            "player": "chase meidroth",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-07-18",
+            "team": "chw",
+            "stadium": "pit",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:24:08",
             "player": "michael a taylor",
@@ -2791,6 +2808,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-18 20:26:08",
+            "player": "jorge soler",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-18",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:23:53",
             "player": "nick castellanos",
@@ -4855,6 +4889,23 @@
     ],
     "ath @ cle": [
         {
+            "created_at": "2025-07-18 20:25:37",
+            "player": "carlos santana",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-18",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:24:38",
             "player": "jose ramirez",
             "game": "ath @ cle",
@@ -5519,6 +5570,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-18 20:26:08",
+            "player": "maikel garcia",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-18",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "5",
+            "result": "Groundout",
+            "evo": "93.7",
+            "la": "-10",
+            "dist": "12",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:24:38",
             "player": "vinnie pasquantino",
@@ -6765,6 +6833,23 @@
     ],
     "bal @ tb": [
         {
+            "created_at": "2025-07-18 20:26:08",
+            "player": "ryan ohearn",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-18",
+            "team": "bal",
+            "stadium": "tb",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:25:08",
             "player": "gunnar henderson",
             "game": "bal @ tb",
@@ -7242,6 +7327,23 @@
         }
     ],
     "det @ tex": [
+        {
+            "created_at": "2025-07-18 20:25:38",
+            "player": "matt vierling",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-07-18",
+            "team": "det",
+            "stadium": "tex",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:23:08",
             "player": "spencer torkelson",
