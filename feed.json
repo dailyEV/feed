@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "82",
         "batters": "229",
-        "pitches": "2915",
+        "pitches": "2921",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.5",
@@ -10,14 +10,14 @@
         "fc%cutter %": "4.6",
         "fs%splitter %": "1.7",
         "ch%changeup %": "9.0",
-        "sl%slider %": "24.8",
+        "sl%slider %": "24.9",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "225",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.1",
         "brlbarrels": "57",
         "brl%barrel %": "10.7",
-        "ab": "680",
+        "ab": "681",
         "avg": ".257",
         "h": "175",
         "1b": "101",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "31",
         "so": "157",
-        "bipballs in play": "532",
+        "bipballs in play": "534",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:32:28.180293"
+        "updated": "2025-07-18 21:32:38.726332"
     },
     "bos @ chc": [
         {
@@ -5071,6 +5071,23 @@
         }
     ],
     "sf @ tor": [
+        {
+            "created_at": "2025-07-18 21:32:38",
+            "player": "alejandro kirk",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-18",
+            "team": "tor",
+            "stadium": "tor",
+            "in": "8",
+            "result": "Pop Out",
+            "evo": "59.8",
+            "la": "68",
+            "dist": "103",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:32:09",
             "player": "addison barger",
@@ -10811,6 +10828,23 @@
     ],
     "bal @ tb": [
         {
+            "created_at": "2025-07-18 21:32:38",
+            "player": "ha seong kim",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-18",
+            "team": "tb",
+            "stadium": "tb",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:30:53",
             "player": "jake mangum",
             "game": "bal @ tb",
@@ -10820,7 +10854,7 @@
             "team": "tb",
             "stadium": "tb",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -12439,10 +12473,10 @@
             "team": "col",
             "stadium": "col",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Flyout",
+            "evo": "83.1",
+            "la": "57",
+            "dist": "226",
             "is_hh": false,
             "is_brl": false
         },
