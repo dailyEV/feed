@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "108",
+        "pitchers": "109",
         "batters": "288",
-        "pitches": "3648",
+        "pitches": "3650",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.3",
+        "ff%fourseam fastball %": "34.4",
         "si%sinker %": "15.0",
         "fc%cutter %": "5.3",
         "fs%splitter %": "2.0",
@@ -13,11 +13,11 @@
         "sl%slider %": "24.3",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "282",
+        "hhhard hit": "283",
         "hh%hard hit %": "42.2",
         "brlbarrels": "66",
         "brl%barrel %": "9.9",
-        "ab": "856",
+        "ab": "858",
         "avg": ".252",
         "h": "216",
         "1b": "126",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "34",
         "so": "204",
-        "bipballs in play": "669",
+        "bipballs in play": "670",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:43:06.632465"
+        "updated": "2025-07-18 22:43:18.814328"
     },
     "bos @ chc": [
         {
@@ -14045,6 +14045,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-18 22:43:18",
+            "player": "ezequiel tovar",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-18",
+            "team": "col",
+            "stadium": "col",
+            "in": "7",
+            "result": "Lineout",
+            "evo": "103.5",
+            "la": "16",
+            "dist": "336",
+            "is_hh": true,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:38:48",
             "player": "ty france",
             "game": "min @ col",
@@ -15117,6 +15134,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-18 22:43:18",
+            "player": "corbin carroll",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-18",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:39:18",
             "player": "masyn winn",
