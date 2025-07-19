@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "120",
         "batters": "297",
-        "pitches": "4120",
+        "pitches": "4121",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.0",
@@ -10,25 +10,25 @@
         "fc%cutter %": "5.6",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.5",
-        "sl%slider %": "24.4",
+        "sl%slider %": "24.5",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "318",
         "hh%hard hit %": "42.5",
         "brlbarrels": "74",
         "brl%barrel %": "9.9",
-        "ab": "971",
+        "ab": "973",
         "avg": ".247",
         "h": "240",
         "1b": "140",
         "2b": "55",
         "3b": "8",
         "hr": "37",
-        "so": "237",
+        "so": "238",
         "bipballs in play": "749",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:54:06.179765"
+        "updated": "2025-07-18 23:54:18.923544"
     },
     "bos @ chc": [
         {
@@ -15373,6 +15373,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-18 23:54:16",
+            "player": "corbin carroll",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-07-18",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 23:52:17",
             "player": "jose herrera",
             "game": "stl @ ari",
@@ -15382,7 +15399,7 @@
             "team": "ari",
             "stadium": "ari",
             "in": "8",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -16530,6 +16547,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-18 23:54:16",
+            "player": "dylan moore",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-18",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 23:53:48",
             "player": "mitch garver",
