@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "98",
-        "batters": "252",
-        "pitches": "3310",
+        "batters": "253",
+        "pitches": "3314",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.6",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.8",
         "brlbarrels": "64",
         "brl%barrel %": "10.4",
-        "ab": "778",
-        "avg": ".252",
-        "h": "196",
-        "1b": "110",
+        "ab": "780",
+        "avg": ".253",
+        "h": "197",
+        "1b": "111",
         "2b": "45",
         "3b": "8",
         "hr": "33",
@@ -28,7 +28,7 @@
         "bipballs in play": "614",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-18 22:03:51.976118"
+        "updated": "2025-07-18 22:04:03.148822"
     },
     "bos @ chc": [
         {
@@ -12989,6 +12989,23 @@
     ],
     "det @ tex": [
         {
+            "created_at": "2025-07-18 22:04:03",
+            "player": "adolis garcia",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-18",
+            "team": "tex",
+            "stadium": "tex",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:59:04",
             "player": "dillon dingler",
             "game": "det @ tex",
@@ -14523,6 +14540,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-18 22:04:03",
+            "player": "blaze alexander",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-18",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:02:35",
             "player": "adrian del castillo",
             "game": "stl @ ari",
@@ -14532,7 +14566,7 @@
             "team": "ari",
             "stadium": "ari",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "108.2",
             "la": "3",
             "dist": "77",
