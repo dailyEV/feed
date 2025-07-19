@@ -2,16 +2,16 @@
     "all": {
         "pitchers": "117",
         "batters": "297",
-        "pitches": "4078",
+        "pitches": "4079",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.0",
-        "si%sinker %": "15.5",
+        "si%sinker %": "15.4",
         "fc%cutter %": "5.6",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.5",
         "sl%slider %": "24.5",
-        "cu%curve %": "9.7",
+        "cu%curve %": "9.8",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "316",
         "hh%hard hit %": "42.6",
@@ -28,7 +28,7 @@
         "bipballs in play": "742",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:45:39.530862"
+        "updated": "2025-07-18 23:45:51.958570"
     },
     "bos @ chc": [
         {
@@ -15373,6 +15373,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-18 23:45:47",
+            "player": "willson contreras",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-18",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 23:44:17",
             "player": "alec burleson",
             "game": "stl @ ari",
@@ -16472,7 +16489,7 @@
             "team": "hou",
             "stadium": "sea",
             "in": "7",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
