@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "2",
-        "batters": "18",
-        "pitches": "117",
+        "pitchers": "3",
+        "batters": "19",
+        "pitches": "118",
         "max velomax pitch velocity": "94.0",
         "min velomin pitch velocity": "73.9",
-        "ff%fourseam fastball %": "34.2",
-        "si%sinker %": "13.7",
-        "fc%cutter %": "14.5",
+        "ff%fourseam fastball %": "34.7",
+        "si%sinker %": "13.6",
+        "fc%cutter %": "14.4",
         "fs%splitter %": "0.0",
-        "ch%changeup %": "19.7",
-        "sl%slider %": "12.8",
+        "ch%changeup %": "19.5",
+        "sl%slider %": "12.7",
         "cu%curve %": "5.1",
         "max evmax exit velocity": "108.4",
         "hhhard hit": "12",
         "hh%hard hit %": "50.0",
         "brlbarrels": "1",
         "brl%barrel %": "4.2",
-        "ab": "30",
-        "avg": ".200",
+        "ab": "31",
+        "avg": ".194",
         "h": "6",
         "1b": "5",
         "2b": "0",
@@ -28,7 +28,7 @@
         "bipballs in play": "24",
         "liveGames": 3,
         "totGames": 15,
-        "updated": "2025-07-19 16:11:04.724607"
+        "updated": "2025-07-19 16:11:12.169912"
     },
     "sf @ tor": [
         {
@@ -594,7 +594,25 @@
         }
     ],
     "cin @ nym": [],
-    "kc @ mia": [],
+    "kc @ mia": [
+        {
+            "created_at": "2025-07-19 16:11:12",
+            "player": "jonathan india",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-19",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        }
+    ],
     "laa @ phi": [],
     "chw @ pit": [],
     "sd @ wsh": [],
