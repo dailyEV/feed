@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "80",
-        "batters": "228",
-        "pitches": "2835",
+        "batters": "229",
+        "pitches": "2841",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.3",
@@ -11,14 +11,14 @@
         "fs%splitter %": "1.7",
         "ch%changeup %": "8.8",
         "sl%slider %": "25.0",
-        "cu%curve %": "10.2",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "219",
         "hh%hard hit %": "42.2",
         "brlbarrels": "55",
         "brl%barrel %": "10.6",
-        "ab": "665",
-        "avg": ".259",
+        "ab": "666",
+        "avg": ".258",
         "h": "172",
         "1b": "99",
         "2b": "36",
@@ -28,7 +28,7 @@
         "bipballs in play": "519",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:27:52.968633"
+        "updated": "2025-07-18 21:28:03.422978"
     },
     "bos @ chc": [
         {
@@ -1240,6 +1240,23 @@
         }
     ],
     "chw @ pit": [
+        {
+            "created_at": "2025-07-18 21:27:56",
+            "player": "henry davis",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-07-18",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:26:09",
             "player": "joey bart",
