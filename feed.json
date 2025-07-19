@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "57",
-        "batters": "211",
-        "pitches": "2193",
+        "batters": "213",
+        "pitches": "2204",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "35.5",
+        "ff%fourseam fastball %": "35.4",
         "si%sinker %": "14.1",
         "fc%cutter %": "3.9",
-        "fs%splitter %": "1.9",
+        "fs%splitter %": "2.0",
         "ch%changeup %": "8.8",
-        "sl%slider %": "25.4",
+        "sl%slider %": "25.3",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "179",
-        "hh%hard hit %": "43.4",
-        "brlbarrels": "45",
-        "brl%barrel %": "10.9",
-        "ab": "521",
-        "avg": ".261",
-        "h": "136",
+        "hhhard hit": "180",
+        "hh%hard hit %": "43.6",
+        "brlbarrels": "46",
+        "brl%barrel %": "11.1",
+        "ab": "526",
+        "avg": ".260",
+        "h": "137",
         "1b": "77",
         "2b": "33",
         "3b": "3",
-        "hr": "23",
+        "hr": "24",
         "so": "115",
-        "bipballs in play": "412",
+        "bipballs in play": "413",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 20:56:32.211909"
+        "updated": "2025-07-18 20:56:42.538870"
     },
     "bos @ chc": [
         {
@@ -1240,6 +1240,23 @@
         }
     ],
     "chw @ pit": [
+        {
+            "created_at": "2025-07-18 20:55:08",
+            "player": "chase meidroth",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-18",
+            "team": "chw",
+            "stadium": "pit",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:53:54",
             "player": "michael a taylor",
@@ -5107,6 +5124,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-18 20:56:08",
+            "player": "elly de la cruz",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-18",
+            "team": "cin",
+            "stadium": "nym",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:55:08",
             "player": "matt mclain",
@@ -9402,6 +9436,23 @@
     ],
     "det @ tex": [
         {
+            "created_at": "2025-07-18 20:56:39",
+            "player": "josh smith",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-18",
+            "team": "tex",
+            "stadium": "tex",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:53:08",
             "player": "jonah heim",
             "game": "det @ tex",
@@ -9726,6 +9777,40 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-18 20:56:39",
+            "player": "ezequiel tovar",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-18",
+            "team": "col",
+            "stadium": "col",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-18 20:56:39",
+            "player": "ryan mcmahon",
+            "game": "min @ col",
+            "hr/park": "30/30",
+            "pa": "9",
+            "dt": "2025-07-18",
+            "team": "col",
+            "stadium": "col",
+            "in": "1",
+            "result": "Home Run",
+            "evo": "105.1",
+            "la": "37",
+            "dist": "436",
+            "is_hh": true,
+            "is_brl": true
+        },
         {
             "created_at": "2025-07-18 20:54:08",
             "player": "jordan beck",
