@@ -1,17 +1,17 @@
 {
     "all": {
-        "pitchers": "65",
-        "batters": "223",
-        "pitches": "2511",
+        "pitchers": "66",
+        "batters": "224",
+        "pitches": "2513",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "35.0",
-        "si%sinker %": "14.5",
+        "ff%fourseam fastball %": "34.9",
+        "si%sinker %": "14.4",
         "fc%cutter %": "4.2",
         "fs%splitter %": "1.8",
         "ch%changeup %": "8.8",
         "sl%slider %": "25.2",
-        "cu%curve %": "10.4",
+        "cu%curve %": "10.6",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "199",
         "hh%hard hit %": "42.6",
@@ -24,11 +24,11 @@
         "2b": "33",
         "3b": "5",
         "hr": "26",
-        "so": "132",
+        "so": "133",
         "bipballs in play": "467",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:12:13.449765"
+        "updated": "2025-07-18 21:12:23.641436"
     },
     "bos @ chc": [
         {
@@ -1241,6 +1241,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-18 21:12:23",
+            "player": "jack suwinski",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-18",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:11:39",
             "player": "andrew mccutchen",
             "game": "chw @ pit",
@@ -1250,7 +1267,7 @@
             "team": "pit",
             "stadium": "pit",
             "in": "8",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -3489,23 +3506,6 @@
     ],
     "laa @ phi": [
         {
-            "created_at": "2025-07-18 21:11:56",
-            "player": "brandon marsh",
-            "game": "laa @ phi",
-            "hr/park": "",
-            "pa": "69",
-            "dt": "2025-07-18",
-            "team": "phi",
-            "stadium": "phi",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 21:10:38",
             "player": "nick castellanos",
             "game": "laa @ phi",
@@ -3515,7 +3515,7 @@
             "team": "phi",
             "stadium": "phi",
             "in": "8",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "87.9",
             "la": "9",
             "dist": "129",
@@ -4664,6 +4664,23 @@
     ],
     "sf @ tor": [
         {
+            "created_at": "2025-07-18 21:12:23",
+            "player": "heliot ramos",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-18",
+            "team": "sf",
+            "stadium": "tor",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:08:53",
             "player": "luis matos",
             "game": "sf @ tor",
@@ -4673,7 +4690,7 @@
             "team": "sf",
             "stadium": "tor",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -7679,6 +7696,23 @@
     ],
     "kc @ mia": [
         {
+            "created_at": "2025-07-18 21:12:23",
+            "player": "agustin ramirez",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-18",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:09:38",
             "player": "jac caglianone",
             "game": "kc @ mia",
@@ -10489,23 +10523,6 @@
         }
     ],
     "det @ tex": [
-        {
-            "created_at": "2025-07-18 21:11:09",
-            "player": "marcus semien",
-            "game": "det @ tex",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-07-18",
-            "team": "tex",
-            "stadium": "tex",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 21:08:53",
             "player": "matt vierling",
