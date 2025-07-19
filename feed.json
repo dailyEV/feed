@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "112",
         "batters": "296",
-        "pitches": "3835",
+        "pitches": "3837",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.2",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "42.0",
         "brlbarrels": "69",
         "brl%barrel %": "9.8",
-        "ab": "901",
-        "avg": ".250",
+        "ab": "902",
+        "avg": ".249",
         "h": "225",
         "1b": "131",
         "2b": "52",
@@ -28,7 +28,7 @@
         "bipballs in play": "704",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:08:00.213587"
+        "updated": "2025-07-18 23:08:12.325831"
     },
     "bos @ chc": [
         {
@@ -15314,7 +15314,7 @@
             "team": "ari",
             "stadium": "ari",
             "in": "5",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "72.2",
             "la": "-43",
             "dist": "5",
@@ -16515,6 +16515,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-18 23:08:04",
+            "player": "caleb durbin",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-07-18",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 23:05:32",
             "player": "jake bauers",
