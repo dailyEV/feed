@@ -1,14 +1,14 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "134",
-        "pitches": "1160",
+        "batters": "135",
+        "pitches": "1164",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "24.8",
-        "si%sinker %": "19.1",
-        "fc%cutter %": "14.8",
-        "fs%splitter %": "4.1",
+        "ff%fourseam fastball %": "24.7",
+        "si%sinker %": "19.2",
+        "fc%cutter %": "14.9",
+        "fs%splitter %": "4.0",
         "ch%changeup %": "10.9",
         "sl%slider %": "19.6",
         "cu%curve %": "6.6",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "37.8",
         "brlbarrels": "12",
         "brl%barrel %": "5.3",
-        "ab": "287",
-        "avg": ".230",
-        "h": "66",
-        "1b": "40",
+        "ab": "290",
+        "avg": ".231",
+        "h": "67",
+        "1b": "41",
         "2b": "15",
         "3b": "3",
         "hr": "8",
@@ -28,7 +28,7 @@
         "bipballs in play": "225",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:27:07.099676"
+        "updated": "2025-07-19 19:27:15.960627"
     },
     "sf @ tor": [
         {
@@ -3557,6 +3557,23 @@
     ],
     "laa @ phi": [
         {
+            "created_at": "2025-07-19 19:26:44",
+            "player": "johan rojas",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-07-19",
+            "team": "phi",
+            "stadium": "phi",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:21:30",
             "player": "jo adell",
             "game": "laa @ phi",
@@ -4239,6 +4256,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-19 19:27:14",
+            "player": "nick gonzales",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "26",
+            "dt": "2025-07-19",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:24:59",
             "player": "bryan reynolds",
             "game": "chw @ pit",
@@ -4248,7 +4282,7 @@
             "team": "pit",
             "stadium": "pit",
             "in": "4",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "106.5",
             "la": "-7",
             "dist": "14",
@@ -5218,6 +5252,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-19 19:27:14",
+            "player": "lourdes gurriel",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-19",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:24:44",
             "player": "geraldo perdomo",
