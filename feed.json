@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "30",
-        "batters": "96",
-        "pitches": "923",
+        "batters": "97",
+        "pitches": "927",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "21.7",
-        "si%sinker %": "19.9",
-        "fc%cutter %": "15.0",
+        "si%sinker %": "20.1",
+        "fc%cutter %": "14.9",
         "fs%splitter %": "3.1",
-        "ch%changeup %": "13.0",
+        "ch%changeup %": "12.9",
         "sl%slider %": "20.6",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "72",
-        "hh%hard hit %": "37.7",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "10",
         "brl%barrel %": "5.2",
         "ab": "238",
@@ -25,10 +25,10 @@
         "3b": "2",
         "hr": "7",
         "so": "51",
-        "bipballs in play": "191",
+        "bipballs in play": "192",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-19 19:11:50.499834"
+        "updated": "2025-07-19 19:11:59.135613"
     },
     "sf @ tor": [
         {
@@ -4069,6 +4069,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-19 19:11:59",
+            "player": "isiah kiner falefa",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-07-19",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "3",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:08:59",
             "player": "mike tauchman",
             "game": "chw @ pit",
@@ -4387,10 +4404,10 @@
             "team": "bal",
             "stadium": "tb",
             "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Sac Fly",
+            "evo": "90.8",
+            "la": "16",
+            "dist": "299",
             "is_hh": false,
             "is_brl": false
         },
