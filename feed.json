@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "73",
-        "batters": "225",
-        "pitches": "2644",
+        "batters": "226",
+        "pitches": "2649",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.9",
+        "ff%fourseam fastball %": "35.0",
         "si%sinker %": "14.6",
         "fc%cutter %": "4.0",
         "fs%splitter %": "1.7",
         "ch%changeup %": "9.1",
-        "sl%slider %": "25.0",
+        "sl%slider %": "25.1",
         "cu%curve %": "10.5",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "205",
+        "hhhard hit": "206",
         "hh%hard hit %": "42.3",
         "brlbarrels": "52",
         "brl%barrel %": "10.7",
-        "ab": "622",
-        "avg": ".256",
+        "ab": "625",
+        "avg": ".254",
         "h": "159",
         "1b": "91",
         "2b": "35",
         "3b": "5",
         "hr": "28",
         "so": "142",
-        "bipballs in play": "485",
+        "bipballs in play": "487",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:18:28.325846"
+        "updated": "2025-07-18 21:18:38.735357"
     },
     "bos @ chc": [
         {
@@ -1240,6 +1240,23 @@
         }
     ],
     "chw @ pit": [
+        {
+            "created_at": "2025-07-18 21:18:38",
+            "player": "will robertson",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-07-18",
+            "team": "chw",
+            "stadium": "pit",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "102.4",
+            "la": "-4",
+            "dist": "34",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:16:09",
             "player": "andrew benintendi",
@@ -3573,6 +3590,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-18 21:18:38",
+            "player": "nolan schanuel",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-07-18",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:16:09",
             "player": "zach neto",
@@ -10062,6 +10096,23 @@
         }
     ],
     "bal @ tb": [
+        {
+            "created_at": "2025-07-18 21:18:38",
+            "player": "jonathan aranda",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-18",
+            "team": "tb",
+            "stadium": "tb",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:17:24",
             "player": "yandy diaz",
