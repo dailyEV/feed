@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "99",
-        "batters": "255",
-        "pitches": "3358",
+        "pitchers": "100",
+        "batters": "256",
+        "pitches": "3361",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.6",
@@ -11,7 +11,7 @@
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.5",
         "sl%slider %": "24.9",
-        "cu%curve %": "10.0",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "264",
         "hh%hard hit %": "42.6",
@@ -24,11 +24,11 @@
         "2b": "45",
         "3b": "8",
         "hr": "33",
-        "so": "181",
+        "so": "182",
         "bipballs in play": "619",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:11:29.571943"
+        "updated": "2025-07-18 22:11:41.113917"
     },
     "bos @ chc": [
         {
@@ -12998,7 +12998,7 @@
             "team": "tex",
             "stadium": "tex",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -14617,7 +14617,7 @@
             "team": "ari",
             "stadium": "ari",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -14898,5 +14898,23 @@
         }
     ],
     "hou @ sea": [],
-    "mil @ lad": []
+    "mil @ lad": [
+        {
+            "created_at": "2025-07-18 22:11:33",
+            "player": "brice turang",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-18",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        }
+    ]
 }
