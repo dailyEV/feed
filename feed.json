@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "90",
-        "batters": "235",
-        "pitches": "3075",
+        "batters": "237",
+        "pitches": "3080",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.0",
@@ -13,22 +13,22 @@
         "sl%slider %": "24.9",
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "237",
-        "hh%hard hit %": "42.2",
+        "hhhard hit": "238",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "60",
         "brl%barrel %": "10.7",
-        "ab": "716",
+        "ab": "720",
         "avg": ".253",
-        "h": "181",
-        "1b": "103",
+        "h": "182",
+        "1b": "104",
         "2b": "40",
         "3b": "7",
         "hr": "31",
-        "so": "168",
-        "bipballs in play": "561",
+        "so": "167",
+        "bipballs in play": "562",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-18 21:42:30.850795"
+        "updated": "2025-07-18 21:42:42.592708"
     },
     "bos @ chc": [
         {
@@ -8852,6 +8852,23 @@
     ],
     "kc @ mia": [
         {
+            "created_at": "2025-07-18 21:42:40",
+            "player": "maikel garcia",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "78",
+            "dt": "2025-07-18",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:41:23",
             "player": "vinnie pasquantino",
             "game": "kc @ mia",
@@ -10155,7 +10172,7 @@
             "team": "nyy",
             "stadium": "atl",
             "in": "8",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -11269,6 +11286,23 @@
         }
     ],
     "bal @ tb": [
+        {
+            "created_at": "2025-07-18 21:42:40",
+            "player": "alex jackson",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-18",
+            "team": "bal",
+            "stadium": "tb",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:37:55",
             "player": "taylor walls",
@@ -13025,6 +13059,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-18 21:42:40",
+            "player": "austin nola",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-18",
+            "team": "col",
+            "stadium": "col",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:39:39",
             "player": "brooks lee",
             "game": "min @ col",
@@ -13587,6 +13638,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-18 21:42:40",
+            "player": "ivan herrera",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-18",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "1",
+            "result": "Single",
+            "evo": "102.6",
+            "la": "11",
+            "dist": "226",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:42:11",
             "player": "brendan donovan",
