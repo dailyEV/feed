@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "76",
+        "pitchers": "78",
         "batters": "227",
-        "pitches": "2745",
+        "pitches": "2753",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.0",
         "si%sinker %": "14.7",
         "fc%cutter %": "4.3",
         "fs%splitter %": "1.6",
-        "ch%changeup %": "8.9",
+        "ch%changeup %": "8.8",
         "sl%slider %": "25.0",
-        "cu%curve %": "10.3",
+        "cu%curve %": "10.4",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "214",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "54",
         "brl%barrel %": "10.7",
-        "ab": "645",
-        "avg": ".256",
+        "ab": "650",
+        "avg": ".254",
         "h": "165",
         "1b": "94",
         "2b": "36",
         "3b": "5",
         "hr": "30",
         "so": "148",
-        "bipballs in play": "506",
+        "bipballs in play": "507",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:23:45.292182"
+        "updated": "2025-07-18 21:23:56.113105"
     },
     "bos @ chc": [
         {
@@ -4902,6 +4902,23 @@
     ],
     "sf @ tor": [
         {
+            "created_at": "2025-07-18 21:23:54",
+            "player": "matt chapman",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-07-18",
+            "team": "sf",
+            "stadium": "tor",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:22:09",
             "player": "rafael devers",
             "game": "sf @ tor",
@@ -7030,6 +7047,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-18 21:23:54",
+            "player": "nick kurtz",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-18",
+            "team": "ath",
+            "stadium": "cle",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:19:39",
             "player": "angel martinez",
@@ -9364,6 +9398,23 @@
     ],
     "nyy @ atl": [
         {
+            "created_at": "2025-07-18 21:23:54",
+            "player": "trent grisham",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-18",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:17:39",
             "player": "giancarlo stanton",
             "game": "nyy @ atl",
@@ -10352,6 +10403,23 @@
     ],
     "bal @ tb": [
         {
+            "created_at": "2025-07-18 21:23:54",
+            "player": "ramon laureano",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-07-18",
+            "team": "bal",
+            "stadium": "tb",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "70.1",
+            "la": "6",
+            "dist": "75",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:21:55",
             "player": "josh lowe",
             "game": "bal @ tb",
@@ -11288,6 +11356,23 @@
         }
     ],
     "det @ tex": [
+        {
+            "created_at": "2025-07-18 21:22:40",
+            "player": "zach mckinstry",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-18",
+            "team": "det",
+            "stadium": "tex",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:21:09",
             "player": "dillon dingler",
