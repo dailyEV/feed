@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "113",
         "batters": "297",
-        "pitches": "3850",
+        "pitches": "3853",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.2",
@@ -10,14 +10,14 @@
         "fc%cutter %": "5.5",
         "fs%splitter %": "1.9",
         "ch%changeup %": "8.6",
-        "sl%slider %": "24.5",
+        "sl%slider %": "24.6",
         "cu%curve %": "9.9",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "299",
         "hh%hard hit %": "42.2",
         "brlbarrels": "70",
         "brl%barrel %": "9.9",
-        "ab": "907",
+        "ab": "908",
         "avg": ".250",
         "h": "227",
         "1b": "131",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "35",
         "so": "214",
-        "bipballs in play": "708",
+        "bipballs in play": "709",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:10:01.948874"
+        "updated": "2025-07-18 23:10:13.815519"
     },
     "bos @ chc": [
         {
@@ -15322,6 +15322,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-18 23:10:05",
+            "player": "ivan herrera",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-07-18",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 23:09:04",
             "player": "brendan donovan",
             "game": "stl @ ari",
@@ -16593,10 +16610,10 @@
             "team": "mil",
             "stadium": "lad",
             "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Groundout",
+            "evo": "64.7",
+            "la": "-38",
+            "dist": "5",
             "is_hh": false,
             "is_brl": false
         },
