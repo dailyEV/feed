@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "106",
-        "batters": "268",
-        "pitches": "3469",
+        "batters": "269",
+        "pitches": "3471",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.6",
+        "ff%fourseam fastball %": "34.7",
         "si%sinker %": "14.9",
         "fc%cutter %": "5.3",
         "fs%splitter %": "2.0",
@@ -14,10 +14,10 @@
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "267",
-        "hh%hard hit %": "42.3",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "64",
         "brl%barrel %": "10.1",
-        "ab": "810",
+        "ab": "811",
         "avg": ".252",
         "h": "204",
         "1b": "118",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "33",
         "so": "193",
-        "bipballs in play": "631",
+        "bipballs in play": "632",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:23:37.817699"
+        "updated": "2025-07-18 22:23:49.351094"
     },
     "bos @ chc": [
         {
@@ -13892,6 +13892,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-18 22:23:47",
+            "player": "ryan ritter",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-18",
+            "team": "col",
+            "stadium": "col",
+            "in": "6",
+            "result": "Bunt Pop Out",
+            "evo": "25.2",
+            "la": "59",
+            "dist": "39",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:22:47",
             "player": "austin nola",
             "game": "min @ col",
@@ -14778,23 +14795,6 @@
     ],
     "stl @ ari": [
         {
-            "created_at": "2025-07-18 22:23:18",
-            "player": "alec burleson",
-            "game": "stl @ ari",
-            "hr/park": "",
-            "pa": "24",
-            "dt": "2025-07-18",
-            "team": "stl",
-            "stadium": "ari",
-            "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 22:21:33",
             "player": "ivan herrera",
             "game": "stl @ ari",
@@ -15274,6 +15274,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-18 22:23:47",
+            "player": "christian yelich",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "7",
+            "dt": "2025-07-18",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:20:17",
             "player": "freddie freeman",
