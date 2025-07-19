@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "43",
-        "batters": "194",
-        "pitches": "1543",
+        "pitchers": "44",
+        "batters": "196",
+        "pitches": "1553",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "27.5",
         "si%sinker %": "18.5",
-        "fc%cutter %": "13.7",
+        "fc%cutter %": "13.6",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "10.1",
-        "sl%slider %": "19.5",
+        "ch%changeup %": "10.0",
+        "sl%slider %": "19.6",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "108",
         "hh%hard hit %": "37.5",
         "brlbarrels": "16",
         "brl%barrel %": "5.6",
-        "ab": "376",
-        "avg": ".242",
+        "ab": "377",
+        "avg": ".241",
         "h": "91",
         "1b": "58",
         "2b": "18",
@@ -28,7 +28,7 @@
         "bipballs in play": "288",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:52:26.246415"
+        "updated": "2025-07-19 19:52:35.341839"
     },
     "sf @ tor": [
         {
@@ -4418,7 +4418,7 @@
             "team": "chw",
             "stadium": "pit",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -5055,8 +5055,43 @@
             "is_brl": false
         }
     ],
-    "sd @ wsh": [],
+    "sd @ wsh": [
+        {
+            "created_at": "2025-07-19 19:52:29",
+            "player": "fernando tatis",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-19",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        }
+    ],
     "bal @ tb": [
+        {
+            "created_at": "2025-07-19 19:52:29",
+            "player": "matt thaiss",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-19",
+            "team": "tb",
+            "stadium": "tb",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:50:44",
             "player": "ha seong kim",
@@ -5409,7 +5444,7 @@
             "team": "tex",
             "stadium": "tex",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": "",
