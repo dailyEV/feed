@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "107",
-        "batters": "281",
-        "pitches": "3574",
+        "pitchers": "108",
+        "batters": "282",
+        "pitches": "3580",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.5",
         "si%sinker %": "14.9",
-        "fc%cutter %": "5.3",
+        "fc%cutter %": "5.4",
         "fs%splitter %": "2.1",
         "ch%changeup %": "8.7",
         "sl%slider %": "24.1",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "42.2",
         "brlbarrels": "65",
         "brl%barrel %": "10.0",
-        "ab": "838",
-        "avg": ".252",
+        "ab": "840",
+        "avg": ".251",
         "h": "211",
         "1b": "122",
         "2b": "48",
         "3b": "8",
         "hr": "33",
-        "so": "200",
+        "so": "201",
         "bipballs in play": "652",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:34:56.932054"
+        "updated": "2025-07-18 22:35:14.841070"
     },
     "bos @ chc": [
         {
@@ -12989,6 +12989,23 @@
     ],
     "det @ tex": [
         {
+            "created_at": "2025-07-18 22:35:03",
+            "player": "jahmai jones",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-18",
+            "team": "det",
+            "stadium": "tex",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:32:48",
             "player": "marcus semien",
             "game": "det @ tex",
@@ -14991,7 +15008,7 @@
             "team": "ari",
             "stadium": "ari",
             "in": "3",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -15493,6 +15510,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-18 22:35:03",
+            "player": "randy arozarena",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "11",
+            "dt": "2025-07-18",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:33:33",
             "player": "taylor trammell",
