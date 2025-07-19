@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "115",
         "batters": "297",
-        "pitches": "4035",
+        "pitches": "4037",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.0",
@@ -13,11 +13,11 @@
         "sl%slider %": "24.6",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "310",
-        "hh%hard hit %": "42.3",
+        "hhhard hit": "311",
+        "hh%hard hit %": "42.4",
         "brlbarrels": "72",
         "brl%barrel %": "9.8",
-        "ab": "950",
+        "ab": "951",
         "avg": ".247",
         "h": "235",
         "1b": "137",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "35",
         "so": "234",
-        "bipballs in play": "732",
+        "bipballs in play": "733",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:38:54.753065"
+        "updated": "2025-07-18 23:39:07.230614"
     },
     "bos @ chc": [
         {
@@ -17094,11 +17094,11 @@
     ],
     "mil @ lad": [
         {
-            "created_at": "2025-07-18 23:37:05",
-            "player": "jake bauers",
+            "created_at": "2025-07-18 23:39:02",
+            "player": "caleb durbin",
             "game": "mil @ lad",
             "hr/park": "",
-            "pa": "45",
+            "pa": "46",
             "dt": "2025-07-18",
             "team": "mil",
             "stadium": "lad",
@@ -17108,6 +17108,23 @@
             "la": "",
             "dist": "",
             "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-18 23:37:05",
+            "player": "jake bauers",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-18",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "97.5",
+            "la": "-6",
+            "dist": "14",
+            "is_hh": true,
             "is_brl": false
         },
         {
