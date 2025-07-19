@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "68",
-        "pitches": "713",
+        "batters": "69",
+        "pitches": "717",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "20.3",
+        "ff%fourseam fastball %": "20.2",
         "si%sinker %": "21.5",
-        "fc%cutter %": "14.9",
-        "fs%splitter %": "2.7",
+        "fc%cutter %": "15.1",
+        "fs%splitter %": "2.6",
         "ch%changeup %": "14.4",
-        "sl%slider %": "20.3",
-        "cu%curve %": "5.9",
+        "sl%slider %": "20.2",
+        "cu%curve %": "6.0",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "53",
         "hh%hard hit %": "34.6",
         "brlbarrels": "8",
         "brl%barrel %": "5.2",
-        "ab": "177",
-        "avg": ".254",
+        "ab": "178",
+        "avg": ".253",
         "h": "45",
         "1b": "28",
         "2b": "11",
@@ -28,7 +28,7 @@
         "bipballs in play": "153",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-07-19 18:32:10.289088"
+        "updated": "2025-07-19 18:32:18.397909"
     },
     "sf @ tor": [
         {
@@ -3182,6 +3182,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-19 18:32:14",
+            "player": "lamonte wade",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-19",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 18:30:43",
             "player": "travis darnaud",
