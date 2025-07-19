@@ -1,15 +1,15 @@
 {
     "all": {
-        "pitchers": "14",
+        "pitchers": "15",
         "batters": "55",
-        "pitches": "591",
+        "pitches": "593",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "22.8",
-        "si%sinker %": "19.8",
-        "fc%cutter %": "14.6",
+        "ff%fourseam fastball %": "22.9",
+        "si%sinker %": "19.7",
+        "fc%cutter %": "14.5",
         "fs%splitter %": "2.4",
-        "ch%changeup %": "16.1",
+        "ch%changeup %": "16.2",
         "sl%slider %": "17.9",
         "cu%curve %": "6.4",
         "max evmax exit velocity": "110.2",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "36.1",
         "brlbarrels": "6",
         "brl%barrel %": "4.5",
-        "ab": "152",
-        "avg": ".237",
+        "ab": "153",
+        "avg": ".235",
         "h": "36",
         "1b": "24",
         "2b": "6",
@@ -28,7 +28,7 @@
         "bipballs in play": "133",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-07-19 18:05:07.820820"
+        "updated": "2025-07-19 18:05:16.138209"
     },
     "sf @ tor": [
         {
@@ -1939,6 +1939,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-19 18:05:14",
+            "player": "graham pauley",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-19",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 18:01:59",
             "player": "jonathan india",
