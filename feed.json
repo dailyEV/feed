@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "110",
         "batters": "295",
-        "pitches": "3768",
+        "pitches": "3774",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.3",
-        "si%sinker %": "15.1",
+        "ff%fourseam fastball %": "34.2",
+        "si%sinker %": "15.2",
         "fc%cutter %": "5.4",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.6",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "42.1",
         "brlbarrels": "68",
         "brl%barrel %": "9.8",
-        "ab": "888",
+        "ab": "889",
         "avg": ".249",
         "h": "221",
         "1b": "130",
         "2b": "49",
         "3b": "8",
         "hr": "34",
-        "so": "211",
+        "so": "212",
         "bipballs in play": "691",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:58:44.394575"
+        "updated": "2025-07-18 22:58:56.069678"
     },
     "bos @ chc": [
         {
@@ -15962,7 +15962,7 @@
             "team": "hou",
             "stadium": "sea",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -16345,6 +16345,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-18 22:58:48",
+            "player": "mookie betts",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-18",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:55:17",
             "player": "andrew vaughn",
