@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "109",
-        "batters": "289",
-        "pitches": "3660",
+        "batters": "290",
+        "pitches": "3664",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.4",
         "si%sinker %": "15.0",
-        "fc%cutter %": "5.4",
+        "fc%cutter %": "5.3",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.6",
         "sl%slider %": "24.3",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "42.2",
         "brlbarrels": "66",
         "brl%barrel %": "9.8",
-        "ab": "861",
-        "avg": ".252",
-        "h": "217",
-        "1b": "127",
+        "ab": "862",
+        "avg": ".253",
+        "h": "218",
+        "1b": "128",
         "2b": "48",
         "3b": "8",
         "hr": "34",
@@ -28,7 +28,7 @@
         "bipballs in play": "671",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:44:30.860905"
+        "updated": "2025-07-18 22:44:42.854856"
     },
     "bos @ chc": [
         {
@@ -15732,6 +15732,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-18 22:44:34",
+            "player": "brice matthews",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "16",
+            "dt": "2025-07-18",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:44:02",
             "player": "mauricio dubon",
             "game": "hou @ sea",
@@ -15741,7 +15758,7 @@
             "team": "hou",
             "stadium": "sea",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "90.4",
             "la": "13",
             "dist": "212",
