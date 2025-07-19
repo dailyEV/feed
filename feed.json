@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "19",
+        "pitchers": "20",
         "batters": "64",
-        "pitches": "672",
+        "pitches": "674",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "21.4",
-        "si%sinker %": "19.8",
-        "fc%cutter %": "14.6",
+        "si%sinker %": "19.9",
+        "fc%cutter %": "14.5",
         "fs%splitter %": "2.4",
         "ch%changeup %": "15.3",
-        "sl%slider %": "20.5",
-        "cu%curve %": "6.0",
+        "sl%slider %": "20.6",
+        "cu%curve %": "5.9",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "53",
         "hh%hard hit %": "35.6",
         "brlbarrels": "8",
         "brl%barrel %": "5.4",
-        "ab": "172",
-        "avg": ".256",
+        "ab": "173",
+        "avg": ".254",
         "h": "44",
         "1b": "27",
         "2b": "11",
@@ -28,7 +28,7 @@
         "bipballs in play": "149",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-07-19 18:21:36.552267"
+        "updated": "2025-07-19 18:21:44.865988"
     },
     "sf @ tor": [
         {
@@ -1189,6 +1189,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-19 18:21:44",
+            "player": "jeff mcneil",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-19",
+            "team": "nym",
+            "stadium": "nym",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 18:18:28",
             "player": "noelvi marte",
