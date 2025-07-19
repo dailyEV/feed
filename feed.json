@@ -1,14 +1,14 @@
 {
     "all": {
         "pitchers": "25",
-        "batters": "79",
-        "pitches": "784",
+        "batters": "80",
+        "pitches": "785",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "20.9",
-        "si%sinker %": "21.0",
+        "si%sinker %": "21.1",
         "fc%cutter %": "14.5",
-        "fs%splitter %": "2.6",
+        "fs%splitter %": "2.5",
         "ch%changeup %": "13.6",
         "sl%slider %": "20.5",
         "cu%curve %": "6.8",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "35.6",
         "brlbarrels": "8",
         "brl%barrel %": "4.9",
-        "ab": "196",
-        "avg": ".240",
+        "ab": "197",
+        "avg": ".239",
         "h": "47",
         "1b": "29",
         "2b": "12",
@@ -28,7 +28,7 @@
         "bipballs in play": "163",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-07-19 18:48:56.802731"
+        "updated": "2025-07-19 18:49:05.083763"
     },
     "sf @ tor": [
         {
@@ -3644,6 +3644,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-19 18:48:59",
+            "player": "bryan reynolds",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-19",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 18:48:14",
             "player": "andrew mccutchen",
             "game": "chw @ pit",
@@ -3653,7 +3670,7 @@
             "team": "pit",
             "stadium": "pit",
             "in": "1",
-            "result": "In Progress",
+            "result": "GIDP",
             "evo": "97.4",
             "la": "-8",
             "dist": "18",
