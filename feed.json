@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "26",
-        "batters": "86",
-        "pitches": "854",
+        "batters": "87",
+        "pitches": "856",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "22.0",
+        "ff%fourseam fastball %": "22.1",
         "si%sinker %": "20.6",
-        "fc%cutter %": "13.7",
+        "fc%cutter %": "13.8",
         "fs%splitter %": "2.8",
         "ch%changeup %": "12.9",
-        "sl%slider %": "21.1",
+        "sl%slider %": "21.0",
         "cu%curve %": "6.9",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "65",
         "hh%hard hit %": "36.7",
         "brlbarrels": "10",
         "brl%barrel %": "5.6",
-        "ab": "216",
-        "avg": ".255",
+        "ab": "218",
+        "avg": ".252",
         "h": "55",
         "1b": "33",
         "2b": "13",
@@ -28,7 +28,7 @@
         "bipballs in play": "177",
         "liveGames": 6,
         "totGames": 15,
-        "updated": "2025-07-19 19:02:26.434036"
+        "updated": "2025-07-19 19:02:34.743775"
     },
     "sf @ tor": [
         {
@@ -1189,6 +1189,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-19 19:02:29",
+            "player": "jeff mcneil",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-07-19",
+            "team": "nym",
+            "stadium": "nym",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 18:58:48",
             "player": "tyler stephenson",
@@ -3865,6 +3882,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-19 19:02:29",
+            "player": "spencer horwitz",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-19",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:00:59",
             "player": "kebryan hayes",
             "game": "chw @ pit",
@@ -3874,7 +3908,7 @@
             "team": "pit",
             "stadium": "pit",
             "in": "2",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "93.1",
             "la": "7",
             "dist": "120",
