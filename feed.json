@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "108",
-        "batters": "285",
-        "pitches": "3605",
+        "batters": "286",
+        "pitches": "3606",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.5",
         "si%sinker %": "14.9",
-        "fc%cutter %": "5.3",
+        "fc%cutter %": "5.4",
         "fs%splitter %": "2.1",
         "ch%changeup %": "8.7",
         "sl%slider %": "24.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "42.0",
         "brlbarrels": "66",
         "brl%barrel %": "10.0",
-        "ab": "849",
+        "ab": "850",
         "avg": ".253",
         "h": "215",
         "1b": "125",
         "2b": "48",
         "3b": "8",
         "hr": "34",
-        "so": "203",
+        "so": "202",
         "bipballs in play": "660",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:38:08.927222"
+        "updated": "2025-07-18 22:38:20.656284"
     },
     "bos @ chc": [
         {
@@ -15110,7 +15110,7 @@
             "team": "stl",
             "stadium": "ari",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -15852,6 +15852,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-18 22:38:16",
+            "player": "caleb durbin",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-18",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:33:33",
             "player": "andy pages",
