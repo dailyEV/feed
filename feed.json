@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "103",
-        "batters": "265",
-        "pitches": "3438",
+        "batters": "266",
+        "pitches": "3444",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "34.8",
+        "ff%fourseam fastball %": "34.7",
         "si%sinker %": "14.8",
-        "fc%cutter %": "5.2",
+        "fc%cutter %": "5.3",
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.3",
         "sl%slider %": "24.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "42.4",
         "brlbarrels": "64",
         "brl%barrel %": "10.2",
-        "ab": "802",
-        "avg": ".252",
+        "ab": "804",
+        "avg": ".251",
         "h": "202",
         "1b": "116",
         "2b": "45",
         "3b": "8",
         "hr": "33",
-        "so": "190",
+        "so": "191",
         "bipballs in play": "627",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:19:46.412692"
+        "updated": "2025-07-18 22:19:57.720844"
     },
     "bos @ chc": [
         {
@@ -14727,6 +14727,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-18 22:19:50",
+            "player": "brendan donovan",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "22",
+            "dt": "2025-07-18",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:18:48",
             "player": "victor scott",
             "game": "stl @ ari",
@@ -15155,6 +15172,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-18 22:19:50",
+            "player": "mookie betts",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-18",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "1",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:17:47",
             "player": "shohei ohtani",
