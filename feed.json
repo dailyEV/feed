@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "43",
-        "batters": "191",
-        "pitches": "1513",
+        "batters": "192",
+        "pitches": "1521",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "27.3",
-        "si%sinker %": "18.4",
+        "ff%fourseam fastball %": "27.4",
+        "si%sinker %": "18.3",
         "fc%cutter %": "13.8",
         "fs%splitter %": "3.8",
-        "ch%changeup %": "10.2",
+        "ch%changeup %": "10.3",
         "sl%slider %": "19.5",
-        "cu%curve %": "6.9",
+        "cu%curve %": "7.0",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "108",
         "hh%hard hit %": "37.6",
         "brlbarrels": "16",
         "brl%barrel %": "5.6",
-        "ab": "370",
-        "avg": ".241",
+        "ab": "372",
+        "avg": ".239",
         "h": "89",
         "1b": "56",
         "2b": "18",
@@ -28,7 +28,7 @@
         "bipballs in play": "287",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:50:35.055253"
+        "updated": "2025-07-19 19:50:44.338633"
     },
     "sf @ tor": [
         {
@@ -4409,6 +4409,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-19 19:50:44",
+            "player": "mike tauchman",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-19",
+            "team": "chw",
+            "stadium": "pit",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:48:29",
             "player": "josh rojas",
             "game": "chw @ pit",
@@ -5040,6 +5057,23 @@
     ],
     "sd @ wsh": [],
     "bal @ tb": [
+        {
+            "created_at": "2025-07-19 19:50:44",
+            "player": "ha seong kim",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-19",
+            "team": "tb",
+            "stadium": "tb",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:46:31",
             "player": "gunnar henderson",
