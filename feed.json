@@ -2,13 +2,13 @@
     "all": {
         "pitchers": "31",
         "batters": "100",
-        "pitches": "937",
+        "pitches": "938",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "21.8",
-        "si%sinker %": "20.2",
+        "ff%fourseam fastball %": "22.0",
+        "si%sinker %": "20.1",
         "fc%cutter %": "14.7",
-        "fs%splitter %": "3.2",
+        "fs%splitter %": "3.1",
         "ch%changeup %": "13.0",
         "sl%slider %": "20.5",
         "cu%curve %": "6.6",
@@ -24,11 +24,11 @@
         "2b": "14",
         "3b": "2",
         "hr": "7",
-        "so": "51",
+        "so": "52",
         "bipballs in play": "193",
         "liveGames": 9,
         "totGames": 15,
-        "updated": "2025-07-19 19:12:41.869400"
+        "updated": "2025-07-19 19:12:50.415152"
     },
     "sf @ tor": [
         {
@@ -3498,7 +3498,7 @@
             "team": "phi",
             "stadium": "phi",
             "in": "4",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -4395,23 +4395,6 @@
     "sd @ wsh": [],
     "bal @ tb": [
         {
-            "created_at": "2025-07-19 19:12:15",
-            "player": "ryan ohearn",
-            "game": "bal @ tb",
-            "hr/park": "",
-            "pa": "4",
-            "dt": "2025-07-19",
-            "team": "bal",
-            "stadium": "tb",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 19:10:13",
             "player": "gunnar henderson",
             "game": "bal @ tb",
@@ -4517,6 +4500,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-19 19:12:44",
+            "player": "brent rooker",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-19",
+            "team": "ath",
+            "stadium": "cle",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:11:14",
             "player": "jacob wilson",
