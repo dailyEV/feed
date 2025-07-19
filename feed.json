@@ -1,20 +1,20 @@
 {
     "all": {
-        "pitchers": "54",
-        "batters": "206",
-        "pitches": "2111",
+        "pitchers": "55",
+        "batters": "207",
+        "pitches": "2115",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "35.3",
+        "ff%fourseam fastball %": "35.4",
         "si%sinker %": "13.9",
         "fc%cutter %": "3.8",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "8.8",
+        "ch%changeup %": "8.7",
         "sl%slider %": "25.7",
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "170",
-        "hh%hard hit %": "42.9",
+        "hhhard hit": "169",
+        "hh%hard hit %": "42.8",
         "brlbarrels": "43",
         "brl%barrel %": "10.9",
         "ab": "502",
@@ -24,11 +24,11 @@
         "2b": "30",
         "3b": "2",
         "hr": "22",
-        "so": "111",
-        "bipballs in play": "396",
+        "so": "110",
+        "bipballs in play": "395",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 20:51:30.994079"
+        "updated": "2025-07-18 20:51:41.212482"
     },
     "bos @ chc": [
         {
@@ -6770,7 +6770,7 @@
             "team": "kc",
             "stadium": "mia",
             "in": "7",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -8448,23 +8448,6 @@
     ],
     "bal @ tb": [
         {
-            "created_at": "2025-07-18 20:51:09",
-            "player": "junior caminero",
-            "game": "bal @ tb",
-            "hr/park": "",
-            "pa": "41",
-            "dt": "2025-07-18",
-            "team": "tb",
-            "stadium": "tb",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 20:49:54",
             "player": "jonathan aranda",
             "game": "bal @ tb",
@@ -8474,11 +8457,11 @@
             "team": "tb",
             "stadium": "tb",
             "in": "5",
-            "result": "Groundout",
-            "evo": "101.9",
-            "la": "7",
-            "dist": "126",
-            "is_hh": true,
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
             "is_brl": false
         },
         {
@@ -9454,6 +9437,23 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-18 20:51:39",
+            "player": "tyler freeman",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "6",
+            "dt": "2025-07-18",
+            "team": "col",
+            "stadium": "col",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:48:24",
             "player": "ty france",
