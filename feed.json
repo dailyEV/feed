@@ -1,34 +1,34 @@
 {
     "all": {
-        "pitchers": "39",
+        "pitchers": "41",
         "batters": "189",
-        "pitches": "1621",
+        "pitches": "1631",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.2",
         "ff%fourseam fastball %": "37.5",
         "si%sinker %": "12.8",
-        "fc%cutter %": "3.5",
+        "fc%cutter %": "3.6",
         "fs%splitter %": "2.0",
-        "ch%changeup %": "8.5",
+        "ch%changeup %": "8.4",
         "sl%slider %": "26.2",
         "cu%curve %": "9.5",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "131",
-        "hh%hard hit %": "43.2",
-        "brlbarrels": "34",
-        "brl%barrel %": "11.2",
-        "ab": "379",
+        "hhhard hit": "132",
+        "hh%hard hit %": "43.4",
+        "brlbarrels": "35",
+        "brl%barrel %": "11.5",
+        "ab": "382",
         "avg": ".272",
-        "h": "103",
+        "h": "104",
         "1b": "62",
-        "2b": "21",
+        "2b": "22",
         "3b": "1",
         "hr": "19",
-        "so": "79",
-        "bipballs in play": "303",
+        "so": "80",
+        "bipballs in play": "304",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:24:33.794314"
+        "updated": "2025-07-18 20:24:43.280232"
     },
     "bos @ chc": [
         {
@@ -1240,6 +1240,23 @@
         }
     ],
     "chw @ pit": [
+        {
+            "created_at": "2025-07-18 20:24:08",
+            "player": "michael a taylor",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-18",
+            "team": "chw",
+            "stadium": "pit",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:20:24",
             "player": "colson montgomery",
@@ -2758,23 +2775,6 @@
     ],
     "laa @ phi": [
         {
-            "created_at": "2025-07-18 20:23:53",
-            "player": "nick castellanos",
-            "game": "laa @ phi",
-            "hr/park": "",
-            "pa": "46",
-            "dt": "2025-07-18",
-            "team": "phi",
-            "stadium": "phi",
-            "in": "5",
-            "result": "Groundout",
-            "evo": "60.4",
-            "la": "-29",
-            "dist": "3",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 20:22:23",
             "player": "alec bohm",
             "game": "laa @ phi",
@@ -3541,6 +3541,23 @@
         }
     ],
     "sf @ tor": [
+        {
+            "created_at": "2025-07-18 20:23:53",
+            "player": "george springer",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-07-18",
+            "team": "tor",
+            "stadium": "tor",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:19:53",
             "player": "casey schmitt",
@@ -4753,6 +4770,23 @@
     ],
     "ath @ cle": [
         {
+            "created_at": "2025-07-18 20:24:38",
+            "player": "jose ramirez",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-07-18",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "5",
+            "result": "Double",
+            "evo": "79.1",
+            "la": "17",
+            "dist": "200",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:20:53",
             "player": "max muncy",
             "game": "ath @ cle",
@@ -5400,6 +5434,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-18 20:24:38",
+            "player": "vinnie pasquantino",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-07-18",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:24:08",
             "player": "bobby witt",
@@ -6083,11 +6134,11 @@
     ],
     "nyy @ atl": [
         {
-            "created_at": "2025-07-18 20:22:39",
-            "player": "jazz chisholm",
+            "created_at": "2025-07-18 20:24:38",
+            "player": "jasson dominguez",
             "game": "nyy @ atl",
             "hr/park": "",
-            "pa": "31",
+            "pa": "32",
             "dt": "2025-07-18",
             "team": "nyy",
             "stadium": "atl",
@@ -6098,6 +6149,23 @@
             "dist": "",
             "is_hh": false,
             "is_brl": false
+        },
+        {
+            "created_at": "2025-07-18 20:22:39",
+            "player": "jazz chisholm",
+            "game": "nyy @ atl",
+            "hr/park": "0/30",
+            "pa": "31",
+            "dt": "2025-07-18",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "4",
+            "result": "Flyout",
+            "evo": "106.8",
+            "la": "37",
+            "dist": "383",
+            "is_hh": true,
+            "is_brl": true
         },
         {
             "created_at": "2025-07-18 20:20:38",
@@ -6621,7 +6689,7 @@
             "team": "bal",
             "stadium": "tb",
             "in": "4",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -7082,7 +7150,7 @@
             "team": "det",
             "stadium": "tex",
             "in": "2",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
