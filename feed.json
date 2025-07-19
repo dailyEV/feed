@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "113",
         "batters": "297",
-        "pitches": "4012",
+        "pitches": "4014",
         "max velomax pitch velocity": "102.1",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "33.9",
         "si%sinker %": "15.6",
         "fc%cutter %": "5.7",
         "fs%splitter %": "1.9",
-        "ch%changeup %": "8.5",
+        "ch%changeup %": "8.6",
         "sl%slider %": "24.6",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.8",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.3",
         "brlbarrels": "72",
         "brl%barrel %": "9.9",
-        "ab": "946",
+        "ab": "947",
         "avg": ".248",
         "h": "235",
         "1b": "137",
@@ -28,7 +28,7 @@
         "bipballs in play": "730",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:34:55.365711"
+        "updated": "2025-07-18 23:35:08.378798"
     },
     "bos @ chc": [
         {
@@ -16343,6 +16343,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-18 23:35:03",
+            "player": "cal raleigh",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-18",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 23:33:03",
             "player": "julio rodriguez",
