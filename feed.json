@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "75",
+        "pitchers": "74",
         "batters": "227",
-        "pitches": "2719",
+        "pitches": "2722",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "25.0",
         "cu%curve %": "10.4",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "212",
-        "hh%hard hit %": "42.1",
+        "hhhard hit": "213",
+        "hh%hard hit %": "42.3",
         "brlbarrels": "54",
         "brl%barrel %": "10.7",
-        "ab": "641",
-        "avg": ".256",
+        "ab": "643",
+        "avg": ".255",
         "h": "164",
         "1b": "93",
         "2b": "36",
         "3b": "5",
         "hr": "30",
-        "so": "146",
+        "so": "147",
         "bipballs in play": "503",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:22:20.353396"
+        "updated": "2025-07-18 21:22:30.671285"
     },
     "bos @ chc": [
         {
@@ -3625,6 +3625,23 @@
     ],
     "laa @ phi": [
         {
+            "created_at": "2025-07-18 21:22:23",
+            "player": "taylor ward",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-07-18",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:20:39",
             "player": "mike trout",
             "game": "laa @ phi",
@@ -3634,7 +3651,7 @@
             "team": "laa",
             "stadium": "phi",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -4851,23 +4868,6 @@
     ],
     "sf @ tor": [
         {
-            "created_at": "2025-07-18 21:22:09",
-            "player": "rafael devers",
-            "game": "sf @ tor",
-            "hr/park": "",
-            "pa": "61",
-            "dt": "2025-07-18",
-            "team": "sf",
-            "stadium": "tor",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 21:19:23",
             "player": "bo bichette",
             "game": "sf @ tor",
@@ -5899,7 +5899,7 @@
             "team": "cin",
             "stadium": "nym",
             "in": "8",
-            "result": "Hit By Pitch",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -8103,6 +8103,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-18 21:22:23",
+            "player": "kyle isbel",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-07-18",
+            "team": "kc",
+            "stadium": "mia",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "100.5",
+            "la": "-20",
+            "dist": "9",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:20:09",
             "player": "john rave",
