@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "106",
+        "pitchers": "107",
         "batters": "281",
-        "pitches": "3565",
+        "pitches": "3569",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.6",
-        "si%sinker %": "14.8",
+        "si%sinker %": "14.9",
         "fc%cutter %": "5.4",
         "fs%splitter %": "2.1",
         "ch%changeup %": "8.7",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "42.2",
         "brlbarrels": "65",
         "brl%barrel %": "10.0",
-        "ab": "836",
+        "ab": "837",
         "avg": ".252",
         "h": "211",
         "1b": "122",
@@ -28,7 +28,7 @@
         "bipballs in play": "652",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:34:02.696808"
+        "updated": "2025-07-18 22:34:22.204271"
     },
     "bos @ chc": [
         {
@@ -13977,6 +13977,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-18 22:34:22",
+            "player": "christian vazquez",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-07-18",
+            "team": "min",
+            "stadium": "col",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:28:47",
             "player": "ryan mcmahon",
             "game": "min @ col",
@@ -14957,7 +14974,7 @@
             "team": "ari",
             "stadium": "ari",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": "",
