@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "39",
         "batters": "188",
-        "pitches": "1595",
+        "pitches": "1598",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.2",
         "ff%fourseam fastball %": "37.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.7",
         "hhhard hit": "129",
-        "hh%hard hit %": "43.3",
+        "hh%hard hit %": "43.1",
         "brlbarrels": "34",
         "brl%barrel %": "11.4",
-        "ab": "373",
-        "avg": ".271",
+        "ab": "374",
+        "avg": ".270",
         "h": "101",
         "1b": "61",
         "2b": "20",
         "3b": "1",
         "hr": "19",
         "so": "77",
-        "bipballs in play": "298",
+        "bipballs in play": "299",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:22:13.754487"
+        "updated": "2025-07-18 20:22:23.526923"
     },
     "bos @ chc": [
         {
@@ -2034,10 +2034,10 @@
             "team": "wsh",
             "stadium": "wsh",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Flyout",
+            "evo": "81.2",
+            "la": "33",
+            "dist": "302",
             "is_hh": false,
             "is_brl": false
         },
@@ -2757,6 +2757,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-18 20:22:23",
+            "player": "alec bohm",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-18",
+            "team": "phi",
+            "stadium": "phi",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:21:08",
             "player": "bryce harper",
