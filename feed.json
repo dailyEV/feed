@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "103",
-        "batters": "262",
-        "pitches": "3419",
+        "batters": "263",
+        "pitches": "3423",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.8",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.3",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "266",
-        "hh%hard hit %": "42.6",
+        "hh%hard hit %": "42.5",
         "brlbarrels": "64",
         "brl%barrel %": "10.2",
-        "ab": "798",
-        "avg": ".252",
+        "ab": "800",
+        "avg": ".251",
         "h": "201",
         "1b": "115",
         "2b": "45",
         "3b": "8",
         "hr": "33",
         "so": "186",
-        "bipballs in play": "625",
+        "bipballs in play": "626",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:17:51.255467"
+        "updated": "2025-07-18 22:18:02.876255"
     },
     "bos @ chc": [
         {
@@ -13875,6 +13875,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-18 22:18:02",
+            "player": "brooks lee",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-18",
+            "team": "min",
+            "stadium": "col",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:16:01",
             "player": "royce lewis",
             "game": "min @ col",
@@ -14709,6 +14726,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-18 22:18:02",
+            "player": "pedro pages",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-18",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "89.1",
+            "la": "8",
+            "dist": "129",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 22:14:17",
             "player": "lourdes gurriel",
