@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "53",
+        "pitchers": "54",
         "batters": "205",
-        "pitches": "2076",
+        "pitches": "2078",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "43.1",
         "brlbarrels": "42",
         "brl%barrel %": "10.9",
-        "ab": "491",
-        "avg": ".259",
+        "ab": "492",
+        "avg": ".258",
         "h": "127",
         "1b": "74",
         "2b": "29",
         "3b": "2",
         "hr": "22",
-        "so": "109",
+        "so": "110",
         "bipballs in play": "385",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 20:49:29.457748"
+        "updated": "2025-07-18 20:49:39.361126"
     },
     "bos @ chc": [
         {
@@ -2211,6 +2211,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-18 20:49:39",
+            "player": "luis arraez",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-18",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:45:39",
             "player": "daylen lile",
@@ -8986,7 +9003,7 @@
             "team": "tex",
             "stadium": "tex",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
