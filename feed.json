@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "42",
         "batters": "178",
-        "pitches": "1402",
+        "pitches": "1407",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
         "ff%fourseam fastball %": "26.8",
         "si%sinker %": "18.9",
-        "fc%cutter %": "14.0",
+        "fc%cutter %": "13.9",
         "fs%splitter %": "4.0",
         "ch%changeup %": "10.2",
-        "sl%slider %": "19.4",
+        "sl%slider %": "19.5",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "112.8",
-        "hhhard hit": "97",
-        "hh%hard hit %": "37.3",
+        "hhhard hit": "98",
+        "hh%hard hit %": "37.5",
         "brlbarrels": "14",
         "brl%barrel %": "5.4",
         "ab": "339",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "11",
         "so": "82",
-        "bipballs in play": "260",
+        "bipballs in play": "261",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:42:39.116643"
+        "updated": "2025-07-19 19:42:48.346963"
     },
     "sf @ tor": [
         {
@@ -3574,23 +3574,6 @@
     ],
     "laa @ phi": [
         {
-            "created_at": "2025-07-19 19:42:29",
-            "player": "nick castellanos",
-            "game": "laa @ phi",
-            "hr/park": "",
-            "pa": "45",
-            "dt": "2025-07-19",
-            "team": "phi",
-            "stadium": "phi",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 19:38:29",
             "player": "bryce harper",
             "game": "laa @ phi",
@@ -4340,6 +4323,23 @@
         }
     ],
     "chw @ pit": [
+        {
+            "created_at": "2025-07-19 19:42:45",
+            "player": "luis robert",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-19",
+            "team": "chw",
+            "stadium": "pit",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:41:29",
             "player": "kyle teel",
@@ -5188,11 +5188,11 @@
             "team": "det",
             "stadium": "tex",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Groundout",
+            "evo": "99.6",
+            "la": "-16",
+            "dist": "7",
+            "is_hh": true,
             "is_brl": false
         },
         {
