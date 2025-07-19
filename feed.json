@@ -1,24 +1,24 @@
 {
     "all": {
         "pitchers": "21",
-        "batters": "69",
-        "pitches": "724",
+        "batters": "70",
+        "pitches": "727",
         "max velomax pitch velocity": "98.8",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "20.0",
-        "si%sinker %": "21.7",
-        "fc%cutter %": "15.1",
+        "ff%fourseam fastball %": "19.9",
+        "si%sinker %": "21.6",
+        "fc%cutter %": "15.0",
         "fs%splitter %": "2.6",
         "ch%changeup %": "14.2",
-        "sl%slider %": "20.3",
-        "cu%curve %": "6.1",
+        "sl%slider %": "20.5",
+        "cu%curve %": "6.2",
         "max evmax exit velocity": "110.2",
         "hhhard hit": "53",
         "hh%hard hit %": "34.6",
         "brlbarrels": "8",
         "brl%barrel %": "5.2",
-        "ab": "177",
-        "avg": ".254",
+        "ab": "179",
+        "avg": ".251",
         "h": "45",
         "1b": "28",
         "2b": "11",
@@ -28,7 +28,7 @@
         "bipballs in play": "153",
         "liveGames": 4,
         "totGames": 15,
-        "updated": "2025-07-19 18:35:08.367247"
+        "updated": "2025-07-19 18:35:16.449910"
     },
     "sf @ tor": [
         {
@@ -1189,6 +1189,23 @@
         }
     ],
     "cin @ nym": [
+        {
+            "created_at": "2025-07-19 18:35:13",
+            "player": "brandon nimmo",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-19",
+            "team": "nym",
+            "stadium": "nym",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 18:29:45",
             "player": "luis torrens",
@@ -3182,6 +3199,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-19 18:35:13",
+            "player": "otto kemp",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-19",
+            "team": "phi",
+            "stadium": "phi",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 18:32:14",
             "player": "lamonte wade",
