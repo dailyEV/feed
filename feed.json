@@ -1,11 +1,11 @@
 {
     "all": {
-        "pitchers": "79",
+        "pitchers": "80",
         "batters": "228",
-        "pitches": "2826",
+        "pitches": "2835",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
-        "ff%fourseam fastball %": "35.2",
+        "ff%fourseam fastball %": "35.3",
         "si%sinker %": "14.4",
         "fc%cutter %": "4.6",
         "fs%splitter %": "1.7",
@@ -14,21 +14,21 @@
         "cu%curve %": "10.2",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "219",
-        "hh%hard hit %": "42.4",
+        "hh%hard hit %": "42.2",
         "brlbarrels": "55",
         "brl%barrel %": "10.6",
-        "ab": "660",
-        "avg": ".256",
-        "h": "169",
-        "1b": "97",
+        "ab": "665",
+        "avg": ".259",
+        "h": "172",
+        "1b": "99",
         "2b": "36",
-        "3b": "6",
+        "3b": "7",
         "hr": "30",
         "so": "152",
-        "bipballs in play": "517",
+        "bipballs in play": "519",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 21:27:30.903988"
+        "updated": "2025-07-18 21:27:41.931807"
     },
     "bos @ chc": [
         {
@@ -2535,6 +2535,23 @@
     ],
     "sd @ wsh": [
         {
+            "created_at": "2025-07-18 21:27:40",
+            "player": "luis arraez",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-07-18",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "9",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:25:53",
             "player": "fernando tatis",
             "game": "sd @ wsh",
@@ -2544,7 +2561,7 @@
             "team": "sd",
             "stadium": "wsh",
             "in": "9",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "103.1",
             "la": "2",
             "dist": "70",
@@ -6077,6 +6094,23 @@
     ],
     "cin @ nym": [
         {
+            "created_at": "2025-07-18 21:27:40",
+            "player": "austin hays",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-18",
+            "team": "cin",
+            "stadium": "nym",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 21:24:54",
             "player": "elly de la cruz",
             "game": "cin @ nym",
@@ -7183,6 +7217,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-18 21:26:55",
+            "player": "brent rooker",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "69",
+            "dt": "2025-07-18",
+            "team": "ath",
+            "stadium": "cle",
+            "in": "9",
+            "result": "Triple",
+            "evo": "86.3",
+            "la": "32",
+            "dist": "280",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:23:54",
             "player": "nick kurtz",
@@ -8341,6 +8392,23 @@
         }
     ],
     "kc @ mia": [
+        {
+            "created_at": "2025-07-18 21:27:40",
+            "player": "dane myers",
+            "game": "kc @ mia",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-07-18",
+            "team": "mia",
+            "stadium": "mia",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 21:23:39",
             "player": "jonathan india",
@@ -9534,11 +9602,11 @@
     ],
     "nyy @ atl": [
         {
-            "created_at": "2025-07-18 21:26:09",
-            "player": "cody bellinger",
+            "created_at": "2025-07-18 21:27:40",
+            "player": "aaron judge",
             "game": "nyy @ atl",
             "hr/park": "",
-            "pa": "60",
+            "pa": "61",
             "dt": "2025-07-18",
             "team": "nyy",
             "stadium": "atl",
@@ -9547,6 +9615,23 @@
             "evo": "",
             "la": "",
             "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-18 21:26:09",
+            "player": "cody bellinger",
+            "game": "nyy @ atl",
+            "hr/park": "0/30",
+            "pa": "60",
+            "dt": "2025-07-18",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "7",
+            "result": "Single",
+            "evo": "94.7",
+            "la": "17",
+            "dist": "301",
             "is_hh": false,
             "is_brl": false
         },
