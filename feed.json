@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "101",
+        "pitchers": "102",
         "batters": "258",
-        "pitches": "3378",
+        "pitches": "3381",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.7",
@@ -11,24 +11,24 @@
         "fs%splitter %": "2.0",
         "ch%changeup %": "8.5",
         "sl%slider %": "24.8",
-        "cu%curve %": "10.2",
+        "cu%curve %": "10.1",
         "max evmax exit velocity": "115.8",
         "hhhard hit": "266",
         "hh%hard hit %": "42.8",
         "brlbarrels": "64",
         "brl%barrel %": "10.3",
-        "ab": "790",
+        "ab": "791",
         "avg": ".254",
         "h": "201",
         "1b": "115",
         "2b": "45",
         "3b": "8",
         "hr": "33",
-        "so": "183",
+        "so": "182",
         "bipballs in play": "622",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 22:13:38.871701"
+        "updated": "2025-07-18 22:13:50.687808"
     },
     "bos @ chc": [
         {
@@ -12989,6 +12989,23 @@
     ],
     "det @ tex": [
         {
+            "created_at": "2025-07-18 22:13:46",
+            "player": "zach mckinstry",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "50",
+            "dt": "2025-07-18",
+            "team": "det",
+            "stadium": "tex",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:10:47",
             "player": "wyatt langford",
             "game": "det @ tex",
@@ -14961,7 +14978,7 @@
             "team": "mil",
             "stadium": "lad",
             "in": "1",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
