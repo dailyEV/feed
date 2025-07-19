@@ -1,23 +1,23 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "165",
-        "pitches": "1326",
+        "batters": "166",
+        "pitches": "1327",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "72.7",
-        "ff%fourseam fastball %": "25.9",
+        "ff%fourseam fastball %": "25.8",
         "si%sinker %": "19.5",
-        "fc%cutter %": "14.3",
+        "fc%cutter %": "14.2",
         "fs%splitter %": "3.8",
         "ch%changeup %": "10.5",
-        "sl%slider %": "19.2",
+        "sl%slider %": "19.4",
         "cu%curve %": "6.8",
         "max evmax exit velocity": "112.8",
         "hhhard hit": "96",
         "hh%hard hit %": "38.4",
         "brlbarrels": "14",
         "brl%barrel %": "5.6",
-        "ab": "323",
+        "ab": "324",
         "avg": ".238",
         "h": "77",
         "1b": "47",
@@ -28,7 +28,7 @@
         "bipballs in play": "250",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-19 19:37:55.865023"
+        "updated": "2025-07-19 19:38:04.852880"
     },
     "sf @ tor": [
         {
@@ -5351,6 +5351,23 @@
     ],
     "ath @ cle": [
         {
+            "created_at": "2025-07-19 19:38:00",
+            "player": "bo naylor",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-19",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 19:36:15",
             "player": "johnathan rodriguez",
             "game": "ath @ cle",
@@ -5573,23 +5590,6 @@
         }
     ],
     "bos @ chc": [
-        {
-            "created_at": "2025-07-19 19:36:29",
-            "player": "trevor story",
-            "game": "bos @ chc",
-            "hr/park": "",
-            "pa": "10",
-            "dt": "2025-07-19",
-            "team": "bos",
-            "stadium": "chc",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-19 19:33:00",
             "player": "ian happ",
@@ -5934,6 +5934,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-19 19:38:00",
+            "player": "drake baldwin",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "10",
+            "dt": "2025-07-19",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 19:35:44",
             "player": "trent grisham",
