@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "52",
         "batters": "203",
-        "pitches": "2030",
+        "pitches": "2034",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "35.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "25.8",
         "cu%curve %": "10.1",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "161",
-        "hh%hard hit %": "42.8",
+        "hhhard hit": "160",
+        "hh%hard hit %": "42.7",
         "brlbarrels": "40",
-        "brl%barrel %": "10.6",
-        "ab": "476",
-        "avg": ".261",
+        "brl%barrel %": "10.7",
+        "ab": "478",
+        "avg": ".259",
         "h": "124",
         "1b": "74",
         "2b": "27",
         "3b": "2",
         "hr": "21",
         "so": "105",
-        "bipballs in play": "376",
+        "bipballs in play": "375",
         "liveGames": 12,
         "totGames": 15,
-        "updated": "2025-07-18 20:46:20.930770"
+        "updated": "2025-07-18 20:46:30.641103"
     },
     "bos @ chc": [
         {
@@ -1240,6 +1240,23 @@
         }
     ],
     "chw @ pit": [
+        {
+            "created_at": "2025-07-18 20:45:54",
+            "player": "lenyn sosa",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-18",
+            "team": "chw",
+            "stadium": "pit",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:43:08",
             "player": "luis robert",
@@ -4069,6 +4086,23 @@
     ],
     "sf @ tor": [
         {
+            "created_at": "2025-07-18 20:46:24",
+            "player": "rafael devers",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-07-18",
+            "team": "sf",
+            "stadium": "tor",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:43:23",
             "player": "joey loperfido",
             "game": "sf @ tor",
@@ -6489,23 +6523,6 @@
     ],
     "kc @ mia": [
         {
-            "created_at": "2025-07-18 20:45:39",
-            "player": "graham pauley",
-            "game": "kc @ mia",
-            "hr/park": "",
-            "pa": "52",
-            "dt": "2025-07-18",
-            "team": "mia",
-            "stadium": "mia",
-            "in": "6",
-            "result": "Lineout",
-            "evo": "99.7",
-            "la": "20",
-            "dist": "363",
-            "is_hh": true,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-18 20:44:55",
             "player": "dane myers",
             "game": "kc @ mia",
@@ -7374,6 +7391,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-18 20:46:24",
+            "player": "trent grisham",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-18",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-18 20:45:39",
             "player": "jorbit vivas",
@@ -8742,7 +8776,7 @@
             "created_at": "2025-07-18 20:45:39",
             "player": "gleyber torres",
             "game": "det @ tex",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "16",
             "dt": "2025-07-18",
             "team": "det",
