@@ -1,22 +1,22 @@
 {
     "all": {
         "pitchers": "42",
-        "batters": "190",
-        "pitches": "1644",
+        "batters": "189",
+        "pitches": "1649",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "67.2",
-        "ff%fourseam fastball %": "37.3",
-        "si%sinker %": "12.8",
-        "fc%cutter %": "3.6",
+        "ff%fourseam fastball %": "37.4",
+        "si%sinker %": "12.9",
+        "fc%cutter %": "3.5",
         "fs%splitter %": "1.9",
         "ch%changeup %": "8.5",
-        "sl%slider %": "26.2",
+        "sl%slider %": "26.1",
         "cu%curve %": "9.6",
         "max evmax exit velocity": "115.7",
-        "hhhard hit": "133",
-        "hh%hard hit %": "43.2",
+        "hhhard hit": "134",
+        "hh%hard hit %": "43.4",
         "brlbarrels": "35",
-        "brl%barrel %": "11.4",
+        "brl%barrel %": "11.3",
         "ab": "388",
         "avg": ".268",
         "h": "104",
@@ -24,11 +24,11 @@
         "2b": "22",
         "3b": "1",
         "hr": "19",
-        "so": "80",
-        "bipballs in play": "308",
+        "so": "81",
+        "bipballs in play": "309",
         "liveGames": 11,
         "totGames": 15,
-        "updated": "2025-07-18 20:25:49.420925"
+        "updated": "2025-07-18 20:25:58.765870"
     },
     "bos @ chc": [
         {
@@ -1250,7 +1250,7 @@
             "team": "chw",
             "stadium": "pit",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -3576,6 +3576,23 @@
     ],
     "sf @ tor": [
         {
+            "created_at": "2025-07-18 20:25:53",
+            "player": "bo bichette",
+            "game": "sf @ tor",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-18",
+            "team": "tor",
+            "stadium": "tor",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:25:23",
             "player": "vladimir guerrero",
             "game": "sf @ tor",
@@ -4207,6 +4224,23 @@
     ],
     "cin @ nym": [
         {
+            "created_at": "2025-07-18 20:25:53",
+            "player": "jeff mcneil",
+            "game": "cin @ nym",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-18",
+            "team": "nym",
+            "stadium": "nym",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 20:21:53",
             "player": "elly de la cruz",
             "game": "cin @ nym",
@@ -4820,23 +4854,6 @@
         }
     ],
     "ath @ cle": [
-        {
-            "created_at": "2025-07-18 20:25:37",
-            "player": "carlos santana",
-            "game": "ath @ cle",
-            "hr/park": "",
-            "pa": "40",
-            "dt": "2025-07-18",
-            "team": "cle",
-            "stadium": "cle",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 20:24:38",
             "player": "jose ramirez",
@@ -6757,11 +6774,11 @@
             "team": "bal",
             "stadium": "tb",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Groundout",
+            "evo": "102.7",
+            "la": "-26",
+            "dist": "8",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -7225,23 +7242,6 @@
         }
     ],
     "det @ tex": [
-        {
-            "created_at": "2025-07-18 20:25:38",
-            "player": "matt vierling",
-            "game": "det @ tex",
-            "hr/park": "",
-            "pa": "8",
-            "dt": "2025-07-18",
-            "team": "det",
-            "stadium": "tex",
-            "in": "2",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-18 20:23:08",
             "player": "spencer torkelson",
