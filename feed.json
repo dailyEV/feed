@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "110",
         "batters": "295",
-        "pitches": "3787",
+        "pitches": "3790",
         "max velomax pitch velocity": "100.4",
         "min velomin pitch velocity": "66.8",
         "ff%fourseam fastball %": "34.2",
@@ -13,11 +13,11 @@
         "sl%slider %": "24.5",
         "cu%curve %": "10.0",
         "max evmax exit velocity": "115.8",
-        "hhhard hit": "292",
-        "hh%hard hit %": "42.0",
+        "hhhard hit": "293",
+        "hh%hard hit %": "42.1",
         "brlbarrels": "68",
         "brl%barrel %": "9.8",
-        "ab": "892",
+        "ab": "893",
         "avg": ".249",
         "h": "222",
         "1b": "131",
@@ -25,10 +25,10 @@
         "3b": "8",
         "hr": "34",
         "so": "212",
-        "bipballs in play": "695",
+        "bipballs in play": "696",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-18 23:00:57.463742"
+        "updated": "2025-07-18 23:01:09.507325"
     },
     "bos @ chc": [
         {
@@ -15237,6 +15237,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-18 23:01:03",
+            "player": "blaze alexander",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-18",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-18 22:58:17",
             "player": "adrian del castillo",
             "game": "stl @ ari",
@@ -15963,10 +15980,10 @@
             "stadium": "sea",
             "in": "4",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "evo": "106.5",
+            "la": "-5",
+            "dist": "25",
+            "is_hh": true,
             "is_brl": false
         },
         {
