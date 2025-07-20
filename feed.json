@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "110",
+        "pitchers": "111",
         "batters": "291",
-        "pitches": "3839",
+        "pitches": "3842",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.4",
@@ -14,10 +14,10 @@
         "cu%curve %": "7.1",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "304",
-        "hh%hard hit %": "41.0",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "54",
         "brl%barrel %": "7.3",
-        "ab": "922",
+        "ab": "923",
         "avg": ".259",
         "h": "239",
         "1b": "143",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "35",
         "so": "200",
-        "bipballs in play": "742",
+        "bipballs in play": "743",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:51:40.560876"
+        "updated": "2025-07-19 22:51:53.065549"
     },
     "sf @ tor": [
         {
@@ -16105,6 +16105,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 22:51:46",
+            "player": "andrew vaughn",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-19",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "6",
+            "result": "Pop Out",
+            "evo": "77.9",
+            "la": "63",
+            "dist": "160",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:48:15",
             "player": "andy pages",
