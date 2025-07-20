@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "108",
+        "pitchers": "109",
         "batters": "290",
-        "pitches": "3756",
+        "pitches": "3761",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "41.0",
         "brlbarrels": "54",
         "brl%barrel %": "7.4",
-        "ab": "905",
-        "avg": ".260",
+        "ab": "906",
+        "avg": ".259",
         "h": "235",
         "1b": "140",
         "2b": "53",
         "3b": "7",
         "hr": "35",
-        "so": "196",
+        "so": "197",
         "bipballs in play": "729",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:38:20.687981"
+        "updated": "2025-07-19 22:38:33.153596"
     },
     "sf @ tor": [
         {
@@ -13510,7 +13510,7 @@
             "team": "atl",
             "stadium": "atl",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -14930,6 +14930,23 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-19 22:38:31",
+            "player": "harrison bader",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:35:32",
             "player": "brenton doyle",
