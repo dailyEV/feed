@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "50",
+        "pitchers": "51",
         "batters": "216",
-        "pitches": "1970",
+        "pitches": "1975",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "28.9",
-        "si%sinker %": "17.8",
+        "ff%fourseam fastball %": "29.1",
+        "si%sinker %": "17.7",
         "fc%cutter %": "13.6",
-        "fs%splitter %": "4.0",
+        "fs%splitter %": "3.9",
         "ch%changeup %": "9.0",
-        "sl%slider %": "19.7",
-        "cu%curve %": "7.1",
+        "sl%slider %": "19.6",
+        "cu%curve %": "7.0",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "143",
         "hh%hard hit %": "38.2",
         "brlbarrels": "27",
         "brl%barrel %": "7.2",
-        "ab": "479",
+        "ab": "480",
         "avg": ".248",
         "h": "119",
         "1b": "71",
@@ -28,7 +28,7 @@
         "bipballs in play": "374",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:19:52.669656"
+        "updated": "2025-07-19 20:20:02.568246"
     },
     "sf @ tor": [
         {
@@ -4579,6 +4579,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-19 20:19:59",
+            "player": "lenyn sosa",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-19",
+            "team": "chw",
+            "stadium": "pit",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:13:45",
             "player": "austin slater",
             "game": "chw @ pit",
@@ -6267,6 +6284,23 @@
         }
     ],
     "det @ tex": [
+        {
+            "created_at": "2025-07-19 20:19:00",
+            "player": "trey sweeney",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-19",
+            "team": "det",
+            "stadium": "tex",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 20:18:29",
             "player": "jake rogers",
@@ -8502,23 +8536,6 @@
         }
     ],
     "nyy @ atl": [
-        {
-            "created_at": "2025-07-19 20:19:29",
-            "player": "nacho alvarez",
-            "game": "nyy @ atl",
-            "hr/park": "",
-            "pa": "30",
-            "dt": "2025-07-19",
-            "team": "atl",
-            "stadium": "atl",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-19 20:19:16",
             "player": "ozzie albies",
