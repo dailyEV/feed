@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "105",
         "batters": "290",
-        "pitches": "3659",
+        "pitches": "3663",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.6",
         "si%sinker %": "15.2",
         "fc%cutter %": "10.5",
         "fs%splitter %": "5.0",
@@ -14,10 +14,10 @@
         "cu%curve %": "6.8",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "286",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "52",
         "brl%barrel %": "7.3",
-        "ab": "883",
+        "ab": "884",
         "avg": ".259",
         "h": "229",
         "1b": "136",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "34",
         "so": "191",
-        "bipballs in play": "710",
+        "bipballs in play": "711",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:23:58.686088"
+        "updated": "2025-07-19 22:24:10.720761"
     },
     "sf @ tor": [
         {
@@ -14795,6 +14795,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 22:24:02",
+            "player": "carlos correa",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:22:00",
             "player": "kody clemens",
             "game": "min @ col",
@@ -14804,10 +14821,10 @@
             "team": "min",
             "stadium": "col",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Groundout",
+            "evo": "89.9",
+            "la": "-16",
+            "dist": "6",
             "is_hh": false,
             "is_brl": false
         },
