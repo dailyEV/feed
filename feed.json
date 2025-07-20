@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "72",
         "batters": "234",
-        "pitches": "2679",
+        "pitches": "2683",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.1",
         "si%sinker %": "16.5",
         "fc%cutter %": "12.4",
         "fs%splitter %": "4.4",
-        "ch%changeup %": "9.3",
-        "sl%slider %": "20.0",
+        "ch%changeup %": "9.2",
+        "sl%slider %": "20.1",
         "cu%curve %": "6.3",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "196",
         "hh%hard hit %": "37.3",
         "brlbarrels": "34",
         "brl%barrel %": "6.5",
-        "ab": "658",
-        "avg": ".257",
+        "ab": "659",
+        "avg": ".256",
         "h": "169",
         "1b": "103",
         "2b": "42",
@@ -28,7 +28,7 @@
         "bipballs in play": "526",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 21:05:05.005301"
+        "updated": "2025-07-19 21:05:15.480819"
     },
     "sf @ tor": [
         {
@@ -8625,7 +8625,7 @@
             "team": "ath",
             "stadium": "cle",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -11375,6 +11375,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-19 21:05:15",
+            "player": "giancarlo stanton",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-19",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:03:30",
             "player": "aaron judge",
