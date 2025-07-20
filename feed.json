@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "96",
         "batters": "276",
-        "pitches": "3404",
+        "pitches": "3408",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
-        "si%sinker %": "15.4",
+        "si%sinker %": "15.3",
         "fc%cutter %": "10.9",
         "fs%splitter %": "5.2",
         "ch%changeup %": "9.6",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.0",
         "brlbarrels": "45",
         "brl%barrel %": "6.8",
-        "ab": "832",
+        "ab": "833",
         "avg": ".258",
         "h": "215",
         "1b": "128",
@@ -28,7 +28,7 @@
         "bipballs in play": "665",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:52:02.548981"
+        "updated": "2025-07-19 21:52:14.381176"
     },
     "sf @ tor": [
         {
@@ -14437,6 +14437,23 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-19 21:52:14",
+            "player": "byron buxton",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "38",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:51:44",
             "player": "harrison bader",
