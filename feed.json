@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "71",
-        "batters": "229",
-        "pitches": "2593",
+        "pitchers": "72",
+        "batters": "231",
+        "pitches": "2605",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "30.7",
@@ -11,13 +11,13 @@
         "fs%splitter %": "4.3",
         "ch%changeup %": "9.1",
         "sl%slider %": "20.0",
-        "cu%curve %": "6.4",
+        "cu%curve %": "6.3",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "192",
         "hh%hard hit %": "38.0",
         "brlbarrels": "33",
         "brl%barrel %": "6.5",
-        "ab": "635",
+        "ab": "637",
         "avg": ".250",
         "h": "159",
         "1b": "96",
@@ -28,7 +28,7 @@
         "bipballs in play": "505",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:59:38.308662"
+        "updated": "2025-07-19 20:59:48.794202"
     },
     "sf @ tor": [
         {
@@ -7577,6 +7577,23 @@
     ],
     "det @ tex": [
         {
+            "created_at": "2025-07-19 20:59:45",
+            "player": "matt vierling",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-19",
+            "team": "det",
+            "stadium": "tex",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:57:00",
             "player": "zach mckinstry",
             "game": "det @ tex",
@@ -11019,6 +11036,23 @@
     ],
     "nyy @ atl": [
         {
+            "created_at": "2025-07-19 20:59:45",
+            "player": "cody bellinger",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-19",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:56:29",
             "player": "nacho alvarez",
             "game": "nyy @ atl",
@@ -11769,6 +11803,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 20:59:45",
+            "player": "ryan mcmahon",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "1",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:57:32",
             "player": "jordan beck",
             "game": "min @ col",
@@ -11778,7 +11829,7 @@
             "team": "col",
             "stadium": "col",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
