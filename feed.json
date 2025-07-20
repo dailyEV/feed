@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "118",
+        "pitchers": "119",
         "batters": "293",
-        "pitches": "4024",
+        "pitches": "4025",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.0",
@@ -13,11 +13,11 @@
         "sl%slider %": "21.5",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "316",
-        "hh%hard hit %": "40.9",
-        "brlbarrels": "56",
-        "brl%barrel %": "7.3",
-        "ab": "964",
+        "hhhard hit": "317",
+        "hh%hard hit %": "41.0",
+        "brlbarrels": "57",
+        "brl%barrel %": "7.4",
+        "ab": "965",
         "avg": ".263",
         "h": "254",
         "1b": "152",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "36",
         "so": "214",
-        "bipballs in play": "772",
+        "bipballs in play": "773",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:30:40.213279"
+        "updated": "2025-07-19 23:30:52.751858"
     },
     "sf @ tor": [
         {
@@ -17433,6 +17433,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 23:30:46",
+            "player": "cal raleigh",
+            "game": "hou @ sea",
+            "hr/park": "9/30",
+            "pa": "46",
+            "dt": "2025-07-19",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "108.8",
+            "la": "39",
+            "dist": "386",
+            "is_hh": true,
+            "is_brl": true
+        },
         {
             "created_at": "2025-07-19 23:27:46",
             "player": "chas mccormick",
