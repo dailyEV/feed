@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "63",
         "batters": "221",
-        "pitches": "2326",
+        "pitches": "2330",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "29.6",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.8",
         "brlbarrels": "29",
         "brl%barrel %": "6.4",
-        "ab": "572",
-        "avg": ".259",
+        "ab": "573",
+        "avg": ".258",
         "h": "148",
         "1b": "90",
         "2b": "36",
         "3b": "4",
         "hr": "18",
-        "so": "123",
+        "so": "125",
         "bipballs in play": "455",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:43:04.716555"
+        "updated": "2025-07-19 20:43:14.719189"
     },
     "sf @ tor": [
         {
@@ -7084,6 +7084,23 @@
     ],
     "det @ tex": [
         {
+            "created_at": "2025-07-19 20:43:14",
+            "player": "wyatt langford",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-07-19",
+            "team": "tex",
+            "stadium": "tex",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:42:14",
             "player": "evan carter",
             "game": "det @ tex",
@@ -7860,7 +7877,7 @@
             "team": "ath",
             "stadium": "cle",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -9309,7 +9326,7 @@
             "team": "stl",
             "stadium": "ari",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
