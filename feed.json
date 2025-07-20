@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "114",
         "batters": "292",
-        "pitches": "3916",
+        "pitches": "3921",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.1",
         "si%sinker %": "14.6",
-        "fc%cutter %": "10.6",
+        "fc%cutter %": "10.7",
         "fs%splitter %": "4.6",
         "ch%changeup %": "10.5",
         "sl%slider %": "21.2",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "41.2",
         "brlbarrels": "54",
         "brl%barrel %": "7.2",
-        "ab": "938",
+        "ab": "939",
         "avg": ".261",
         "h": "245",
         "1b": "145",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "36",
         "so": "205",
-        "bipballs in play": "754",
+        "bipballs in play": "755",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:04:58.510181"
+        "updated": "2025-07-19 23:05:18.928630"
     },
     "sf @ tor": [
         {
@@ -16208,6 +16208,23 @@
     ],
     "mil @ lad": [
         {
+            "created_at": "2025-07-19 23:05:15",
+            "player": "miguel rojas",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "82.8",
+            "la": "12",
+            "dist": "200",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 23:02:46",
             "player": "hyeseong kim",
             "game": "mil @ lad",
@@ -17128,6 +17145,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-19 23:05:15",
+            "player": "brice matthews",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "35",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 23:04:03",
             "player": "mauricio dubon",
             "game": "hou @ sea",
@@ -17137,7 +17171,7 @@
             "team": "hou",
             "stadium": "sea",
             "in": "4",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
