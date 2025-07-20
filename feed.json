@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "51",
+        "pitchers": "52",
         "batters": "216",
-        "pitches": "1975",
+        "pitches": "1978",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "29.1",
-        "si%sinker %": "17.7",
-        "fc%cutter %": "13.6",
+        "ff%fourseam fastball %": "28.9",
+        "si%sinker %": "17.8",
+        "fc%cutter %": "13.7",
         "fs%splitter %": "3.9",
-        "ch%changeup %": "9.0",
-        "sl%slider %": "19.6",
+        "ch%changeup %": "8.9",
+        "sl%slider %": "19.7",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "143",
         "hh%hard hit %": "38.2",
         "brlbarrels": "27",
         "brl%barrel %": "7.2",
-        "ab": "480",
-        "avg": ".248",
+        "ab": "481",
+        "avg": ".247",
         "h": "119",
         "1b": "71",
         "2b": "28",
@@ -28,7 +28,7 @@
         "bipballs in play": "374",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:20:12.453503"
+        "updated": "2025-07-19 20:20:21.945722"
     },
     "sf @ tor": [
         {
@@ -3574,6 +3574,23 @@
     ],
     "laa @ phi": [
         {
+            "created_at": "2025-07-19 20:20:15",
+            "player": "zach neto",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-19",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:15:45",
             "player": "jt realmuto",
             "game": "laa @ phi",
@@ -6285,23 +6302,6 @@
     ],
     "det @ tex": [
         {
-            "created_at": "2025-07-19 20:19:00",
-            "player": "trey sweeney",
-            "game": "det @ tex",
-            "hr/park": "",
-            "pa": "34",
-            "dt": "2025-07-19",
-            "team": "det",
-            "stadium": "tex",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 20:18:29",
             "player": "jake rogers",
             "game": "det @ tex",
@@ -7478,6 +7478,23 @@
         }
     ],
     "bos @ chc": [
+        {
+            "created_at": "2025-07-19 20:20:15",
+            "player": "dansby swanson",
+            "game": "bos @ chc",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-19",
+            "team": "chc",
+            "stadium": "chc",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 20:17:01",
             "player": "masataka yoshida",
