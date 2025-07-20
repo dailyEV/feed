@@ -5,12 +5,13 @@ import git
 
 def commitChanges():
 	repo = git.Repo(".")
-	repo.git.add(A=True)
-	repo.index.commit("test")
+	if repo.is_dirty():
+		repo.git.add(A=True)
+		repo.index.commit("test")
 
-	origin = repo.remote(name="origin")
-	origin.push()
-	#print("Successful commit")
+		origin = repo.remote(name="origin")
+		origin.push()
+		#print("Successful commit")
 
 def isHH(data):
 	ev = float(data["evo"] or 0)

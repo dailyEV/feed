@@ -172,7 +172,17 @@ def parseFeed(date, data, times, games, totGames, soup, inserted):
 			data[game].append(j)
 
 	with open("feed.json", "w") as fh:
-		json.dump(data, fh, indent=4)
+		json.dump(data, fh)
+
+	with open("updated") as fh:
+		updated = float(fh.read().strip() or 0)
+	now = time.time()
+	if now - updated >= 5*60:
+		with open("feed_free.json", "w") as fh:
+			json.dump(data, fh)
+		with open("updated", "w") as fh:
+			fh.write(str(now))
+			
 	with open("feed_times.json", "w") as fh:
 		json.dump(times, fh, indent=4)
 	with open("feed_times_historical.json") as fh:
