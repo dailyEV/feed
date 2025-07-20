@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "106",
         "batters": "290",
-        "pitches": "3682",
+        "pitches": "3686",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "15.2",
+        "si%sinker %": "15.1",
         "fc%cutter %": "10.4",
         "fs%splitter %": "4.9",
         "ch%changeup %": "10.4",
@@ -14,21 +14,21 @@
         "cu%curve %": "6.8",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "287",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "53",
         "brl%barrel %": "7.4",
-        "ab": "886",
-        "avg": ".260",
+        "ab": "888",
+        "avg": ".259",
         "h": "230",
         "1b": "136",
         "2b": "53",
         "3b": "7",
         "hr": "34",
         "so": "192",
-        "bipballs in play": "713",
+        "bipballs in play": "714",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:27:09.684313"
+        "updated": "2025-07-19 22:27:22.149326"
     },
     "sf @ tor": [
         {
@@ -14846,6 +14846,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 22:27:15",
+            "player": "brooks lee",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "7",
+            "result": "Forceout",
+            "evo": "87.5",
+            "la": "-11",
+            "dist": "12",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:24:02",
             "player": "carlos correa",
             "game": "min @ col",
@@ -16379,6 +16396,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 22:27:15",
+            "player": "isaac paredes",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "20",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:23:01",
             "player": "jp crawford",
