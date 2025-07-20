@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "95",
         "batters": "274",
-        "pitches": "3363",
+        "pitches": "3368",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.6",
         "si%sinker %": "15.3",
-        "fc%cutter %": "10.8",
+        "fc%cutter %": "10.9",
         "fs%splitter %": "5.3",
         "ch%changeup %": "9.6",
         "sl%slider %": "20.6",
@@ -28,7 +28,7 @@
         "bipballs in play": "658",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:47:28.484741"
+        "updated": "2025-07-19 21:47:39.691196"
     },
     "sf @ tor": [
         {
@@ -7268,6 +7268,23 @@
         }
     ],
     "bal @ tb": [
+        {
+            "created_at": "2025-07-19 21:47:31",
+            "player": "jackson holliday",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-07-19",
+            "team": "bal",
+            "stadium": "tb",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:45:03",
             "player": "cedric mullins",
@@ -14959,7 +14976,7 @@
             "team": "mil",
             "stadium": "lad",
             "in": "3",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
