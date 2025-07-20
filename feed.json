@@ -1,13 +1,13 @@
 {
     "all": {
         "pitchers": "93",
-        "batters": "262",
-        "pitches": "3237",
+        "batters": "264",
+        "pitches": "3240",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.4",
+        "ff%fourseam fastball %": "31.5",
         "si%sinker %": "15.4",
-        "fc%cutter %": "11.1",
+        "fc%cutter %": "11.0",
         "fs%splitter %": "5.4",
         "ch%changeup %": "9.6",
         "sl%slider %": "20.4",
@@ -16,19 +16,19 @@
         "hhhard hit": "249",
         "hh%hard hit %": "39.3",
         "brlbarrels": "44",
-        "brl%barrel %": "7.0",
-        "ab": "790",
+        "brl%barrel %": "6.9",
+        "ab": "792",
         "avg": ".256",
-        "h": "202",
-        "1b": "118",
+        "h": "203",
+        "1b": "119",
         "2b": "48",
         "3b": "6",
         "hr": "30",
         "so": "172",
-        "bipballs in play": "633",
+        "bipballs in play": "634",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:38:18.597519"
+        "updated": "2025-07-19 21:38:29.829272"
     },
     "sf @ tor": [
         {
@@ -13042,23 +13042,6 @@
     ],
     "nyy @ atl": [
         {
-            "created_at": "2025-07-19 21:38:14",
-            "player": "aaron judge",
-            "game": "nyy @ atl",
-            "hr/park": "",
-            "pa": "60",
-            "dt": "2025-07-19",
-            "team": "nyy",
-            "stadium": "atl",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 21:37:29",
             "player": "cody bellinger",
             "game": "nyy @ atl",
@@ -14064,6 +14047,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 21:38:29",
+            "player": "kody clemens",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "29",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:36:01",
             "player": "ezequiel tovar",
             "game": "min @ col",
@@ -14541,6 +14541,40 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 21:38:29",
+            "player": "tommy edman",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-19 21:38:29",
+            "player": "michael conforto",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "2",
+            "result": "Single",
+            "evo": "92.2",
+            "la": "",
+            "dist": "48",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:36:30",
             "player": "andy pages",
