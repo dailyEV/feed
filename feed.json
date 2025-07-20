@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "104",
         "batters": "289",
-        "pitches": "3626",
+        "pitches": "3627",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.6",
@@ -13,11 +13,11 @@
         "sl%slider %": "20.7",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "284",
-        "hh%hard hit %": "40.3",
+        "hhhard hit": "285",
+        "hh%hard hit %": "40.4",
         "brlbarrels": "51",
         "brl%barrel %": "7.2",
-        "ab": "877",
+        "ab": "878",
         "avg": ".260",
         "h": "228",
         "1b": "136",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "33",
         "so": "189",
-        "bipballs in play": "705",
+        "bipballs in play": "706",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:18:57.974811"
+        "updated": "2025-07-19 22:19:09.817276"
     },
     "sf @ tor": [
         {
@@ -14778,11 +14778,11 @@
     ],
     "min @ col": [
         {
-            "created_at": "2025-07-19 22:18:29",
-            "player": "hunter goodman",
+            "created_at": "2025-07-19 22:19:01",
+            "player": "jordan beck",
             "game": "min @ col",
             "hr/park": "",
-            "pa": "52",
+            "pa": "53",
             "dt": "2025-07-19",
             "team": "col",
             "stadium": "col",
@@ -14792,6 +14792,23 @@
             "la": "",
             "dist": "",
             "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-19 22:18:29",
+            "player": "hunter goodman",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "97.0",
+            "la": "6",
+            "dist": "123",
+            "is_hh": true,
             "is_brl": false
         },
         {
