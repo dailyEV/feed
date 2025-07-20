@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "107",
         "batters": "290",
-        "pitches": "3728",
+        "pitches": "3733",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.9",
         "cu%curve %": "6.8",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "292",
-        "hh%hard hit %": "40.5",
+        "hhhard hit": "293",
+        "hh%hard hit %": "40.6",
         "brlbarrels": "54",
         "brl%barrel %": "7.5",
-        "ab": "896",
-        "avg": ".260",
+        "ab": "898",
+        "avg": ".259",
         "h": "233",
         "1b": "138",
         "2b": "53",
         "3b": "7",
         "hr": "35",
         "so": "195",
-        "bipballs in play": "721",
+        "bipballs in play": "722",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:34:13.604549"
+        "updated": "2025-07-19 22:34:26.181595"
     },
     "sf @ tor": [
         {
@@ -14897,6 +14897,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 22:34:17",
+            "player": "michael toglia",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "60",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "103.6",
+            "la": "-13",
+            "dist": "12",
+            "is_hh": true,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:32:15",
             "player": "ezequiel tovar",
             "game": "min @ col",
@@ -15901,6 +15918,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 22:34:17",
+            "player": "hyeseong kim",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "4",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:31:44",
             "player": "brice turang",
