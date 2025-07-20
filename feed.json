@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "64",
-        "batters": "222",
-        "pitches": "2423",
+        "pitchers": "65",
+        "batters": "223",
+        "pitches": "2431",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.6",
-        "ff%fourseam fastball %": "29.7",
-        "si%sinker %": "17.0",
-        "fc%cutter %": "13.0",
+        "ff%fourseam fastball %": "29.8",
+        "si%sinker %": "17.1",
+        "fc%cutter %": "12.9",
         "fs%splitter %": "4.4",
         "ch%changeup %": "9.3",
         "sl%slider %": "20.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "37.7",
         "brlbarrels": "31",
         "brl%barrel %": "6.6",
-        "ab": "593",
-        "avg": ".255",
+        "ab": "594",
+        "avg": ".254",
         "h": "151",
         "1b": "90",
         "2b": "38",
         "3b": "4",
         "hr": "19",
-        "so": "129",
+        "so": "131",
         "bipballs in play": "472",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:49:08.801255"
+        "updated": "2025-07-19 20:49:19.095323"
     },
     "sf @ tor": [
         {
@@ -3583,7 +3583,7 @@
             "team": "phi",
             "stadium": "phi",
             "in": "8",
-            "result": "In Progress",
+            "result": "Pop Out",
             "evo": "84.2",
             "la": "64",
             "dist": "143",
@@ -5950,7 +5950,7 @@
             "team": "wsh",
             "stadium": "wsh",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "108.1",
             "la": "-5",
             "dist": "19",
@@ -7280,7 +7280,7 @@
             "team": "tex",
             "stadium": "tex",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -8098,7 +8098,7 @@
             "team": "cle",
             "stadium": "cle",
             "in": "6",
-            "result": "Batter Timeout",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -11138,7 +11138,25 @@
             "is_brl": false
         }
     ],
-    "min @ col": [],
+    "min @ col": [
+        {
+            "created_at": "2025-07-19 20:49:15",
+            "player": "byron buxton",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "1",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        }
+    ],
     "mil @ lad": [],
     "hou @ sea": []
 }
