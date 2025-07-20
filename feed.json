@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "70",
         "batters": "227",
-        "pitches": "2548",
+        "pitches": "2551",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "30.6",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.0",
         "cu%curve %": "6.4",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "189",
-        "hh%hard hit %": "38.0",
-        "brlbarrels": "32",
-        "brl%barrel %": "6.4",
-        "ab": "624",
-        "avg": ".250",
-        "h": "156",
+        "hhhard hit": "190",
+        "hh%hard hit %": "38.2",
+        "brlbarrels": "33",
+        "brl%barrel %": "6.6",
+        "ab": "626",
+        "avg": ".251",
+        "h": "157",
         "1b": "95",
         "2b": "38",
         "3b": "4",
-        "hr": "19",
+        "hr": "20",
         "so": "135",
-        "bipballs in play": "497",
+        "bipballs in play": "498",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:56:20.764687"
+        "updated": "2025-07-19 20:56:31.467124"
     },
     "sf @ tor": [
         {
@@ -10031,11 +10031,11 @@
     ],
     "stl @ ari": [
         {
-            "created_at": "2025-07-19 20:53:29",
-            "player": "alec burleson",
+            "created_at": "2025-07-19 20:55:15",
+            "player": "willson contreras",
             "game": "stl @ ari",
             "hr/park": "",
-            "pa": "49",
+            "pa": "50",
             "dt": "2025-07-19",
             "team": "stl",
             "stadium": "ari",
@@ -10046,6 +10046,23 @@
             "dist": "",
             "is_hh": false,
             "is_brl": false
+        },
+        {
+            "created_at": "2025-07-19 20:53:29",
+            "player": "alec burleson",
+            "game": "stl @ ari",
+            "hr/park": "30/30",
+            "pa": "49",
+            "dt": "2025-07-19",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "6",
+            "result": "Home Run",
+            "evo": "107.4",
+            "la": "27",
+            "dist": "443",
+            "is_hh": true,
+            "is_brl": true
         },
         {
             "created_at": "2025-07-19 20:51:30",
@@ -10865,6 +10882,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-19 20:56:29",
+            "player": "nacho alvarez",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-19",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "5",
+            "result": "Stolen Base 2B",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 20:54:30",
             "player": "ozzie albies",
