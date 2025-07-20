@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "87",
+        "pitchers": "89",
         "batters": "259",
-        "pitches": "3121",
+        "pitches": "3124",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.8",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.2",
         "cu%curve %": "6.5",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "236",
+        "hhhard hit": "237",
         "hh%hard hit %": "38.9",
         "brlbarrels": "43",
         "brl%barrel %": "7.1",
-        "ab": "760",
-        "avg": ".255",
+        "ab": "763",
+        "avg": ".254",
         "h": "194",
         "1b": "113",
         "2b": "47",
         "3b": "6",
         "hr": "28",
         "so": "167",
-        "bipballs in play": "606",
+        "bipballs in play": "609",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:30:23.862154"
+        "updated": "2025-07-19 21:30:35.525258"
     },
     "sf @ tor": [
         {
@@ -9381,6 +9381,23 @@
     ],
     "ath @ cle": [
         {
+            "created_at": "2025-07-19 21:29:59",
+            "player": "nolan jones",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-19",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:27:00",
             "player": "shea langeliers",
             "game": "ath @ cle",
@@ -11629,6 +11646,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-19 21:30:29",
+            "player": "alek thomas",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-19",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "8",
+            "result": "Groundout",
+            "evo": "80.1",
+            "la": "-40",
+            "dist": "4",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:26:32",
             "player": "alec burleson",
             "game": "stl @ ari",
@@ -12719,6 +12753,23 @@
     ],
     "nyy @ atl": [
         {
+            "created_at": "2025-07-19 21:29:59",
+            "player": "nick allen",
+            "game": "nyy @ atl",
+            "hr/park": "0/30",
+            "pa": "55",
+            "dt": "2025-07-19",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "102.0",
+            "la": "15",
+            "dist": "317",
+            "is_hh": true,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:28:15",
             "player": "michael harris",
             "game": "nyy @ atl",
@@ -12728,10 +12779,10 @@
             "team": "atl",
             "stadium": "atl",
             "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Lineout",
+            "evo": "73.2",
+            "la": "14",
+            "dist": "144",
             "is_hh": false,
             "is_brl": false
         },
