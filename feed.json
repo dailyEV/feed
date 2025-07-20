@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "101",
-        "batters": "285",
-        "pitches": "3557",
+        "pitchers": "102",
+        "batters": "286",
+        "pitches": "3560",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "10.7",
         "fs%splitter %": "5.0",
         "ch%changeup %": "10.0",
-        "sl%slider %": "20.8",
+        "sl%slider %": "20.9",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "280",
-        "hh%hard hit %": "40.3",
-        "brlbarrels": "50",
-        "brl%barrel %": "7.2",
-        "ab": "862",
-        "avg": ".260",
+        "hhhard hit": "279",
+        "hh%hard hit %": "40.2",
+        "brlbarrels": "49",
+        "brl%barrel %": "7.1",
+        "ab": "864",
+        "avg": ".259",
         "h": "224",
         "1b": "134",
         "2b": "50",
         "3b": "7",
         "hr": "33",
         "so": "186",
-        "bipballs in play": "695",
+        "bipballs in play": "694",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:11:03.789258"
+        "updated": "2025-07-19 22:11:15.245004"
     },
     "sf @ tor": [
         {
@@ -14659,6 +14659,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 22:11:15",
+            "player": "brenton doyle",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "48",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:09:01",
             "player": "ryan jeffers",
             "game": "min @ col",
@@ -15470,11 +15487,11 @@
             "stadium": "lad",
             "in": "3",
             "result": "In Progress",
-            "evo": "105.1",
-            "la": "19",
-            "dist": "364",
-            "is_hh": true,
-            "is_brl": true
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
         },
         {
             "created_at": "2025-07-19 22:07:01",
@@ -15937,6 +15954,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 22:11:15",
+            "player": "jorge polanco",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "14",
+            "dt": "2025-07-19",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:07:59",
             "player": "randy arozarena",
