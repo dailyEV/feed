@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "93",
         "batters": "267",
-        "pitches": "3277",
+        "pitches": "3284",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "39.7",
         "brlbarrels": "44",
         "brl%barrel %": "6.9",
-        "ab": "802",
-        "avg": ".256",
+        "ab": "804",
+        "avg": ".255",
         "h": "205",
         "1b": "120",
         "2b": "49",
         "3b": "6",
         "hr": "30",
-        "so": "174",
+        "so": "175",
         "bipballs in play": "640",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:40:48.212484"
+        "updated": "2025-07-19 21:40:59.591495"
     },
     "sf @ tor": [
         {
@@ -10760,6 +10760,23 @@
     ],
     "bos @ chc": [
         {
+            "created_at": "2025-07-19 21:40:59",
+            "player": "ceddanne rafaela",
+            "game": "bos @ chc",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-19",
+            "team": "bos",
+            "stadium": "chc",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:39:45",
             "player": "trevor story",
             "game": "bos @ chc",
@@ -10769,7 +10786,7 @@
             "team": "bos",
             "stadium": "chc",
             "in": "9",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -13143,6 +13160,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-19 21:40:59",
+            "player": "giancarlo stanton",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-19",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:38:14",
             "player": "aaron judge",
