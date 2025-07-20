@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "98",
+        "pitchers": "99",
         "batters": "278",
-        "pitches": "3451",
+        "pitches": "3452",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.4",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "39.9",
         "brlbarrels": "45",
         "brl%barrel %": "6.7",
-        "ab": "839",
-        "avg": ".260",
-        "h": "218",
-        "1b": "131",
+        "ab": "840",
+        "avg": ".258",
+        "h": "217",
+        "1b": "130",
         "2b": "50",
         "3b": "7",
         "hr": "30",
@@ -28,7 +28,7 @@
         "bipballs in play": "674",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:57:58.922339"
+        "updated": "2025-07-19 21:58:10.293116"
     },
     "sf @ tor": [
         {
@@ -13365,6 +13365,23 @@
     ],
     "nyy @ atl": [
         {
+            "created_at": "2025-07-19 21:58:02",
+            "player": "michael harris",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-07-19",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:53:45",
             "player": "nacho alvarez",
             "game": "nyy @ atl",
@@ -14498,7 +14515,7 @@
             "team": "col",
             "stadium": "col",
             "in": "5",
-            "result": "Single",
+            "result": "In Progress",
             "evo": "56.6",
             "la": "-54",
             "dist": "3",
