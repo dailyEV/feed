@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "109",
         "batters": "291",
-        "pitches": "3835",
+        "pitches": "3836",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.4",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "41.0",
         "brlbarrels": "54",
         "brl%barrel %": "7.3",
-        "ab": "920",
-        "avg": ".259",
-        "h": "238",
-        "1b": "142",
+        "ab": "921",
+        "avg": ".260",
+        "h": "239",
+        "1b": "143",
         "2b": "54",
         "3b": "7",
         "hr": "35",
@@ -28,7 +28,7 @@
         "bipballs in play": "742",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:50:13.350776"
+        "updated": "2025-07-19 22:50:25.740072"
     },
     "sf @ tor": [
         {
@@ -16873,6 +16873,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-19 22:50:17",
+            "player": "dominic canzone",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-19",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:48:00",
             "player": "luke raley",
             "game": "hou @ sea",
@@ -16882,7 +16899,7 @@
             "team": "sea",
             "stadium": "sea",
             "in": "3",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "96.6",
             "la": "1",
             "dist": "56",
