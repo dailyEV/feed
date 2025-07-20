@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "101",
         "batters": "285",
-        "pitches": "3544",
+        "pitches": "3547",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.2",
         "brlbarrels": "49",
         "brl%barrel %": "7.1",
-        "ab": "860",
+        "ab": "861",
         "avg": ".259",
         "h": "223",
         "1b": "133",
@@ -28,7 +28,7 @@
         "bipballs in play": "691",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:08:55.357327"
+        "updated": "2025-07-19 22:09:06.966654"
     },
     "sf @ tor": [
         {
@@ -13442,7 +13442,7 @@
             "team": "nyy",
             "stadium": "atl",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -14658,6 +14658,23 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-19 22:09:01",
+            "player": "ryan jeffers",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:07:30",
             "player": "trevor larnach",
