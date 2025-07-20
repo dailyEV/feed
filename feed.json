@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "96",
         "batters": "275",
-        "pitches": "3392",
+        "pitches": "3395",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.1",
         "brlbarrels": "45",
         "brl%barrel %": "6.8",
-        "ab": "829",
+        "ab": "830",
         "avg": ".259",
         "h": "215",
         "1b": "128",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "30",
         "so": "180",
-        "bipballs in play": "663",
+        "bipballs in play": "664",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:50:54.180130"
+        "updated": "2025-07-19 21:51:05.442944"
     },
     "sf @ tor": [
         {
@@ -6348,6 +6348,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-19 21:50:59",
+            "player": "fernando tatis",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "56",
+            "dt": "2025-07-19",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:48:46",
             "player": "cj abrams",
@@ -14421,6 +14438,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 21:50:59",
+            "player": "matt wallner",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "36",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "5",
+            "result": "Pop Out",
+            "evo": "91.2",
+            "la": "76",
+            "dist": "121",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:46:46",
             "player": "tyler freeman",
             "game": "min @ col",
@@ -15027,7 +15061,7 @@
             "team": "mil",
             "stadium": "lad",
             "in": "3",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -15369,7 +15403,7 @@
             "team": "hou",
             "stadium": "sea",
             "in": "1",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
