@@ -1,13 +1,13 @@
 {
     "all": {
-        "pitchers": "73",
+        "pitchers": "74",
         "batters": "235",
-        "pitches": "2703",
+        "pitches": "2711",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.0",
-        "si%sinker %": "16.5",
-        "fc%cutter %": "12.3",
+        "ff%fourseam fastball %": "31.1",
+        "si%sinker %": "16.4",
+        "fc%cutter %": "12.2",
         "fs%splitter %": "4.4",
         "ch%changeup %": "9.2",
         "sl%slider %": "20.4",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "21",
         "so": "142",
-        "bipballs in play": "530",
+        "bipballs in play": "531",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 21:06:51.038055"
+        "updated": "2025-07-19 21:07:01.617359"
     },
     "sf @ tor": [
         {
@@ -4902,6 +4902,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-19 21:06:59",
+            "player": "spencer horwitz",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "75",
+            "dt": "2025-07-19",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:02:30",
             "player": "kyle teel",
             "game": "chw @ pit",
@@ -6154,7 +6171,7 @@
             "team": "wsh",
             "stadium": "wsh",
             "in": "5",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
@@ -6785,10 +6802,10 @@
             "team": "bal",
             "stadium": "tb",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Forceout",
+            "evo": "81.9",
+            "la": "-7",
+            "dist": "20",
             "is_hh": false,
             "is_brl": false
         },
