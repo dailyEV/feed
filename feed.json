@@ -1,20 +1,20 @@
 {
     "all": {
         "pitchers": "49",
-        "batters": "212",
-        "pitches": "1891",
+        "batters": "213",
+        "pitches": "1892",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "28.7",
+        "ff%fourseam fastball %": "28.6",
         "si%sinker %": "18.0",
-        "fc%cutter %": "13.9",
+        "fc%cutter %": "13.8",
         "fs%splitter %": "4.0",
-        "ch%changeup %": "8.7",
+        "ch%changeup %": "8.8",
         "sl%slider %": "19.6",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "132",
-        "hh%hard hit %": "37.2",
+        "hhhard hit": "133",
+        "hh%hard hit %": "37.4",
         "brlbarrels": "25",
         "brl%barrel %": "7.0",
         "ab": "457",
@@ -25,10 +25,10 @@
         "3b": "3",
         "hr": "16",
         "so": "105",
-        "bipballs in play": "355",
+        "bipballs in play": "356",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:14:11.766815"
+        "updated": "2025-07-19 20:14:21.372579"
     },
     "sf @ tor": [
         {
@@ -5380,11 +5380,11 @@
     ],
     "sd @ wsh": [
         {
-            "created_at": "2025-07-19 20:13:00",
-            "player": "nathaniel lowe",
+            "created_at": "2025-07-19 20:14:14",
+            "player": "brady house",
             "game": "sd @ wsh",
             "hr/park": "",
-            "pa": "11",
+            "pa": "12",
             "dt": "2025-07-19",
             "team": "wsh",
             "stadium": "wsh",
@@ -5394,6 +5394,23 @@
             "la": "",
             "dist": "",
             "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-19 20:13:00",
+            "player": "nathaniel lowe",
+            "game": "sd @ wsh",
+            "hr/park": "0/30",
+            "pa": "11",
+            "dt": "2025-07-19",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "2",
+            "result": "Lineout",
+            "evo": "97.0",
+            "la": "21",
+            "dist": "352",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -5568,23 +5585,6 @@
         }
     ],
     "bal @ tb": [
-        {
-            "created_at": "2025-07-19 20:13:45",
-            "player": "jackson holliday",
-            "game": "bal @ tb",
-            "hr/park": "",
-            "pa": "33",
-            "dt": "2025-07-19",
-            "team": "bal",
-            "stadium": "tb",
-            "in": "5",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-19 20:13:45",
             "player": "jacob stallings",
