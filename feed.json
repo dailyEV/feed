@@ -1,15 +1,15 @@
 {
     "all": {
-        "pitchers": "92",
+        "pitchers": "93",
         "batters": "262",
-        "pitches": "3232",
+        "pitches": "3233",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
         "si%sinker %": "15.4",
-        "fc%cutter %": "11.0",
+        "fc%cutter %": "11.1",
         "fs%splitter %": "5.4",
-        "ch%changeup %": "9.7",
+        "ch%changeup %": "9.6",
         "sl%slider %": "20.4",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "113.0",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "39.3",
         "brlbarrels": "44",
         "brl%barrel %": "7.0",
-        "ab": "788",
+        "ab": "789",
         "avg": ".255",
         "h": "201",
         "1b": "118",
@@ -28,7 +28,7 @@
         "bipballs in play": "633",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:37:56.097131"
+        "updated": "2025-07-19 21:38:07.172586"
     },
     "sf @ tor": [
         {
@@ -10708,6 +10708,23 @@
         }
     ],
     "bos @ chc": [
+        {
+            "created_at": "2025-07-19 21:38:01",
+            "player": "roman anthony",
+            "game": "bos @ chc",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-19",
+            "team": "bos",
+            "stadium": "chc",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:33:59",
             "player": "michael busch",
