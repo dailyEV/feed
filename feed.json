@@ -2,33 +2,33 @@
     "all": {
         "pitchers": "90",
         "batters": "259",
-        "pitches": "3154",
+        "pitches": "3163",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.8",
+        "ff%fourseam fastball %": "31.7",
         "si%sinker %": "15.5",
-        "fc%cutter %": "11.1",
+        "fc%cutter %": "11.0",
         "fs%splitter %": "5.4",
-        "ch%changeup %": "9.4",
+        "ch%changeup %": "9.5",
         "sl%slider %": "20.3",
         "cu%curve %": "6.5",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "239",
-        "hh%hard hit %": "39.0",
+        "hhhard hit": "240",
+        "hh%hard hit %": "39.1",
         "brlbarrels": "43",
         "brl%barrel %": "7.0",
-        "ab": "767",
-        "avg": ".253",
+        "ab": "770",
+        "avg": ".252",
         "h": "194",
         "1b": "113",
         "2b": "47",
         "3b": "6",
         "hr": "28",
         "so": "168",
-        "bipballs in play": "613",
+        "bipballs in play": "614",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:32:28.316487"
+        "updated": "2025-07-19 21:32:39.535880"
     },
     "sf @ tor": [
         {
@@ -6358,11 +6358,11 @@
             "team": "sd",
             "stadium": "wsh",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Groundout",
+            "evo": "103.9",
+            "la": "-24",
+            "dist": "4",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -8307,6 +8307,23 @@
         }
     ],
     "det @ tex": [
+        {
+            "created_at": "2025-07-19 21:32:31",
+            "player": "matt vierling",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-19",
+            "team": "det",
+            "stadium": "tex",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:29:31",
             "player": "zach mckinstry",
@@ -11697,6 +11714,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-19 21:32:31",
+            "player": "corbin carroll",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "67",
+            "dt": "2025-07-19",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:31:16",
             "player": "blaze alexander",
             "game": "stl @ ari",
@@ -13774,6 +13808,23 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-19 21:32:31",
+            "player": "hunter goodman",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "25",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:31:16",
             "player": "mickey moniak",
