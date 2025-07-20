@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "98",
         "batters": "278",
-        "pitches": "3447",
+        "pitches": "3451",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "15.5",
+        "si%sinker %": "15.4",
         "fc%cutter %": "10.7",
         "fs%splitter %": "5.2",
-        "ch%changeup %": "9.7",
+        "ch%changeup %": "9.8",
         "sl%slider %": "20.8",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "113.0",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "39.9",
         "brlbarrels": "45",
         "brl%barrel %": "6.7",
-        "ab": "838",
-        "avg": ".259",
-        "h": "217",
-        "1b": "130",
+        "ab": "839",
+        "avg": ".260",
+        "h": "218",
+        "1b": "131",
         "2b": "50",
         "3b": "7",
         "hr": "30",
@@ -28,7 +28,7 @@
         "bipballs in play": "674",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:57:35.751625"
+        "updated": "2025-07-19 21:57:47.087518"
     },
     "sf @ tor": [
         {
@@ -14498,7 +14498,7 @@
             "team": "col",
             "stadium": "col",
             "in": "5",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "56.6",
             "la": "-54",
             "dist": "3",
@@ -15170,6 +15170,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 21:57:45",
+            "player": "isaac collins",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "23",
+            "dt": "2025-07-19",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:54:16",
             "player": "andrew vaughn",
