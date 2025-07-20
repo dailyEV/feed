@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "108",
         "batters": "290",
-        "pitches": "3742",
+        "pitches": "3743",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.4",
         "si%sinker %": "15.0",
         "fc%cutter %": "10.5",
         "fs%splitter %": "4.9",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "40.8",
         "brlbarrels": "54",
         "brl%barrel %": "7.4",
-        "ab": "901",
-        "avg": ".262",
-        "h": "236",
-        "1b": "141",
+        "ab": "902",
+        "avg": ".261",
+        "h": "235",
+        "1b": "140",
         "2b": "53",
         "3b": "7",
         "hr": "35",
@@ -28,7 +28,7 @@
         "bipballs in play": "726",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:35:28.820343"
+        "updated": "2025-07-19 22:35:40.998812"
     },
     "sf @ tor": [
         {
@@ -14914,6 +14914,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 22:35:32",
+            "player": "brenton doyle",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:34:17",
             "player": "michael toglia",
             "game": "min @ col",
@@ -14923,7 +14940,7 @@
             "team": "col",
             "stadium": "col",
             "in": "7",
-            "result": "Single",
+            "result": "Forceout",
             "evo": "103.6",
             "la": "-13",
             "dist": "12",
