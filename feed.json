@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "94",
+        "pitchers": "95",
         "batters": "269",
-        "pitches": "3313",
+        "pitches": "3321",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "15.4",
+        "ff%fourseam fastball %": "31.7",
+        "si%sinker %": "15.3",
         "fc%cutter %": "10.8",
         "fs%splitter %": "5.3",
         "ch%changeup %": "9.6",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "39.9",
         "brlbarrels": "44",
         "brl%barrel %": "6.8",
-        "ab": "809",
-        "avg": ".255",
+        "ab": "811",
+        "avg": ".254",
         "h": "206",
         "1b": "121",
         "2b": "49",
@@ -28,7 +28,7 @@
         "bipballs in play": "644",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:43:38.765978"
+        "updated": "2025-07-19 21:43:50.831171"
     },
     "sf @ tor": [
         {
@@ -11986,6 +11986,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-19 21:43:44",
+            "player": "masyn winn",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-07-19",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:40:30",
             "player": "garrett hampson",
             "game": "stl @ ari",
@@ -14250,6 +14267,23 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-19 21:43:44",
+            "player": "michael toglia",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:40:46",
             "player": "brooks lee",
