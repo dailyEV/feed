@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "131",
+        "pitchers": "132",
         "batters": "296",
-        "pitches": "4234",
+        "pitches": "4235",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.4",
@@ -14,10 +14,10 @@
         "cu%curve %": "7.3",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "331",
-        "hh%hard hit %": "40.9",
+        "hh%hard hit %": "40.8",
         "brlbarrels": "59",
         "brl%barrel %": "7.3",
-        "ab": "1011",
+        "ab": "1012",
         "avg": ".259",
         "h": "262",
         "1b": "156",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "39",
         "so": "227",
-        "bipballs in play": "810",
+        "bipballs in play": "811",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-20 00:59:09.893029"
+        "updated": "2025-07-20 00:59:22.651478"
     },
     "sf @ tor": [
         {
@@ -17723,6 +17723,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-20 00:59:13",
+            "player": "mauricio dubon",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "83",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "92.1",
+            "la": "-6",
+            "dist": "24",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-20 00:56:28",
             "player": "cal raleigh",
             "game": "hou @ sea",
@@ -17732,7 +17749,7 @@
             "team": "sea",
             "stadium": "sea",
             "in": "9",
-            "result": "In Progress",
+            "result": "Lineout",
             "evo": "104.2",
             "la": "8",
             "dist": "160",
