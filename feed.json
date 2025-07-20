@@ -1,14 +1,14 @@
 {
     "all": {
-        "pitchers": "132",
+        "pitchers": "133",
         "batters": "298",
-        "pitches": "4274",
+        "pitches": "4276",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.1",
         "si%sinker %": "14.8",
         "fc%cutter %": "10.4",
-        "fs%splitter %": "4.4",
+        "fs%splitter %": "4.3",
         "ch%changeup %": "9.9",
         "sl%slider %": "22.2",
         "cu%curve %": "7.2",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.6",
         "brlbarrels": "59",
         "brl%barrel %": "7.2",
-        "ab": "1016",
+        "ab": "1017",
         "avg": ".259",
         "h": "263",
         "1b": "157",
@@ -28,7 +28,7 @@
         "bipballs in play": "815",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-20 01:25:08.226987"
+        "updated": "2025-07-20 01:25:21.374527"
     },
     "sf @ tor": [
         {
@@ -17722,6 +17722,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-20 01:25:12",
+            "player": "christian walker",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "93",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "11",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-20 01:19:12",
             "player": "dominic canzone",
