@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "132",
         "batters": "298",
-        "pitches": "4266",
+        "pitches": "4267",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.2",
+        "ff%fourseam fastball %": "31.1",
         "si%sinker %": "14.7",
         "fc%cutter %": "10.4",
         "fs%splitter %": "4.4",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.6",
         "brlbarrels": "59",
         "brl%barrel %": "7.2",
-        "ab": "1015",
+        "ab": "1016",
         "avg": ".259",
         "h": "263",
         "1b": "157",
@@ -28,7 +28,7 @@
         "bipballs in play": "815",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-20 01:19:01.429387"
+        "updated": "2025-07-20 01:19:14.574758"
     },
     "sf @ tor": [
         {
@@ -17723,6 +17723,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-20 01:19:12",
+            "player": "dominic canzone",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "92",
+            "dt": "2025-07-19",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-20 01:16:13",
             "player": "dylan moore",
             "game": "hou @ sea",
@@ -17732,7 +17749,7 @@
             "team": "sea",
             "stadium": "sea",
             "in": "10",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "35.7",
             "la": "-22",
             "dist": "8",
