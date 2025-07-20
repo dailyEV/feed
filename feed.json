@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "102",
+        "pitchers": "103",
         "batters": "286",
-        "pitches": "3560",
+        "pitches": "3562",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.9",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "279",
+        "hhhard hit": "280",
         "hh%hard hit %": "40.2",
-        "brlbarrels": "49",
-        "brl%barrel %": "7.1",
-        "ab": "864",
-        "avg": ".259",
-        "h": "224",
+        "brlbarrels": "50",
+        "brl%barrel %": "7.2",
+        "ab": "865",
+        "avg": ".260",
+        "h": "225",
         "1b": "134",
-        "2b": "50",
+        "2b": "51",
         "3b": "7",
         "hr": "33",
         "so": "186",
-        "bipballs in play": "694",
+        "bipballs in play": "696",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:11:27.423406"
+        "updated": "2025-07-19 22:11:38.917266"
     },
     "sf @ tor": [
         {
@@ -6348,6 +6348,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-19 22:11:30",
+            "player": "josh bell",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-19",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "8",
+            "result": "GIDP",
+            "evo": "64.4",
+            "la": "-44",
+            "dist": "2",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:05:45",
             "player": "luis garcia",
@@ -15486,12 +15503,12 @@
             "team": "lad",
             "stadium": "lad",
             "in": "3",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
+            "result": "Double",
+            "evo": "105.1",
+            "la": "19",
+            "dist": "364",
+            "is_hh": true,
+            "is_brl": true
         },
         {
             "created_at": "2025-07-19 22:07:01",
