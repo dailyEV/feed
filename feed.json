@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "112",
         "batters": "291",
-        "pitches": "3856",
+        "pitches": "3859",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "14.7",
+        "si%sinker %": "14.6",
         "fc%cutter %": "10.3",
         "fs%splitter %": "4.7",
         "ch%changeup %": "10.6",
-        "sl%slider %": "21.1",
+        "sl%slider %": "21.2",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "306",
         "hh%hard hit %": "41.1",
         "brlbarrels": "54",
         "brl%barrel %": "7.2",
-        "ab": "926",
+        "ab": "927",
         "avg": ".260",
         "h": "241",
         "1b": "143",
@@ -28,7 +28,7 @@
         "bipballs in play": "745",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:54:49.942589"
+        "updated": "2025-07-19 22:55:02.401834"
     },
     "sf @ tor": [
         {
@@ -14982,6 +14982,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 22:55:00",
+            "player": "carlos correa",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:52:31",
             "player": "kody clemens",
             "game": "min @ col",
@@ -16132,7 +16149,7 @@
             "team": "mil",
             "stadium": "lad",
             "in": "6",
-            "result": "In Progress",
+            "result": "Stolen Base 2B",
             "evo": "",
             "la": "",
             "dist": "",
