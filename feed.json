@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "57",
         "batters": "219",
-        "pitches": "2216",
+        "pitches": "2217",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.2",
         "ff%fourseam fastball %": "29.6",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "39.0",
         "brlbarrels": "28",
         "brl%barrel %": "6.5",
-        "ab": "539",
-        "avg": ".262",
-        "h": "141",
-        "1b": "86",
+        "ab": "540",
+        "avg": ".263",
+        "h": "142",
+        "1b": "87",
         "2b": "34",
         "3b": "4",
         "hr": "17",
@@ -28,7 +28,7 @@
         "bipballs in play": "428",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:36:14.494421"
+        "updated": "2025-07-19 20:36:24.219865"
     },
     "sf @ tor": [
         {
@@ -4715,6 +4715,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-19 20:36:17",
+            "player": "tommy pham",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-19",
+            "team": "pit",
+            "stadium": "pit",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:35:29",
             "player": "isiah kiner falefa",
             "game": "chw @ pit",
@@ -4724,7 +4741,7 @@
             "team": "pit",
             "stadium": "pit",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "92.5",
             "la": "12",
             "dist": "195",
