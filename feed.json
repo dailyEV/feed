@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "109",
         "batters": "291",
-        "pitches": "3823",
+        "pitches": "3824",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -10,15 +10,15 @@
         "fc%cutter %": "10.3",
         "fs%splitter %": "4.8",
         "ch%changeup %": "10.6",
-        "sl%slider %": "21.1",
+        "sl%slider %": "21.0",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "303",
         "hh%hard hit %": "40.9",
         "brlbarrels": "54",
         "brl%barrel %": "7.3",
-        "ab": "920",
-        "avg": ".259",
+        "ab": "921",
+        "avg": ".258",
         "h": "238",
         "1b": "142",
         "2b": "54",
@@ -28,7 +28,7 @@
         "bipballs in play": "740",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:47:56.839744"
+        "updated": "2025-07-19 22:48:09.359556"
     },
     "sf @ tor": [
         {
@@ -16856,10 +16856,27 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-19 22:48:00",
+            "player": "luke raley",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-07-19",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:44:30",
             "player": "jorge polanco",
             "game": "hou @ sea",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "29",
             "dt": "2025-07-19",
             "team": "sea",
