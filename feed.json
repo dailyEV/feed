@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "69",
-        "batters": "226",
-        "pitches": "2526",
+        "pitchers": "68",
+        "batters": "225",
+        "pitches": "2527",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "30.4",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.1",
         "cu%curve %": "6.4",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "187",
-        "hh%hard hit %": "38.0",
-        "brlbarrels": "32",
-        "brl%barrel %": "6.5",
+        "hhhard hit": "188",
+        "hh%hard hit %": "38.1",
+        "brlbarrels": "33",
+        "brl%barrel %": "6.7",
         "ab": "616",
-        "avg": ".253",
-        "h": "156",
+        "avg": ".255",
+        "h": "157",
         "1b": "95",
         "2b": "38",
         "3b": "4",
-        "hr": "19",
+        "hr": "20",
         "so": "133",
-        "bipballs in play": "492",
+        "bipballs in play": "493",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:55:08.665873"
+        "updated": "2025-07-19 20:55:19.077306"
     },
     "sf @ tor": [
         {
@@ -9912,11 +9912,11 @@
     ],
     "stl @ ari": [
         {
-            "created_at": "2025-07-19 20:53:29",
-            "player": "alec burleson",
+            "created_at": "2025-07-19 20:55:15",
+            "player": "willson contreras",
             "game": "stl @ ari",
             "hr/park": "",
-            "pa": "49",
+            "pa": "50",
             "dt": "2025-07-19",
             "team": "stl",
             "stadium": "ari",
@@ -9927,6 +9927,23 @@
             "dist": "",
             "is_hh": false,
             "is_brl": false
+        },
+        {
+            "created_at": "2025-07-19 20:53:29",
+            "player": "alec burleson",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "49",
+            "dt": "2025-07-19",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "6",
+            "result": "Home Run",
+            "evo": "107.4",
+            "la": "27",
+            "dist": "443",
+            "is_hh": true,
+            "is_brl": true
         },
         {
             "created_at": "2025-07-19 20:51:30",
@@ -11479,23 +11496,6 @@
         }
     ],
     "min @ col": [
-        {
-            "created_at": "2025-07-19 20:55:01",
-            "player": "tyler freeman",
-            "game": "min @ col",
-            "hr/park": "",
-            "pa": "4",
-            "dt": "2025-07-19",
-            "team": "col",
-            "stadium": "col",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-19 20:53:14",
             "player": "trevor larnach",
