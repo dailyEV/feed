@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "117",
         "batters": "293",
-        "pitches": "4013",
+        "pitches": "4014",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.0",
@@ -13,11 +13,11 @@
         "sl%slider %": "21.5",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "314",
-        "hh%hard hit %": "40.9",
+        "hhhard hit": "315",
+        "hh%hard hit %": "41.0",
         "brlbarrels": "56",
         "brl%barrel %": "7.3",
-        "ab": "958",
+        "ab": "959",
         "avg": ".263",
         "h": "252",
         "1b": "150",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "36",
         "so": "213",
-        "bipballs in play": "768",
+        "bipballs in play": "769",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:25:26.912905"
+        "updated": "2025-07-19 23:25:40.282301"
     },
     "sf @ tor": [
         {
@@ -16309,6 +16309,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 23:25:31",
+            "player": "freddie freeman",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "102.6",
+            "la": "2",
+            "dist": "65",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 23:21:15",
             "player": "isaac collins",
