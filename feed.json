@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "104",
         "batters": "288",
-        "pitches": "3604",
+        "pitches": "3606",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.6",
@@ -10,14 +10,14 @@
         "fc%cutter %": "10.6",
         "fs%splitter %": "5.0",
         "ch%changeup %": "10.2",
-        "sl%slider %": "20.8",
+        "sl%slider %": "20.7",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "283",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "51",
-        "brl%barrel %": "7.3",
-        "ab": "872",
+        "brl%barrel %": "7.2",
+        "ab": "873",
         "avg": ".260",
         "h": "227",
         "1b": "135",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "33",
         "so": "187",
-        "bipballs in play": "703",
+        "bipballs in play": "704",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:16:10.910659"
+        "updated": "2025-07-19 22:16:23.485307"
     },
     "sf @ tor": [
         {
@@ -15612,6 +15612,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 22:15:30",
+            "player": "tommy edman",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "3",
+            "result": "Flyout",
+            "evo": "92.2",
+            "la": "46",
+            "dist": "285",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:15:02",
             "player": "michael conforto",
