@@ -1,17 +1,17 @@
 {
     "all": {
         "pitchers": "79",
-        "batters": "241",
-        "pitches": "2806",
+        "batters": "242",
+        "pitches": "2809",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.1",
+        "ff%fourseam fastball %": "31.2",
         "si%sinker %": "16.4",
         "fc%cutter %": "11.9",
-        "fs%splitter %": "4.5",
+        "fs%splitter %": "4.4",
         "ch%changeup %": "9.2",
-        "sl%slider %": "20.3",
-        "cu%curve %": "6.5",
+        "sl%slider %": "20.4",
+        "cu%curve %": "6.4",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "207",
         "hh%hard hit %": "37.8",
@@ -24,11 +24,11 @@
         "2b": "43",
         "3b": "5",
         "hr": "22",
-        "so": "150",
+        "so": "151",
         "bipballs in play": "548",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:13:14.214203"
+        "updated": "2025-07-19 21:13:24.839578"
     },
     "sf @ tor": [
         {
@@ -9876,23 +9876,6 @@
     ],
     "bos @ chc": [
         {
-            "created_at": "2025-07-19 21:12:44",
-            "player": "seiya suzuki",
-            "game": "bos @ chc",
-            "hr/park": "",
-            "pa": "57",
-            "dt": "2025-07-19",
-            "team": "chc",
-            "stadium": "chc",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 21:11:44",
             "player": "kyle tucker",
             "game": "bos @ chc",
@@ -12696,7 +12679,7 @@
             "team": "min",
             "stadium": "col",
             "in": "2",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -12926,6 +12909,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 21:13:17",
+            "player": "william contreras",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-19",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:12:02",
             "player": "brice turang",
