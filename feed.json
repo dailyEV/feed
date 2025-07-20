@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "117",
+        "pitchers": "118",
         "batters": "293",
-        "pitches": "4019",
+        "pitches": "4020",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.0",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.9",
         "brlbarrels": "56",
         "brl%barrel %": "7.3",
-        "ab": "962",
+        "ab": "963",
         "avg": ".264",
         "h": "254",
         "1b": "152",
@@ -28,7 +28,7 @@
         "bipballs in play": "772",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:28:04.542117"
+        "updated": "2025-07-19 23:28:16.934447"
     },
     "sf @ tor": [
         {
@@ -16310,6 +16310,23 @@
     ],
     "mil @ lad": [
         {
+            "created_at": "2025-07-19 23:28:16",
+            "player": "teoscar hernandez",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 23:25:31",
             "player": "freddie freeman",
             "game": "mil @ lad",
@@ -17409,7 +17426,7 @@
             "team": "hou",
             "stadium": "sea",
             "in": "5",
-            "result": "Forceout",
+            "result": "In Progress",
             "evo": "60.4",
             "la": "-4",
             "dist": "22",
