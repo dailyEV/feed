@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "85",
-        "batters": "256",
-        "pitches": "3069",
+        "batters": "257",
+        "pitches": "3071",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.7",
         "si%sinker %": "15.6",
-        "fc%cutter %": "11.2",
+        "fc%cutter %": "11.3",
         "fs%splitter %": "5.4",
-        "ch%changeup %": "9.4",
+        "ch%changeup %": "9.3",
         "sl%slider %": "20.1",
         "cu%curve %": "6.5",
         "max evmax exit velocity": "113.0",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "38.6",
         "brlbarrels": "41",
         "brl%barrel %": "6.9",
-        "ab": "746",
-        "avg": ".255",
+        "ab": "747",
+        "avg": ".254",
         "h": "190",
         "1b": "112",
         "2b": "47",
@@ -28,7 +28,7 @@
         "bipballs in play": "591",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:26:40.329825"
+        "updated": "2025-07-19 21:26:51.362311"
     },
     "sf @ tor": [
         {
@@ -13827,6 +13827,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 21:26:45",
+            "player": "christian yelich",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-07-19",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:22:46",
             "player": "teoscar hernandez",
