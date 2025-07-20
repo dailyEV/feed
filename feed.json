@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "106",
         "batters": "290",
-        "pitches": "3688",
+        "pitches": "3692",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.6",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.3",
         "brlbarrels": "53",
         "brl%barrel %": "7.4",
-        "ab": "888",
+        "ab": "889",
         "avg": ".260",
         "h": "231",
         "1b": "137",
@@ -28,7 +28,7 @@
         "bipballs in play": "715",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:27:59.274171"
+        "updated": "2025-07-19 22:28:11.575397"
     },
     "sf @ tor": [
         {
@@ -13501,6 +13501,23 @@
     ],
     "nyy @ atl": [
         {
+            "created_at": "2025-07-19 22:27:00",
+            "player": "giancarlo stanton",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "80",
+            "dt": "2025-07-19",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:25:15",
             "player": "cody bellinger",
             "game": "nyy @ atl",
@@ -14838,7 +14855,7 @@
             "team": "min",
             "stadium": "col",
             "in": "7",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": "",
