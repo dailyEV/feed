@@ -1,14 +1,14 @@
 {
     "all": {
         "pitchers": "82",
-        "batters": "246",
-        "pitches": "2902",
+        "batters": "247",
+        "pitches": "2912",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
         "si%sinker %": "16.0",
         "fc%cutter %": "11.6",
-        "fs%splitter %": "4.6",
+        "fs%splitter %": "4.7",
         "ch%changeup %": "9.3",
         "sl%slider %": "20.4",
         "cu%curve %": "6.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.5",
         "brlbarrels": "37",
         "brl%barrel %": "6.5",
-        "ab": "711",
-        "avg": ".253",
-        "h": "180",
-        "1b": "109",
+        "ab": "714",
+        "avg": ".254",
+        "h": "181",
+        "1b": "110",
         "2b": "44",
         "3b": "5",
         "hr": "22",
-        "so": "154",
+        "so": "155",
         "bipballs in play": "569",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:18:27.697960"
+        "updated": "2025-07-19 21:18:38.164359"
     },
     "sf @ tor": [
         {
@@ -7014,6 +7014,23 @@
     ],
     "bal @ tb": [
         {
+            "created_at": "2025-07-19 21:18:30",
+            "player": "chandler simpson",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-19",
+            "team": "tb",
+            "stadium": "tb",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:14:14",
             "player": "matt thaiss",
             "game": "bal @ tb",
@@ -12107,6 +12124,23 @@
     ],
     "nyy @ atl": [
         {
+            "created_at": "2025-07-19 21:18:30",
+            "player": "austin wells",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "51",
+            "dt": "2025-07-19",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:17:14",
             "player": "anthony volpe",
             "game": "nyy @ atl",
@@ -12959,6 +12993,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 21:17:47",
+            "player": "michael toglia",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "17",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "2",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:16:31",
             "player": "ezequiel tovar",
             "game": "min @ col",
@@ -12968,7 +13019,7 @@
             "team": "col",
             "stadium": "col",
             "in": "2",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "98.9",
             "la": "-8",
             "dist": "15",
