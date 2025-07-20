@@ -2,15 +2,15 @@
     "all": {
         "pitchers": "73",
         "batters": "235",
-        "pitches": "2695",
+        "pitches": "2702",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.1",
-        "si%sinker %": "16.5",
+        "si%sinker %": "16.4",
         "fc%cutter %": "12.3",
-        "fs%splitter %": "4.3",
+        "fs%splitter %": "4.4",
         "ch%changeup %": "9.2",
-        "sl%slider %": "20.2",
+        "sl%slider %": "20.4",
         "cu%curve %": "6.3",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "199",
@@ -28,7 +28,7 @@
         "bipballs in play": "530",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 21:06:18.931248"
+        "updated": "2025-07-19 21:06:29.638376"
     },
     "sf @ tor": [
         {
@@ -6145,6 +6145,23 @@
     ],
     "sd @ wsh": [
         {
+            "created_at": "2025-07-19 21:06:29",
+            "player": "daylen lile",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-19",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:02:44",
             "player": "manny machado",
             "game": "sd @ wsh",
@@ -11436,7 +11453,7 @@
             "team": "nyy",
             "stadium": "atl",
             "in": "6",
-            "result": "In Progress",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
