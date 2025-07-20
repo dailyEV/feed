@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "50",
-        "batters": "215",
-        "pitches": "1961",
+        "batters": "216",
+        "pitches": "1965",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.2",
         "ff%fourseam fastball %": "28.9",
@@ -10,25 +10,25 @@
         "fc%cutter %": "13.6",
         "fs%splitter %": "4.0",
         "ch%changeup %": "9.0",
-        "sl%slider %": "19.6",
+        "sl%slider %": "19.7",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "142",
         "hh%hard hit %": "38.1",
         "brlbarrels": "27",
         "brl%barrel %": "7.2",
-        "ab": "475",
-        "avg": ".251",
+        "ab": "477",
+        "avg": ".249",
         "h": "119",
         "1b": "71",
         "2b": "28",
         "3b": "3",
         "hr": "17",
-        "so": "110",
+        "so": "111",
         "bipballs in play": "373",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:19:22.880962"
+        "updated": "2025-07-19 20:19:33.251929"
     },
     "sf @ tor": [
         {
@@ -5414,6 +5414,23 @@
     ],
     "sd @ wsh": [
         {
+            "created_at": "2025-07-19 20:19:29",
+            "player": "jacob young",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-19",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:17:01",
             "player": "drew millas",
             "game": "sd @ wsh",
@@ -6823,7 +6840,7 @@
             "team": "ath",
             "stadium": "cle",
             "in": "5",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -8451,6 +8468,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-19 20:19:29",
+            "player": "nacho alvarez",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "30",
+            "dt": "2025-07-19",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 20:19:16",
             "player": "ozzie albies",
