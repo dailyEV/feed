@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "114",
         "batters": "292",
-        "pitches": "3928",
+        "pitches": "3929",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.1",
@@ -13,10 +13,10 @@
         "sl%slider %": "21.2",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "311",
-        "hh%hard hit %": "41.1",
-        "brlbarrels": "54",
-        "brl%barrel %": "7.1",
+        "hhhard hit": "312",
+        "hh%hard hit %": "41.2",
+        "brlbarrels": "55",
+        "brl%barrel %": "7.3",
         "ab": "941",
         "avg": ".262",
         "h": "247",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "36",
         "so": "206",
-        "bipballs in play": "756",
+        "bipballs in play": "757",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:06:34.915411"
+        "updated": "2025-07-19 23:06:47.618930"
     },
     "sf @ tor": [
         {
@@ -17182,18 +17182,18 @@
             "created_at": "2025-07-19 23:05:15",
             "player": "brice matthews",
             "game": "hou @ sea",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "35",
             "dt": "2025-07-19",
             "team": "hou",
             "stadium": "sea",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
+            "result": "Flyout",
+            "evo": "99.0",
+            "la": "29",
+            "dist": "383",
+            "is_hh": true,
+            "is_brl": true
         },
         {
             "created_at": "2025-07-19 23:04:03",
