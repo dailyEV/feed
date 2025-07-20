@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "85",
         "batters": "258",
-        "pitches": "3078",
+        "pitches": "3082",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.9",
@@ -11,13 +11,13 @@
         "fs%splitter %": "5.4",
         "ch%changeup %": "9.3",
         "sl%slider %": "20.1",
-        "cu%curve %": "6.5",
+        "cu%curve %": "6.6",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "230",
-        "hh%hard hit %": "38.7",
+        "hhhard hit": "231",
+        "hh%hard hit %": "38.8",
         "brlbarrels": "41",
         "brl%barrel %": "6.9",
-        "ab": "749",
+        "ab": "750",
         "avg": ".255",
         "h": "191",
         "1b": "113",
@@ -25,10 +25,10 @@
         "3b": "6",
         "hr": "25",
         "so": "167",
-        "bipballs in play": "594",
+        "bipballs in play": "595",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:27:24.952507"
+        "updated": "2025-07-19 21:27:35.945007"
     },
     "sf @ tor": [
         {
@@ -6352,7 +6352,7 @@
             "created_at": "2025-07-19 21:25:15",
             "player": "nathaniel lowe",
             "game": "sd @ wsh",
-            "hr/park": "",
+            "hr/park": "8/30",
             "pa": "47",
             "dt": "2025-07-19",
             "team": "wsh",
@@ -9288,11 +9288,11 @@
             "team": "ath",
             "stadium": "cle",
             "in": "9",
-            "result": "Batter Timeout",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Groundout",
+            "evo": "99.1",
+            "la": "1",
+            "dist": "55",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -10436,6 +10436,23 @@
         }
     ],
     "bos @ chc": [
+        {
+            "created_at": "2025-07-19 21:27:32",
+            "player": "ian happ",
+            "game": "bos @ chc",
+            "hr/park": "",
+            "pa": "62",
+            "dt": "2025-07-19",
+            "team": "chc",
+            "stadium": "chc",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:26:32",
             "player": "pete crow armstrong",
@@ -13478,7 +13495,7 @@
             "team": "min",
             "stadium": "col",
             "in": "3",
-            "result": "Groundout",
+            "result": "In Progress",
             "evo": "105.8",
             "la": "-23",
             "dist": "5",
