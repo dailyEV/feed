@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "114",
         "batters": "292",
-        "pitches": "3906",
+        "pitches": "3910",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.2",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "41.2",
         "brlbarrels": "54",
         "brl%barrel %": "7.2",
-        "ab": "937",
+        "ab": "938",
         "avg": ".260",
         "h": "244",
         "1b": "145",
         "2b": "57",
         "3b": "7",
         "hr": "35",
-        "so": "204",
+        "so": "205",
         "bipballs in play": "753",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:03:59.487994"
+        "updated": "2025-07-19 23:04:12.867018"
     },
     "sf @ tor": [
         {
@@ -14991,7 +14991,7 @@
             "team": "col",
             "stadium": "col",
             "in": "8",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -16217,7 +16217,7 @@
             "team": "lad",
             "stadium": "lad",
             "in": "6",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -17127,6 +17127,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 23:04:03",
+            "player": "mauricio dubon",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 23:00:30",
             "player": "chas mccormick",
