@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "96",
         "batters": "275",
-        "pitches": "3400",
+        "pitches": "3402",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -14,10 +14,10 @@
         "cu%curve %": "6.7",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "266",
-        "hh%hard hit %": "40.1",
+        "hh%hard hit %": "40.0",
         "brlbarrels": "45",
         "brl%barrel %": "6.8",
-        "ab": "830",
+        "ab": "831",
         "avg": ".259",
         "h": "215",
         "1b": "128",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "30",
         "so": "180",
-        "bipballs in play": "664",
+        "bipballs in play": "665",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:51:39.542955"
+        "updated": "2025-07-19 21:51:50.764030"
     },
     "sf @ tor": [
         {
@@ -13340,7 +13340,7 @@
             "team": "atl",
             "stadium": "atl",
             "in": "7",
-            "result": "Mound Visit",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -14437,6 +14437,23 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-19 21:51:44",
+            "player": "harrison bader",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "5",
+            "result": "Flyout",
+            "evo": "92.8",
+            "la": "57",
+            "dist": "248",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:50:59",
             "player": "matt wallner",
