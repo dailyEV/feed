@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "122",
         "batters": "294",
-        "pitches": "4093",
+        "pitches": "4095",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "30.9",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "41.1",
         "brlbarrels": "59",
         "brl%barrel %": "7.5",
-        "ab": "981",
+        "ab": "982",
         "avg": ".265",
         "h": "260",
         "1b": "155",
@@ -28,7 +28,7 @@
         "bipballs in play": "789",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:51:09.408780"
+        "updated": "2025-07-19 23:51:22.354128"
     },
     "sf @ tor": [
         {
@@ -17604,6 +17604,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-19 23:51:15",
+            "player": "christian walker",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 23:47:45",
             "player": "cam smith",
             "game": "hou @ sea",
@@ -17613,7 +17630,7 @@
             "team": "hou",
             "stadium": "sea",
             "in": "6",
-            "result": "In Progress",
+            "result": "Flyout",
             "evo": "84.6",
             "la": "39",
             "dist": "295",
