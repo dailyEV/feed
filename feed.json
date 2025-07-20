@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "103",
-        "batters": "286",
-        "pitches": "3569",
+        "batters": "287",
+        "pitches": "3573",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.6",
         "si%sinker %": "15.3",
         "fc%cutter %": "10.7",
         "fs%splitter %": "5.0",
@@ -28,7 +28,7 @@
         "bipballs in play": "697",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:12:37.884183"
+        "updated": "2025-07-19 22:12:49.368046"
     },
     "sf @ tor": [
         {
@@ -16006,6 +16006,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-19 22:12:45",
+            "player": "luke raley",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "15",
+            "dt": "2025-07-19",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:11:15",
             "player": "jorge polanco",
             "game": "hou @ sea",
@@ -16015,7 +16032,7 @@
             "team": "sea",
             "stadium": "sea",
             "in": "2",
-            "result": "Batter Timeout",
+            "result": "Walk",
             "evo": "",
             "la": "",
             "dist": "",
