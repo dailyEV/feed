@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "103",
         "batters": "286",
-        "pitches": "3562",
+        "pitches": "3565",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.2",
         "brlbarrels": "50",
         "brl%barrel %": "7.2",
-        "ab": "865",
+        "ab": "866",
         "avg": ".260",
         "h": "225",
         "1b": "134",
@@ -28,7 +28,7 @@
         "bipballs in play": "696",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:11:50.834150"
+        "updated": "2025-07-19 22:12:02.273269"
     },
     "sf @ tor": [
         {
@@ -13450,6 +13450,23 @@
     ],
     "nyy @ atl": [
         {
+            "created_at": "2025-07-19 22:12:00",
+            "player": "jurickson profar",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "73",
+            "dt": "2025-07-19",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:08:29",
             "player": "jorbit vivas",
             "game": "nyy @ atl",
@@ -15497,7 +15514,7 @@
             "created_at": "2025-07-19 22:09:45",
             "player": "teoscar hernandez",
             "game": "mil @ lad",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "28",
             "dt": "2025-07-19",
             "team": "lad",
@@ -15981,7 +15998,7 @@
             "team": "sea",
             "stadium": "sea",
             "in": "2",
-            "result": "In Progress",
+            "result": "Batter Timeout",
             "evo": "",
             "la": "",
             "dist": "",
