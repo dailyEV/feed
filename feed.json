@@ -1,34 +1,34 @@
 {
     "all": {
         "pitchers": "82",
-        "batters": "248",
-        "pitches": "2920",
+        "batters": "249",
+        "pitches": "2929",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "16.0",
-        "fc%cutter %": "11.6",
+        "ff%fourseam fastball %": "31.5",
+        "si%sinker %": "15.9",
+        "fc%cutter %": "11.5",
         "fs%splitter %": "4.7",
-        "ch%changeup %": "9.3",
+        "ch%changeup %": "9.4",
         "sl%slider %": "20.4",
-        "cu%curve %": "6.5",
+        "cu%curve %": "6.6",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "219",
-        "hh%hard hit %": "38.4",
+        "hhhard hit": "221",
+        "hh%hard hit %": "38.6",
         "brlbarrels": "37",
         "brl%barrel %": "6.5",
-        "ab": "716",
+        "ab": "719",
         "avg": ".253",
-        "h": "181",
-        "1b": "110",
+        "h": "182",
+        "1b": "111",
         "2b": "44",
         "3b": "5",
         "hr": "22",
-        "so": "158",
-        "bipballs in play": "570",
+        "so": "159",
+        "bipballs in play": "572",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:19:43.864491"
+        "updated": "2025-07-19 21:19:54.628660"
     },
     "sf @ tor": [
         {
@@ -6281,6 +6281,23 @@
     ],
     "sd @ wsh": [
         {
+            "created_at": "2025-07-19 21:18:45",
+            "player": "jackson merrill",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "44",
+            "dt": "2025-07-19",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "6",
+            "result": "Groundout",
+            "evo": "97.5",
+            "la": "-22",
+            "dist": "6",
+            "is_hh": true,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:16:45",
             "player": "xander bogaerts",
             "game": "sd @ wsh",
@@ -7023,11 +7040,11 @@
             "team": "tb",
             "stadium": "tb",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "Single",
+            "evo": "96.7",
+            "la": "9",
+            "dist": "196",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -9057,6 +9074,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-19 21:18:45",
+            "player": "austin wynns",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-19",
+            "team": "ath",
+            "stadium": "cle",
+            "in": "9",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:17:14",
             "player": "angel martinez",
@@ -13317,6 +13351,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 21:19:47",
+            "player": "will smith",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:17:14",
             "player": "shohei ohtani",
