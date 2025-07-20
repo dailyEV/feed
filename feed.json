@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "113",
+        "pitchers": "114",
         "batters": "292",
-        "pitches": "3891",
+        "pitches": "3894",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.3",
-        "si%sinker %": "14.5",
+        "si%sinker %": "14.6",
         "fc%cutter %": "10.5",
         "fs%splitter %": "4.7",
         "ch%changeup %": "10.6",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "41.1",
         "brlbarrels": "54",
         "brl%barrel %": "7.2",
-        "ab": "933",
+        "ab": "934",
         "avg": ".259",
         "h": "242",
         "1b": "143",
@@ -28,7 +28,7 @@
         "bipballs in play": "751",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:01:52.895847"
+        "updated": "2025-07-19 23:02:05.292107"
     },
     "sf @ tor": [
         {
@@ -16190,6 +16190,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 23:02:00",
+            "player": "michael conforto",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:57:46",
             "player": "joey ortiz",
