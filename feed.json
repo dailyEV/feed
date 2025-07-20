@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "119",
         "batters": "293",
-        "pitches": "4025",
+        "pitches": "4028",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.0",
         "si%sinker %": "14.5",
-        "fc%cutter %": "10.9",
+        "fc%cutter %": "10.8",
         "fs%splitter %": "4.5",
         "ch%changeup %": "10.3",
         "sl%slider %": "21.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "41.0",
         "brlbarrels": "57",
         "brl%barrel %": "7.4",
-        "ab": "965",
+        "ab": "966",
         "avg": ".263",
         "h": "254",
         "1b": "152",
         "2b": "59",
         "3b": "7",
         "hr": "36",
-        "so": "214",
+        "so": "215",
         "bipballs in play": "773",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:30:52.751858"
+        "updated": "2025-07-19 23:31:05.677826"
     },
     "sf @ tor": [
         {
@@ -16319,7 +16319,7 @@
             "team": "lad",
             "stadium": "lad",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -17433,6 +17433,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 23:31:01",
+            "player": "randy arozarena",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-19",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 23:30:46",
             "player": "cal raleigh",
