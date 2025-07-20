@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "63",
+        "pitchers": "64",
         "batters": "221",
-        "pitches": "2355",
+        "pitches": "2360",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "29.6",
-        "si%sinker %": "16.9",
+        "si%sinker %": "16.8",
         "fc%cutter %": "13.3",
         "fs%splitter %": "4.4",
         "ch%changeup %": "9.2",
-        "sl%slider %": "20.1",
+        "sl%slider %": "20.2",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "174",
         "hh%hard hit %": "37.7",
         "brlbarrels": "30",
         "brl%barrel %": "6.5",
-        "ab": "579",
+        "ab": "580",
         "avg": ".259",
         "h": "150",
         "1b": "90",
@@ -28,7 +28,7 @@
         "bipballs in play": "461",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:45:25.165597"
+        "updated": "2025-07-19 20:45:35.335332"
     },
     "sf @ tor": [
         {
@@ -5856,23 +5856,6 @@
     ],
     "sd @ wsh": [
         {
-            "created_at": "2025-07-19 20:45:15",
-            "player": "josh bell",
-            "game": "sd @ wsh",
-            "hr/park": "",
-            "pa": "28",
-            "dt": "2025-07-19",
-            "team": "wsh",
-            "stadium": "wsh",
-            "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 20:42:44",
             "player": "jackson merrill",
             "game": "sd @ wsh",
@@ -7152,6 +7135,23 @@
     ],
     "det @ tex": [
         {
+            "created_at": "2025-07-19 20:44:44",
+            "player": "rowdy tellez",
+            "game": "det @ tex",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-19",
+            "team": "tex",
+            "stadium": "tex",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:43:14",
             "player": "wyatt langford",
             "game": "det @ tex",
@@ -7935,6 +7935,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-19 20:45:30",
+            "player": "nolan jones",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "47",
+            "dt": "2025-07-19",
+            "team": "cle",
+            "stadium": "cle",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 20:39:30",
             "player": "austin wynns",
