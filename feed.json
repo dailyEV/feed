@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "132",
         "batters": "297",
-        "pitches": "4261",
+        "pitches": "4262",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.2",
@@ -16,8 +16,8 @@
         "hhhard hit": "331",
         "hh%hard hit %": "40.7",
         "brlbarrels": "59",
-        "brl%barrel %": "7.3",
-        "ab": "1014",
+        "brl%barrel %": "7.2",
+        "ab": "1015",
         "avg": ".259",
         "h": "263",
         "1b": "157",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "39",
         "so": "228",
-        "bipballs in play": "813",
+        "bipballs in play": "814",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-20 01:14:49.989513"
+        "updated": "2025-07-20 01:15:03.434164"
     },
     "sf @ tor": [
         {
@@ -17722,6 +17722,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-20 01:14:58",
+            "player": "jorge polanco",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "90",
+            "dt": "2025-07-19",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "27.0",
+            "la": "41",
+            "dist": "50",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-20 01:11:43",
             "player": "randy arozarena",
