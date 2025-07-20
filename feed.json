@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "85",
         "batters": "256",
-        "pitches": "3039",
+        "pitches": "3042",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.7",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.2",
         "cu%curve %": "6.4",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "224",
-        "hh%hard hit %": "38.3",
+        "hhhard hit": "225",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "38",
         "brl%barrel %": "6.5",
-        "ab": "738",
-        "avg": ".255",
+        "ab": "741",
+        "avg": ".254",
         "h": "188",
         "1b": "112",
         "2b": "47",
         "3b": "6",
         "hr": "23",
         "so": "164",
-        "bipballs in play": "585",
+        "bipballs in play": "586",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:25:12.328389"
+        "updated": "2025-07-19 21:25:23.070329"
     },
     "sf @ tor": [
         {
@@ -6315,11 +6315,11 @@
     ],
     "sd @ wsh": [
         {
-            "created_at": "2025-07-19 21:23:00",
-            "player": "josh bell",
+            "created_at": "2025-07-19 21:25:15",
+            "player": "nathaniel lowe",
             "game": "sd @ wsh",
             "hr/park": "",
-            "pa": "46",
+            "pa": "47",
             "dt": "2025-07-19",
             "team": "wsh",
             "stadium": "wsh",
@@ -6329,6 +6329,23 @@
             "la": "",
             "dist": "",
             "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-19 21:23:00",
+            "player": "josh bell",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "46",
+            "dt": "2025-07-19",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "6",
+            "result": "Lineout",
+            "evo": "107.6",
+            "la": "8",
+            "dist": "154",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -7108,7 +7125,7 @@
             "team": "tb",
             "stadium": "tb",
             "in": "8",
-            "result": "Stolen Base 2B",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -8181,7 +8198,7 @@
             "team": "tex",
             "stadium": "tex",
             "in": "8",
-            "result": "Batter Timeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
@@ -9227,6 +9244,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-19 21:25:15",
+            "player": "nick kurtz",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "68",
+            "dt": "2025-07-19",
+            "team": "ath",
+            "stadium": "cle",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:23:31",
             "player": "brent rooker",
@@ -11373,6 +11407,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-19 21:25:15",
+            "player": "ivan herrera",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "63",
+            "dt": "2025-07-19",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:22:46",
             "player": "thomas saggese",
@@ -13684,7 +13735,7 @@
             "team": "lad",
             "stadium": "lad",
             "in": "1",
-            "result": "Pop Out",
+            "result": "In Progress",
             "evo": "64.1",
             "la": "57",
             "dist": "155",
