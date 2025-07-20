@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "75",
+        "pitchers": "76",
         "batters": "237",
-        "pitches": "2744",
+        "pitches": "2745",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.1",
@@ -10,13 +10,13 @@
         "fc%cutter %": "12.1",
         "fs%splitter %": "4.3",
         "ch%changeup %": "9.2",
-        "sl%slider %": "20.5",
+        "sl%slider %": "20.4",
         "cu%curve %": "6.3",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "199",
-        "hh%hard hit %": "37.3",
+        "hh%hard hit %": "37.2",
         "brlbarrels": "35",
-        "brl%barrel %": "6.6",
+        "brl%barrel %": "6.5",
         "ab": "671",
         "avg": ".258",
         "h": "173",
@@ -25,10 +25,10 @@
         "3b": "5",
         "hr": "21",
         "so": "145",
-        "bipballs in play": "534",
+        "bipballs in play": "535",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 21:09:19.220017"
+        "updated": "2025-07-19 21:09:29.464972"
     },
     "sf @ tor": [
         {
@@ -4902,23 +4902,6 @@
     ],
     "chw @ pit": [
         {
-            "created_at": "2025-07-19 21:08:15",
-            "player": "henry davis",
-            "game": "chw @ pit",
-            "hr/park": "",
-            "pa": "76",
-            "dt": "2025-07-19",
-            "team": "pit",
-            "stadium": "pit",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 21:06:59",
             "player": "spencer horwitz",
             "game": "chw @ pit",
@@ -8734,6 +8717,23 @@
         }
     ],
     "ath @ cle": [
+        {
+            "created_at": "2025-07-19 21:09:29",
+            "player": "max muncy",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-19",
+            "team": "ath",
+            "stadium": "cle",
+            "in": "8",
+            "result": "Lineout",
+            "evo": "84.6",
+            "la": "24",
+            "dist": "278",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:06:15",
             "player": "miguel andujar",
