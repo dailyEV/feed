@@ -1,15 +1,15 @@
 {
     "all": {
         "pitchers": "66",
-        "batters": "224",
-        "pitches": "2463",
+        "batters": "223",
+        "pitches": "2464",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "30.0",
         "si%sinker %": "17.0",
         "fc%cutter %": "12.9",
         "fs%splitter %": "4.3",
-        "ch%changeup %": "9.3",
+        "ch%changeup %": "9.4",
         "sl%slider %": "20.0",
         "cu%curve %": "6.4",
         "max evmax exit velocity": "113.0",
@@ -28,7 +28,7 @@
         "bipballs in play": "480",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:51:42.354156"
+        "updated": "2025-07-19 20:51:52.433994"
     },
     "sf @ tor": [
         {
@@ -3573,6 +3573,23 @@
         }
     ],
     "laa @ phi": [
+        {
+            "created_at": "2025-07-19 20:51:45",
+            "player": "zach neto",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "77",
+            "dt": "2025-07-19",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 20:50:30",
             "player": "luis rengifo",
@@ -11275,23 +11292,6 @@
         }
     ],
     "min @ col": [
-        {
-            "created_at": "2025-07-19 20:50:30",
-            "player": "willi castro",
-            "game": "min @ col",
-            "hr/park": "",
-            "pa": "2",
-            "dt": "2025-07-19",
-            "team": "min",
-            "stadium": "col",
-            "in": "1",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-19 20:49:15",
             "player": "byron buxton",
