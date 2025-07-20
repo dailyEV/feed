@@ -1,12 +1,12 @@
 {
     "all": {
-        "pitchers": "120",
-        "batters": "293",
-        "pitches": "4071",
+        "pitchers": "121",
+        "batters": "294",
+        "pitches": "4072",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.0",
-        "si%sinker %": "14.6",
+        "ff%fourseam fastball %": "30.9",
+        "si%sinker %": "14.7",
         "fc%cutter %": "10.9",
         "fs%splitter %": "4.5",
         "ch%changeup %": "10.2",
@@ -17,10 +17,10 @@
         "hh%hard hit %": "40.9",
         "brlbarrels": "58",
         "brl%barrel %": "7.4",
-        "ab": "974",
-        "avg": ".263",
-        "h": "256",
-        "1b": "153",
+        "ab": "975",
+        "avg": ".264",
+        "h": "257",
+        "1b": "154",
         "2b": "59",
         "3b": "7",
         "hr": "37",
@@ -28,7 +28,7 @@
         "bipballs in play": "783",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:44:24.873712"
+        "updated": "2025-07-19 23:44:37.832640"
     },
     "sf @ tor": [
         {
@@ -16310,6 +16310,23 @@
     ],
     "mil @ lad": [
         {
+            "created_at": "2025-07-19 23:44:31",
+            "player": "esteury ruiz",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "72",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 23:41:02",
             "player": "william contreras",
             "game": "mil @ lad",
@@ -17528,7 +17545,7 @@
             "team": "hou",
             "stadium": "sea",
             "in": "6",
-            "result": "In Progress",
+            "result": "Single",
             "evo": "83.1",
             "la": "6",
             "dist": "89",
