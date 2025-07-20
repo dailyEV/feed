@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "80",
-        "batters": "244",
-        "pitches": "2871",
+        "pitchers": "81",
+        "batters": "245",
+        "pitches": "2874",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.3",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "38.1",
         "brlbarrels": "36",
         "brl%barrel %": "6.4",
-        "ab": "705",
+        "ab": "706",
         "avg": ".254",
         "h": "179",
         "1b": "109",
@@ -28,7 +28,7 @@
         "bipballs in play": "565",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:16:38.376563"
+        "updated": "2025-07-19 21:16:49.601995"
     },
     "sf @ tor": [
         {
@@ -6264,6 +6264,23 @@
     ],
     "sd @ wsh": [
         {
+            "created_at": "2025-07-19 21:16:45",
+            "player": "xander bogaerts",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "43",
+            "dt": "2025-07-19",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:15:30",
             "player": "gavin sheets",
             "game": "sd @ wsh",
@@ -8002,23 +8019,6 @@
     ],
     "det @ tex": [
         {
-            "created_at": "2025-07-19 21:16:31",
-            "player": "wenceel perez",
-            "game": "det @ tex",
-            "hr/park": "",
-            "pa": "59",
-            "dt": "2025-07-19",
-            "team": "det",
-            "stadium": "tex",
-            "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 21:15:30",
             "player": "gleyber torres",
             "game": "det @ tex",
@@ -8028,7 +8028,7 @@
             "team": "det",
             "stadium": "tex",
             "in": "8",
-            "result": "Flyout",
+            "result": "In Progress",
             "evo": "97.0",
             "la": "58",
             "dist": "218",
@@ -10045,6 +10045,23 @@
         }
     ],
     "bos @ chc": [
+        {
+            "created_at": "2025-07-19 21:16:45",
+            "player": "jarren duran",
+            "game": "bos @ chc",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-07-19",
+            "team": "bos",
+            "stadium": "chc",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:12:44",
             "player": "seiya suzuki",
