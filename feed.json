@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "52",
         "batters": "217",
-        "pitches": "2040",
+        "pitches": "2043",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "29.2",
+        "ff%fourseam fastball %": "29.1",
         "si%sinker %": "17.7",
         "fc%cutter %": "13.4",
         "fs%splitter %": "4.0",
         "ch%changeup %": "8.9",
         "sl%slider %": "19.9",
-        "cu%curve %": "6.9",
+        "cu%curve %": "7.0",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "148",
         "hh%hard hit %": "38.4",
         "brlbarrels": "27",
         "brl%barrel %": "7.0",
-        "ab": "496",
-        "avg": ".250",
+        "ab": "498",
+        "avg": ".249",
         "h": "124",
         "1b": "75",
         "2b": "29",
@@ -28,7 +28,7 @@
         "bipballs in play": "385",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:24:04.983617"
+        "updated": "2025-07-19 20:24:14.325880"
     },
     "sf @ tor": [
         {
@@ -4647,6 +4647,23 @@
     ],
     "chw @ pit": [
         {
+            "created_at": "2025-07-19 20:23:45",
+            "player": "mike tauchman",
+            "game": "chw @ pit",
+            "hr/park": "",
+            "pa": "53",
+            "dt": "2025-07-19",
+            "team": "chw",
+            "stadium": "pit",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:21:45",
             "player": "josh rojas",
             "game": "chw @ pit",
@@ -8228,6 +8245,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-19 20:24:14",
+            "player": "corbin carroll",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-19",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 20:23:14",
             "player": "blaze alexander",
