@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "107",
         "batters": "290",
-        "pitches": "3720",
+        "pitches": "3723",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -10,14 +10,14 @@
         "fc%cutter %": "10.5",
         "fs%splitter %": "4.9",
         "ch%changeup %": "10.3",
-        "sl%slider %": "20.9",
+        "sl%slider %": "21.0",
         "cu%curve %": "6.8",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "292",
         "hh%hard hit %": "40.6",
         "brlbarrels": "54",
         "brl%barrel %": "7.5",
-        "ab": "895",
+        "ab": "896",
         "avg": ".259",
         "h": "232",
         "1b": "137",
@@ -28,7 +28,7 @@
         "bipballs in play": "720",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:32:09.487347"
+        "updated": "2025-07-19 22:32:21.552047"
     },
     "sf @ tor": [
         {
@@ -14897,10 +14897,27 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 22:32:15",
+            "player": "ezequiel tovar",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "59",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:30:32",
             "player": "ryan mcmahon",
             "game": "min @ col",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "58",
             "dt": "2025-07-19",
             "team": "col",
