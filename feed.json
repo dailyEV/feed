@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "115",
         "batters": "293",
-        "pitches": "3938",
+        "pitches": "3939",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.0",
-        "si%sinker %": "14.7",
+        "si%sinker %": "14.6",
         "fc%cutter %": "10.8",
         "fs%splitter %": "4.6",
         "ch%changeup %": "10.5",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "41.1",
         "brlbarrels": "55",
         "brl%barrel %": "7.2",
-        "ab": "944",
-        "avg": ".262",
+        "ab": "945",
+        "avg": ".261",
         "h": "247",
         "1b": "147",
         "2b": "57",
@@ -28,7 +28,7 @@
         "bipballs in play": "759",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:09:57.736343"
+        "updated": "2025-07-19 23:10:10.449384"
     },
     "sf @ tor": [
         {
@@ -16241,6 +16241,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 23:10:01",
+            "player": "brice turang",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "58",
+            "dt": "2025-07-19",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 23:07:16",
             "player": "will smith",
