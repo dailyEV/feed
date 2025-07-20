@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "120",
         "batters": "293",
-        "pitches": "4068",
+        "pitches": "4069",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.0",
         "si%sinker %": "14.6",
         "fc%cutter %": "10.9",
         "fs%splitter %": "4.5",
-        "ch%changeup %": "10.3",
+        "ch%changeup %": "10.2",
         "sl%slider %": "21.4",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "113.9",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.9",
         "brlbarrels": "58",
         "brl%barrel %": "7.4",
-        "ab": "973",
+        "ab": "974",
         "avg": ".263",
         "h": "256",
         "1b": "153",
@@ -28,7 +28,7 @@
         "bipballs in play": "782",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:42:54.182731"
+        "updated": "2025-07-19 23:43:07.054369"
     },
     "sf @ tor": [
         {
@@ -17518,6 +17518,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 23:43:00",
+            "player": "jose altuve",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "52",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 23:40:15",
             "player": "zack short",
