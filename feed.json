@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "122",
         "batters": "294",
-        "pitches": "4087",
+        "pitches": "4088",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "30.9",
         "si%sinker %": "14.7",
-        "fc%cutter %": "10.9",
+        "fc%cutter %": "11.0",
         "fs%splitter %": "4.5",
         "ch%changeup %": "10.2",
         "sl%slider %": "21.4",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "41.0",
         "brlbarrels": "59",
         "brl%barrel %": "7.5",
-        "ab": "980",
+        "ab": "981",
         "avg": ".265",
         "h": "260",
         "1b": "155",
@@ -28,7 +28,7 @@
         "bipballs in play": "787",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:48:56.898579"
+        "updated": "2025-07-19 23:49:09.763306"
     },
     "sf @ tor": [
         {
@@ -16309,6 +16309,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 23:49:00",
+            "player": "shohei ohtani",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 23:48:15",
             "player": "miguel rojas",
