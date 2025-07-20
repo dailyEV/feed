@@ -1,24 +1,24 @@
 {
     "all": {
-        "pitchers": "97",
+        "pitchers": "98",
         "batters": "277",
-        "pitches": "3425",
+        "pitches": "3431",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.4",
         "si%sinker %": "15.4",
         "fc%cutter %": "10.8",
         "fs%splitter %": "5.2",
-        "ch%changeup %": "9.6",
-        "sl%slider %": "20.8",
+        "ch%changeup %": "9.7",
+        "sl%slider %": "20.7",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "267",
         "hh%hard hit %": "40.0",
         "brlbarrels": "45",
         "brl%barrel %": "6.7",
-        "ab": "834",
-        "avg": ".259",
+        "ab": "836",
+        "avg": ".258",
         "h": "216",
         "1b": "129",
         "2b": "50",
@@ -28,7 +28,7 @@
         "bipballs in play": "668",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:55:40.364847"
+        "updated": "2025-07-19 21:55:51.742104"
     },
     "sf @ tor": [
         {
@@ -6348,6 +6348,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-19 21:55:45",
+            "player": "luis arraez",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "57",
+            "dt": "2025-07-19",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:50:59",
             "player": "fernando tatis",
@@ -14454,6 +14471,23 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-19 21:55:45",
+            "player": "mickey moniak",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:52:14",
             "player": "byron buxton",
