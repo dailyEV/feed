@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "52",
         "batters": "216",
-        "pitches": "2002",
+        "pitches": "2007",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.2",
         "ff%fourseam fastball %": "29.0",
@@ -10,25 +10,25 @@
         "fc%cutter %": "13.6",
         "fs%splitter %": "4.0",
         "ch%changeup %": "8.9",
-        "sl%slider %": "19.6",
+        "sl%slider %": "19.7",
         "cu%curve %": "7.0",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "146",
-        "hh%hard hit %": "38.5",
+        "hh%hard hit %": "38.4",
         "brlbarrels": "27",
         "brl%barrel %": "7.1",
-        "ab": "485",
-        "avg": ".247",
+        "ab": "487",
+        "avg": ".246",
         "h": "120",
         "1b": "72",
         "2b": "28",
         "3b": "3",
         "hr": "17",
-        "so": "114",
-        "bipballs in play": "379",
+        "so": "115",
+        "bipballs in play": "380",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:21:58.629528"
+        "updated": "2025-07-19 20:22:08.287745"
     },
     "sf @ tor": [
         {
@@ -3574,6 +3574,23 @@
     ],
     "laa @ phi": [
         {
+            "created_at": "2025-07-19 20:22:01",
+            "player": "nolan schanuel",
+            "game": "laa @ phi",
+            "hr/park": "",
+            "pa": "61",
+            "dt": "2025-07-19",
+            "team": "laa",
+            "stadium": "phi",
+            "in": "7",
+            "result": "Batter Timeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:20:15",
             "player": "zach neto",
             "game": "laa @ phi",
@@ -3583,7 +3600,7 @@
             "team": "laa",
             "stadium": "phi",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -8621,6 +8638,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-19 20:22:01",
+            "player": "michael harris",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "31",
+            "dt": "2025-07-19",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 20:19:29",
             "player": "nacho alvarez",
