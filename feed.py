@@ -53,7 +53,10 @@ def writeFeed(date, loop):
 
 	#psql = create_client(url, key)
 
-	headers = {"Accept": "application/vnd.github.v3.raw"}
+	headers = {
+		"Authorization": f"token {os.getenv('GITHUB_TOKEN')}",
+		"Accept": "application/vnd.github.v3.raw"
+	}
 	url = "https://api.github.com/repos/dailyev/props/contents/static/mlb/schedule.json"
 	response = requests.get(url, headers=headers)
 	schedule = response.json()
