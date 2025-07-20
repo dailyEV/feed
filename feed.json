@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "50",
         "batters": "216",
-        "pitches": "1965",
+        "pitches": "1970",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.2",
         "ff%fourseam fastball %": "28.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "19.7",
         "cu%curve %": "7.1",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "142",
-        "hh%hard hit %": "38.1",
+        "hhhard hit": "143",
+        "hh%hard hit %": "38.2",
         "brlbarrels": "27",
         "brl%barrel %": "7.2",
-        "ab": "477",
-        "avg": ".249",
+        "ab": "479",
+        "avg": ".248",
         "h": "119",
         "1b": "71",
         "2b": "28",
         "3b": "3",
         "hr": "17",
         "so": "111",
-        "bipballs in play": "373",
+        "bipballs in play": "374",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:19:42.992305"
+        "updated": "2025-07-19 20:19:52.669656"
     },
     "sf @ tor": [
         {
@@ -6831,6 +6831,23 @@
     ],
     "ath @ cle": [
         {
+            "created_at": "2025-07-19 20:19:46",
+            "player": "nick kurtz",
+            "game": "ath @ cle",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-19",
+            "team": "ath",
+            "stadium": "cle",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 20:17:30",
             "player": "jacob wilson",
             "game": "ath @ cle",
@@ -7939,6 +7956,23 @@
         }
     ],
     "stl @ ari": [
+        {
+            "created_at": "2025-07-19 20:19:46",
+            "player": "masyn winn",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "32",
+            "dt": "2025-07-19",
+            "team": "stl",
+            "stadium": "ari",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "107.9",
+            "la": "-4",
+            "dist": "26",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 20:18:29",
             "player": "nolan arenado",
