@@ -1,11 +1,11 @@
 {
     "all": {
         "pitchers": "101",
-        "batters": "282",
-        "pitches": "3512",
+        "batters": "283",
+        "pitches": "3519",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.6",
         "si%sinker %": "15.4",
         "fc%cutter %": "10.8",
         "fs%splitter %": "5.1",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.7",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "273",
-        "hh%hard hit %": "39.9",
-        "brlbarrels": "47",
-        "brl%barrel %": "6.9",
-        "ab": "855",
-        "avg": ".257",
-        "h": "220",
+        "hhhard hit": "276",
+        "hh%hard hit %": "40.1",
+        "brlbarrels": "48",
+        "brl%barrel %": "7.0",
+        "ab": "857",
+        "avg": ".258",
+        "h": "221",
         "1b": "131",
         "2b": "50",
         "3b": "7",
-        "hr": "32",
+        "hr": "33",
         "so": "186",
-        "bipballs in play": "685",
+        "bipballs in play": "688",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:05:59.317237"
+        "updated": "2025-07-19 22:06:10.798332"
     },
     "sf @ tor": [
         {
@@ -13433,11 +13433,11 @@
     ],
     "nyy @ atl": [
         {
-            "created_at": "2025-07-19 22:04:29",
-            "player": "anthony volpe",
+            "created_at": "2025-07-19 22:06:02",
+            "player": "austin wells",
             "game": "nyy @ atl",
             "hr/park": "",
-            "pa": "70",
+            "pa": "71",
             "dt": "2025-07-19",
             "team": "nyy",
             "stadium": "atl",
@@ -13448,6 +13448,23 @@
             "dist": "",
             "is_hh": false,
             "is_brl": false
+        },
+        {
+            "created_at": "2025-07-19 22:04:29",
+            "player": "anthony volpe",
+            "game": "nyy @ atl",
+            "hr/park": "30/30",
+            "pa": "70",
+            "dt": "2025-07-19",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "8",
+            "result": "Home Run",
+            "evo": "102.0",
+            "la": "34",
+            "dist": "411",
+            "is_hh": true,
+            "is_brl": true
         },
         {
             "created_at": "2025-07-19 22:03:01",
@@ -15385,10 +15402,10 @@
             "stadium": "lad",
             "in": "3",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "evo": "96.6",
+            "la": "-2",
+            "dist": "30",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -15818,6 +15835,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 22:06:02",
+            "player": "brice matthews",
+            "game": "hou @ sea",
+            "hr/park": "0/30",
+            "pa": "12",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "2",
+            "result": "Lineout",
+            "evo": "105.6",
+            "la": "18",
+            "dist": "362",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:03:01",
             "player": "mauricio dubon",
