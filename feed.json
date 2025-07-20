@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "95",
-        "batters": "274",
-        "pitches": "3373",
+        "pitchers": "96",
+        "batters": "275",
+        "pitches": "3378",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.6",
@@ -10,14 +10,14 @@
         "fc%cutter %": "10.9",
         "fs%splitter %": "5.3",
         "ch%changeup %": "9.6",
-        "sl%slider %": "20.6",
+        "sl%slider %": "20.7",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "263",
-        "hh%hard hit %": "40.0",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "44",
         "brl%barrel %": "6.7",
-        "ab": "824",
+        "ab": "826",
         "avg": ".258",
         "h": "213",
         "1b": "127",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "30",
         "so": "180",
-        "bipballs in play": "658",
+        "bipballs in play": "660",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:48:37.141988"
+        "updated": "2025-07-19 21:48:48.450573"
     },
     "sf @ tor": [
         {
@@ -6348,6 +6348,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-19 21:48:46",
+            "player": "cj abrams",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "55",
+            "dt": "2025-07-19",
+            "team": "wsh",
+            "stadium": "wsh",
+            "in": "7",
+            "result": "Groundout",
+            "evo": "61.0",
+            "la": "-30",
+            "dist": "3",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:45:45",
             "player": "jacob young",
@@ -13297,23 +13314,6 @@
     ],
     "nyy @ atl": [
         {
-            "created_at": "2025-07-19 21:48:17",
-            "player": "sean murphy",
-            "game": "nyy @ atl",
-            "hr/park": "",
-            "pa": "64",
-            "dt": "2025-07-19",
-            "team": "atl",
-            "stadium": "atl",
-            "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 21:45:45",
             "player": "drake baldwin",
             "game": "nyy @ atl",
@@ -14396,10 +14396,10 @@
             "team": "col",
             "stadium": "col",
             "in": "4",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Flyout",
+            "evo": "94.3",
+            "la": "31",
+            "dist": "354",
             "is_hh": false,
             "is_brl": false
         },
@@ -14984,6 +14984,23 @@
     ],
     "mil @ lad": [
         {
+            "created_at": "2025-07-19 21:48:46",
+            "player": "william contreras",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "19",
+            "dt": "2025-07-19",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:46:31",
             "player": "brice turang",
             "game": "mil @ lad",
@@ -15291,6 +15308,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 21:48:46",
+            "player": "christian walker",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "5",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:45:45",
             "player": "cam smith",
