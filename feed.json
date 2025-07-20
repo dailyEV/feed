@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "89",
         "batters": "259",
-        "pitches": "3135",
+        "pitches": "3140",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.8",
+        "ff%fourseam fastball %": "31.9",
         "si%sinker %": "15.5",
         "fc%cutter %": "11.1",
         "fs%splitter %": "5.4",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "38.9",
         "brlbarrels": "43",
         "brl%barrel %": "7.1",
-        "ab": "764",
+        "ab": "765",
         "avg": ".254",
         "h": "194",
         "1b": "113",
         "2b": "47",
         "3b": "6",
         "hr": "28",
-        "so": "167",
+        "so": "168",
         "bipballs in play": "609",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:31:08.803126"
+        "updated": "2025-07-19 21:31:20.197669"
     },
     "sf @ tor": [
         {
@@ -11663,6 +11663,23 @@
     ],
     "stl @ ari": [
         {
+            "created_at": "2025-07-19 21:31:16",
+            "player": "blaze alexander",
+            "game": "stl @ ari",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-19",
+            "team": "ari",
+            "stadium": "ari",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:30:29",
             "player": "alek thomas",
             "game": "stl @ ari",
@@ -12770,23 +12787,6 @@
     ],
     "nyy @ atl": [
         {
-            "created_at": "2025-07-19 21:31:01",
-            "player": "jurickson profar",
-            "game": "nyy @ atl",
-            "hr/park": "",
-            "pa": "56",
-            "dt": "2025-07-19",
-            "team": "atl",
-            "stadium": "atl",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 21:29:59",
             "player": "nick allen",
             "game": "nyy @ atl",
@@ -12796,7 +12796,7 @@
             "team": "atl",
             "stadium": "atl",
             "in": "6",
-            "result": "Lineout",
+            "result": "In Progress",
             "evo": "102.0",
             "la": "15",
             "dist": "317",
@@ -13723,6 +13723,23 @@
         }
     ],
     "min @ col": [
+        {
+            "created_at": "2025-07-19 21:31:16",
+            "player": "mickey moniak",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "24",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "3",
+            "result": "Strikeout",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:28:15",
             "player": "ryan jeffers",
