@@ -2,14 +2,14 @@
     "all": {
         "pitchers": "116",
         "batters": "293",
-        "pitches": "3999",
+        "pitches": "4000",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.1",
         "si%sinker %": "14.4",
         "fc%cutter %": "10.9",
         "fs%splitter %": "4.6",
-        "ch%changeup %": "10.4",
+        "ch%changeup %": "10.3",
         "sl%slider %": "21.4",
         "cu%curve %": "7.3",
         "max evmax exit velocity": "113.9",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.9",
         "brlbarrels": "56",
         "brl%barrel %": "7.3",
-        "ab": "955",
+        "ab": "956",
         "avg": ".263",
         "h": "251",
         "1b": "149",
@@ -28,7 +28,7 @@
         "bipballs in play": "766",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:20:17.370345"
+        "updated": "2025-07-19 23:20:30.199249"
     },
     "sf @ tor": [
         {
@@ -17348,6 +17348,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 23:20:30",
+            "player": "victor caratini",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 23:19:30",
             "player": "jose altuve",
