@@ -2,22 +2,22 @@
     "all": {
         "pitchers": "64",
         "batters": "222",
-        "pitches": "2417",
+        "pitches": "2422",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "70.6",
         "ff%fourseam fastball %": "29.6",
         "si%sinker %": "17.0",
         "fc%cutter %": "13.0",
         "fs%splitter %": "4.4",
-        "ch%changeup %": "9.3",
-        "sl%slider %": "20.3",
-        "cu%curve %": "6.5",
+        "ch%changeup %": "9.4",
+        "sl%slider %": "20.2",
+        "cu%curve %": "6.4",
         "max evmax exit velocity": "113.0",
         "hhhard hit": "178",
-        "hh%hard hit %": "37.8",
+        "hh%hard hit %": "37.7",
         "brlbarrels": "31",
         "brl%barrel %": "6.6",
-        "ab": "591",
+        "ab": "592",
         "avg": ".255",
         "h": "151",
         "1b": "90",
@@ -25,10 +25,10 @@
         "3b": "4",
         "hr": "19",
         "so": "129",
-        "bipballs in play": "471",
+        "bipballs in play": "472",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:48:28.412495"
+        "updated": "2025-07-19 20:48:38.532099"
     },
     "sf @ tor": [
         {
@@ -4861,9 +4861,9 @@
             "stadium": "pit",
             "in": "7",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "evo": "84.5",
+            "la": "14",
+            "dist": "208",
             "is_hh": false,
             "is_brl": false
         },
@@ -10423,6 +10423,23 @@
         }
     ],
     "nyy @ atl": [
+        {
+            "created_at": "2025-07-19 20:48:31",
+            "player": "drake baldwin",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "41",
+            "dt": "2025-07-19",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 20:46:44",
             "player": "ronald acuna",
