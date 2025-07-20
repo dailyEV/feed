@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "52",
         "batters": "216",
-        "pitches": "2007",
+        "pitches": "2010",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "71.2",
-        "ff%fourseam fastball %": "29.0",
+        "ff%fourseam fastball %": "29.1",
         "si%sinker %": "17.8",
         "fc%cutter %": "13.6",
         "fs%splitter %": "4.0",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "38.4",
         "brlbarrels": "27",
         "brl%barrel %": "7.1",
-        "ab": "487",
+        "ab": "488",
         "avg": ".246",
         "h": "120",
         "1b": "72",
@@ -28,7 +28,7 @@
         "bipballs in play": "380",
         "liveGames": 13,
         "totGames": 15,
-        "updated": "2025-07-19 20:22:08.287745"
+        "updated": "2025-07-19 20:22:18.258623"
     },
     "sf @ tor": [
         {
@@ -5738,6 +5738,23 @@
         }
     ],
     "bal @ tb": [
+        {
+            "created_at": "2025-07-19 20:21:14",
+            "player": "matt thaiss",
+            "game": "bal @ tb",
+            "hr/park": "",
+            "pa": "37",
+            "dt": "2025-07-19",
+            "team": "tb",
+            "stadium": "tb",
+            "in": "5",
+            "result": "Caught Stealing 2B",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 20:20:30",
             "player": "ha seong kim",
