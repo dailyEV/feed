@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "132",
-        "batters": "297",
-        "pitches": "4262",
+        "batters": "298",
+        "pitches": "4265",
         "max velomax pitch velocity": "101.0",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.2",
-        "si%sinker %": "14.6",
+        "si%sinker %": "14.7",
         "fc%cutter %": "10.4",
         "fs%splitter %": "4.4",
         "ch%changeup %": "10.0",
@@ -28,7 +28,7 @@
         "bipballs in play": "814",
         "liveGames": 0,
         "totGames": 15,
-        "updated": "2025-07-20 01:16:10.031107"
+        "updated": "2025-07-20 01:16:23.150827"
     },
     "sf @ tor": [
         {
@@ -17723,6 +17723,23 @@
     ],
     "hou @ sea": [
         {
+            "created_at": "2025-07-20 01:16:13",
+            "player": "dylan moore",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "91",
+            "dt": "2025-07-19",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "10",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-20 01:14:58",
             "player": "jorge polanco",
             "game": "hou @ sea",
@@ -17732,7 +17749,7 @@
             "team": "sea",
             "stadium": "sea",
             "in": "10",
-            "result": "In Progress",
+            "result": "Sac Bunt",
             "evo": "27.0",
             "la": "41",
             "dist": "50",
