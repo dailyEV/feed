@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "98",
-        "batters": "277",
-        "pitches": "3437",
+        "batters": "278",
+        "pitches": "3440",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -10,25 +10,25 @@
         "fc%cutter %": "10.8",
         "fs%splitter %": "5.2",
         "ch%changeup %": "9.7",
-        "sl%slider %": "20.7",
+        "sl%slider %": "20.8",
         "cu%curve %": "6.7",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "268",
-        "hh%hard hit %": "39.9",
+        "hhhard hit": "267",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "45",
         "brl%barrel %": "6.7",
-        "ab": "836",
-        "avg": ".260",
+        "ab": "838",
+        "avg": ".259",
         "h": "217",
         "1b": "130",
         "2b": "50",
         "3b": "7",
         "hr": "30",
         "so": "182",
-        "bipballs in play": "672",
+        "bipballs in play": "671",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:56:49.621430"
+        "updated": "2025-07-19 21:57:00.801458"
     },
     "sf @ tor": [
         {
@@ -14472,6 +14472,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 21:57:00",
+            "player": "hunter goodman",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "40",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "5",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:55:45",
             "player": "mickey moniak",
             "game": "min @ col",
@@ -15147,10 +15164,10 @@
             "stadium": "lad",
             "in": "3",
             "result": "In Progress",
-            "evo": "100.1",
-            "la": "22",
-            "dist": "364",
-            "is_hh": true,
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
             "is_brl": false
         },
         {
@@ -15512,6 +15529,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 21:57:00",
+            "player": "julio rodriguez",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "8",
+            "dt": "2025-07-19",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:54:59",
             "player": "jp crawford",
