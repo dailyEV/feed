@@ -2,12 +2,12 @@
     "all": {
         "pitchers": "115",
         "batters": "293",
-        "pitches": "3973",
+        "pitches": "3974",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.1",
         "si%sinker %": "14.5",
-        "fc%cutter %": "10.8",
+        "fc%cutter %": "10.9",
         "fs%splitter %": "4.6",
         "ch%changeup %": "10.4",
         "sl%slider %": "21.2",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "41.1",
         "brlbarrels": "55",
         "brl%barrel %": "7.2",
-        "ab": "948",
-        "avg": ".262",
+        "ab": "949",
+        "avg": ".261",
         "h": "248",
         "1b": "148",
         "2b": "57",
@@ -28,7 +28,7 @@
         "bipballs in play": "760",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:14:25.997329"
+        "updated": "2025-07-19 23:14:38.856140"
     },
     "sf @ tor": [
         {
@@ -14982,6 +14982,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 23:14:30",
+            "player": "harrison bader",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "76",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 23:11:30",
             "player": "matt wallner",
             "game": "min @ col",
@@ -16268,7 +16285,7 @@
             "team": "mil",
             "stadium": "lad",
             "in": "7",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
@@ -17273,7 +17290,7 @@
             "team": "sea",
             "stadium": "sea",
             "in": "4",
-            "result": "Strikeout",
+            "result": "In Progress",
             "evo": "",
             "la": "",
             "dist": "",
