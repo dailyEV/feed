@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "96",
         "batters": "276",
-        "pitches": "3415",
+        "pitches": "3419",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -17,8 +17,8 @@
         "hh%hard hit %": "40.0",
         "brlbarrels": "45",
         "brl%barrel %": "6.7",
-        "ab": "831",
-        "avg": ".260",
+        "ab": "833",
+        "avg": ".259",
         "h": "216",
         "1b": "129",
         "2b": "50",
@@ -28,7 +28,7 @@
         "bipballs in play": "667",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:53:34.047436"
+        "updated": "2025-07-19 21:53:45.433668"
     },
     "sf @ tor": [
         {
@@ -13331,6 +13331,23 @@
     ],
     "nyy @ atl": [
         {
+            "created_at": "2025-07-19 21:53:45",
+            "player": "nacho alvarez",
+            "game": "nyy @ atl",
+            "hr/park": "",
+            "pa": "66",
+            "dt": "2025-07-19",
+            "team": "atl",
+            "stadium": "atl",
+            "in": "7",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:50:00",
             "player": "ozzie albies",
             "game": "nyy @ atl",
@@ -15085,6 +15102,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 21:53:45",
+            "player": "christian yelich",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "21",
+            "dt": "2025-07-19",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:50:15",
             "player": "jackson chourio",
