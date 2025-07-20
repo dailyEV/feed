@@ -2,23 +2,23 @@
     "all": {
         "pitchers": "113",
         "batters": "292",
-        "pitches": "3885",
+        "pitches": "3888",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.4",
         "si%sinker %": "14.5",
-        "fc%cutter %": "10.4",
+        "fc%cutter %": "10.5",
         "fs%splitter %": "4.7",
         "ch%changeup %": "10.6",
-        "sl%slider %": "21.3",
+        "sl%slider %": "21.2",
         "cu%curve %": "7.2",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "309",
         "hh%hard hit %": "41.1",
         "brlbarrels": "54",
         "brl%barrel %": "7.2",
-        "ab": "931",
-        "avg": ".260",
+        "ab": "933",
+        "avg": ".259",
         "h": "242",
         "1b": "143",
         "2b": "57",
@@ -28,7 +28,7 @@
         "bipballs in play": "751",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:00:23.696158"
+        "updated": "2025-07-19 23:00:36.876175"
     },
     "sf @ tor": [
         {
@@ -14982,10 +14982,27 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 23:00:30",
+            "player": "mickey moniak",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "71",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 23:00:15",
             "player": "tyler freeman",
             "game": "min @ col",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "70",
             "dt": "2025-07-19",
             "team": "col",
@@ -17042,6 +17059,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 23:00:30",
+            "player": "chas mccormick",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:54:30",
             "player": "ben williamson",
