@@ -2,10 +2,10 @@
     "all": {
         "pitchers": "108",
         "batters": "290",
-        "pitches": "3743",
+        "pitches": "3748",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.4",
+        "ff%fourseam fastball %": "31.5",
         "si%sinker %": "15.0",
         "fc%cutter %": "10.5",
         "fs%splitter %": "4.9",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.9",
         "cu%curve %": "6.8",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "296",
-        "hh%hard hit %": "40.8",
+        "hhhard hit": "297",
+        "hh%hard hit %": "40.9",
         "brlbarrels": "54",
         "brl%barrel %": "7.4",
-        "ab": "902",
-        "avg": ".261",
+        "ab": "904",
+        "avg": ".260",
         "h": "235",
         "1b": "140",
         "2b": "53",
         "3b": "7",
         "hr": "35",
         "so": "195",
-        "bipballs in play": "726",
+        "bipballs in play": "727",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:35:40.998812"
+        "updated": "2025-07-19 22:35:53.804980"
     },
     "sf @ tor": [
         {
@@ -15953,6 +15953,23 @@
     ],
     "mil @ lad": [
         {
+            "created_at": "2025-07-19 22:35:45",
+            "player": "shohei ohtani",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "39",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:34:46",
             "player": "miguel rojas",
             "game": "mil @ lad",
@@ -15962,7 +15979,7 @@
             "team": "lad",
             "stadium": "lad",
             "in": "4",
-            "result": "In Progress",
+            "result": "Groundout",
             "evo": "102.6",
             "la": "-28",
             "dist": "5",
@@ -16600,6 +16617,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 22:35:45",
+            "player": "christian walker",
+            "game": "hou @ sea",
+            "hr/park": "0/30",
+            "pa": "24",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "3",
+            "result": "Lineout",
+            "evo": "100.8",
+            "la": "18",
+            "dist": "334",
+            "is_hh": true,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:35:15",
             "player": "cam smith",
