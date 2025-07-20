@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "104",
+        "pitchers": "105",
         "batters": "290",
-        "pitches": "3655",
+        "pitches": "3659",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -17,18 +17,18 @@
         "hh%hard hit %": "40.3",
         "brlbarrels": "52",
         "brl%barrel %": "7.3",
-        "ab": "881",
-        "avg": ".260",
+        "ab": "883",
+        "avg": ".259",
         "h": "229",
         "1b": "136",
         "2b": "52",
         "3b": "7",
         "hr": "34",
         "so": "191",
-        "bipballs in play": "709",
+        "bipballs in play": "710",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:23:22.245093"
+        "updated": "2025-07-19 22:23:34.825207"
     },
     "sf @ tor": [
         {
@@ -15714,6 +15714,40 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 22:23:30",
+            "player": "blake perkins",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "34",
+            "dt": "2025-07-19",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "4",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-19 22:23:30",
+            "player": "caleb durbin",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "33",
+            "dt": "2025-07-19",
+            "team": "mil",
+            "stadium": "lad",
+            "in": "4",
+            "result": "Groundout",
+            "evo": "81.0",
+            "la": "-15",
+            "dist": "12",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:18:45",
             "player": "isaac collins",
