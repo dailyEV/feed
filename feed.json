@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "91",
+        "pitchers": "90",
         "batters": "262",
-        "pitches": "3225",
+        "pitches": "3226",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.5",
@@ -13,22 +13,22 @@
         "sl%slider %": "20.4",
         "cu%curve %": "6.5",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "247",
-        "hh%hard hit %": "39.2",
+        "hhhard hit": "248",
+        "hh%hard hit %": "39.3",
         "brlbarrels": "44",
         "brl%barrel %": "7.0",
-        "ab": "787",
-        "avg": ".255",
+        "ab": "786",
+        "avg": ".256",
         "h": "201",
         "1b": "118",
         "2b": "48",
         "3b": "6",
         "hr": "29",
         "so": "171",
-        "bipballs in play": "630",
+        "bipballs in play": "631",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:36:48.905161"
+        "updated": "2025-07-19 21:37:00.058759"
     },
     "sf @ tor": [
         {
@@ -6358,11 +6358,11 @@
             "team": "sd",
             "stadium": "wsh",
             "in": "7",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "result": "GIDP",
+            "evo": "96.4",
+            "la": "-3",
+            "dist": "23",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -7217,23 +7217,6 @@
         }
     ],
     "bal @ tb": [
-        {
-            "created_at": "2025-07-19 21:36:14",
-            "player": "colton cowser",
-            "game": "bal @ tb",
-            "hr/park": "",
-            "pa": "67",
-            "dt": "2025-07-19",
-            "team": "bal",
-            "stadium": "tb",
-            "in": "9",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-19 21:32:00",
             "player": "josh lowe",
