@@ -2,19 +2,19 @@
     "all": {
         "pitchers": "101",
         "batters": "282",
-        "pitches": "3497",
+        "pitches": "3498",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.6",
         "si%sinker %": "15.4",
-        "fc%cutter %": "10.8",
+        "fc%cutter %": "10.7",
         "fs%splitter %": "5.1",
-        "ch%changeup %": "9.8",
-        "sl%slider %": "20.7",
+        "ch%changeup %": "9.9",
+        "sl%slider %": "20.6",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "272",
-        "hh%hard hit %": "39.9",
+        "hh%hard hit %": "39.8",
         "brlbarrels": "47",
         "brl%barrel %": "6.9",
         "ab": "852",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "32",
         "so": "185",
-        "bipballs in play": "682",
+        "bipballs in play": "683",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:04:25.789790"
+        "updated": "2025-07-19 22:04:37.781917"
     },
     "sf @ tor": [
         {
@@ -13399,11 +13399,11 @@
     ],
     "nyy @ atl": [
         {
-            "created_at": "2025-07-19 22:03:01",
-            "player": "trent grisham",
+            "created_at": "2025-07-19 22:04:29",
+            "player": "anthony volpe",
             "game": "nyy @ atl",
             "hr/park": "",
-            "pa": "69",
+            "pa": "70",
             "dt": "2025-07-19",
             "team": "nyy",
             "stadium": "atl",
@@ -13412,6 +13412,23 @@
             "evo": "",
             "la": "",
             "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
+            "created_at": "2025-07-19 22:03:01",
+            "player": "trent grisham",
+            "game": "nyy @ atl",
+            "hr/park": "0/30",
+            "pa": "69",
+            "dt": "2025-07-19",
+            "team": "nyy",
+            "stadium": "atl",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "83.3",
+            "la": "36",
+            "dist": "310",
             "is_hh": false,
             "is_brl": false
         },
@@ -15323,23 +15340,6 @@
         }
     ],
     "mil @ lad": [
-        {
-            "created_at": "2025-07-19 22:04:17",
-            "player": "will smith",
-            "game": "mil @ lad",
-            "hr/park": "",
-            "pa": "26",
-            "dt": "2025-07-19",
-            "team": "lad",
-            "stadium": "lad",
-            "in": "3",
-            "result": "Mound Visit",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
         {
             "created_at": "2025-07-19 22:03:15",
             "player": "shohei ohtani",
