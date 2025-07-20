@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "113",
         "batters": "292",
-        "pitches": "3883",
+        "pitches": "3885",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.4",
-        "si%sinker %": "14.6",
+        "si%sinker %": "14.5",
         "fc%cutter %": "10.4",
         "fs%splitter %": "4.7",
         "ch%changeup %": "10.6",
@@ -14,10 +14,10 @@
         "cu%curve %": "7.2",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "309",
-        "hh%hard hit %": "41.2",
+        "hh%hard hit %": "41.1",
         "brlbarrels": "54",
         "brl%barrel %": "7.2",
-        "ab": "930",
+        "ab": "931",
         "avg": ".260",
         "h": "242",
         "1b": "143",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "35",
         "so": "202",
-        "bipballs in play": "750",
+        "bipballs in play": "751",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:00:11.234169"
+        "updated": "2025-07-19 23:00:23.696158"
     },
     "sf @ tor": [
         {
@@ -14982,10 +14982,27 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 23:00:15",
+            "player": "tyler freeman",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "70",
+            "dt": "2025-07-19",
+            "team": "col",
+            "stadium": "col",
+            "in": "8",
+            "result": "Flyout",
+            "evo": "89.4",
+            "la": "36",
+            "dist": "348",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:58:46",
             "player": "orlando arcia",
             "game": "min @ col",
-            "hr/park": "",
+            "hr/park": "6/30",
             "pa": "69",
             "dt": "2025-07-19",
             "team": "col",
