@@ -1,23 +1,23 @@
 {
     "all": {
-        "pitchers": "103",
+        "pitchers": "104",
         "batters": "287",
-        "pitches": "3580",
+        "pitches": "3584",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
-        "ff%fourseam fastball %": "31.5",
+        "ff%fourseam fastball %": "31.6",
         "si%sinker %": "15.3",
         "fc%cutter %": "10.6",
         "fs%splitter %": "5.0",
         "ch%changeup %": "10.1",
         "sl%slider %": "20.8",
-        "cu%curve %": "6.6",
+        "cu%curve %": "6.7",
         "max evmax exit velocity": "113.9",
         "hhhard hit": "281",
-        "hh%hard hit %": "40.3",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "50",
         "brl%barrel %": "7.2",
-        "ab": "868",
+        "ab": "869",
         "avg": ".260",
         "h": "226",
         "1b": "135",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "33",
         "so": "186",
-        "bipballs in play": "698",
+        "bipballs in play": "699",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:13:48.451569"
+        "updated": "2025-07-19 22:14:00.157233"
     },
     "sf @ tor": [
         {
@@ -6348,6 +6348,23 @@
         }
     ],
     "sd @ wsh": [
+        {
+            "created_at": "2025-07-19 22:14:00",
+            "player": "jackson merrill",
+            "game": "sd @ wsh",
+            "hr/park": "",
+            "pa": "64",
+            "dt": "2025-07-19",
+            "team": "sd",
+            "stadium": "wsh",
+            "in": "9",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:11:30",
             "player": "josh bell",
@@ -13460,9 +13477,9 @@
             "stadium": "atl",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "evo": "88.3",
+            "la": "68",
+            "dist": "151",
             "is_hh": false,
             "is_brl": false
         },
