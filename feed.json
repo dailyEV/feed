@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "101",
         "batters": "283",
-        "pitches": "3519",
+        "pitches": "3524",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.6",
@@ -13,11 +13,11 @@
         "sl%slider %": "20.7",
         "cu%curve %": "6.6",
         "max evmax exit velocity": "113.9",
-        "hhhard hit": "276",
-        "hh%hard hit %": "40.1",
+        "hhhard hit": "277",
+        "hh%hard hit %": "40.2",
         "brlbarrels": "48",
         "brl%barrel %": "7.0",
-        "ab": "857",
+        "ab": "858",
         "avg": ".258",
         "h": "221",
         "1b": "131",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "33",
         "so": "186",
-        "bipballs in play": "688",
+        "bipballs in play": "689",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:06:22.447443"
+        "updated": "2025-07-19 22:06:34.237115"
     },
     "sf @ tor": [
         {
@@ -14642,6 +14642,23 @@
     ],
     "min @ col": [
         {
+            "created_at": "2025-07-19 22:06:30",
+            "player": "willi castro",
+            "game": "min @ col",
+            "hr/park": "",
+            "pa": "45",
+            "dt": "2025-07-19",
+            "team": "min",
+            "stadium": "col",
+            "in": "6",
+            "result": "In Progress",
+            "evo": "105.0",
+            "la": "",
+            "dist": "53",
+            "is_hh": true,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 22:03:45",
             "player": "michael toglia",
             "game": "min @ col",
@@ -15839,7 +15856,7 @@
             "created_at": "2025-07-19 22:06:02",
             "player": "brice matthews",
             "game": "hou @ sea",
-            "hr/park": "0/30",
+            "hr/park": "",
             "pa": "12",
             "dt": "2025-07-19",
             "team": "hou",
