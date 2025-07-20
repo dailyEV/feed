@@ -1,8 +1,8 @@
 {
     "all": {
-        "pitchers": "116",
+        "pitchers": "117",
         "batters": "293",
-        "pitches": "4012",
+        "pitches": "4013",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.0",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.9",
         "brlbarrels": "56",
         "brl%barrel %": "7.3",
-        "ab": "957",
+        "ab": "958",
         "avg": ".263",
         "h": "252",
         "1b": "150",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "36",
         "so": "213",
-        "bipballs in play": "767",
+        "bipballs in play": "768",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 23:25:14.395104"
+        "updated": "2025-07-19 23:25:26.912905"
     },
     "sf @ tor": [
         {
@@ -17382,6 +17382,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 23:25:18",
+            "player": "cam smith",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "42",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "5",
+            "result": "GIDP",
+            "evo": "69.5",
+            "la": "-19",
+            "dist": "8",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 23:20:30",
             "player": "victor caratini",
