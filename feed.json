@@ -1,12 +1,12 @@
 {
     "all": {
         "pitchers": "94",
-        "batters": "268",
-        "pitches": "3309",
+        "batters": "269",
+        "pitches": "3313",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "15.3",
+        "si%sinker %": "15.4",
         "fc%cutter %": "10.8",
         "fs%splitter %": "5.3",
         "ch%changeup %": "9.6",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "39.9",
         "brlbarrels": "44",
         "brl%barrel %": "6.8",
-        "ab": "808",
+        "ab": "809",
         "avg": ".255",
         "h": "206",
         "1b": "121",
@@ -28,7 +28,7 @@
         "bipballs in play": "644",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 21:43:27.391476"
+        "updated": "2025-07-19 21:43:38.765978"
     },
     "sf @ tor": [
         {
@@ -13198,7 +13198,7 @@
             "created_at": "2025-07-19 21:43:00",
             "player": "jazz chisholm",
             "game": "nyy @ atl",
-            "hr/park": "",
+            "hr/park": "0/30",
             "pa": "62",
             "dt": "2025-07-19",
             "team": "nyy",
@@ -15036,6 +15036,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 21:43:30",
+            "player": "jose altuve",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "2",
+            "dt": "2025-07-19",
+            "team": "hou",
+            "stadium": "sea",
+            "in": "1",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 21:42:14",
             "player": "isaac paredes",
