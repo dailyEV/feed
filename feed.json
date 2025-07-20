@@ -1,8 +1,8 @@
 {
     "all": {
         "pitchers": "101",
-        "batters": "283",
-        "pitches": "3532",
+        "batters": "284",
+        "pitches": "3534",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.6",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.2",
         "brlbarrels": "49",
         "brl%barrel %": "7.1",
-        "ab": "860",
+        "ab": "861",
         "avg": ".259",
         "h": "223",
         "1b": "133",
@@ -28,7 +28,7 @@
         "bipballs in play": "691",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:07:56.431400"
+        "updated": "2025-07-19 22:08:08.119812"
     },
     "sf @ tor": [
         {
@@ -13436,7 +13436,7 @@
             "created_at": "2025-07-19 22:06:02",
             "player": "austin wells",
             "game": "nyy @ atl",
-            "hr/park": "",
+            "hr/park": "1/30",
             "pa": "71",
             "dt": "2025-07-19",
             "team": "nyy",
@@ -15886,6 +15886,23 @@
         }
     ],
     "hou @ sea": [
+        {
+            "created_at": "2025-07-19 22:07:59",
+            "player": "randy arozarena",
+            "game": "hou @ sea",
+            "hr/park": "",
+            "pa": "13",
+            "dt": "2025-07-19",
+            "team": "sea",
+            "stadium": "sea",
+            "in": "2",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:06:02",
             "player": "brice matthews",
