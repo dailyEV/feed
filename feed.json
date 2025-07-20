@@ -2,11 +2,11 @@
     "all": {
         "pitchers": "101",
         "batters": "285",
-        "pitches": "3549",
+        "pitches": "3553",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.6",
-        "si%sinker %": "15.4",
+        "si%sinker %": "15.3",
         "fc%cutter %": "10.7",
         "fs%splitter %": "5.0",
         "ch%changeup %": "10.0",
@@ -17,7 +17,7 @@
         "hh%hard hit %": "40.3",
         "brlbarrels": "49",
         "brl%barrel %": "7.1",
-        "ab": "861",
+        "ab": "862",
         "avg": ".260",
         "h": "224",
         "1b": "134",
@@ -25,10 +25,10 @@
         "3b": "7",
         "hr": "33",
         "so": "186",
-        "bipballs in play": "692",
+        "bipballs in play": "693",
         "liveGames": 15,
         "totGames": 15,
-        "updated": "2025-07-19 22:09:42.168202"
+        "updated": "2025-07-19 22:09:53.633934"
     },
     "sf @ tor": [
         {
@@ -13442,10 +13442,10 @@
             "team": "nyy",
             "stadium": "atl",
             "in": "8",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
+            "result": "Pop Out",
+            "evo": "84.8",
+            "la": "81",
+            "dist": "23",
             "is_hh": false,
             "is_brl": false
         },
@@ -15459,6 +15459,23 @@
         }
     ],
     "mil @ lad": [
+        {
+            "created_at": "2025-07-19 22:09:45",
+            "player": "teoscar hernandez",
+            "game": "mil @ lad",
+            "hr/park": "",
+            "pa": "28",
+            "dt": "2025-07-19",
+            "team": "lad",
+            "stadium": "lad",
+            "in": "3",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
         {
             "created_at": "2025-07-19 22:07:01",
             "player": "freddie freeman",
