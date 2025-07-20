@@ -2,7 +2,7 @@
     "all": {
         "pitchers": "90",
         "batters": "259",
-        "pitches": "3142",
+        "pitches": "3146",
         "max velomax pitch velocity": "100.6",
         "min velomin pitch velocity": "69.2",
         "ff%fourseam fastball %": "31.8",
@@ -13,8 +13,8 @@
         "sl%slider %": "20.3",
         "cu%curve %": "6.5",
         "max evmax exit velocity": "113.0",
-        "hhhard hit": "237",
-        "hh%hard hit %": "38.9",
+        "hhhard hit": "238",
+        "hh%hard hit %": "39.0",
         "brlbarrels": "43",
         "brl%barrel %": "7.0",
         "ab": "766",
@@ -24,11 +24,11 @@
         "2b": "47",
         "3b": "6",
         "hr": "28",
-        "so": "167",
-        "bipballs in play": "610",
+        "so": "168",
+        "bipballs in play": "611",
         "liveGames": 14,
         "totGames": 15,
-        "updated": "2025-07-19 21:31:43.343687"
+        "updated": "2025-07-19 21:31:54.548060"
     },
     "sf @ tor": [
         {
@@ -10573,6 +10573,23 @@
     ],
     "bos @ chc": [
         {
+            "created_at": "2025-07-19 21:31:46",
+            "player": "reese mcguire",
+            "game": "bos @ chc",
+            "hr/park": "",
+            "pa": "65",
+            "dt": "2025-07-19",
+            "team": "chc",
+            "stadium": "chc",
+            "in": "8",
+            "result": "In Progress",
+            "evo": "",
+            "la": "",
+            "dist": "",
+            "is_hh": false,
+            "is_brl": false
+        },
+        {
             "created_at": "2025-07-19 21:30:16",
             "player": "nico hoerner",
             "game": "bos @ chc",
@@ -11673,10 +11690,10 @@
             "stadium": "ari",
             "in": "8",
             "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
+            "evo": "104.0",
+            "la": "-8",
+            "dist": "13",
+            "is_hh": true,
             "is_brl": false
         },
         {
@@ -12787,23 +12804,6 @@
     ],
     "nyy @ atl": [
         {
-            "created_at": "2025-07-19 21:31:01",
-            "player": "jurickson profar",
-            "game": "nyy @ atl",
-            "hr/park": "",
-            "pa": "56",
-            "dt": "2025-07-19",
-            "team": "atl",
-            "stadium": "atl",
-            "in": "6",
-            "result": "In Progress",
-            "evo": "",
-            "la": "",
-            "dist": "",
-            "is_hh": false,
-            "is_brl": false
-        },
-        {
             "created_at": "2025-07-19 21:29:59",
             "player": "nick allen",
             "game": "nyy @ atl",
@@ -12813,7 +12813,7 @@
             "team": "atl",
             "stadium": "atl",
             "in": "6",
-            "result": "Lineout",
+            "result": "In Progress",
             "evo": "102.0",
             "la": "15",
             "dist": "317",
@@ -13750,7 +13750,7 @@
             "team": "col",
             "stadium": "col",
             "in": "3",
-            "result": "In Progress",
+            "result": "Strikeout",
             "evo": "",
             "la": "",
             "dist": "",
