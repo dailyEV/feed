@@ -20,6 +20,10 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from supabase import create_client
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 def commitChanges():
 	repo = git.Repo(".")
 	repo.git.add(A=True)
