@@ -231,6 +231,7 @@ if __name__ == '__main__':
 			json.dump({}, fh)
 		exit()
 
+	time.sleep(1200)
 	writeFeed(date, args.loop)
 
 	if args.commit:
