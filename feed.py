@@ -304,6 +304,8 @@ if __name__ == '__main__':
 	if args.clear:
 		with open("feed_times.json", "w") as fh:
 			json.dump({}, fh)
+		with open("pitches.json", "w") as fh:
+			json.dump({}, fh)
 		exit()
 
 	#time.sleep(1200)
