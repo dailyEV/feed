@@ -20,6 +20,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from supabase import create_client
 
+from collections import defaultdict
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -66,6 +67,10 @@ def writeFeed(date, loop):
 	schedule = response.json()
 	inserted = {}
 
+	time.sleep(2)
+	btn = driver.find_element(By.CSS_SELECTOR, "#btnHide")
+	btn.click()
+
 	i = 0
 	while True:
 		html = driver.page_source
@@ -89,7 +94,9 @@ def writeFeed(date, loop):
 					games.append(gameData)
 			liveGames = len(games)
 		data = {}
-		parseFeed(date, data, times, games, totGames, soup, inserted)
+		pitches = parsePitch(driver)
+		parseFeed(date, data, pitches, times, games, totGames, soup, inserted)
+		
 		i += 1
 
 		if not loop:
@@ -122,7 +129,50 @@ async def upsertFeed(psql, data, inserted):
 		print(f"Inserting {len(rows)} rows")
 		await supabase.table("Feed").upsert(rows).execute()
 
-def parseFeed(date, data, times, games, totGames, soup, inserted):
+def parsePitch(driver):
+	btn = driver.find_elements(By.CSS_SELECTOR, "#nav-buttons div")[4]
+	btn.click()
+
+	html = driver.page_source
+	soup = BS(html, "html.parser")
+
+	data = {}
+	for div in soup.find_all("div", class_="game-container"):
+		away = div.find("div", class_="team-left")
+		home = div.find("div", class_="team-right")
+		away = convertMLBTeam(away.text.strip())
+		home = convertMLBTeam(home.text.strip())
+		game = f"{away} @ {home}"
+		if game in data:
+			game = f"{away}-gm2 @ {home}-gm2"
+		data.setdefault(game, {})
+		table = div.find("div", class_="pitch-velocity-table")
+		if not table or not table.find("tbody"):
+			continue
+		for tr in table.find("tbody").find_all("tr"):
+			tds = tr.find_all("td")
+			pitcher = parsePlayer(tds[2].text.strip())
+			batter = parsePlayer(tds[4].text.strip())
+
+			pa = tds[7].text.strip()
+
+			# we only want the latest pitch
+			if pa in data[game]:
+				continue
+
+			data[game][pa] = {
+				"player": batter,
+				"pitcher": pitcher,
+				"result": tds[9].text.strip(),
+				"pitch": tds[10].text.strip()
+			}
+
+	btn = driver.find_elements(By.CSS_SELECTOR, "#nav-buttons div")[0]
+	btn.click()
+	return data
+
+
+def parseFeed(date, data, pitches, times, games, totGames, soup, inserted):
 	allTable = soup.find("div", id="allMetrics")
 	hdrs = [th.text.lower() for th in allTable.find_all("th")]
 	starts = {}
@@ -172,9 +222,12 @@ def parseFeed(date, data, times, games, totGames, soup, inserted):
 			for hdr in ["in", "result", "evo", "la", "dist"]:
 				j[hdr] = tds[i].text.strip()
 				i += 1
-
 			j["is_hh"] = isHH(j)
 			j["is_brl"] = isBarrel(j)
+
+			if pa in pitches[game]:
+				j["pitcher"] = pitches[game][pa]["pitcher"]
+				j["pitch"] = parsePitchType(pitches[game][pa]["pitch"])
 
 			data[game].append(j)
 
@@ -183,6 +236,8 @@ def parseFeed(date, data, times, games, totGames, soup, inserted):
 
 	with open("updated") as fh:
 		updated = float(fh.read().strip() or 0)
+
+	# 5 minute delay for 
 	now = time.time()
 	if now - updated >= 5*60:
 		with open("feed_free.json", "w") as fh:
@@ -232,7 +287,7 @@ if __name__ == '__main__':
 		exit()
 
 	#time.sleep(1200)
-	writeFeed(date, args.loop)
+	#writeFeed(date, args.loop)
 
 	if args.commit:
 		commitChanges()

@@ -13,6 +13,26 @@ def commitChanges():
 		origin.push()
 		#print("Successful commit")
 
+def parsePitchType(pitch):
+	pitch = pitch.lower().replace(" ", "")
+	pitches = {
+		"changeup": "CH",
+		"cutter": "FC",
+		"eephus": "EP",
+		"forkball": "FO",
+		"knuckleball": "KN",
+		"knucklecurve": "KC",
+		"screwball": "SC",
+		"slider": "SL",
+		"sinker": "SI",
+		"slurve": "SV",
+		"splitter": "FS",
+		"sweeper": "ST"
+	}
+	if "fastball" in pitch:
+		return "FF"
+	return pitches.get(pitch, pitch)
+
 def isHH(data):
 	ev = float(data["evo"] or 0)
 	return ev >= 95
