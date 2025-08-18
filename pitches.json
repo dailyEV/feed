@@ -617,11 +617,17 @@
     }
   },
   "tor @ pit": {
-    "24": {
-      "player": "spencer horwitz",
+    "25": {
+      "player": "tommy pham",
       "pitcher": "kevin gausman",
       "result": "Foul",
       "pitch": "Splitter"
+    },
+    "24": {
+      "player": "spencer horwitz",
+      "pitcher": "kevin gausman",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "daulton varsho",
@@ -763,6 +769,12 @@
     }
   },
   "stl @ mia": {
+    "25": {
+      "player": "willson contreras",
+      "pitcher": "eury perez",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "24": {
       "player": "jakob marsee",
       "pitcher": "matthew liberatore",
@@ -912,8 +924,8 @@
     "22": {
       "player": "brandon marsh",
       "pitcher": "logan gilbert",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "alec bohm",
@@ -1046,8 +1058,8 @@
     "9": {
       "player": "samuel basallo",
       "pitcher": "dustin may",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "alex bregman",
@@ -1098,7 +1110,20 @@
       "pitch": "Cutter"
     }
   },
-  "chw @ atl": {},
+  "chw @ atl": {
+    "2": {
+      "player": "miguel vargas",
+      "pitcher": "spencer strider",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "1": {
+      "player": "mike tauchman",
+      "pitcher": "spencer strider",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "tex @ kc": {},
   "lad @ col": {},
   "cin @ laa": {},
