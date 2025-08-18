@@ -33,6 +33,27 @@ def commitChanges():
 	origin = repo.remote(name="origin")
 	origin.push()
 
+def writePitchFeed(date, loop):
+	url = f"https://baseballsavant.mlb.com/gamefeed?date={date}&hf=pitchVelocity"
+	driver = webdriver.Firefox()
+	driver.get(url)
+	try:
+		element = WebDriverWait(driver, 10).until(
+			EC.presence_of_element_located((By.CLASS_NAME, "container-open"))
+		)
+	except:
+		driver.quit()
+
+	time.sleep(2)
+	btn = driver.find_element(By.CSS_SELECTOR, "#btnHide")
+	btn.click()
+
+	pitches = parsePitch(driver)
+	with open("pitches.json", "w") as fh:
+		json.dump(pitches, fh, indent=2)
+
+	driver.quit()
+
 def writeFeed(date, loop):
 	if not date:
 		date = str(datetime.now())[:10]
@@ -67,16 +88,13 @@ def writeFeed(date, loop):
 	schedule = response.json()
 	inserted = {}
 
-	time.sleep(2)
-	btn = driver.find_element(By.CSS_SELECTOR, "#btnHide")
-	btn.click()
-
 	i = 0
 	while True:
 		html = driver.page_source
 		soup = BS(html, "html.parser")
-		#with open(f"feed.html", "w") as fh:
-		#	fh.write(html)
+		
+		with open(f"pitches.json") as fh:
+			pitches = json.load(fh)
 
 		totGames = len(schedule[date])
 		games = []
@@ -94,7 +112,8 @@ def writeFeed(date, loop):
 					games.append(gameData)
 			liveGames = len(games)
 		data = {}
-		pitches = parsePitch(driver)
+		pitches = {}
+		#pitches = parsePitch(driver)
 		parseFeed(date, data, pitches, times, games, totGames, soup, inserted)
 		
 		i += 1
@@ -149,6 +168,7 @@ def parsePitch(driver):
 		table = div.find("div", class_="pitch-velocity-table")
 		if not table or not table.find("tbody"):
 			continue
+		#print(game)
 		for tr in table.find("tbody").find_all("tr"):
 			tds = tr.find_all("td")
 			pitcher = parsePlayer(tds[2].text.strip())
@@ -157,7 +177,7 @@ def parsePitch(driver):
 			pa = tds[7].text.strip()
 
 			# we only want the latest pitch
-			if pa in data[game]:
+			if pa in data.get(game, {}):
 				continue
 
 			data[game][pa] = {
@@ -225,7 +245,7 @@ def parseFeed(date, data, pitches, times, games, totGames, soup, inserted):
 			j["is_hh"] = isHH(j)
 			j["is_brl"] = isBarrel(j)
 
-			if pa in pitches[game]:
+			if pa in pitches.get(game, {}):
 				j["pitcher"] = pitches[game][pa]["pitcher"]
 				j["pitch"] = parsePitchType(pitches[game][pa]["pitch"])
 
@@ -257,6 +277,7 @@ if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--sport")
 	parser.add_argument("--date", "-d")
+	parser.add_argument("--pitch", "-p", action="store_true")
 	parser.add_argument("--loop", action="store_true")
 	parser.add_argument("--clear", action="store_true")
 	parser.add_argument("--yest", action="store_true")
@@ -287,7 +308,10 @@ if __name__ == '__main__':
 		exit()
 
 	#time.sleep(1200)
-	#writeFeed(date, args.loop)
+	if args.pitch:
+		writePitchFeed(date, args.loop)
+	else:
+		writeFeed(date, args.loop)
 
 	if args.commit:
 		commitChanges()
