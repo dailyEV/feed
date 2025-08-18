@@ -188,7 +188,7 @@ def parsePitch(driver, leftOrRight):
 			pitcher = parsePlayer(tds[2].text.strip())
 			batter = parsePlayer(tds[4].text.strip())
 
-			img = tr.find_all("img")[1].get("src")
+			img = tr.find_all("img", class_="table-team-logo")[1].get("src")
 			opp = convertSavantLogoId(img.split("/")[-1].replace(".svg", ""))
 
 			pa = tds[7].text.strip()
