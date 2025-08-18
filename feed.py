@@ -258,7 +258,8 @@ def parseFeed(date, data, pitches, times, games, totGames, soup, inserted, leftO
 				"pa": pa,
 				"dt": date,
 				"team": team,
-				"stadium": game.split(" @ ")[-1].replace("-gm2", "")
+				"stadium": game.split(" @ ")[-1].replace("-gm2", ""),
+				"bats": leftOrRight[team].get(player, "")
 			}
 			i = 3
 			for hdr in ["in", "result", "evo", "la", "dist"]:
