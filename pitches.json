@@ -459,11 +459,17 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "26": {
+      "player": "riley greene",
+      "pitcher": "spencer arrighetti",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "25": {
       "player": "kerry carpenter",
       "pitcher": "spencer arrighetti",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "24": {
       "player": "gleyber torres",
@@ -614,8 +620,8 @@
     "23": {
       "player": "daulton varsho",
       "pitcher": "paul skenes",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "bo bichette",
@@ -751,6 +757,12 @@
     }
   },
   "stl @ mia": {
+    "24": {
+      "player": "jakob marsee",
+      "pitcher": "matthew liberatore",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "agustin ramirez",
       "pitcher": "matthew liberatore",
@@ -894,7 +906,7 @@
     "20": {
       "player": "jt realmuto",
       "pitcher": "logan gilbert",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "19": {
@@ -1017,7 +1029,7 @@
       "player": "alex bregman",
       "pitcher": "trevor rogers",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "7": {
       "player": "roman anthony",
