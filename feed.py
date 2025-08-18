@@ -35,7 +35,10 @@ def commitChanges():
 
 def writePitchFeed(date, loop):
 
-	headers = {"Accept": "application/vnd.github.v3.raw"}
+	headers = {
+		"Accept": "application/vnd.github.v3.raw",
+		"Authorization": f"token {os.getenv('GITHUB_TOKEN')}"
+	}
 	url = "https://api.github.com/repos/dailyev/props/contents/static/baseballreference/leftOrRight.json"
 	response = requests.get(url, headers=headers)
 	leftOrRight = response.json()
