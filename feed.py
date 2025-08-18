@@ -112,7 +112,6 @@ def writeFeed(date, loop):
 					games.append(gameData)
 			liveGames = len(games)
 		data = {}
-		pitches = {}
 		#pitches = parsePitch(driver)
 		parseFeed(date, data, pitches, times, games, totGames, soup, inserted)
 		
