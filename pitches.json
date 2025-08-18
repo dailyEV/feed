@@ -459,11 +459,23 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "13": {
+      "player": "jacob melton",
+      "pitcher": "jack flaherty",
+      "result": "Hit By Pitch",
+      "pitch": "Slider"
+    },
+    "12": {
+      "player": "cam smith",
+      "pitcher": "jack flaherty",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "11": {
       "player": "yainer diaz",
       "pitcher": "jack flaherty",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "10": {
       "player": "riley greene",
@@ -530,8 +542,8 @@
     "11": {
       "player": "tyler heineman",
       "pitcher": "paul skenes",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "nathan lukes",
@@ -595,6 +607,18 @@
     }
   },
   "stl @ mia": {
+    "13": {
+      "player": "thomas saggese",
+      "pitcher": "eury perez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "12": {
+      "player": "nolan gorman",
+      "pitcher": "eury perez",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "11": {
       "player": "eric wagaman",
       "pitcher": "matthew liberatore",
@@ -663,6 +687,18 @@
     }
   },
   "sea @ phi": {
+    "10": {
+      "player": "josh naylor",
+      "pitcher": "ranger suarez",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "9": {
+      "player": "alec bohm",
+      "pitcher": "logan gilbert",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "jt realmuto",
       "pitcher": "logan gilbert",
