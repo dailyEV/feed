@@ -231,6 +231,7 @@ def parseFeed(date, data, pitches, times, games, totGames, soup, inserted, leftO
 		game = f"{away} @ {home}"
 		if game in data:
 			game = f"{away}-gm2 @ {home}-gm2"
+		a,h = map(str, game.split(" @ "))
 		data[game] = []
 		#table = div.find("div", class_="exit-velocity-table")
 		table = div.find("div", class_="mini-ev-table")
@@ -242,6 +243,7 @@ def parseFeed(date, data, pitches, times, games, totGames, soup, inserted, leftO
 			#pitcher = parsePlayer(tds[4].text.strip())
 			img = tr.find("img").get("src")
 			team = convertSavantLogoId(img.split("/")[-1].replace(".svg", ""))
+			opp = h if team == a else a
 			hrPark = tds[-1].text.strip()
 
 			pa = tds[2].text.strip()
