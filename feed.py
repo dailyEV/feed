@@ -49,7 +49,7 @@ def writePitchFeed(date, loop):
 	btn.click()
 
 	while True:
-		pitches = parsePitch(driver, leftOrRight)
+		pitches = parsePitch(driver)
 
 		with open("pitches.json", "w") as fh:
 			json.dump(pitches, fh, indent=2)
