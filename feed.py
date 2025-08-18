@@ -99,8 +99,11 @@ def writeFeed(date, loop):
 		html = driver.page_source
 		soup = BS(html, "html.parser")
 		
-		with open(f"pitches.json") as fh:
-			pitches = json.load(fh)
+		try:
+			with open(f"pitches.json") as fh:
+				pitches = json.load(fh)
+		except:
+			pass
 
 		totGames = len(schedule[date])
 		games = []
