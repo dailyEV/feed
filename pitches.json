@@ -459,6 +459,12 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "37": {
+      "player": "javier baez",
+      "pitcher": "spencer arrighetti",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "36": {
       "player": "jeremy pena",
       "pitcher": "jack flaherty",
@@ -677,11 +683,17 @@
     }
   },
   "tor @ pit": {
+    "34": {
+      "player": "henry davis",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "33": {
       "player": "alexander canario",
       "pitcher": "kevin gausman",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "tyler heineman",
@@ -1298,8 +1310,8 @@
     "20": {
       "player": "ryan mountcastle",
       "pitcher": "dustin may",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "gunnar henderson",
@@ -1506,8 +1518,8 @@
     "8": {
       "player": "vinnie pasquantino",
       "pitcher": "jack leiter",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "7": {
       "player": "bobby witt",
