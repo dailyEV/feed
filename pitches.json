@@ -463,7 +463,7 @@
       "player": "spencer torkelson",
       "pitcher": "spencer arrighetti",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "jeremy pena",
@@ -646,8 +646,8 @@
     "15": {
       "player": "nathan church",
       "pitcher": "eury perez",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "pedro pages",
@@ -735,6 +735,18 @@
     }
   },
   "sea @ phi": {
+    "14": {
+      "player": "nick castellanos",
+      "pitcher": "logan gilbert",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
+    "13": {
+      "player": "brandon marsh",
+      "pitcher": "logan gilbert",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "dominic canzone",
       "pitcher": "ranger suarez",
@@ -808,7 +820,14 @@
       "pitch": "Sinker"
     }
   },
-  "bal @ bos": {},
+  "bal @ bos": {
+    "1": {
+      "player": "jackson holliday",
+      "pitcher": "dustin may",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "chw @ atl": {},
   "tex @ kc": {},
   "lad @ col": {},
