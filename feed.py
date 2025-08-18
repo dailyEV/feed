@@ -55,7 +55,7 @@ def writePitchFeed(date, loop):
 	btn.click()
 
 	while True:
-		pitches = parsePitch(driver)
+		pitches = parsePitch(driver, leftOrRight)
 
 		with open("pitches.json", "w") as fh:
 			json.dump(pitches, fh, indent=2)
@@ -162,7 +162,7 @@ async def upsertFeed(psql, data, inserted):
 		print(f"Inserting {len(rows)} rows")
 		await supabase.table("Feed").upsert(rows).execute()
 
-def parsePitch(driver):
+def parsePitch(driver, leftOrRight):
 	btn = driver.find_elements(By.CSS_SELECTOR, "#nav-buttons div")[4]
 	btn.click()
 
@@ -188,6 +188,9 @@ def parsePitch(driver):
 			pitcher = parsePlayer(tds[2].text.strip())
 			batter = parsePlayer(tds[4].text.strip())
 
+			img = tr.find_all("img")[1].get("src")
+			opp = convertSavantLogoId(img.split("/")[-1].replace(".svg", ""))
+
 			pa = tds[7].text.strip()
 
 			# we only want the latest pitch
@@ -198,7 +201,8 @@ def parsePitch(driver):
 				"player": batter,
 				"pitcher": pitcher,
 				"result": tds[9].text.strip(),
-				"pitch": tds[10].text.strip()
+				"pitch": tds[10].text.strip(),
+				"throws": leftOrRight[opp].get(pitcher, "")
 			}
 
 	btn = driver.find_elements(By.CSS_SELECTOR, "#nav-buttons div")[0]
