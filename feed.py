@@ -71,7 +71,7 @@ def writeFeed(date, loop):
 	url = "https://api.github.com/repos/dailyev/props/contents/static/baseballreference/leftOrRight.json"
 	response = requests.get(url, headers=headers)
 	leftOrRight = response.json()
-	
+
 	url = f"https://baseballsavant.mlb.com/gamefeed?date={date}"
 	driver = webdriver.Firefox()
 	driver.get(url)
@@ -131,7 +131,7 @@ def writeFeed(date, loop):
 			liveGames = len(games)
 		data = {}
 		#pitches = parsePitch(driver)
-		parseFeed(date, data, pitches, times, games, totGames, soup, inserted)
+		parseFeed(date, data, pitches, times, games, totGames, soup, inserted, leftOrRight)
 		
 		i += 1
 
@@ -165,7 +165,7 @@ async def upsertFeed(psql, data, inserted):
 		print(f"Inserting {len(rows)} rows")
 		await supabase.table("Feed").upsert(rows).execute()
 
-def parsePitch(driver, leftOrRight):
+def parsePitch(driver):
 	btn = driver.find_elements(By.CSS_SELECTOR, "#nav-buttons div")[4]
 	btn.click()
 
@@ -204,8 +204,7 @@ def parsePitch(driver, leftOrRight):
 				"player": batter,
 				"pitcher": pitcher,
 				"result": tds[9].text.strip(),
-				"pitch": tds[10].text.strip(),
-				"throws": leftOrRight[opp].get(pitcher, "")
+				"pitch": tds[10].text.strip()
 			}
 
 	btn = driver.find_elements(By.CSS_SELECTOR, "#nav-buttons div")[0]
@@ -213,7 +212,7 @@ def parsePitch(driver, leftOrRight):
 	return data
 
 
-def parseFeed(date, data, pitches, times, games, totGames, soup, inserted):
+def parseFeed(date, data, pitches, times, games, totGames, soup, inserted, leftOrRight):
 	allTable = soup.find("div", id="allMetrics")
 	hdrs = [th.text.lower() for th in allTable.find_all("th")]
 	starts = {}
