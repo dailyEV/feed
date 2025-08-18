@@ -459,11 +459,17 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "29": {
+      "player": "yainer diaz",
+      "pitcher": "jack flaherty",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "victor caratini",
       "pitcher": "jack flaherty",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "27": {
       "player": "christian walker",
@@ -632,7 +638,7 @@
     "26": {
       "player": "bryan reynolds",
       "pitcher": "kevin gausman",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "25": {
@@ -790,8 +796,8 @@
     "27": {
       "player": "nolan gorman",
       "pitcher": "eury perez",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "masyn winn",
@@ -951,6 +957,12 @@
     }
   },
   "sea @ phi": {
+    "23": {
+      "player": "jp crawford",
+      "pitcher": "ranger suarez",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "22": {
       "player": "brandon marsh",
       "pitcher": "logan gilbert",
@@ -1088,8 +1100,8 @@
     "12": {
       "player": "dylan carlson",
       "pitcher": "dustin may",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "11": {
       "player": "dylan beavers",
@@ -1159,6 +1171,12 @@
     }
   },
   "chw @ atl": {
+    "4": {
+      "player": "lenyn sosa",
+      "pitcher": "spencer strider",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "colson montgomery",
       "pitcher": "spencer strider",
