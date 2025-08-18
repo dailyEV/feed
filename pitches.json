@@ -635,10 +635,16 @@
     }
   },
   "tor @ pit": {
+    "27": {
+      "player": "nick gonzales",
+      "pitcher": "kevin gausman",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "26": {
       "player": "bryan reynolds",
       "pitcher": "kevin gausman",
-      "result": "Swinging Strike",
+      "result": "In play, run(s)",
       "pitch": "Splitter"
     },
     "25": {
@@ -793,10 +799,16 @@
     }
   },
   "stl @ mia": {
+    "28": {
+      "player": "heriberto hernandez",
+      "pitcher": "matthew liberatore",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "27": {
       "player": "nolan gorman",
       "pitcher": "eury perez",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "26": {
@@ -957,11 +969,17 @@
     }
   },
   "sea @ phi": {
+    "24": {
+      "player": "cole young",
+      "pitcher": "ranger suarez",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "23": {
       "player": "jp crawford",
       "pitcher": "ranger suarez",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "22": {
       "player": "brandon marsh",
@@ -1097,6 +1115,12 @@
     }
   },
   "bal @ bos": {
+    "13": {
+      "player": "romy gonzalez",
+      "pitcher": "trevor rogers",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "12": {
       "player": "dylan carlson",
       "pitcher": "dustin may",
