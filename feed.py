@@ -266,7 +266,7 @@ def parseFeed(date, data, pitches, times, games, totGames, soup, inserted):
 			if pa in pitches.get(game, {}):
 				j["pitcher"] = pitches[game][pa]["pitcher"]
 				j["pitch"] = parsePitchType(pitches[game][pa]["pitch"])
-				j["throws"] = pitches[game][pa]["throws"]
+				j["throws"] = pitches[game][pa].get("throws", "")
 
 			data[game].append(j)
 
