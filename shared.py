@@ -16,6 +16,7 @@ def commitChanges():
 def parsePitchType(pitch):
 	pitch = pitch.lower().replace(" ", "")
 	pitches = {
+		"curveball": "CU",
 		"changeup": "CH",
 		"cutter": "FC",
 		"eephus": "EP",
