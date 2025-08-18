@@ -462,8 +462,8 @@
     "6": {
       "player": "victor caratini",
       "pitcher": "jack flaherty",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "5": {
       "player": "christian walker",
@@ -497,11 +497,17 @@
     }
   },
   "tor @ pit": {
+    "5": {
+      "player": "tommy pham",
+      "pitcher": "kevin gausman",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "4": {
       "player": "spencer horwitz",
       "pitcher": "kevin gausman",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "3": {
       "player": "vladimir guerrero",
@@ -526,8 +532,8 @@
     "5": {
       "player": "masyn winn",
       "pitcher": "eury perez",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "4": {
       "player": "willson contreras",
@@ -555,11 +561,17 @@
     }
   },
   "sea @ phi": {
+    "4": {
+      "player": "eugenio suarez",
+      "pitcher": "ranger suarez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "julio rodriguez",
       "pitcher": "ranger suarez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "2": {
       "player": "cal raleigh",
