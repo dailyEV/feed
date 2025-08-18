@@ -463,7 +463,7 @@
       "player": "wenceel perez",
       "pitcher": "spencer arrighetti",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "Changeup"
     },
     "30": {
       "player": "spencer torkelson",
@@ -650,7 +650,7 @@
     "28": {
       "player": "andrew mccutchen",
       "pitcher": "kevin gausman",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "27": {
@@ -817,10 +817,16 @@
     }
   },
   "stl @ mia": {
+    "30": {
+      "player": "eric wagaman",
+      "pitcher": "matthew liberatore",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "dane myers",
       "pitcher": "matthew liberatore",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "28": {
@@ -993,6 +999,12 @@
     }
   },
   "sea @ phi": {
+    "26": {
+      "player": "nick castellanos",
+      "pitcher": "carlos vargas",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "25": {
       "player": "randy arozarena",
       "pitcher": "ranger suarez",
@@ -1234,8 +1246,8 @@
     "6": {
       "player": "matt olson",
       "pitcher": "yoendrys gomez",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "5": {
       "player": "jurickson profar",
@@ -1269,6 +1281,12 @@
     }
   },
   "tex @ kc": {
+    "2": {
+      "player": "wyatt langford",
+      "pitcher": "michael wacha",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "josh smith",
       "pitcher": "michael wacha",
