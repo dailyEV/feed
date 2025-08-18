@@ -459,11 +459,17 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "35": {
+      "player": "jacob melton",
+      "pitcher": "jack flaherty",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "cam smith",
       "pitcher": "jack flaherty",
       "result": "Called Strike",
-      "pitch": "Knuckle Curve"
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "trey sweeney",
@@ -665,10 +671,16 @@
     }
   },
   "tor @ pit": {
+    "31": {
+      "player": "nathan lukes",
+      "pitcher": "paul skenes",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "30": {
       "player": "ernie clement",
       "pitcher": "paul skenes",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -847,11 +859,17 @@
     }
   },
   "stl @ mia": {
+    "34": {
+      "player": "nathan church",
+      "pitcher": "eury perez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "pedro pages",
       "pitcher": "eury perez",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "32": {
       "player": "thomas saggese",
@@ -1047,6 +1065,18 @@
     }
   },
   "sea @ phi": {
+    "32": {
+      "player": "julio rodriguez",
+      "pitcher": "ranger suarez",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
+    "31": {
+      "player": "cal raleigh",
+      "pitcher": "ranger suarez",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "30": {
       "player": "kyle schwarber",
       "pitcher": "carlos vargas",
@@ -1229,11 +1259,17 @@
     }
   },
   "bal @ bos": {
+    "18": {
+      "player": "luis vazquez",
+      "pitcher": "dustin may",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "17": {
       "player": "jackson holliday",
       "pitcher": "dustin may",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "16": {
       "player": "ceddanne rafaela",
@@ -1333,11 +1369,17 @@
     }
   },
   "chw @ atl": {
+    "11": {
+      "player": "kyle teel",
+      "pitcher": "spencer strider",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "10": {
       "player": "luis robert",
       "pitcher": "spencer strider",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "9": {
       "player": "andrew benintendi",
@@ -1395,6 +1437,12 @@
     }
   },
   "tex @ kc": {
+    "6": {
+      "player": "mike yastrzemski",
+      "pitcher": "jack leiter",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "evan carter",
       "pitcher": "michael wacha",
