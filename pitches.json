@@ -463,7 +463,7 @@
       "player": "wenceel perez",
       "pitcher": "spencer arrighetti",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Cutter"
     },
     "30": {
       "player": "spencer torkelson",
@@ -651,7 +651,7 @@
       "player": "andrew mccutchen",
       "pitcher": "kevin gausman",
       "result": "Ball",
-      "pitch": "Splitter"
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "nick gonzales",
@@ -999,6 +999,12 @@
     }
   },
   "sea @ phi": {
+    "27": {
+      "player": "max kepler",
+      "pitcher": "carlos vargas",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "26": {
       "player": "nick castellanos",
       "pitcher": "carlos vargas",
@@ -1161,7 +1167,7 @@
       "player": "trevor story",
       "pitcher": "trevor rogers",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "13": {
       "player": "romy gonzalez",
@@ -1243,11 +1249,17 @@
     }
   },
   "chw @ atl": {
+    "7": {
+      "player": "ronald acuna",
+      "pitcher": "yoendrys gomez",
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
+    },
     "6": {
       "player": "matt olson",
       "pitcher": "yoendrys gomez",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "jurickson profar",
