@@ -48,9 +48,15 @@ def writePitchFeed(date, loop):
 	btn = driver.find_element(By.CSS_SELECTOR, "#btnHide")
 	btn.click()
 
-	pitches = parsePitch(driver)
-	with open("pitches.json", "w") as fh:
-		json.dump(pitches, fh, indent=2)
+	while True:
+		pitches = parsePitch(driver)
+
+		with open("pitches.json", "w") as fh:
+			json.dump(pitches, fh, indent=2)
+
+		if not loop:
+			break
+		time.sleep(5)
 
 	driver.quit()
 
