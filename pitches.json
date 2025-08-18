@@ -459,10 +459,16 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "28": {
+      "player": "victor caratini",
+      "pitcher": "jack flaherty",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "27": {
       "player": "christian walker",
       "pitcher": "jack flaherty",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "26": {
@@ -623,11 +629,17 @@
     }
   },
   "tor @ pit": {
+    "26": {
+      "player": "bryan reynolds",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "25": {
       "player": "tommy pham",
       "pitcher": "kevin gausman",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "spencer horwitz",
@@ -775,6 +787,18 @@
     }
   },
   "stl @ mia": {
+    "27": {
+      "player": "nolan gorman",
+      "pitcher": "eury perez",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "26": {
+      "player": "masyn winn",
+      "pitcher": "eury perez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "willson contreras",
       "pitcher": "eury perez",
@@ -930,7 +954,7 @@
     "22": {
       "player": "brandon marsh",
       "pitcher": "logan gilbert",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "21": {
@@ -1061,11 +1085,23 @@
     }
   },
   "bal @ bos": {
+    "12": {
+      "player": "dylan carlson",
+      "pitcher": "dustin may",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
+    "11": {
+      "player": "dylan beavers",
+      "pitcher": "dustin may",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "jeremiah jackson",
       "pitcher": "dustin may",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "9": {
       "player": "samuel basallo",
@@ -1123,10 +1159,16 @@
     }
   },
   "chw @ atl": {
+    "3": {
+      "player": "colson montgomery",
+      "pitcher": "spencer strider",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "2": {
       "player": "miguel vargas",
       "pitcher": "spencer strider",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "1": {
