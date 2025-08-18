@@ -459,6 +459,18 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "10": {
+      "player": "riley greene",
+      "pitcher": "spencer arrighetti",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "9": {
+      "player": "kerry carpenter",
+      "pitcher": "spencer arrighetti",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "gleyber torres",
       "pitcher": "spencer arrighetti",
@@ -509,6 +521,18 @@
     }
   },
   "tor @ pit": {
+    "8": {
+      "player": "daulton varsho",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "7": {
+      "player": "bo bichette",
+      "pitcher": "paul skenes",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "bryan reynolds",
       "pitcher": "kevin gausman",
@@ -547,11 +571,23 @@
     }
   },
   "stl @ mia": {
+    "9": {
+      "player": "heriberto hernandez",
+      "pitcher": "matthew liberatore",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "8": {
+      "player": "jakob marsee",
+      "pitcher": "matthew liberatore",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "agustin ramirez",
       "pitcher": "matthew liberatore",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "6": {
       "player": "otto lopez",
@@ -591,10 +627,28 @@
     }
   },
   "sea @ phi": {
+    "8": {
+      "player": "jt realmuto",
+      "pitcher": "logan gilbert",
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
+    },
+    "7": {
+      "player": "bryce harper",
+      "pitcher": "logan gilbert",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
+    "6": {
+      "player": "kyle schwarber",
+      "pitcher": "logan gilbert",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "5": {
       "player": "trea turner",
       "pitcher": "logan gilbert",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "4": {
