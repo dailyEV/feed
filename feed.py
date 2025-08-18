@@ -38,7 +38,7 @@ def writePitchFeed(date, loop):
 	headers = {"Accept": "application/vnd.github.v3.raw"}
 	url = "https://api.github.com/repos/dailyev/props/contents/static/baseballreference/leftOrRight.json"
 	response = requests.get(url, headers=headers)
-	feedTimes = response.json()
+	leftOrRight = response.json()
 
 	url = f"https://baseballsavant.mlb.com/gamefeed?date={date}&hf=pitchVelocity"
 	driver = webdriver.Firefox()
