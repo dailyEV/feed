@@ -458,10 +458,122 @@
     }
   },
   "mil-gm2 @ chc-gm2": {},
-  "hou @ det": {},
-  "tor @ pit": {},
-  "stl @ mia": {},
-  "sea @ phi": {},
+  "hou @ det": {
+    "6": {
+      "player": "victor caratini",
+      "pitcher": "jack flaherty",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "5": {
+      "player": "christian walker",
+      "pitcher": "jack flaherty",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
+    "4": {
+      "player": "jesus sanchez",
+      "pitcher": "jack flaherty",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    },
+    "3": {
+      "player": "jose altuve",
+      "pitcher": "jack flaherty",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
+    "2": {
+      "player": "carlos correa",
+      "pitcher": "jack flaherty",
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
+    },
+    "1": {
+      "player": "jeremy pena",
+      "pitcher": "jack flaherty",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    }
+  },
+  "tor @ pit": {
+    "4": {
+      "player": "spencer horwitz",
+      "pitcher": "kevin gausman",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "3": {
+      "player": "vladimir guerrero",
+      "pitcher": "paul skenes",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "2": {
+      "player": "addison barger",
+      "pitcher": "paul skenes",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
+    "1": {
+      "player": "george springer",
+      "pitcher": "paul skenes",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    }
+  },
+  "stl @ mia": {
+    "5": {
+      "player": "masyn winn",
+      "pitcher": "eury perez",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
+    "4": {
+      "player": "willson contreras",
+      "pitcher": "eury perez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "3": {
+      "player": "alec burleson",
+      "pitcher": "eury perez",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "2": {
+      "player": "ivan herrera",
+      "pitcher": "eury perez",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
+    "1": {
+      "player": "lars nootbaar",
+      "pitcher": "eury perez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
+  "sea @ phi": {
+    "3": {
+      "player": "julio rodriguez",
+      "pitcher": "ranger suarez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
+    "2": {
+      "player": "cal raleigh",
+      "pitcher": "ranger suarez",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "1": {
+      "player": "randy arozarena",
+      "pitcher": "ranger suarez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    }
+  },
   "bal @ bos": {},
   "chw @ atl": {},
   "tex @ kc": {},
