@@ -459,6 +459,30 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "25": {
+      "player": "kerry carpenter",
+      "pitcher": "spencer arrighetti",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
+    "24": {
+      "player": "gleyber torres",
+      "pitcher": "spencer arrighetti",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
+    "23": {
+      "player": "colt keith",
+      "pitcher": "spencer arrighetti",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "22": {
+      "player": "jesus sanchez",
+      "pitcher": "jack flaherty",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "jose altuve",
       "pitcher": "jack flaherty",
@@ -587,10 +611,28 @@
     }
   },
   "tor @ pit": {
+    "23": {
+      "player": "daulton varsho",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "22": {
+      "player": "bo bichette",
+      "pitcher": "paul skenes",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
+    "21": {
+      "player": "vladimir guerrero",
+      "pitcher": "paul skenes",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
     "20": {
       "player": "addison barger",
       "pitcher": "paul skenes",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -709,10 +751,34 @@
     }
   },
   "stl @ mia": {
+    "23": {
+      "player": "agustin ramirez",
+      "pitcher": "matthew liberatore",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
+    "22": {
+      "player": "otto lopez",
+      "pitcher": "matthew liberatore",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "21": {
+      "player": "alec burleson",
+      "pitcher": "eury perez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "20": {
+      "player": "ivan herrera",
+      "pitcher": "eury perez",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "19": {
       "player": "lars nootbaar",
       "pitcher": "eury perez",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "18": {
@@ -825,11 +891,23 @@
     }
   },
   "sea @ phi": {
+    "20": {
+      "player": "jt realmuto",
+      "pitcher": "logan gilbert",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "19": {
+      "player": "bryce harper",
+      "pitcher": "logan gilbert",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "18": {
       "player": "kyle schwarber",
       "pitcher": "logan gilbert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "17": {
       "player": "trea turner",
@@ -935,11 +1013,23 @@
     }
   },
   "bal @ bos": {
+    "7": {
+      "player": "roman anthony",
+      "pitcher": "trevor rogers",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "6": {
+      "player": "nate eaton",
+      "pitcher": "trevor rogers",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "colton cowser",
       "pitcher": "dustin may",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "4": {
       "player": "ryan mountcastle",
