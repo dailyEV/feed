@@ -459,6 +459,12 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "20": {
+      "player": "carlos correa",
+      "pitcher": "jack flaherty",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "javier baez",
       "pitcher": "spencer arrighetti",
@@ -578,7 +584,7 @@
     "19": {
       "player": "george springer",
       "pitcher": "paul skenes",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -694,8 +700,8 @@
     "18": {
       "player": "derek hill",
       "pitcher": "matthew liberatore",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "17": {
       "player": "maximo acosta",
@@ -804,7 +810,7 @@
     "17": {
       "player": "trea turner",
       "pitcher": "logan gilbert",
-      "result": "Ball In Dirt",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "16": {
@@ -905,11 +911,17 @@
     }
   },
   "bal @ bos": {
+    "4": {
+      "player": "ryan mountcastle",
+      "pitcher": "dustin may",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "3": {
       "player": "gunnar henderson",
       "pitcher": "dustin may",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "jordan westburg",
