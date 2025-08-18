@@ -459,6 +459,12 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "14": {
+      "player": "jeremy pena",
+      "pitcher": "jack flaherty",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "13": {
       "player": "jacob melton",
       "pitcher": "jack flaherty",
@@ -539,6 +545,18 @@
     }
   },
   "tor @ pit": {
+    "13": {
+      "player": "andrew mccutchen",
+      "pitcher": "kevin gausman",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "12": {
+      "player": "nick gonzales",
+      "pitcher": "kevin gausman",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "tyler heineman",
       "pitcher": "paul skenes",
@@ -607,11 +625,17 @@
     }
   },
   "stl @ mia": {
+    "14": {
+      "player": "pedro pages",
+      "pitcher": "eury perez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "thomas saggese",
       "pitcher": "eury perez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "12": {
       "player": "nolan gorman",
@@ -687,10 +711,16 @@
     }
   },
   "sea @ phi": {
+    "11": {
+      "player": "mitch garver",
+      "pitcher": "ranger suarez",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "10": {
       "player": "josh naylor",
       "pitcher": "ranger suarez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "9": {
