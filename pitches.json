@@ -459,6 +459,12 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "32": {
+      "player": "dillon dingler",
+      "pitcher": "spencer arrighetti",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "wenceel perez",
       "pitcher": "spencer arrighetti",
@@ -647,6 +653,12 @@
     }
   },
   "tor @ pit": {
+    "29": {
+      "player": "jared triolo",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "andrew mccutchen",
       "pitcher": "kevin gausman",
@@ -820,8 +832,8 @@
     "31": {
       "player": "javier sanoja",
       "pitcher": "matthew liberatore",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "30": {
       "player": "eric wagaman",
@@ -1005,6 +1017,12 @@
     }
   },
   "sea @ phi": {
+    "29": {
+      "player": "trea turner",
+      "pitcher": "carlos vargas",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "bryson stott",
       "pitcher": "carlos vargas",
@@ -1175,11 +1193,17 @@
     }
   },
   "bal @ bos": {
+    "15": {
+      "player": "jarren duran",
+      "pitcher": "trevor rogers",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "trevor story",
       "pitcher": "trevor rogers",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "romy gonzalez",
@@ -1264,8 +1288,8 @@
     "7": {
       "player": "ronald acuna",
       "pitcher": "yoendrys gomez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "6": {
       "player": "matt olson",
@@ -1305,6 +1329,18 @@
     }
   },
   "tex @ kc": {
+    "4": {
+      "player": "rowdy tellez",
+      "pitcher": "michael wacha",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
+    "3": {
+      "player": "corey seager",
+      "pitcher": "michael wacha",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "wyatt langford",
       "pitcher": "michael wacha",
