@@ -462,7 +462,7 @@
     "37": {
       "player": "javier baez",
       "pitcher": "spencer arrighetti",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "36": {
@@ -686,8 +686,8 @@
     "34": {
       "player": "henry davis",
       "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "33": {
       "player": "alexander canario",
@@ -1307,6 +1307,12 @@
     }
   },
   "bal @ bos": {
+    "21": {
+      "player": "colton cowser",
+      "pitcher": "dustin may",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "ryan mountcastle",
       "pitcher": "dustin may",
@@ -1429,12 +1435,6 @@
     }
   },
   "chw @ atl": {
-    "15": {
-      "player": "ozzie albies",
-      "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "14": {
       "player": "michael harris",
       "pitcher": "yoendrys gomez",
@@ -1524,7 +1524,7 @@
     "8": {
       "player": "vinnie pasquantino",
       "pitcher": "jack leiter",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "7": {
