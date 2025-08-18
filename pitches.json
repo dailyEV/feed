@@ -459,6 +459,12 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "31": {
+      "player": "wenceel perez",
+      "pitcher": "spencer arrighetti",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "30": {
       "player": "spencer torkelson",
       "pitcher": "spencer arrighetti",
@@ -641,6 +647,12 @@
     }
   },
   "tor @ pit": {
+    "28": {
+      "player": "andrew mccutchen",
+      "pitcher": "kevin gausman",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "27": {
       "player": "nick gonzales",
       "pitcher": "kevin gausman",
@@ -805,11 +817,17 @@
     }
   },
   "stl @ mia": {
+    "29": {
+      "player": "dane myers",
+      "pitcher": "matthew liberatore",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "heriberto hernandez",
       "pitcher": "matthew liberatore",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "27": {
       "player": "nolan gorman",
@@ -1130,8 +1148,8 @@
     "14": {
       "player": "trevor story",
       "pitcher": "trevor rogers",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "romy gonzalez",
@@ -1213,6 +1231,12 @@
     }
   },
   "chw @ atl": {
+    "6": {
+      "player": "matt olson",
+      "pitcher": "yoendrys gomez",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "jurickson profar",
       "pitcher": "yoendrys gomez",
@@ -1244,7 +1268,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "tex @ kc": {},
+  "tex @ kc": {
+    "1": {
+      "player": "josh smith",
+      "pitcher": "michael wacha",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    }
+  },
   "lad @ col": {},
   "cin @ laa": {},
   "cle @ ari": {},
