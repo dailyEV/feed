@@ -462,8 +462,8 @@
     "30": {
       "player": "spencer torkelson",
       "pitcher": "spencer arrighetti",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Sweeper"
     },
     "29": {
       "player": "yainer diaz",
@@ -644,8 +644,8 @@
     "27": {
       "player": "nick gonzales",
       "pitcher": "kevin gausman",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "bryan reynolds",
@@ -808,7 +808,7 @@
     "28": {
       "player": "heriberto hernandez",
       "pitcher": "matthew liberatore",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "27": {
@@ -975,6 +975,12 @@
     }
   },
   "sea @ phi": {
+    "25": {
+      "player": "randy arozarena",
+      "pitcher": "ranger suarez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "cole young",
       "pitcher": "ranger suarez",
@@ -1121,11 +1127,17 @@
     }
   },
   "bal @ bos": {
+    "14": {
+      "player": "trevor story",
+      "pitcher": "trevor rogers",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "13": {
       "player": "romy gonzalez",
       "pitcher": "trevor rogers",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "dylan carlson",
@@ -1204,8 +1216,8 @@
     "5": {
       "player": "jurickson profar",
       "pitcher": "yoendrys gomez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Hit By Pitch",
+      "pitch": "Curveball"
     },
     "4": {
       "player": "lenyn sosa",
