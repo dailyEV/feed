@@ -2335,7 +2335,7 @@
     "69": {
       "player": "colton cowser",
       "pitcher": "jordan hicks",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "68": {
@@ -2751,8 +2751,8 @@
     "62": {
       "player": "matt olson",
       "pitcher": "mike vasil",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "61": {
       "player": "jurickson profar",
@@ -3643,7 +3643,14 @@
       "pitch": "Sinker"
     }
   },
-  "cle @ ari": {},
+  "cle @ ari": {
+    "1": {
+      "player": "steven kwan",
+      "pitcher": "zac gallen",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "sf @ sd": {},
   "mil-gm2 @ chc-gm2": {}
 }
