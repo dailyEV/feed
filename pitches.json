@@ -2335,7 +2335,7 @@
     "72": {
       "player": "roman anthony",
       "pitcher": "dietrich enns",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "71": {
@@ -3158,6 +3158,12 @@
     }
   },
   "tex @ kc": {
+    "59": {
+      "player": "adam frazier",
+      "pitcher": "phil maton",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "58": {
       "player": "maikel garcia",
       "pitcher": "phil maton",
@@ -3749,7 +3755,7 @@
     "5": {
       "player": "bo naylor",
       "pitcher": "zac gallen",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Knuckle Curve"
     },
     "4": {
@@ -3778,12 +3784,6 @@
     }
   },
   "sf @ sd": {
-    "7": {
-      "player": "christian koss",
-      "pitcher": "nestor cortes",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
     "6": {
       "player": "jung hoo lee",
       "pitcher": "nestor cortes",
