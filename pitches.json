@@ -438,8 +438,8 @@
     "4": {
       "player": "colt keith",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "3": {
       "player": "jose altuve",
@@ -581,7 +581,7 @@
       "player": "masyn winn",
       "pitcher": "edward cabrera",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "19": {
       "player": "willson contreras",
@@ -827,6 +827,12 @@
     }
   },
   "sea @ phi": {
+    "17": {
+      "player": "dylan moore",
+      "pitcher": "cristopher sanchez",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "16": {
       "player": "jp crawford",
       "pitcher": "cristopher sanchez",
