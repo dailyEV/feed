@@ -438,7 +438,7 @@
     "14": {
       "player": "dillon dingler",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Knuckle Curve"
     },
     "13": {
@@ -524,7 +524,7 @@
     "30": {
       "player": "nick gonzales",
       "pitcher": "max scherzer",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -1249,11 +1249,23 @@
     }
   },
   "bal @ bos": {
+    "20": {
+      "player": "gunnar henderson",
+      "pitcher": "walker buehler",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "19": {
+      "player": "luis vazquez",
+      "pitcher": "walker buehler",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "18": {
       "player": "jackson holliday",
       "pitcher": "walker buehler",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "17": {
       "player": "abraham toro",
