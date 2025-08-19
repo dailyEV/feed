@@ -4143,7 +4143,7 @@
     "35": {
       "player": "jo adell",
       "pitcher": "brady singer",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "34": {
@@ -4352,12 +4352,6 @@
     }
   },
   "cle @ ari": {
-    "31": {
-      "player": "cj kayfus",
-      "pitcher": "zac gallen",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
-    },
     "30": {
       "player": "adrian del castillo",
       "pitcher": "gavin williams",
@@ -4540,11 +4534,17 @@
     }
   },
   "sf @ sd": {
+    "33": {
+      "player": "ramon laureano",
+      "pitcher": "robbie ray",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "manny machado",
       "pitcher": "robbie ray",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "rafael devers",
