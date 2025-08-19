@@ -925,7 +925,7 @@
     "64": {
       "player": "alexander canario",
       "pitcher": "seranthony dominguez",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -1763,7 +1763,7 @@
     "76": {
       "player": "bryson stott",
       "pitcher": "jackson kowar",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "75": {
@@ -2218,6 +2218,12 @@
     }
   },
   "bal @ bos": {
+    "58": {
+      "player": "ceddanne rafaela",
+      "pitcher": "trevor rogers",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "57": {
       "player": "jarren duran",
       "pitcher": "trevor rogers",
@@ -2566,7 +2572,7 @@
       "player": "colson montgomery",
       "pitcher": "austin cox",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "miguel vargas",
@@ -2879,8 +2885,8 @@
     "42": {
       "player": "adam frazier",
       "pitcher": "luis curvelo",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "41": {
       "player": "maikel garcia",
