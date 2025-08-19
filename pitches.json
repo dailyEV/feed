@@ -440,7 +440,7 @@
       "player": "bo bichette",
       "pitcher": "mitch keller",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "addison barger",
@@ -459,8 +459,8 @@
     "3": {
       "player": "alec burleson",
       "pitcher": "edward cabrera",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "2": {
       "player": "ivan herrera",
@@ -476,6 +476,12 @@
     }
   },
   "nym @ wsh": {
+    "3": {
+      "player": "brandon nimmo",
+      "pitcher": "jake irvin",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "juan soto",
       "pitcher": "jake irvin",
@@ -489,7 +495,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "sea @ phi": {},
+  "sea @ phi": {
+    "1": {
+      "player": "randy arozarena",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    }
+  },
   "bal @ bos": {},
   "chw @ atl": {},
   "nyy @ tb": {},
