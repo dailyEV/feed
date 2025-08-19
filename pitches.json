@@ -438,8 +438,8 @@
     "8": {
       "player": "spencer torkelson",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "7": {
       "player": "riley greene",
@@ -489,7 +489,7 @@
       "player": "isiah kiner falefa",
       "pitcher": "max scherzer",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "jared triolo",
@@ -759,6 +759,12 @@
     }
   },
   "nym @ wsh": {
+    "24": {
+      "player": "brady house",
+      "pitcher": "david peterson",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "andres chaparro",
       "pitcher": "david peterson",
@@ -1015,11 +1021,17 @@
     }
   },
   "bal @ bos": {
+    "12": {
+      "player": "dylan beavers",
+      "pitcher": "walker buehler",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "coby mayo",
       "pitcher": "walker buehler",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "10": {
       "player": "colton cowser",
@@ -1083,10 +1095,16 @@
     }
   },
   "chw @ atl": {
+    "9": {
+      "player": "drake baldwin",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "marcell ozuna",
       "pitcher": "shane smith",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "7": {
