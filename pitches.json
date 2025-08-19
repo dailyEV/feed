@@ -2799,7 +2799,7 @@
     "86": {
       "player": "ronald acuna",
       "pitcher": "jordan leasure",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "85": {
@@ -3745,8 +3745,8 @@
     "52": {
       "player": "ezequiel tovar",
       "pitcher": "yoshinobu yamamoto",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "51": {
       "player": "jordan beck",
@@ -4056,10 +4056,16 @@
     }
   },
   "cin @ laa": {
+    "28": {
+      "player": "nolan schanuel",
+      "pitcher": "brady singer",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "27": {
       "player": "zach neto",
       "pitcher": "brady singer",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "26": {
