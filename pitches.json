@@ -435,6 +435,12 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "14": {
+      "player": "dillon dingler",
+      "pitcher": "hunter brown",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "13": {
       "player": "zach mckinstry",
       "pitcher": "hunter brown",
@@ -518,8 +524,8 @@
     "30": {
       "player": "nick gonzales",
       "pitcher": "max scherzer",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "bryan reynolds",
@@ -700,7 +706,7 @@
     "31": {
       "player": "willson contreras",
       "pitcher": "edward cabrera",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "30": {
@@ -888,8 +894,8 @@
     "32": {
       "player": "paul dejong",
       "pitcher": "david peterson",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "cj abrams",
@@ -1079,11 +1085,17 @@
     }
   },
   "sea @ phi": {
+    "27": {
+      "player": "alec bohm",
+      "pitcher": "bryce miller",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "26": {
       "player": "jt realmuto",
       "pitcher": "bryce miller",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "25": {
       "player": "bryce harper",
@@ -1240,8 +1252,8 @@
     "18": {
       "player": "jackson holliday",
       "pitcher": "walker buehler",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "17": {
       "player": "abraham toro",
