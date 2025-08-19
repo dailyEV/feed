@@ -438,15 +438,15 @@
     "1": {
       "player": "jeremy pena",
       "pitcher": "tarik skubal",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     }
   },
   "tor @ pit": {
     "17": {
       "player": "alejandro kirk",
       "pitcher": "mitch keller",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "16": {
@@ -547,6 +547,12 @@
     }
   },
   "stl @ mia": {
+    "18": {
+      "player": "heriberto hernandez",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "17": {
       "player": "otto lopez",
       "pitcher": "michael mcgreevy",
@@ -654,7 +660,7 @@
     "17": {
       "player": "juan soto",
       "pitcher": "jake irvin",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Sinker"
     },
     "16": {
@@ -832,8 +838,8 @@
     "5": {
       "player": "roman anthony",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "4": {
       "player": "ryan mountcastle",
