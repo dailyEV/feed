@@ -435,6 +435,12 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "11": {
+      "player": "ramon urias",
+      "pitcher": "tarik skubal",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "10": {
       "player": "yainer diaz",
       "pitcher": "tarik skubal",
@@ -497,11 +503,17 @@
     }
   },
   "tor @ pit": {
+    "27": {
+      "player": "andres gimenez",
+      "pitcher": "mitch keller",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "26": {
       "player": "ernie clement",
       "pitcher": "mitch keller",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "25": {
       "player": "ty france",
@@ -813,6 +825,12 @@
     }
   },
   "nym @ wsh": {
+    "28": {
+      "player": "francisco lindor",
+      "pitcher": "jake irvin",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "cedric mullins",
       "pitcher": "jake irvin",
@@ -977,6 +995,12 @@
     }
   },
   "sea @ phi": {
+    "22": {
+      "player": "bryson stott",
+      "pitcher": "bryce miller",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "eugenio suarez",
       "pitcher": "cristopher sanchez",
@@ -1194,7 +1218,7 @@
     "11": {
       "player": "andrew benintendi",
       "pitcher": "bryce elder",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "10": {
