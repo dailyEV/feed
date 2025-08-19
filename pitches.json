@@ -461,7 +461,7 @@
     "56": {
       "player": "yainer diaz",
       "pitcher": "jack flaherty",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "55": {
@@ -796,11 +796,17 @@
     }
   },
   "tor @ pit": {
+    "48": {
+      "player": "jared triolo",
+      "pitcher": "yariel rodriguez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "andrew mccutchen",
       "pitcher": "yariel rodriguez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "nick gonzales",
@@ -1932,6 +1938,12 @@
     }
   },
   "chw @ atl": {
+    "30": {
+      "player": "chase meidroth",
+      "pitcher": "spencer strider",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "29": {
       "player": "kyle teel",
       "pitcher": "spencer strider",
