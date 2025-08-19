@@ -1571,7 +1571,7 @@
     "63": {
       "player": "max kepler",
       "pitcher": "casey legumina",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "62": {
@@ -2232,6 +2232,12 @@
     }
   },
   "chw @ atl": {
+    "40": {
+      "player": "nacho alvarez",
+      "pitcher": "yoendrys gomez",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "39": {
       "player": "ozzie albies",
       "pitcher": "yoendrys gomez",
@@ -2468,6 +2474,18 @@
     }
   },
   "tex @ kc": {
+    "32": {
+      "player": "joc pederson",
+      "pitcher": "michael wacha",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "31": {
+      "player": "marcus semien",
+      "pitcher": "michael wacha",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "evan carter",
       "pitcher": "michael wacha",
@@ -2650,6 +2668,12 @@
     }
   },
   "lad @ col": {
+    "7": {
+      "player": "mickey moniak",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "6": {
       "player": "tyler freeman",
       "pitcher": "yoshinobu yamamoto",
