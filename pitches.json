@@ -435,11 +435,17 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "5": {
+      "player": "gleyber torres",
+      "pitcher": "hunter brown",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "colt keith",
       "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "jose altuve",
@@ -461,6 +467,12 @@
     }
   },
   "tor @ pit": {
+    "20": {
+      "player": "joey bart",
+      "pitcher": "max scherzer",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "19": {
       "player": "jack suwinski",
       "pitcher": "max scherzer",
@@ -580,7 +592,7 @@
     "20": {
       "player": "masyn winn",
       "pitcher": "edward cabrera",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "19": {
@@ -702,8 +714,8 @@
     "21": {
       "player": "mark vientos",
       "pitcher": "jake irvin",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "20": {
       "player": "jeff mcneil",
@@ -990,8 +1002,8 @@
     "5": {
       "player": "matt olson",
       "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "4": {
       "player": "jurickson profar",
