@@ -435,6 +435,12 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
+    "15": {
+      "player": "mauricio dubon",
+      "pitcher": "tarik skubal",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "14": {
       "player": "dillon dingler",
       "pitcher": "hunter brown",
@@ -706,8 +712,8 @@
     "32": {
       "player": "xavier edwards",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "willson contreras",
@@ -897,11 +903,17 @@
     }
   },
   "nym @ wsh": {
+    "34": {
+      "player": "pete alonso",
+      "pitcher": "jake irvin",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "brandon nimmo",
       "pitcher": "jake irvin",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "32": {
       "player": "paul dejong",
@@ -1267,6 +1279,12 @@
     }
   },
   "bal @ bos": {
+    "21": {
+      "player": "ryan mountcastle",
+      "pitcher": "walker buehler",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "20": {
       "player": "gunnar henderson",
       "pitcher": "walker buehler",
@@ -1529,8 +1547,8 @@
     "3": {
       "player": "brent rooker",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "2": {
       "player": "shea langeliers",
