@@ -506,7 +506,7 @@
     "27": {
       "player": "andres gimenez",
       "pitcher": "mitch keller",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -667,6 +667,12 @@
     }
   },
   "stl @ mia": {
+    "28": {
+      "player": "lars nootbaar",
+      "pitcher": "edward cabrera",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "maximo acosta",
       "pitcher": "michael mcgreevy",
@@ -834,8 +840,8 @@
     "29": {
       "player": "juan soto",
       "pitcher": "jake irvin",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "francisco lindor",
@@ -1150,8 +1156,8 @@
     "16": {
       "player": "nathaniel lowe",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "15": {
       "player": "romy gonzalez",
