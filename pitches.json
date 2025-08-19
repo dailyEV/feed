@@ -2335,7 +2335,7 @@
     "70": {
       "player": "samuel basallo",
       "pitcher": "jordan hicks",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "69": {
@@ -3460,11 +3460,17 @@
     }
   },
   "lad @ col": {
+    "32": {
+      "player": "ezequiel tovar",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "31": {
       "player": "jordan beck",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "30": {
       "player": "dalton rushing",
@@ -3651,7 +3657,7 @@
     "4": {
       "player": "austin hays",
       "pitcher": "victor mederos",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "3": {
@@ -3674,6 +3680,12 @@
     }
   },
   "cle @ ari": {
+    "2": {
+      "player": "daniel schneemann",
+      "pitcher": "zac gallen",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "1": {
       "player": "steven kwan",
       "pitcher": "zac gallen",
@@ -3682,6 +3694,12 @@
     }
   },
   "sf @ sd": {
+    "2": {
+      "player": "rafael devers",
+      "pitcher": "nestor cortes",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "1": {
       "player": "heliot ramos",
       "pitcher": "nestor cortes",
