@@ -458,6 +458,12 @@
     }
   },
   "hou @ det": {
+    "63": {
+      "player": "gleyber torres",
+      "pitcher": "bryan king",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "colt keith",
       "pitcher": "tayler scott",
@@ -1149,7 +1155,7 @@
     "58": {
       "player": "maximo acosta",
       "pitcher": "matt svanson",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "57": {
@@ -1496,12 +1502,6 @@
     }
   },
   "sea @ phi": {
-    "60": {
-      "player": "cole young",
-      "pitcher": "jordan romano",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "59": {
       "player": "jp crawford",
       "pitcher": "jordan romano",
@@ -2518,11 +2518,17 @@
     }
   },
   "lad @ col": {
+    "3": {
+      "player": "teoscar hernandez",
+      "pitcher": "kyle freeland",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "2": {
       "player": "mookie betts",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
     },
     "1": {
       "player": "shohei ohtani",
