@@ -1006,7 +1006,7 @@
       "player": "pedro pages",
       "pitcher": "valente bellozo",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "44": {
       "player": "thomas saggese",
@@ -1274,11 +1274,17 @@
     }
   },
   "sea @ phi": {
+    "48": {
+      "player": "cal raleigh",
+      "pitcher": "ranger suarez",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "47": {
       "player": "randy arozarena",
       "pitcher": "ranger suarez",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "trea turner",
@@ -1558,6 +1564,12 @@
     }
   },
   "bal @ bos": {
+    "32": {
+      "player": "alex bregman",
+      "pitcher": "trevor rogers",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "31": {
       "player": "roman anthony",
       "pitcher": "trevor rogers",
@@ -1749,8 +1761,8 @@
     "24": {
       "player": "matt olson",
       "pitcher": "yoendrys gomez",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "jurickson profar",
