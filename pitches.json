@@ -462,7 +462,7 @@
       "player": "riley greene",
       "pitcher": "tayler scott",
       "result": "Foul",
-      "pitch": "Splitter"
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "kerry carpenter",
@@ -1050,17 +1050,11 @@
     }
   },
   "stl @ mia": {
-    "49": {
-      "player": "dane myers",
-      "pitcher": "matt svanson",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "48": {
       "player": "heriberto hernandez",
       "pitcher": "matt svanson",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "47": {
       "player": "jakob marsee",
@@ -1346,6 +1340,12 @@
     }
   },
   "sea @ phi": {
+    "52": {
+      "player": "jt realmuto",
+      "pitcher": "casey legumina",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "bryce harper",
       "pitcher": "casey legumina",
@@ -1657,8 +1657,8 @@
     "36": {
       "player": "ryan mountcastle",
       "pitcher": "dustin may",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "35": {
       "player": "gunnar henderson",
@@ -1875,8 +1875,8 @@
     "27": {
       "player": "andrew benintendi",
       "pitcher": "spencer strider",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "drake baldwin",
@@ -2036,6 +2036,12 @@
     }
   },
   "tex @ kc": {
+    "21": {
+      "player": "wyatt langford",
+      "pitcher": "michael wacha",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "20": {
       "player": "mike yastrzemski",
       "pitcher": "jack leiter",
