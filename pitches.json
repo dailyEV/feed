@@ -1293,8 +1293,8 @@
     "72": {
       "player": "nolan gorman",
       "pitcher": "josh simpson",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "71": {
       "player": "masyn winn",
@@ -2161,7 +2161,7 @@
     "55": {
       "player": "romy gonzalez",
       "pitcher": "trevor rogers",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -2783,8 +2783,8 @@
     "39": {
       "player": "jonah heim",
       "pitcher": "michael wacha",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "cody freeman",
@@ -3016,6 +3016,12 @@
     }
   },
   "lad @ col": {
+    "15": {
+      "player": "jordan beck",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "14": {
       "player": "mookie betts",
       "pitcher": "kyle freeland",
