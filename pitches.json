@@ -823,7 +823,7 @@
     "50": {
       "player": "davis schneider",
       "pitcher": "evan sisk",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -1122,11 +1122,17 @@
     }
   },
   "stl @ mia": {
-    "55": {
-      "player": "willson contreras",
+    "56": {
+      "player": "masyn winn",
       "pitcher": "lake bachar",
       "result": "Ball",
       "pitch": "Sweeper"
+    },
+    "55": {
+      "player": "willson contreras",
+      "pitcher": "lake bachar",
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "54": {
       "player": "alec burleson",
@@ -1457,7 +1463,7 @@
     "57": {
       "player": "mitch garver",
       "pitcher": "ranger suarez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "56": {
@@ -2246,6 +2252,12 @@
     }
   },
   "tex @ kc": {
+    "27": {
+      "player": "adam frazier",
+      "pitcher": "jack leiter",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "26": {
       "player": "maikel garcia",
       "pitcher": "jack leiter",
