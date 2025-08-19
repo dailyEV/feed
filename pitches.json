@@ -2790,6 +2790,12 @@
     }
   },
   "chw @ atl": {
+    "72": {
+      "player": "marcell ozuna",
+      "pitcher": "brandon eisert",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "71": {
       "player": "drake baldwin",
       "pitcher": "brandon eisert",
@@ -3221,7 +3227,7 @@
     "63": {
       "player": "corey seager",
       "pitcher": "lucas erceg",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -3598,11 +3604,17 @@
     }
   },
   "lad @ col": {
+    "38": {
+      "player": "brenton doyle",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "kyle karros",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Foul Tip",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "36": {
       "player": "teoscar hernandez",
@@ -3893,8 +3905,8 @@
     "8": {
       "player": "corbin carroll",
       "pitcher": "gavin williams",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "7": {
       "player": "ketel marte",
@@ -3944,7 +3956,7 @@
       "player": "ramon laureano",
       "pitcher": "robbie ray",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "10": {
       "player": "manny machado",
