@@ -458,8 +458,8 @@
     "18": {
       "player": "andrew mccutchen",
       "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "17": {
       "player": "alejandro kirk",
@@ -675,11 +675,17 @@
     }
   },
   "nym @ wsh": {
+    "18": {
+      "player": "brandon nimmo",
+      "pitcher": "jake irvin",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "17": {
       "player": "juan soto",
       "pitcher": "jake irvin",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "francisco lindor",
@@ -779,6 +785,12 @@
     }
   },
   "sea @ phi": {
+    "14": {
+      "player": "nick castellanos",
+      "pitcher": "bryce miller",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "13": {
       "player": "brandon marsh",
       "pitcher": "bryce miller",
@@ -859,6 +871,12 @@
     }
   },
   "bal @ bos": {
+    "7": {
+      "player": "jarren duran",
+      "pitcher": "tomoyuki sugano",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "6": {
       "player": "alex bregman",
       "pitcher": "tomoyuki sugano",
@@ -897,6 +915,12 @@
     }
   },
   "chw @ atl": {
+    "3": {
+      "player": "kyle teel",
+      "pitcher": "bryce elder",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "miguel vargas",
       "pitcher": "bryce elder",
