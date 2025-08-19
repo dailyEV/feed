@@ -436,6 +436,12 @@
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {},
   "tor @ pit": {
+    "4": {
+      "player": "alejandro kirk",
+      "pitcher": "mitch keller",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "3": {
       "player": "bo bichette",
       "pitcher": "mitch keller",
@@ -459,8 +465,8 @@
     "3": {
       "player": "alec burleson",
       "pitcher": "edward cabrera",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "2": {
       "player": "ivan herrera",
@@ -479,8 +485,8 @@
     "3": {
       "player": "brandon nimmo",
       "pitcher": "jake irvin",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "juan soto",
@@ -496,6 +502,12 @@
     }
   },
   "sea @ phi": {
+    "2": {
+      "player": "cal raleigh",
+      "pitcher": "cristopher sanchez",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "1": {
       "player": "randy arozarena",
       "pitcher": "cristopher sanchez",
