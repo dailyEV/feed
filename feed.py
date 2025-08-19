@@ -49,7 +49,10 @@ def writePitchFeed(date, loop):
 	#btn.click()
 	opens = driver.find_elements(By.CSS_SELECTOR, ".container-open")
 	for o in opens:
-		o.click()
+		try:
+			o.click()
+		except:
+			pass
 
 	time.sleep(1)
 
