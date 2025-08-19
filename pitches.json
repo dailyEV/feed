@@ -524,8 +524,8 @@
     "30": {
       "player": "nick gonzales",
       "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "29": {
       "player": "bryan reynolds",
@@ -894,8 +894,8 @@
     "32": {
       "player": "paul dejong",
       "pitcher": "david peterson",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "cj abrams",
@@ -1088,8 +1088,8 @@
     "27": {
       "player": "alec bohm",
       "pitcher": "bryce miller",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "26": {
       "player": "jt realmuto",
@@ -1252,8 +1252,8 @@
     "18": {
       "player": "jackson holliday",
       "pitcher": "walker buehler",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "abraham toro",
@@ -1359,6 +1359,18 @@
     }
   },
   "chw @ atl": {
+    "16": {
+      "player": "jurickson profar",
+      "pitcher": "shane smith",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
+    "15": {
+      "player": "nick allen",
+      "pitcher": "shane smith",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "nacho alvarez",
       "pitcher": "shane smith",
@@ -1449,8 +1461,8 @@
     "4": {
       "player": "joc pederson",
       "pitcher": "seth lugo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slurve"
     },
     "3": {
       "player": "corey seager",
@@ -1472,11 +1484,17 @@
     }
   },
   "ath @ min": {
+    "3": {
+      "player": "brent rooker",
+      "pitcher": "joe ryan",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "shea langeliers",
       "pitcher": "joe ryan",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "nick kurtz",
