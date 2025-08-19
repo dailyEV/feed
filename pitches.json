@@ -799,7 +799,7 @@
     "48": {
       "player": "jared triolo",
       "pitcher": "yariel rodriguez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -1089,8 +1089,8 @@
     "52": {
       "player": "lars nootbaar",
       "pitcher": "lake bachar",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "nathan church",
@@ -1400,6 +1400,12 @@
     }
   },
   "sea @ phi": {
+    "55": {
+      "player": "eugenio suarez",
+      "pitcher": "ranger suarez",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "54": {
       "player": "brandon marsh",
       "pitcher": "casey legumina",
@@ -1726,10 +1732,16 @@
     }
   },
   "bal @ bos": {
+    "39": {
+      "player": "ceddanne rafaela",
+      "pitcher": "trevor rogers",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "38": {
       "player": "jarren duran",
       "pitcher": "trevor rogers",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "37": {
