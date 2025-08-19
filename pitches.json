@@ -436,6 +436,12 @@
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {},
   "tor @ pit": {
+    "5": {
+      "player": "nathan lukes",
+      "pitcher": "mitch keller",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "alejandro kirk",
       "pitcher": "mitch keller",
@@ -491,7 +497,7 @@
     "4": {
       "player": "pete alonso",
       "pitcher": "jake irvin",
-      "result": "Ball In Dirt",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "3": {
@@ -514,11 +520,17 @@
     }
   },
   "sea @ phi": {
+    "3": {
+      "player": "julio rodriguez",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "cal raleigh",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "1": {
       "player": "randy arozarena",
