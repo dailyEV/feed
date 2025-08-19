@@ -45,8 +45,13 @@ def writePitchFeed(date, loop):
 		driver.quit()
 
 	time.sleep(2)
-	btn = driver.find_element(By.CSS_SELECTOR, "#btnHide")
-	btn.click()
+	#btn = driver.find_element(By.CSS_SELECTOR, "#btnHide")
+	#btn.click()
+	opens = driver.find_elements(By.CSS_SELECTOR, ".container-open")
+	for o in opens:
+		o.click()
+
+	time.sleep(1)
 
 	while True:
 		pitches = parsePitch(driver)
