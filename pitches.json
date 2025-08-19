@@ -439,14 +439,14 @@
       "player": "jeremy pena",
       "pitcher": "tarik skubal",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     }
   },
   "tor @ pit": {
     "17": {
       "player": "alejandro kirk",
       "pitcher": "mitch keller",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "16": {
@@ -547,6 +547,12 @@
     }
   },
   "stl @ mia": {
+    "17": {
+      "player": "otto lopez",
+      "pitcher": "michael mcgreevy",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "liam hicks",
       "pitcher": "michael mcgreevy",
@@ -858,8 +864,8 @@
     "1": {
       "player": "mike tauchman",
       "pitcher": "bryce elder",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     }
   },
   "nyy @ tb": {},
