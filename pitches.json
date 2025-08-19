@@ -580,8 +580,8 @@
     "20": {
       "player": "masyn winn",
       "pitcher": "edward cabrera",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "willson contreras",
@@ -699,10 +699,16 @@
     }
   },
   "nym @ wsh": {
+    "21": {
+      "player": "mark vientos",
+      "pitcher": "jake irvin",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "20": {
       "player": "jeff mcneil",
       "pitcher": "jake irvin",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -922,8 +928,8 @@
     "9": {
       "player": "masataka yoshida",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "8": {
       "player": "trevor story",
@@ -975,6 +981,12 @@
     }
   },
   "chw @ atl": {
+    "5": {
+      "player": "matt olson",
+      "pitcher": "shane smith",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "jurickson profar",
       "pitcher": "shane smith",
