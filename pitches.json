@@ -439,8 +439,8 @@
     "16": {
       "player": "bo bichette",
       "pitcher": "mitch keller",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "15": {
       "player": "addison barger",
@@ -635,7 +635,7 @@
     "15": {
       "player": "cedric mullins",
       "pitcher": "jake irvin",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -724,10 +724,16 @@
     }
   },
   "sea @ phi": {
+    "12": {
+      "player": "jorge polanco",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "11": {
       "player": "mitch garver",
       "pitcher": "cristopher sanchez",
-      "result": "Ball In Dirt",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "10": {
