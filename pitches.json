@@ -439,7 +439,7 @@
       "player": "ramon urias",
       "pitcher": "tarik skubal",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "10": {
       "player": "yainer diaz",
@@ -507,7 +507,7 @@
       "player": "andres gimenez",
       "pitcher": "mitch keller",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "ernie clement",
@@ -834,7 +834,7 @@
     "28": {
       "player": "francisco lindor",
       "pitcher": "jake irvin",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "27": {
@@ -1004,8 +1004,8 @@
     "23": {
       "player": "trea turner",
       "pitcher": "bryce miller",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "22": {
       "player": "bryson stott",
@@ -1141,10 +1141,16 @@
     }
   },
   "bal @ bos": {
+    "16": {
+      "player": "nathaniel lowe",
+      "pitcher": "tomoyuki sugano",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "romy gonzalez",
       "pitcher": "tomoyuki sugano",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sweeper"
     },
     "14": {
@@ -1236,8 +1242,8 @@
     "12": {
       "player": "luis robert",
       "pitcher": "bryce elder",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "11": {
       "player": "andrew benintendi",
