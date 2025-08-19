@@ -458,6 +458,12 @@
     }
   },
   "hou @ det": {
+    "48": {
+      "player": "trey sweeney",
+      "pitcher": "tayler scott",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "47": {
       "player": "jesus sanchez",
       "pitcher": "jack flaherty",
@@ -745,7 +751,7 @@
     "42": {
       "player": "bryan reynolds",
       "pitcher": "kevin gausman",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "41": {
@@ -996,6 +1002,12 @@
     }
   },
   "stl @ mia": {
+    "45": {
+      "player": "pedro pages",
+      "pitcher": "valente bellozo",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "thomas saggese",
       "pitcher": "valente bellozo",
@@ -1265,8 +1277,8 @@
     "47": {
       "player": "randy arozarena",
       "pitcher": "ranger suarez",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "46": {
       "player": "trea turner",
@@ -1549,8 +1561,8 @@
     "31": {
       "player": "roman anthony",
       "pitcher": "trevor rogers",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "luis vazquez",
@@ -1734,11 +1746,17 @@
     }
   },
   "chw @ atl": {
+    "24": {
+      "player": "matt olson",
+      "pitcher": "yoendrys gomez",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "23": {
       "player": "jurickson profar",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "22": {
       "player": "lenyn sosa",
@@ -1874,11 +1892,17 @@
     }
   },
   "tex @ kc": {
+    "17": {
+      "player": "john rave",
+      "pitcher": "jack leiter",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "16": {
       "player": "jonathan india",
       "pitcher": "jack leiter",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "15": {
       "player": "josh smith",
