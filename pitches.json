@@ -604,8 +604,8 @@
     "22": {
       "player": "thomas saggese",
       "pitcher": "edward cabrera",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "21": {
       "player": "nolan gorman",
@@ -873,7 +873,7 @@
       "player": "cal raleigh",
       "pitcher": "cristopher sanchez",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "18": {
       "player": "randy arozarena",
@@ -985,6 +985,12 @@
     }
   },
   "bal @ bos": {
+    "11": {
+      "player": "coby mayo",
+      "pitcher": "walker buehler",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "10": {
       "player": "colton cowser",
       "pitcher": "walker buehler",
@@ -1047,11 +1053,17 @@
     }
   },
   "chw @ atl": {
+    "8": {
+      "player": "marcell ozuna",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "7": {
       "player": "michael harris",
       "pitcher": "shane smith",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "6": {
       "player": "ronald acuna",
