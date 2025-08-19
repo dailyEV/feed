@@ -438,8 +438,8 @@
     "6": {
       "player": "kerry carpenter",
       "pitcher": "hunter brown",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "gleyber torres",
@@ -473,11 +473,17 @@
     }
   },
   "tor @ pit": {
+    "21": {
+      "player": "jared triolo",
+      "pitcher": "max scherzer",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "20": {
       "player": "joey bart",
       "pitcher": "max scherzer",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "jack suwinski",
@@ -857,6 +863,12 @@
     }
   },
   "sea @ phi": {
+    "18": {
+      "player": "randy arozarena",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "17": {
       "player": "dylan moore",
       "pitcher": "cristopher sanchez",
@@ -965,7 +977,7 @@
       "player": "colton cowser",
       "pitcher": "walker buehler",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "9": {
       "player": "masataka yoshida",
