@@ -925,7 +925,7 @@
     "65": {
       "player": "henry davis",
       "pitcher": "seranthony dominguez",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "64": {
@@ -1314,6 +1314,12 @@
     }
   },
   "stl @ mia": {
+    "77": {
+      "player": "liam hicks",
+      "pitcher": "jorge alcala",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "76": {
       "player": "dane myers",
       "pitcher": "jorge alcala",
@@ -2912,6 +2918,12 @@
     }
   },
   "tex @ kc": {
+    "44": {
+      "player": "john rave",
+      "pitcher": "luis curvelo",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "43": {
       "player": "jonathan india",
       "pitcher": "luis curvelo",
@@ -3175,8 +3187,8 @@
     "19": {
       "player": "freddie freeman",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "teoscar hernandez",
