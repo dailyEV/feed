@@ -439,7 +439,7 @@
     "13": {
       "player": "myles straw",
       "pitcher": "mitch keller",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "12": {
@@ -519,8 +519,8 @@
     "14": {
       "player": "ivan herrera",
       "pitcher": "edward cabrera",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "lars nootbaar",
@@ -602,11 +602,17 @@
     }
   },
   "nym @ wsh": {
+    "13": {
+      "player": "riley adams",
+      "pitcher": "david peterson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "josh bell",
       "pitcher": "david peterson",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "luis torrens",
