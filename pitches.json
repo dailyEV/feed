@@ -525,7 +525,7 @@
     "15": {
       "player": "alec burleson",
       "pitcher": "edward cabrera",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "14": {
@@ -698,7 +698,7 @@
       "player": "josh naylor",
       "pitcher": "cristopher sanchez",
       "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "9": {
       "player": "eugenio suarez",
@@ -756,10 +756,16 @@
     }
   },
   "bal @ bos": {
+    "2": {
+      "player": "luis vazquez",
+      "pitcher": "walker buehler",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "jackson holliday",
       "pitcher": "walker buehler",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "Changeup"
     }
   },
