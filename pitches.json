@@ -519,8 +519,8 @@
     "14": {
       "player": "ivan herrera",
       "pitcher": "edward cabrera",
-      "result": "In play, run(s)",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "13": {
       "player": "lars nootbaar",
@@ -679,7 +679,7 @@
     "9": {
       "player": "eugenio suarez",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "8": {
@@ -731,7 +731,14 @@
       "pitch": "Sinker"
     }
   },
-  "bal @ bos": {},
+  "bal @ bos": {
+    "1": {
+      "player": "jackson holliday",
+      "pitcher": "walker buehler",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "chw @ atl": {},
   "nyy @ tb": {},
   "tex @ kc": {},
