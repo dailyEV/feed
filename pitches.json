@@ -3811,8 +3811,8 @@
     "65": {
       "player": "buddy kennedy",
       "pitcher": "victor vodnik",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "64": {
       "player": "alex freeland",
@@ -4200,10 +4200,16 @@
     }
   },
   "cin @ laa": {
+    "42": {
+      "player": "matt mclain",
+      "pitcher": "victor mederos",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "41": {
       "player": "kebryan hayes",
       "pitcher": "victor mederos",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "40": {
@@ -4448,12 +4454,6 @@
     }
   },
   "cle @ ari": {
-    "38": {
-      "player": "james mccann",
-      "pitcher": "gavin williams",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "37": {
       "player": "alek thomas",
       "pitcher": "gavin williams",
@@ -4678,11 +4678,17 @@
     }
   },
   "sf @ sd": {
+    "38": {
+      "player": "jung hoo lee",
+      "pitcher": "nestor cortes",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "wilmer flores",
       "pitcher": "nestor cortes",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "36": {
       "player": "casey schmitt",
