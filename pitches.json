@@ -835,8 +835,8 @@
     "52": {
       "player": "andres gimenez",
       "pitcher": "evan sisk",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul Tip",
+      "pitch": "Sweeper"
     },
     "51": {
       "player": "tyler heineman",
@@ -1146,6 +1146,12 @@
     }
   },
   "stl @ mia": {
+    "57": {
+      "player": "javier sanoja",
+      "pitcher": "matt svanson",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "56": {
       "player": "masyn winn",
       "pitcher": "lake bachar",
@@ -2481,7 +2487,14 @@
       "pitch": "Cutter"
     }
   },
-  "lad @ col": {},
+  "lad @ col": {
+    "1": {
+      "player": "shohei ohtani",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "cin @ laa": {},
   "cle @ ari": {},
   "sf @ sd": {},
