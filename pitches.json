@@ -2799,8 +2799,8 @@
     "85": {
       "player": "matt olson",
       "pitcher": "owen white",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "84": {
       "player": "jurickson profar",
@@ -3736,11 +3736,17 @@
     }
   },
   "lad @ col": {
+    "50": {
+      "player": "mookie betts",
+      "pitcher": "luis peralta",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "shohei ohtani",
       "pitcher": "luis peralta",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "dalton rushing",
@@ -4187,7 +4193,7 @@
     "23": {
       "player": "ketel marte",
       "pitcher": "gavin williams",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "22": {
@@ -4328,7 +4334,7 @@
       "player": "casey schmitt",
       "pitcher": "nestor cortes",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "jake cronenworth",
