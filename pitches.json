@@ -439,8 +439,8 @@
     "6": {
       "player": "ty france",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "5": {
       "player": "nathan lukes",
@@ -512,10 +512,16 @@
     }
   },
   "nym @ wsh": {
+    "7": {
+      "player": "paul dejong",
+      "pitcher": "david peterson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "cj abrams",
       "pitcher": "david peterson",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "5": {
@@ -550,6 +556,12 @@
     }
   },
   "sea @ phi": {
+    "4": {
+      "player": "trea turner",
+      "pitcher": "bryce miller",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "julio rodriguez",
       "pitcher": "cristopher sanchez",
