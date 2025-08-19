@@ -1843,8 +1843,8 @@
     "44": {
       "player": "dylan carlson",
       "pitcher": "dustin may",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "43": {
       "player": "dylan beavers",
@@ -2109,7 +2109,7 @@
     "35": {
       "player": "lenyn sosa",
       "pitcher": "austin cox",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -2322,7 +2322,7 @@
       "player": "john rave",
       "pitcher": "jack leiter",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "jonathan india",
@@ -2494,6 +2494,12 @@
     }
   },
   "lad @ col": {
+    "2": {
+      "player": "mookie betts",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "1": {
       "player": "shohei ohtani",
       "pitcher": "kyle freeland",
