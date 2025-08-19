@@ -438,8 +438,8 @@
     "6": {
       "player": "kerry carpenter",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "5": {
       "player": "gleyber torres",
@@ -477,7 +477,7 @@
       "player": "joey bart",
       "pitcher": "max scherzer",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "19": {
       "player": "jack suwinski",
@@ -595,10 +595,16 @@
     }
   },
   "stl @ mia": {
+    "21": {
+      "player": "nolan gorman",
+      "pitcher": "edward cabrera",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "20": {
       "player": "masyn winn",
       "pitcher": "edward cabrera",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "19": {
@@ -848,8 +854,8 @@
     "17": {
       "player": "dylan moore",
       "pitcher": "cristopher sanchez",
-      "result": "Foul Tip",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "16": {
       "player": "jp crawford",
