@@ -461,7 +461,7 @@
     "69": {
       "player": "andy ibanez",
       "pitcher": "chas mccormick",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "68": {
@@ -1604,6 +1604,12 @@
     }
   },
   "sea @ phi": {
+    "67": {
+      "player": "bryce harper",
+      "pitcher": "casey legumina",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "66": {
       "player": "kyle schwarber",
       "pitcher": "casey legumina",
@@ -2005,7 +2011,7 @@
     "49": {
       "player": "luis vazquez",
       "pitcher": "jovani moran",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "48": {
@@ -2549,8 +2555,8 @@
     "33": {
       "player": "luke maile",
       "pitcher": "jack leiter",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "32": {
       "player": "joc pederson",
