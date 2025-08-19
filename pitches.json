@@ -2793,7 +2793,7 @@
     "71": {
       "player": "drake baldwin",
       "pitcher": "brandon eisert",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "70": {
@@ -3218,10 +3218,16 @@
     }
   },
   "tex @ kc": {
+    "63": {
+      "player": "corey seager",
+      "pitcher": "lucas erceg",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "wyatt langford",
       "pitcher": "lucas erceg",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -3595,8 +3601,8 @@
     "37": {
       "player": "kyle karros",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Splitter"
     },
     "36": {
       "player": "teoscar hernandez",
@@ -3816,6 +3822,12 @@
     }
   },
   "cin @ laa": {
+    "11": {
+      "player": "taylor ward",
+      "pitcher": "brady singer",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
     "10": {
       "player": "mike trout",
       "pitcher": "brady singer",
@@ -3882,7 +3894,7 @@
       "player": "corbin carroll",
       "pitcher": "gavin williams",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "7": {
       "player": "ketel marte",
