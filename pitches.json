@@ -461,8 +461,8 @@
     "53": {
       "player": "riley greene",
       "pitcher": "tayler scott",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "52": {
       "player": "kerry carpenter",
@@ -1050,11 +1050,17 @@
     }
   },
   "stl @ mia": {
+    "49": {
+      "player": "dane myers",
+      "pitcher": "matt svanson",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "48": {
       "player": "heriberto hernandez",
       "pitcher": "matt svanson",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "47": {
       "player": "jakob marsee",
@@ -1876,7 +1882,7 @@
       "player": "andrew benintendi",
       "pitcher": "spencer strider",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "26": {
       "player": "drake baldwin",
