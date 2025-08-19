@@ -1814,6 +1814,12 @@
     }
   },
   "sea @ phi": {
+    "85": {
+      "player": "randy arozarena",
+      "pitcher": "nolan hoffman",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "84": {
       "player": "cole young",
       "pitcher": "nolan hoffman",
@@ -2324,7 +2330,7 @@
       "player": "abraham toro",
       "pitcher": "dietrich enns",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "carlos narvaez",
@@ -3056,11 +3062,17 @@
     }
   },
   "tex @ kc": {
+    "50": {
+      "player": "marcus semien",
+      "pitcher": "john schreiber",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "evan carter",
       "pitcher": "michael wacha",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "rowdy tellez",
@@ -3355,8 +3367,8 @@
     "25": {
       "player": "tyler freeman",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "24": {
       "player": "ryan ritter",
