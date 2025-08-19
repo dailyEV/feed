@@ -3808,11 +3808,17 @@
     }
   },
   "lad @ col": {
+    "66": {
+      "player": "dalton rushing",
+      "pitcher": "victor vodnik",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "65": {
       "player": "buddy kennedy",
       "pitcher": "victor vodnik",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "alex freeland",
@@ -4203,7 +4209,7 @@
     "42": {
       "player": "matt mclain",
       "pitcher": "victor mederos",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "41": {
@@ -4457,8 +4463,8 @@
     "38": {
       "player": "james mccann",
       "pitcher": "gavin williams",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "37": {
       "player": "alek thomas",
@@ -4684,6 +4690,12 @@
     }
   },
   "sf @ sd": {
+    "38": {
+      "player": "jung hoo lee",
+      "pitcher": "nestor cortes",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "wilmer flores",
       "pitcher": "nestor cortes",
