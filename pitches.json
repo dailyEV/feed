@@ -922,12 +922,6 @@
     }
   },
   "tor @ pit": {
-    "65": {
-      "player": "henry davis",
-      "pitcher": "seranthony dominguez",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "64": {
       "player": "alexander canario",
       "pitcher": "seranthony dominguez",
@@ -1317,8 +1311,8 @@
     "76": {
       "player": "dane myers",
       "pitcher": "jorge alcala",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "75": {
       "player": "heriberto hernandez",
@@ -2592,6 +2586,12 @@
     }
   },
   "chw @ atl": {
+    "53": {
+      "player": "lenyn sosa",
+      "pitcher": "austin cox",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "colson montgomery",
       "pitcher": "austin cox",
@@ -3170,7 +3170,7 @@
       "player": "freddie freeman",
       "pitcher": "kyle freeland",
       "result": "Foul",
-      "pitch": "Cutter"
+      "pitch": "Knuckle Curve"
     },
     "18": {
       "player": "teoscar hernandez",
