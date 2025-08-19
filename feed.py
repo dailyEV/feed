@@ -174,8 +174,8 @@ async def upsertFeed(psql, data, inserted):
 		await supabase.table("Feed").upsert(rows).execute()
 
 def parsePitch(driver):
-	btn = driver.find_elements(By.CSS_SELECTOR, "#nav-buttons div")[4]
-	btn.click()
+	#btn = driver.find_elements(By.CSS_SELECTOR, "#nav-buttons div")[4]
+	#btn.click()
 
 	html = driver.page_source
 	soup = BS(html, "html.parser")
@@ -215,8 +215,8 @@ def parsePitch(driver):
 				"pitch": tds[10].text.strip()
 			}
 
-	btn = driver.find_elements(By.CSS_SELECTOR, "#nav-buttons div")[0]
-	btn.click()
+	#btn = driver.find_elements(By.CSS_SELECTOR, "#nav-buttons div")[0]
+	#btn.click()
 	return data
 
 
