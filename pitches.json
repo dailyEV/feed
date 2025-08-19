@@ -434,12 +434,19 @@
     }
   },
   "mil-gm2 @ chc-gm2": {},
-  "hou @ det": {},
+  "hou @ det": {
+    "1": {
+      "player": "jeremy pena",
+      "pitcher": "tarik skubal",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    }
+  },
   "tor @ pit": {
     "17": {
       "player": "alejandro kirk",
       "pitcher": "mitch keller",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "16": {
@@ -739,8 +746,8 @@
     "12": {
       "player": "jorge polanco",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "11": {
       "player": "mitch garver",
@@ -810,6 +817,12 @@
     }
   },
   "bal @ bos": {
+    "5": {
+      "player": "roman anthony",
+      "pitcher": "tomoyuki sugano",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "ryan mountcastle",
       "pitcher": "walker buehler",
@@ -835,7 +848,14 @@
       "pitch": "Changeup"
     }
   },
-  "chw @ atl": {},
+  "chw @ atl": {
+    "1": {
+      "player": "mike tauchman",
+      "pitcher": "bryce elder",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    }
+  },
   "nyy @ tb": {},
   "tex @ kc": {},
   "ath @ min": {},
