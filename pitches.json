@@ -516,6 +516,12 @@
     }
   },
   "stl @ mia": {
+    "15": {
+      "player": "alec burleson",
+      "pitcher": "edward cabrera",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "ivan herrera",
       "pitcher": "edward cabrera",
@@ -744,11 +750,17 @@
     }
   },
   "bal @ bos": {
+    "2": {
+      "player": "luis vazquez",
+      "pitcher": "walker buehler",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "jackson holliday",
       "pitcher": "walker buehler",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Changeup"
     }
   },
   "chw @ atl": {},
