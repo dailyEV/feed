@@ -436,6 +436,12 @@
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {},
   "tor @ pit": {
+    "14": {
+      "player": "george springer",
+      "pitcher": "mitch keller",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "13": {
       "player": "myles straw",
       "pitcher": "mitch keller",
@@ -611,8 +617,8 @@
     "13": {
       "player": "riley adams",
       "pitcher": "david peterson",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "josh bell",
@@ -691,7 +697,7 @@
     "10": {
       "player": "josh naylor",
       "pitcher": "cristopher sanchez",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "9": {
@@ -750,16 +756,10 @@
     }
   },
   "bal @ bos": {
-    "2": {
-      "player": "luis vazquez",
-      "pitcher": "walker buehler",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "1": {
       "player": "jackson holliday",
       "pitcher": "walker buehler",
-      "result": "Foul Tip",
+      "result": "Foul",
       "pitch": "Changeup"
     }
   },
