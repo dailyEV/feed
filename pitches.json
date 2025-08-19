@@ -533,6 +533,18 @@
     }
   },
   "tor @ pit": {
+    "32": {
+      "player": "george springer",
+      "pitcher": "mitch keller",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "31": {
+      "player": "myles straw",
+      "pitcher": "mitch keller",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "30": {
       "player": "nick gonzales",
       "pitcher": "max scherzer",
@@ -718,8 +730,8 @@
     "32": {
       "player": "xavier edwards",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "31": {
       "player": "willson contreras",
@@ -909,6 +921,12 @@
     }
   },
   "nym @ wsh": {
+    "35": {
+      "player": "jeff mcneil",
+      "pitcher": "jake irvin",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "34": {
       "player": "pete alonso",
       "pitcher": "jake irvin",
@@ -1416,8 +1434,8 @@
     "17": {
       "player": "matt olson",
       "pitcher": "shane smith",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "16": {
       "player": "jurickson profar",
@@ -1518,6 +1536,12 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "6": {
+      "player": "bobby witt",
+      "pitcher": "merrill kelly",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "mike yastrzemski",
       "pitcher": "merrill kelly",
