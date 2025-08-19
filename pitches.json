@@ -3137,7 +3137,7 @@
     "56": {
       "player": "cody freeman",
       "pitcher": "john schreiber",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "55": {
@@ -3472,11 +3472,17 @@
     }
   },
   "lad @ col": {
+    "33": {
+      "player": "warming bernabel",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "ezequiel tovar",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "jordan beck",
@@ -3695,8 +3701,8 @@
     "2": {
       "player": "daniel schneemann",
       "pitcher": "zac gallen",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "steven kwan",
@@ -3709,8 +3715,8 @@
     "2": {
       "player": "rafael devers",
       "pitcher": "nestor cortes",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "heliot ramos",
