@@ -438,15 +438,15 @@
     "1": {
       "player": "jeremy pena",
       "pitcher": "tarik skubal",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     }
   },
   "tor @ pit": {
     "17": {
       "player": "alejandro kirk",
       "pitcher": "mitch keller",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "16": {
@@ -645,6 +645,12 @@
     }
   },
   "nym @ wsh": {
+    "17": {
+      "player": "juan soto",
+      "pitcher": "jake irvin",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "francisco lindor",
       "pitcher": "jake irvin",
@@ -746,8 +752,8 @@
     "12": {
       "player": "jorge polanco",
       "pitcher": "cristopher sanchez",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "mitch garver",
@@ -817,12 +823,6 @@
     }
   },
   "bal @ bos": {
-    "5": {
-      "player": "roman anthony",
-      "pitcher": "tomoyuki sugano",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "4": {
       "player": "ryan mountcastle",
       "pitcher": "walker buehler",
