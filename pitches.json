@@ -461,8 +461,8 @@
     "76": {
       "player": "victor caratini",
       "pitcher": "alex lange",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "75": {
       "player": "christian walker",
@@ -919,7 +919,7 @@
     "59": {
       "player": "george springer",
       "pitcher": "kyle nicolas",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -1275,7 +1275,7 @@
     "70": {
       "player": "willson contreras",
       "pitcher": "josh simpson",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "69": {
@@ -1694,6 +1694,12 @@
     }
   },
   "sea @ phi": {
+    "71": {
+      "player": "julio rodriguez",
+      "pitcher": "orion kerkering",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "70": {
       "player": "cal raleigh",
       "pitcher": "orion kerkering",
@@ -2436,6 +2442,12 @@
     }
   },
   "chw @ atl": {
+    "46": {
+      "player": "matt olson",
+      "pitcher": "yoendrys gomez",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "45": {
       "player": "jurickson profar",
       "pitcher": "yoendrys gomez",
