@@ -925,8 +925,8 @@
     "65": {
       "player": "henry davis",
       "pitcher": "seranthony dominguez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "64": {
       "player": "alexander canario",
@@ -1317,8 +1317,8 @@
     "77": {
       "player": "liam hicks",
       "pitcher": "jorge alcala",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "76": {
       "player": "dane myers",
@@ -1781,8 +1781,8 @@
     "78": {
       "player": "kyle schwarber",
       "pitcher": "jackson kowar",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "77": {
       "player": "trea turner",
@@ -2601,8 +2601,8 @@
     "53": {
       "player": "lenyn sosa",
       "pitcher": "austin cox",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "52": {
       "player": "colson montgomery",
@@ -2918,12 +2918,6 @@
     }
   },
   "tex @ kc": {
-    "44": {
-      "player": "john rave",
-      "pitcher": "luis curvelo",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "43": {
       "player": "jonathan india",
       "pitcher": "luis curvelo",
@@ -3184,6 +3178,12 @@
     }
   },
   "lad @ col": {
+    "20": {
+      "player": "andy pages",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "19": {
       "player": "freddie freeman",
       "pitcher": "kyle freeland",
