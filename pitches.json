@@ -436,6 +436,12 @@
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {},
   "tor @ pit": {
+    "10": {
+      "player": "spencer horwitz",
+      "pitcher": "max scherzer",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "9": {
       "player": "ronny simon",
       "pitcher": "max scherzer",
@@ -495,8 +501,8 @@
     "9": {
       "player": "agustin ramirez",
       "pitcher": "michael mcgreevy",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "8": {
       "player": "jakob marsee",
@@ -607,8 +613,8 @@
     "6": {
       "player": "bryce harper",
       "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "5": {
       "player": "kyle schwarber",
