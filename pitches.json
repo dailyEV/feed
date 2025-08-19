@@ -459,12 +459,6 @@
   },
   "mil-gm2 @ chc-gm2": {},
   "hou @ det": {
-    "40": {
-      "player": "kerry carpenter",
-      "pitcher": "spencer arrighetti",
-      "result": "In play, run(s)",
-      "pitch": "Curveball"
-    },
     "39": {
       "player": "gleyber torres",
       "pitcher": "spencer arrighetti",
@@ -704,8 +698,8 @@
     "35": {
       "player": "isiah kiner falefa",
       "pitcher": "kevin gausman",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "34": {
       "player": "henry davis",
@@ -1131,6 +1125,12 @@
     }
   },
   "sea @ phi": {
+    "36": {
+      "player": "jt realmuto",
+      "pitcher": "carlos vargas",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "bryce harper",
       "pitcher": "carlos vargas",
@@ -1486,8 +1486,8 @@
     "16": {
       "player": "nacho alvarez",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "15": {
       "player": "ozzie albies",
