@@ -437,8 +437,8 @@
     "7": {
       "player": "michael busch",
       "pitcher": "brandon woodruff",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "isaac collins",
@@ -642,10 +642,16 @@
     }
   },
   "tor @ pit": {
+    "44": {
+      "player": "ronny simon",
+      "pitcher": "max scherzer",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "isiah kiner falefa",
       "pitcher": "max scherzer",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "42": {
@@ -902,12 +908,6 @@
     }
   },
   "stl @ mia": {
-    "47": {
-      "player": "ivan herrera",
-      "pitcher": "cade gibson",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "46": {
       "player": "maximo acosta",
       "pitcher": "michael mcgreevy",
@@ -1751,8 +1751,8 @@
     "35": {
       "player": "abraham toro",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "34": {
       "player": "nathaniel lowe",
@@ -1960,11 +1960,17 @@
     }
   },
   "chw @ atl": {
+    "33": {
+      "player": "nacho alvarez",
+      "pitcher": "shane smith",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "ozzie albies",
       "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "edgar quero",
@@ -2283,6 +2289,12 @@
     }
   },
   "ath @ min": {
+    "20": {
+      "player": "nick kurtz",
+      "pitcher": "joe ryan",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "19": {
       "player": "luis urias",
       "pitcher": "joe ryan",
