@@ -801,8 +801,8 @@
     "57": {
       "player": "ty france",
       "pitcher": "colin holderman",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "56": {
       "player": "nathan lukes",
@@ -1145,8 +1145,8 @@
     "64": {
       "player": "nathan church",
       "pitcher": "cade gibson",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "63": {
       "player": "xavier edwards",
@@ -1929,7 +1929,7 @@
     "58": {
       "player": "josh naylor",
       "pitcher": "matt strahm",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "57": {
@@ -2276,11 +2276,17 @@
     }
   },
   "bal @ bos": {
+    "47": {
+      "player": "alex jackson",
+      "pitcher": "greg weissert",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "dylan carlson",
       "pitcher": "greg weissert",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "alex bregman",
@@ -2851,11 +2857,17 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "39": {
+      "player": "evan carter",
+      "pitcher": "seth lugo",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "joc pederson",
       "pitcher": "seth lugo",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "37": {
       "player": "corey seager",
