@@ -279,7 +279,7 @@ def parseFeed(date, data, pitches, times, games, totGames, soup, inserted, leftO
 			if pa in pitches.get(game, {}):
 				j["pitcher"] = pitches[game][pa]["pitcher"]
 				j["pitch"] = parsePitchType(pitches[game][pa]["pitch"])
-				j["pitcherLR"] = leftOrRight[opp].get(j["pitcher"], "")
+				j["pitcherLR"] = leftOrRight[opp.replace("-gm2", "")].get(j["pitcher"], "")
 
 			data[game].append(j)
 
