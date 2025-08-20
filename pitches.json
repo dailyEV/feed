@@ -437,8 +437,8 @@
     "14": {
       "player": "joey ortiz",
       "pitcher": "jameson taillon",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "danny jansen",
@@ -726,6 +726,18 @@
     }
   },
   "tor @ pit": {
+    "52": {
+      "player": "jack suwinski",
+      "pitcher": "max scherzer",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "51": {
+      "player": "andrew mccutchen",
+      "pitcher": "max scherzer",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "nick gonzales",
       "pitcher": "max scherzer",
@@ -1031,8 +1043,8 @@
     "56": {
       "player": "eric wagaman",
       "pitcher": "michael mcgreevy",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "55": {
       "player": "heriberto hernandez",
@@ -1366,6 +1378,12 @@
     }
   },
   "nym @ wsh": {
+    "59": {
+      "player": "cedric mullins",
+      "pitcher": "pj poulin",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "58": {
       "player": "luis torrens",
       "pitcher": "pj poulin",
@@ -2033,8 +2051,8 @@
     "42": {
       "player": "dylan beavers",
       "pitcher": "greg weissert",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "coby mayo",
@@ -2545,12 +2563,6 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
-    "30": {
-      "player": "alejandro osuna",
-      "pitcher": "seth lugo",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "29": {
       "player": "rowdy tellez",
       "pitcher": "seth lugo",
@@ -2730,7 +2742,7 @@
     "28": {
       "player": "darell hernaiz",
       "pitcher": "joe ryan",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "27": {
