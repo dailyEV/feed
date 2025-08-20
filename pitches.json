@@ -434,6 +434,12 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "16": {
+      "player": "caleb durbin",
+      "pitcher": "jameson taillon",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "15": {
       "player": "sal frelick",
       "pitcher": "jameson taillon",
@@ -744,6 +750,12 @@
     }
   },
   "tor @ pit": {
+    "53": {
+      "player": "addison barger",
+      "pitcher": "yohan ramirez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "52": {
       "player": "jack suwinski",
       "pitcher": "max scherzer",
@@ -2096,6 +2108,12 @@
     }
   },
   "bal @ bos": {
+    "43": {
+      "player": "connor wong",
+      "pitcher": "tomoyuki sugano",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "42": {
       "player": "dylan beavers",
       "pitcher": "greg weissert",
@@ -2626,8 +2644,8 @@
     "32": {
       "player": "josh smith",
       "pitcher": "seth lugo",
-      "result": "Swinging Strike",
-      "pitch": "Slurve"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "jonah heim",
@@ -2986,7 +3004,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "lad @ col": {},
+  "lad @ col": {
+    "1": {
+      "player": "shohei ohtani",
+      "pitcher": "austin gomber",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    }
+  },
   "cin @ laa": {},
   "cle @ ari": {},
   "sf @ sd": {}
