@@ -633,8 +633,8 @@
     "42": {
       "player": "jared triolo",
       "pitcher": "max scherzer",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "ernie clement",
@@ -1455,8 +1455,8 @@
     "42": {
       "player": "bryce harper",
       "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "41": {
       "player": "kyle schwarber",
@@ -1706,10 +1706,16 @@
     }
   },
   "bal @ bos": {
+    "35": {
+      "player": "abraham toro",
+      "pitcher": "tomoyuki sugano",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "34": {
       "player": "nathaniel lowe",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -1912,6 +1918,12 @@
     }
   },
   "chw @ atl": {
+    "32": {
+      "player": "ozzie albies",
+      "pitcher": "shane smith",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "31": {
       "player": "edgar quero",
       "pitcher": "bryce elder",
@@ -2101,11 +2113,17 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "20": {
+      "player": "luke maile",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "kyle isbel",
       "pitcher": "merrill kelly",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "wyatt langford",
@@ -2220,8 +2238,8 @@
     "19": {
       "player": "luis urias",
       "pitcher": "joe ryan",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "brett harris",
