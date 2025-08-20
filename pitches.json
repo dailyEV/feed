@@ -434,6 +434,12 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "10": {
+      "player": "pete crow armstrong",
+      "pitcher": "brandon woodruff",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "seiya suzuki",
       "pitcher": "brandon woodruff",
@@ -490,6 +496,18 @@
     }
   },
   "hou @ det": {
+    "30": {
+      "player": "wenceel perez",
+      "pitcher": "hunter brown",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "29": {
+      "player": "spencer torkelson",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "riley greene",
       "pitcher": "hunter brown",
@@ -1231,8 +1249,8 @@
     "53": {
       "player": "mark vientos",
       "pitcher": "konnor pilkington",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "jeff mcneil",
@@ -1551,7 +1569,7 @@
     "46": {
       "player": "mitch garver",
       "pitcher": "cristopher sanchez",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "45": {
@@ -2053,8 +2071,8 @@
     "37": {
       "player": "ronald acuna",
       "pitcher": "shane smith",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "36": {
       "player": "matt olson",
@@ -2279,7 +2297,7 @@
       "player": "evan carter",
       "pitcher": "seth lugo",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "joc pederson",
