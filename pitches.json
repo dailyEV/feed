@@ -434,12 +434,6 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
-    "26": {
-      "player": "seiya suzuki",
-      "pitcher": "brandon woodruff",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "25": {
       "player": "andrew vaughn",
       "pitcher": "jameson taillon",
@@ -592,6 +586,12 @@
     }
   },
   "hou @ det": {
+    "45": {
+      "player": "christian walker",
+      "pitcher": "tarik skubal",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "spencer torkelson",
       "pitcher": "hunter brown",
@@ -861,8 +861,8 @@
     "64": {
       "player": "andres gimenez",
       "pitcher": "colin holderman",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "63": {
       "player": "ernie clement",
@@ -2803,7 +2803,7 @@
     "55": {
       "player": "lenyn sosa",
       "pitcher": "connor seabold",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "54": {
@@ -3136,8 +3136,8 @@
     "44": {
       "player": "marcus semien",
       "pitcher": "seth lugo",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "43": {
       "player": "bobby witt",
