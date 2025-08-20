@@ -774,10 +774,16 @@
     }
   },
   "tor @ pit": {
+    "56": {
+      "player": "nathan lukes",
+      "pitcher": "colin holderman",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "alejandro kirk",
       "pitcher": "colin holderman",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "54": {
@@ -1109,7 +1115,7 @@
     "62": {
       "player": "maximo acosta",
       "pitcher": "matt svanson",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "61": {
@@ -1480,6 +1486,12 @@
     }
   },
   "nym @ wsh": {
+    "64": {
+      "player": "brady house",
+      "pitcher": "david peterson",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
+    },
     "63": {
       "player": "andres chaparro",
       "pitcher": "david peterson",
@@ -2976,7 +2988,7 @@
     "32": {
       "player": "nick kurtz",
       "pitcher": "joe ryan",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -3170,8 +3182,8 @@
     "6": {
       "player": "andy pages",
       "pitcher": "austin gomber",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "5": {
       "player": "teoscar hernandez",
