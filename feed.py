@@ -348,5 +348,10 @@ if __name__ == '__main__':
 		writeFeed(date, args.loop)
 
 	if args.commit:
-		commitChanges()
+		try:
+			commitChanges()
+		except:
+			if os.path.exists("/mnt/c/Users/zhech/Documents/feed/.git/index.lock"):
+				os.system("rm /mnt/c/Users/zhech/Documents/feed/.git/index.lock")
+			pass
 		exit()
