@@ -438,7 +438,7 @@
       "player": "seiya suzuki",
       "pitcher": "brandon woodruff",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "8": {
       "player": "ian happ",
@@ -494,7 +494,7 @@
       "player": "riley greene",
       "pitcher": "hunter brown",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "27": {
       "player": "ramon urias",
@@ -660,6 +660,12 @@
     }
   },
   "tor @ pit": {
+    "45": {
+      "player": "andres gimenez",
+      "pitcher": "yohan ramirez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "ronny simon",
       "pitcher": "max scherzer",
@@ -929,7 +935,7 @@
     "49": {
       "player": "willson contreras",
       "pitcher": "cade gibson",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "48": {
@@ -1802,11 +1808,17 @@
     }
   },
   "bal @ bos": {
+    "37": {
+      "player": "luis vazquez",
+      "pitcher": "walker buehler",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "jackson holliday",
       "pitcher": "walker buehler",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "35": {
       "player": "abraham toro",
@@ -2023,8 +2035,8 @@
     "35": {
       "player": "jurickson profar",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "34": {
       "player": "nick allen",
@@ -2377,7 +2389,7 @@
       "player": "brent rooker",
       "pitcher": "joe ryan",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "21": {
       "player": "shea langeliers",
