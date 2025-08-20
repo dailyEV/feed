@@ -101,8 +101,8 @@
     "2": {
       "player": "cal raleigh",
       "pitcher": "jesus luzardo",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "1": {
       "player": "randy arozarena",
@@ -111,7 +111,14 @@
       "pitch": "Changeup"
     }
   },
-  "hou @ det": {},
+  "hou @ det": {
+    "1": {
+      "player": "jeremy pena",
+      "pitcher": "charlie morton",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "cle @ ari": {},
   "stl @ mia": {},
   "nym @ wsh": {},
