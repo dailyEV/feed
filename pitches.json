@@ -434,6 +434,12 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "25": {
+      "player": "andrew vaughn",
+      "pitcher": "jameson taillon",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "christian yelich",
       "pitcher": "jameson taillon",
@@ -580,17 +586,11 @@
     }
   },
   "hou @ det": {
-    "44": {
-      "player": "spencer torkelson",
-      "pitcher": "hunter brown",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
-    },
     "43": {
       "player": "riley greene",
       "pitcher": "hunter brown",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "42": {
       "player": "kerry carpenter",
@@ -1223,8 +1223,8 @@
     "68": {
       "player": "agustin ramirez",
       "pitcher": "jojo romero",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "67": {
       "player": "jakob marsee",
@@ -2728,6 +2728,12 @@
     }
   },
   "chw @ atl": {
+    "54": {
+      "player": "kyle teel",
+      "pitcher": "connor seabold",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "53": {
       "player": "miguel vargas",
       "pitcher": "connor seabold",
@@ -3049,6 +3055,12 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "43": {
+      "player": "bobby witt",
+      "pitcher": "merrill kelly",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "42": {
       "player": "mike yastrzemski",
       "pitcher": "merrill kelly",
@@ -3530,8 +3542,8 @@
     "13": {
       "player": "shohei ohtani",
       "pitcher": "austin gomber",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "12": {
       "player": "buddy kennedy",
