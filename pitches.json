@@ -712,7 +712,7 @@
       "player": "bryan reynolds",
       "pitcher": "max scherzer",
       "result": "Foul",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "spencer horwitz",
@@ -1004,6 +1004,12 @@
     }
   },
   "stl @ mia": {
+    "53": {
+      "player": "liam hicks",
+      "pitcher": "michael mcgreevy",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "52": {
       "player": "agustin ramirez",
       "pitcher": "michael mcgreevy",
@@ -1321,8 +1327,8 @@
     "57": {
       "player": "riley adams",
       "pitcher": "david peterson",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "josh bell",
@@ -1961,8 +1967,8 @@
     "40": {
       "player": "colton cowser",
       "pitcher": "justin wilson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "39": {
       "player": "ryan mountcastle",
@@ -2200,6 +2206,12 @@
     }
   },
   "chw @ atl": {
+    "41": {
+      "player": "miguel vargas",
+      "pitcher": "bryce elder",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "40": {
       "player": "mike tauchman",
       "pitcher": "bryce elder",
@@ -2443,6 +2455,18 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "28": {
+      "player": "maikel garcia",
+      "pitcher": "merrill kelly",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "27": {
+      "player": "vinnie pasquantino",
+      "pitcher": "merrill kelly",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "26": {
       "player": "bobby witt",
       "pitcher": "merrill kelly",
@@ -2601,6 +2625,12 @@
     }
   },
   "ath @ min": {
+    "26": {
+      "player": "tyler soderstrom",
+      "pitcher": "joe ryan",
+      "result": "In play, no out",
+      "pitch": "Splitter"
+    },
     "25": {
       "player": "luke keaschall",
       "pitcher": "jacob lopez",
