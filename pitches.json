@@ -437,8 +437,8 @@
     "12": {
       "player": "brice turang",
       "pitcher": "jameson taillon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "carson kelly",
@@ -511,7 +511,7 @@
     "33": {
       "player": "chas mccormick",
       "pitcher": "tarik skubal",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "32": {
@@ -1318,12 +1318,6 @@
     }
   },
   "nym @ wsh": {
-    "56": {
-      "player": "josh bell",
-      "pitcher": "david peterson",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "55": {
       "player": "paul dejong",
       "pitcher": "david peterson",
@@ -1659,8 +1653,8 @@
     "49": {
       "player": "brandon marsh",
       "pitcher": "eduard bazardo",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "alec bohm",
@@ -1955,8 +1949,8 @@
     "40": {
       "player": "colton cowser",
       "pitcher": "justin wilson",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "ryan mountcastle",
@@ -2194,6 +2188,12 @@
     }
   },
   "chw @ atl": {
+    "40": {
+      "player": "mike tauchman",
+      "pitcher": "bryce elder",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "chase meidroth",
       "pitcher": "bryce elder",
@@ -2431,18 +2431,6 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
-    "28": {
-      "player": "maikel garcia",
-      "pitcher": "merrill kelly",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
-    "27": {
-      "player": "vinnie pasquantino",
-      "pitcher": "merrill kelly",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "26": {
       "player": "bobby witt",
       "pitcher": "merrill kelly",
