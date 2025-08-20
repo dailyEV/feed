@@ -1975,7 +1975,7 @@
     "33": {
       "player": "jeff mcneil",
       "pitcher": "brad lord",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "32": {
@@ -2291,8 +2291,8 @@
     "8": {
       "player": "yandy diaz",
       "pitcher": "cam schlittler",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "7": {
       "player": "chandler simpson",
@@ -2341,8 +2341,8 @@
     "5": {
       "player": "josh jung",
       "pitcher": "noah cameron",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "kyle higashioka",
@@ -2370,6 +2370,12 @@
     }
   },
   "ath @ min": {
+    "6": {
+      "player": "brooks lee",
+      "pitcher": "jt ginn",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "trevor larnach",
       "pitcher": "jt ginn",
