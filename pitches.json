@@ -434,6 +434,12 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "7": {
+      "player": "michael busch",
+      "pitcher": "brandon woodruff",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "isaac collins",
       "pitcher": "jameson taillon",
@@ -1177,7 +1183,7 @@
     "49": {
       "player": "juan soto",
       "pitcher": "konnor pilkington",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "48": {
@@ -1734,7 +1740,7 @@
       "player": "abraham toro",
       "pitcher": "tomoyuki sugano",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "34": {
       "player": "nathaniel lowe",
@@ -1942,12 +1948,6 @@
     }
   },
   "chw @ atl": {
-    "32": {
-      "player": "ozzie albies",
-      "pitcher": "shane smith",
-      "result": "In play, no out",
-      "pitch": "Curveball"
-    },
     "31": {
       "player": "edgar quero",
       "pitcher": "bryce elder",
@@ -2137,11 +2137,17 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "21": {
+      "player": "mike yastrzemski",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "20": {
       "player": "luke maile",
       "pitcher": "merrill kelly",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "19": {
       "player": "kyle isbel",
@@ -2259,11 +2265,17 @@
     }
   },
   "ath @ min": {
+    "20": {
+      "player": "nick kurtz",
+      "pitcher": "joe ryan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "luis urias",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "brett harris",
