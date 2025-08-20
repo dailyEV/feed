@@ -544,6 +544,12 @@
     }
   },
   "hou @ det": {
+    "38": {
+      "player": "gleyber torres",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "colt keith",
       "pitcher": "hunter brown",
@@ -768,6 +774,18 @@
     }
   },
   "tor @ pit": {
+    "55": {
+      "player": "alejandro kirk",
+      "pitcher": "colin holderman",
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
+    },
+    "54": {
+      "player": "bo bichette",
+      "pitcher": "colin holderman",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "53": {
       "player": "addison barger",
       "pitcher": "yohan ramirez",
@@ -1453,8 +1471,8 @@
     "63": {
       "player": "andres chaparro",
       "pitcher": "david peterson",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "62": {
       "player": "dylan crews",
@@ -1830,6 +1848,12 @@
     }
   },
   "sea @ phi": {
+    "56": {
+      "player": "julio rodriguez",
+      "pitcher": "orion kerkering",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "cal raleigh",
       "pitcher": "orion kerkering",
@@ -2437,8 +2461,8 @@
     "46": {
       "player": "edgar quero",
       "pitcher": "connor seabold",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "45": {
       "player": "luis robert",
@@ -2713,12 +2737,6 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
-    "35": {
-      "player": "john rave",
-      "pitcher": "merrill kelly",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "34": {
       "player": "jonathan india",
       "pitcher": "merrill kelly",
@@ -2928,8 +2946,8 @@
     "31": {
       "player": "luis urias",
       "pitcher": "joe ryan",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "brett harris",
