@@ -434,6 +434,12 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "24": {
+      "player": "christian yelich",
+      "pitcher": "jameson taillon",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "23": {
       "player": "william contreras",
       "pitcher": "jameson taillon",
@@ -574,11 +580,17 @@
     }
   },
   "hou @ det": {
+    "44": {
+      "player": "spencer torkelson",
+      "pitcher": "hunter brown",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "43": {
       "player": "riley greene",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "kerry carpenter",
@@ -2037,8 +2049,8 @@
     "61": {
       "player": "kyle schwarber",
       "pitcher": "gabe speier",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "60": {
       "player": "trea turner",
@@ -2719,8 +2731,8 @@
     "53": {
       "player": "miguel vargas",
       "pitcher": "connor seabold",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "mike tauchman",
@@ -3037,12 +3049,6 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
-    "43": {
-      "player": "bobby witt",
-      "pitcher": "merrill kelly",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "42": {
       "player": "mike yastrzemski",
       "pitcher": "merrill kelly",
