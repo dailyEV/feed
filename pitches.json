@@ -437,8 +437,8 @@
     "19": {
       "player": "dansby swanson",
       "pitcher": "brandon woodruff",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "owen caissie",
@@ -550,12 +550,6 @@
     }
   },
   "hou @ det": {
-    "40": {
-      "player": "carlos correa",
-      "pitcher": "tarik skubal",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "39": {
       "player": "jeremy pena",
       "pitcher": "tarik skubal",
@@ -795,7 +789,7 @@
     "56": {
       "player": "nathan lukes",
       "pitcher": "colin holderman",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "55": {
@@ -1133,8 +1127,8 @@
     "63": {
       "player": "xavier edwards",
       "pitcher": "matt svanson",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "62": {
       "player": "maximo acosta",
@@ -2246,6 +2240,12 @@
     }
   },
   "bal @ bos": {
+    "46": {
+      "player": "dylan carlson",
+      "pitcher": "greg weissert",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "45": {
       "player": "alex bregman",
       "pitcher": "tomoyuki sugano",
@@ -3025,7 +3025,7 @@
       "player": "shea langeliers",
       "pitcher": "joe ryan",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "32": {
       "player": "nick kurtz",
