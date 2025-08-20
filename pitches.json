@@ -437,8 +437,8 @@
     "27": {
       "player": "pete crow armstrong",
       "pitcher": "brandon woodruff",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "seiya suzuki",
@@ -1256,6 +1256,12 @@
     }
   },
   "stl @ mia": {
+    "70": {
+      "player": "alec burleson",
+      "pitcher": "tyler zuber",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "69": {
       "player": "dane myers",
       "pitcher": "jojo romero",
@@ -1675,8 +1681,8 @@
     "73": {
       "player": "josh bell",
       "pitcher": "ryne stanek",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "72": {
       "player": "paul dejong",
@@ -2112,10 +2118,16 @@
     }
   },
   "sea @ phi": {
+    "64": {
+      "player": "jp crawford",
+      "pitcher": "david robertson",
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
+    },
     "63": {
       "player": "jorge polanco",
       "pitcher": "david robertson",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Cutter"
     },
     "62": {
