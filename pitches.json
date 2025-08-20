@@ -589,8 +589,8 @@
     "45": {
       "player": "christian walker",
       "pitcher": "tarik skubal",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "44": {
       "player": "spencer torkelson",
@@ -861,7 +861,7 @@
     "64": {
       "player": "andres gimenez",
       "pitcher": "colin holderman",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "63": {
@@ -2094,10 +2094,16 @@
     }
   },
   "sea @ phi": {
+    "64": {
+      "player": "jp crawford",
+      "pitcher": "david robertson",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "63": {
       "player": "jorge polanco",
       "pitcher": "david robertson",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Cutter"
     },
     "62": {
@@ -2474,11 +2480,17 @@
     }
   },
   "bal @ bos": {
+    "55": {
+      "player": "colton cowser",
+      "pitcher": "steven matz",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "54": {
       "player": "ryan mountcastle",
       "pitcher": "steven matz",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "53": {
       "player": "gunnar henderson",
@@ -2803,7 +2815,7 @@
     "55": {
       "player": "lenyn sosa",
       "pitcher": "connor seabold",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "54": {
@@ -3136,8 +3148,8 @@
     "44": {
       "player": "marcus semien",
       "pitcher": "seth lugo",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "43": {
       "player": "bobby witt",
@@ -3399,6 +3411,12 @@
     }
   },
   "ath @ min": {
+    "40": {
+      "player": "lawrence butler",
+      "pitcher": "pierson ohl",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "39": {
       "player": "tyler soderstrom",
       "pitcher": "pierson ohl",
@@ -3635,6 +3653,18 @@
     }
   },
   "lad @ col": {
+    "16": {
+      "player": "ezequiel tovar",
+      "pitcher": "emmet sheehan",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
+    "15": {
+      "player": "warming bernabel",
+      "pitcher": "emmet sheehan",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "mookie betts",
       "pitcher": "austin gomber",
