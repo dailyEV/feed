@@ -535,8 +535,8 @@
     "36": {
       "player": "trey sweeney",
       "pitcher": "hunter brown",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "dillon dingler",
@@ -1070,6 +1070,18 @@
     }
   },
   "stl @ mia": {
+    "60": {
+      "player": "pedro pages",
+      "pitcher": "cade gibson",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "59": {
+      "player": "thomas saggese",
+      "pitcher": "cade gibson",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
     "58": {
       "player": "nolan gorman",
       "pitcher": "cade gibson",
@@ -1423,8 +1435,8 @@
     "61": {
       "player": "juan soto",
       "pitcher": "pj poulin",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "60": {
       "player": "francisco lindor",
@@ -1788,6 +1800,12 @@
     }
   },
   "sea @ phi": {
+    "54": {
+      "player": "randy arozarena",
+      "pitcher": "orion kerkering",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "53": {
       "player": "dylan moore",
       "pitcher": "cristopher sanchez",
@@ -2111,8 +2129,8 @@
     "43": {
       "player": "connor wong",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "42": {
       "player": "dylan beavers",
@@ -3011,11 +3029,17 @@
     }
   },
   "lad @ col": {
+    "2": {
+      "player": "mookie betts",
+      "pitcher": "austin gomber",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "shohei ohtani",
       "pitcher": "austin gomber",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     }
   },
   "cin @ laa": {},
