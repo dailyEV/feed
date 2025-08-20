@@ -437,8 +437,8 @@
     "14": {
       "player": "joey ortiz",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "13": {
       "player": "danny jansen",
@@ -524,7 +524,7 @@
       "player": "zach mckinstry",
       "pitcher": "hunter brown",
       "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "chas mccormick",
@@ -1043,8 +1043,8 @@
     "56": {
       "player": "eric wagaman",
       "pitcher": "michael mcgreevy",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "55": {
       "player": "heriberto hernandez",
@@ -1381,8 +1381,8 @@
     "59": {
       "player": "cedric mullins",
       "pitcher": "pj poulin",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "58": {
       "player": "luis torrens",
@@ -2051,8 +2051,8 @@
     "42": {
       "player": "dylan beavers",
       "pitcher": "greg weissert",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "41": {
       "player": "coby mayo",
@@ -2302,10 +2302,16 @@
     }
   },
   "chw @ atl": {
+    "44": {
+      "player": "andrew benintendi",
+      "pitcher": "bryce elder",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "lenyn sosa",
       "pitcher": "bryce elder",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "42": {
@@ -2563,6 +2569,12 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "30": {
+      "player": "alejandro osuna",
+      "pitcher": "seth lugo",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "29": {
       "player": "rowdy tellez",
       "pitcher": "seth lugo",
