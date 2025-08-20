@@ -523,7 +523,7 @@
     "34": {
       "player": "zach mckinstry",
       "pitcher": "hunter brown",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -729,7 +729,7 @@
     "52": {
       "player": "jack suwinski",
       "pitcher": "max scherzer",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "51": {
@@ -1378,6 +1378,12 @@
     }
   },
   "nym @ wsh": {
+    "60": {
+      "player": "francisco lindor",
+      "pitcher": "pj poulin",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "cedric mullins",
       "pitcher": "pj poulin",
@@ -1737,8 +1743,8 @@
     "52": {
       "player": "jp crawford",
       "pitcher": "cristopher sanchez",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "51": {
       "player": "harrison bader",
@@ -2051,8 +2057,8 @@
     "42": {
       "player": "dylan beavers",
       "pitcher": "greg weissert",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "coby mayo",
@@ -2302,12 +2308,6 @@
     }
   },
   "chw @ atl": {
-    "44": {
-      "player": "andrew benintendi",
-      "pitcher": "bryce elder",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "43": {
       "player": "lenyn sosa",
       "pitcher": "bryce elder",
@@ -2572,7 +2572,7 @@
     "30": {
       "player": "alejandro osuna",
       "pitcher": "seth lugo",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "29": {
@@ -2754,8 +2754,8 @@
     "28": {
       "player": "darell hernaiz",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "27": {
       "player": "lawrence butler",
