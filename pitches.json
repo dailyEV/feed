@@ -520,6 +520,12 @@
     }
   },
   "hou @ det": {
+    "35": {
+      "player": "dillon dingler",
+      "pitcher": "hunter brown",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "zach mckinstry",
       "pitcher": "hunter brown",
@@ -729,8 +735,8 @@
     "52": {
       "player": "jack suwinski",
       "pitcher": "max scherzer",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "51": {
       "player": "andrew mccutchen",
@@ -1740,11 +1746,17 @@
     }
   },
   "sea @ phi": {
+    "53": {
+      "player": "dylan moore",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "52": {
       "player": "jp crawford",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul Tip",
+      "pitch": "Sinker"
     },
     "51": {
       "player": "harrison bader",
@@ -2569,10 +2581,16 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "31": {
+      "player": "jonah heim",
+      "pitcher": "seth lugo",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "30": {
       "player": "alejandro osuna",
       "pitcher": "seth lugo",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Cutter"
     },
     "29": {
@@ -2754,8 +2772,8 @@
     "28": {
       "player": "darell hernaiz",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "27": {
       "player": "lawrence butler",
