@@ -3,8 +3,8 @@
     "23": {
       "player": "bryan reynolds",
       "pitcher": "chris bassitt",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "22": {
       "player": "nick gonzales",
@@ -140,6 +140,12 @@
     }
   },
   "sea @ phi": {
+    "9": {
+      "player": "alec bohm",
+      "pitcher": "luis castillo",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "jt realmuto",
       "pitcher": "luis castillo",
@@ -190,11 +196,17 @@
     }
   },
   "hou @ det": {
+    "9": {
+      "player": "riley greene",
+      "pitcher": "framber valdez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "spencer torkelson",
       "pitcher": "framber valdez",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "7": {
       "player": "andy ibanez",
