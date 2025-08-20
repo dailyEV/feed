@@ -434,23 +434,11 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
-    "25": {
-      "player": "andrew vaughn",
-      "pitcher": "jameson taillon",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
-    "24": {
-      "player": "christian yelich",
-      "pitcher": "jameson taillon",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "23": {
       "player": "william contreras",
       "pitcher": "jameson taillon",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "22": {
       "player": "ian happ",
@@ -586,11 +574,17 @@
     }
   },
   "hou @ det": {
+    "44": {
+      "player": "spencer torkelson",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "43": {
       "player": "riley greene",
       "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "kerry carpenter",
@@ -1630,6 +1624,12 @@
     }
   },
   "nym @ wsh": {
+    "70": {
+      "player": "james wood",
+      "pitcher": "ryne stanek",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "69": {
       "player": "mark vientos",
       "pitcher": "jackson rutledge",
@@ -2046,6 +2046,12 @@
     }
   },
   "sea @ phi": {
+    "62": {
+      "player": "mitch garver",
+      "pitcher": "david robertson",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "61": {
       "player": "kyle schwarber",
       "pitcher": "gabe speier",
@@ -2417,7 +2423,7 @@
     "52": {
       "player": "masataka yoshida",
       "pitcher": "keegan akin",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "51": {
@@ -3539,17 +3545,11 @@
     }
   },
   "lad @ col": {
-    "13": {
-      "player": "shohei ohtani",
-      "pitcher": "austin gomber",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
-    },
     "12": {
       "player": "buddy kennedy",
       "pitcher": "austin gomber",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "miguel rojas",
