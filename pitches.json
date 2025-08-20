@@ -434,6 +434,12 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "23": {
+      "player": "william contreras",
+      "pitcher": "jameson taillon",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "ian happ",
       "pitcher": "brandon woodruff",
@@ -571,8 +577,8 @@
     "43": {
       "player": "riley greene",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "42": {
       "player": "kerry carpenter",
@@ -1196,11 +1202,17 @@
     }
   },
   "stl @ mia": {
+    "68": {
+      "player": "agustin ramirez",
+      "pitcher": "jojo romero",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "67": {
       "player": "jakob marsee",
       "pitcher": "jojo romero",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "66": {
       "player": "ivan herrera",
@@ -1603,8 +1615,8 @@
     "69": {
       "player": "mark vientos",
       "pitcher": "jackson rutledge",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "jeff mcneil",
@@ -2384,6 +2396,12 @@
     }
   },
   "bal @ bos": {
+    "51": {
+      "player": "trevor story",
+      "pitcher": "keegan akin",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "50": {
       "player": "jarren duran",
       "pitcher": "keegan akin",
@@ -3007,12 +3025,6 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
-    "43": {
-      "player": "bobby witt",
-      "pitcher": "merrill kelly",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "42": {
       "player": "mike yastrzemski",
       "pitcher": "merrill kelly",
@@ -3494,8 +3506,8 @@
     "12": {
       "player": "buddy kennedy",
       "pitcher": "austin gomber",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "miguel rojas",
