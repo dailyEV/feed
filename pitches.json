@@ -511,8 +511,8 @@
     "33": {
       "player": "chas mccormick",
       "pitcher": "tarik skubal",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "32": {
       "player": "cam smith",
@@ -1668,6 +1668,18 @@
     }
   },
   "sea @ phi": {
+    "51": {
+      "player": "harrison bader",
+      "pitcher": "eduard bazardo",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "50": {
+      "player": "nick castellanos",
+      "pitcher": "eduard bazardo",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "brandon marsh",
       "pitcher": "eduard bazardo",
@@ -1967,8 +1979,8 @@
     "40": {
       "player": "colton cowser",
       "pitcher": "justin wilson",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "ryan mountcastle",
@@ -2625,6 +2637,12 @@
     }
   },
   "ath @ min": {
+    "27": {
+      "player": "lawrence butler",
+      "pitcher": "joe ryan",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "26": {
       "player": "tyler soderstrom",
       "pitcher": "joe ryan",
