@@ -437,7 +437,7 @@
     "17": {
       "player": "nico hoerner",
       "pitcher": "brandon woodruff",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "16": {
@@ -541,8 +541,8 @@
     "37": {
       "player": "colt keith",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "36": {
       "player": "trey sweeney",
@@ -1444,11 +1444,17 @@
     }
   },
   "nym @ wsh": {
+    "63": {
+      "player": "andres chaparro",
+      "pitcher": "david peterson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "62": {
       "player": "dylan crews",
       "pitcher": "david peterson",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "61": {
       "player": "juan soto",
@@ -2153,8 +2159,8 @@
     "44": {
       "player": "roman anthony",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "connor wong",
@@ -2892,8 +2898,8 @@
     "30": {
       "player": "brett harris",
       "pitcher": "joe ryan",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "29": {
       "player": "jj bleday",
@@ -3074,8 +3080,8 @@
     "3": {
       "player": "will smith",
       "pitcher": "austin gomber",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "2": {
       "player": "mookie betts",
