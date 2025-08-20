@@ -437,8 +437,8 @@
     "11": {
       "player": "carson kelly",
       "pitcher": "brandon woodruff",
-      "result": "Foul Tip",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "pete crow armstrong",
@@ -502,6 +502,12 @@
     }
   },
   "hou @ det": {
+    "32": {
+      "player": "cam smith",
+      "pitcher": "tarik skubal",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "31": {
       "player": "mauricio dubon",
       "pitcher": "tarik skubal",
@@ -974,12 +980,6 @@
     }
   },
   "stl @ mia": {
-    "51": {
-      "player": "jakob marsee",
-      "pitcher": "michael mcgreevy",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "50": {
       "player": "xavier edwards",
       "pitcher": "michael mcgreevy",
@@ -1901,8 +1901,8 @@
     "39": {
       "player": "ryan mountcastle",
       "pitcher": "justin wilson",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "gunnar henderson",
@@ -2137,8 +2137,8 @@
     "38": {
       "player": "brooks baldwin",
       "pitcher": "bryce elder",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "ronald acuna",
@@ -2365,11 +2365,17 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "27": {
+      "player": "vinnie pasquantino",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "26": {
       "player": "bobby witt",
       "pitcher": "merrill kelly",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "25": {
       "player": "marcus semien",
@@ -2526,8 +2532,8 @@
     "25": {
       "player": "luke keaschall",
       "pitcher": "jacob lopez",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "24": {
       "player": "trevor larnach",
