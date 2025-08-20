@@ -434,12 +434,6 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
-    "6": {
-      "player": "isaac collins",
-      "pitcher": "jameson taillon",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "5": {
       "player": "andrew vaughn",
       "pitcher": "jameson taillon",
@@ -472,6 +466,18 @@
     }
   },
   "hou @ det": {
+    "25": {
+      "player": "christian walker",
+      "pitcher": "tarik skubal",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "24": {
+      "player": "jose altuve",
+      "pitcher": "tarik skubal",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "kerry carpenter",
       "pitcher": "hunter brown",
@@ -616,7 +622,7 @@
       "player": "jared triolo",
       "pitcher": "max scherzer",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "ernie clement",
@@ -866,12 +872,6 @@
     }
   },
   "stl @ mia": {
-    "45": {
-      "player": "troy johnston",
-      "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "44": {
       "player": "eric wagaman",
       "pitcher": "michael mcgreevy",
@@ -1676,10 +1676,16 @@
     }
   },
   "bal @ bos": {
+    "33": {
+      "player": "romy gonzalez",
+      "pitcher": "tomoyuki sugano",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "masataka yoshida",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "31": {
