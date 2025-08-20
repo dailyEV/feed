@@ -437,8 +437,8 @@
     "9": {
       "player": "seiya suzuki",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "8": {
       "player": "ian happ",
@@ -490,11 +490,23 @@
     }
   },
   "hou @ det": {
+    "30": {
+      "player": "wenceel perez",
+      "pitcher": "hunter brown",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "29": {
+      "player": "spencer torkelson",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "riley greene",
       "pitcher": "hunter brown",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "ramon urias",
@@ -663,8 +675,8 @@
     "45": {
       "player": "andres gimenez",
       "pitcher": "yohan ramirez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "44": {
       "player": "ronny simon",
@@ -935,8 +947,8 @@
     "49": {
       "player": "willson contreras",
       "pitcher": "cade gibson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "48": {
       "player": "alec burleson",
@@ -1231,8 +1243,8 @@
     "53": {
       "player": "mark vientos",
       "pitcher": "konnor pilkington",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "52": {
       "player": "jeff mcneil",
@@ -2050,6 +2062,12 @@
     }
   },
   "chw @ atl": {
+    "37": {
+      "player": "ronald acuna",
+      "pitcher": "shane smith",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "36": {
       "player": "matt olson",
       "pitcher": "shane smith",
