@@ -437,8 +437,8 @@
     "26": {
       "player": "seiya suzuki",
       "pitcher": "brandon woodruff",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "25": {
       "player": "andrew vaughn",
@@ -1663,8 +1663,8 @@
     "72": {
       "player": "paul dejong",
       "pitcher": "ryne stanek",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "cj abrams",
@@ -2474,6 +2474,12 @@
     }
   },
   "bal @ bos": {
+    "54": {
+      "player": "ryan mountcastle",
+      "pitcher": "steven matz",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "53": {
       "player": "gunnar henderson",
       "pitcher": "steven matz",
@@ -3131,7 +3137,7 @@
       "player": "marcus semien",
       "pitcher": "seth lugo",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "43": {
       "player": "bobby witt",
@@ -3393,6 +3399,12 @@
     }
   },
   "ath @ min": {
+    "39": {
+      "player": "tyler soderstrom",
+      "pitcher": "pierson ohl",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "38": {
       "player": "brent rooker",
       "pitcher": "pierson ohl",
