@@ -434,6 +434,12 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "6": {
+      "player": "isaac collins",
+      "pitcher": "jameson taillon",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "andrew vaughn",
       "pitcher": "jameson taillon",
@@ -466,12 +472,6 @@
     }
   },
   "hou @ det": {
-    "24": {
-      "player": "jose altuve",
-      "pitcher": "tarik skubal",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "23": {
       "player": "kerry carpenter",
       "pitcher": "hunter brown",
@@ -612,6 +612,12 @@
     }
   },
   "tor @ pit": {
+    "42": {
+      "player": "jared triolo",
+      "pitcher": "max scherzer",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "ernie clement",
       "pitcher": "yohan ramirez",
@@ -860,6 +866,18 @@
     }
   },
   "stl @ mia": {
+    "45": {
+      "player": "troy johnston",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
+    "44": {
+      "player": "eric wagaman",
+      "pitcher": "michael mcgreevy",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "43": {
       "player": "lars nootbaar",
       "pitcher": "cade gibson",
@@ -1120,6 +1138,12 @@
     }
   },
   "nym @ wsh": {
+    "48": {
+      "player": "cj abrams",
+      "pitcher": "david peterson",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
     "47": {
       "player": "james wood",
       "pitcher": "david peterson",
@@ -1407,8 +1431,8 @@
     "41": {
       "player": "kyle schwarber",
       "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "40": {
       "player": "julio rodriguez",
@@ -1652,16 +1676,10 @@
     }
   },
   "bal @ bos": {
-    "33": {
-      "player": "romy gonzalez",
-      "pitcher": "tomoyuki sugano",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
     "32": {
       "player": "masataka yoshida",
       "pitcher": "tomoyuki sugano",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "31": {
@@ -1855,8 +1873,8 @@
     "31": {
       "player": "edgar quero",
       "pitcher": "bryce elder",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "luis robert",
@@ -2151,11 +2169,17 @@
     }
   },
   "ath @ min": {
+    "18": {
+      "player": "brett harris",
+      "pitcher": "joe ryan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "byron buxton",
       "pitcher": "jacob lopez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "16": {
       "player": "matt wallner",
