@@ -932,17 +932,11 @@
     }
   },
   "stl @ mia": {
-    "49": {
-      "player": "willson contreras",
-      "pitcher": "cade gibson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "48": {
       "player": "alec burleson",
       "pitcher": "cade gibson",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "47": {
       "player": "ivan herrera",
@@ -1228,6 +1222,12 @@
     }
   },
   "nym @ wsh": {
+    "52": {
+      "player": "jeff mcneil",
+      "pitcher": "konnor pilkington",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "pete alonso",
       "pitcher": "konnor pilkington",
@@ -1536,11 +1536,17 @@
     }
   },
   "sea @ phi": {
+    "46": {
+      "player": "mitch garver",
+      "pitcher": "cristopher sanchez",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "45": {
       "player": "josh naylor",
       "pitcher": "cristopher sanchez",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "44": {
       "player": "eugenio suarez",
@@ -2032,6 +2038,12 @@
     }
   },
   "chw @ atl": {
+    "36": {
+      "player": "matt olson",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "35": {
       "player": "jurickson profar",
       "pitcher": "shane smith",
@@ -2248,8 +2260,8 @@
     "23": {
       "player": "joc pederson",
       "pitcher": "seth lugo",
-      "result": "Called Strike",
-      "pitch": "Slurve"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "corey seager",
@@ -2388,8 +2400,8 @@
     "22": {
       "player": "brent rooker",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "shea langeliers",
