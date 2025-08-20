@@ -434,6 +434,12 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "7": {
+      "player": "michael busch",
+      "pitcher": "brandon woodruff",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "isaac collins",
       "pitcher": "jameson taillon",
@@ -636,16 +642,10 @@
     }
   },
   "tor @ pit": {
-    "44": {
-      "player": "ronny simon",
-      "pitcher": "max scherzer",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "43": {
       "player": "isiah kiner falefa",
       "pitcher": "max scherzer",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "42": {
@@ -1186,6 +1186,12 @@
     }
   },
   "nym @ wsh": {
+    "50": {
+      "player": "brandon nimmo",
+      "pitcher": "konnor pilkington",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "juan soto",
       "pitcher": "konnor pilkington",
@@ -1954,17 +1960,11 @@
     }
   },
   "chw @ atl": {
-    "33": {
-      "player": "nacho alvarez",
-      "pitcher": "shane smith",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "32": {
       "player": "ozzie albies",
       "pitcher": "shane smith",
-      "result": "In play, no out",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "edgar quero",
