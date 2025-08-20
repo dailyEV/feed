@@ -437,8 +437,8 @@
     "27": {
       "player": "pete crow armstrong",
       "pitcher": "brandon woodruff",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "seiya suzuki",
@@ -601,8 +601,8 @@
     "45": {
       "player": "christian walker",
       "pitcher": "tarik skubal",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "44": {
       "player": "spencer torkelson",
@@ -870,6 +870,12 @@
     }
   },
   "tor @ pit": {
+    "65": {
+      "player": "myles straw",
+      "pitcher": "colin holderman",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "64": {
       "player": "andres gimenez",
       "pitcher": "colin holderman",
@@ -1256,12 +1262,6 @@
     }
   },
   "stl @ mia": {
-    "70": {
-      "player": "alec burleson",
-      "pitcher": "tyler zuber",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "69": {
       "player": "dane myers",
       "pitcher": "jojo romero",
@@ -1681,8 +1681,8 @@
     "73": {
       "player": "josh bell",
       "pitcher": "ryne stanek",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "72": {
       "player": "paul dejong",
@@ -2833,7 +2833,7 @@
     "55": {
       "player": "lenyn sosa",
       "pitcher": "connor seabold",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -3674,8 +3674,8 @@
     "16": {
       "player": "ezequiel tovar",
       "pitcher": "emmet sheehan",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "warming bernabel",
