@@ -434,12 +434,6 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
-    "6": {
-      "player": "isaac collins",
-      "pitcher": "jameson taillon",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "5": {
       "player": "andrew vaughn",
       "pitcher": "jameson taillon",
@@ -472,6 +466,12 @@
     }
   },
   "hou @ det": {
+    "24": {
+      "player": "jose altuve",
+      "pitcher": "tarik skubal",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "kerry carpenter",
       "pitcher": "hunter brown",
@@ -1652,6 +1652,12 @@
     }
   },
   "bal @ bos": {
+    "33": {
+      "player": "romy gonzalez",
+      "pitcher": "tomoyuki sugano",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "masataka yoshida",
       "pitcher": "tomoyuki sugano",
@@ -2038,8 +2044,8 @@
     "18": {
       "player": "wyatt langford",
       "pitcher": "seth lugo",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "17": {
       "player": "josh smith",
