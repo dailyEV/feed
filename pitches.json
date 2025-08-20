@@ -437,8 +437,8 @@
     "28": {
       "player": "carson kelly",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "pete crow armstrong",
@@ -604,6 +604,12 @@
     }
   },
   "hou @ det": {
+    "47": {
+      "player": "ramon urias",
+      "pitcher": "tarik skubal",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "yainer diaz",
       "pitcher": "tarik skubal",
@@ -885,8 +891,8 @@
     "66": {
       "player": "george springer",
       "pitcher": "colin holderman",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "65": {
       "player": "myles straw",
@@ -1280,11 +1286,17 @@
     }
   },
   "stl @ mia": {
+    "72": {
+      "player": "masyn winn",
+      "pitcher": "tyler zuber",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "71": {
       "player": "willson contreras",
       "pitcher": "tyler zuber",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "70": {
       "player": "alec burleson",
@@ -3468,8 +3480,8 @@
     "41": {
       "player": "matt wallner",
       "pitcher": "jacob lopez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "40": {
       "player": "lawrence butler",
