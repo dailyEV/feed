@@ -589,8 +589,8 @@
     "44": {
       "player": "spencer torkelson",
       "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "43": {
       "player": "riley greene",
@@ -1229,8 +1229,8 @@
     "68": {
       "player": "agustin ramirez",
       "pitcher": "jojo romero",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "67": {
       "player": "jakob marsee",
@@ -2058,6 +2058,12 @@
     }
   },
   "sea @ phi": {
+    "62": {
+      "player": "mitch garver",
+      "pitcher": "david robertson",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "61": {
       "player": "kyle schwarber",
       "pitcher": "gabe speier",
@@ -3327,6 +3333,12 @@
     }
   },
   "ath @ min": {
+    "38": {
+      "player": "brent rooker",
+      "pitcher": "pierson ohl",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "37": {
       "player": "austin martin",
       "pitcher": "jacob lopez",
@@ -3551,17 +3563,11 @@
     }
   },
   "lad @ col": {
-    "13": {
-      "player": "shohei ohtani",
-      "pitcher": "austin gomber",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "12": {
       "player": "buddy kennedy",
       "pitcher": "austin gomber",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "miguel rojas",
