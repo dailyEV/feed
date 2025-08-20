@@ -437,8 +437,8 @@
     "14": {
       "player": "joey ortiz",
       "pitcher": "jameson taillon",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "danny jansen",
@@ -1351,8 +1351,8 @@
     "57": {
       "player": "riley adams",
       "pitcher": "david peterson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "56": {
       "player": "josh bell",
@@ -1695,8 +1695,8 @@
     "51": {
       "player": "harrison bader",
       "pitcher": "eduard bazardo",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "50": {
       "player": "nick castellanos",
@@ -2242,10 +2242,16 @@
     }
   },
   "chw @ atl": {
+    "43": {
+      "player": "lenyn sosa",
+      "pitcher": "bryce elder",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "42": {
       "player": "kyle teel",
       "pitcher": "bryce elder",
-      "result": "Ball In Dirt",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "41": {
@@ -2497,6 +2503,12 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "29": {
+      "player": "rowdy tellez",
+      "pitcher": "seth lugo",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "28": {
       "player": "maikel garcia",
       "pitcher": "merrill kelly",
