@@ -520,11 +520,23 @@
     }
   },
   "hou @ det": {
+    "36": {
+      "player": "trey sweeney",
+      "pitcher": "hunter brown",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "35": {
+      "player": "dillon dingler",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "34": {
       "player": "zach mckinstry",
       "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "33": {
       "player": "chas mccormick",
@@ -1040,12 +1052,6 @@
     }
   },
   "stl @ mia": {
-    "57": {
-      "player": "masyn winn",
-      "pitcher": "cade gibson",
-      "result": "Hit By Pitch",
-      "pitch": "Curveball"
-    },
     "56": {
       "player": "eric wagaman",
       "pitcher": "michael mcgreevy",
@@ -2596,8 +2602,8 @@
     "31": {
       "player": "jonah heim",
       "pitcher": "seth lugo",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "alejandro osuna",
