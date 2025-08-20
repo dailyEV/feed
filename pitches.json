@@ -437,7 +437,7 @@
     "10": {
       "player": "pete crow armstrong",
       "pitcher": "brandon woodruff",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "9": {
@@ -678,10 +678,16 @@
     }
   },
   "tor @ pit": {
+    "47": {
+      "player": "george springer",
+      "pitcher": "yohan ramirez",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "46": {
       "player": "myles straw",
       "pitcher": "yohan ramirez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -1850,6 +1856,12 @@
     }
   },
   "bal @ bos": {
+    "38": {
+      "player": "gunnar henderson",
+      "pitcher": "justin wilson",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "luis vazquez",
       "pitcher": "walker buehler",
@@ -2299,6 +2311,12 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "25": {
+      "player": "marcus semien",
+      "pitcher": "seth lugo",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "24": {
       "player": "evan carter",
       "pitcher": "seth lugo",
@@ -2445,11 +2463,17 @@
     }
   },
   "ath @ min": {
+    "24": {
+      "player": "trevor larnach",
+      "pitcher": "jacob lopez",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "ryan jeffers",
       "pitcher": "jacob lopez",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "22": {
       "player": "brent rooker",
