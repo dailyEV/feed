@@ -434,6 +434,12 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "15": {
+      "player": "sal frelick",
+      "pitcher": "jameson taillon",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "14": {
       "player": "joey ortiz",
       "pitcher": "jameson taillon",
@@ -1046,6 +1052,12 @@
     }
   },
   "stl @ mia": {
+    "58": {
+      "player": "nolan gorman",
+      "pitcher": "cade gibson",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "masyn winn",
       "pitcher": "cade gibson",
@@ -1390,11 +1402,17 @@
     }
   },
   "nym @ wsh": {
+    "61": {
+      "player": "juan soto",
+      "pitcher": "pj poulin",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "60": {
       "player": "francisco lindor",
       "pitcher": "pj poulin",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "59": {
       "player": "cedric mullins",
@@ -2599,11 +2617,17 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "32": {
+      "player": "josh smith",
+      "pitcher": "seth lugo",
+      "result": "Swinging Strike",
+      "pitch": "Slurve"
+    },
     "31": {
       "player": "jonah heim",
       "pitcher": "seth lugo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "30": {
       "player": "alejandro osuna",
