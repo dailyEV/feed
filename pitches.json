@@ -434,11 +434,17 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "13": {
+      "player": "danny jansen",
+      "pitcher": "jameson taillon",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "brice turang",
       "pitcher": "jameson taillon",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "11": {
       "player": "carson kelly",
@@ -712,7 +718,7 @@
       "player": "bryan reynolds",
       "pitcher": "max scherzer",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "48": {
       "player": "spencer horwitz",
@@ -1007,8 +1013,8 @@
     "53": {
       "player": "liam hicks",
       "pitcher": "michael mcgreevy",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "52": {
       "player": "agustin ramirez",
@@ -2640,8 +2646,8 @@
     "27": {
       "player": "lawrence butler",
       "pitcher": "joe ryan",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "tyler soderstrom",
