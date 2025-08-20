@@ -434,12 +434,6 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
-    "8": {
-      "player": "ian happ",
-      "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "7": {
       "player": "michael busch",
       "pitcher": "brandon woodruff",
@@ -651,7 +645,7 @@
     "44": {
       "player": "ronny simon",
       "pitcher": "max scherzer",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -1208,7 +1202,7 @@
       "player": "brandon nimmo",
       "pitcher": "konnor pilkington",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "49": {
       "player": "juan soto",
@@ -1506,6 +1500,12 @@
     }
   },
   "sea @ phi": {
+    "44": {
+      "player": "eugenio suarez",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "43": {
       "player": "jt realmuto",
       "pitcher": "bryce miller",
@@ -2313,6 +2313,18 @@
     }
   },
   "ath @ min": {
+    "22": {
+      "player": "brent rooker",
+      "pitcher": "joe ryan",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
+    "21": {
+      "player": "shea langeliers",
+      "pitcher": "joe ryan",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "nick kurtz",
       "pitcher": "joe ryan",
