@@ -434,10 +434,16 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "8": {
+      "player": "ian happ",
+      "pitcher": "brandon woodruff",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "7": {
       "player": "michael busch",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -645,7 +651,7 @@
     "44": {
       "player": "ronny simon",
       "pitcher": "max scherzer",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -908,6 +914,18 @@
     }
   },
   "stl @ mia": {
+    "48": {
+      "player": "alec burleson",
+      "pitcher": "cade gibson",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "47": {
+      "player": "ivan herrera",
+      "pitcher": "cade gibson",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "maximo acosta",
       "pitcher": "michael mcgreevy",
@@ -1098,7 +1116,7 @@
       "player": "alec burleson",
       "pitcher": "edward cabrera",
       "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "14": {
       "player": "ivan herrera",
@@ -1176,7 +1194,7 @@
       "player": "ivan herrera",
       "pitcher": "edward cabrera",
       "result": "In play, run(s)",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "1": {
       "player": "lars nootbaar",
@@ -1963,8 +1981,8 @@
     "34": {
       "player": "nick allen",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "nacho alvarez",
@@ -2167,12 +2185,6 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
-    "22": {
-      "player": "corey seager",
-      "pitcher": "seth lugo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "21": {
       "player": "mike yastrzemski",
       "pitcher": "merrill kelly",
