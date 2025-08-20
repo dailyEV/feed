@@ -437,8 +437,8 @@
     "14": {
       "player": "joey ortiz",
       "pitcher": "jameson taillon",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "danny jansen",
@@ -520,17 +520,11 @@
     }
   },
   "hou @ det": {
-    "35": {
-      "player": "dillon dingler",
-      "pitcher": "hunter brown",
-      "result": "In play, out(s)",
-      "pitch": "Knuckle Curve"
-    },
     "34": {
       "player": "zach mckinstry",
       "pitcher": "hunter brown",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "chas mccormick",
@@ -1046,6 +1040,12 @@
     }
   },
   "stl @ mia": {
+    "57": {
+      "player": "masyn winn",
+      "pitcher": "cade gibson",
+      "result": "Hit By Pitch",
+      "pitch": "Curveball"
+    },
     "56": {
       "player": "eric wagaman",
       "pitcher": "michael mcgreevy",
@@ -1746,11 +1746,17 @@
     }
   },
   "sea @ phi": {
+    "53": {
+      "player": "dylan moore",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "52": {
       "player": "jp crawford",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul Tip",
+      "pitch": "Sinker"
     },
     "51": {
       "player": "harrison bader",
