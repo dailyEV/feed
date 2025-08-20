@@ -320,11 +320,17 @@
     }
   },
   "sea @ phi": {
+    "42": {
+      "player": "harrison bader",
+      "pitcher": "eduard bazardo",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "brandon marsh",
       "pitcher": "eduard bazardo",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "40": {
       "player": "alec bohm",
@@ -571,8 +577,8 @@
     "42": {
       "player": "jose altuve",
       "pitcher": "charlie morton",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "carlos correa",
