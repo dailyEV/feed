@@ -511,7 +511,7 @@
     "32": {
       "player": "cam smith",
       "pitcher": "tarik skubal",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -702,6 +702,12 @@
     }
   },
   "tor @ pit": {
+    "48": {
+      "player": "spencer horwitz",
+      "pitcher": "max scherzer",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "george springer",
       "pitcher": "yohan ramirez",
@@ -1300,11 +1306,17 @@
     }
   },
   "nym @ wsh": {
+    "56": {
+      "player": "josh bell",
+      "pitcher": "david peterson",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "55": {
       "player": "paul dejong",
       "pitcher": "david peterson",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "54": {
       "player": "brett baty",
@@ -1635,8 +1647,8 @@
     "49": {
       "player": "brandon marsh",
       "pitcher": "eduard bazardo",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "48": {
       "player": "alec bohm",
