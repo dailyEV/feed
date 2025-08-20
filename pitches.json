@@ -437,8 +437,8 @@
     "21": {
       "player": "michael busch",
       "pitcher": "brandon woodruff",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "matt shaw",
@@ -813,7 +813,7 @@
     "58": {
       "player": "joey bart",
       "pitcher": "louis varland",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -1163,8 +1163,8 @@
     "65": {
       "player": "lars nootbaar",
       "pitcher": "cade gibson",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "64": {
       "player": "nathan church",
@@ -1962,12 +1962,6 @@
     }
   },
   "sea @ phi": {
-    "59": {
-      "player": "bryson stott",
-      "pitcher": "gabe speier",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "58": {
       "player": "josh naylor",
       "pitcher": "matt strahm",
@@ -2318,6 +2312,18 @@
     }
   },
   "bal @ bos": {
+    "49": {
+      "player": "luis vazquez",
+      "pitcher": "steven matz",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
+    "48": {
+      "player": "jackson holliday",
+      "pitcher": "steven matz",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "alex jackson",
       "pitcher": "greg weissert",
@@ -2905,6 +2911,12 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "40": {
+      "player": "kyle isbel",
+      "pitcher": "merrill kelly",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "evan carter",
       "pitcher": "seth lugo",
