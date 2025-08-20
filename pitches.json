@@ -801,8 +801,8 @@
     "57": {
       "player": "ty france",
       "pitcher": "colin holderman",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "56": {
       "player": "nathan lukes",
@@ -1145,8 +1145,8 @@
     "64": {
       "player": "nathan church",
       "pitcher": "cade gibson",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "63": {
       "player": "xavier edwards",
@@ -1528,6 +1528,12 @@
     }
   },
   "nym @ wsh": {
+    "66": {
+      "player": "brandon nimmo",
+      "pitcher": "jackson rutledge",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "65": {
       "player": "jacob young",
       "pitcher": "david peterson",
@@ -2270,17 +2276,11 @@
     }
   },
   "bal @ bos": {
-    "47": {
-      "player": "alex jackson",
-      "pitcher": "greg weissert",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "46": {
       "player": "dylan carlson",
       "pitcher": "greg weissert",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "45": {
       "player": "alex bregman",
@@ -3284,7 +3284,7 @@
     "7": {
       "player": "tyler freeman",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "6": {
