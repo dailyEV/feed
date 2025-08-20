@@ -1232,11 +1232,17 @@
     }
   },
   "stl @ mia": {
+    "69": {
+      "player": "dane myers",
+      "pitcher": "jojo romero",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "68": {
       "player": "agustin ramirez",
       "pitcher": "jojo romero",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "67": {
       "player": "jakob marsee",
@@ -2456,12 +2462,6 @@
     }
   },
   "bal @ bos": {
-    "53": {
-      "player": "gunnar henderson",
-      "pitcher": "steven matz",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "52": {
       "player": "masataka yoshida",
       "pitcher": "keegan akin",
@@ -2779,8 +2779,8 @@
     "54": {
       "player": "kyle teel",
       "pitcher": "connor seabold",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "53": {
       "player": "miguel vargas",
@@ -3106,7 +3106,7 @@
     "44": {
       "player": "marcus semien",
       "pitcher": "seth lugo",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -3372,8 +3372,8 @@
     "38": {
       "player": "brent rooker",
       "pitcher": "pierson ohl",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "austin martin",
