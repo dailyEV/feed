@@ -437,8 +437,8 @@
     "19": {
       "player": "dansby swanson",
       "pitcher": "brandon woodruff",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "owen caissie",
@@ -554,7 +554,7 @@
       "player": "carlos correa",
       "pitcher": "tarik skubal",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "jeremy pena",
@@ -792,10 +792,16 @@
     }
   },
   "tor @ pit": {
+    "57": {
+      "player": "ty france",
+      "pitcher": "colin holderman",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "56": {
       "player": "nathan lukes",
       "pitcher": "colin holderman",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "55": {
@@ -3030,8 +3036,8 @@
     "33": {
       "player": "shea langeliers",
       "pitcher": "joe ryan",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "32": {
       "player": "nick kurtz",
