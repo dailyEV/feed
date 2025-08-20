@@ -577,8 +577,8 @@
     "43": {
       "player": "riley greene",
       "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "kerry carpenter",
@@ -834,6 +834,12 @@
     }
   },
   "tor @ pit": {
+    "62": {
+      "player": "spencer horwitz",
+      "pitcher": "louis varland",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "ronny simon",
       "pitcher": "louis varland",
@@ -2396,6 +2402,12 @@
     }
   },
   "bal @ bos": {
+    "52": {
+      "player": "masataka yoshida",
+      "pitcher": "keegan akin",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "51": {
       "player": "trevor story",
       "pitcher": "keegan akin",
@@ -3025,6 +3037,12 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "43": {
+      "player": "bobby witt",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "42": {
       "player": "mike yastrzemski",
       "pitcher": "merrill kelly",
@@ -3503,11 +3521,17 @@
     }
   },
   "lad @ col": {
+    "13": {
+      "player": "shohei ohtani",
+      "pitcher": "austin gomber",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "12": {
       "player": "buddy kennedy",
       "pitcher": "austin gomber",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "11": {
       "player": "miguel rojas",
