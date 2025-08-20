@@ -777,7 +777,7 @@
     "55": {
       "player": "alejandro kirk",
       "pitcher": "colin holderman",
-      "result": "In play, run(s)",
+      "result": "Ball In Dirt",
       "pitch": "Sinker"
     },
     "54": {
@@ -1106,11 +1106,17 @@
     }
   },
   "stl @ mia": {
+    "62": {
+      "player": "maximo acosta",
+      "pitcher": "matt svanson",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "61": {
       "player": "troy johnston",
       "pitcher": "matt svanson",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "60": {
       "player": "pedro pages",
@@ -1854,6 +1860,12 @@
     }
   },
   "sea @ phi": {
+    "57": {
+      "player": "eugenio suarez",
+      "pitcher": "orion kerkering",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
     "56": {
       "player": "julio rodriguez",
       "pitcher": "orion kerkering",
@@ -2195,8 +2207,8 @@
     "45": {
       "player": "alex bregman",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "44": {
       "player": "roman anthony",
@@ -2464,6 +2476,12 @@
     }
   },
   "chw @ atl": {
+    "47": {
+      "player": "brooks baldwin",
+      "pitcher": "connor seabold",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "edgar quero",
       "pitcher": "connor seabold",
@@ -2955,6 +2973,12 @@
     }
   },
   "ath @ min": {
+    "32": {
+      "player": "nick kurtz",
+      "pitcher": "joe ryan",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "luis urias",
       "pitcher": "joe ryan",
