@@ -437,8 +437,8 @@
     "20": {
       "player": "matt shaw",
       "pitcher": "brandon woodruff",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "19": {
       "player": "dansby swanson",
@@ -1142,6 +1142,12 @@
     }
   },
   "stl @ mia": {
+    "64": {
+      "player": "nathan church",
+      "pitcher": "cade gibson",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "63": {
       "player": "xavier edwards",
       "pitcher": "matt svanson",
@@ -1522,12 +1528,6 @@
     }
   },
   "nym @ wsh": {
-    "66": {
-      "player": "brandon nimmo",
-      "pitcher": "jackson rutledge",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "65": {
       "player": "jacob young",
       "pitcher": "david peterson",
@@ -1920,6 +1920,12 @@
     }
   },
   "sea @ phi": {
+    "58": {
+      "player": "josh naylor",
+      "pitcher": "matt strahm",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "57": {
       "player": "eugenio suarez",
       "pitcher": "orion kerkering",
@@ -2264,11 +2270,17 @@
     }
   },
   "bal @ bos": {
+    "47": {
+      "player": "alex jackson",
+      "pitcher": "greg weissert",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "dylan carlson",
       "pitcher": "greg weissert",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "alex bregman",
@@ -2542,6 +2554,18 @@
     }
   },
   "chw @ atl": {
+    "49": {
+      "player": "marcell ozuna",
+      "pitcher": "shane smith",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "48": {
+      "player": "michael harris",
+      "pitcher": "shane smith",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "brooks baldwin",
       "pitcher": "connor seabold",
@@ -2830,8 +2854,8 @@
     "38": {
       "player": "joc pederson",
       "pitcher": "seth lugo",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "37": {
       "player": "corey seager",
@@ -3257,6 +3281,12 @@
     }
   },
   "lad @ col": {
+    "7": {
+      "player": "tyler freeman",
+      "pitcher": "emmet sheehan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "andy pages",
       "pitcher": "austin gomber",
