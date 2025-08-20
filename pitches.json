@@ -438,7 +438,7 @@
       "player": "owen caissie",
       "pitcher": "brandon woodruff",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "17": {
       "player": "nico hoerner",
@@ -768,12 +768,6 @@
     }
   },
   "tor @ pit": {
-    "54": {
-      "player": "bo bichette",
-      "pitcher": "colin holderman",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
     "53": {
       "player": "addison barger",
       "pitcher": "yohan ramirez",
@@ -2171,8 +2165,8 @@
     "45": {
       "player": "alex bregman",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "44": {
       "player": "roman anthony",
@@ -2719,10 +2713,22 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "35": {
+      "player": "john rave",
+      "pitcher": "merrill kelly",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "34": {
+      "player": "jonathan india",
+      "pitcher": "merrill kelly",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "adam frazier",
       "pitcher": "merrill kelly",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "32": {
@@ -2923,7 +2929,7 @@
       "player": "luis urias",
       "pitcher": "joe ryan",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "30": {
       "player": "brett harris",
