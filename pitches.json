@@ -1210,10 +1210,16 @@
     }
   },
   "nym @ wsh": {
+    "51": {
+      "player": "pete alonso",
+      "pitcher": "konnor pilkington",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "50": {
       "player": "brandon nimmo",
       "pitcher": "konnor pilkington",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -1515,8 +1521,8 @@
     "45": {
       "player": "josh naylor",
       "pitcher": "cristopher sanchez",
-      "result": "Foul Tip",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "44": {
       "player": "eugenio suarez",
@@ -2002,6 +2008,12 @@
     }
   },
   "chw @ atl": {
+    "35": {
+      "player": "jurickson profar",
+      "pitcher": "shane smith",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "34": {
       "player": "nick allen",
       "pitcher": "shane smith",
@@ -2212,8 +2224,8 @@
     "23": {
       "player": "joc pederson",
       "pitcher": "seth lugo",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Slurve"
     },
     "22": {
       "player": "corey seager",
@@ -2352,8 +2364,8 @@
     "22": {
       "player": "brent rooker",
       "pitcher": "joe ryan",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "21": {
       "player": "shea langeliers",
