@@ -434,6 +434,12 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "5": {
+      "player": "andrew vaughn",
+      "pitcher": "jameson taillon",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "christian yelich",
       "pitcher": "jameson taillon",
@@ -464,7 +470,7 @@
       "player": "kerry carpenter",
       "pitcher": "hunter brown",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "gleyber torres",
@@ -600,6 +606,12 @@
     }
   },
   "tor @ pit": {
+    "39": {
+      "player": "nathan lukes",
+      "pitcher": "yohan ramirez",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "joey bart",
       "pitcher": "max scherzer",
@@ -1081,7 +1093,7 @@
     "46": {
       "player": "jacob young",
       "pitcher": "david peterson",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "45": {
@@ -1356,6 +1368,12 @@
     }
   },
   "sea @ phi": {
+    "38": {
+      "player": "randy arozarena",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "dylan moore",
       "pitcher": "cristopher sanchez",
@@ -1768,6 +1786,12 @@
     }
   },
   "chw @ atl": {
+    "28": {
+      "player": "drake baldwin",
+      "pitcher": "shane smith",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "27": {
       "player": "marcell ozuna",
       "pitcher": "shane smith",
@@ -2025,11 +2049,17 @@
     }
   },
   "ath @ min": {
+    "16": {
+      "player": "matt wallner",
+      "pitcher": "jacob lopez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "austin martin",
       "pitcher": "jacob lopez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "14": {
       "player": "kody clemens",
