@@ -434,12 +434,6 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
-    "28": {
-      "player": "carson kelly",
-      "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "27": {
       "player": "pete crow armstrong",
       "pitcher": "brandon woodruff",
@@ -604,6 +598,12 @@
     }
   },
   "hou @ det": {
+    "46": {
+      "player": "yainer diaz",
+      "pitcher": "tarik skubal",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "45": {
       "player": "christian walker",
       "pitcher": "tarik skubal",
@@ -2522,11 +2522,17 @@
     }
   },
   "bal @ bos": {
+    "55": {
+      "player": "colton cowser",
+      "pitcher": "steven matz",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "54": {
       "player": "ryan mountcastle",
       "pitcher": "steven matz",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "53": {
       "player": "gunnar henderson",
@@ -3184,8 +3190,8 @@
     "44": {
       "player": "marcus semien",
       "pitcher": "seth lugo",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "bobby witt",
@@ -3447,6 +3453,12 @@
     }
   },
   "ath @ min": {
+    "41": {
+      "player": "matt wallner",
+      "pitcher": "jacob lopez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "40": {
       "player": "lawrence butler",
       "pitcher": "pierson ohl",
