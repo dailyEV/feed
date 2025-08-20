@@ -438,7 +438,7 @@
       "player": "andrew vaughn",
       "pitcher": "jameson taillon",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "4": {
       "player": "christian yelich",
@@ -606,10 +606,16 @@
     }
   },
   "tor @ pit": {
+    "41": {
+      "player": "ernie clement",
+      "pitcher": "yohan ramirez",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "ty france",
       "pitcher": "yohan ramirez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "39": {
@@ -1392,6 +1398,12 @@
     }
   },
   "sea @ phi": {
+    "40": {
+      "player": "julio rodriguez",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "39": {
       "player": "cal raleigh",
       "pitcher": "cristopher sanchez",
@@ -1816,6 +1828,12 @@
     }
   },
   "chw @ atl": {
+    "29": {
+      "player": "andrew benintendi",
+      "pitcher": "bryce elder",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "drake baldwin",
       "pitcher": "shane smith",
@@ -1987,17 +2005,11 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
-    "17": {
-      "player": "josh smith",
-      "pitcher": "seth lugo",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "16": {
       "player": "jonah heim",
       "pitcher": "seth lugo",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "15": {
       "player": "john rave",
@@ -2091,6 +2103,12 @@
     }
   },
   "ath @ min": {
+    "17": {
+      "player": "byron buxton",
+      "pitcher": "jacob lopez",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "matt wallner",
       "pitcher": "jacob lopez",
