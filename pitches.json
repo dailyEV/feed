@@ -434,11 +434,23 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "25": {
+      "player": "andrew vaughn",
+      "pitcher": "jameson taillon",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
+    "24": {
+      "player": "christian yelich",
+      "pitcher": "jameson taillon",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "23": {
       "player": "william contreras",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "ian happ",
@@ -577,8 +589,8 @@
     "44": {
       "player": "spencer torkelson",
       "pitcher": "hunter brown",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "43": {
       "player": "riley greene",
@@ -1217,8 +1229,8 @@
     "68": {
       "player": "agustin ramirez",
       "pitcher": "jojo romero",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "67": {
       "player": "jakob marsee",
@@ -2046,12 +2058,6 @@
     }
   },
   "sea @ phi": {
-    "62": {
-      "player": "mitch garver",
-      "pitcher": "david robertson",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
-    },
     "61": {
       "player": "kyle schwarber",
       "pitcher": "gabe speier",
@@ -3545,11 +3551,17 @@
     }
   },
   "lad @ col": {
+    "13": {
+      "player": "shohei ohtani",
+      "pitcher": "austin gomber",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "buddy kennedy",
       "pitcher": "austin gomber",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "11": {
       "player": "miguel rojas",
