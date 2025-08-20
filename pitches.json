@@ -434,11 +434,17 @@
     }
   },
   "mil-gm2 @ chc-gm2": {
+    "20": {
+      "player": "matt shaw",
+      "pitcher": "brandon woodruff",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "19": {
       "player": "dansby swanson",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "owen caissie",
@@ -553,8 +559,8 @@
     "40": {
       "player": "carlos correa",
       "pitcher": "tarik skubal",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "jeremy pena",
@@ -2252,6 +2258,12 @@
     }
   },
   "bal @ bos": {
+    "47": {
+      "player": "alex jackson",
+      "pitcher": "greg weissert",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "dylan carlson",
       "pitcher": "greg weissert",
