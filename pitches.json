@@ -437,7 +437,7 @@
     "18": {
       "player": "owen caissie",
       "pitcher": "brandon woodruff",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "17": {
@@ -777,7 +777,7 @@
     "55": {
       "player": "alejandro kirk",
       "pitcher": "colin holderman",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "54": {
@@ -1106,6 +1106,12 @@
     }
   },
   "stl @ mia": {
+    "61": {
+      "player": "troy johnston",
+      "pitcher": "matt svanson",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "60": {
       "player": "pedro pages",
       "pitcher": "cade gibson",
@@ -1848,12 +1854,6 @@
     }
   },
   "sea @ phi": {
-    "56": {
-      "player": "julio rodriguez",
-      "pitcher": "orion kerkering",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "55": {
       "player": "cal raleigh",
       "pitcher": "orion kerkering",
@@ -2190,7 +2190,7 @@
       "player": "alex bregman",
       "pitcher": "tomoyuki sugano",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Splitter"
     },
     "44": {
       "player": "roman anthony",
@@ -2461,8 +2461,8 @@
     "46": {
       "player": "edgar quero",
       "pitcher": "connor seabold",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "45": {
       "player": "luis robert",
@@ -2946,7 +2946,7 @@
     "31": {
       "player": "luis urias",
       "pitcher": "joe ryan",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "30": {
@@ -3134,8 +3134,8 @@
     "5": {
       "player": "teoscar hernandez",
       "pitcher": "austin gomber",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "freddie freeman",
