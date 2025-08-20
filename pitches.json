@@ -633,8 +633,8 @@
     "42": {
       "player": "jared triolo",
       "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "41": {
       "player": "ernie clement",
@@ -887,7 +887,7 @@
     "46": {
       "player": "maximo acosta",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "45": {
@@ -1455,8 +1455,8 @@
     "42": {
       "player": "bryce harper",
       "pitcher": "bryce miller",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "kyle schwarber",
@@ -2217,6 +2217,12 @@
     }
   },
   "ath @ min": {
+    "19": {
+      "player": "luis urias",
+      "pitcher": "joe ryan",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "18": {
       "player": "brett harris",
       "pitcher": "joe ryan",
