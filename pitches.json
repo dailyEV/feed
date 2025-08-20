@@ -523,8 +523,8 @@
     "34": {
       "player": "zach mckinstry",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "33": {
       "player": "chas mccormick",
@@ -1716,6 +1716,12 @@
     }
   },
   "sea @ phi": {
+    "52": {
+      "player": "jp crawford",
+      "pitcher": "cristopher sanchez",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "51": {
       "player": "harrison bader",
       "pitcher": "eduard bazardo",
@@ -2024,6 +2030,18 @@
     }
   },
   "bal @ bos": {
+    "42": {
+      "player": "dylan beavers",
+      "pitcher": "greg weissert",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "41": {
+      "player": "coby mayo",
+      "pitcher": "greg weissert",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "40": {
       "player": "colton cowser",
       "pitcher": "justin wilson",
@@ -2269,7 +2287,7 @@
     "43": {
       "player": "lenyn sosa",
       "pitcher": "bryce elder",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "42": {
@@ -2527,11 +2545,17 @@
   },
   "nyy @ tb": {},
   "tex @ kc": {
+    "30": {
+      "player": "alejandro osuna",
+      "pitcher": "seth lugo",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "29": {
       "player": "rowdy tellez",
       "pitcher": "seth lugo",
-      "result": "Ball",
-      "pitch": "Slow Curve"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "maikel garcia",
@@ -2706,7 +2730,7 @@
     "28": {
       "player": "darell hernaiz",
       "pitcher": "joe ryan",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "27": {
