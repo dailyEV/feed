@@ -3651,7 +3651,7 @@
     "57": {
       "player": "carlos cortes",
       "pitcher": "justin topa",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Cutter"
     },
     "56": {
@@ -4264,11 +4264,17 @@
     }
   },
   "lad @ col": {
+    "31": {
+      "player": "brenton doyle",
+      "pitcher": "shohei ohtani",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "30": {
       "player": "mickey moniak",
       "pitcher": "shohei ohtani",
       "result": "In play, no out",
-      "pitch": "Curveball"
+      "pitch": ""
     },
     "29": {
       "player": "warming bernabel",
@@ -4449,8 +4455,8 @@
     "3": {
       "player": "elly de la cruz",
       "pitcher": "yusei kikuchi",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "2": {
       "player": "noelvi marte",
@@ -4469,7 +4475,7 @@
     "1": {
       "player": "heliot ramos",
       "pitcher": "jp sears",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     }
   }
