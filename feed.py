@@ -150,7 +150,12 @@ def writeFeed(date, loop):
 
 		time.sleep(1)
 		if i >= 5:
-			commitChanges()
+			try:
+				commitChanges()
+			except:
+				if os.path.exists("/mnt/c/Users/zhech/Documents/feed/.git/index.lock"):
+					os.system("rm /mnt/c/Users/zhech/Documents/feed/.git/index.lock")
+				pass
 			i = 0
 
 	driver.quit()
