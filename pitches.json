@@ -2984,12 +2984,6 @@
     }
   },
   "nyy @ tb": {
-    "63": {
-      "player": "yandy diaz",
-      "pitcher": "david bednar",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "62": {
       "player": "anthony volpe",
       "pitcher": "mason englert",
@@ -3367,8 +3361,8 @@
     "62": {
       "player": "maikel garcia",
       "pitcher": "shawn armstrong",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "61": {
       "player": "vinnie pasquantino",
@@ -4692,11 +4686,17 @@
     }
   },
   "cin @ laa": {
+    "11": {
+      "player": "jose trevino",
+      "pitcher": "yusei kikuchi",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "spencer steer",
       "pitcher": "yusei kikuchi",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "9": {
       "player": "austin hays",
@@ -4754,6 +4754,12 @@
     }
   },
   "sf @ sd": {
+    "9": {
+      "player": "wilmer flores",
+      "pitcher": "jp sears",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "ramon laureano",
       "pitcher": "landen roupp",
