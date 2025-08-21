@@ -1763,8 +1763,8 @@
     "52": {
       "player": "javier sanoja",
       "pitcher": "andre pallante",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "yohel pozo",
@@ -2071,8 +2071,8 @@
     "47": {
       "player": "mark vientos",
       "pitcher": "cole henry",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "46": {
       "player": "jeff mcneil",
@@ -2355,8 +2355,8 @@
     "35": {
       "player": "jurickson profar",
       "pitcher": "martin perez",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "34": {
       "player": "nick allen",
@@ -2564,6 +2564,12 @@
     }
   },
   "nyy @ tb": {
+    "25": {
+      "player": "anthony volpe",
+      "pitcher": "drew rasmussen",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "jasson dominguez",
       "pitcher": "drew rasmussen",
@@ -2710,11 +2716,17 @@
     }
   },
   "tex @ kc": {
+    "19": {
+      "player": "bobby witt",
+      "pitcher": "caleb boushley",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "18": {
       "player": "mike yastrzemski",
       "pitcher": "caleb boushley",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "17": {
       "player": "kyle isbel",
