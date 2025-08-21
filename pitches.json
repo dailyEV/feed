@@ -2511,7 +2511,7 @@
     "50": {
       "player": "andrew benintendi",
       "pitcher": "pierce johnson",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "49": {
@@ -2813,8 +2813,8 @@
     "38": {
       "player": "jazz chisholm",
       "pitcher": "drew rasmussen",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "37": {
       "player": "cody bellinger",
@@ -3040,6 +3040,12 @@
     }
   },
   "tex @ kc": {
+    "35": {
+      "player": "kyle isbel",
+      "pitcher": "jacob latz",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "34": {
       "player": "john rave",
       "pitcher": "jacob latz",
@@ -3622,6 +3628,18 @@
     }
   },
   "lad @ col": {
+    "9": {
+      "player": "michael conforto",
+      "pitcher": "tanner gordon",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "8": {
+      "player": "andy pages",
+      "pitcher": "tanner gordon",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "hunter goodman",
       "pitcher": "shohei ohtani",
