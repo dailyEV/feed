@@ -2915,7 +2915,7 @@
     "45": {
       "player": "chandler simpson",
       "pitcher": "cam schlittler",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -3187,7 +3187,7 @@
     "42": {
       "player": "vinnie pasquantino",
       "pitcher": "jacob latz",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "41": {
@@ -3704,6 +3704,12 @@
     }
   },
   "mil @ chc": {
+    "31": {
+      "player": "carson kelly",
+      "pitcher": "jacob misiorowski",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "blake perkins",
       "pitcher": "colin rea",
@@ -3886,12 +3892,6 @@
     }
   },
   "lad @ col": {
-    "17": {
-      "player": "miguel rojas",
-      "pitcher": "tanner gordon",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "16": {
       "player": "ryan ritter",
       "pitcher": "shohei ohtani",
