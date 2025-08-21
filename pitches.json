@@ -2987,7 +2987,7 @@
     "56": {
       "player": "jake mangum",
       "pitcher": "luke weaver",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -3654,17 +3654,11 @@
     }
   },
   "ath @ min": {
-    "58": {
-      "player": "nick kurtz",
-      "pitcher": "justin topa",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "57": {
       "player": "carlos cortes",
       "pitcher": "justin topa",
-      "result": "In play, no out",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "56": {
       "player": "trevor larnach",
@@ -4484,6 +4478,12 @@
     }
   },
   "sf @ sd": {
+    "2": {
+      "player": "rafael devers",
+      "pitcher": "jp sears",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "1": {
       "player": "heliot ramos",
       "pitcher": "jp sears",
