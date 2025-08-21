@@ -2161,7 +2161,7 @@
     "63": {
       "player": "mark vientos",
       "pitcher": "clayton beeter",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "62": {
@@ -2538,6 +2538,12 @@
     }
   },
   "chw @ atl": {
+    "52": {
+      "player": "nacho alvarez",
+      "pitcher": "mike vasil",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "brooks baldwin",
       "pitcher": "pierce johnson",
@@ -2846,6 +2852,12 @@
     }
   },
   "nyy @ tb": {
+    "41": {
+      "player": "tristan gray",
+      "pitcher": "cam schlittler",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "40": {
       "player": "bob seymour",
       "pitcher": "cam schlittler",
@@ -3088,12 +3100,6 @@
     }
   },
   "tex @ kc": {
-    "37": {
-      "player": "evan carter",
-      "pitcher": "noah cameron",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "36": {
       "player": "mike yastrzemski",
       "pitcher": "jacob latz",
@@ -3706,17 +3712,11 @@
     }
   },
   "lad @ col": {
-    "12": {
-      "player": "warming bernabel",
-      "pitcher": "shohei ohtani",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "11": {
       "player": "jordan beck",
       "pitcher": "shohei ohtani",
-      "result": "In play, no out",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "10": {
       "player": "alex freeland",
