@@ -3418,12 +3418,6 @@
     }
   },
   "tex @ kc": {
-    "74": {
-      "player": "evan carter",
-      "pitcher": "sam long",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "73": {
       "player": "cody freeman",
       "pitcher": "sam long",
@@ -3864,10 +3858,16 @@
     }
   },
   "ath @ min": {
+    "76": {
+      "player": "trevor larnach",
+      "pitcher": "michael kelly",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "75": {
       "player": "byron buxton",
       "pitcher": "michael kelly",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "74": {
@@ -4313,8 +4313,8 @@
     "67": {
       "player": "sal frelick",
       "pitcher": "daniel palencia",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "danny jansen",
@@ -5064,6 +5064,12 @@
     }
   },
   "cin @ laa": {
+    "25": {
+      "player": "elly de la cruz",
+      "pitcher": "yusei kikuchi",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "mike trout",
       "pitcher": "nick martinez",
@@ -5213,7 +5219,7 @@
     "23": {
       "player": "luis arraez",
       "pitcher": "landen roupp",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "22": {
