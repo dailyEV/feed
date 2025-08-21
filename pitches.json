@@ -2826,11 +2826,17 @@
     }
   },
   "hou @ bal": {
+    "10": {
+      "player": "ryan mountcastle",
+      "pitcher": "jason alexander",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "gunnar henderson",
       "pitcher": "jason alexander",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "8": {
       "player": "jeremiah jackson",
@@ -2882,11 +2888,17 @@
     }
   },
   "bos @ nyy": {
+    "7": {
+      "player": "aaron judge",
+      "pitcher": "lucas giolito",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "6": {
       "player": "trent grisham",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "5": {
       "player": "nathaniel lowe",
