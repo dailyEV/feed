@@ -4277,7 +4277,7 @@
     "63": {
       "player": "anthony seigler",
       "pitcher": "daniel palencia",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -4657,7 +4657,7 @@
     "53": {
       "player": "ezequiel tovar",
       "pitcher": "paul gervase",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -4977,8 +4977,8 @@
     "21": {
       "player": "bryce teodosio",
       "pitcher": "nick martinez",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "20": {
       "player": "elly de la cruz",
@@ -5102,6 +5102,12 @@
     }
   },
   "sf @ sd": {
+    "21": {
+      "player": "rafael devers",
+      "pitcher": "jp sears",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "heliot ramos",
       "pitcher": "jp sears",
