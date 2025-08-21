@@ -1763,8 +1763,8 @@
     "72": {
       "player": "agustin ramirez",
       "pitcher": "ryan fernandez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "71": {
       "player": "jakob marsee",
@@ -2188,12 +2188,6 @@
     }
   },
   "nym @ wsh": {
-    "70": {
-      "player": "luis torrens",
-      "pitcher": "jose a ferrer",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "69": {
       "player": "cedric mullins",
       "pitcher": "jose a ferrer",
@@ -2610,6 +2604,12 @@
     }
   },
   "chw @ atl": {
+    "57": {
+      "player": "mike tauchman",
+      "pitcher": "raisel iglesias",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "56": {
       "player": "edgar quero",
       "pitcher": "raisel iglesias",
@@ -2951,8 +2951,8 @@
     "47": {
       "player": "brandon lowe",
       "pitcher": "cam schlittler",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "yandy diaz",
@@ -3232,10 +3232,16 @@
     }
   },
   "tex @ kc": {
+    "44": {
+      "player": "salvador perez",
+      "pitcher": "jacob latz",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "maikel garcia",
       "pitcher": "jacob latz",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "42": {
