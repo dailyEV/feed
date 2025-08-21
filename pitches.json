@@ -3669,7 +3669,7 @@
     "59": {
       "player": "shea langeliers",
       "pitcher": "justin topa",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "58": {
@@ -4025,8 +4025,8 @@
     "47": {
       "player": "seiya suzuki",
       "pitcher": "shelby miller",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "46": {
       "player": "ian happ",
@@ -4306,23 +4306,35 @@
     }
   },
   "lad @ col": {
+    "34": {
+      "player": "tyler freeman",
+      "pitcher": "shohei ohtani",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
+    "33": {
+      "player": "ryan ritter",
+      "pitcher": "shohei ohtani",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "32": {
       "player": "orlando arcia",
       "pitcher": "shohei ohtani",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "brenton doyle",
       "pitcher": "shohei ohtani",
-      "result": "In play, run(s)",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "30": {
       "player": "mickey moniak",
       "pitcher": "shohei ohtani",
       "result": "In play, no out",
-      "pitch": "Splitter"
+      "pitch": "Sweeper"
     },
     "29": {
       "player": "warming bernabel",
@@ -4529,8 +4541,8 @@
     "3": {
       "player": "willy adames",
       "pitcher": "jp sears",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "rafael devers",
