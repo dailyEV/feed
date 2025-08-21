@@ -1763,8 +1763,8 @@
     "45": {
       "player": "troy johnston",
       "pitcher": "andre pallante",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Knuckle Curve"
     },
     "44": {
       "player": "joey wiemer",
@@ -2035,8 +2035,8 @@
     "41": {
       "player": "paul dejong",
       "pitcher": "kodai senga",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Forkball"
     },
     "40": {
       "player": "luis garcia",
@@ -2283,8 +2283,8 @@
     "26": {
       "player": "marcell ozuna",
       "pitcher": "martin perez",
-      "result": "In play, no out",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "ronald acuna",
@@ -2441,8 +2441,8 @@
     "15": {
       "player": "hunter feduccia",
       "pitcher": "cam schlittler",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "josh lowe",
@@ -2530,11 +2530,17 @@
     }
   },
   "tex @ kc": {
+    "12": {
+      "player": "jonathan india",
+      "pitcher": "caleb boushley",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "11": {
       "player": "adam frazier",
       "pitcher": "caleb boushley",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "salvador perez",
@@ -2684,6 +2690,12 @@
     }
   },
   "mil @ chc": {
+    "3": {
+      "player": "william contreras",
+      "pitcher": "colin rea",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "isaac collins",
       "pitcher": "colin rea",
