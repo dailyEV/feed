@@ -2987,8 +2987,8 @@
     "62": {
       "player": "anthony volpe",
       "pitcher": "mason englert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "61": {
       "player": "paul goldschmidt",
@@ -3726,10 +3726,16 @@
     }
   },
   "ath @ min": {
+    "65": {
+      "player": "royce lewis",
+      "pitcher": "elvis alvarado",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "luke keaschall",
       "pitcher": "elvis alvarado",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -4109,8 +4115,8 @@
     "52": {
       "player": "isaac collins",
       "pitcher": "caleb thielbar",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "51": {
       "player": "sal frelick",
@@ -4420,6 +4426,12 @@
     }
   },
   "lad @ col": {
+    "40": {
+      "player": "will smith",
+      "pitcher": "tanner gordon",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "39": {
       "player": "shohei ohtani",
       "pitcher": "tanner gordon",
@@ -4656,6 +4668,12 @@
     }
   },
   "cin @ laa": {
+    "10": {
+      "player": "spencer steer",
+      "pitcher": "yusei kikuchi",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "austin hays",
       "pitcher": "yusei kikuchi",
