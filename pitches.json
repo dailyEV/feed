@@ -3726,16 +3726,10 @@
     }
   },
   "ath @ min": {
-    "65": {
-      "player": "royce lewis",
-      "pitcher": "elvis alvarado",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "64": {
       "player": "luke keaschall",
       "pitcher": "elvis alvarado",
-      "result": "In play, no out",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -4112,10 +4106,16 @@
     }
   },
   "mil @ chc": {
+    "52": {
+      "player": "isaac collins",
+      "pitcher": "caleb thielbar",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "51": {
       "player": "sal frelick",
       "pitcher": "caleb thielbar",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "50": {
