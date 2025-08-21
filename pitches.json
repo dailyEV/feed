@@ -2030,7 +2030,7 @@
       "player": "luis garcia",
       "pitcher": "kodai senga",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Forkball"
     },
     "39": {
       "player": "josh bell",
@@ -2577,8 +2577,8 @@
     "14": {
       "player": "matt wallner",
       "pitcher": "jt ginn",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "13": {
       "player": "ryan jeffers",
@@ -2659,7 +2659,14 @@
       "pitch": "Changeup"
     }
   },
-  "mil @ chc": {},
+  "mil @ chc": {
+    "1": {
+      "player": "sal frelick",
+      "pitcher": "colin rea",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "lad @ col": {},
   "cin @ laa": {},
   "sf @ sd": {}
