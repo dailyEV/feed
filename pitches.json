@@ -1763,8 +1763,8 @@
     "67": {
       "player": "derek hill",
       "pitcher": "andre granillo",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "nolan gorman",
@@ -2855,7 +2855,7 @@
     "41": {
       "player": "tristan gray",
       "pitcher": "cam schlittler",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "40": {
@@ -3100,6 +3100,18 @@
     }
   },
   "tex @ kc": {
+    "38": {
+      "player": "wyatt langford",
+      "pitcher": "noah cameron",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "37": {
+      "player": "evan carter",
+      "pitcher": "noah cameron",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "36": {
       "player": "mike yastrzemski",
       "pitcher": "jacob latz",
@@ -3712,11 +3724,17 @@
     }
   },
   "lad @ col": {
+    "12": {
+      "player": "warming bernabel",
+      "pitcher": "shohei ohtani",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "jordan beck",
       "pitcher": "shohei ohtani",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "10": {
       "player": "alex freeland",
