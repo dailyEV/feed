@@ -2535,7 +2535,7 @@
     "51": {
       "player": "brooks baldwin",
       "pitcher": "pierce johnson",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "50": {
@@ -2843,8 +2843,8 @@
     "40": {
       "player": "bob seymour",
       "pitcher": "cam schlittler",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "39": {
       "player": "jake mangum",
@@ -3082,6 +3082,12 @@
     }
   },
   "tex @ kc": {
+    "37": {
+      "player": "evan carter",
+      "pitcher": "noah cameron",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "36": {
       "player": "mike yastrzemski",
       "pitcher": "jacob latz",
@@ -3303,7 +3309,7 @@
     "39": {
       "player": "brooks lee",
       "pitcher": "jt ginn",
-      "result": "In play, run(s)",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "38": {
@@ -3539,8 +3545,8 @@
     "25": {
       "player": "pete crow armstrong",
       "pitcher": "jacob misiorowski",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "seiya suzuki",
@@ -3691,8 +3697,8 @@
     "10": {
       "player": "alex freeland",
       "pitcher": "tanner gordon",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "michael conforto",
