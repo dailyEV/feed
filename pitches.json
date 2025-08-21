@@ -2035,7 +2035,7 @@
     "42": {
       "player": "francisco lindor",
       "pitcher": "brad lord",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "41": {
@@ -2460,7 +2460,7 @@
       "player": "trent grisham",
       "pitcher": "drew rasmussen",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "15": {
       "player": "hunter feduccia",
@@ -2554,11 +2554,17 @@
     }
   },
   "tex @ kc": {
+    "13": {
+      "player": "john rave",
+      "pitcher": "caleb boushley",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "12": {
       "player": "jonathan india",
       "pitcher": "caleb boushley",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "adam frazier",
@@ -2631,8 +2637,8 @@
     "16": {
       "player": "luis urias",
       "pitcher": "bailey ober",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "brett harris",
@@ -2726,6 +2732,12 @@
     }
   },
   "mil @ chc": {
+    "4": {
+      "player": "michael busch",
+      "pitcher": "jacob misiorowski",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "william contreras",
       "pitcher": "colin rea",
