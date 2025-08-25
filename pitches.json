@@ -3,8 +3,8 @@
     "45": {
       "player": "ryan mountcastle",
       "pitcher": "richard fitts",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "44": {
       "player": "gunnar henderson",
@@ -523,8 +523,8 @@
     "40": {
       "player": "maximo acosta",
       "pitcher": "spencer strider",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "michael harris",
@@ -765,8 +765,8 @@
     "24": {
       "player": "jazz chisholm",
       "pitcher": "brad lord",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "23": {
       "player": "cody bellinger",
@@ -1262,6 +1262,12 @@
     }
   },
   "ari @ mil": {
+    "9": {
+      "player": "gabriel moreno",
+      "pitcher": "brandon woodruff",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "christian yelich",
       "pitcher": "eduardo rodriguez",
