@@ -729,7 +729,7 @@
     "22": {
       "player": "aaron judge",
       "pitcher": "brad lord",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "21": {
@@ -1169,8 +1169,8 @@
     "7": {
       "player": "william contreras",
       "pitcher": "eduardo rodriguez",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "brice turang",
@@ -1210,6 +1210,12 @@
     }
   },
   "pit @ stl": {
+    "4": {
+      "player": "spencer horwitz",
+      "pitcher": "michael mcgreevy",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "bryan reynolds",
       "pitcher": "michael mcgreevy",
