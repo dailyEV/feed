@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "39": {
+      "player": "alex bregman",
+      "pitcher": "tomoyuki sugano",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "38": {
       "player": "roman anthony",
       "pitcher": "tomoyuki sugano",
@@ -458,7 +464,7 @@
       "player": "jurickson profar",
       "pitcher": "edward cabrera",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Curveball"
     },
     "35": {
       "player": "joey wiemer",
@@ -1023,8 +1029,8 @@
     "5": {
       "player": "miguel vargas",
       "pitcher": "noah cameron",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "chase meidroth",
@@ -1055,7 +1061,7 @@
     "5": {
       "player": "pavin smith",
       "pitcher": "brandon woodruff",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "4": {
@@ -1084,6 +1090,12 @@
     }
   },
   "pit @ stl": {
+    "2": {
+      "player": "nick gonzales",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "ronny simon",
       "pitcher": "michael mcgreevy",
