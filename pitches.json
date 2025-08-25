@@ -4,7 +4,7 @@
       "player": "luis vazquez",
       "pitcher": "richard fitts",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "34": {
       "player": "dylan carlson",
@@ -215,7 +215,7 @@
     "31": {
       "player": "jose ramirez",
       "pitcher": "ian seymour",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "30": {
@@ -403,8 +403,8 @@
     "32": {
       "player": "otto lopez",
       "pitcher": "spencer strider",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "nick allen",
@@ -598,7 +598,7 @@
       "player": "robert hassell",
       "pitcher": "cam schlittler",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "jose caballero",
@@ -701,7 +701,7 @@
     "18": {
       "player": "nathan lukes",
       "pitcher": "joe ryan",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "17": {
@@ -887,7 +887,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "kc @ chw": {},
+  "kc @ chw": {
+    "1": {
+      "player": "mike yastrzemski",
+      "pitcher": "shane smith",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "ari @ mil": {},
   "pit @ stl": {},
   "laa @ tex": {},
