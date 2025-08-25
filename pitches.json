@@ -3,8 +3,8 @@
     "37": {
       "player": "connor wong",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "36": {
       "player": "jackson holliday",
@@ -1001,8 +1001,8 @@
     "3": {
       "player": "corbin carroll",
       "pitcher": "brandon woodruff",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "ketel marte",
@@ -1017,7 +1017,14 @@
       "pitch": "Cutter"
     }
   },
-  "pit @ stl": {},
+  "pit @ stl": {
+    "1": {
+      "player": "ronny simon",
+      "pitcher": "michael mcgreevy",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "laa @ tex": {},
   "sd @ sea": {},
   "det @ ath": {},
