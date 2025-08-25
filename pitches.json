@@ -1,11 +1,5 @@
 {
   "bos @ bal": {
-    "43": {
-      "player": "jeremiah jackson",
-      "pitcher": "richard fitts",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "42": {
       "player": "nathaniel lowe",
       "pitcher": "tomoyuki sugano",
@@ -263,8 +257,8 @@
     "41": {
       "player": "brayan rocchio",
       "pitcher": "ian seymour",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "40": {
       "player": "bo naylor",
@@ -888,7 +882,7 @@
       "player": "bo bichette",
       "pitcher": "joe ryan",
       "result": "Ball",
-      "pitch": "Splitter"
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "byron buxton",
@@ -1024,6 +1018,12 @@
     }
   },
   "phi @ nym": {
+    "21": {
+      "player": "alec bohm",
+      "pitcher": "kodai senga",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "jt realmuto",
       "pitcher": "kodai senga",
@@ -1250,7 +1250,7 @@
       "player": "tommy pham",
       "pitcher": "michael mcgreevy",
       "result": "Called Strike",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "4": {
       "player": "spencer horwitz",
