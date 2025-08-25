@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "29": {
+      "player": "samuel basallo",
+      "pitcher": "richard fitts",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "28": {
       "player": "colton cowser",
       "pitcher": "richard fitts",
@@ -328,10 +334,16 @@
     }
   },
   "atl @ mia": {
+    "27": {
+      "player": "liam hicks",
+      "pitcher": "spencer strider",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "agustin ramirez",
       "pitcher": "spencer strider",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "25": {
@@ -551,8 +563,8 @@
     "12": {
       "player": "matt wallner",
       "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "ty france",
