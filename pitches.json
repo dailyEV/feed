@@ -3,7 +3,7 @@
     "35": {
       "player": "luis vazquez",
       "pitcher": "richard fitts",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -215,8 +215,8 @@
     "31": {
       "player": "jose ramirez",
       "pitcher": "ian seymour",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "angel martinez",
@@ -597,8 +597,8 @@
     "17": {
       "player": "robert hassell",
       "pitcher": "cam schlittler",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "jose caballero",
@@ -701,8 +701,8 @@
     "19": {
       "player": "vladimir guerrero",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "nathan lukes",
@@ -894,6 +894,12 @@
     }
   },
   "kc @ chw": {
+    "2": {
+      "player": "bobby witt",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "mike yastrzemski",
       "pitcher": "shane smith",
@@ -905,8 +911,8 @@
     "1": {
       "player": "geraldo perdomo",
       "pitcher": "brandon woodruff",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     }
   },
   "pit @ stl": {},
