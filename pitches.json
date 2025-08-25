@@ -258,7 +258,7 @@
       "player": "bo naylor",
       "pitcher": "ian seymour",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "gabriel arias",
@@ -496,6 +496,12 @@
     }
   },
   "atl @ mia": {
+    "39": {
+      "player": "michael harris",
+      "pitcher": "edward cabrera",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "ronald acuna",
       "pitcher": "edward cabrera",
@@ -1003,7 +1009,7 @@
     "20": {
       "player": "jt realmuto",
       "pitcher": "kodai senga",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Forkball"
     },
     "19": {
@@ -1125,8 +1131,8 @@
     "7": {
       "player": "lenyn sosa",
       "pitcher": "noah cameron",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "6": {
       "player": "edgar quero",
@@ -1166,6 +1172,12 @@
     }
   },
   "ari @ mil": {
+    "8": {
+      "player": "christian yelich",
+      "pitcher": "eduardo rodriguez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "william contreras",
       "pitcher": "eduardo rodriguez",
@@ -1213,8 +1225,8 @@
     "4": {
       "player": "spencer horwitz",
       "pitcher": "michael mcgreevy",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "3": {
       "player": "bryan reynolds",
