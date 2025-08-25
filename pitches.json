@@ -1,11 +1,5 @@
 {
   "bos @ bal": {
-    "45": {
-      "player": "ryan mountcastle",
-      "pitcher": "richard fitts",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "44": {
       "player": "gunnar henderson",
       "pitcher": "richard fitts",
@@ -275,8 +269,8 @@
     "41": {
       "player": "brayan rocchio",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "40": {
       "player": "bo naylor",
@@ -520,6 +514,12 @@
     }
   },
   "atl @ mia": {
+    "40": {
+      "player": "maximo acosta",
+      "pitcher": "spencer strider",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "39": {
       "player": "michael harris",
       "pitcher": "edward cabrera",
@@ -759,8 +759,8 @@
     "24": {
       "player": "jazz chisholm",
       "pitcher": "brad lord",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "cody bellinger",
