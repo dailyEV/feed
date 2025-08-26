@@ -1,10 +1,16 @@
 {
   "bos @ bal": {
+    "54": {
+      "player": "alex bregman",
+      "pitcher": "grant wolfram",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "53": {
       "player": "roman anthony",
       "pitcher": "grant wolfram",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "52": {
       "player": "connor wong",
@@ -625,8 +631,8 @@
     "50": {
       "player": "troy johnston",
       "pitcher": "spencer strider",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "eric wagaman",
@@ -1139,8 +1145,8 @@
     "34": {
       "player": "nathan lukes",
       "pitcher": "joe ryan",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "33": {
       "player": "george springer",
@@ -1345,7 +1351,7 @@
     "32": {
       "player": "juan soto",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "31": {
@@ -1539,7 +1545,7 @@
     "22": {
       "player": "miguel vargas",
       "pitcher": "noah cameron",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "21": {
@@ -1786,6 +1792,12 @@
     }
   },
   "pit @ stl": {
+    "16": {
+      "player": "jordan walker",
+      "pitcher": "johan oviedo",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "thomas saggese",
       "pitcher": "johan oviedo",
@@ -1881,8 +1893,8 @@
     "6": {
       "player": "wyatt langford",
       "pitcher": "jose soriano",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "josh smith",
