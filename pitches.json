@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "58": {
+      "player": "jeremiah jackson",
+      "pitcher": "steven matz",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "57": {
       "player": "jackson holliday",
       "pitcher": "steven matz",
@@ -649,7 +655,7 @@
     "52": {
       "player": "vidal brujan",
       "pitcher": "tyler zuber",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sweeper"
     },
     "51": {
@@ -1430,7 +1436,7 @@
       "player": "tyrone taylor",
       "pitcher": "cristopher sanchez",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "36": {
       "player": "brandon nimmo",
@@ -1650,6 +1656,18 @@
     }
   },
   "kc @ chw": {
+    "27": {
+      "player": "salvador perez",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "26": {
+      "player": "maikel garcia",
+      "pitcher": "shane smith",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "vinnie pasquantino",
       "pitcher": "shane smith",
@@ -1802,6 +1820,12 @@
     }
   },
   "ari @ mil": {
+    "22": {
+      "player": "william contreras",
+      "pitcher": "eduardo rodriguez",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "21": {
       "player": "brice turang",
       "pitcher": "eduardo rodriguez",
