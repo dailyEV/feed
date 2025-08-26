@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "25": {
+      "player": "masataka yoshida",
+      "pitcher": "kyle bradish",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "nathaniel lowe",
       "pitcher": "kyle bradish",
@@ -149,8 +155,8 @@
     "22": {
       "player": "kyle manzardo",
       "pitcher": "shane baz",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "21": {
       "player": "jose ramirez",
@@ -280,6 +286,12 @@
     }
   },
   "atl @ mia": {
+    "22": {
+      "player": "xavier edwards",
+      "pitcher": "hurston waldrep",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "21": {
       "player": "ronald acuna",
       "pitcher": "sandy alcantara",
@@ -449,8 +461,8 @@
     "7": {
       "player": "nathan lukes",
       "pitcher": "bailey ober",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "george springer",
@@ -494,7 +506,7 @@
       "player": "juan soto",
       "pitcher": "jesus luzardo",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "5": {
       "player": "francisco lindor",
