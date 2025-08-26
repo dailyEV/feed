@@ -1215,7 +1215,7 @@
     "67": {
       "player": "trent grisham",
       "pitcher": "pj poulin",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -2675,8 +2675,8 @@
     "48": {
       "player": "gabriel moreno",
       "pitcher": "brandon woodruff",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "47": {
       "player": "pavin smith",
@@ -2965,7 +2965,7 @@
     "46": {
       "player": "jordan walker",
       "pitcher": "colin holderman",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "45": {
@@ -3240,6 +3240,12 @@
     }
   },
   "laa @ tex": {
+    "34": {
+      "player": "adolis garcia",
+      "pitcher": "jose soriano",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "joc pederson",
       "pitcher": "jose soriano",
