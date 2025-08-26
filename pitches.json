@@ -3,8 +3,8 @@
     "30": {
       "player": "david hamilton",
       "pitcher": "kyle bradish",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "ceddanne rafaela",
@@ -185,7 +185,7 @@
     "27": {
       "player": "brandon lowe",
       "pitcher": "parker messick",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "26": {
@@ -349,7 +349,7 @@
     "28": {
       "player": "ozzie albies",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "27": {
@@ -590,6 +590,12 @@
     }
   },
   "min @ tor": {
+    "15": {
+      "player": "mickey gasper",
+      "pitcher": "chris bassitt",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "14": {
       "player": "royce lewis",
       "pitcher": "chris bassitt",
@@ -676,12 +682,6 @@
     }
   },
   "phi @ nym": {
-    "11": {
-      "player": "alec bohm",
-      "pitcher": "sean manaea",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "10": {
       "player": "brandon nimmo",
       "pitcher": "jesus luzardo",
