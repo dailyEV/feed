@@ -547,8 +547,8 @@
     "42": {
       "player": "jakob marsee",
       "pitcher": "spencer strider",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "xavier edwards",
@@ -953,8 +953,8 @@
     "27": {
       "player": "brooks lee",
       "pitcher": "max scherzer",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "trevor larnach",
@@ -1396,6 +1396,12 @@
     }
   },
   "pit @ stl": {
+    "9": {
+      "player": "willson contreras",
+      "pitcher": "johan oviedo",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "alec burleson",
       "pitcher": "johan oviedo",
