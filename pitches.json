@@ -2179,8 +2179,8 @@
     "81": {
       "player": "harrison bader",
       "pitcher": "ryne stanek",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "80": {
       "player": "max kepler",
@@ -3065,7 +3065,7 @@
     "71": {
       "player": "blaze alexander",
       "pitcher": "abner uribe",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "70": {
@@ -3490,6 +3490,12 @@
     }
   },
   "pit @ stl": {
+    "69": {
+      "player": "pedro pages",
+      "pitcher": "yohan ramirez",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "68": {
       "player": "jordan walker",
       "pitcher": "yohan ramirez",
@@ -4398,6 +4404,12 @@
     }
   },
   "cin @ lad": {
+    "5": {
+      "player": "mookie betts",
+      "pitcher": "hunter greene",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "shohei ohtani",
       "pitcher": "hunter greene",
