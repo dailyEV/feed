@@ -4,7 +4,7 @@
       "player": "jarren duran",
       "pitcher": "kyle bradish",
       "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "pitch": "Sinker"
     },
     "37": {
       "player": "alex bregman",
@@ -233,7 +233,7 @@
     "36": {
       "player": "cj kayfus",
       "pitcher": "shane baz",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "35": {
@@ -660,6 +660,12 @@
     }
   },
   "wsh @ nyy": {
+    "21": {
+      "player": "josh bell",
+      "pitcher": "luis gil",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "20": {
       "player": "luis garcia",
       "pitcher": "luis gil",
@@ -785,8 +791,8 @@
     "23": {
       "player": "brooks lee",
       "pitcher": "chris bassitt",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "22": {
       "player": "trevor larnach",
@@ -922,11 +928,17 @@
     }
   },
   "phi @ nym": {
+    "20": {
+      "player": "kyle schwarber",
+      "pitcher": "sean manaea",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "19": {
       "player": "trea turner",
       "pitcher": "sean manaea",
       "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "weston wilson",
@@ -1076,12 +1088,6 @@
     }
   },
   "ari @ mil": {
-    "6": {
-      "player": "christian yelich",
-      "pitcher": "brandon pfaadt",
-      "result": "In play, no out",
-      "pitch": "Cutter"
-    },
     "5": {
       "player": "william contreras",
       "pitcher": "brandon pfaadt",
