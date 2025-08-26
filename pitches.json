@@ -3,8 +3,8 @@
     "53": {
       "player": "roman anthony",
       "pitcher": "grant wolfram",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "52": {
       "player": "connor wong",
@@ -927,8 +927,8 @@
     "35": {
       "player": "robert hassell",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "34": {
       "player": "dylan crews",
@@ -1345,7 +1345,7 @@
     "32": {
       "player": "juan soto",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "31": {
@@ -1536,6 +1536,12 @@
     }
   },
   "kc @ chw": {
+    "22": {
+      "player": "miguel vargas",
+      "pitcher": "noah cameron",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "bobby witt",
       "pitcher": "shane smith",
@@ -1664,6 +1670,12 @@
     }
   },
   "ari @ mil": {
+    "19": {
+      "player": "blake perkins",
+      "pitcher": "eduardo rodriguez",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "18": {
       "player": "isaac collins",
       "pitcher": "eduardo rodriguez",
@@ -1869,8 +1881,8 @@
     "6": {
       "player": "wyatt langford",
       "pitcher": "jose soriano",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "josh smith",
