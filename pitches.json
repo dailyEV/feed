@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "51": {
+      "player": "samuel basallo",
+      "pitcher": "steven matz",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "50": {
       "player": "colton cowser",
       "pitcher": "steven matz",
@@ -305,8 +311,8 @@
     "49": {
       "player": "yandy diaz",
       "pitcher": "tanner bibee",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "48": {
       "player": "angel martinez",
@@ -601,8 +607,8 @@
     "46": {
       "player": "agustin ramirez",
       "pitcher": "spencer strider",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Hit By Pitch",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "ozzie albies",
@@ -876,6 +882,12 @@
     }
   },
   "wsh @ nyy": {
+    "32": {
+      "player": "ryan mcmahon",
+      "pitcher": "brad lord",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "31": {
       "player": "jasson dominguez",
       "pitcher": "brad lord",
@@ -1067,7 +1079,7 @@
     "33": {
       "player": "george springer",
       "pitcher": "joe ryan",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "32": {
@@ -1267,8 +1279,8 @@
     "29": {
       "player": "trea turner",
       "pitcher": "kodai senga",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Forkball"
     },
     "28": {
       "player": "bryson stott",
@@ -1547,7 +1559,7 @@
     "15": {
       "player": "alek thomas",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -1639,7 +1651,7 @@
     "13": {
       "player": "liover peguero",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "12": {
@@ -1720,7 +1732,7 @@
       "player": "taylor ward",
       "pitcher": "jacob degrom",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "2": {
       "player": "yoan moncada",
