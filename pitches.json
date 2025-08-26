@@ -939,7 +939,7 @@
     "37": {
       "player": "jose caballero",
       "pitcher": "brad lord",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "36": {
@@ -1163,8 +1163,8 @@
     "35": {
       "player": "kody clemens",
       "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "nathan lukes",
@@ -1852,11 +1852,17 @@
     }
   },
   "pit @ stl": {
+    "18": {
+      "player": "nathan church",
+      "pitcher": "johan oviedo",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "pedro pages",
       "pitcher": "johan oviedo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "16": {
       "player": "jordan walker",
@@ -1960,7 +1966,7 @@
       "player": "luis rengifo",
       "pitcher": "jacob degrom",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "7": {
       "player": "corey seager",
