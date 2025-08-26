@@ -3,7 +3,7 @@
     "34": {
       "player": "dylan beavers",
       "pitcher": "lucas giolito",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -209,8 +209,8 @@
     "31": {
       "player": "everson pereira",
       "pitcher": "parker messick",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "gabriel arias",
@@ -394,6 +394,12 @@
     }
   },
   "atl @ mia": {
+    "32": {
+      "player": "troy johnston",
+      "pitcher": "hurston waldrep",
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
+    },
     "31": {
       "player": "heriberto hernandez",
       "pitcher": "hurston waldrep",
@@ -787,8 +793,8 @@
     "15": {
       "player": "jeff mcneil",
       "pitcher": "jesus luzardo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "14": {
       "player": "tyrone taylor",
@@ -887,8 +893,8 @@
     "1": {
       "player": "geraldo perdomo",
       "pitcher": "jacob misiorowski",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     }
   },
   "pit @ stl": {},
