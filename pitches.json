@@ -2164,10 +2164,16 @@
     }
   },
   "phi @ nym": {
+    "68": {
+      "player": "juan soto",
+      "pitcher": "jordan romano",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "67": {
       "player": "francisco lindor",
       "pitcher": "jordan romano",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -2966,12 +2972,6 @@
     }
   },
   "ari @ mil": {
-    "56": {
-      "player": "geraldo perdomo",
-      "pitcher": "aaron ashby",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "55": {
       "player": "alek thomas",
       "pitcher": "aaron ashby",
@@ -3645,8 +3645,8 @@
     "42": {
       "player": "jonah heim",
       "pitcher": "jose soriano",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "logan ohoppe",
