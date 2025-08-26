@@ -233,8 +233,8 @@
     "36": {
       "player": "cj kayfus",
       "pitcher": "shane baz",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "35": {
       "player": "steven kwan",
@@ -925,7 +925,7 @@
     "19": {
       "player": "trea turner",
       "pitcher": "sean manaea",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "18": {
@@ -1038,11 +1038,17 @@
     }
   },
   "kc @ chw": {
+    "6": {
+      "player": "kyle teel",
+      "pitcher": "michael lorenzen",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "miguel vargas",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "4": {
       "player": "mike tauchman",
@@ -1073,7 +1079,7 @@
     "6": {
       "player": "christian yelich",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Cutter"
     },
     "5": {
@@ -1111,8 +1117,8 @@
     "4": {
       "player": "oneil cruz",
       "pitcher": "andre pallante",
-      "result": "Ball In Dirt",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "3": {
       "player": "bryan reynolds",
