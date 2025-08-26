@@ -3,7 +3,7 @@
     "46": {
       "player": "masataka yoshida",
       "pitcher": "tomoyuki sugano",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "45": {
@@ -278,12 +278,6 @@
     }
   },
   "tb @ cle": {
-    "44": {
-      "player": "bob seymour",
-      "pitcher": "tanner bibee",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
     "43": {
       "player": "carson williams",
       "pitcher": "tanner bibee",
@@ -544,11 +538,17 @@
     }
   },
   "atl @ mia": {
+    "42": {
+      "player": "jakob marsee",
+      "pitcher": "spencer strider",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "41": {
       "player": "xavier edwards",
       "pitcher": "spencer strider",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "40": {
       "player": "maximo acosta",
@@ -795,8 +795,8 @@
     "25": {
       "player": "cj abrams",
       "pitcher": "cam schlittler",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "24": {
       "player": "jazz chisholm",
@@ -1108,6 +1108,12 @@
     }
   },
   "phi @ nym": {
+    "24": {
+      "player": "jeff mcneil",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "max kepler",
       "pitcher": "kodai senga",
@@ -1316,6 +1322,12 @@
     }
   },
   "ari @ mil": {
+    "11": {
+      "player": "blaze alexander",
+      "pitcher": "brandon woodruff",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "adrian del castillo",
       "pitcher": "brandon woodruff",
