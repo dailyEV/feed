@@ -1,16 +1,10 @@
 {
   "bos @ bal": {
-    "23": {
-      "player": "trevor story",
-      "pitcher": "kyle bradish",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "22": {
       "player": "jarren duran",
       "pitcher": "kyle bradish",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "jackson holliday",
@@ -140,6 +134,12 @@
     }
   },
   "tb @ cle": {
+    "21": {
+      "player": "jose ramirez",
+      "pitcher": "shane baz",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "20": {
       "player": "nick fortes",
       "pitcher": "parker messick",
@@ -265,8 +265,8 @@
     "21": {
       "player": "ronald acuna",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "matt olson",
