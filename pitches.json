@@ -1,5 +1,17 @@
 {
   "bos @ bal": {
+    "37": {
+      "player": "alex bregman",
+      "pitcher": "kyle bradish",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
+    "36": {
+      "player": "roman anthony",
+      "pitcher": "kyle bradish",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "vimael machin",
       "pitcher": "lucas giolito",
@@ -212,12 +224,6 @@
     }
   },
   "tb @ cle": {
-    "34": {
-      "player": "angel martinez",
-      "pitcher": "shane baz",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "33": {
       "player": "josh lowe",
       "pitcher": "parker messick",
@@ -421,7 +427,7 @@
     "34": {
       "player": "javier sanoja",
       "pitcher": "hurston waldrep",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "33": {
@@ -743,8 +749,8 @@
     "23": {
       "player": "brooks lee",
       "pitcher": "chris bassitt",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "trevor larnach",
@@ -883,8 +889,8 @@
     "18": {
       "player": "weston wilson",
       "pitcher": "sean manaea",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "17": {
       "player": "edmundo sosa",
@@ -993,8 +999,8 @@
     "4": {
       "player": "mike tauchman",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "3": {
       "player": "vinnie pasquantino",
@@ -1016,11 +1022,17 @@
     }
   },
   "ari @ mil": {
+    "5": {
+      "player": "william contreras",
+      "pitcher": "brandon pfaadt",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "brice turang",
       "pitcher": "brandon pfaadt",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "3": {
       "player": "corbin carroll",
@@ -1042,6 +1054,12 @@
     }
   },
   "pit @ stl": {
+    "3": {
+      "player": "bryan reynolds",
+      "pitcher": "andre pallante",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "spencer horwitz",
       "pitcher": "andre pallante",
