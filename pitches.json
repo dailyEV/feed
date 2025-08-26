@@ -1,9 +1,15 @@
 {
   "bos @ bal": {
+    "35": {
+      "player": "vimael machin",
+      "pitcher": "lucas giolito",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "34": {
       "player": "dylan beavers",
       "pitcher": "lucas giolito",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -206,6 +212,12 @@
     }
   },
   "tb @ cle": {
+    "33": {
+      "player": "josh lowe",
+      "pitcher": "parker messick",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "christopher morel",
       "pitcher": "parker messick",
@@ -597,8 +609,8 @@
     "17": {
       "player": "jacob young",
       "pitcher": "luis gil",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "16": {
       "player": "robert hassell",
@@ -701,8 +713,8 @@
     "20": {
       "player": "vladimir guerrero",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "19": {
       "player": "nathan lukes",
@@ -921,11 +933,17 @@
     "1": {
       "player": "maikel garcia",
       "pitcher": "martin perez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     }
   },
   "ari @ mil": {
+    "2": {
+      "player": "ketel marte",
+      "pitcher": "jacob misiorowski",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "geraldo perdomo",
       "pitcher": "jacob misiorowski",
