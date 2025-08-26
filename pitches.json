@@ -3053,8 +3053,8 @@
     "68": {
       "player": "blake perkins",
       "pitcher": "bryce jarvis",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "67": {
       "player": "isaac collins",
@@ -3463,7 +3463,7 @@
     "66": {
       "player": "andrew mccutchen",
       "pitcher": "riley obrien",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "65": {
@@ -4296,11 +4296,17 @@
     }
   },
   "cin @ lad": {
+    "2": {
+      "player": "noelvi marte",
+      "pitcher": "emmet sheehan",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "tj friedl",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     }
   }
 }
