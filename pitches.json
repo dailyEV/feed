@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "34": {
+      "player": "dylan beavers",
+      "pitcher": "lucas giolito",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "coby mayo",
       "pitcher": "lucas giolito",
@@ -665,8 +671,8 @@
     "18": {
       "player": "george springer",
       "pitcher": "bailey ober",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "andres gimenez",
@@ -863,7 +869,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "kc @ chw": {},
+  "kc @ chw": {
+    "1": {
+      "player": "maikel garcia",
+      "pitcher": "martin perez",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    }
+  },
   "ari @ mil": {
     "1": {
       "player": "geraldo perdomo",
