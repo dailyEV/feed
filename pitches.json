@@ -975,8 +975,8 @@
     "42": {
       "player": "jazz chisholm",
       "pitcher": "brad lord",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "cody bellinger",
@@ -1226,12 +1226,6 @@
     }
   },
   "min @ tor": {
-    "38": {
-      "player": "vladimir guerrero",
-      "pitcher": "joe ryan",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "37": {
       "player": "edouard julien",
       "pitcher": "max scherzer",
@@ -1853,7 +1847,7 @@
     "22": {
       "player": "william contreras",
       "pitcher": "eduardo rodriguez",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "21": {
@@ -1984,6 +1978,12 @@
     }
   },
   "pit @ stl": {
+    "22": {
+      "player": "bryan reynolds",
+      "pitcher": "michael mcgreevy",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "nick gonzales",
       "pitcher": "michael mcgreevy",
