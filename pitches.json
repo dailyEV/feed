@@ -1607,7 +1607,7 @@
     "63": {
       "player": "byron buxton",
       "pitcher": "justin bruihl",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "62": {
@@ -1987,7 +1987,7 @@
     "55": {
       "player": "francisco lindor",
       "pitcher": "david robertson",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Cutter"
     },
     "54": {
@@ -2316,6 +2316,12 @@
     }
   },
   "kc @ chw": {
+    "55": {
+      "player": "luis robert",
+      "pitcher": "daniel lynch",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "54": {
       "player": "lenyn sosa",
       "pitcher": "daniel lynch",
@@ -2642,12 +2648,6 @@
     }
   },
   "ari @ mil": {
-    "47": {
-      "player": "pavin smith",
-      "pitcher": "brandon woodruff",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "46": {
       "player": "lourdes gurriel",
       "pitcher": "brandon woodruff",
@@ -2929,8 +2929,8 @@
     "45": {
       "player": "thomas saggese",
       "pitcher": "colin holderman",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "44": {
       "player": "nolan gorman",
