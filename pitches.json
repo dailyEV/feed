@@ -4,7 +4,7 @@
       "player": "alex bregman",
       "pitcher": "kyle bradish",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "16": {
       "player": "roman anthony",
@@ -199,7 +199,7 @@
     "14": {
       "player": "sean murphy",
       "pitcher": "sandy alcantara",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "13": {
@@ -281,8 +281,22 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "wsh @ nyy": {},
-  "min @ tor": {},
+  "wsh @ nyy": {
+    "1": {
+      "player": "james wood",
+      "pitcher": "luis gil",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
+  "min @ tor": {
+    "1": {
+      "player": "trevor larnach",
+      "pitcher": "chris bassitt",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  },
   "phi @ nym": {},
   "kc @ chw": {},
   "ari @ mil": {},
