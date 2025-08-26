@@ -437,8 +437,8 @@
     "67": {
       "player": "steven kwan",
       "pitcher": "mason englert",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "66": {
       "player": "nolan jones",
@@ -1221,8 +1221,8 @@
     "68": {
       "player": "ben rice",
       "pitcher": "pj poulin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Sweeper"
     },
     "67": {
       "player": "trent grisham",
@@ -2014,6 +2014,12 @@
     }
   },
   "phi @ nym": {
+    "58": {
+      "player": "pete alonso",
+      "pitcher": "david robertson",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "57": {
       "player": "starling marte",
       "pitcher": "david robertson",
@@ -2358,10 +2364,16 @@
     }
   },
   "kc @ chw": {
+    "57": {
+      "player": "jonathan india",
+      "pitcher": "tyler gilbert",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "56": {
       "player": "adam frazier",
       "pitcher": "tyler gilbert",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -3264,6 +3276,12 @@
     }
   },
   "laa @ tex": {
+    "35": {
+      "player": "rowdy tellez",
+      "pitcher": "jose soriano",
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
+    },
     "34": {
       "player": "adolis garcia",
       "pitcher": "jose soriano",
