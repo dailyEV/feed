@@ -1,10 +1,16 @@
 {
   "bos @ bal": {
+    "41": {
+      "player": "jeremiah jackson",
+      "pitcher": "lucas giolito",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "40": {
       "player": "jackson holliday",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "39": {
       "player": "alex jackson",
@@ -705,8 +711,8 @@
     "22": {
       "player": "anthony volpe",
       "pitcher": "mackenzie gore",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "21": {
       "player": "josh bell",
@@ -988,12 +994,6 @@
     }
   },
   "phi @ nym": {
-    "21": {
-      "player": "francisco lindor",
-      "pitcher": "jesus luzardo",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "20": {
       "player": "kyle schwarber",
       "pitcher": "sean manaea",
@@ -1157,8 +1157,8 @@
     "8": {
       "player": "sal frelick",
       "pitcher": "brandon pfaadt",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "andrew vaughn",
