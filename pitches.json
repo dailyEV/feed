@@ -3044,12 +3044,6 @@
     }
   },
   "ari @ mil": {
-    "68": {
-      "player": "blake perkins",
-      "pitcher": "bryce jarvis",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "67": {
       "player": "isaac collins",
       "pitcher": "bryce jarvis",
@@ -4172,6 +4166,12 @@
     }
   },
   "sd @ sea": {
+    "15": {
+      "player": "luis arraez",
+      "pitcher": "bryce miller",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "14": {
       "player": "fernando tatis",
       "pitcher": "bryce miller",
@@ -4258,6 +4258,12 @@
     }
   },
   "det @ ath": {
+    "4": {
+      "player": "riley greene",
+      "pitcher": "jt ginn",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "3": {
       "player": "kerry carpenter",
       "pitcher": "jt ginn",
@@ -4281,8 +4287,8 @@
     "1": {
       "player": "tj friedl",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     }
   }
 }
