@@ -170,11 +170,17 @@
     }
   },
   "tb @ cle": {
+    "25": {
+      "player": "junior caminero",
+      "pitcher": "parker messick",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "chandler simpson",
       "pitcher": "parker messick",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "23": {
       "player": "david fry",
@@ -316,12 +322,6 @@
     }
   },
   "atl @ mia": {
-    "27": {
-      "player": "marcell ozuna",
-      "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "26": {
       "player": "michael harris",
       "pitcher": "sandy alcantara",
@@ -483,8 +483,8 @@
     "10": {
       "player": "riley adams",
       "pitcher": "luis gil",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "josh bell",
@@ -616,6 +616,12 @@
     }
   },
   "phi @ nym": {
+    "10": {
+      "player": "brandon nimmo",
+      "pitcher": "jesus luzardo",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "9": {
       "player": "mark vientos",
       "pitcher": "jesus luzardo",
