@@ -819,8 +819,8 @@
     "27": {
       "player": "josh bell",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "luis garcia",
@@ -983,8 +983,8 @@
     "29": {
       "player": "ryan jeffers",
       "pitcher": "max scherzer",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "matt wallner",
@@ -1314,11 +1314,17 @@
     }
   },
   "kc @ chw": {
+    "13": {
+      "player": "adam frazier",
+      "pitcher": "shane smith",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "salvador perez",
       "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "11": {
       "player": "maikel garcia",
