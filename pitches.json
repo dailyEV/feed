@@ -3,7 +3,7 @@
     "67": {
       "player": "ceddanne rafaela",
       "pitcher": "corbin martin",
-      "result": "Ball In Dirt",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -709,8 +709,8 @@
     "60": {
       "player": "michael harris",
       "pitcher": "calvin faucher",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "59": {
       "player": "jakob marsee",
@@ -1071,13 +1071,13 @@
     "50": {
       "player": "jose caballero",
       "pitcher": "jackson rutledge",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "49": {
       "player": "ryan mcmahon",
       "pitcher": "jackson rutledge",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "48": {
@@ -1908,6 +1908,12 @@
     }
   },
   "kc @ chw": {
+    "39": {
+      "player": "lenyn sosa",
+      "pitcher": "noah cameron",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "38": {
       "player": "edgar quero",
       "pitcher": "noah cameron",
