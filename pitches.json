@@ -1083,7 +1083,7 @@
     "51": {
       "player": "trent grisham",
       "pitcher": "jackson rutledge",
-      "result": "Ball In Dirt",
+      "result": "Hit By Pitch",
       "pitch": "Slider"
     },
     "50": {
@@ -1391,8 +1391,8 @@
     "48": {
       "player": "ernie clement",
       "pitcher": "brooks kriske",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "47": {
       "player": "alejandro kirk",
@@ -1678,6 +1678,12 @@
     }
   },
   "phi @ nym": {
+    "43": {
+      "player": "francisco lindor",
+      "pitcher": "cristopher sanchez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "42": {
       "player": "brandon marsh",
       "pitcher": "jose castillo",
@@ -2547,8 +2553,8 @@
     "20": {
       "player": "yoan moncada",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "alejandro osuna",
