@@ -3,7 +3,7 @@
     "63": {
       "player": "ryan mountcastle",
       "pitcher": "garrett whitlock",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "62": {
@@ -1035,7 +1035,7 @@
     "46": {
       "player": "cj abrams",
       "pitcher": "cam schlittler",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -1313,7 +1313,7 @@
     "43": {
       "player": "trevor larnach",
       "pitcher": "max scherzer",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -1821,7 +1821,7 @@
     "34": {
       "player": "adam frazier",
       "pitcher": "shane smith",
-      "result": "Foul Tip",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -2024,6 +2024,12 @@
     }
   },
   "ari @ mil": {
+    "27": {
+      "player": "isaac collins",
+      "pitcher": "bryce jarvis",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "caleb durbin",
       "pitcher": "bryce jarvis",
