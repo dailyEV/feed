@@ -419,7 +419,7 @@
     "50": {
       "player": "brandon lowe",
       "pitcher": "tim herrin",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "49": {
@@ -1095,7 +1095,7 @@
     "52": {
       "player": "ben rice",
       "pitcher": "jackson rutledge",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "51": {
@@ -1409,7 +1409,7 @@
     "49": {
       "player": "ty france",
       "pitcher": "brooks kriske",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "48": {
@@ -2213,8 +2213,8 @@
     "32": {
       "player": "andruw monasterio",
       "pitcher": "bryce jarvis",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "31": {
       "player": "blake perkins",
@@ -2610,6 +2610,12 @@
     }
   },
   "laa @ tex": {
+    "22": {
+      "player": "jo adell",
+      "pitcher": "jacob degrom",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "taylor ward",
       "pitcher": "jacob degrom",
