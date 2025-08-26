@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "62": {
+      "player": "gunnar henderson",
+      "pitcher": "garrett whitlock",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "61": {
       "player": "nathaniel lowe",
       "pitcher": "grant wolfram",
@@ -673,7 +679,7 @@
     "56": {
       "player": "joey wiemer",
       "pitcher": "pierce johnson",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "55": {
@@ -1274,6 +1280,12 @@
     }
   },
   "min @ tor": {
+    "42": {
+      "player": "byron buxton",
+      "pitcher": "max scherzer",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "james outman",
       "pitcher": "max scherzer",
@@ -1764,6 +1776,12 @@
     }
   },
   "kc @ chw": {
+    "33": {
+      "player": "chase meidroth",
+      "pitcher": "noah cameron",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "32": {
       "player": "brooks baldwin",
       "pitcher": "noah cameron",
@@ -2110,10 +2128,16 @@
     }
   },
   "pit @ stl": {
+    "27": {
+      "player": "alec burleson",
+      "pitcher": "johan oviedo",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "26": {
       "player": "masyn winn",
       "pitcher": "johan oviedo",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "25": {
@@ -2268,6 +2292,12 @@
     }
   },
   "laa @ tex": {
+    "14": {
+      "player": "niko kavadas",
+      "pitcher": "jacob degrom",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "13": {
       "player": "rowdy tellez",
       "pitcher": "jose soriano",
