@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "60": {
+      "player": "trevor story",
+      "pitcher": "grant wolfram",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "jarren duran",
       "pitcher": "grant wolfram",
@@ -661,8 +667,8 @@
     "54": {
       "player": "matt olson",
       "pitcher": "josh simpson",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
     },
     "53": {
       "player": "jurickson profar",
@@ -1241,8 +1247,8 @@
     "39": {
       "player": "bo bichette",
       "pitcher": "joe ryan",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "38": {
       "player": "vladimir guerrero",
@@ -2020,6 +2026,12 @@
     }
   },
   "pit @ stl": {
+    "25": {
+      "player": "jared triolo",
+      "pitcher": "michael mcgreevy",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "tommy pham",
       "pitcher": "michael mcgreevy",
@@ -2166,6 +2178,12 @@
     }
   },
   "laa @ tex": {
+    "12": {
+      "player": "adolis garcia",
+      "pitcher": "jose soriano",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "joc pederson",
       "pitcher": "jose soriano",
