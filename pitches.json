@@ -616,6 +616,12 @@
     }
   },
   "atl @ mia": {
+    "49": {
+      "player": "eric wagaman",
+      "pitcher": "spencer strider",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "otto lopez",
       "pitcher": "spencer strider",
@@ -909,8 +915,8 @@
     "34": {
       "player": "dylan crews",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "paul dejong",
@@ -1115,8 +1121,8 @@
     "34": {
       "player": "nathan lukes",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "33": {
       "player": "george springer",
@@ -1506,10 +1512,16 @@
     }
   },
   "kc @ chw": {
+    "21": {
+      "player": "bobby witt",
+      "pitcher": "shane smith",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "mike yastrzemski",
       "pitcher": "shane smith",
-      "result": "Ball In Dirt",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "19": {
@@ -1732,6 +1744,12 @@
     }
   },
   "pit @ stl": {
+    "15": {
+      "player": "thomas saggese",
+      "pitcher": "johan oviedo",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "nolan gorman",
       "pitcher": "johan oviedo",
