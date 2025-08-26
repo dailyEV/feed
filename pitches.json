@@ -233,8 +233,8 @@
     "35": {
       "player": "steven kwan",
       "pitcher": "shane baz",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "34": {
       "player": "angel martinez",
@@ -657,8 +657,8 @@
     "20": {
       "player": "luis garcia",
       "pitcher": "luis gil",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "19": {
       "player": "cj abrams",
@@ -780,7 +780,7 @@
       "player": "brooks lee",
       "pitcher": "chris bassitt",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "trevor larnach",
@@ -919,7 +919,7 @@
     "18": {
       "player": "weston wilson",
       "pitcher": "sean manaea",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "17": {
@@ -1084,6 +1084,12 @@
     }
   },
   "pit @ stl": {
+    "4": {
+      "player": "oneil cruz",
+      "pitcher": "andre pallante",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    },
     "3": {
       "player": "bryan reynolds",
       "pitcher": "andre pallante",
