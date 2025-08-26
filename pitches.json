@@ -437,8 +437,8 @@
     "54": {
       "player": "hunter feduccia",
       "pitcher": "tim herrin",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "53": {
       "player": "jake mangum",
@@ -1472,10 +1472,16 @@
     }
   },
   "min @ tor": {
+    "54": {
+      "player": "bo bichette",
+      "pitcher": "brooks kriske",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "53": {
       "player": "vladimir guerrero",
       "pitcher": "brooks kriske",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -1795,7 +1801,7 @@
     "47": {
       "player": "mark vientos",
       "pitcher": "cristopher sanchez",
-      "result": "Ball In Dirt",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "46": {
@@ -2336,6 +2342,12 @@
     }
   },
   "ari @ mil": {
+    "36": {
+      "player": "gabriel moreno",
+      "pitcher": "brandon woodruff",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "christian yelich",
       "pitcher": "bryce jarvis",
