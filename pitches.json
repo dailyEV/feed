@@ -1,9 +1,15 @@
 {
   "bos @ bal": {
+    "50": {
+      "player": "colton cowser",
+      "pitcher": "steven matz",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "coby mayo",
       "pitcher": "steven matz",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "48": {
@@ -589,8 +595,8 @@
     "46": {
       "player": "agustin ramirez",
       "pitcher": "spencer strider",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "45": {
       "player": "ozzie albies",
@@ -864,6 +870,12 @@
     }
   },
   "wsh @ nyy": {
+    "32": {
+      "player": "ryan mcmahon",
+      "pitcher": "brad lord",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "31": {
       "player": "jasson dominguez",
       "pitcher": "brad lord",
@@ -1695,8 +1707,8 @@
     "3": {
       "player": "taylor ward",
       "pitcher": "jacob degrom",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "2": {
       "player": "yoan moncada",
