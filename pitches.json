@@ -715,8 +715,8 @@
     "61": {
       "player": "marcell ozuna",
       "pitcher": "calvin faucher",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "60": {
       "player": "michael harris",
@@ -1083,8 +1083,8 @@
     "51": {
       "player": "trent grisham",
       "pitcher": "jackson rutledge",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "50": {
       "player": "jose caballero",
@@ -2350,6 +2350,12 @@
     }
   },
   "pit @ stl": {
+    "32": {
+      "player": "nolan gorman",
+      "pitcher": "johan oviedo",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "31": {
       "player": "liover peguero",
       "pitcher": "michael mcgreevy",
