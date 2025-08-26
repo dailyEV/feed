@@ -3,8 +3,8 @@
     "40": {
       "player": "jackson holliday",
       "pitcher": "lucas giolito",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "alex jackson",
@@ -246,7 +246,7 @@
       "player": "chandler simpson",
       "pitcher": "parker messick",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "38": {
       "player": "nick fortes",
@@ -1157,8 +1157,8 @@
     "8": {
       "player": "sal frelick",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "andrew vaughn",
@@ -1204,10 +1204,16 @@
     }
   },
   "pit @ stl": {
+    "7": {
+      "player": "henry davis",
+      "pitcher": "andre pallante",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "jack suwinski",
       "pitcher": "andre pallante",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "5": {
