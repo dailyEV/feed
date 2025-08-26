@@ -416,6 +416,12 @@
     }
   },
   "tb @ cle": {
+    "52": {
+      "player": "josh lowe",
+      "pitcher": "tim herrin",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "51": {
       "player": "junior caminero",
       "pitcher": "tim herrin",
@@ -1735,8 +1741,8 @@
     "45": {
       "player": "starling marte",
       "pitcher": "cristopher sanchez",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "44": {
       "player": "juan soto",
@@ -2258,6 +2264,18 @@
     }
   },
   "ari @ mil": {
+    "35": {
+      "player": "christian yelich",
+      "pitcher": "bryce jarvis",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
+    "34": {
+      "player": "william contreras",
+      "pitcher": "bryce jarvis",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "brice turang",
       "pitcher": "bryce jarvis",
@@ -2458,11 +2476,17 @@
     }
   },
   "pit @ stl": {
+    "36": {
+      "player": "nick gonzales",
+      "pitcher": "michael mcgreevy",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "35": {
       "player": "ronny simon",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "jordan walker",
@@ -2670,6 +2694,12 @@
     }
   },
   "laa @ tex": {
+    "24": {
+      "player": "travis darnaud",
+      "pitcher": "jacob degrom",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "luis rengifo",
       "pitcher": "jacob degrom",
