@@ -3,8 +3,8 @@
     "25": {
       "player": "masataka yoshida",
       "pitcher": "kyle bradish",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "24": {
       "player": "nathaniel lowe",
@@ -152,10 +152,16 @@
     }
   },
   "tb @ cle": {
+    "23": {
+      "player": "david fry",
+      "pitcher": "shane baz",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "22": {
       "player": "kyle manzardo",
       "pitcher": "shane baz",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Knuckle Curve"
     },
     "21": {
@@ -286,6 +292,12 @@
     }
   },
   "atl @ mia": {
+    "23": {
+      "player": "jakob marsee",
+      "pitcher": "hurston waldrep",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "22": {
       "player": "xavier edwards",
       "pitcher": "hurston waldrep",
@@ -461,7 +473,7 @@
     "7": {
       "player": "nathan lukes",
       "pitcher": "bailey ober",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "6": {
