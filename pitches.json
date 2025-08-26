@@ -631,7 +631,7 @@
     "50": {
       "player": "troy johnston",
       "pitcher": "spencer strider",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -1148,12 +1148,6 @@
     }
   },
   "min @ tor": {
-    "35": {
-      "player": "kody clemens",
-      "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "34": {
       "player": "nathan lukes",
       "pitcher": "joe ryan",
@@ -1363,7 +1357,7 @@
     "33": {
       "player": "starling marte",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "32": {
@@ -1563,8 +1557,8 @@
     "23": {
       "player": "edgar quero",
       "pitcher": "noah cameron",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "22": {
       "player": "miguel vargas",
@@ -1700,6 +1694,12 @@
     }
   },
   "ari @ mil": {
+    "20": {
+      "player": "andruw monasterio",
+      "pitcher": "eduardo rodriguez",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "19": {
       "player": "blake perkins",
       "pitcher": "eduardo rodriguez",
@@ -1816,6 +1816,12 @@
     }
   },
   "pit @ stl": {
+    "17": {
+      "player": "pedro pages",
+      "pitcher": "johan oviedo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "jordan walker",
       "pitcher": "johan oviedo",
