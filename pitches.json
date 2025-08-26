@@ -2179,8 +2179,8 @@
     "81": {
       "player": "harrison bader",
       "pitcher": "ryne stanek",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "80": {
       "player": "max kepler",
@@ -3062,11 +3062,17 @@
     }
   },
   "ari @ mil": {
+    "71": {
+      "player": "blaze alexander",
+      "pitcher": "abner uribe",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "70": {
       "player": "adrian del castillo",
       "pitcher": "abner uribe",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "69": {
       "player": "andruw monasterio",
@@ -3487,8 +3493,8 @@
     "68": {
       "player": "jordan walker",
       "pitcher": "yohan ramirez",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "thomas saggese",
@@ -4336,12 +4342,6 @@
     }
   },
   "det @ ath": {
-    "7": {
-      "player": "jacob wilson",
-      "pitcher": "tarik skubal",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
     "6": {
       "player": "shea langeliers",
       "pitcher": "tarik skubal",
