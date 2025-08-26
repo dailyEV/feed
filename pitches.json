@@ -2179,7 +2179,7 @@
     "81": {
       "player": "harrison bader",
       "pitcher": "ryne stanek",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "80": {
@@ -3065,8 +3065,8 @@
     "71": {
       "player": "blaze alexander",
       "pitcher": "abner uribe",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "70": {
       "player": "adrian del castillo",
@@ -3493,7 +3493,7 @@
     "69": {
       "player": "pedro pages",
       "pitcher": "yohan ramirez",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "68": {
@@ -3906,11 +3906,17 @@
     }
   },
   "laa @ tex": {
+    "56": {
+      "player": "jo adell",
+      "pitcher": "jacob webb",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "taylor ward",
       "pitcher": "jacob webb",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "josh jung",
@@ -4358,7 +4364,7 @@
       "player": "brent rooker",
       "pitcher": "tarik skubal",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "7": {
       "player": "jacob wilson",
