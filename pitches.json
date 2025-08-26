@@ -437,7 +437,7 @@
     "70": {
       "player": "jake mangum",
       "pitcher": "austin hedges",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "69": {
@@ -1239,8 +1239,8 @@
     "70": {
       "player": "amed rosario",
       "pitcher": "pj poulin",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "69": {
       "player": "aaron judge",
@@ -2059,8 +2059,8 @@
     "61": {
       "player": "bryce harper",
       "pitcher": "brooks raley",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "kyle schwarber",
@@ -2783,8 +2783,8 @@
     "50": {
       "player": "isaac collins",
       "pitcher": "bryce jarvis",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "adrian del castillo",
@@ -3082,6 +3082,12 @@
     }
   },
   "pit @ stl": {
+    "50": {
+      "player": "pedro pages",
+      "pitcher": "colin holderman",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "jared triolo",
       "pitcher": "michael mcgreevy",
