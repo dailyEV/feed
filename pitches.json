@@ -4394,11 +4394,17 @@
     }
   },
   "sd @ sea": {
+    "50": {
+      "player": "xander bogaerts",
+      "pitcher": "caleb ferguson",
+      "result": "Ball",
+      "pitch": "Slurve"
+    },
     "49": {
       "player": "ryan ohearn",
       "pitcher": "caleb ferguson",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "48": {
       "player": "victor robles",
@@ -4932,12 +4938,6 @@
     }
   },
   "cin @ lad": {
-    "35": {
-      "player": "andy pages",
-      "pitcher": "hunter greene",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
-    },
     "34": {
       "player": "michael conforto",
       "pitcher": "hunter greene",
