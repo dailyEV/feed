@@ -1151,8 +1151,8 @@
     "35": {
       "player": "kody clemens",
       "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "nathan lukes",
@@ -1360,6 +1360,12 @@
     }
   },
   "phi @ nym": {
+    "35": {
+      "player": "mark vientos",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "34": {
       "player": "pete alonso",
       "pitcher": "cristopher sanchez",
@@ -1566,11 +1572,17 @@
     }
   },
   "kc @ chw": {
+    "24": {
+      "player": "lenyn sosa",
+      "pitcher": "noah cameron",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "23": {
       "player": "edgar quero",
       "pitcher": "noah cameron",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "22": {
       "player": "miguel vargas",
@@ -1709,7 +1721,7 @@
     "20": {
       "player": "andruw monasterio",
       "pitcher": "eduardo rodriguez",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "Cutter"
     },
     "19": {
@@ -1831,8 +1843,8 @@
     "17": {
       "player": "pedro pages",
       "pitcher": "johan oviedo",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "jordan walker",
