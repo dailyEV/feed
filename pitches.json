@@ -437,7 +437,7 @@
     "72": {
       "player": "carson williams",
       "pitcher": "austin hedges",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "71": {
@@ -1251,7 +1251,7 @@
     "71": {
       "player": "luis garcia",
       "pitcher": "yerry de los santos",
-      "result": "In play, no out",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "70": {
@@ -2463,8 +2463,8 @@
     "61": {
       "player": "korey lee",
       "pitcher": "sam long",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "60": {
       "player": "michael a taylor",
@@ -2828,11 +2828,17 @@
     }
   },
   "ari @ mil": {
+    "52": {
+      "player": "andruw monasterio",
+      "pitcher": "bryce jarvis",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "blake perkins",
       "pitcher": "bryce jarvis",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "50": {
       "player": "isaac collins",
