@@ -248,12 +248,6 @@
     }
   },
   "tb @ cle": {
-    "40": {
-      "player": "junior caminero",
-      "pitcher": "parker messick",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "39": {
       "player": "chandler simpson",
       "pitcher": "parker messick",
@@ -493,8 +487,8 @@
     "38": {
       "player": "jurickson profar",
       "pitcher": "sandy alcantara",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "37": {
       "player": "nick allen",
@@ -860,10 +854,16 @@
     }
   },
   "min @ tor": {
+    "26": {
+      "player": "alejandro kirk",
+      "pitcher": "bailey ober",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "25": {
       "player": "addison barger",
       "pitcher": "bailey ober",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -1150,7 +1150,7 @@
       "player": "randal grichuk",
       "pitcher": "martin perez",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Curveball"
     },
     "7": {
       "player": "salvador perez",
@@ -1249,8 +1249,8 @@
     "7": {
       "player": "henry davis",
       "pitcher": "andre pallante",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "6": {
       "player": "jack suwinski",
