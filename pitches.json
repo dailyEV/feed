@@ -431,7 +431,7 @@
     "54": {
       "player": "hunter feduccia",
       "pitcher": "tim herrin",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -1469,8 +1469,8 @@
     "53": {
       "player": "vladimir guerrero",
       "pitcher": "brooks kriske",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
     },
     "52": {
       "player": "nathan lukes",
@@ -1786,10 +1786,16 @@
     }
   },
   "phi @ nym": {
+    "47": {
+      "player": "mark vientos",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "46": {
       "player": "pete alonso",
       "pitcher": "cristopher sanchez",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "45": {
@@ -2539,8 +2545,8 @@
     "37": {
       "player": "bryan reynolds",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "36": {
       "player": "nick gonzales",
@@ -2763,8 +2769,8 @@
     "25": {
       "player": "logan ohoppe",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "travis darnaud",
