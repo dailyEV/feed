@@ -3,8 +3,8 @@
     "20": {
       "player": "alex jackson",
       "pitcher": "lucas giolito",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "vimael machin",
@@ -357,7 +357,7 @@
     "4": {
       "player": "josh bell",
       "pitcher": "luis gil",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "3": {
@@ -406,10 +406,16 @@
     }
   },
   "phi @ nym": {
+    "3": {
+      "player": "bryce harper",
+      "pitcher": "sean manaea",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "2": {
       "player": "kyle schwarber",
       "pitcher": "sean manaea",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "1": {
