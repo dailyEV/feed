@@ -3,7 +3,7 @@
     "53": {
       "player": "roman anthony",
       "pitcher": "grant wolfram",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "52": {
@@ -625,7 +625,7 @@
     "49": {
       "player": "eric wagaman",
       "pitcher": "spencer strider",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "48": {
@@ -921,7 +921,7 @@
     "35": {
       "player": "robert hassell",
       "pitcher": "cam schlittler",
-      "result": "Foul Tip",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -1336,6 +1336,12 @@
     }
   },
   "phi @ nym": {
+    "32": {
+      "player": "juan soto",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "31": {
       "player": "bryce harper",
       "pitcher": "kodai senga",
@@ -1524,6 +1530,12 @@
     }
   },
   "kc @ chw": {
+    "22": {
+      "player": "miguel vargas",
+      "pitcher": "noah cameron",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "bobby witt",
       "pitcher": "shane smith",
@@ -1765,8 +1777,8 @@
     "15": {
       "player": "thomas saggese",
       "pitcher": "johan oviedo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "14": {
       "player": "nolan gorman",
