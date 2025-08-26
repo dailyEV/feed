@@ -3,8 +3,8 @@
     "66": {
       "player": "masataka yoshida",
       "pitcher": "corbin martin",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "65": {
       "player": "colton cowser",
@@ -1059,7 +1059,7 @@
     "49": {
       "player": "ryan mcmahon",
       "pitcher": "jackson rutledge",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "48": {
@@ -2102,10 +2102,16 @@
     }
   },
   "ari @ mil": {
+    "30": {
+      "player": "pavin smith",
+      "pitcher": "brandon woodruff",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "29": {
       "player": "lourdes gurriel",
       "pitcher": "brandon woodruff",
-      "result": "Foul Tip",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "28": {
