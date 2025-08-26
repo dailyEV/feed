@@ -649,8 +649,8 @@
     "52": {
       "player": "vidal brujan",
       "pitcher": "tyler zuber",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "51": {
       "player": "nacho alvarez",
@@ -963,8 +963,8 @@
     "40": {
       "player": "aaron judge",
       "pitcher": "brad lord",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "39": {
       "player": "ben rice",
@@ -1205,7 +1205,7 @@
     "37": {
       "player": "edouard julien",
       "pitcher": "max scherzer",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "36": {
@@ -1426,6 +1426,12 @@
     }
   },
   "phi @ nym": {
+    "37": {
+      "player": "tyrone taylor",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "brandon nimmo",
       "pitcher": "cristopher sanchez",
@@ -1647,8 +1653,8 @@
     "25": {
       "player": "vinnie pasquantino",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "24": {
       "player": "lenyn sosa",
@@ -1924,6 +1930,12 @@
     }
   },
   "pit @ stl": {
+    "20": {
+      "player": "ronny simon",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "19": {
       "player": "lars nootbaar",
       "pitcher": "johan oviedo",
@@ -2044,7 +2056,7 @@
       "player": "logan ohoppe",
       "pitcher": "jacob degrom",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Slider"
     },
     "9": {
       "player": "travis darnaud",
