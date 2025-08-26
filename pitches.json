@@ -484,11 +484,17 @@
     }
   },
   "atl @ mia": {
+    "38": {
+      "player": "jurickson profar",
+      "pitcher": "sandy alcantara",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "37": {
       "player": "nick allen",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "36": {
       "player": "sean murphy",
@@ -994,6 +1000,12 @@
     }
   },
   "phi @ nym": {
+    "21": {
+      "player": "francisco lindor",
+      "pitcher": "jesus luzardo",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "kyle schwarber",
       "pitcher": "sean manaea",
@@ -1157,8 +1169,8 @@
     "8": {
       "player": "sal frelick",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "andrew vaughn",
@@ -1207,7 +1219,7 @@
     "7": {
       "player": "henry davis",
       "pitcher": "andre pallante",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "6": {
