@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "22": {
+      "player": "jarren duran",
+      "pitcher": "kyle bradish",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "jackson holliday",
       "pitcher": "lucas giolito",
@@ -250,11 +256,17 @@
     }
   },
   "atl @ mia": {
+    "20": {
+      "player": "matt olson",
+      "pitcher": "sandy alcantara",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "19": {
       "player": "jurickson profar",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "javier sanoja",
@@ -395,8 +407,8 @@
     "5": {
       "player": "edouard julien",
       "pitcher": "chris bassitt",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "4": {
       "player": "matt wallner",
