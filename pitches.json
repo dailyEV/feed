@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "63": {
+      "player": "ryan mountcastle",
+      "pitcher": "garrett whitlock",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "62": {
       "player": "gunnar henderson",
       "pitcher": "garrett whitlock",
@@ -680,7 +686,7 @@
       "player": "xavier edwards",
       "pitcher": "pierce johnson",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Cutter"
     },
     "57": {
       "player": "maximo acosta",
@@ -1029,7 +1035,7 @@
     "46": {
       "player": "cj abrams",
       "pitcher": "cam schlittler",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -1307,7 +1313,7 @@
     "43": {
       "player": "trevor larnach",
       "pitcher": "max scherzer",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -1815,8 +1821,8 @@
     "34": {
       "player": "adam frazier",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "chase meidroth",
@@ -2346,6 +2352,12 @@
     }
   },
   "laa @ tex": {
+    "16": {
+      "player": "zach neto",
+      "pitcher": "jacob degrom",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "bryce teodosio",
       "pitcher": "jacob degrom",
