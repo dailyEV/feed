@@ -1684,12 +1684,6 @@
     }
   },
   "phi @ nym": {
-    "43": {
-      "player": "francisco lindor",
-      "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "42": {
       "player": "brandon marsh",
       "pitcher": "jose castillo",
@@ -2362,11 +2356,17 @@
     }
   },
   "pit @ stl": {
+    "33": {
+      "player": "thomas saggese",
+      "pitcher": "johan oviedo",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "32": {
       "player": "nolan gorman",
       "pitcher": "johan oviedo",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "31": {
       "player": "liover peguero",
@@ -2559,7 +2559,7 @@
     "20": {
       "player": "yoan moncada",
       "pitcher": "jacob degrom",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "19": {
