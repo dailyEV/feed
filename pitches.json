@@ -1079,7 +1079,7 @@
     "33": {
       "player": "george springer",
       "pitcher": "joe ryan",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "32": {
@@ -1455,8 +1455,8 @@
     "17": {
       "player": "jonathan india",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "chase meidroth",
@@ -1559,7 +1559,7 @@
     "16": {
       "player": "geraldo perdomo",
       "pitcher": "brandon woodruff",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "15": {
@@ -1657,7 +1657,7 @@
     "13": {
       "player": "liover peguero",
       "pitcher": "michael mcgreevy",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "12": {
@@ -1734,6 +1734,12 @@
     }
   },
   "laa @ tex": {
+    "4": {
+      "player": "jo adell",
+      "pitcher": "jacob degrom",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "taylor ward",
       "pitcher": "jacob degrom",
