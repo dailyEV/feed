@@ -3,7 +3,7 @@
     "41": {
       "player": "jeremiah jackson",
       "pitcher": "lucas giolito",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "40": {
@@ -484,11 +484,17 @@
     }
   },
   "atl @ mia": {
+    "38": {
+      "player": "jurickson profar",
+      "pitcher": "sandy alcantara",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "37": {
       "player": "nick allen",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "36": {
       "player": "sean murphy",
@@ -994,6 +1000,12 @@
     }
   },
   "phi @ nym": {
+    "22": {
+      "player": "juan soto",
+      "pitcher": "jesus luzardo",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "francisco lindor",
       "pitcher": "jesus luzardo",
@@ -1122,6 +1134,12 @@
     }
   },
   "kc @ chw": {
+    "7": {
+      "player": "salvador perez",
+      "pitcher": "martin perez",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "6": {
       "player": "kyle teel",
       "pitcher": "michael lorenzen",
