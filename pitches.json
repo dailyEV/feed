@@ -2963,7 +2963,7 @@
     "54": {
       "player": "blaze alexander",
       "pitcher": "aaron ashby",
-      "result": "Foul Bunt",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "53": {
@@ -3286,6 +3286,12 @@
     }
   },
   "pit @ stl": {
+    "54": {
+      "player": "joey bart",
+      "pitcher": "kyle leahy",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "53": {
       "player": "jack suwinski",
       "pitcher": "kyle leahy",
@@ -3853,7 +3859,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "sd @ sea": {},
+  "sd @ sea": {
+    "1": {
+      "player": "fernando tatis",
+      "pitcher": "bryce miller",
+      "result": "Foul",
+      "pitch": "Splitter"
+    }
+  },
   "det @ ath": {},
   "cin @ lad": {}
 }
