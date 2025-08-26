@@ -299,7 +299,7 @@
     "47": {
       "player": "steven kwan",
       "pitcher": "garrett cleavinger",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "46": {
@@ -583,8 +583,8 @@
     "44": {
       "player": "drake baldwin",
       "pitcher": "edward cabrera",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "43": {
       "player": "marcell ozuna",
@@ -1362,6 +1362,12 @@
     }
   },
   "kc @ chw": {
+    "14": {
+      "player": "korey lee",
+      "pitcher": "noah cameron",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "13": {
       "player": "adam frazier",
       "pitcher": "shane smith",
@@ -1531,8 +1537,8 @@
     "11": {
       "player": "jack suwinski",
       "pitcher": "michael mcgreevy",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "jared triolo",
@@ -1595,7 +1601,14 @@
       "pitch": "Sweeper"
     }
   },
-  "laa @ tex": {},
+  "laa @ tex": {
+    "1": {
+      "player": "zach neto",
+      "pitcher": "jacob degrom",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "sd @ sea": {},
   "det @ ath": {},
   "cin @ lad": {}
