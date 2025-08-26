@@ -3,7 +3,7 @@
     "18": {
       "player": "dylan beavers",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "17": {
@@ -315,8 +315,8 @@
     "3": {
       "player": "luis garcia",
       "pitcher": "luis gil",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "2": {
       "player": "cj abrams",
@@ -335,8 +335,8 @@
     "3": {
       "player": "luke keaschall",
       "pitcher": "chris bassitt",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "2": {
       "player": "brooks lee",
@@ -351,7 +351,14 @@
       "pitch": "Cutter"
     }
   },
-  "phi @ nym": {},
+  "phi @ nym": {
+    "1": {
+      "player": "trea turner",
+      "pitcher": "sean manaea",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "kc @ chw": {},
   "ari @ mil": {},
   "pit @ stl": {},
