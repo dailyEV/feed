@@ -1,11 +1,5 @@
 {
   "bos @ bal": {
-    "34": {
-      "player": "dylan beavers",
-      "pitcher": "lucas giolito",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "33": {
       "player": "coby mayo",
       "pitcher": "lucas giolito",
@@ -209,7 +203,7 @@
     "31": {
       "player": "everson pereira",
       "pitcher": "parker messick",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "30": {
@@ -394,12 +388,6 @@
     }
   },
   "atl @ mia": {
-    "32": {
-      "player": "troy johnston",
-      "pitcher": "hurston waldrep",
-      "result": "Ball In Dirt",
-      "pitch": "Cutter"
-    },
     "31": {
       "player": "heriberto hernandez",
       "pitcher": "hurston waldrep",
@@ -680,6 +668,12 @@
     }
   },
   "min @ tor": {
+    "19": {
+      "player": "nathan lukes",
+      "pitcher": "bailey ober",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "george springer",
       "pitcher": "bailey ober",
@@ -886,15 +880,21 @@
       "player": "maikel garcia",
       "pitcher": "martin perez",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Cutter"
     }
   },
   "ari @ mil": {
+    "2": {
+      "player": "ketel marte",
+      "pitcher": "jacob misiorowski",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "geraldo perdomo",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     }
   },
   "pit @ stl": {},
