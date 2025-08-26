@@ -1,10 +1,16 @@
 {
   "bos @ bal": {
+    "38": {
+      "player": "jarren duran",
+      "pitcher": "kyle bradish",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "alex bregman",
       "pitcher": "kyle bradish",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "roman anthony",
@@ -651,8 +657,8 @@
     "20": {
       "player": "luis garcia",
       "pitcher": "luis gil",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "cj abrams",
@@ -773,8 +779,8 @@
     "23": {
       "player": "brooks lee",
       "pitcher": "chris bassitt",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "22": {
       "player": "trevor larnach",
@@ -1023,8 +1029,8 @@
     "4": {
       "player": "mike tauchman",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "vinnie pasquantino",
@@ -1050,7 +1056,7 @@
       "player": "william contreras",
       "pitcher": "brandon pfaadt",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "4": {
       "player": "brice turang",
@@ -1078,12 +1084,6 @@
     }
   },
   "pit @ stl": {
-    "4": {
-      "player": "oneil cruz",
-      "pitcher": "andre pallante",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
-    },
     "3": {
       "player": "bryan reynolds",
       "pitcher": "andre pallante",
