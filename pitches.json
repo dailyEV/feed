@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "64": {
+      "player": "coby mayo",
+      "pitcher": "garrett whitlock",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "63": {
       "player": "ryan mountcastle",
       "pitcher": "garrett whitlock",
@@ -1035,7 +1041,7 @@
     "46": {
       "player": "cj abrams",
       "pitcher": "cam schlittler",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -1310,6 +1316,12 @@
     }
   },
   "min @ tor": {
+    "44": {
+      "player": "brooks lee",
+      "pitcher": "max scherzer",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "43": {
       "player": "trevor larnach",
       "pitcher": "max scherzer",
@@ -1818,6 +1830,12 @@
     }
   },
   "kc @ chw": {
+    "35": {
+      "player": "jonathan india",
+      "pitcher": "shane smith",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "adam frazier",
       "pitcher": "shane smith",
@@ -2027,7 +2045,7 @@
     "27": {
       "player": "isaac collins",
       "pitcher": "bryce jarvis",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "26": {
