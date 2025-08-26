@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "56": {
+      "player": "luis vazquez",
+      "pitcher": "steven matz",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "dylan carlson",
       "pitcher": "steven matz",
@@ -634,6 +640,12 @@
     }
   },
   "atl @ mia": {
+    "51": {
+      "player": "nacho alvarez",
+      "pitcher": "tyler zuber",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "50": {
       "player": "troy johnston",
       "pitcher": "spencer strider",
@@ -936,6 +948,12 @@
     }
   },
   "wsh @ nyy": {
+    "38": {
+      "player": "trent grisham",
+      "pitcher": "brad lord",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "jose caballero",
       "pitcher": "brad lord",
@@ -1160,6 +1178,12 @@
     }
   },
   "min @ tor": {
+    "36": {
+      "player": "royce lewis",
+      "pitcher": "max scherzer",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "kody clemens",
       "pitcher": "max scherzer",
@@ -1375,7 +1399,7 @@
     "35": {
       "player": "mark vientos",
       "pitcher": "cristopher sanchez",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "34": {
@@ -1587,8 +1611,8 @@
     "24": {
       "player": "lenyn sosa",
       "pitcher": "noah cameron",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "edgar quero",
@@ -1733,8 +1757,8 @@
     "20": {
       "player": "andruw monasterio",
       "pitcher": "eduardo rodriguez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "19": {
       "player": "blake perkins",
