@@ -4337,7 +4337,7 @@
     "27": {
       "player": "julio rodriguez",
       "pitcher": "jp sears",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "26": {
@@ -4501,8 +4501,8 @@
     "15": {
       "player": "brett harris",
       "pitcher": "tarik skubal",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Sinker"
     },
     "14": {
       "player": "tyler soderstrom",
@@ -4590,6 +4590,12 @@
     }
   },
   "cin @ lad": {
+    "13": {
+      "player": "alex freeland",
+      "pitcher": "hunter greene",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "teoscar hernandez",
       "pitcher": "hunter greene",
