@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "12": {
+      "player": "samuel basallo",
+      "pitcher": "lucas giolito",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "11": {
       "player": "colton cowser",
       "pitcher": "lucas giolito",
@@ -71,7 +77,7 @@
     "11": {
       "player": "gabriel arias",
       "pitcher": "shane baz",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -136,11 +142,17 @@
     }
   },
   "atl @ mia": {
+    "10": {
+      "player": "otto lopez",
+      "pitcher": "hurston waldrep",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "9": {
       "player": "agustin ramirez",
       "pitcher": "hurston waldrep",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "8": {
       "player": "jakob marsee",
