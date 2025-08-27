@@ -1862,6 +1862,12 @@
     }
   },
   "bos @ bal": {
+    "20": {
+      "player": "alex bregman",
+      "pitcher": "roansy contreras",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
     "19": {
       "player": "roman anthony",
       "pitcher": "dietrich enns",
@@ -1978,11 +1984,17 @@
     }
   },
   "min @ tor": {
+    "3": {
+      "player": "matt wallner",
+      "pitcher": "eric lauer",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "2": {
       "player": "ryan jeffers",
       "pitcher": "eric lauer",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "byron buxton",
@@ -1995,8 +2007,8 @@
     "3": {
       "player": "bryce harper",
       "pitcher": "nolan mclean",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "2": {
       "player": "kyle schwarber",
