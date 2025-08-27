@@ -4,7 +4,7 @@
       "player": "masataka yoshida",
       "pitcher": "keegan akin",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Slider"
     },
     "45": {
       "player": "nathaniel lowe",
@@ -538,6 +538,12 @@
     }
   },
   "atl @ mia": {
+    "42": {
+      "player": "matt olson",
+      "pitcher": "sandy alcantara",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "otto lopez",
       "pitcher": "hurston waldrep",
@@ -790,7 +796,7 @@
       "player": "cody bellinger",
       "pitcher": "mackenzie gore",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "25": {
       "player": "aaron judge",
@@ -1420,11 +1426,17 @@
     }
   },
   "pit @ stl": {
+    "11": {
+      "player": "ivan herrera",
+      "pitcher": "mitch keller",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "10": {
       "player": "lars nootbaar",
       "pitcher": "mitch keller",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "isiah kiner falefa",
