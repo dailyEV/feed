@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "55": {
+      "player": "jarren duran",
+      "pitcher": "yaramil hiraldo",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "54": {
       "player": "alex bregman",
       "pitcher": "yaramil hiraldo",
@@ -631,8 +637,8 @@
     "49": {
       "player": "marcell ozuna",
       "pitcher": "sandy alcantara",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "48": {
       "player": "derek hill",
@@ -928,7 +934,7 @@
       "player": "robert hassell",
       "pitcher": "luis gil",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "31": {
       "player": "brady house",
@@ -1118,12 +1124,6 @@
     }
   },
   "min @ tor": {
-    "36": {
-      "player": "austin martin",
-      "pitcher": "chris bassitt",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "35": {
       "player": "mickey gasper",
       "pitcher": "chris bassitt",
@@ -1533,7 +1533,7 @@
     "21": {
       "player": "miguel vargas",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "20": {
@@ -1887,8 +1887,8 @@
     "6": {
       "player": "ezequiel duran",
       "pitcher": "yusei kikuchi",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Curveball"
     },
     "5": {
       "player": "wyatt langford",
@@ -1926,7 +1926,7 @@
       "player": "jose altuve",
       "pitcher": "tanner gordon",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "carlos correa",
