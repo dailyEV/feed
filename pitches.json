@@ -2071,7 +2071,7 @@
     "15": {
       "player": "davis schneider",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -2160,6 +2160,12 @@
     }
   },
   "phi @ nym": {
+    "17": {
+      "player": "brett baty",
+      "pitcher": "taijuan walker",
+      "result": "In play, no out",
+      "pitch": "Splitter"
+    },
     "16": {
       "player": "harrison bader",
       "pitcher": "nolan mclean",
@@ -2257,13 +2263,20 @@
       "pitch": "Sweeper"
     }
   },
-  "kc @ chw": {},
+  "kc @ chw": {
+    "1": {
+      "player": "mike yastrzemski",
+      "pitcher": "aaron civale",
+      "result": "Ball",
+      "pitch": "Cutter"
+    }
+  },
   "ari @ mil": {
     "1": {
       "player": "geraldo perdomo",
       "pitcher": "aaron ashby",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     }
   },
   "pit @ stl": {},
