@@ -879,8 +879,8 @@
     "30": {
       "player": "dylan crews",
       "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "29": {
       "player": "riley adams",
@@ -1062,7 +1062,7 @@
       "player": "andres gimenez",
       "pitcher": "bailey ober",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Slider"
     },
     "32": {
       "player": "ty france",
@@ -1443,8 +1443,8 @@
     "18": {
       "player": "curtis mead",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "17": {
       "player": "maikel garcia",
@@ -1553,8 +1553,8 @@
     "15": {
       "player": "andruw monasterio",
       "pitcher": "brandon pfaadt",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "14": {
       "player": "blake perkins",
@@ -1734,6 +1734,12 @@
     }
   },
   "laa @ tex": {
+    "5": {
+      "player": "wyatt langford",
+      "pitcher": "yusei kikuchi",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "jo adell",
       "pitcher": "patrick corbin",
