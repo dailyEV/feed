@@ -1287,7 +1287,7 @@
     "69": {
       "player": "brady house",
       "pitcher": "camilo doval",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "68": {
@@ -1703,8 +1703,8 @@
     "72": {
       "player": "ryan jeffers",
       "pitcher": "jeff hoffman",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "austin martin",
@@ -3232,11 +3232,17 @@
     }
   },
   "pit @ stl": {
+    "61": {
+      "player": "liover peguero",
+      "pitcher": "jorge alcala",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "60": {
       "player": "henry davis",
       "pitcher": "jorge alcala",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Sinker"
     },
     "59": {
       "player": "jordan walker",
@@ -3597,8 +3603,8 @@
     "46": {
       "player": "jonah heim",
       "pitcher": "sam bachman",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "45": {
       "player": "kyle higashioka",
@@ -4166,7 +4172,7 @@
       "player": "gavin sheets",
       "pitcher": "luis castillo",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "5": {
       "player": "xander bogaerts",
