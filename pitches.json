@@ -1583,8 +1583,8 @@
     "60": {
       "player": "vladimir guerrero",
       "pitcher": "kody funderburk",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "59": {
       "player": "nathan lukes",
@@ -1942,6 +1942,12 @@
     }
   },
   "phi @ nym": {
+    "56": {
+      "player": "francisco lindor",
+      "pitcher": "tanner banks",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "trea turner",
       "pitcher": "huascar brazoban",
@@ -2800,6 +2806,12 @@
     }
   },
   "pit @ stl": {
+    "46": {
+      "player": "jared triolo",
+      "pitcher": "gordon graceffo",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "45": {
       "player": "isiah kiner falefa",
       "pitcher": "gordon graceffo",
@@ -3075,7 +3087,7 @@
     "33": {
       "player": "wyatt langford",
       "pitcher": "yusei kikuchi",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "32": {
