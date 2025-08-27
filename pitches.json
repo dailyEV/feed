@@ -787,7 +787,7 @@
     "73": {
       "player": "ronald acuna",
       "pitcher": "josh simpson",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "72": {
@@ -1565,8 +1565,8 @@
     "58": {
       "player": "luke keaschall",
       "pitcher": "brendon little",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "57": {
       "player": "brooks lee",
@@ -1912,10 +1912,16 @@
     }
   },
   "phi @ nym": {
+    "54": {
+      "player": "weston wilson",
+      "pitcher": "huascar brazoban",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "53": {
       "player": "edmundo sosa",
       "pitcher": "huascar brazoban",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "52": {
@@ -2232,6 +2238,12 @@
     }
   },
   "kc @ chw": {
+    "46": {
+      "player": "vinnie pasquantino",
+      "pitcher": "martin perez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "45": {
       "player": "bobby witt",
       "pitcher": "martin perez",
@@ -3000,6 +3012,12 @@
     }
   },
   "laa @ tex": {
+    "31": {
+      "player": "jonah heim",
+      "pitcher": "yusei kikuchi",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "30": {
       "player": "kyle higashioka",
       "pitcher": "yusei kikuchi",
