@@ -1703,7 +1703,7 @@
     "71": {
       "player": "austin martin",
       "pitcher": "jeff hoffman",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "70": {
@@ -2131,8 +2131,8 @@
     "68": {
       "player": "harrison bader",
       "pitcher": "ryan helsley",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "nick castellanos",
@@ -2541,7 +2541,7 @@
     "60": {
       "player": "lenyn sosa",
       "pitcher": "sam long",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -2903,8 +2903,8 @@
     "54": {
       "player": "christian yelich",
       "pitcher": "john curtiss",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "53": {
       "player": "william contreras",
@@ -3229,7 +3229,7 @@
     "60": {
       "player": "henry davis",
       "pitcher": "jorge alcala",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "59": {
@@ -3588,6 +3588,12 @@
     }
   },
   "laa @ tex": {
+    "46": {
+      "player": "jonah heim",
+      "pitcher": "sam bachman",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "45": {
       "player": "kyle higashioka",
       "pitcher": "sam bachman",
@@ -4188,10 +4194,16 @@
     }
   },
   "chc @ sf": {
+    "4": {
+      "player": "pete crow armstrong",
+      "pitcher": "justin verlander",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "seiya suzuki",
       "pitcher": "justin verlander",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "2": {
