@@ -3,7 +3,7 @@
     "53": {
       "player": "roman anthony",
       "pitcher": "yaramil hiraldo",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "52": {
@@ -1500,11 +1500,17 @@
     }
   },
   "kc @ chw": {
+    "21": {
+      "player": "miguel vargas",
+      "pitcher": "michael lorenzen",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "20": {
       "player": "mike tauchman",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "19": {
       "player": "brooks baldwin",
@@ -1735,8 +1741,8 @@
     "18": {
       "player": "andrew mccutchen",
       "pitcher": "andre pallante",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "oneil cruz",
@@ -1845,8 +1851,8 @@
     "6": {
       "player": "ezequiel duran",
       "pitcher": "yusei kikuchi",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "wyatt langford",
@@ -1883,7 +1889,7 @@
     "5": {
       "player": "carlos correa",
       "pitcher": "tanner gordon",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "4": {
