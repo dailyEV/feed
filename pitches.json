@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "60": {
+      "player": "trevor story",
+      "pitcher": "yaramil hiraldo",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "59": {
       "player": "jeremiah jackson",
       "pitcher": "lucas giolito",
@@ -359,8 +365,8 @@
     "58": {
       "player": "chandler simpson",
       "pitcher": "cade smith",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "cj kayfus",
@@ -700,6 +706,12 @@
     }
   },
   "atl @ mia": {
+    "57": {
+      "player": "drake baldwin",
+      "pitcher": "cade gibson",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "56": {
       "player": "agustin ramirez",
       "pitcher": "dylan lee",
@@ -1041,7 +1053,7 @@
     "40": {
       "player": "josh bell",
       "pitcher": "luis gil",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -1283,8 +1295,8 @@
     "42": {
       "player": "addison barger",
       "pitcher": "bailey ober",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "41": {
       "player": "bo bichette",
@@ -1758,11 +1770,17 @@
     }
   },
   "kc @ chw": {
+    "30": {
+      "player": "nick loftin",
+      "pitcher": "martin perez",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "29": {
       "player": "jonathan india",
       "pitcher": "martin perez",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "randal grichuk",
@@ -2300,17 +2318,11 @@
     }
   },
   "col @ hou": {
-    "14": {
-      "player": "mauricio dubon",
-      "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "13": {
       "player": "victor caratini",
       "pitcher": "tanner gordon",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "12": {
       "player": "jesus sanchez",
