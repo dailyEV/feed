@@ -784,10 +784,16 @@
     }
   },
   "atl @ mia": {
+    "83": {
+      "player": "otto lopez",
+      "pitcher": "wander suero",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "82": {
       "player": "agustin ramirez",
       "pitcher": "wander suero",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "81": {
@@ -1282,7 +1288,7 @@
       "player": "jose caballero",
       "pitcher": "clayton beeter",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "cody bellinger",
@@ -2047,8 +2053,8 @@
     "63": {
       "player": "mark vientos",
       "pitcher": "matt strahm",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "62": {
       "player": "jt realmuto",
@@ -2750,11 +2756,17 @@
     }
   },
   "ari @ mil": {
+    "48": {
+      "player": "pavin smith",
+      "pitcher": "tobias myers",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "lourdes gurriel",
       "pitcher": "tobias myers",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "46": {
       "player": "corbin carroll",
@@ -3357,7 +3369,7 @@
     "39": {
       "player": "adolis garcia",
       "pitcher": "chase silseth",
-      "result": "In play, no out",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "38": {
@@ -3593,7 +3605,7 @@
     "40": {
       "player": "jordan beck",
       "pitcher": "hunter brown",
-      "result": "Ball In Dirt",
+      "result": "Swinging Strike",
       "pitch": "Knuckle Curve"
     },
     "39": {
