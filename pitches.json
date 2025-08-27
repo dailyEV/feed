@@ -787,7 +787,7 @@
     "74": {
       "player": "michael harris",
       "pitcher": "josh simpson",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "73": {
@@ -1930,6 +1930,12 @@
     }
   },
   "phi @ nym": {
+    "55": {
+      "player": "trea turner",
+      "pitcher": "huascar brazoban",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "54": {
       "player": "weston wilson",
       "pitcher": "huascar brazoban",
@@ -2540,11 +2546,17 @@
     }
   },
   "ari @ mil": {
+    "39": {
+      "player": "alek thomas",
+      "pitcher": "jacob misiorowski",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "38": {
       "player": "blaze alexander",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "37": {
       "player": "christian yelich",
@@ -3042,6 +3054,12 @@
     }
   },
   "laa @ tex": {
+    "33": {
+      "player": "wyatt langford",
+      "pitcher": "yusei kikuchi",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "michael helman",
       "pitcher": "yusei kikuchi",
@@ -3236,12 +3254,6 @@
     }
   },
   "col @ hou": {
-    "33": {
-      "player": "mauricio dubon",
-      "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "32": {
       "player": "victor caratini",
       "pitcher": "tanner gordon",
