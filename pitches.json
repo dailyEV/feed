@@ -1727,8 +1727,8 @@
     "76": {
       "player": "edouard julien",
       "pitcher": "jeff hoffman",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "75": {
       "player": "matt wallner",
@@ -2182,10 +2182,16 @@
     }
   },
   "phi @ nym": {
+    "71": {
+      "player": "trea turner",
+      "pitcher": "edwin diaz",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "70": {
       "player": "brandon marsh",
       "pitcher": "edwin diaz",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "69": {
@@ -2604,6 +2610,12 @@
     }
   },
   "kc @ chw": {
+    "65": {
+      "player": "jonathan india",
+      "pitcher": "grant taylor",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
     "64": {
       "player": "mike yastrzemski",
       "pitcher": "grant taylor",
@@ -4049,7 +4061,7 @@
     "53": {
       "player": "ryan ritter",
       "pitcher": "hunter brown",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "52": {
@@ -4369,7 +4381,7 @@
     "9": {
       "player": "randy arozarena",
       "pitcher": "dylan cease",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "8": {
