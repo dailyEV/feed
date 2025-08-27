@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "50": {
+      "player": "ceddanne rafaela",
+      "pitcher": "yaramil hiraldo",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "49": {
       "player": "dylan beavers",
       "pitcher": "lucas giolito",
@@ -296,16 +302,10 @@
     }
   },
   "tb @ cle": {
-    "47": {
-      "player": "christopher morel",
-      "pitcher": "parker messick",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "46": {
       "player": "everson pereira",
       "pitcher": "parker messick",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -583,8 +583,8 @@
     "45": {
       "player": "liam hicks",
       "pitcher": "hurston waldrep",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "44": {
       "player": "michael harris",
@@ -1025,8 +1025,8 @@
     "32": {
       "player": "ty france",
       "pitcher": "bailey ober",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "ernie clement",
@@ -1219,8 +1219,8 @@
     "28": {
       "player": "pete alonso",
       "pitcher": "jesus luzardo",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "27": {
       "player": "nick castellanos",
@@ -1389,7 +1389,7 @@
     "17": {
       "player": "maikel garcia",
       "pitcher": "martin perez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "16": {
@@ -1490,6 +1490,12 @@
     }
   },
   "ari @ mil": {
+    "14": {
+      "player": "blake perkins",
+      "pitcher": "brandon pfaadt",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "13": {
       "player": "anthony seigler",
       "pitcher": "brandon pfaadt",
@@ -1656,6 +1662,18 @@
     }
   },
   "laa @ tex": {
+    "4": {
+      "player": "jo adell",
+      "pitcher": "patrick corbin",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
+    "3": {
+      "player": "taylor ward",
+      "pitcher": "patrick corbin",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "2": {
       "player": "mike trout",
       "pitcher": "patrick corbin",
@@ -1673,8 +1691,8 @@
     "1": {
       "player": "tyler freeman",
       "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Foul Tip",
+      "pitch": "Cutter"
     }
   },
   "sd @ sea": {},
