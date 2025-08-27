@@ -1739,8 +1739,8 @@
     "82": {
       "player": "vladimir guerrero",
       "pitcher": "justin topa",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "81": {
       "player": "daulton varsho",
@@ -2233,7 +2233,7 @@
     "79": {
       "player": "starling marte",
       "pitcher": "jhoan duran",
-      "result": "In play, no out",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "78": {
@@ -3140,6 +3140,12 @@
     }
   },
   "ari @ mil": {
+    "67": {
+      "player": "gabriel moreno",
+      "pitcher": "jared koenig",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "66": {
       "player": "james mccann",
       "pitcher": "jared koenig",
@@ -3978,11 +3984,17 @@
     }
   },
   "laa @ tex": {
+    "61": {
+      "player": "kyle higashioka",
+      "pitcher": "ryan zeferjahn",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "60": {
       "player": "cody freeman",
       "pitcher": "ryan zeferjahn",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "59": {
       "player": "josh jung",
@@ -4340,12 +4352,6 @@
     }
   },
   "col @ hou": {
-    "61": {
-      "player": "hunter goodman",
-      "pitcher": "steven okert",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "60": {
       "player": "mickey moniak",
       "pitcher": "steven okert",
