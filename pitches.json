@@ -1739,8 +1739,8 @@
     "82": {
       "player": "vladimir guerrero",
       "pitcher": "justin topa",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "81": {
       "player": "daulton varsho",
@@ -3155,7 +3155,7 @@
     "60": {
       "player": "corbin carroll",
       "pitcher": "jared koenig",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "59": {
@@ -3951,7 +3951,7 @@
     "60": {
       "player": "cody freeman",
       "pitcher": "ryan zeferjahn",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -4666,6 +4666,12 @@
     }
   },
   "sd @ sea": {
+    "18": {
+      "player": "eugenio suarez",
+      "pitcher": "dylan cease",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "josh naylor",
       "pitcher": "dylan cease",
@@ -4770,6 +4776,12 @@
     }
   },
   "chc @ sf": {
+    "16": {
+      "player": "patrick bailey",
+      "pitcher": "matthew boyd",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "luis matos",
       "pitcher": "matthew boyd",
