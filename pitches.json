@@ -350,12 +350,6 @@
     }
   },
   "tb @ cle": {
-    "53": {
-      "player": "nick fortes",
-      "pitcher": "hunter gaddis",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "52": {
       "player": "carson williams",
       "pitcher": "hunter gaddis",
@@ -670,11 +664,17 @@
     }
   },
   "atl @ mia": {
+    "52": {
+      "player": "sean murphy",
+      "pitcher": "sandy alcantara",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "nacho alvarez",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "ozzie albies",
@@ -981,8 +981,8 @@
     "35": {
       "player": "jazz chisholm",
       "pitcher": "mackenzie gore",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "amed rosario",
@@ -1193,7 +1193,7 @@
     "38": {
       "player": "george springer",
       "pitcher": "bailey ober",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "37": {
@@ -1775,7 +1775,7 @@
     "20": {
       "player": "brice turang",
       "pitcher": "brandon pfaadt",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "19": {
