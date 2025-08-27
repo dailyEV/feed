@@ -3164,6 +3164,12 @@
     }
   },
   "ari @ mil": {
+    "84": {
+      "player": "sal frelick",
+      "pitcher": "kyle backhus",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "83": {
       "player": "andrew vaughn",
       "pitcher": "juan morillo",
@@ -5202,10 +5208,16 @@
     }
   },
   "chc @ sf": {
+    "38": {
+      "player": "carson kelly",
+      "pitcher": "justin verlander",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "pete crow armstrong",
       "pitcher": "justin verlander",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "36": {
@@ -5429,8 +5441,8 @@
     "30": {
       "player": "lawrence butler",
       "pitcher": "charlie morton",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "29": {
       "player": "colby thomas",
