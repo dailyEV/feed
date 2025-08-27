@@ -788,7 +788,7 @@
       "player": "matt olson",
       "pitcher": "josh simpson",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "71": {
       "player": "jurickson profar",
@@ -1538,16 +1538,10 @@
     }
   },
   "min @ tor": {
-    "57": {
-      "player": "brooks lee",
-      "pitcher": "brendon little",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
-    },
     "56": {
       "player": "ryan jeffers",
       "pitcher": "brendon little",
-      "result": "In play, no out",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "55": {
@@ -1882,6 +1876,12 @@
     }
   },
   "phi @ nym": {
+    "52": {
+      "player": "harrison bader",
+      "pitcher": "huascar brazoban",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "nick castellanos",
       "pitcher": "huascar brazoban",
@@ -2193,8 +2193,8 @@
     "45": {
       "player": "bobby witt",
       "pitcher": "martin perez",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "44": {
       "player": "andrew benintendi",
@@ -2462,6 +2462,12 @@
     }
   },
   "ari @ mil": {
+    "37": {
+      "player": "christian yelich",
+      "pitcher": "jake woodford",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "william contreras",
       "pitcher": "jake woodford",
@@ -3110,6 +3116,12 @@
     }
   },
   "col @ hou": {
+    "31": {
+      "player": "warming bernabel",
+      "pitcher": "hunter brown",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    },
     "30": {
       "player": "ezequiel tovar",
       "pitcher": "hunter brown",
