@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "51": {
+      "player": "david hamilton",
+      "pitcher": "yaramil hiraldo",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "50": {
       "player": "ceddanne rafaela",
       "pitcher": "yaramil hiraldo",
@@ -867,7 +873,7 @@
     "29": {
       "player": "riley adams",
       "pitcher": "luis gil",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "28": {
@@ -1426,7 +1432,7 @@
       "player": "curtis mead",
       "pitcher": "michael lorenzen",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Slider"
     },
     "17": {
       "player": "maikel garcia",
@@ -1624,12 +1630,6 @@
     }
   },
   "pit @ stl": {
-    "16": {
-      "player": "bryan reynolds",
-      "pitcher": "andre pallante",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "15": {
       "player": "spencer horwitz",
       "pitcher": "andre pallante",
@@ -1751,8 +1751,8 @@
     "3": {
       "player": "hunter goodman",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "2": {
       "player": "mickey moniak",
