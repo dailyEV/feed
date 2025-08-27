@@ -1,9 +1,15 @@
 {
   "bos @ bal": {
+    "54": {
+      "player": "alex bregman",
+      "pitcher": "yaramil hiraldo",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "53": {
       "player": "roman anthony",
       "pitcher": "yaramil hiraldo",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "52": {
@@ -616,6 +622,12 @@
     }
   },
   "atl @ mia": {
+    "49": {
+      "player": "marcell ozuna",
+      "pitcher": "sandy alcantara",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "48": {
       "player": "derek hill",
       "pitcher": "dylan dodd",
@@ -1100,18 +1112,6 @@
     }
   },
   "min @ tor": {
-    "35": {
-      "player": "mickey gasper",
-      "pitcher": "chris bassitt",
-      "result": "In play, no out",
-      "pitch": "Cutter"
-    },
-    "34": {
-      "player": "royce lewis",
-      "pitcher": "chris bassitt",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "33": {
       "player": "andres gimenez",
       "pitcher": "bailey ober",
@@ -1637,8 +1637,8 @@
     "18": {
       "player": "alek thomas",
       "pitcher": "jacob misiorowski",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "17": {
       "player": "blaze alexander",
@@ -1892,6 +1892,12 @@
     }
   },
   "col @ hou": {
+    "6": {
+      "player": "jose altuve",
+      "pitcher": "tanner gordon",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "carlos correa",
       "pitcher": "tanner gordon",
