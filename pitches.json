@@ -4966,10 +4966,16 @@
     }
   },
   "sd @ sea": {
+    "55": {
+      "player": "jp crawford",
+      "pitcher": "adrian morejon",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "54": {
       "player": "dominic canzone",
       "pitcher": "adrian morejon",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "Slider"
     },
     "53": {
@@ -5292,6 +5298,12 @@
     }
   },
   "chc @ sf": {
+    "55": {
+      "player": "kyle tucker",
+      "pitcher": "joey lucchesi",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "54": {
       "player": "justin turner",
       "pitcher": "joey lucchesi",
@@ -5621,8 +5633,8 @@
     "47": {
       "player": "spencer torkelson",
       "pitcher": "hogan harris",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "riley greene",
@@ -5905,8 +5917,8 @@
     "45": {
       "player": "andy pages",
       "pitcher": "nick martinez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "teoscar hernandez",
