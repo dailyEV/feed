@@ -787,8 +787,8 @@
     "72": {
       "player": "matt olson",
       "pitcher": "josh simpson",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "71": {
       "player": "jurickson profar",
@@ -1538,10 +1538,16 @@
     }
   },
   "min @ tor": {
+    "57": {
+      "player": "brooks lee",
+      "pitcher": "brendon little",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "56": {
       "player": "ryan jeffers",
       "pitcher": "brendon little",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "55": {
@@ -1876,12 +1882,6 @@
     }
   },
   "phi @ nym": {
-    "52": {
-      "player": "harrison bader",
-      "pitcher": "huascar brazoban",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "51": {
       "player": "nick castellanos",
       "pitcher": "huascar brazoban",
@@ -3110,6 +3110,12 @@
     }
   },
   "col @ hou": {
+    "30": {
+      "player": "ezequiel tovar",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "29": {
       "player": "brenton doyle",
       "pitcher": "hunter brown",
