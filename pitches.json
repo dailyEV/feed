@@ -1852,10 +1852,16 @@
     }
   },
   "phi @ nym": {
+    "51": {
+      "player": "nick castellanos",
+      "pitcher": "huascar brazoban",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "50": {
       "player": "alec bohm",
       "pitcher": "huascar brazoban",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "49": {
@@ -2157,8 +2163,8 @@
     "44": {
       "player": "andrew benintendi",
       "pitcher": "john schreiber",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "43": {
       "player": "michael a taylor",
@@ -2420,12 +2426,6 @@
     }
   },
   "ari @ mil": {
-    "35": {
-      "player": "brice turang",
-      "pitcher": "jake woodford",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "34": {
       "player": "jake mccarthy",
       "pitcher": "jacob misiorowski",
@@ -2883,8 +2883,8 @@
     "28": {
       "player": "jo adell",
       "pitcher": "patrick corbin",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "27": {
       "player": "taylor ward",
@@ -3050,6 +3050,12 @@
     }
   },
   "col @ hou": {
+    "28": {
+      "player": "jesus sanchez",
+      "pitcher": "tanner gordon",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "27": {
       "player": "christian walker",
       "pitcher": "tanner gordon",
