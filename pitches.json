@@ -1796,7 +1796,7 @@
       "player": "jeff mcneil",
       "pitcher": "orion kerkering",
       "result": "Called Strike",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "tyrone taylor",
@@ -2082,11 +2082,17 @@
     }
   },
   "kc @ chw": {
+    "40": {
+      "player": "kyle teel",
+      "pitcher": "michael lorenzen",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
     "39": {
       "player": "miguel vargas",
       "pitcher": "michael lorenzen",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "38": {
       "player": "mike tauchman",
@@ -2318,6 +2324,12 @@
     }
   },
   "ari @ mil": {
+    "32": {
+      "player": "pavin smith",
+      "pitcher": "jacob misiorowski",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "31": {
       "player": "lourdes gurriel",
       "pitcher": "jacob misiorowski",
@@ -2506,6 +2518,12 @@
     }
   },
   "pit @ stl": {
+    "38": {
+      "player": "andrew mccutchen",
+      "pitcher": "andre pallante",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "oneil cruz",
       "pitcher": "andre pallante",
@@ -2733,8 +2751,8 @@
     "24": {
       "player": "adolis garcia",
       "pitcher": "yusei kikuchi",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "mike trout",
