@@ -1561,8 +1561,8 @@
     "39": {
       "player": "jt realmuto",
       "pitcher": "gregory soto",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "38": {
       "player": "bryce harper",
@@ -1797,8 +1797,8 @@
     "30": {
       "player": "nick loftin",
       "pitcher": "martin perez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "29": {
       "player": "jonathan india",
@@ -1976,6 +1976,18 @@
     }
   },
   "ari @ mil": {
+    "25": {
+      "player": "isaac collins",
+      "pitcher": "brandon pfaadt",
+      "result": "Foul Bunt",
+      "pitch": "Sinker"
+    },
+    "24": {
+      "player": "sal frelick",
+      "pitcher": "brandon pfaadt",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "23": {
       "player": "andrew vaughn",
       "pitcher": "brandon pfaadt",
@@ -2357,8 +2369,8 @@
     "14": {
       "player": "mauricio dubon",
       "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "13": {
       "player": "victor caratini",
