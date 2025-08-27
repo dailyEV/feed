@@ -1233,8 +1233,8 @@
     "57": {
       "player": "paul goldschmidt",
       "pitcher": "orlando ribalta",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "56": {
       "player": "austin wells",
@@ -3054,16 +3054,10 @@
     }
   },
   "laa @ tex": {
-    "33": {
-      "player": "wyatt langford",
-      "pitcher": "yusei kikuchi",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "32": {
       "player": "michael helman",
       "pitcher": "yusei kikuchi",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "31": {
@@ -3254,6 +3248,12 @@
     }
   },
   "col @ hou": {
+    "33": {
+      "player": "mauricio dubon",
+      "pitcher": "tanner gordon",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "32": {
       "player": "victor caratini",
       "pitcher": "tanner gordon",
