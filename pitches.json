@@ -1736,6 +1736,12 @@
     }
   },
   "min @ tor": {
+    "80": {
+      "player": "george springer",
+      "pitcher": "justin topa",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "79": {
       "player": "andres gimenez",
       "pitcher": "justin topa",
@@ -2667,8 +2673,8 @@
     "69": {
       "player": "maikel garcia",
       "pitcher": "steven wilson",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "68": {
       "player": "kyle isbel",
@@ -3083,8 +3089,8 @@
     "64": {
       "player": "isaac collins",
       "pitcher": "john curtiss",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "sal frelick",
@@ -4686,6 +4692,12 @@
     }
   },
   "chc @ sf": {
+    "15": {
+      "player": "luis matos",
+      "pitcher": "matthew boyd",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "matt chapman",
       "pitcher": "matthew boyd",
@@ -4798,11 +4810,17 @@
     }
   },
   "cin @ lad": {
+    "2": {
+      "player": "noelvi marte",
+      "pitcher": "clayton kershaw",
+      "result": "Foul Tip",
+      "pitch": "Slider"
+    },
     "1": {
       "player": "spencer steer",
       "pitcher": "clayton kershaw",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     }
   }
 }
