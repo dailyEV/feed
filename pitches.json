@@ -1740,7 +1740,7 @@
       "player": "vladimir guerrero",
       "pitcher": "justin topa",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "81": {
       "player": "daulton varsho",
@@ -2233,7 +2233,7 @@
     "79": {
       "player": "starling marte",
       "pitcher": "jhoan duran",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Splitter"
     },
     "78": {
@@ -4343,8 +4343,8 @@
     "61": {
       "player": "hunter goodman",
       "pitcher": "steven okert",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "60": {
       "player": "mickey moniak",
@@ -4922,6 +4922,12 @@
     }
   },
   "det @ ath": {
+    "9": {
+      "player": "jacob wilson",
+      "pitcher": "charlie morton",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "tyler soderstrom",
       "pitcher": "charlie morton",
