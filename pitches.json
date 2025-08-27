@@ -4,7 +4,7 @@
       "player": "jeremiah jackson",
       "pitcher": "lucas giolito",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "jackson holliday",
@@ -359,7 +359,7 @@
     "55": {
       "player": "steven kwan",
       "pitcher": "mason montgomery",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "54": {
@@ -1981,8 +1981,8 @@
     "23": {
       "player": "henry davis",
       "pitcher": "andre pallante",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "22": {
       "player": "jack suwinski",
@@ -2186,11 +2186,17 @@
     }
   },
   "col @ hou": {
+    "11": {
+      "player": "ezequiel tovar",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "10": {
       "player": "brenton doyle",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "9": {
       "player": "jordan beck",
