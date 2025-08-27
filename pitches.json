@@ -1865,8 +1865,8 @@
     "38": {
       "player": "jackson holliday",
       "pitcher": "brayan bello",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "37": {
       "player": "dylan carlson",
@@ -2095,7 +2095,7 @@
     "19": {
       "player": "matt wallner",
       "pitcher": "eric lauer",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -2342,17 +2342,11 @@
     }
   },
   "kc @ chw": {
-    "5": {
-      "player": "miguel vargas",
-      "pitcher": "ryan bergert",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "4": {
       "player": "mike tauchman",
       "pitcher": "ryan bergert",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "3": {
       "player": "vinnie pasquantino",
@@ -2374,6 +2368,12 @@
     }
   },
   "ari @ mil": {
+    "6": {
+      "player": "william contreras",
+      "pitcher": "ryne nelson",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "5": {
       "player": "caleb durbin",
       "pitcher": "ryne nelson",
