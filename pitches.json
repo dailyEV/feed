@@ -754,11 +754,17 @@
     }
   },
   "atl @ mia": {
+    "63": {
+      "player": "liam hicks",
+      "pitcher": "tyler kinley",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "62": {
       "player": "otto lopez",
       "pitcher": "tyler kinley",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "61": {
       "player": "michael harris",
@@ -1705,8 +1711,8 @@
     "44": {
       "player": "pete alonso",
       "pitcher": "orion kerkering",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "starling marte",
@@ -2186,6 +2192,12 @@
     }
   },
   "ari @ mil": {
+    "29": {
+      "player": "ketel marte",
+      "pitcher": "jacob misiorowski",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "28": {
       "player": "andruw monasterio",
       "pitcher": "jake woodford",
@@ -2553,8 +2565,8 @@
     "21": {
       "player": "bryce teodosio",
       "pitcher": "patrick corbin",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "niko kavadas",
