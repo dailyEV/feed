@@ -787,8 +787,8 @@
     "72": {
       "player": "matt olson",
       "pitcher": "josh simpson",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "71": {
       "player": "jurickson profar",
@@ -1218,10 +1218,16 @@
     }
   },
   "wsh @ nyy": {
+    "54": {
+      "player": "jazz chisholm",
+      "pitcher": "orlando ribalta",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "53": {
       "player": "ryan mcmahon",
       "pitcher": "orlando ribalta",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "52": {
@@ -1541,7 +1547,7 @@
     "56": {
       "player": "ryan jeffers",
       "pitcher": "brendon little",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "55": {
@@ -1876,12 +1882,6 @@
     }
   },
   "phi @ nym": {
-    "52": {
-      "player": "harrison bader",
-      "pitcher": "huascar brazoban",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "51": {
       "player": "nick castellanos",
       "pitcher": "huascar brazoban",
@@ -2194,7 +2194,7 @@
       "player": "bobby witt",
       "pitcher": "martin perez",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Cutter"
     },
     "44": {
       "player": "andrew benintendi",
