@@ -326,11 +326,17 @@
     }
   },
   "tb @ cle": {
+    "50": {
+      "player": "gabriel arias",
+      "pitcher": "griffin jax",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "brayan rocchio",
       "pitcher": "griffin jax",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "48": {
       "player": "bo naylor",
@@ -622,12 +628,6 @@
     }
   },
   "atl @ mia": {
-    "49": {
-      "player": "marcell ozuna",
-      "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "48": {
       "player": "derek hill",
       "pitcher": "dylan dodd",
@@ -1112,6 +1112,24 @@
     }
   },
   "min @ tor": {
+    "36": {
+      "player": "austin martin",
+      "pitcher": "chris bassitt",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "35": {
+      "player": "mickey gasper",
+      "pitcher": "chris bassitt",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
+    "34": {
+      "player": "royce lewis",
+      "pitcher": "chris bassitt",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "andres gimenez",
       "pitcher": "bailey ober",
@@ -1857,8 +1875,8 @@
     "6": {
       "player": "ezequiel duran",
       "pitcher": "yusei kikuchi",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "5": {
       "player": "wyatt langford",
