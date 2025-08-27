@@ -787,8 +787,8 @@
     "75": {
       "player": "eli white",
       "pitcher": "josh simpson",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "74": {
       "player": "michael harris",
@@ -1583,8 +1583,8 @@
     "60": {
       "player": "vladimir guerrero",
       "pitcher": "kody funderburk",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "59": {
       "player": "nathan lukes",
@@ -2280,6 +2280,12 @@
     }
   },
   "kc @ chw": {
+    "48": {
+      "player": "curtis mead",
+      "pitcher": "taylor clarke",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "salvador perez",
       "pitcher": "martin perez",
