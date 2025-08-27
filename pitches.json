@@ -766,10 +766,16 @@
     }
   },
   "atl @ mia": {
+    "65": {
+      "player": "eric wagaman",
+      "pitcher": "tyler kinley",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "heriberto hernandez",
       "pitcher": "tyler kinley",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "63": {
@@ -1155,7 +1161,7 @@
     "48": {
       "player": "jacob young",
       "pitcher": "fernando cruz",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "47": {
@@ -1442,11 +1448,17 @@
     }
   },
   "min @ tor": {
+    "50": {
+      "player": "ernie clement",
+      "pitcher": "cole sands",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "alejandro kirk",
       "pitcher": "cole sands",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "royce lewis",
@@ -2010,12 +2022,6 @@
     }
   },
   "kc @ chw": {
-    "38": {
-      "player": "mike tauchman",
-      "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "37": {
       "player": "brooks baldwin",
       "pitcher": "michael lorenzen",
@@ -2419,8 +2425,8 @@
     "35": {
       "player": "nolan gorman",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "34": {
       "player": "willson contreras",
