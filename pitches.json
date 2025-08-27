@@ -4029,8 +4029,8 @@
     "63": {
       "player": "mike trout",
       "pitcher": "danny coulombe",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "zach neto",
@@ -4406,10 +4406,16 @@
     }
   },
   "col @ hou": {
+    "64": {
+      "player": "christian walker",
+      "pitcher": "luis peralta",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "63": {
       "player": "yordan alvarez",
       "pitcher": "luis peralta",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -4929,8 +4935,8 @@
     "20": {
       "player": "seiya suzuki",
       "pitcher": "justin verlander",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "19": {
       "player": "kyle tucker",
@@ -5128,6 +5134,12 @@
     }
   },
   "cin @ lad": {
+    "10": {
+      "player": "teoscar hernandez",
+      "pitcher": "nick martinez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "will smith",
       "pitcher": "nick martinez",
