@@ -787,8 +787,8 @@
     "68": {
       "player": "nacho alvarez",
       "pitcher": "tyler zuber",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "ozzie albies",
@@ -1490,6 +1490,12 @@
     }
   },
   "min @ tor": {
+    "53": {
+      "player": "george springer",
+      "pitcher": "cole sands",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "52": {
       "player": "andres gimenez",
       "pitcher": "cole sands",
@@ -1807,7 +1813,7 @@
     "48": {
       "player": "jeff mcneil",
       "pitcher": "orion kerkering",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -2336,6 +2342,12 @@
     }
   },
   "ari @ mil": {
+    "32": {
+      "player": "pavin smith",
+      "pitcher": "jacob misiorowski",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "31": {
       "player": "lourdes gurriel",
       "pitcher": "jacob misiorowski",
@@ -2754,17 +2766,11 @@
     }
   },
   "laa @ tex": {
-    "25": {
-      "player": "josh jung",
-      "pitcher": "yusei kikuchi",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "24": {
       "player": "adolis garcia",
       "pitcher": "yusei kikuchi",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "23": {
       "player": "mike trout",
