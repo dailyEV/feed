@@ -296,10 +296,16 @@
     }
   },
   "tb @ cle": {
+    "47": {
+      "player": "christopher morel",
+      "pitcher": "parker messick",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "46": {
       "player": "everson pereira",
       "pitcher": "parker messick",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -1201,8 +1207,8 @@
     "28": {
       "player": "pete alonso",
       "pitcher": "jesus luzardo",
-      "result": "In play, no out",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "27": {
       "player": "nick castellanos",
@@ -1368,6 +1374,12 @@
     }
   },
   "kc @ chw": {
+    "17": {
+      "player": "maikel garcia",
+      "pitcher": "martin perez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "tyler tolbert",
       "pitcher": "martin perez",
@@ -1549,7 +1561,7 @@
     "14": {
       "player": "jared triolo",
       "pitcher": "andre pallante",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "13": {
@@ -1632,6 +1644,12 @@
     }
   },
   "laa @ tex": {
+    "3": {
+      "player": "taylor ward",
+      "pitcher": "patrick corbin",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "2": {
       "player": "mike trout",
       "pitcher": "patrick corbin",
@@ -1649,7 +1667,7 @@
     "1": {
       "player": "tyler freeman",
       "pitcher": "hunter brown",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     }
   },
