@@ -299,7 +299,7 @@
     "46": {
       "player": "everson pereira",
       "pitcher": "parker messick",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -1475,8 +1475,8 @@
     "13": {
       "player": "anthony seigler",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "12": {
       "player": "gabriel moreno",
@@ -1638,6 +1638,12 @@
     }
   },
   "laa @ tex": {
+    "3": {
+      "player": "taylor ward",
+      "pitcher": "patrick corbin",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "mike trout",
       "pitcher": "patrick corbin",
@@ -1655,8 +1661,8 @@
     "1": {
       "player": "tyler freeman",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     }
   },
   "sd @ sea": {},
