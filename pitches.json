@@ -520,17 +520,11 @@
     }
   },
   "atl @ mia": {
-    "40": {
-      "player": "agustin ramirez",
-      "pitcher": "hurston waldrep",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "39": {
       "player": "jakob marsee",
       "pitcher": "hurston waldrep",
       "result": "In play, out(s)",
-      "pitch": "Splitter"
+      "pitch": "Cutter"
     },
     "38": {
       "player": "jurickson profar",
@@ -762,10 +756,16 @@
     }
   },
   "wsh @ nyy": {
+    "26": {
+      "player": "cody bellinger",
+      "pitcher": "mackenzie gore",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "aaron judge",
       "pitcher": "mackenzie gore",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "24": {
@@ -914,6 +914,12 @@
     }
   },
   "min @ tor": {
+    "28": {
+      "player": "matt wallner",
+      "pitcher": "chris bassitt",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "27": {
       "player": "luke keaschall",
       "pitcher": "chris bassitt",
@@ -1078,6 +1084,12 @@
     }
   },
   "phi @ nym": {
+    "25": {
+      "player": "jt realmuto",
+      "pitcher": "sean manaea",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "bryce harper",
       "pitcher": "sean manaea",
@@ -1286,6 +1298,18 @@
     }
   },
   "ari @ mil": {
+    "11": {
+      "player": "pavin smith",
+      "pitcher": "jacob misiorowski",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
+    "10": {
+      "player": "lourdes gurriel",
+      "pitcher": "jacob misiorowski",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "9": {
       "player": "isaac collins",
       "pitcher": "brandon pfaadt",
