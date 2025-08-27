@@ -3,8 +3,8 @@
     "60": {
       "player": "trevor story",
       "pitcher": "yaramil hiraldo",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "jeremiah jackson",
@@ -365,8 +365,8 @@
     "58": {
       "player": "chandler simpson",
       "pitcher": "cade smith",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "56": {
       "player": "cj kayfus",
@@ -1295,8 +1295,8 @@
     "42": {
       "player": "addison barger",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "bo bichette",
@@ -1546,6 +1546,12 @@
     }
   },
   "phi @ nym": {
+    "38": {
+      "player": "bryce harper",
+      "pitcher": "gregory soto",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "kyle schwarber",
       "pitcher": "gregory soto",
@@ -2318,11 +2324,17 @@
     }
   },
   "col @ hou": {
+    "14": {
+      "player": "mauricio dubon",
+      "pitcher": "tanner gordon",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "victor caratini",
       "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "jesus sanchez",
