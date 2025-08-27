@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "59": {
+      "player": "jeremiah jackson",
+      "pitcher": "lucas giolito",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "58": {
       "player": "jackson holliday",
       "pitcher": "lucas giolito",
@@ -1205,8 +1211,8 @@
     "38": {
       "player": "george springer",
       "pitcher": "bailey ober",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "trevor larnach",
@@ -1784,12 +1790,6 @@
     }
   },
   "ari @ mil": {
-    "21": {
-      "player": "william contreras",
-      "pitcher": "brandon pfaadt",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "20": {
       "player": "brice turang",
       "pitcher": "brandon pfaadt",
@@ -1915,8 +1915,8 @@
     "22": {
       "player": "jack suwinski",
       "pitcher": "andre pallante",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "thomas saggese",
@@ -2102,6 +2102,12 @@
     }
   },
   "col @ hou": {
+    "9": {
+      "player": "jordan beck",
+      "pitcher": "hunter brown",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    },
     "8": {
       "player": "christian walker",
       "pitcher": "tanner gordon",
