@@ -2215,7 +2215,7 @@
     "75": {
       "player": "juan soto",
       "pitcher": "jose alvarado",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "74": {
@@ -2667,8 +2667,8 @@
     "69": {
       "player": "maikel garcia",
       "pitcher": "steven wilson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "68": {
       "player": "kyle isbel",
@@ -4241,8 +4241,8 @@
     "57": {
       "player": "jeremy pena",
       "pitcher": "jimmy herget",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "56": {
       "player": "jacob melton",
@@ -4680,6 +4680,12 @@
     }
   },
   "chc @ sf": {
+    "15": {
+      "player": "luis matos",
+      "pitcher": "matthew boyd",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "14": {
       "player": "matt chapman",
       "pitcher": "matthew boyd",
