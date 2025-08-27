@@ -299,7 +299,7 @@
     "45": {
       "player": "brandon lowe",
       "pitcher": "parker messick",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -834,6 +834,12 @@
     }
   },
   "wsh @ nyy": {
+    "28": {
+      "player": "trent grisham",
+      "pitcher": "mackenzie gore",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "giancarlo stanton",
       "pitcher": "mackenzie gore",
@@ -1001,8 +1007,8 @@
     "30": {
       "player": "james outman",
       "pitcher": "chris bassitt",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "29": {
       "player": "edouard julien",
@@ -1344,6 +1350,24 @@
     }
   },
   "kc @ chw": {
+    "16": {
+      "player": "tyler tolbert",
+      "pitcher": "martin perez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "15": {
+      "player": "adam frazier",
+      "pitcher": "martin perez",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
+    "14": {
+      "player": "nick loftin",
+      "pitcher": "martin perez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "andrew benintendi",
       "pitcher": "michael lorenzen",
@@ -1427,8 +1451,8 @@
     "12": {
       "player": "gabriel moreno",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "pavin smith",
