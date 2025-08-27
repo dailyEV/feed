@@ -634,6 +634,12 @@
     }
   },
   "atl @ mia": {
+    "50": {
+      "player": "ozzie albies",
+      "pitcher": "sandy alcantara",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "49": {
       "player": "marcell ozuna",
       "pitcher": "sandy alcantara",
@@ -1133,8 +1139,8 @@
     "37": {
       "player": "trevor larnach",
       "pitcher": "chris bassitt",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "36": {
       "player": "austin martin",
@@ -1557,7 +1563,7 @@
     "21": {
       "player": "miguel vargas",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "20": {
@@ -1685,8 +1691,8 @@
     "19": {
       "player": "geraldo perdomo",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "18": {
       "player": "alek thomas",
@@ -1798,12 +1804,6 @@
     }
   },
   "pit @ stl": {
-    "20": {
-      "player": "masyn winn",
-      "pitcher": "mitch keller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "19": {
       "player": "nolan gorman",
       "pitcher": "mitch keller",
@@ -1923,8 +1923,8 @@
     "7": {
       "player": "corey seager",
       "pitcher": "yusei kikuchi",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "6": {
       "player": "ezequiel duran",
@@ -1964,11 +1964,17 @@
     }
   },
   "col @ hou": {
+    "7": {
+      "player": "yordan alvarez",
+      "pitcher": "tanner gordon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "jose altuve",
       "pitcher": "tanner gordon",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "carlos correa",
