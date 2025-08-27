@@ -1736,11 +1736,17 @@
     }
   },
   "min @ tor": {
+    "79": {
+      "player": "andres gimenez",
+      "pitcher": "justin topa",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "78": {
       "player": "ty france",
       "pitcher": "justin topa",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "77": {
       "player": "james outman",
@@ -3071,7 +3077,7 @@
     "63": {
       "player": "sal frelick",
       "pitcher": "john curtiss",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -4546,6 +4552,12 @@
     }
   },
   "sd @ sea": {
+    "15": {
+      "player": "manny machado",
+      "pitcher": "luis castillo",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "luis arraez",
       "pitcher": "luis castillo",
@@ -4715,7 +4727,7 @@
     "4": {
       "player": "riley greene",
       "pitcher": "osvaldo bido",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "3": {
