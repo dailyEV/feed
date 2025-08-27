@@ -646,17 +646,11 @@
     }
   },
   "atl @ mia": {
-    "52": {
-      "player": "sean murphy",
-      "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "51": {
       "player": "nacho alvarez",
       "pitcher": "sandy alcantara",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "50": {
       "player": "ozzie albies",
@@ -960,6 +954,12 @@
     }
   },
   "wsh @ nyy": {
+    "35": {
+      "player": "jazz chisholm",
+      "pitcher": "mackenzie gore",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "34": {
       "player": "amed rosario",
       "pitcher": "mackenzie gore",
@@ -1166,11 +1166,17 @@
     }
   },
   "min @ tor": {
+    "38": {
+      "player": "george springer",
+      "pitcher": "bailey ober",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "trevor larnach",
       "pitcher": "chris bassitt",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "austin martin",
@@ -1599,7 +1605,7 @@
     "24": {
       "player": "salvador perez",
       "pitcher": "martin perez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "23": {
@@ -1746,7 +1752,7 @@
       "player": "brice turang",
       "pitcher": "brandon pfaadt",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "geraldo perdomo",
@@ -1995,8 +2001,8 @@
     "8": {
       "player": "adolis garcia",
       "pitcher": "yusei kikuchi",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "7": {
       "player": "corey seager",
