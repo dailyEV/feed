@@ -1,5 +1,17 @@
 {
   "bos @ bal": {
+    "48": {
+      "player": "coby mayo",
+      "pitcher": "lucas giolito",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
+    "47": {
+      "player": "samuel basallo",
+      "pitcher": "lucas giolito",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "46": {
       "player": "masataka yoshida",
       "pitcher": "keegan akin",
@@ -281,7 +293,7 @@
     "45": {
       "player": "brandon lowe",
       "pitcher": "parker messick",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -553,8 +565,8 @@
     "44": {
       "player": "michael harris",
       "pitcher": "sandy alcantara",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "ronald acuna",
@@ -1162,11 +1174,17 @@
     }
   },
   "phi @ nym": {
-    "26": {
-      "player": "alec bohm",
+    "27": {
+      "player": "nick castellanos",
       "pitcher": "sean manaea",
       "result": "Swinging Strike",
       "pitch": "Sweeper"
+    },
+    "26": {
+      "player": "alec bohm",
+      "pitcher": "sean manaea",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "jt realmuto",
@@ -1404,7 +1422,7 @@
       "player": "gabriel moreno",
       "pitcher": "jacob misiorowski",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "11": {
       "player": "pavin smith",
