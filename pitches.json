@@ -787,8 +787,8 @@
     "72": {
       "player": "matt olson",
       "pitcher": "josh simpson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "71": {
       "player": "jurickson profar",
@@ -1538,12 +1538,6 @@
     }
   },
   "min @ tor": {
-    "56": {
-      "player": "ryan jeffers",
-      "pitcher": "brendon little",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "55": {
       "player": "austin martin",
       "pitcher": "louis varland",
@@ -1879,7 +1873,7 @@
     "51": {
       "player": "nick castellanos",
       "pitcher": "huascar brazoban",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "50": {
@@ -2450,6 +2444,12 @@
     }
   },
   "ari @ mil": {
+    "37": {
+      "player": "christian yelich",
+      "pitcher": "jake woodford",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "36": {
       "player": "william contreras",
       "pitcher": "jake woodford",
@@ -3101,8 +3101,8 @@
     "29": {
       "player": "brenton doyle",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "jesus sanchez",
