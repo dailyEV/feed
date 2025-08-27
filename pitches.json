@@ -3,8 +3,8 @@
     "59": {
       "player": "jeremiah jackson",
       "pitcher": "lucas giolito",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "jackson holliday",
@@ -697,7 +697,7 @@
     "56": {
       "player": "agustin ramirez",
       "pitcher": "dylan lee",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -1035,8 +1035,8 @@
     "39": {
       "player": "luis garcia",
       "pitcher": "luis gil",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "cj abrams",
@@ -1268,12 +1268,6 @@
     }
   },
   "min @ tor": {
-    "41": {
-      "player": "bo bichette",
-      "pitcher": "bailey ober",
-      "result": "In play, no out",
-      "pitch": "Changeup"
-    },
     "40": {
       "player": "vladimir guerrero",
       "pitcher": "bailey ober",
@@ -1737,8 +1731,8 @@
     "27": {
       "player": "colson montgomery",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "lenyn sosa",
@@ -1898,6 +1892,12 @@
     }
   },
   "ari @ mil": {
+    "23": {
+      "player": "andrew vaughn",
+      "pitcher": "brandon pfaadt",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "22": {
       "player": "christian yelich",
       "pitcher": "brandon pfaadt",
@@ -2032,11 +2032,17 @@
     }
   },
   "pit @ stl": {
+    "24": {
+      "player": "liover peguero",
+      "pitcher": "andre pallante",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "henry davis",
       "pitcher": "andre pallante",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "22": {
       "player": "jack suwinski",
@@ -2175,8 +2181,8 @@
     "11": {
       "player": "kyle higashioka",
       "pitcher": "yusei kikuchi",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "10": {
       "player": "cody freeman",
@@ -2240,6 +2246,12 @@
     }
   },
   "col @ hou": {
+    "12": {
+      "player": "jesus sanchez",
+      "pitcher": "tanner gordon",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "ezequiel tovar",
       "pitcher": "hunter brown",
