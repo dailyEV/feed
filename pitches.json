@@ -3,8 +3,8 @@
     "59": {
       "player": "jeremiah jackson",
       "pitcher": "lucas giolito",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "jackson holliday",
@@ -685,7 +685,7 @@
     "54": {
       "player": "xavier edwards",
       "pitcher": "dylan lee",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -1468,6 +1468,12 @@
     }
   },
   "phi @ nym": {
+    "36": {
+      "player": "trea turner",
+      "pitcher": "sean manaea",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "weston wilson",
       "pitcher": "sean manaea",
@@ -1829,8 +1835,8 @@
     "21": {
       "player": "william contreras",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "brice turang",
@@ -1954,6 +1960,12 @@
     }
   },
   "pit @ stl": {
+    "23": {
+      "player": "henry davis",
+      "pitcher": "andre pallante",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "22": {
       "player": "jack suwinski",
       "pitcher": "andre pallante",
