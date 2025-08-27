@@ -2233,7 +2233,7 @@
     "79": {
       "player": "starling marte",
       "pitcher": "jhoan duran",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Splitter"
     },
     "78": {
@@ -2709,8 +2709,8 @@
     "72": {
       "player": "andrew benintendi",
       "pitcher": "carlos estevez",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "edgar quero",
@@ -3547,8 +3547,8 @@
     "73": {
       "player": "masyn winn",
       "pitcher": "isaac mattson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "72": {
       "player": "nolan gorman",
@@ -4352,6 +4352,12 @@
     }
   },
   "col @ hou": {
+    "61": {
+      "player": "hunter goodman",
+      "pitcher": "steven okert",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "60": {
       "player": "mickey moniak",
       "pitcher": "steven okert",
@@ -4928,6 +4934,12 @@
     }
   },
   "det @ ath": {
+    "10": {
+      "player": "colby thomas",
+      "pitcher": "charlie morton",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "9": {
       "player": "jacob wilson",
       "pitcher": "charlie morton",
@@ -4984,6 +4996,12 @@
     }
   },
   "cin @ lad": {
+    "6": {
+      "player": "shohei ohtani",
+      "pitcher": "nick martinez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "austin hays",
       "pitcher": "clayton kershaw",
