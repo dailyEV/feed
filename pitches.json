@@ -296,10 +296,16 @@
     }
   },
   "tb @ cle": {
+    "46": {
+      "player": "everson pereira",
+      "pitcher": "parker messick",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "brandon lowe",
       "pitcher": "parker messick",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -834,12 +840,6 @@
     }
   },
   "wsh @ nyy": {
-    "28": {
-      "player": "trent grisham",
-      "pitcher": "mackenzie gore",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "27": {
       "player": "giancarlo stanton",
       "pitcher": "mackenzie gore",
@@ -1007,8 +1007,8 @@
     "30": {
       "player": "james outman",
       "pitcher": "chris bassitt",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "29": {
       "player": "edouard julien",
@@ -1353,8 +1353,8 @@
     "16": {
       "player": "tyler tolbert",
       "pitcher": "martin perez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Hit By Pitch",
+      "pitch": "Cutter"
     },
     "15": {
       "player": "adam frazier",
@@ -1448,6 +1448,12 @@
     }
   },
   "ari @ mil": {
+    "13": {
+      "player": "anthony seigler",
+      "pitcher": "brandon pfaadt",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "gabriel moreno",
       "pitcher": "jacob misiorowski",
@@ -1615,7 +1621,14 @@
       "pitch": "Cutter"
     }
   },
-  "col @ hou": {},
+  "col @ hou": {
+    "1": {
+      "player": "tyler freeman",
+      "pitcher": "hunter brown",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "sd @ sea": {},
   "chc @ sf": {},
   "det @ ath": {},
