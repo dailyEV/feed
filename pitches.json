@@ -1915,7 +1915,7 @@
     "54": {
       "player": "weston wilson",
       "pitcher": "huascar brazoban",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "53": {
@@ -2238,6 +2238,12 @@
     }
   },
   "kc @ chw": {
+    "47": {
+      "player": "salvador perez",
+      "pitcher": "martin perez",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "46": {
       "player": "vinnie pasquantino",
       "pitcher": "martin perez",
@@ -2516,17 +2522,11 @@
     }
   },
   "ari @ mil": {
-    "39": {
-      "player": "alek thomas",
-      "pitcher": "jacob misiorowski",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "38": {
       "player": "blaze alexander",
       "pitcher": "jacob misiorowski",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "christian yelich",
@@ -2755,7 +2755,7 @@
     "44": {
       "player": "liover peguero",
       "pitcher": "gordon graceffo",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "43": {
@@ -3206,12 +3206,6 @@
     }
   },
   "col @ hou": {
-    "32": {
-      "player": "victor caratini",
-      "pitcher": "tanner gordon",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "31": {
       "player": "warming bernabel",
       "pitcher": "hunter brown",
