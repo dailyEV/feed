@@ -787,7 +787,7 @@
     "78": {
       "player": "derek hill",
       "pitcher": "wander suero",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Cutter"
     },
     "77": {
@@ -1616,6 +1616,12 @@
     }
   },
   "min @ tor": {
+    "64": {
+      "player": "james outman",
+      "pitcher": "brendon little",
+      "result": "Missed Bunt",
+      "pitch": "Sinker"
+    },
     "63": {
       "player": "edouard julien",
       "pitcher": "brendon little",
@@ -2352,12 +2358,6 @@
     }
   },
   "kc @ chw": {
-    "51": {
-      "player": "mike yastrzemski",
-      "pitcher": "jordan leasure",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "50": {
       "player": "mike tauchman",
       "pitcher": "taylor clarke",
@@ -2929,7 +2929,7 @@
     "50": {
       "player": "alec burleson",
       "pitcher": "mitch keller",
-      "result": "Ball In Dirt",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "49": {
