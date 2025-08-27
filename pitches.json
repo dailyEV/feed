@@ -3164,12 +3164,6 @@
     }
   },
   "ari @ mil": {
-    "80": {
-      "player": "tyler locklear",
-      "pitcher": "shelby miller",
-      "result": "Foul",
-      "pitch": "Sweeper"
-    },
     "78": {
       "player": "james mccann",
       "pitcher": "shelby miller",
@@ -4487,7 +4481,7 @@
     "73": {
       "player": "jeremy pena",
       "pitcher": "juan mejia",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -5127,7 +5121,7 @@
     "30": {
       "player": "matt shaw",
       "pitcher": "justin verlander",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Curveball"
     },
     "29": {
@@ -5306,6 +5300,12 @@
     }
   },
   "det @ ath": {
+    "22": {
+      "player": "kerry carpenter",
+      "pitcher": "osvaldo bido",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "gleyber torres",
       "pitcher": "osvaldo bido",
