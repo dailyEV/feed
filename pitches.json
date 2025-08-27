@@ -1739,8 +1739,8 @@
     "82": {
       "player": "vladimir guerrero",
       "pitcher": "justin topa",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "81": {
       "player": "daulton varsho",
@@ -3957,7 +3957,7 @@
     "60": {
       "player": "cody freeman",
       "pitcher": "ryan zeferjahn",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -4672,11 +4672,17 @@
     }
   },
   "sd @ sea": {
+    "19": {
+      "player": "jorge polanco",
+      "pitcher": "dylan cease",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "eugenio suarez",
       "pitcher": "dylan cease",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "josh naylor",
@@ -4930,11 +4936,17 @@
     }
   },
   "cin @ lad": {
+    "5": {
+      "player": "austin hays",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "miguel andujar",
       "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "3": {
       "player": "elly de la cruz",
