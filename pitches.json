@@ -2107,7 +2107,7 @@
     "68": {
       "player": "harrison bader",
       "pitcher": "ryan helsley",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -2517,7 +2517,7 @@
     "58": {
       "player": "miguel vargas",
       "pitcher": "sam long",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -2864,6 +2864,12 @@
     }
   },
   "ari @ mil": {
+    "53": {
+      "player": "william contreras",
+      "pitcher": "john curtiss",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "brice turang",
       "pitcher": "john curtiss",
@@ -3800,6 +3806,12 @@
     }
   },
   "col @ hou": {
+    "46": {
+      "player": "brenton doyle",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "45": {
       "player": "christian walker",
       "pitcher": "tanner gordon",
@@ -4075,8 +4087,8 @@
     "4": {
       "player": "ryan ohearn",
       "pitcher": "luis castillo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "manny machado",
@@ -4101,7 +4113,7 @@
     "2": {
       "player": "kyle tucker",
       "pitcher": "justin verlander",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "1": {
