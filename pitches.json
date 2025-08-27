@@ -1490,12 +1490,6 @@
     }
   },
   "min @ tor": {
-    "53": {
-      "player": "george springer",
-      "pitcher": "cole sands",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
-    },
     "52": {
       "player": "andres gimenez",
       "pitcher": "cole sands",
@@ -1813,8 +1807,8 @@
     "48": {
       "player": "jeff mcneil",
       "pitcher": "orion kerkering",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "47": {
       "player": "tyrone taylor",
@@ -2539,7 +2533,7 @@
     "38": {
       "player": "andrew mccutchen",
       "pitcher": "andre pallante",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "37": {
@@ -2766,11 +2760,23 @@
     }
   },
   "laa @ tex": {
+    "26": {
+      "player": "cody freeman",
+      "pitcher": "yusei kikuchi",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
+    "25": {
+      "player": "josh jung",
+      "pitcher": "yusei kikuchi",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "adolis garcia",
       "pitcher": "yusei kikuchi",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "mike trout",
