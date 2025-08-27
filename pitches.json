@@ -1740,7 +1740,7 @@
       "player": "vladimir guerrero",
       "pitcher": "justin topa",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "81": {
       "player": "daulton varsho",
@@ -3966,6 +3966,12 @@
     }
   },
   "laa @ tex": {
+    "61": {
+      "player": "kyle higashioka",
+      "pitcher": "ryan zeferjahn",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "60": {
       "player": "cody freeman",
       "pitcher": "ryan zeferjahn",
@@ -4328,11 +4334,17 @@
     }
   },
   "col @ hou": {
+    "61": {
+      "player": "hunter goodman",
+      "pitcher": "steven okert",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "mickey moniak",
       "pitcher": "steven okert",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "jose altuve",
@@ -4904,12 +4916,6 @@
     }
   },
   "det @ ath": {
-    "9": {
-      "player": "jacob wilson",
-      "pitcher": "charlie morton",
-      "result": "In play, run(s)",
-      "pitch": "Sinker"
-    },
     "8": {
       "player": "tyler soderstrom",
       "pitcher": "charlie morton",
