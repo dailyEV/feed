@@ -1287,8 +1287,8 @@
     "70": {
       "player": "anthony volpe",
       "pitcher": "konnor pilkington",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "69": {
       "player": "brady house",
@@ -2143,7 +2143,7 @@
     "69": {
       "player": "bryson stott",
       "pitcher": "ryan helsley",
-      "result": "Foul Tip",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -2924,11 +2924,17 @@
     }
   },
   "ari @ mil": {
+    "56": {
+      "player": "blaze alexander",
+      "pitcher": "tobias myers",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "55": {
       "player": "jake mccarthy",
       "pitcher": "tobias myers",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "christian yelich",
@@ -4257,8 +4263,8 @@
     "5": {
       "player": "carson kelly",
       "pitcher": "justin verlander",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "pete crow armstrong",
