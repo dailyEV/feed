@@ -784,6 +784,18 @@
     }
   },
   "atl @ mia": {
+    "81": {
+      "player": "jakob marsee",
+      "pitcher": "wander suero",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "80": {
+      "player": "xavier edwards",
+      "pitcher": "wander suero",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "79": {
       "player": "javier sanoja",
       "pitcher": "wander suero",
@@ -1637,7 +1649,7 @@
     "64": {
       "player": "james outman",
       "pitcher": "brendon little",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Knuckle Curve"
     },
     "63": {
@@ -2023,8 +2035,8 @@
     "62": {
       "player": "jt realmuto",
       "pitcher": "tyler rogers",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "61": {
       "player": "bryce harper",
@@ -2394,6 +2406,12 @@
     }
   },
   "kc @ chw": {
+    "52": {
+      "player": "jonathan india",
+      "pitcher": "jordan leasure",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "51": {
       "player": "mike yastrzemski",
       "pitcher": "jordan leasure",
@@ -2977,8 +2995,8 @@
     "52": {
       "player": "nolan gorman",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "51": {
       "player": "willson contreras",
@@ -3288,11 +3306,17 @@
     }
   },
   "laa @ tex": {
+    "38": {
+      "player": "corey seager",
+      "pitcher": "chase silseth",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "37": {
       "player": "ezequiel duran",
       "pitcher": "chase silseth",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Splitter"
     },
     "36": {
       "player": "niko kavadas",
@@ -3515,8 +3539,8 @@
     "39": {
       "player": "hunter goodman",
       "pitcher": "hunter brown",
-      "result": "Ball In Dirt",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "38": {
       "player": "mickey moniak",
