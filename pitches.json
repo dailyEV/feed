@@ -1,11 +1,5 @@
 {
   "bos @ bal": {
-    "50": {
-      "player": "ceddanne rafaela",
-      "pitcher": "yaramil hiraldo",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "49": {
       "player": "dylan beavers",
       "pitcher": "lucas giolito",
@@ -580,6 +574,12 @@
     }
   },
   "atl @ mia": {
+    "46": {
+      "player": "heriberto hernandez",
+      "pitcher": "hurston waldrep",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "45": {
       "player": "liam hicks",
       "pitcher": "hurston waldrep",
@@ -1025,8 +1025,8 @@
     "32": {
       "player": "ty france",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "ernie clement",
@@ -1499,8 +1499,8 @@
     "14": {
       "player": "blake perkins",
       "pitcher": "brandon pfaadt",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "13": {
       "player": "anthony seigler",
@@ -1582,11 +1582,17 @@
     }
   },
   "pit @ stl": {
+    "15": {
+      "player": "spencer horwitz",
+      "pitcher": "andre pallante",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "jared triolo",
       "pitcher": "andre pallante",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "willson contreras",
