@@ -694,10 +694,16 @@
     }
   },
   "atl @ mia": {
+    "55": {
+      "player": "jakob marsee",
+      "pitcher": "dylan lee",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "54": {
       "player": "xavier edwards",
       "pitcher": "dylan lee",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -1023,8 +1029,8 @@
     "38": {
       "player": "cj abrams",
       "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "37": {
       "player": "james wood",
@@ -1880,6 +1886,12 @@
     }
   },
   "ari @ mil": {
+    "22": {
+      "player": "christian yelich",
+      "pitcher": "brandon pfaadt",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "william contreras",
       "pitcher": "brandon pfaadt",
@@ -2151,8 +2163,8 @@
     "11": {
       "player": "kyle higashioka",
       "pitcher": "yusei kikuchi",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "10": {
       "player": "cody freeman",
