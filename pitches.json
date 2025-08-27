@@ -3167,7 +3167,7 @@
     "78": {
       "player": "james mccann",
       "pitcher": "shelby miller",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "77": {
@@ -4906,6 +4906,12 @@
     }
   },
   "sd @ sea": {
+    "33": {
+      "player": "eugenio suarez",
+      "pitcher": "dylan cease",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "josh naylor",
       "pitcher": "dylan cease",
@@ -5103,8 +5109,8 @@
     "29": {
       "player": "dansby swanson",
       "pitcher": "justin verlander",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "28": {
       "player": "nico hoerner",
@@ -5279,8 +5285,8 @@
     "21": {
       "player": "gleyber torres",
       "pitcher": "osvaldo bido",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "colt keith",
@@ -5404,6 +5410,18 @@
     }
   },
   "cin @ lad": {
+    "19": {
+      "player": "spencer steer",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
+    "18": {
+      "player": "matt mclain",
+      "pitcher": "clayton kershaw",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "17": {
       "player": "alex freeland",
       "pitcher": "nick martinez",
