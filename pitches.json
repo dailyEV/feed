@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "68": {
+      "player": "samuel basallo",
+      "pitcher": "justin wilson",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "67": {
       "player": "colton cowser",
       "pitcher": "justin wilson",
@@ -1452,7 +1458,7 @@
       "player": "ernie clement",
       "pitcher": "cole sands",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Splitter"
     },
     "49": {
       "player": "alejandro kirk",
@@ -1753,8 +1759,8 @@
     "45": {
       "player": "mark vientos",
       "pitcher": "orion kerkering",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "44": {
       "player": "pete alonso",
@@ -2425,8 +2431,8 @@
     "35": {
       "player": "nolan gorman",
       "pitcher": "mitch keller",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "willson contreras",
@@ -2774,11 +2780,17 @@
     }
   },
   "col @ hou": {
+    "24": {
+      "player": "hunter goodman",
+      "pitcher": "hunter brown",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "mickey moniak",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Knuckle Curve"
     },
     "22": {
       "player": "tyler freeman",
