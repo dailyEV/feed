@@ -362,12 +362,6 @@
     }
   },
   "tb @ cle": {
-    "58": {
-      "player": "chandler simpson",
-      "pitcher": "cade smith",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "56": {
       "player": "cj kayfus",
       "pitcher": "mason montgomery",
@@ -1044,10 +1038,16 @@
     }
   },
   "wsh @ nyy": {
+    "40": {
+      "player": "josh bell",
+      "pitcher": "luis gil",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "luis garcia",
       "pitcher": "luis gil",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -1531,8 +1531,8 @@
     "37": {
       "player": "kyle schwarber",
       "pitcher": "gregory soto",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "trea turner",
@@ -1925,7 +1925,7 @@
     "23": {
       "player": "andrew vaughn",
       "pitcher": "brandon pfaadt",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "22": {
@@ -2279,7 +2279,7 @@
     "13": {
       "player": "victor caratini",
       "pitcher": "tanner gordon",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "12": {
