@@ -787,8 +787,8 @@
     "72": {
       "player": "matt olson",
       "pitcher": "josh simpson",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "71": {
       "player": "jurickson profar",
@@ -1218,6 +1218,12 @@
     }
   },
   "wsh @ nyy": {
+    "53": {
+      "player": "ryan mcmahon",
+      "pitcher": "orlando ribalta",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "trent grisham",
       "pitcher": "orlando ribalta",
@@ -1532,6 +1538,12 @@
     }
   },
   "min @ tor": {
+    "56": {
+      "player": "ryan jeffers",
+      "pitcher": "brendon little",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "austin martin",
       "pitcher": "louis varland",
@@ -1867,7 +1879,7 @@
     "51": {
       "player": "nick castellanos",
       "pitcher": "huascar brazoban",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "50": {
@@ -2441,7 +2453,7 @@
     "36": {
       "player": "william contreras",
       "pitcher": "jake woodford",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "35": {
@@ -2659,8 +2671,8 @@
     "42": {
       "player": "yohel pozo",
       "pitcher": "mitch keller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "41": {
       "player": "jordan walker",
@@ -3086,12 +3098,6 @@
     }
   },
   "col @ hou": {
-    "29": {
-      "player": "brenton doyle",
-      "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
-    },
     "28": {
       "player": "jesus sanchez",
       "pitcher": "tanner gordon",
