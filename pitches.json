@@ -1245,7 +1245,7 @@
     "60": {
       "player": "josh bell",
       "pitcher": "tim hill",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "59": {
@@ -1981,8 +1981,8 @@
     "57": {
       "player": "juan soto",
       "pitcher": "tanner banks",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "56": {
       "player": "francisco lindor",
@@ -2866,6 +2866,12 @@
     }
   },
   "pit @ stl": {
+    "48": {
+      "player": "lars nootbaar",
+      "pitcher": "mitch keller",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "47": {
       "player": "spencer horwitz",
       "pitcher": "gordon graceffo",
@@ -3150,6 +3156,12 @@
     }
   },
   "laa @ tex": {
+    "34": {
+      "player": "travis darnaud",
+      "pitcher": "patrick corbin",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "33": {
       "player": "wyatt langford",
       "pitcher": "yusei kikuchi",
@@ -3350,6 +3362,12 @@
     }
   },
   "col @ hou": {
+    "37": {
+      "player": "tyler freeman",
+      "pitcher": "hunter brown",
+      "result": "Foul Bunt",
+      "pitch": "Knuckle Curve"
+    },
     "36": {
       "player": "ryan ritter",
       "pitcher": "hunter brown",
