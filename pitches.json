@@ -4888,10 +4888,16 @@
     }
   },
   "sd @ sea": {
+    "31": {
+      "player": "julio rodriguez",
+      "pitcher": "dylan cease",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "cal raleigh",
       "pitcher": "dylan cease",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "29": {
@@ -5070,6 +5076,12 @@
     }
   },
   "chc @ sf": {
+    "28": {
+      "player": "nico hoerner",
+      "pitcher": "justin verlander",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
     "27": {
       "player": "ian happ",
       "pitcher": "justin verlander",
@@ -5347,8 +5359,8 @@
     "17": {
       "player": "alex freeland",
       "pitcher": "nick martinez",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "16": {
       "player": "enrique hernandez",
