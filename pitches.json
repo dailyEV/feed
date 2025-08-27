@@ -3,8 +3,8 @@
     "44": {
       "player": "trevor story",
       "pitcher": "keegan akin",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "43": {
       "player": "colton cowser",
@@ -529,7 +529,7 @@
     "41": {
       "player": "otto lopez",
       "pitcher": "hurston waldrep",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "40": {
@@ -774,6 +774,12 @@
     }
   },
   "wsh @ nyy": {
+    "26": {
+      "player": "cody bellinger",
+      "pitcher": "mackenzie gore",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "25": {
       "player": "aaron judge",
       "pitcher": "mackenzie gore",
@@ -929,8 +935,8 @@
     "28": {
       "player": "matt wallner",
       "pitcher": "chris bassitt",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "27": {
       "player": "luke keaschall",
@@ -1096,12 +1102,6 @@
     }
   },
   "phi @ nym": {
-    "25": {
-      "player": "jt realmuto",
-      "pitcher": "sean manaea",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "24": {
       "player": "bryce harper",
       "pitcher": "sean manaea",
@@ -1316,6 +1316,12 @@
     }
   },
   "ari @ mil": {
+    "11": {
+      "player": "pavin smith",
+      "pitcher": "jacob misiorowski",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "10": {
       "player": "lourdes gurriel",
       "pitcher": "jacob misiorowski",
@@ -1378,6 +1384,12 @@
     }
   },
   "pit @ stl": {
+    "10": {
+      "player": "lars nootbaar",
+      "pitcher": "mitch keller",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "isiah kiner falefa",
       "pitcher": "andre pallante",
