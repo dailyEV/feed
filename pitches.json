@@ -1096,7 +1096,7 @@
       "player": "paul goldschmidt",
       "pitcher": "mackenzie gore",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "41": {
       "player": "austin wells",
@@ -1346,17 +1346,11 @@
     }
   },
   "min @ tor": {
-    "46": {
-      "player": "edouard julien",
-      "pitcher": "chris bassitt",
-      "result": "Called Strike",
-      "pitch": "Changeup"
-    },
     "45": {
       "player": "matt wallner",
       "pitcher": "chris bassitt",
       "result": "Called Strike",
-      "pitch": "Curveball"
+      "pitch": "Sinker"
     },
     "44": {
       "player": "luke keaschall",
@@ -1875,8 +1869,8 @@
     "33": {
       "player": "curtis mead",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "32": {
       "player": "andrew benintendi",
@@ -2075,8 +2069,8 @@
     "27": {
       "player": "blake perkins",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "anthony seigler",
@@ -2492,6 +2486,12 @@
     }
   },
   "col @ hou": {
+    "17": {
+      "player": "carlos correa",
+      "pitcher": "tanner gordon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "jeremy pena",
       "pitcher": "tanner gordon",
