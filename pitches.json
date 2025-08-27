@@ -784,6 +784,12 @@
     }
   },
   "atl @ mia": {
+    "76": {
+      "player": "ozzie albies",
+      "pitcher": "josh simpson",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "75": {
       "player": "eli white",
       "pitcher": "josh simpson",
@@ -1583,8 +1589,8 @@
     "60": {
       "player": "vladimir guerrero",
       "pitcher": "kody funderburk",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "59": {
       "player": "nathan lukes",
@@ -1942,12 +1948,6 @@
     }
   },
   "phi @ nym": {
-    "56": {
-      "player": "francisco lindor",
-      "pitcher": "tanner banks",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "55": {
       "player": "trea turner",
       "pitcher": "huascar brazoban",
@@ -2283,8 +2283,8 @@
     "48": {
       "player": "curtis mead",
       "pitcher": "taylor clarke",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "47": {
       "player": "salvador perez",
@@ -2812,11 +2812,17 @@
     }
   },
   "pit @ stl": {
+    "47": {
+      "player": "spencer horwitz",
+      "pitcher": "gordon graceffo",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "jared triolo",
       "pitcher": "gordon graceffo",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "isiah kiner falefa",
