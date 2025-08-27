@@ -1,11 +1,5 @@
 {
   "bos @ bal": {
-    "56": {
-      "player": "vimael machin",
-      "pitcher": "lucas giolito",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "55": {
       "player": "jarren duran",
       "pitcher": "yaramil hiraldo",
@@ -341,7 +335,7 @@
     "52": {
       "player": "carson williams",
       "pitcher": "hunter gaddis",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "51": {
@@ -655,8 +649,8 @@
     "51": {
       "player": "nacho alvarez",
       "pitcher": "sandy alcantara",
-      "result": "Ball In Dirt",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "50": {
       "player": "ozzie albies",
@@ -960,12 +954,6 @@
     }
   },
   "wsh @ nyy": {
-    "34": {
-      "player": "amed rosario",
-      "pitcher": "mackenzie gore",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "33": {
       "player": "jacob young",
       "pitcher": "luis gil",
@@ -1390,11 +1378,17 @@
     }
   },
   "phi @ nym": {
+    "34": {
+      "player": "edmundo sosa",
+      "pitcher": "sean manaea",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "harrison bader",
       "pitcher": "sean manaea",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "jeff mcneil",
@@ -1733,8 +1727,8 @@
     "20": {
       "player": "brice turang",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "19": {
       "player": "geraldo perdomo",
@@ -2024,6 +2018,12 @@
     }
   },
   "col @ hou": {
+    "8": {
+      "player": "christian walker",
+      "pitcher": "tanner gordon",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "7": {
       "player": "yordan alvarez",
       "pitcher": "tanner gordon",
