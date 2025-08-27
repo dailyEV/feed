@@ -1284,6 +1284,12 @@
     }
   },
   "wsh @ nyy": {
+    "67": {
+      "player": "riley adams",
+      "pitcher": "camilo doval",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "66": {
       "player": "jazz chisholm",
       "pitcher": "clayton beeter",
@@ -1685,7 +1691,7 @@
     "69": {
       "player": "ty france",
       "pitcher": "michael tonkin",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -3160,11 +3166,23 @@
     }
   },
   "pit @ stl": {
+    "59": {
+      "player": "jordan walker",
+      "pitcher": "kyle nicolas",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "58": {
+      "player": "thomas saggese",
+      "pitcher": "kyle nicolas",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "57": {
       "player": "masyn winn",
       "pitcher": "kyle nicolas",
       "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "56": {
       "player": "jack suwinski",
@@ -3504,12 +3522,6 @@
     }
   },
   "laa @ tex": {
-    "44": {
-      "player": "mike trout",
-      "pitcher": "patrick corbin",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
-    },
     "43": {
       "player": "zach neto",
       "pitcher": "patrick corbin",
@@ -4042,6 +4054,12 @@
     }
   },
   "sd @ sea": {
+    "3": {
+      "player": "manny machado",
+      "pitcher": "luis castillo",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "2": {
       "player": "luis arraez",
       "pitcher": "luis castillo",
@@ -4055,7 +4073,14 @@
       "pitch": "Sinker"
     }
   },
-  "chc @ sf": {},
+  "chc @ sf": {
+    "1": {
+      "player": "michael busch",
+      "pitcher": "justin verlander",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "det @ ath": {},
   "cin @ lad": {}
 }
