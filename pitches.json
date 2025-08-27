@@ -1865,8 +1865,8 @@
     "36": {
       "player": "dylan beavers",
       "pitcher": "brayan bello",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "coby mayo",
@@ -2190,11 +2190,17 @@
     }
   },
   "phi @ nym": {
+    "21": {
+      "player": "pete alonso",
+      "pitcher": "taijuan walker",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "20": {
       "player": "juan soto",
       "pitcher": "taijuan walker",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "Splitter"
     },
     "19": {
       "player": "francisco lindor",
@@ -2315,8 +2321,8 @@
     "3": {
       "player": "vinnie pasquantino",
       "pitcher": "aaron civale",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "2": {
       "player": "bobby witt",
@@ -2358,6 +2364,12 @@
     }
   },
   "pit @ stl": {
+    "2": {
+      "player": "spencer horwitz",
+      "pitcher": "sonny gray",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "1": {
       "player": "jared triolo",
       "pitcher": "sonny gray",
