@@ -3167,8 +3167,8 @@
     "80": {
       "player": "tyler locklear",
       "pitcher": "shelby miller",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "78": {
       "player": "james mccann",
@@ -4484,10 +4484,16 @@
     }
   },
   "col @ hou": {
+    "74": {
+      "player": "carlos correa",
+      "pitcher": "juan mejia",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "73": {
       "player": "jeremy pena",
       "pitcher": "juan mejia",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -4927,8 +4933,8 @@
     "33": {
       "player": "eugenio suarez",
       "pitcher": "dylan cease",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "josh naylor",
@@ -5124,12 +5130,6 @@
     }
   },
   "chc @ sf": {
-    "31": {
-      "player": "michael busch",
-      "pitcher": "justin verlander",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
     "30": {
       "player": "matt shaw",
       "pitcher": "justin verlander",
@@ -5449,8 +5449,8 @@
     "20": {
       "player": "noelvi marte",
       "pitcher": "clayton kershaw",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "spencer steer",
