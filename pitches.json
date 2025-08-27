@@ -1,17 +1,5 @@
 {
   "bos @ bal": {
-    "57": {
-      "player": "alex jackson",
-      "pitcher": "lucas giolito",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "56": {
-      "player": "vimael machin",
-      "pitcher": "lucas giolito",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
     "55": {
       "player": "jarren duran",
       "pitcher": "yaramil hiraldo",
@@ -347,8 +335,8 @@
     "52": {
       "player": "carson williams",
       "pitcher": "hunter gaddis",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "51": {
       "player": "josh lowe",
@@ -658,11 +646,17 @@
     }
   },
   "atl @ mia": {
-    "51": {
-      "player": "nacho alvarez",
+    "52": {
+      "player": "sean murphy",
       "pitcher": "sandy alcantara",
       "result": "Ball",
       "pitch": "Sinker"
+    },
+    "51": {
+      "player": "nacho alvarez",
+      "pitcher": "sandy alcantara",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "ozzie albies",
@@ -1172,17 +1166,11 @@
     }
   },
   "min @ tor": {
-    "38": {
-      "player": "george springer",
-      "pitcher": "bailey ober",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "37": {
       "player": "trevor larnach",
       "pitcher": "chris bassitt",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "austin martin",
@@ -1608,11 +1596,17 @@
     }
   },
   "kc @ chw": {
+    "24": {
+      "player": "salvador perez",
+      "pitcher": "martin perez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "23": {
       "player": "vinnie pasquantino",
       "pitcher": "martin perez",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "22": {
       "player": "bobby witt",
@@ -1751,8 +1745,8 @@
     "20": {
       "player": "brice turang",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "19": {
       "player": "geraldo perdomo",
@@ -1998,6 +1992,12 @@
     }
   },
   "laa @ tex": {
+    "8": {
+      "player": "adolis garcia",
+      "pitcher": "yusei kikuchi",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "7": {
       "player": "corey seager",
       "pitcher": "yusei kikuchi",
