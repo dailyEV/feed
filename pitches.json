@@ -1287,7 +1287,7 @@
     "67": {
       "player": "riley adams",
       "pitcher": "camilo doval",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "66": {
@@ -2107,7 +2107,7 @@
     "67": {
       "player": "nick castellanos",
       "pitcher": "ryan helsley",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -2508,6 +2508,12 @@
     }
   },
   "kc @ chw": {
+    "58": {
+      "player": "miguel vargas",
+      "pitcher": "sam long",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "57": {
       "player": "bobby witt",
       "pitcher": "grant taylor",
@@ -2855,8 +2861,8 @@
     "52": {
       "player": "brice turang",
       "pitcher": "john curtiss",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "51": {
       "player": "andruw monasterio",
@@ -3169,8 +3175,8 @@
     "59": {
       "player": "jordan walker",
       "pitcher": "kyle nicolas",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "58": {
       "player": "thomas saggese",
@@ -3522,6 +3528,12 @@
     }
   },
   "laa @ tex": {
+    "44": {
+      "player": "mike trout",
+      "pitcher": "patrick corbin",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "43": {
       "player": "zach neto",
       "pitcher": "patrick corbin",
@@ -4054,11 +4066,17 @@
     }
   },
   "sd @ sea": {
+    "4": {
+      "player": "ryan ohearn",
+      "pitcher": "luis castillo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "manny machado",
       "pitcher": "luis castillo",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "luis arraez",
@@ -4074,6 +4092,12 @@
     }
   },
   "chc @ sf": {
+    "2": {
+      "player": "kyle tucker",
+      "pitcher": "justin verlander",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "1": {
       "player": "michael busch",
       "pitcher": "justin verlander",
