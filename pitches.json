@@ -1287,7 +1287,7 @@
     "67": {
       "player": "riley adams",
       "pitcher": "camilo doval",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "66": {
@@ -2107,7 +2107,7 @@
     "67": {
       "player": "nick castellanos",
       "pitcher": "ryan helsley",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -3175,8 +3175,8 @@
     "59": {
       "player": "jordan walker",
       "pitcher": "kyle nicolas",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "thomas saggese",
@@ -3794,6 +3794,12 @@
     }
   },
   "col @ hou": {
+    "46": {
+      "player": "brenton doyle",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "45": {
       "player": "christian walker",
       "pitcher": "tanner gordon",
@@ -4066,17 +4072,11 @@
     }
   },
   "sd @ sea": {
-    "4": {
-      "player": "ryan ohearn",
-      "pitcher": "luis castillo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "3": {
       "player": "manny machado",
       "pitcher": "luis castillo",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "2": {
       "player": "luis arraez",
