@@ -637,7 +637,7 @@
     "50": {
       "player": "ozzie albies",
       "pitcher": "sandy alcantara",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "49": {
@@ -939,8 +939,8 @@
     "33": {
       "player": "jacob young",
       "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "robert hassell",
@@ -1140,7 +1140,7 @@
       "player": "trevor larnach",
       "pitcher": "chris bassitt",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "36": {
       "player": "austin martin",
@@ -1560,6 +1560,12 @@
     }
   },
   "kc @ chw": {
+    "22": {
+      "player": "bobby witt",
+      "pitcher": "martin perez",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "miguel vargas",
       "pitcher": "michael lorenzen",
@@ -1804,6 +1810,12 @@
     }
   },
   "pit @ stl": {
+    "20": {
+      "player": "masyn winn",
+      "pitcher": "mitch keller",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "nolan gorman",
       "pitcher": "mitch keller",
@@ -1923,8 +1935,8 @@
     "7": {
       "player": "corey seager",
       "pitcher": "yusei kikuchi",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "ezequiel duran",
@@ -1964,12 +1976,6 @@
     }
   },
   "col @ hou": {
-    "7": {
-      "player": "yordan alvarez",
-      "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "6": {
       "player": "jose altuve",
       "pitcher": "tanner gordon",
