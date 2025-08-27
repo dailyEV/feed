@@ -2107,8 +2107,8 @@
     "67": {
       "player": "nick castellanos",
       "pitcher": "ryan helsley",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "66": {
       "player": "alec bohm",
@@ -2511,7 +2511,7 @@
     "58": {
       "player": "miguel vargas",
       "pitcher": "sam long",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -3175,8 +3175,8 @@
     "59": {
       "player": "jordan walker",
       "pitcher": "kyle nicolas",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "58": {
       "player": "thomas saggese",
@@ -4072,11 +4072,17 @@
     }
   },
   "sd @ sea": {
+    "4": {
+      "player": "ryan ohearn",
+      "pitcher": "luis castillo",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "manny machado",
       "pitcher": "luis castillo",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "luis arraez",
@@ -4095,8 +4101,8 @@
     "2": {
       "player": "kyle tucker",
       "pitcher": "justin verlander",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "michael busch",
