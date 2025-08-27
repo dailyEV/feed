@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "65": {
+      "player": "carlos narvaez",
+      "pitcher": "yennier cano",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "64": {
       "player": "david hamilton",
       "pitcher": "yennier cano",
@@ -751,8 +757,8 @@
     "61": {
       "player": "michael harris",
       "pitcher": "tyler phillips",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "60": {
       "player": "ronald acuna",
@@ -1116,6 +1122,12 @@
     }
   },
   "wsh @ nyy": {
+    "45": {
+      "player": "dylan crews",
+      "pitcher": "fernando cruz",
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
+    },
     "44": {
       "player": "riley adams",
       "pitcher": "fernando cruz",
@@ -2144,12 +2156,6 @@
     }
   },
   "ari @ mil": {
-    "28": {
-      "player": "andruw monasterio",
-      "pitcher": "jake woodford",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "27": {
       "player": "blake perkins",
       "pitcher": "brandon pfaadt",
@@ -2621,7 +2627,7 @@
     "21": {
       "player": "ryan ritter",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "20": {
