@@ -1284,12 +1284,6 @@
     }
   },
   "wsh @ nyy": {
-    "70": {
-      "player": "anthony volpe",
-      "pitcher": "konnor pilkington",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "69": {
       "player": "brady house",
       "pitcher": "camilo doval",
@@ -1709,7 +1703,7 @@
     "72": {
       "player": "ryan jeffers",
       "pitcher": "jeff hoffman",
-      "result": "Ball In Dirt",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "71": {
@@ -2559,8 +2553,8 @@
     "61": {
       "player": "colson montgomery",
       "pitcher": "sam long",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "lenyn sosa",
@@ -3256,11 +3250,17 @@
     }
   },
   "pit @ stl": {
+    "62": {
+      "player": "isiah kiner falefa",
+      "pitcher": "jorge alcala",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "61": {
       "player": "liover peguero",
       "pitcher": "jorge alcala",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "henry davis",
@@ -4245,8 +4245,8 @@
     "5": {
       "player": "carson kelly",
       "pitcher": "justin verlander",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "pete crow armstrong",
