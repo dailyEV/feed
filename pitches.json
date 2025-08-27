@@ -323,7 +323,7 @@
     "48": {
       "player": "bo naylor",
       "pitcher": "griffin jax",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -610,6 +610,12 @@
     }
   },
   "atl @ mia": {
+    "48": {
+      "player": "derek hill",
+      "pitcher": "dylan dodd",
+      "result": "Missed Bunt",
+      "pitch": "Cutter"
+    },
     "47": {
       "player": "eric wagaman",
       "pitcher": "dylan dodd",
@@ -1473,8 +1479,8 @@
     "20": {
       "player": "mike tauchman",
       "pitcher": "michael lorenzen",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "19": {
       "player": "brooks baldwin",
@@ -1595,7 +1601,7 @@
     "17": {
       "player": "blaze alexander",
       "pitcher": "jacob misiorowski",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "16": {
@@ -1699,8 +1705,8 @@
     "16": {
       "player": "bryan reynolds",
       "pitcher": "andre pallante",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "spencer horwitz",
@@ -1826,6 +1832,12 @@
     }
   },
   "col @ hou": {
+    "4": {
+      "player": "jeremy pena",
+      "pitcher": "tanner gordon",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "hunter goodman",
       "pitcher": "hunter brown",
