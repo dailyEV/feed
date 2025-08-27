@@ -2137,7 +2137,7 @@
     "69": {
       "player": "bryson stott",
       "pitcher": "ryan helsley",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -2921,8 +2921,8 @@
     "55": {
       "player": "jake mccarthy",
       "pitcher": "tobias myers",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "54": {
       "player": "christian yelich",
@@ -3253,8 +3253,8 @@
     "61": {
       "player": "liover peguero",
       "pitcher": "jorge alcala",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "60": {
       "player": "henry davis",
@@ -3618,6 +3618,12 @@
     }
   },
   "laa @ tex": {
+    "47": {
+      "player": "michael helman",
+      "pitcher": "sam bachman",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "jonah heim",
       "pitcher": "sam bachman",
@@ -3896,12 +3902,6 @@
     }
   },
   "col @ hou": {
-    "49": {
-      "player": "jesus sanchez",
-      "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "48": {
       "player": "warming bernabel",
       "pitcher": "hunter brown",
@@ -4230,6 +4230,12 @@
     }
   },
   "chc @ sf": {
+    "5": {
+      "player": "carson kelly",
+      "pitcher": "justin verlander",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "pete crow armstrong",
       "pitcher": "justin verlander",
