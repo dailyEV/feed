@@ -688,16 +688,10 @@
     }
   },
   "atl @ mia": {
-    "55": {
-      "player": "jakob marsee",
-      "pitcher": "dylan lee",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "54": {
       "player": "xavier edwards",
       "pitcher": "dylan lee",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -1023,8 +1017,8 @@
     "38": {
       "player": "cj abrams",
       "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "james wood",
@@ -1250,12 +1244,6 @@
     }
   },
   "min @ tor": {
-    "40": {
-      "player": "vladimir guerrero",
-      "pitcher": "bailey ober",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
     "39": {
       "player": "nathan lukes",
       "pitcher": "bailey ober",
@@ -1710,6 +1698,12 @@
     }
   },
   "kc @ chw": {
+    "27": {
+      "player": "colson montgomery",
+      "pitcher": "michael lorenzen",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "26": {
       "player": "lenyn sosa",
       "pitcher": "michael lorenzen",
@@ -1868,6 +1862,12 @@
     }
   },
   "ari @ mil": {
+    "22": {
+      "player": "christian yelich",
+      "pitcher": "brandon pfaadt",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "william contreras",
       "pitcher": "brandon pfaadt",
@@ -2000,7 +2000,7 @@
       "player": "henry davis",
       "pitcher": "andre pallante",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "jack suwinski",
@@ -2139,8 +2139,8 @@
     "11": {
       "player": "kyle higashioka",
       "pitcher": "yusei kikuchi",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "cody freeman",
