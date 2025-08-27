@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "45": {
+      "player": "nathaniel lowe",
+      "pitcher": "keegan akin",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "trevor story",
       "pitcher": "keegan akin",
@@ -269,7 +275,7 @@
     "43": {
       "player": "david fry",
       "pitcher": "shane baz",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -777,8 +783,8 @@
     "26": {
       "player": "cody bellinger",
       "pitcher": "mackenzie gore",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "aaron judge",
@@ -936,7 +942,7 @@
       "player": "matt wallner",
       "pitcher": "chris bassitt",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Cutter"
     },
     "27": {
       "player": "luke keaschall",
@@ -1102,6 +1108,12 @@
     }
   },
   "phi @ nym": {
+    "25": {
+      "player": "jt realmuto",
+      "pitcher": "sean manaea",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "24": {
       "player": "bryce harper",
       "pitcher": "sean manaea",
@@ -1248,6 +1260,12 @@
     }
   },
   "kc @ chw": {
+    "12": {
+      "player": "luis robert",
+      "pitcher": "michael lorenzen",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "colson montgomery",
       "pitcher": "michael lorenzen",
@@ -1316,12 +1334,6 @@
     }
   },
   "ari @ mil": {
-    "11": {
-      "player": "pavin smith",
-      "pitcher": "jacob misiorowski",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "10": {
       "player": "lourdes gurriel",
       "pitcher": "jacob misiorowski",
@@ -1387,8 +1399,8 @@
     "10": {
       "player": "lars nootbaar",
       "pitcher": "mitch keller",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "9": {
       "player": "isiah kiner falefa",
