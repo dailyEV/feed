@@ -1740,7 +1740,7 @@
       "player": "vladimir guerrero",
       "pitcher": "justin topa",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "81": {
       "player": "daulton varsho",
@@ -2703,8 +2703,8 @@
     "71": {
       "player": "edgar quero",
       "pitcher": "carlos estevez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "70": {
       "player": "bobby witt",
@@ -3131,7 +3131,7 @@
     "66": {
       "player": "james mccann",
       "pitcher": "jared koenig",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "65": {
@@ -3526,6 +3526,12 @@
     }
   },
   "pit @ stl": {
+    "73": {
+      "player": "masyn winn",
+      "pitcher": "isaac mattson",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "72": {
       "player": "nolan gorman",
       "pitcher": "isaac mattson",
@@ -3963,8 +3969,8 @@
     "60": {
       "player": "cody freeman",
       "pitcher": "ryan zeferjahn",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "59": {
       "player": "josh jung",
@@ -4687,8 +4693,8 @@
     "19": {
       "player": "jorge polanco",
       "pitcher": "dylan cease",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "eugenio suarez",
@@ -4803,8 +4809,8 @@
     "16": {
       "player": "patrick bailey",
       "pitcher": "matthew boyd",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "luis matos",
@@ -4898,11 +4904,17 @@
     }
   },
   "det @ ath": {
+    "9": {
+      "player": "jacob wilson",
+      "pitcher": "charlie morton",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "tyler soderstrom",
       "pitcher": "charlie morton",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "7": {
       "player": "brent rooker",
