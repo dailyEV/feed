@@ -3,7 +3,7 @@
     "62": {
       "player": "masataka yoshida",
       "pitcher": "yaramil hiraldo",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "61": {
@@ -739,8 +739,8 @@
     "59": {
       "player": "matt olson",
       "pitcher": "cade gibson",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "58": {
       "player": "jurickson profar",
@@ -1092,6 +1092,12 @@
     }
   },
   "wsh @ nyy": {
+    "41": {
+      "player": "austin wells",
+      "pitcher": "mackenzie gore",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "josh bell",
       "pitcher": "luis gil",
@@ -1594,6 +1600,12 @@
     }
   },
   "phi @ nym": {
+    "40": {
+      "player": "luis torrens",
+      "pitcher": "jesus luzardo",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "39": {
       "player": "jt realmuto",
       "pitcher": "gregory soto",
@@ -1830,12 +1842,6 @@
     }
   },
   "kc @ chw": {
-    "31": {
-      "player": "michael a taylor",
-      "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "30": {
       "player": "nick loftin",
       "pitcher": "martin perez",
@@ -2018,12 +2024,6 @@
     }
   },
   "ari @ mil": {
-    "26": {
-      "player": "anthony seigler",
-      "pitcher": "brandon pfaadt",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "25": {
       "player": "isaac collins",
       "pitcher": "brandon pfaadt",
@@ -2176,6 +2176,12 @@
     }
   },
   "pit @ stl": {
+    "28": {
+      "player": "lars nootbaar",
+      "pitcher": "mitch keller",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "yohel pozo",
       "pitcher": "mitch keller",
