@@ -356,6 +356,12 @@
     }
   },
   "tb @ cle": {
+    "55": {
+      "player": "steven kwan",
+      "pitcher": "mason montgomery",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "54": {
       "player": "angel martinez",
       "pitcher": "mason montgomery",
@@ -685,7 +691,7 @@
     "54": {
       "player": "xavier edwards",
       "pitcher": "dylan lee",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -1008,6 +1014,12 @@
     }
   },
   "wsh @ nyy": {
+    "38": {
+      "player": "cj abrams",
+      "pitcher": "luis gil",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "37": {
       "player": "james wood",
       "pitcher": "luis gil",
@@ -1232,12 +1244,6 @@
     }
   },
   "min @ tor": {
-    "39": {
-      "player": "nathan lukes",
-      "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "38": {
       "player": "george springer",
       "pitcher": "bailey ober",
@@ -1686,6 +1692,18 @@
     }
   },
   "kc @ chw": {
+    "26": {
+      "player": "lenyn sosa",
+      "pitcher": "michael lorenzen",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
+    "25": {
+      "player": "kyle teel",
+      "pitcher": "michael lorenzen",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "salvador perez",
       "pitcher": "martin perez",
@@ -1835,8 +1853,8 @@
     "21": {
       "player": "william contreras",
       "pitcher": "brandon pfaadt",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "20": {
       "player": "brice turang",
@@ -2100,11 +2118,17 @@
     }
   },
   "laa @ tex": {
+    "11": {
+      "player": "kyle higashioka",
+      "pitcher": "yusei kikuchi",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "10": {
       "player": "cody freeman",
       "pitcher": "yusei kikuchi",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "josh jung",
