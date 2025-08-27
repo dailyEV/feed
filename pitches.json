@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "60": {
+      "player": "trevor story",
+      "pitcher": "yaramil hiraldo",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "jeremiah jackson",
       "pitcher": "lucas giolito",
@@ -356,6 +362,12 @@
     }
   },
   "tb @ cle": {
+    "58": {
+      "player": "chandler simpson",
+      "pitcher": "cade smith",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "56": {
       "player": "cj kayfus",
       "pitcher": "mason montgomery",
@@ -1032,16 +1044,10 @@
     }
   },
   "wsh @ nyy": {
-    "40": {
-      "player": "josh bell",
-      "pitcher": "luis gil",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "39": {
       "player": "luis garcia",
       "pitcher": "luis gil",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -1746,6 +1752,12 @@
     }
   },
   "kc @ chw": {
+    "28": {
+      "player": "randal grichuk",
+      "pitcher": "martin perez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "27": {
       "player": "colson montgomery",
       "pitcher": "michael lorenzen",
@@ -1913,8 +1925,8 @@
     "23": {
       "player": "andrew vaughn",
       "pitcher": "brandon pfaadt",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "christian yelich",
@@ -2053,7 +2065,7 @@
     "24": {
       "player": "liover peguero",
       "pitcher": "andre pallante",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Knuckle Curve"
     },
     "23": {
