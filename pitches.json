@@ -3,7 +3,7 @@
     "44": {
       "player": "trevor story",
       "pitcher": "keegan akin",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -266,11 +266,17 @@
     }
   },
   "tb @ cle": {
+    "43": {
+      "player": "david fry",
+      "pitcher": "shane baz",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "42": {
       "player": "kyle manzardo",
       "pitcher": "shane baz",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "jose ramirez",
@@ -520,11 +526,23 @@
     }
   },
   "atl @ mia": {
+    "41": {
+      "player": "otto lopez",
+      "pitcher": "hurston waldrep",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
+    "40": {
+      "player": "agustin ramirez",
+      "pitcher": "hurston waldrep",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "39": {
       "player": "jakob marsee",
       "pitcher": "hurston waldrep",
       "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "pitch": "Splitter"
     },
     "38": {
       "player": "jurickson profar",
@@ -1236,6 +1254,12 @@
     }
   },
   "kc @ chw": {
+    "11": {
+      "player": "colson montgomery",
+      "pitcher": "michael lorenzen",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "lenyn sosa",
       "pitcher": "michael lorenzen",
@@ -1298,12 +1322,6 @@
     }
   },
   "ari @ mil": {
-    "11": {
-      "player": "pavin smith",
-      "pitcher": "jacob misiorowski",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "10": {
       "player": "lourdes gurriel",
       "pitcher": "jacob misiorowski",
