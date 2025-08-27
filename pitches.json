@@ -3565,7 +3565,7 @@
     "73": {
       "player": "masyn winn",
       "pitcher": "isaac mattson",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -4370,6 +4370,12 @@
     }
   },
   "col @ hou": {
+    "62": {
+      "player": "jordan beck",
+      "pitcher": "steven okert",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "61": {
       "player": "hunter goodman",
       "pitcher": "steven okert",
@@ -4741,8 +4747,8 @@
     "20": {
       "player": "xander bogaerts",
       "pitcher": "luis castillo",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "jorge polanco",
@@ -4964,11 +4970,17 @@
     }
   },
   "det @ ath": {
+    "11": {
+      "player": "lawrence butler",
+      "pitcher": "charlie morton",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "10": {
       "player": "colby thomas",
       "pitcher": "charlie morton",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Sinker"
     },
     "9": {
       "player": "jacob wilson",
