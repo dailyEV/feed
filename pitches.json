@@ -1284,10 +1284,16 @@
     }
   },
   "wsh @ nyy": {
+    "75": {
+      "player": "james wood",
+      "pitcher": "david bednar",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "74": {
       "player": "jacob young",
       "pitcher": "david bednar",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "73": {
@@ -2124,7 +2130,7 @@
       "player": "alejandro kirk",
       "pitcher": "bailey ober",
       "result": "In play, run(s)",
-      "pitch": "Curveball"
+      "pitch": "Sweeper"
     },
     "10": {
       "player": "addison barger",
@@ -3008,12 +3014,6 @@
     }
   },
   "ari @ mil": {
-    "60": {
-      "player": "corbin carroll",
-      "pitcher": "jared koenig",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
     "59": {
       "player": "ketel marte",
       "pitcher": "tobias myers",
@@ -3373,8 +3373,8 @@
     "66": {
       "player": "ivan herrera",
       "pitcher": "kyle nicolas",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "65": {
       "player": "lars nootbaar",
@@ -3771,8 +3771,8 @@
     "53": {
       "player": "corey seager",
       "pitcher": "sam bachman",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "52": {
       "player": "rowdy tellez",
@@ -4088,6 +4088,12 @@
     }
   },
   "col @ hou": {
+    "54": {
+      "player": "tyler freeman",
+      "pitcher": "hunter brown",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "53": {
       "player": "ryan ritter",
       "pitcher": "hunter brown",
@@ -4476,6 +4482,12 @@
     }
   },
   "chc @ sf": {
+    "9": {
+      "player": "ian happ",
+      "pitcher": "justin verlander",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "willy adames",
       "pitcher": "matthew boyd",
