@@ -784,11 +784,17 @@
     }
   },
   "atl @ mia": {
+    "75": {
+      "player": "eli white",
+      "pitcher": "josh simpson",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "74": {
       "player": "michael harris",
       "pitcher": "josh simpson",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "73": {
       "player": "ronald acuna",
@@ -2549,8 +2555,8 @@
     "40": {
       "player": "geraldo perdomo",
       "pitcher": "jacob misiorowski",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "39": {
       "player": "alek thomas",
@@ -2788,12 +2794,6 @@
     }
   },
   "pit @ stl": {
-    "46": {
-      "player": "jared triolo",
-      "pitcher": "gordon graceffo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "45": {
       "player": "isiah kiner falefa",
       "pitcher": "gordon graceffo",
@@ -3069,7 +3069,7 @@
     "33": {
       "player": "wyatt langford",
       "pitcher": "yusei kikuchi",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "32": {
