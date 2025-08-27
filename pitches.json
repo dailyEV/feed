@@ -1739,8 +1739,8 @@
     "80": {
       "player": "george springer",
       "pitcher": "justin topa",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "79": {
       "player": "andres gimenez",
@@ -3086,6 +3086,12 @@
     }
   },
   "ari @ mil": {
+    "65": {
+      "player": "anthony seigler",
+      "pitcher": "john curtiss",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "isaac collins",
       "pitcher": "john curtiss",
@@ -4247,8 +4253,8 @@
     "58": {
       "player": "carlos correa",
       "pitcher": "jimmy herget",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "57": {
       "player": "jeremy pena",
@@ -4784,6 +4790,12 @@
     }
   },
   "det @ ath": {
+    "5": {
+      "player": "nick kurtz",
+      "pitcher": "charlie morton",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "riley greene",
       "pitcher": "osvaldo bido",
@@ -4813,7 +4825,7 @@
     "2": {
       "player": "noelvi marte",
       "pitcher": "clayton kershaw",
-      "result": "Foul Tip",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "1": {
