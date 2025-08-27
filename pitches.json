@@ -3167,7 +3167,7 @@
     "84": {
       "player": "sal frelick",
       "pitcher": "kyle backhus",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "83": {
@@ -4963,7 +4963,7 @@
     "41": {
       "player": "cole young",
       "pitcher": "dylan cease",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "40": {
@@ -5208,10 +5208,16 @@
     }
   },
   "chc @ sf": {
+    "38": {
+      "player": "carson kelly",
+      "pitcher": "justin verlander",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "pete crow armstrong",
       "pitcher": "justin verlander",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "36": {
@@ -5618,7 +5624,7 @@
       "player": "austin hays",
       "pitcher": "clayton kershaw",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "26": {
       "player": "miguel andujar",
