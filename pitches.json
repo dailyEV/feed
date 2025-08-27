@@ -1739,7 +1739,7 @@
     "81": {
       "player": "daulton varsho",
       "pitcher": "justin topa",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Cutter"
     },
     "80": {
@@ -2227,8 +2227,8 @@
     "76": {
       "player": "kyle schwarber",
       "pitcher": "edwin diaz",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "75": {
       "player": "juan soto",
@@ -3107,8 +3107,8 @@
     "65": {
       "player": "anthony seigler",
       "pitcher": "john curtiss",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Cutter"
     },
     "64": {
       "player": "isaac collins",
@@ -4283,8 +4283,8 @@
     "59": {
       "player": "jose altuve",
       "pitcher": "jimmy herget",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul Bunt",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "carlos correa",
@@ -4639,8 +4639,8 @@
     "17": {
       "player": "josh naylor",
       "pitcher": "dylan cease",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "16": {
       "player": "ryan ohearn",
@@ -4870,6 +4870,12 @@
     }
   },
   "cin @ lad": {
+    "3": {
+      "player": "elly de la cruz",
+      "pitcher": "clayton kershaw",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "2": {
       "player": "noelvi marte",
       "pitcher": "clayton kershaw",
