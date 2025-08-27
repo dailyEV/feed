@@ -3167,7 +3167,7 @@
     "81": {
       "player": "william contreras",
       "pitcher": "juan morillo",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "80": {
@@ -4490,6 +4490,12 @@
     }
   },
   "col @ hou": {
+    "75": {
+      "player": "jose altuve",
+      "pitcher": "juan mejia",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "74": {
       "player": "carlos correa",
       "pitcher": "juan mejia",
@@ -4936,6 +4942,12 @@
     }
   },
   "sd @ sea": {
+    "35": {
+      "player": "luis arraez",
+      "pitcher": "luis castillo",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "jorge polanco",
       "pitcher": "dylan cease",
@@ -5142,11 +5154,17 @@
     }
   },
   "chc @ sf": {
+    "33": {
+      "player": "wilmer flores",
+      "pitcher": "matthew boyd",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "32": {
       "player": "casey schmitt",
       "pitcher": "matthew boyd",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "31": {
       "player": "michael busch",
