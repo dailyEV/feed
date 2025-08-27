@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "53": {
+      "player": "roman anthony",
+      "pitcher": "yaramil hiraldo",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "52": {
       "player": "carlos narvaez",
       "pitcher": "yaramil hiraldo",
@@ -317,8 +323,8 @@
     "48": {
       "player": "bo naylor",
       "pitcher": "griffin jax",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "christopher morel",
@@ -607,7 +613,7 @@
     "47": {
       "player": "eric wagaman",
       "pitcher": "dylan dodd",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "46": {
@@ -1464,6 +1470,18 @@
     }
   },
   "kc @ chw": {
+    "20": {
+      "player": "mike tauchman",
+      "pitcher": "michael lorenzen",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
+    "19": {
+      "player": "brooks baldwin",
+      "pitcher": "michael lorenzen",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "18": {
       "player": "curtis mead",
       "pitcher": "michael lorenzen",
@@ -1776,6 +1794,12 @@
     }
   },
   "laa @ tex": {
+    "5": {
+      "player": "wyatt langford",
+      "pitcher": "yusei kikuchi",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "jo adell",
       "pitcher": "patrick corbin",
@@ -1802,12 +1826,6 @@
     }
   },
   "col @ hou": {
-    "4": {
-      "player": "jeremy pena",
-      "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "3": {
       "player": "hunter goodman",
       "pitcher": "hunter brown",
