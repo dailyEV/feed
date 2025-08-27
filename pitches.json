@@ -1739,8 +1739,8 @@
     "78": {
       "player": "ty france",
       "pitcher": "justin topa",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "77": {
       "player": "james outman",
@@ -3068,11 +3068,17 @@
     }
   },
   "ari @ mil": {
-    "62": {
-      "player": "andrew vaughn",
+    "63": {
+      "player": "sal frelick",
       "pitcher": "john curtiss",
       "result": "Ball",
       "pitch": "4-Seam Fastball"
+    },
+    "62": {
+      "player": "andrew vaughn",
+      "pitcher": "john curtiss",
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "61": {
       "player": "lourdes gurriel",
@@ -3445,8 +3451,8 @@
     "69": {
       "player": "bryan reynolds",
       "pitcher": "ryan fernandez",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "spencer horwitz",
@@ -3861,7 +3867,7 @@
     "57": {
       "player": "niko kavadas",
       "pitcher": "patrick corbin",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "56": {
@@ -4543,8 +4549,8 @@
     "14": {
       "player": "luis arraez",
       "pitcher": "luis castillo",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "fernando tatis",
@@ -4629,8 +4635,8 @@
     "12": {
       "player": "casey schmitt",
       "pitcher": "matthew boyd",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "dansby swanson",
@@ -4700,11 +4706,17 @@
     }
   },
   "det @ ath": {
+    "4": {
+      "player": "riley greene",
+      "pitcher": "osvaldo bido",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "kerry carpenter",
       "pitcher": "osvaldo bido",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "2": {
       "player": "gleyber torres",
