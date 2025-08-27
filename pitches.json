@@ -4484,17 +4484,11 @@
     }
   },
   "col @ hou": {
-    "74": {
-      "player": "carlos correa",
-      "pitcher": "juan mejia",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "73": {
       "player": "jeremy pena",
       "pitcher": "juan mejia",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "72": {
       "player": "jacob melton",
@@ -5130,6 +5124,12 @@
     }
   },
   "chc @ sf": {
+    "31": {
+      "player": "michael busch",
+      "pitcher": "justin verlander",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "30": {
       "player": "matt shaw",
       "pitcher": "justin verlander",
@@ -5315,7 +5315,7 @@
     "22": {
       "player": "kerry carpenter",
       "pitcher": "osvaldo bido",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "21": {
