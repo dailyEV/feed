@@ -781,7 +781,7 @@
     "66": {
       "player": "marcell ozuna",
       "pitcher": "tyler zuber",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "65": {
@@ -1176,12 +1176,6 @@
     }
   },
   "wsh @ nyy": {
-    "49": {
-      "player": "james wood",
-      "pitcher": "tim hill",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
-    },
     "48": {
       "player": "jacob young",
       "pitcher": "fernando cruz",
@@ -1475,8 +1469,8 @@
     "51": {
       "player": "ty france",
       "pitcher": "cole sands",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "50": {
       "player": "ernie clement",
@@ -1780,10 +1774,16 @@
     }
   },
   "phi @ nym": {
+    "47": {
+      "player": "tyrone taylor",
+      "pitcher": "orion kerkering",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "brandon nimmo",
       "pitcher": "orion kerkering",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -2058,6 +2058,12 @@
     }
   },
   "kc @ chw": {
+    "39": {
+      "player": "miguel vargas",
+      "pitcher": "michael lorenzen",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "38": {
       "player": "mike tauchman",
       "pitcher": "michael lorenzen",
@@ -2288,12 +2294,6 @@
     }
   },
   "ari @ mil": {
-    "30": {
-      "player": "corbin carroll",
-      "pitcher": "jacob misiorowski",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "29": {
       "player": "ketel marte",
       "pitcher": "jacob misiorowski",
@@ -2473,7 +2473,7 @@
     "36": {
       "player": "masyn winn",
       "pitcher": "mitch keller",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "35": {
