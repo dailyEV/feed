@@ -816,6 +816,12 @@
     }
   },
   "wsh @ nyy": {
+    "27": {
+      "player": "giancarlo stanton",
+      "pitcher": "mackenzie gore",
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
+    },
     "26": {
       "player": "cody bellinger",
       "pitcher": "mackenzie gore",
@@ -977,7 +983,7 @@
     "30": {
       "player": "james outman",
       "pitcher": "chris bassitt",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "29": {
@@ -1156,17 +1162,11 @@
     }
   },
   "phi @ nym": {
-    "27": {
-      "player": "nick castellanos",
-      "pitcher": "sean manaea",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "26": {
       "player": "alec bohm",
       "pitcher": "sean manaea",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "25": {
       "player": "jt realmuto",
@@ -1547,7 +1547,14 @@
       "pitch": "Sinker"
     }
   },
-  "laa @ tex": {},
+  "laa @ tex": {
+    "1": {
+      "player": "zach neto",
+      "pitcher": "patrick corbin",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    }
+  },
   "col @ hou": {},
   "sd @ sea": {},
   "chc @ sf": {},
