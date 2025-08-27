@@ -1095,7 +1095,7 @@
     "42": {
       "player": "paul goldschmidt",
       "pitcher": "mackenzie gore",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "41": {
@@ -1627,7 +1627,7 @@
     "41": {
       "player": "francisco lindor",
       "pitcher": "jesus luzardo",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -2076,7 +2076,7 @@
       "player": "blake perkins",
       "pitcher": "brandon pfaadt",
       "result": "Called Strike",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "anthony seigler",
@@ -2406,6 +2406,12 @@
     }
   },
   "laa @ tex": {
+    "16": {
+      "player": "michael helman",
+      "pitcher": "yusei kikuchi",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "jonah heim",
       "pitcher": "yusei kikuchi",
