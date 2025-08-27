@@ -4969,7 +4969,7 @@
     "46": {
       "player": "eugenio suarez",
       "pitcher": "jason adam",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "45": {
@@ -5244,6 +5244,12 @@
     }
   },
   "chc @ sf": {
+    "45": {
+      "player": "willy adames",
+      "pitcher": "matthew boyd",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "rafael devers",
       "pitcher": "matthew boyd",
@@ -5514,7 +5520,7 @@
       "player": "nick kurtz",
       "pitcher": "charlie morton",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Curveball"
     },
     "35": {
       "player": "zack gelof",
@@ -5728,10 +5734,16 @@
     }
   },
   "cin @ lad": {
+    "32": {
+      "player": "alex freeland",
+      "pitcher": "nick martinez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "enrique hernandez",
       "pitcher": "nick martinez",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Cutter"
     },
     "30": {
