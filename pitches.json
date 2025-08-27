@@ -1194,10 +1194,16 @@
     }
   },
   "wsh @ nyy": {
+    "51": {
+      "player": "giancarlo stanton",
+      "pitcher": "orlando ribalta",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "cody bellinger",
       "pitcher": "orlando ribalta",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "49": {
@@ -2115,8 +2121,8 @@
     "42": {
       "player": "colson montgomery",
       "pitcher": "john schreiber",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "lenyn sosa",
@@ -2370,7 +2376,7 @@
       "player": "jake mccarthy",
       "pitcher": "jacob misiorowski",
       "result": "Called Strike",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "gabriel moreno",
@@ -2572,6 +2578,12 @@
     }
   },
   "pit @ stl": {
+    "40": {
+      "player": "thomas saggese",
+      "pitcher": "mitch keller",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "jack suwinski",
       "pitcher": "andre pallante",
