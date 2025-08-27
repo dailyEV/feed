@@ -296,16 +296,10 @@
     }
   },
   "tb @ cle": {
-    "47": {
-      "player": "christopher morel",
-      "pitcher": "parker messick",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "46": {
       "player": "everson pereira",
       "pitcher": "parker messick",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -583,8 +577,8 @@
     "46": {
       "player": "heriberto hernandez",
       "pitcher": "hurston waldrep",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "liam hicks",
@@ -858,6 +852,12 @@
     }
   },
   "wsh @ nyy": {
+    "29": {
+      "player": "riley adams",
+      "pitcher": "luis gil",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "28": {
       "player": "trent grisham",
       "pitcher": "mackenzie gore",
@@ -1028,6 +1028,12 @@
     }
   },
   "min @ tor": {
+    "33": {
+      "player": "andres gimenez",
+      "pitcher": "bailey ober",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "ty france",
       "pitcher": "bailey ober",
@@ -1222,11 +1228,17 @@
     }
   },
   "phi @ nym": {
+    "30": {
+      "player": "brandon nimmo",
+      "pitcher": "jesus luzardo",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "29": {
       "player": "mark vientos",
       "pitcher": "jesus luzardo",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "pete alonso",
@@ -1505,7 +1517,7 @@
     "15": {
       "player": "andruw monasterio",
       "pitcher": "brandon pfaadt",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -1598,7 +1610,7 @@
       "player": "spencer horwitz",
       "pitcher": "andre pallante",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "14": {
       "player": "jared triolo",
@@ -1689,8 +1701,8 @@
     "4": {
       "player": "jo adell",
       "pitcher": "patrick corbin",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "taylor ward",
@@ -1712,6 +1724,12 @@
     }
   },
   "col @ hou": {
+    "3": {
+      "player": "hunter goodman",
+      "pitcher": "hunter brown",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "mickey moniak",
       "pitcher": "hunter brown",
