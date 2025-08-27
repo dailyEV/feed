@@ -1739,8 +1739,8 @@
     "78": {
       "player": "ty france",
       "pitcher": "justin topa",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "77": {
       "player": "james outman",
@@ -2206,6 +2206,12 @@
     }
   },
   "phi @ nym": {
+    "75": {
+      "player": "juan soto",
+      "pitcher": "jose alvarado",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "74": {
       "player": "francisco lindor",
       "pitcher": "jose alvarado",
@@ -3062,12 +3068,6 @@
     }
   },
   "ari @ mil": {
-    "62": {
-      "player": "andrew vaughn",
-      "pitcher": "john curtiss",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "61": {
       "player": "lourdes gurriel",
       "pitcher": "jared koenig",
@@ -3855,7 +3855,7 @@
     "57": {
       "player": "niko kavadas",
       "pitcher": "patrick corbin",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "56": {
@@ -4528,6 +4528,12 @@
     }
   },
   "sd @ sea": {
+    "14": {
+      "player": "luis arraez",
+      "pitcher": "luis castillo",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "fernando tatis",
       "pitcher": "luis castillo",
@@ -4608,6 +4614,12 @@
     }
   },
   "chc @ sf": {
+    "12": {
+      "player": "casey schmitt",
+      "pitcher": "matthew boyd",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "dansby swanson",
       "pitcher": "justin verlander",
