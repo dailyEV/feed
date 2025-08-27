@@ -1,11 +1,5 @@
 {
   "bos @ bal": {
-    "65": {
-      "player": "carlos narvaez",
-      "pitcher": "yennier cano",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "64": {
       "player": "david hamilton",
       "pitcher": "yennier cano",
@@ -757,8 +751,8 @@
     "61": {
       "player": "michael harris",
       "pitcher": "tyler phillips",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "60": {
       "player": "ronald acuna",
@@ -1122,11 +1116,17 @@
     }
   },
   "wsh @ nyy": {
+    "46": {
+      "player": "brady house",
+      "pitcher": "fernando cruz",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "45": {
       "player": "dylan crews",
       "pitcher": "fernando cruz",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
     },
     "44": {
       "player": "riley adams",
@@ -1394,6 +1394,12 @@
     }
   },
   "min @ tor": {
+    "48": {
+      "player": "royce lewis",
+      "pitcher": "louis varland",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "47": {
       "player": "james outman",
       "pitcher": "chris bassitt",
@@ -2323,8 +2329,8 @@
     "31": {
       "player": "bryan reynolds",
       "pitcher": "andre pallante",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "spencer horwitz",
