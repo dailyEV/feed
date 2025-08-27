@@ -2200,10 +2200,16 @@
     }
   },
   "phi @ nym": {
+    "74": {
+      "player": "francisco lindor",
+      "pitcher": "jose alvarado",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "73": {
       "player": "luis torrens",
       "pitcher": "jose alvarado",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Cutter"
     },
     "72": {
@@ -3421,8 +3427,8 @@
     "68": {
       "player": "spencer horwitz",
       "pitcher": "ryan fernandez",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "67": {
       "player": "alec burleson",
@@ -4501,8 +4507,8 @@
     "13": {
       "player": "fernando tatis",
       "pitcher": "luis castillo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "12": {
       "player": "freddy fermin",
@@ -4581,7 +4587,7 @@
     "11": {
       "player": "dansby swanson",
       "pitcher": "justin verlander",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -4649,7 +4655,7 @@
     "1": {
       "player": "colt keith",
       "pitcher": "osvaldo bido",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     }
   },
