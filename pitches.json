@@ -3,8 +3,8 @@
     "42": {
       "player": "ben rice",
       "pitcher": "shinnosuke ogasawara",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "41": {
       "player": "trent grisham",
@@ -257,8 +257,8 @@
     "48": {
       "player": "jake mangum",
       "pitcher": "matt festa",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "47": {
       "player": "everson pereira",
@@ -544,6 +544,12 @@
     }
   },
   "atl @ mia": {
+    "48": {
+      "player": "ronald acuna",
+      "pitcher": "freddy tarnok",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "47": {
       "player": "maximo acosta",
       "pitcher": "joey wentz",
