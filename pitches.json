@@ -1862,6 +1862,12 @@
     }
   },
   "bos @ bal": {
+    "39": {
+      "player": "alex bregman",
+      "pitcher": "roansy contreras",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "jackson holliday",
       "pitcher": "brayan bello",
@@ -2217,8 +2223,8 @@
     "22": {
       "player": "brandon nimmo",
       "pitcher": "taijuan walker",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "pete alonso",
@@ -2389,7 +2395,7 @@
     "6": {
       "player": "william contreras",
       "pitcher": "ryne nelson",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "5": {
@@ -2424,10 +2430,16 @@
     }
   },
   "pit @ stl": {
+    "6": {
+      "player": "alec burleson",
+      "pitcher": "carmen mlodzinski",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "ivan herrera",
       "pitcher": "carmen mlodzinski",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "4": {
