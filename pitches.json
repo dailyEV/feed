@@ -1739,8 +1739,8 @@
     "77": {
       "player": "james outman",
       "pitcher": "yariel rodriguez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "76": {
       "player": "edouard julien",
@@ -2643,8 +2643,8 @@
     "68": {
       "player": "kyle isbel",
       "pitcher": "tyler alexander",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "67": {
       "player": "adam frazier",
@@ -3822,6 +3822,12 @@
     }
   },
   "laa @ tex": {
+    "55": {
+      "player": "travis darnaud",
+      "pitcher": "patrick corbin",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "54": {
       "player": "adolis garcia",
       "pitcher": "sam bachman",
@@ -4480,6 +4486,12 @@
     }
   },
   "sd @ sea": {
+    "13": {
+      "player": "fernando tatis",
+      "pitcher": "luis castillo",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "12": {
       "player": "freddy fermin",
       "pitcher": "luis castillo",
@@ -4557,7 +4569,7 @@
     "11": {
       "player": "dansby swanson",
       "pitcher": "justin verlander",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -4621,6 +4633,13 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "det @ ath": {},
+  "det @ ath": {
+    "1": {
+      "player": "colt keith",
+      "pitcher": "osvaldo bido",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "cin @ lad": {}
 }
