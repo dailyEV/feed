@@ -1,15 +1,9 @@
 {
   "bos @ bal": {
-    "43": {
-      "player": "colton cowser",
-      "pitcher": "lucas giolito",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "42": {
       "player": "gunnar henderson",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "41": {
@@ -260,6 +254,12 @@
     }
   },
   "tb @ cle": {
+    "42": {
+      "player": "kyle manzardo",
+      "pitcher": "shane baz",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "jose ramirez",
       "pitcher": "shane baz",
@@ -744,6 +744,12 @@
     }
   },
   "wsh @ nyy": {
+    "25": {
+      "player": "aaron judge",
+      "pitcher": "mackenzie gore",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "paul goldschmidt",
       "pitcher": "mackenzie gore",
@@ -893,8 +899,8 @@
     "27": {
       "player": "luke keaschall",
       "pitcher": "chris bassitt",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "alejandro kirk",
@@ -1197,8 +1203,8 @@
     "9": {
       "player": "jonathan india",
       "pitcher": "martin perez",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Foul Tip",
+      "pitch": "Sinker"
     },
     "8": {
       "player": "randal grichuk",
@@ -1306,10 +1312,16 @@
     }
   },
   "pit @ stl": {
+    "9": {
+      "player": "isiah kiner falefa",
+      "pitcher": "andre pallante",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "liover peguero",
       "pitcher": "andre pallante",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "7": {
