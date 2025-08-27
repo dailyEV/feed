@@ -781,8 +781,8 @@
     "66": {
       "player": "marcell ozuna",
       "pitcher": "tyler zuber",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "65": {
       "player": "eric wagaman",
@@ -1469,8 +1469,8 @@
     "51": {
       "player": "ty france",
       "pitcher": "cole sands",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "50": {
       "player": "ernie clement",
@@ -1777,7 +1777,7 @@
     "47": {
       "player": "tyrone taylor",
       "pitcher": "orion kerkering",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "46": {
@@ -2294,6 +2294,12 @@
     }
   },
   "ari @ mil": {
+    "31": {
+      "player": "lourdes gurriel",
+      "pitcher": "jacob misiorowski",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "30": {
       "player": "corbin carroll",
       "pitcher": "jacob misiorowski",
