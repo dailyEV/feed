@@ -1739,7 +1739,7 @@
     "79": {
       "player": "andres gimenez",
       "pitcher": "justin topa",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "78": {
@@ -2215,7 +2215,7 @@
     "75": {
       "player": "juan soto",
       "pitcher": "jose alvarado",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "74": {
@@ -3074,6 +3074,12 @@
     }
   },
   "ari @ mil": {
+    "64": {
+      "player": "isaac collins",
+      "pitcher": "john curtiss",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "sal frelick",
       "pitcher": "john curtiss",
@@ -3457,8 +3463,8 @@
     "70": {
       "player": "oneil cruz",
       "pitcher": "ryan fernandez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "69": {
       "player": "bryan reynolds",
@@ -3876,6 +3882,12 @@
     }
   },
   "laa @ tex": {
+    "58": {
+      "player": "bryce teodosio",
+      "pitcher": "patrick corbin",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "niko kavadas",
       "pitcher": "patrick corbin",
@@ -4564,6 +4576,12 @@
     }
   },
   "sd @ sea": {
+    "16": {
+      "player": "ryan ohearn",
+      "pitcher": "luis castillo",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "manny machado",
       "pitcher": "luis castillo",
@@ -4739,8 +4757,8 @@
     "4": {
       "player": "riley greene",
       "pitcher": "osvaldo bido",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "3": {
       "player": "kerry carpenter",
