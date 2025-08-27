@@ -2167,8 +2167,8 @@
     "70": {
       "player": "brandon marsh",
       "pitcher": "edwin diaz",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "69": {
       "player": "bryson stott",
@@ -2589,7 +2589,7 @@
     "63": {
       "player": "salvador perez",
       "pitcher": "grant taylor",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "62": {
@@ -2966,12 +2966,6 @@
     }
   },
   "ari @ mil": {
-    "58": {
-      "player": "geraldo perdomo",
-      "pitcher": "tobias myers",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "57": {
       "player": "alek thomas",
       "pitcher": "tobias myers",
@@ -3319,8 +3313,8 @@
     "63": {
       "player": "jared triolo",
       "pitcher": "jorge alcala",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "62": {
       "player": "isiah kiner falefa",
@@ -3998,6 +3992,12 @@
     }
   },
   "col @ hou": {
+    "52": {
+      "player": "kyle karros",
+      "pitcher": "hunter brown",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "mauricio dubon",
       "pitcher": "tanner gordon",
@@ -4356,12 +4356,6 @@
     }
   },
   "chc @ sf": {
-    "6": {
-      "player": "heliot ramos",
-      "pitcher": "matthew boyd",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "5": {
       "player": "carson kelly",
       "pitcher": "justin verlander",
