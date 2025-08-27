@@ -3168,7 +3168,7 @@
       "player": "alek thomas",
       "pitcher": "jared koenig",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Sinker"
     },
     "69": {
       "player": "blaze alexander",
@@ -4403,7 +4403,7 @@
     "63": {
       "player": "yordan alvarez",
       "pitcher": "luis peralta",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -4920,6 +4920,12 @@
     }
   },
   "chc @ sf": {
+    "20": {
+      "player": "seiya suzuki",
+      "pitcher": "justin verlander",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "19": {
       "player": "kyle tucker",
       "pitcher": "justin verlander",
@@ -5039,7 +5045,7 @@
     "12": {
       "player": "spencer torkelson",
       "pitcher": "osvaldo bido",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "11": {
@@ -5113,8 +5119,8 @@
     "9": {
       "player": "will smith",
       "pitcher": "nick martinez",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "8": {
       "player": "freddie freeman",
