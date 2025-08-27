@@ -3,7 +3,7 @@
     "46": {
       "player": "masataka yoshida",
       "pitcher": "keegan akin",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "45": {
@@ -547,8 +547,8 @@
     "43": {
       "player": "ronald acuna",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "matt olson",
@@ -804,12 +804,6 @@
     }
   },
   "wsh @ nyy": {
-    "27": {
-      "player": "giancarlo stanton",
-      "pitcher": "mackenzie gore",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "26": {
       "player": "cody bellinger",
       "pitcher": "mackenzie gore",
@@ -968,6 +962,12 @@
     }
   },
   "min @ tor": {
+    "30": {
+      "player": "james outman",
+      "pitcher": "chris bassitt",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "edouard julien",
       "pitcher": "chris bassitt",
@@ -1147,8 +1147,8 @@
     "26": {
       "player": "alec bohm",
       "pitcher": "sean manaea",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "jt realmuto",
@@ -1459,7 +1459,7 @@
     "12": {
       "player": "alec burleson",
       "pitcher": "mitch keller",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "11": {
