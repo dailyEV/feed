@@ -2095,7 +2095,7 @@
     "19": {
       "player": "matt wallner",
       "pitcher": "eric lauer",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -2211,8 +2211,8 @@
     "22": {
       "player": "brandon nimmo",
       "pitcher": "taijuan walker",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "21": {
       "player": "pete alonso",
@@ -2345,8 +2345,8 @@
     "5": {
       "player": "miguel vargas",
       "pitcher": "ryan bergert",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "mike tauchman",
@@ -2412,6 +2412,12 @@
     }
   },
   "pit @ stl": {
+    "4": {
+      "player": "lars nootbaar",
+      "pitcher": "carmen mlodzinski",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "bryan reynolds",
       "pitcher": "sonny gray",
