@@ -3,7 +3,7 @@
     "67": {
       "player": "colton cowser",
       "pitcher": "justin wilson",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "66": {
@@ -766,16 +766,10 @@
     }
   },
   "atl @ mia": {
-    "65": {
-      "player": "eric wagaman",
-      "pitcher": "tyler kinley",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "64": {
       "player": "heriberto hernandez",
       "pitcher": "tyler kinley",
-      "result": "In play, no out",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "63": {
@@ -2634,11 +2628,23 @@
     }
   },
   "laa @ tex": {
+    "23": {
+      "player": "mike trout",
+      "pitcher": "patrick corbin",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "22": {
+      "player": "zach neto",
+      "pitcher": "patrick corbin",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "21": {
       "player": "bryce teodosio",
       "pitcher": "patrick corbin",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "20": {
       "player": "niko kavadas",
