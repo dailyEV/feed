@@ -3,8 +3,8 @@
     "70": {
       "player": "ryan mountcastle",
       "pitcher": "justin wilson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "69": {
       "player": "coby mayo",
@@ -1481,8 +1481,8 @@
     "51": {
       "player": "ty france",
       "pitcher": "cole sands",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "50": {
       "player": "ernie clement",
@@ -2309,7 +2309,7 @@
     "31": {
       "player": "lourdes gurriel",
       "pitcher": "jacob misiorowski",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "30": {
@@ -2494,6 +2494,12 @@
     }
   },
   "pit @ stl": {
+    "37": {
+      "player": "oneil cruz",
+      "pitcher": "andre pallante",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "masyn winn",
       "pitcher": "mitch keller",
@@ -2712,12 +2718,6 @@
     }
   },
   "laa @ tex": {
-    "24": {
-      "player": "adolis garcia",
-      "pitcher": "yusei kikuchi",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "23": {
       "player": "mike trout",
       "pitcher": "patrick corbin",
