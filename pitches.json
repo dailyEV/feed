@@ -2227,8 +2227,8 @@
     "76": {
       "player": "kyle schwarber",
       "pitcher": "edwin diaz",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "75": {
       "player": "juan soto",
@@ -2685,7 +2685,7 @@
     "70": {
       "player": "bobby witt",
       "pitcher": "steven wilson",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "69": {
@@ -3499,8 +3499,8 @@
     "71": {
       "player": "willson contreras",
       "pitcher": "isaac mattson",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "70": {
       "player": "oneil cruz",
@@ -3927,7 +3927,7 @@
     "59": {
       "player": "josh jung",
       "pitcher": "ryan zeferjahn",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -4283,8 +4283,8 @@
     "59": {
       "player": "jose altuve",
       "pitcher": "jimmy herget",
-      "result": "Foul Bunt",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "58": {
       "player": "carlos correa",
@@ -4832,6 +4832,12 @@
     }
   },
   "det @ ath": {
+    "7": {
+      "player": "brent rooker",
+      "pitcher": "charlie morton",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "6": {
       "player": "shea langeliers",
       "pitcher": "charlie morton",
