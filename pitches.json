@@ -1739,8 +1739,8 @@
     "79": {
       "player": "andres gimenez",
       "pitcher": "justin topa",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "78": {
       "player": "ty france",
@@ -2664,6 +2664,12 @@
     }
   },
   "kc @ chw": {
+    "69": {
+      "player": "maikel garcia",
+      "pitcher": "steven wilson",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "68": {
       "player": "kyle isbel",
       "pitcher": "tyler alexander",
@@ -3463,8 +3469,8 @@
     "70": {
       "player": "oneil cruz",
       "pitcher": "ryan fernandez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "69": {
       "player": "bryan reynolds",
@@ -3886,7 +3892,7 @@
       "player": "bryce teodosio",
       "pitcher": "patrick corbin",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "57": {
       "player": "niko kavadas",
@@ -4674,6 +4680,12 @@
     }
   },
   "chc @ sf": {
+    "14": {
+      "player": "matt chapman",
+      "pitcher": "matthew boyd",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "13": {
       "player": "wilmer flores",
       "pitcher": "matthew boyd",
@@ -4779,5 +4791,12 @@
       "pitch": "Slider"
     }
   },
-  "cin @ lad": {}
+  "cin @ lad": {
+    "1": {
+      "player": "spencer steer",
+      "pitcher": "clayton kershaw",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  }
 }
