@@ -736,6 +736,12 @@
     }
   },
   "atl @ mia": {
+    "60": {
+      "player": "ronald acuna",
+      "pitcher": "tyler phillips",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "matt olson",
       "pitcher": "cade gibson",
@@ -1095,8 +1101,8 @@
     "42": {
       "player": "paul goldschmidt",
       "pitcher": "mackenzie gore",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "austin wells",
@@ -1349,8 +1355,8 @@
     "46": {
       "player": "edouard julien",
       "pitcher": "chris bassitt",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "matt wallner",
@@ -1627,8 +1633,8 @@
     "41": {
       "player": "francisco lindor",
       "pitcher": "jesus luzardo",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "40": {
       "player": "luis torrens",
@@ -2075,8 +2081,8 @@
     "27": {
       "player": "blake perkins",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "anthony seigler",
@@ -2236,6 +2242,18 @@
     }
   },
   "pit @ stl": {
+    "30": {
+      "player": "spencer horwitz",
+      "pitcher": "andre pallante",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "29": {
+      "player": "jared triolo",
+      "pitcher": "andre pallante",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "28": {
       "player": "lars nootbaar",
       "pitcher": "mitch keller",
@@ -2409,8 +2427,8 @@
     "16": {
       "player": "michael helman",
       "pitcher": "yusei kikuchi",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "jonah heim",
@@ -2504,6 +2522,12 @@
     }
   },
   "col @ hou": {
+    "18": {
+      "player": "jose altuve",
+      "pitcher": "tanner gordon",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "17": {
       "player": "carlos correa",
       "pitcher": "tanner gordon",
