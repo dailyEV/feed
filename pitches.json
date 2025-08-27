@@ -1098,12 +1098,6 @@
     }
   },
   "wsh @ nyy": {
-    "43": {
-      "player": "aaron judge",
-      "pitcher": "mackenzie gore",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "42": {
       "player": "paul goldschmidt",
       "pitcher": "mackenzie gore",
@@ -1636,6 +1630,12 @@
     }
   },
   "phi @ nym": {
+    "42": {
+      "player": "juan soto",
+      "pitcher": "jesus luzardo",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "francisco lindor",
       "pitcher": "jesus luzardo",
@@ -2251,7 +2251,7 @@
     "30": {
       "player": "spencer horwitz",
       "pitcher": "andre pallante",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -2430,11 +2430,17 @@
     }
   },
   "laa @ tex": {
+    "17": {
+      "player": "wyatt langford",
+      "pitcher": "yusei kikuchi",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "16": {
       "player": "michael helman",
       "pitcher": "yusei kikuchi",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "jonah heim",
@@ -2528,12 +2534,6 @@
     }
   },
   "col @ hou": {
-    "18": {
-      "player": "jose altuve",
-      "pitcher": "tanner gordon",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "17": {
       "player": "carlos correa",
       "pitcher": "tanner gordon",
