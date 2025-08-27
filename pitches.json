@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "65": {
+      "player": "carlos narvaez",
+      "pitcher": "yennier cano",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "64": {
       "player": "david hamilton",
       "pitcher": "yennier cano",
@@ -748,6 +754,12 @@
     }
   },
   "atl @ mia": {
+    "62": {
+      "player": "otto lopez",
+      "pitcher": "tyler kinley",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "michael harris",
       "pitcher": "tyler phillips",
@@ -1116,17 +1128,11 @@
     }
   },
   "wsh @ nyy": {
-    "46": {
-      "player": "brady house",
-      "pitcher": "fernando cruz",
-      "result": "Called Strike",
-      "pitch": "Splitter"
-    },
     "45": {
       "player": "dylan crews",
       "pitcher": "fernando cruz",
-      "result": "Hit By Pitch",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "44": {
       "player": "riley adams",
@@ -1687,7 +1693,7 @@
     "43": {
       "player": "starling marte",
       "pitcher": "jesus luzardo",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -2162,6 +2168,12 @@
     }
   },
   "ari @ mil": {
+    "28": {
+      "player": "andruw monasterio",
+      "pitcher": "jake woodford",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "blake perkins",
       "pitcher": "brandon pfaadt",
@@ -2326,11 +2338,17 @@
     }
   },
   "pit @ stl": {
+    "32": {
+      "player": "ivan herrera",
+      "pitcher": "mitch keller",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "bryan reynolds",
       "pitcher": "andre pallante",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "30": {
       "player": "spencer horwitz",
