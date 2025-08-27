@@ -2092,10 +2092,16 @@
     }
   },
   "min @ tor": {
+    "20": {
+      "player": "luke keaschall",
+      "pitcher": "eric lauer",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "matt wallner",
       "pitcher": "eric lauer",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -2211,8 +2217,8 @@
     "22": {
       "player": "brandon nimmo",
       "pitcher": "taijuan walker",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "pete alonso",
@@ -2342,6 +2348,12 @@
     }
   },
   "kc @ chw": {
+    "6": {
+      "player": "kyle teel",
+      "pitcher": "ryan bergert",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "miguel vargas",
       "pitcher": "ryan bergert",
@@ -2377,8 +2389,8 @@
     "6": {
       "player": "william contreras",
       "pitcher": "ryne nelson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "5": {
       "player": "caleb durbin",
