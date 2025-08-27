@@ -3,8 +3,8 @@
     "59": {
       "player": "jeremiah jackson",
       "pitcher": "lucas giolito",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "jackson holliday",
@@ -1217,8 +1217,8 @@
     "38": {
       "player": "george springer",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "trevor larnach",
@@ -1444,11 +1444,17 @@
     }
   },
   "phi @ nym": {
+    "35": {
+      "player": "weston wilson",
+      "pitcher": "sean manaea",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "34": {
       "player": "edmundo sosa",
       "pitcher": "sean manaea",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "33": {
       "player": "harrison bader",
@@ -1796,12 +1802,6 @@
     }
   },
   "ari @ mil": {
-    "21": {
-      "player": "william contreras",
-      "pitcher": "brandon pfaadt",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "20": {
       "player": "brice turang",
       "pitcher": "brandon pfaadt",
@@ -1924,12 +1924,6 @@
     }
   },
   "pit @ stl": {
-    "23": {
-      "player": "henry davis",
-      "pitcher": "andre pallante",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
-    },
     "22": {
       "player": "jack suwinski",
       "pitcher": "andre pallante",
@@ -2067,8 +2061,8 @@
     "9": {
       "player": "josh jung",
       "pitcher": "yusei kikuchi",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "8": {
       "player": "adolis garcia",
