@@ -787,8 +787,8 @@
     "74": {
       "player": "michael harris",
       "pitcher": "josh simpson",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "73": {
       "player": "ronald acuna",
@@ -1230,6 +1230,12 @@
     }
   },
   "wsh @ nyy": {
+    "57": {
+      "player": "paul goldschmidt",
+      "pitcher": "orlando ribalta",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "56": {
       "player": "austin wells",
       "pitcher": "orlando ribalta",
@@ -1568,6 +1574,12 @@
     }
   },
   "min @ tor": {
+    "59": {
+      "player": "nathan lukes",
+      "pitcher": "kody funderburk",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "58": {
       "player": "luke keaschall",
       "pitcher": "brendon little",
@@ -2528,17 +2540,11 @@
     }
   },
   "ari @ mil": {
-    "39": {
-      "player": "alek thomas",
-      "pitcher": "jacob misiorowski",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
-    },
     "38": {
       "player": "blaze alexander",
       "pitcher": "jacob misiorowski",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "christian yelich",
@@ -2764,6 +2770,12 @@
     }
   },
   "pit @ stl": {
+    "45": {
+      "player": "isiah kiner falefa",
+      "pitcher": "gordon graceffo",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "liover peguero",
       "pitcher": "gordon graceffo",
@@ -3224,6 +3236,18 @@
     }
   },
   "col @ hou": {
+    "33": {
+      "player": "mauricio dubon",
+      "pitcher": "tanner gordon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "32": {
+      "player": "victor caratini",
+      "pitcher": "tanner gordon",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "31": {
       "player": "warming bernabel",
       "pitcher": "hunter brown",
