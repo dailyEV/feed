@@ -2625,8 +2625,8 @@
     "63": {
       "player": "hayden senger",
       "pitcher": "lou trivino",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "brett baty",
@@ -3002,6 +3002,12 @@
     }
   },
   "kc @ chw": {
+    "46": {
+      "player": "kyle teel",
+      "pitcher": "ryan bergert",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "45": {
       "player": "miguel vargas",
       "pitcher": "ryan bergert",
@@ -3546,10 +3552,16 @@
     }
   },
   "pit @ stl": {
+    "49": {
+      "player": "masyn winn",
+      "pitcher": "bubba chandler",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "nolan gorman",
       "pitcher": "bubba chandler",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "47": {
@@ -3839,8 +3851,8 @@
     "35": {
       "player": "wyatt langford",
       "pitcher": "jack kochanowicz",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "josh smith",
@@ -4051,7 +4063,7 @@
     "33": {
       "player": "orlando arcia",
       "pitcher": "framber valdez",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "32": {
