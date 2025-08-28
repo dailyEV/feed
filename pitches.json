@@ -2592,6 +2592,24 @@
     }
   },
   "phi @ nym": {
+    "60": {
+      "player": "harrison bader",
+      "pitcher": "nolan mclean",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
+    "59": {
+      "player": "bryson stott",
+      "pitcher": "nolan mclean",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "58": {
+      "player": "nick castellanos",
+      "pitcher": "nolan mclean",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "max kepler",
       "pitcher": "nolan mclean",
@@ -3193,8 +3211,8 @@
     "43": {
       "player": "william contreras",
       "pitcher": "ryne nelson",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "42": {
       "player": "caleb durbin",
@@ -3453,8 +3471,8 @@
     "45": {
       "player": "andrew mccutchen",
       "pitcher": "sonny gray",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "44": {
       "player": "nick gonzales",
@@ -3916,12 +3934,6 @@
     }
   },
   "col @ hou": {
-    "28": {
-      "player": "christian walker",
-      "pitcher": "chase dollander",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "27": {
       "player": "jesus sanchez",
       "pitcher": "chase dollander",
@@ -4086,6 +4098,12 @@
     }
   },
   "cin @ lad": {
+    "13": {
+      "player": "andy pages",
+      "pitcher": "nick lodolo",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "matt mclain",
       "pitcher": "shohei ohtani",
