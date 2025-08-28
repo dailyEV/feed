@@ -2194,12 +2194,6 @@
     }
   },
   "min @ tor": {
-    "37": {
-      "player": "tyler heineman",
-      "pitcher": "simeon woods richardson",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
-    },
     "36": {
       "player": "nathan lukes",
       "pitcher": "simeon woods richardson",
@@ -2418,6 +2412,12 @@
     }
   },
   "phi @ nym": {
+    "40": {
+      "player": "nick castellanos",
+      "pitcher": "nolan mclean",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "39": {
       "player": "jeff mcneil",
       "pitcher": "taijuan walker",
@@ -2657,8 +2657,8 @@
     "22": {
       "player": "bobby witt",
       "pitcher": "aaron civale",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "21": {
       "player": "miguel vargas",
@@ -2788,10 +2788,16 @@
     }
   },
   "ari @ mil": {
+    "23": {
+      "player": "blaze alexander",
+      "pitcher": "erick fedde",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "22": {
       "player": "geraldo perdomo",
       "pitcher": "erick fedde",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "21": {
@@ -2925,8 +2931,8 @@
     "26": {
       "player": "tommy pham",
       "pitcher": "sonny gray",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "25": {
       "player": "bryan reynolds",
