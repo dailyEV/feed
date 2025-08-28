@@ -2209,8 +2209,8 @@
     "40": {
       "player": "addison barger",
       "pitcher": "thomas hatch",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "39": {
       "player": "george springer",
@@ -2714,6 +2714,12 @@
     }
   },
   "kc @ chw": {
+    "27": {
+      "player": "andrew benintendi",
+      "pitcher": "ryan bergert",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "26": {
       "player": "lenyn sosa",
       "pitcher": "ryan bergert",
@@ -2872,10 +2878,16 @@
     }
   },
   "ari @ mil": {
+    "26": {
+      "player": "andrew vaughn",
+      "pitcher": "ryne nelson",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "25": {
       "player": "christian yelich",
       "pitcher": "ryne nelson",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -3203,7 +3215,7 @@
     "14": {
       "player": "alejandro osuna",
       "pitcher": "jack kochanowicz",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "13": {
@@ -3289,7 +3301,7 @@
     "12": {
       "player": "kyle karros",
       "pitcher": "framber valdez",
-      "result": "Foul Tip",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "11": {
