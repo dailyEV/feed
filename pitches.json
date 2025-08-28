@@ -2512,7 +2512,7 @@
       "player": "jeff mcneil",
       "pitcher": "taijuan walker",
       "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "pitch": "Sweeper"
     },
     "26": {
       "player": "bryce harper",
@@ -2675,8 +2675,8 @@
     "23": {
       "player": "vinnie pasquantino",
       "pitcher": "aaron civale",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "22": {
       "player": "bobby witt",
@@ -2812,11 +2812,17 @@
     }
   },
   "ari @ mil": {
+    "24": {
+      "player": "corbin carroll",
+      "pitcher": "erick fedde",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "blaze alexander",
       "pitcher": "erick fedde",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "22": {
       "player": "geraldo perdomo",
@@ -2956,7 +2962,7 @@
       "player": "nick gonzales",
       "pitcher": "sonny gray",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sweeper"
     },
     "26": {
       "player": "tommy pham",
@@ -3119,7 +3125,7 @@
     "11": {
       "player": "josh jung",
       "pitcher": "jack kochanowicz",
-      "result": "In play, no out",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "10": {
@@ -3184,6 +3190,12 @@
     }
   },
   "col @ hou": {
+    "9": {
+      "player": "jordan beck",
+      "pitcher": "framber valdez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "christian walker",
       "pitcher": "chase dollander",
