@@ -443,8 +443,8 @@
     "52": {
       "player": "chas mccormick",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "51": {
       "player": "mauricio dubon",
@@ -757,8 +757,8 @@
     "47": {
       "player": "ildemaro vargas",
       "pitcher": "tobias myers",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "46": {
       "player": "alek thomas",
@@ -1285,7 +1285,14 @@
       "pitch": "Slider"
     }
   },
-  "chc @ sf": {},
+  "chc @ sf": {
+    "1": {
+      "player": "michael busch",
+      "pitcher": "logan webb",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  },
   "atl @ phi": {},
   "mia @ nym": {},
   "nyy @ chw": {}
