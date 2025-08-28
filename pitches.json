@@ -1865,7 +1865,7 @@
     "51": {
       "player": "dylan beavers",
       "pitcher": "brayan bello",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "50": {
@@ -2170,12 +2170,6 @@
     }
   },
   "min @ tor": {
-    "29": {
-      "player": "kody clemens",
-      "pitcher": "eric lauer",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "28": {
       "player": "daulton varsho",
       "pitcher": "simeon woods richardson",
@@ -2546,6 +2540,12 @@
     }
   },
   "kc @ chw": {
+    "16": {
+      "player": "michael massey",
+      "pitcher": "aaron civale",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "brooks baldwin",
       "pitcher": "ryan bergert",
@@ -2745,8 +2745,8 @@
     "19": {
       "player": "spencer horwitz",
       "pitcher": "sonny gray",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "jared triolo",
@@ -2858,10 +2858,16 @@
     }
   },
   "laa @ tex": {
+    "5": {
+      "player": "luis rengifo",
+      "pitcher": "jacob latz",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "jo adell",
       "pitcher": "jacob latz",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -2887,7 +2893,7 @@
     "3": {
       "player": "hunter goodman",
       "pitcher": "framber valdez",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "2": {
