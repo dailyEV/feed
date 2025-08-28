@@ -2281,8 +2281,8 @@
     "61": {
       "player": "brooks lee",
       "pitcher": "justin bruihl",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "luke keaschall",
@@ -3651,7 +3651,7 @@
     "53": {
       "player": "jared triolo",
       "pitcher": "sonny gray",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "52": {
@@ -3968,11 +3968,17 @@
     }
   },
   "laa @ tex": {
+    "41": {
+      "player": "kyle higashioka",
+      "pitcher": "andrew chafin",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "40": {
       "player": "rowdy tellez",
       "pitcher": "andrew chafin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Slider"
     },
     "39": {
       "player": "josh jung",
