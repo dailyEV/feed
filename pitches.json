@@ -1862,6 +1862,12 @@
     }
   },
   "bos @ bal": {
+    "50": {
+      "player": "coby mayo",
+      "pitcher": "brayan bello",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "49": {
       "player": "samuel basallo",
       "pitcher": "brayan bello",
@@ -2328,11 +2334,17 @@
     }
   },
   "phi @ nym": {
+    "33": {
+      "player": "max kepler",
+      "pitcher": "nolan mclean",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "alec bohm",
       "pitcher": "nolan mclean",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "jt realmuto",
@@ -2700,11 +2712,17 @@
     }
   },
   "pit @ stl": {
+    "17": {
+      "player": "isiah kiner falefa",
+      "pitcher": "sonny gray",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "16": {
       "player": "henry davis",
       "pitcher": "sonny gray",
       "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "pitch": "Sweeper"
     },
     "15": {
       "player": "oneil cruz",
@@ -2801,8 +2819,8 @@
     "3": {
       "player": "taylor ward",
       "pitcher": "jacob latz",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "mike trout",
@@ -2822,7 +2840,7 @@
       "player": "tyler freeman",
       "pitcher": "framber valdez",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     }
   },
   "cin @ lad": {},
