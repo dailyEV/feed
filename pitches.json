@@ -2628,6 +2628,12 @@
     }
   },
   "phi @ nym": {
+    "65": {
+      "player": "kyle schwarber",
+      "pitcher": "brooks raley",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "64": {
       "player": "trea turner",
       "pitcher": "brooks raley",
@@ -3301,8 +3307,8 @@
     "47": {
       "player": "james mccann",
       "pitcher": "erick fedde",
-      "result": "Foul Bunt",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "46": {
       "player": "pavin smith",
@@ -3585,8 +3591,8 @@
     "50": {
       "player": "thomas saggese",
       "pitcher": "bubba chandler",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "49": {
       "player": "masyn winn",
@@ -4114,11 +4120,17 @@
     }
   },
   "col @ hou": {
+    "35": {
+      "player": "jacob melton",
+      "pitcher": "chase dollander",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "mauricio dubon",
       "pitcher": "chase dollander",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Curveball"
     },
     "33": {
       "player": "orlando arcia",
