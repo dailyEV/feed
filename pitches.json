@@ -2278,12 +2278,6 @@
     }
   },
   "min @ tor": {
-    "70": {
-      "player": "byron buxton",
-      "pitcher": "seranthony dominguez",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "69": {
       "player": "edouard julien",
       "pitcher": "seranthony dominguez",
@@ -3475,8 +3469,8 @@
     "58": {
       "player": "blaze alexander",
       "pitcher": "nick mears",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "geraldo perdomo",
@@ -3822,6 +3816,12 @@
     }
   },
   "pit @ stl": {
+    "64": {
+      "player": "andrew mccutchen",
+      "pitcher": "matt svanson",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "63": {
       "player": "nick gonzales",
       "pitcher": "matt svanson",
@@ -4761,8 +4761,8 @@
     "33": {
       "player": "dalton rushing",
       "pitcher": "nick lodolo",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "michael conforto",
@@ -4952,10 +4952,16 @@
     }
   },
   "chc @ sf": {
+    "2": {
+      "player": "kyle tucker",
+      "pitcher": "carson whisenhunt",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "nico hoerner",
       "pitcher": "carson whisenhunt",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     }
   },
