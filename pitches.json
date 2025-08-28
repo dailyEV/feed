@@ -4526,10 +4526,16 @@
     }
   },
   "laa @ tex": {
+    "66": {
+      "player": "josh smith",
+      "pitcher": "oswald peraza",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "65": {
       "player": "alejandro osuna",
       "pitcher": "oswald peraza",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "64": {
@@ -4921,8 +4927,8 @@
     "62": {
       "player": "cam smith",
       "pitcher": "angel chivilli",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "61": {
       "player": "christian walker",
@@ -5570,6 +5576,12 @@
     }
   },
   "chc @ sf": {
+    "20": {
+      "player": "seiya suzuki",
+      "pitcher": "carson whisenhunt",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "19": {
       "player": "luis matos",
       "pitcher": "colin rea",
