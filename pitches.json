@@ -1865,8 +1865,8 @@
     "44": {
       "player": "ryan mountcastle",
       "pitcher": "brayan bello",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "43": {
       "player": "gunnar henderson",
@@ -2128,10 +2128,22 @@
     }
   },
   "min @ tor": {
+    "25": {
+      "player": "addison barger",
+      "pitcher": "simeon woods richardson",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
+    "24": {
+      "player": "george springer",
+      "pitcher": "simeon woods richardson",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "23": {
       "player": "andres gimenez",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "22": {
@@ -2485,7 +2497,7 @@
     "10": {
       "player": "james mccann",
       "pitcher": "aaron ashby",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "9": {
@@ -2544,6 +2556,12 @@
     }
   },
   "pit @ stl": {
+    "10": {
+      "player": "willson contreras",
+      "pitcher": "carmen mlodzinski",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "andrew mccutchen",
       "pitcher": "sonny gray",
