@@ -221,8 +221,8 @@
     "5": {
       "player": "carlos correa",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "4": {
       "player": "jeremy pena",
@@ -250,6 +250,12 @@
     }
   },
   "ari @ mil": {
+    "4": {
+      "player": "sal frelick",
+      "pitcher": "nabil crismatt",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "corbin carroll",
       "pitcher": "jose quintana",
@@ -269,7 +275,14 @@
       "pitch": "Sinker"
     }
   },
-  "pit @ stl": {},
+  "pit @ stl": {
+    "1": {
+      "player": "spencer horwitz",
+      "pitcher": "miles mikolas",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "chc @ sf": {},
   "atl @ phi": {},
   "mia @ nym": {},
