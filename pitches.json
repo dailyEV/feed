@@ -2194,6 +2194,12 @@
     }
   },
   "min @ tor": {
+    "38": {
+      "player": "andres gimenez",
+      "pitcher": "simeon woods richardson",
+      "result": "In play, run(s)",
+      "pitch": "Splitter"
+    },
     "37": {
       "player": "tyler heineman",
       "pitcher": "simeon woods richardson",
@@ -2418,6 +2424,12 @@
     }
   },
   "phi @ nym": {
+    "41": {
+      "player": "bryson stott",
+      "pitcher": "nolan mclean",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "40": {
       "player": "nick castellanos",
       "pitcher": "nolan mclean",
@@ -2500,7 +2512,7 @@
       "player": "jeff mcneil",
       "pitcher": "taijuan walker",
       "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "pitch": "Changeup"
     },
     "26": {
       "player": "bryce harper",
@@ -2663,8 +2675,8 @@
     "23": {
       "player": "vinnie pasquantino",
       "pitcher": "aaron civale",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "22": {
       "player": "bobby witt",
@@ -2803,8 +2815,8 @@
     "23": {
       "player": "blaze alexander",
       "pitcher": "erick fedde",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "22": {
       "player": "geraldo perdomo",
@@ -2940,11 +2952,17 @@
     }
   },
   "pit @ stl": {
+    "27": {
+      "player": "nick gonzales",
+      "pitcher": "sonny gray",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "26": {
       "player": "tommy pham",
       "pitcher": "sonny gray",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "25": {
       "player": "bryan reynolds",
@@ -3101,7 +3119,7 @@
     "11": {
       "player": "josh jung",
       "pitcher": "jack kochanowicz",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "10": {
