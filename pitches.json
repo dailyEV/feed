@@ -3655,8 +3655,8 @@
     "70": {
       "player": "brandon lockridge",
       "pitcher": "andrew saalfrank",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "69": {
       "player": "alek thomas",
@@ -4500,7 +4500,7 @@
       "player": "zach neto",
       "pitcher": "luis curvelo",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "62": {
       "player": "bryce teodosio",
@@ -5498,6 +5498,12 @@
     }
   },
   "chc @ sf": {
+    "17": {
+      "player": "casey schmitt",
+      "pitcher": "colin rea",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "matt chapman",
       "pitcher": "colin rea",
@@ -5596,11 +5602,17 @@
     }
   },
   "det @ ath": {
+    "7": {
+      "player": "tyler soderstrom",
+      "pitcher": "casey mize",
+      "result": "Ball In Dirt",
+      "pitch": "Slurve"
+    },
     "6": {
       "player": "brent rooker",
       "pitcher": "casey mize",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "5": {
       "player": "shea langeliers",
