@@ -1998,7 +1998,7 @@
       "player": "nathaniel lowe",
       "pitcher": "roansy contreras",
       "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "46": {
       "player": "ceddanne rafaela",
@@ -2040,7 +2040,7 @@
       "player": "trevor story",
       "pitcher": "roansy contreras",
       "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "39": {
       "player": "alex bregman",
@@ -2058,7 +2058,7 @@
       "player": "dylan carlson",
       "pitcher": "brayan bello",
       "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "pitch": "Cutter"
     },
     "36": {
       "player": "dylan beavers",
@@ -2076,7 +2076,7 @@
       "player": "roman anthony",
       "pitcher": "roansy contreras",
       "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "33": {
       "player": "david hamilton",
@@ -2112,25 +2112,25 @@
       "player": "masataka yoshida",
       "pitcher": "roansy contreras",
       "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "27": {
       "player": "nathaniel lowe",
       "pitcher": "roansy contreras",
       "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "26": {
       "player": "ceddanne rafaela",
       "pitcher": "roansy contreras",
       "result": "In play, no out",
-      "pitch": "Cutter"
+      "pitch": "Slider"
     },
     "25": {
       "player": "jarren duran",
       "pitcher": "roansy contreras",
       "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "24": {
       "player": "gunnar henderson",
@@ -3186,7 +3186,7 @@
       "player": "brooks baldwin",
       "pitcher": "daniel lynch",
       "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "80": {
       "player": "mike yastrzemski",
@@ -5900,11 +5900,35 @@
     }
   },
   "chc @ sf": {
+    "64": {
+      "player": "owen caissie",
+      "pitcher": "tristan beck",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
+    "63": {
+      "player": "luis matos",
+      "pitcher": "jordan wicks",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "62": {
+      "player": "jung hoo lee",
+      "pitcher": "jordan wicks",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
+    "61": {
+      "player": "casey schmitt",
+      "pitcher": "jordan wicks",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "matt chapman",
       "pitcher": "jordan wicks",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "nico hoerner",
@@ -6262,10 +6286,22 @@
     }
   },
   "det @ ath": {
+    "53": {
+      "player": "zach mckinstry",
+      "pitcher": "luis morales",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "52": {
+      "player": "wenceel perez",
+      "pitcher": "luis morales",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "51": {
       "player": "spencer torkelson",
       "pitcher": "luis morales",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "50": {
