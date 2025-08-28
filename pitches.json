@@ -2678,6 +2678,12 @@
     }
   },
   "kc @ chw": {
+    "24": {
+      "player": "maikel garcia",
+      "pitcher": "aaron civale",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "vinnie pasquantino",
       "pitcher": "aaron civale",
@@ -2967,8 +2973,8 @@
     "27": {
       "player": "nick gonzales",
       "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "tommy pham",
@@ -3128,10 +3134,16 @@
     }
   },
   "laa @ tex": {
+    "12": {
+      "player": "rowdy tellez",
+      "pitcher": "jack kochanowicz",
+      "result": "Hit By Pitch",
+      "pitch": "Sweeper"
+    },
     "11": {
       "player": "josh jung",
       "pitcher": "jack kochanowicz",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "10": {
@@ -3199,7 +3211,7 @@
     "9": {
       "player": "jordan beck",
       "pitcher": "framber valdez",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "8": {
