@@ -2230,12 +2230,6 @@
     }
   },
   "min @ tor": {
-    "41": {
-      "player": "matt wallner",
-      "pitcher": "eric lauer",
-      "result": "Foul",
-      "pitch": "Curveball"
-    },
     "40": {
       "player": "addison barger",
       "pitcher": "thomas hatch",
@@ -2765,8 +2759,8 @@
     "30": {
       "player": "brooks baldwin",
       "pitcher": "ryan bergert",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "chase meidroth",
@@ -3111,8 +3105,8 @@
     "32": {
       "player": "oneil cruz",
       "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "andrew mccutchen",
@@ -3302,6 +3296,12 @@
     }
   },
   "laa @ tex": {
+    "18": {
+      "player": "josh smith",
+      "pitcher": "jack kochanowicz",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "17": {
       "player": "oswald peraza",
       "pitcher": "jacob latz",
@@ -3406,6 +3406,18 @@
     }
   },
   "col @ hou": {
+    "16": {
+      "player": "cesar salazar",
+      "pitcher": "chase dollander",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "15": {
+      "player": "jacob melton",
+      "pitcher": "chase dollander",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "mauricio dubon",
       "pitcher": "chase dollander",
@@ -3492,6 +3504,12 @@
     }
   },
   "cin @ lad": {
+    "2": {
+      "player": "noelvi marte",
+      "pitcher": "shohei ohtani",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "1": {
       "player": "tj friedl",
       "pitcher": "shohei ohtani",
