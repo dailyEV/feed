@@ -2281,7 +2281,7 @@
     "48": {
       "player": "bo bichette",
       "pitcher": "thomas hatch",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "47": {
@@ -2568,6 +2568,12 @@
     }
   },
   "phi @ nym": {
+    "54": {
+      "player": "mark vientos",
+      "pitcher": "tanner banks",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "53": {
       "player": "brandon nimmo",
       "pitcher": "tanner banks",
@@ -2891,8 +2897,8 @@
     "37": {
       "player": "bobby witt",
       "pitcher": "aaron civale",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "36": {
       "player": "mike yastrzemski",
@@ -3330,6 +3336,18 @@
     }
   },
   "pit @ stl": {
+    "40": {
+      "player": "jared triolo",
+      "pitcher": "sonny gray",
+      "result": "Missed Bunt",
+      "pitch": "Curveball"
+    },
+    "39": {
+      "player": "isiah kiner falefa",
+      "pitcher": "sonny gray",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "alec burleson",
       "pitcher": "bubba chandler",
@@ -3861,8 +3879,8 @@
     "9": {
       "player": "spencer steer",
       "pitcher": "shohei ohtani",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "8": {
       "player": "gavin lux",
