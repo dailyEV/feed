@@ -1,5 +1,11 @@
 {
   "bos @ bal": {
+    "71": {
+      "player": "alex jackson",
+      "pitcher": "steven matz",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "70": {
       "player": "dylan carlson",
       "pitcher": "steven matz",
@@ -422,6 +428,18 @@
     }
   },
   "col @ hou": {
+    "46": {
+      "player": "brenton doyle",
+      "pitcher": "jason alexander",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
+    "45": {
+      "player": "jordan beck",
+      "pitcher": "jason alexander",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "ramon urias",
       "pitcher": "kyle freeland",
@@ -924,10 +942,16 @@
     }
   },
   "pit @ stl": {
+    "35": {
+      "player": "tommy pham",
+      "pitcher": "miles mikolas",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "34": {
       "player": "spencer horwitz",
       "pitcher": "miles mikolas",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "33": {
