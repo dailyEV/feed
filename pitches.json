@@ -281,7 +281,7 @@
     "14": {
       "player": "chas mccormick",
       "pitcher": "kyle freeland",
-      "result": "Hit By Pitch",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "13": {
@@ -364,11 +364,17 @@
     }
   },
   "ari @ mil": {
+    "16": {
+      "player": "geraldo perdomo",
+      "pitcher": "jose quintana",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "ketel marte",
       "pitcher": "jose quintana",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "ildemaro vargas",
@@ -459,8 +465,8 @@
     "12": {
       "player": "liover peguero",
       "pitcher": "miles mikolas",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "11": {
       "player": "jack suwinski",
