@@ -1865,8 +1865,8 @@
     "54": {
       "player": "connor wong",
       "pitcher": "roansy contreras",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "53": {
       "player": "jackson holliday",
@@ -2391,8 +2391,8 @@
     "38": {
       "player": "mark vientos",
       "pitcher": "taijuan walker",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "37": {
       "player": "brandon nimmo",
@@ -2621,7 +2621,7 @@
     "20": {
       "player": "mike tauchman",
       "pitcher": "ryan bergert",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "19": {
@@ -3008,10 +3008,16 @@
     }
   },
   "laa @ tex": {
+    "8": {
+      "player": "corey seager",
+      "pitcher": "jack kochanowicz",
+      "result": "Foul Tip",
+      "pitch": "Changeup"
+    },
     "7": {
       "player": "wyatt langford",
       "pitcher": "jack kochanowicz",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "6": {
