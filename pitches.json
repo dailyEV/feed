@@ -1862,10 +1862,16 @@
     }
   },
   "bos @ bal": {
+    "68": {
+      "player": "samuel basallo",
+      "pitcher": "aroldis chapman",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "67": {
       "player": "colton cowser",
       "pitcher": "aroldis chapman",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "66": {
@@ -2547,8 +2553,8 @@
     "52": {
       "player": "pete alonso",
       "pitcher": "tanner banks",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "51": {
       "player": "juan soto",
@@ -2861,8 +2867,8 @@
     "35": {
       "player": "kyle isbel",
       "pitcher": "aaron civale",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "34": {
       "player": "michael massey",
@@ -3652,6 +3658,12 @@
     }
   },
   "col @ hou": {
+    "20": {
+      "player": "jeremy pena",
+      "pitcher": "chase dollander",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "19": {
       "player": "tyler freeman",
       "pitcher": "framber valdez",
