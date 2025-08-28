@@ -3469,8 +3469,8 @@
     "57": {
       "player": "geraldo perdomo",
       "pitcher": "nick mears",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "caleb durbin",
@@ -3810,6 +3810,12 @@
     }
   },
   "pit @ stl": {
+    "63": {
+      "player": "nick gonzales",
+      "pitcher": "matt svanson",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "62": {
       "player": "willson contreras",
       "pitcher": "isaac mattson",
@@ -4187,8 +4193,8 @@
     "48": {
       "player": "wyatt langford",
       "pitcher": "robert stephenson",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "josh smith",
@@ -4477,8 +4483,8 @@
     "44": {
       "player": "christian walker",
       "pitcher": "chase dollander",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "jesus sanchez",
@@ -4927,6 +4933,13 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "chc @ sf": {},
+  "chc @ sf": {
+    "1": {
+      "player": "nico hoerner",
+      "pitcher": "carson whisenhunt",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  },
   "det @ ath": {}
 }
