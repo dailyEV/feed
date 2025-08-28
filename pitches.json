@@ -2553,8 +2553,8 @@
     "53": {
       "player": "brandon nimmo",
       "pitcher": "tanner banks",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "52": {
       "player": "pete alonso",
@@ -3306,12 +3306,6 @@
     }
   },
   "pit @ stl": {
-    "39": {
-      "player": "isiah kiner falefa",
-      "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "38": {
       "player": "alec burleson",
       "pitcher": "bubba chandler",
@@ -3703,8 +3697,8 @@
     "22": {
       "player": "carlos correa",
       "pitcher": "chase dollander",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "21": {
       "player": "yordan alvarez",
@@ -3834,11 +3828,17 @@
     }
   },
   "cin @ lad": {
+    "9": {
+      "player": "spencer steer",
+      "pitcher": "shohei ohtani",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "gavin lux",
       "pitcher": "shohei ohtani",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "7": {
       "player": "teoscar hernandez",
