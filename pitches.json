@@ -1862,6 +1862,12 @@
     }
   },
   "bos @ bal": {
+    "44": {
+      "player": "ryan mountcastle",
+      "pitcher": "brayan bello",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "gunnar henderson",
       "pitcher": "brayan bello",
@@ -2122,16 +2128,10 @@
     }
   },
   "min @ tor": {
-    "24": {
-      "player": "george springer",
-      "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "23": {
       "player": "andres gimenez",
       "pitcher": "simeon woods richardson",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Splitter"
     },
     "22": {
@@ -2429,8 +2429,8 @@
     "9": {
       "player": "adam frazier",
       "pitcher": "aaron civale",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Splitter"
     },
     "8": {
       "player": "salvador perez",
@@ -2485,8 +2485,8 @@
     "10": {
       "player": "james mccann",
       "pitcher": "aaron ashby",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "9": {
       "player": "pavin smith",
