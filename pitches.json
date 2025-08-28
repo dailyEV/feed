@@ -1,10 +1,16 @@
 {
   "bos @ bal": {
+    "58": {
+      "player": "alex bregman",
+      "pitcher": "rico garcia",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "57": {
       "player": "roman anthony",
       "pitcher": "rico garcia",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "56": {
       "player": "jeremiah jackson",
@@ -344,6 +350,12 @@
     }
   },
   "col @ hou": {
+    "29": {
+      "player": "brenton doyle",
+      "pitcher": "jason alexander",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "28": {
       "player": "jordan beck",
       "pitcher": "jason alexander",
@@ -517,7 +529,7 @@
     "27": {
       "player": "alek thomas",
       "pitcher": "jose quintana",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "26": {
@@ -681,8 +693,8 @@
     "22": {
       "player": "oneil cruz",
       "pitcher": "miles mikolas",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "21": {
       "player": "nick gonzales",
