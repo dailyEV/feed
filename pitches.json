@@ -1865,7 +1865,7 @@
     "68": {
       "player": "samuel basallo",
       "pitcher": "aroldis chapman",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "67": {
@@ -2553,8 +2553,8 @@
     "52": {
       "player": "pete alonso",
       "pitcher": "tanner banks",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "juan soto",
@@ -2864,12 +2864,6 @@
     }
   },
   "kc @ chw": {
-    "36": {
-      "player": "mike yastrzemski",
-      "pitcher": "aaron civale",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "35": {
       "player": "kyle isbel",
       "pitcher": "aaron civale",
@@ -3085,7 +3079,7 @@
     "35": {
       "player": "andruw monasterio",
       "pitcher": "ryne nelson",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -3524,11 +3518,17 @@
     }
   },
   "laa @ tex": {
+    "26": {
+      "player": "mike trout",
+      "pitcher": "jacob latz",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "25": {
       "player": "zach neto",
       "pitcher": "jacob latz",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "bryce teodosio",
@@ -3679,8 +3679,8 @@
     "22": {
       "player": "carlos correa",
       "pitcher": "chase dollander",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "yordan alvarez",
