@@ -2278,12 +2278,6 @@
     }
   },
   "min @ tor": {
-    "51": {
-      "player": "byron buxton",
-      "pitcher": "tommy nance",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "50": {
       "player": "edouard julien",
       "pitcher": "tommy nance",
@@ -3163,7 +3157,7 @@
     "40": {
       "player": "corbin carroll",
       "pitcher": "erick fedde",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "39": {
@@ -3405,8 +3399,8 @@
     "42": {
       "player": "bryan reynolds",
       "pitcher": "sonny gray",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "41": {
       "player": "spencer horwitz",
@@ -3990,11 +3984,17 @@
     }
   },
   "cin @ lad": {
-    "11": {
-      "player": "kebryan hayes",
+    "12": {
+      "player": "matt mclain",
       "pitcher": "shohei ohtani",
       "result": "Called Strike",
       "pitch": "Sinker"
+    },
+    "11": {
+      "player": "kebryan hayes",
+      "pitcher": "shohei ohtani",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "jose trevino",
