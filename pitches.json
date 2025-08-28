@@ -1865,7 +1865,7 @@
     "67": {
       "player": "colton cowser",
       "pitcher": "aroldis chapman",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -2544,11 +2544,17 @@
     }
   },
   "phi @ nym": {
+    "52": {
+      "player": "pete alonso",
+      "pitcher": "tanner banks",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "51": {
       "player": "juan soto",
       "pitcher": "tanner banks",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "50": {
       "player": "jt realmuto",
@@ -2855,8 +2861,8 @@
     "35": {
       "player": "kyle isbel",
       "pitcher": "aaron civale",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "34": {
       "player": "michael massey",
