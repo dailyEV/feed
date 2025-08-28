@@ -1862,11 +1862,17 @@
     }
   },
   "bos @ bal": {
+    "57": {
+      "player": "alex bregman",
+      "pitcher": "keegan akin",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "56": {
       "player": "roman anthony",
       "pitcher": "keegan akin",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "55": {
       "player": "david hamilton",
@@ -3143,8 +3149,8 @@
     "13": {
       "player": "kyle higashioka",
       "pitcher": "jack kochanowicz",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "12": {
       "player": "rowdy tellez",
@@ -3224,7 +3230,7 @@
       "player": "ezequiel tovar",
       "pitcher": "framber valdez",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "10": {
       "player": "warming bernabel",
