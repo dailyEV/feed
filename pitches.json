@@ -2281,7 +2281,7 @@
     "73": {
       "player": "alejandro kirk",
       "pitcher": "genesis cabrera",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "72": {
@@ -3122,6 +3122,12 @@
     }
   },
   "kc @ chw": {
+    "69": {
+      "player": "tyler tolbert",
+      "pitcher": "korey lee",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "68": {
       "player": "nick loftin",
       "pitcher": "korey lee",
@@ -3906,6 +3912,12 @@
     }
   },
   "pit @ stl": {
+    "70": {
+      "player": "pedro pages",
+      "pitcher": "dennis santana",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "69": {
       "player": "thomas saggese",
       "pitcher": "dennis santana",
@@ -4651,7 +4663,7 @@
     "48": {
       "player": "kyle karros",
       "pitcher": "framber valdez",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "47": {
@@ -4941,8 +4953,8 @@
     "37": {
       "player": "tj friedl",
       "pitcher": "shohei ohtani",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "36": {
       "player": "matt mclain",
@@ -5156,6 +5168,12 @@
     }
   },
   "chc @ sf": {
+    "7": {
+      "player": "rafael devers",
+      "pitcher": "colin rea",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "heliot ramos",
       "pitcher": "colin rea",
