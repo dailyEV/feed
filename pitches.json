@@ -4397,8 +4397,8 @@
     "57": {
       "player": "rowdy tellez",
       "pitcher": "jose fermin",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "josh jung",
@@ -5288,6 +5288,12 @@
     }
   },
   "chc @ sf": {
+    "11": {
+      "player": "dansby swanson",
+      "pitcher": "carson whisenhunt",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "10": {
       "player": "pete crow armstrong",
       "pitcher": "carson whisenhunt",
@@ -5349,5 +5355,12 @@
       "pitch": "Sinker"
     }
   },
-  "det @ ath": {}
+  "det @ ath": {
+    "1": {
+      "player": "colt keith",
+      "pitcher": "luis morales",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  }
 }
