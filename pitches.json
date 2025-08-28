@@ -889,8 +889,8 @@
     "77": {
       "player": "gabriel moreno",
       "pitcher": "easton mcgee",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "76": {
       "player": "lourdes gurriel",
@@ -1353,8 +1353,8 @@
     "69": {
       "player": "isiah kiner falefa",
       "pitcher": "jojo romero",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "liover peguero",
@@ -1766,11 +1766,17 @@
     }
   },
   "chc @ sf": {
+    "37": {
+      "player": "heliot ramos",
+      "pitcher": "shota imanaga",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "36": {
       "player": "patrick bailey",
       "pitcher": "shota imanaga",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Splitter"
     },
     "35": {
       "player": "luis matos",
