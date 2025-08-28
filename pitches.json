@@ -2233,8 +2233,8 @@
     "42": {
       "player": "luke keaschall",
       "pitcher": "eric lauer",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "matt wallner",
@@ -3135,8 +3135,8 @@
     "33": {
       "player": "henry davis",
       "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "32": {
       "player": "oneil cruz",
@@ -3332,10 +3332,16 @@
     }
   },
   "laa @ tex": {
+    "19": {
+      "player": "wyatt langford",
+      "pitcher": "jack kochanowicz",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "18": {
       "player": "josh smith",
       "pitcher": "jack kochanowicz",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "17": {
@@ -3442,11 +3448,17 @@
     }
   },
   "col @ hou": {
+    "16": {
+      "player": "cesar salazar",
+      "pitcher": "chase dollander",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "15": {
       "player": "jacob melton",
       "pitcher": "chase dollander",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "mauricio dubon",
@@ -3537,7 +3549,7 @@
     "3": {
       "player": "elly de la cruz",
       "pitcher": "shohei ohtani",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "2": {
