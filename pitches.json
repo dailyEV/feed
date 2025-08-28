@@ -1865,8 +1865,8 @@
     "43": {
       "player": "gunnar henderson",
       "pitcher": "brayan bello",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "jeremiah jackson",
@@ -2265,8 +2265,8 @@
     "26": {
       "player": "bryce harper",
       "pitcher": "nolan mclean",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "25": {
       "player": "kyle schwarber",
@@ -2423,8 +2423,8 @@
     "9": {
       "player": "adam frazier",
       "pitcher": "aaron civale",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "8": {
       "player": "salvador perez",
@@ -2476,10 +2476,16 @@
     }
   },
   "ari @ mil": {
+    "10": {
+      "player": "james mccann",
+      "pitcher": "aaron ashby",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "9": {
       "player": "pavin smith",
       "pitcher": "aaron ashby",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "8": {
