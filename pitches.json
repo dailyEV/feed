@@ -1862,6 +1862,12 @@
     }
   },
   "bos @ bal": {
+    "49": {
+      "player": "samuel basallo",
+      "pitcher": "brayan bello",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "48": {
       "player": "masataka yoshida",
       "pitcher": "roansy contreras",
@@ -2792,11 +2798,17 @@
     }
   },
   "laa @ tex": {
+    "3": {
+      "player": "taylor ward",
+      "pitcher": "jacob latz",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "2": {
       "player": "mike trout",
       "pitcher": "jacob latz",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "1": {
       "player": "zach neto",
@@ -2805,7 +2817,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "col @ hou": {},
+  "col @ hou": {
+    "1": {
+      "player": "tyler freeman",
+      "pitcher": "framber valdez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  },
   "cin @ lad": {},
   "chc @ sf": {},
   "det @ ath": {}
