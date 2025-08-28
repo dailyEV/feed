@@ -1865,7 +1865,7 @@
     "69": {
       "player": "coby mayo",
       "pitcher": "aroldis chapman",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -2282,7 +2282,7 @@
       "player": "edouard julien",
       "pitcher": "tommy nance",
       "result": "Called Strike",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "49": {
       "player": "daulton varsho",
@@ -2583,8 +2583,8 @@
     "56": {
       "player": "alec bohm",
       "pitcher": "nolan mclean",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "55": {
       "player": "jeff mcneil",
@@ -2918,6 +2918,12 @@
     }
   },
   "kc @ chw": {
+    "39": {
+      "player": "maikel garcia",
+      "pitcher": "tyler gilbert",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "38": {
       "player": "vinnie pasquantino",
       "pitcher": "tyler gilbert",
@@ -3632,11 +3638,17 @@
     }
   },
   "laa @ tex": {
+    "30": {
+      "player": "alejandro osuna",
+      "pitcher": "jack kochanowicz",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "kyle higashioka",
       "pitcher": "jack kochanowicz",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "28": {
       "player": "rowdy tellez",
