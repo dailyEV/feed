@@ -443,8 +443,8 @@
     "53": {
       "player": "kyle farmer",
       "pitcher": "steven okert",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "chas mccormick",
@@ -763,8 +763,8 @@
     "48": {
       "player": "william contreras",
       "pitcher": "nabil crismatt",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "47": {
       "player": "ildemaro vargas",
@@ -1053,8 +1053,8 @@
     "43": {
       "player": "jack suwinski",
       "pitcher": "kyle leahy",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "joey bart",
@@ -1310,6 +1310,12 @@
     }
   },
   "chc @ sf": {
+    "3": {
+      "player": "ian happ",
+      "pitcher": "logan webb",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "2": {
       "player": "kyle tucker",
       "pitcher": "logan webb",
