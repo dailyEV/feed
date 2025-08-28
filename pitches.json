@@ -2242,6 +2242,12 @@
     }
   },
   "min @ tor": {
+    "43": {
+      "player": "brooks lee",
+      "pitcher": "eric lauer",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "luke keaschall",
       "pitcher": "eric lauer",
@@ -2980,6 +2986,18 @@
     }
   },
   "ari @ mil": {
+    "31": {
+      "player": "adrian del castillo",
+      "pitcher": "erick fedde",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
+    "30": {
+      "player": "james mccann",
+      "pitcher": "erick fedde",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "29": {
       "player": "pavin smith",
       "pitcher": "erick fedde",
@@ -3360,7 +3378,7 @@
       "player": "wyatt langford",
       "pitcher": "jack kochanowicz",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "josh smith",
@@ -3475,8 +3493,8 @@
     "16": {
       "player": "cesar salazar",
       "pitcher": "chase dollander",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "15": {
       "player": "jacob melton",
@@ -3570,11 +3588,17 @@
     }
   },
   "cin @ lad": {
-    "3": {
-      "player": "elly de la cruz",
+    "4": {
+      "player": "austin hays",
       "pitcher": "shohei ohtani",
       "result": "Foul",
       "pitch": "4-Seam Fastball"
+    },
+    "3": {
+      "player": "elly de la cruz",
+      "pitcher": "shohei ohtani",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "2": {
       "player": "noelvi marte",
