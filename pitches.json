@@ -1862,10 +1862,22 @@
     }
   },
   "bos @ bal": {
+    "65": {
+      "player": "romy gonzalez",
+      "pitcher": "keegan akin",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "64": {
+      "player": "nathaniel lowe",
+      "pitcher": "keegan akin",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "ceddanne rafaela",
       "pitcher": "keegan akin",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "62": {
@@ -2245,8 +2257,8 @@
     "44": {
       "player": "kody clemens",
       "pitcher": "eric lauer",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "43": {
       "player": "brooks lee",
@@ -3192,6 +3204,12 @@
     }
   },
   "pit @ stl": {
+    "35": {
+      "player": "nathan church",
+      "pitcher": "bubba chandler",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "pedro pages",
       "pitcher": "bubba chandler",
@@ -3402,7 +3420,7 @@
       "player": "corey seager",
       "pitcher": "jack kochanowicz",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "19": {
       "player": "wyatt langford",
@@ -3621,7 +3639,7 @@
     "4": {
       "player": "austin hays",
       "pitcher": "shohei ohtani",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "3": {
