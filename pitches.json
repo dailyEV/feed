@@ -1865,8 +1865,8 @@
     "69": {
       "player": "coby mayo",
       "pitcher": "aroldis chapman",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "68": {
       "player": "samuel basallo",
@@ -2574,11 +2574,17 @@
     }
   },
   "phi @ nym": {
+    "55": {
+      "player": "jeff mcneil",
+      "pitcher": "tanner banks",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "54": {
       "player": "mark vientos",
       "pitcher": "tanner banks",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "53": {
       "player": "brandon nimmo",
@@ -3754,6 +3760,12 @@
     }
   },
   "col @ hou": {
+    "23": {
+      "player": "brenton doyle",
+      "pitcher": "framber valdez",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "22": {
       "player": "carlos correa",
       "pitcher": "chase dollander",
