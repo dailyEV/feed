@@ -1,10 +1,16 @@
 {
   "bos @ bal": {
+    "72": {
+      "player": "jackson holliday",
+      "pitcher": "steven matz",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "71": {
       "player": "alex jackson",
       "pitcher": "steven matz",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "70": {
       "player": "dylan carlson",
@@ -428,12 +434,6 @@
     }
   },
   "col @ hou": {
-    "46": {
-      "player": "brenton doyle",
-      "pitcher": "jason alexander",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "45": {
       "player": "jordan beck",
       "pitcher": "jason alexander",
@@ -945,8 +945,8 @@
     "35": {
       "player": "tommy pham",
       "pitcher": "miles mikolas",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "34": {
       "player": "spencer horwitz",
