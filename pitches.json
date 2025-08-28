@@ -371,8 +371,8 @@
     "32": {
       "player": "mauricio dubon",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "warming bernabel",
@@ -565,7 +565,7 @@
     "31": {
       "player": "brice turang",
       "pitcher": "nabil crismatt",
-      "result": "Ball In Dirt",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "30": {
@@ -750,6 +750,12 @@
     }
   },
   "pit @ stl": {
+    "25": {
+      "player": "ivan herrera",
+      "pitcher": "braxton ashcraft",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "lars nootbaar",
       "pitcher": "braxton ashcraft",
