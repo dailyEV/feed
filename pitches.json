@@ -2275,8 +2275,8 @@
     "46": {
       "player": "austin martin",
       "pitcher": "tommy nance",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "45": {
       "player": "royce lewis",
@@ -2553,8 +2553,8 @@
     "52": {
       "player": "pete alonso",
       "pitcher": "tanner banks",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "51": {
       "player": "juan soto",
@@ -3076,10 +3076,16 @@
     }
   },
   "ari @ mil": {
+    "35": {
+      "player": "andruw monasterio",
+      "pitcher": "ryne nelson",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "34": {
       "player": "brandon lockridge",
       "pitcher": "ryne nelson",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -3658,12 +3664,6 @@
     }
   },
   "col @ hou": {
-    "20": {
-      "player": "jeremy pena",
-      "pitcher": "chase dollander",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
     "19": {
       "player": "tyler freeman",
       "pitcher": "framber valdez",
@@ -3783,8 +3783,8 @@
     "7": {
       "player": "teoscar hernandez",
       "pitcher": "nick lodolo",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "6": {
       "player": "mookie betts",
