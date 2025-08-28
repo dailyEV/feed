@@ -2281,7 +2281,7 @@
     "81": {
       "player": "brooks lee",
       "pitcher": "jeff hoffman",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "80": {
@@ -3170,6 +3170,12 @@
     }
   },
   "kc @ chw": {
+    "80": {
+      "player": "mike yastrzemski",
+      "pitcher": "korey lee",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "79": {
       "player": "kyle isbel",
       "pitcher": "korey lee",
@@ -3649,8 +3655,8 @@
     "68": {
       "player": "adrian del castillo",
       "pitcher": "easton mcgee",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "67": {
       "player": "james mccann",
@@ -4478,6 +4484,12 @@
     }
   },
   "laa @ tex": {
+    "60": {
+      "player": "christian moore",
+      "pitcher": "luis curvelo",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "logan ohoppe",
       "pitcher": "luis curvelo",
@@ -5175,8 +5187,8 @@
     "43": {
       "player": "elly de la cruz",
       "pitcher": "jack dreyer",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "noelvi marte",
@@ -5522,7 +5534,7 @@
       "player": "shea langeliers",
       "pitcher": "casey mize",
       "result": "Swinging Strike",
-      "pitch": "Slurve"
+      "pitch": "Sinker"
     },
     "4": {
       "player": "nick kurtz",
