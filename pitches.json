@@ -1865,7 +1865,7 @@
     "50": {
       "player": "coby mayo",
       "pitcher": "brayan bello",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "49": {
@@ -2620,6 +2620,12 @@
     }
   },
   "ari @ mil": {
+    "16": {
+      "player": "adrian del castillo",
+      "pitcher": "erick fedde",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "15": {
       "player": "andruw monasterio",
       "pitcher": "ryne nelson",
@@ -2712,6 +2718,12 @@
     }
   },
   "pit @ stl": {
+    "18": {
+      "player": "jared triolo",
+      "pitcher": "sonny gray",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "17": {
       "player": "isiah kiner falefa",
       "pitcher": "sonny gray",
@@ -2836,11 +2848,17 @@
     }
   },
   "col @ hou": {
+    "2": {
+      "player": "brenton doyle",
+      "pitcher": "framber valdez",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "1": {
       "player": "tyler freeman",
       "pitcher": "framber valdez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     }
   },
   "cin @ lad": {},
