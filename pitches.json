@@ -1865,8 +1865,8 @@
     "68": {
       "player": "samuel basallo",
       "pitcher": "aroldis chapman",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "67": {
       "player": "colton cowser",
@@ -2275,8 +2275,8 @@
     "46": {
       "player": "austin martin",
       "pitcher": "tommy nance",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "royce lewis",
@@ -2554,7 +2554,7 @@
       "player": "pete alonso",
       "pitcher": "tanner banks",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "juan soto",
@@ -3076,10 +3076,16 @@
     }
   },
   "ari @ mil": {
+    "35": {
+      "player": "andruw monasterio",
+      "pitcher": "ryne nelson",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "34": {
       "player": "brandon lockridge",
       "pitcher": "ryne nelson",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -3512,12 +3518,6 @@
     }
   },
   "laa @ tex": {
-    "25": {
-      "player": "zach neto",
-      "pitcher": "jacob latz",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
     "24": {
       "player": "bryce teodosio",
       "pitcher": "jacob latz",
@@ -3664,6 +3664,12 @@
     }
   },
   "col @ hou": {
+    "22": {
+      "player": "carlos correa",
+      "pitcher": "chase dollander",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "21": {
       "player": "yordan alvarez",
       "pitcher": "chase dollander",
