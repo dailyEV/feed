@@ -3143,8 +3143,8 @@
     "74": {
       "player": "edgar quero",
       "pitcher": "angel zerpa",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "73": {
       "player": "andrew benintendi",
@@ -3586,6 +3586,12 @@
     }
   },
   "ari @ mil": {
+    "65": {
+      "player": "blake perkins",
+      "pitcher": "andrew saalfrank",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
     "64": {
       "player": "andrew vaughn",
       "pitcher": "juan burgos",
@@ -4741,7 +4747,7 @@
     "52": {
       "player": "cesar salazar",
       "pitcher": "nick anderson",
-      "result": "Foul Tip",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "51": {
@@ -5055,8 +5061,8 @@
     "40": {
       "player": "teoscar hernandez",
       "pitcher": "nick lodolo",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Hit By Pitch",
+      "pitch": "Curveball"
     },
     "39": {
       "player": "mookie betts",
@@ -5359,7 +5365,7 @@
     "1": {
       "player": "colt keith",
       "pitcher": "luis morales",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     }
   }
