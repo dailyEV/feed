@@ -1865,8 +1865,8 @@
     "68": {
       "player": "samuel basallo",
       "pitcher": "aroldis chapman",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "colton cowser",
@@ -2272,12 +2272,6 @@
     }
   },
   "min @ tor": {
-    "47": {
-      "player": "vladimir guerrero",
-      "pitcher": "thomas hatch",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "46": {
       "player": "austin martin",
       "pitcher": "tommy nance",
@@ -2556,6 +2550,12 @@
     }
   },
   "phi @ nym": {
+    "53": {
+      "player": "brandon nimmo",
+      "pitcher": "tanner banks",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "52": {
       "player": "pete alonso",
       "pitcher": "tanner banks",
@@ -3088,10 +3088,16 @@
     }
   },
   "ari @ mil": {
+    "36": {
+      "player": "brice turang",
+      "pitcher": "ryne nelson",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "35": {
       "player": "andruw monasterio",
       "pitcher": "ryne nelson",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -3300,6 +3306,12 @@
     }
   },
   "pit @ stl": {
+    "39": {
+      "player": "isiah kiner falefa",
+      "pitcher": "sonny gray",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "38": {
       "player": "alec burleson",
       "pitcher": "bubba chandler",
@@ -3822,12 +3834,6 @@
     }
   },
   "cin @ lad": {
-    "8": {
-      "player": "gavin lux",
-      "pitcher": "shohei ohtani",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "7": {
       "player": "teoscar hernandez",
       "pitcher": "nick lodolo",
