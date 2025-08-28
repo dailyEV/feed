@@ -2616,11 +2616,17 @@
     }
   },
   "phi @ nym": {
+    "63": {
+      "player": "hayden senger",
+      "pitcher": "lou trivino",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "62": {
       "player": "brett baty",
       "pitcher": "lou trivino",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "61": {
       "player": "starling marte",
@@ -2993,8 +2999,8 @@
     "45": {
       "player": "miguel vargas",
       "pitcher": "ryan bergert",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "mike tauchman",
@@ -3265,8 +3271,8 @@
     "45": {
       "player": "andrew vaughn",
       "pitcher": "ryne nelson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "44": {
       "player": "christian yelich",
@@ -3537,7 +3543,7 @@
     "48": {
       "player": "nolan gorman",
       "pitcher": "bubba chandler",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -4236,6 +4242,12 @@
     }
   },
   "cin @ lad": {
+    "16": {
+      "player": "tj friedl",
+      "pitcher": "shohei ohtani",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "15": {
       "player": "michael conforto",
       "pitcher": "nick lodolo",
