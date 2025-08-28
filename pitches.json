@@ -275,8 +275,8 @@
     "14": {
       "player": "chas mccormick",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Hit By Pitch",
+      "pitch": "Cutter"
     },
     "13": {
       "player": "mauricio dubon",
@@ -361,7 +361,7 @@
     "14": {
       "player": "ildemaro vargas",
       "pitcher": "jose quintana",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "13": {
@@ -444,6 +444,12 @@
     }
   },
   "pit @ stl": {
+    "11": {
+      "player": "jack suwinski",
+      "pitcher": "miles mikolas",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "willson contreras",
       "pitcher": "braxton ashcraft",
