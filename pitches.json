@@ -403,8 +403,8 @@
     "33": {
       "player": "brandon marsh",
       "pitcher": "bryce elder",
-      "result": "In play, run(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "32": {
       "player": "alec bohm",
@@ -603,8 +603,8 @@
     "18": {
       "player": "davis schneider",
       "pitcher": "freddy peralta",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "17": {
       "player": "brice turang",
@@ -710,11 +710,17 @@
     }
   },
   "pit @ bos": {
+    "22": {
+      "player": "alex bregman",
+      "pitcher": "paul skenes",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "roman anthony",
       "pitcher": "paul skenes",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "connor wong",
@@ -954,6 +960,12 @@
     }
   },
   "mia @ nym": {
+    "16": {
+      "player": "luis torrens",
+      "pitcher": "tyler zuber",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "15": {
       "player": "troy johnston",
       "pitcher": "jonah tong",
