@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "36": {
+      "player": "kebryan hayes",
+      "pitcher": "matthew liberatore",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "35": {
       "player": "jose trevino",
       "pitcher": "matthew liberatore",
@@ -215,7 +221,7 @@
     "29": {
       "player": "carson williams",
       "pitcher": "mitchell parker",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "28": {
@@ -686,6 +692,12 @@
     }
   },
   "pit @ bos": {
+    "20": {
+      "player": "connor wong",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "nick gonzales",
       "pitcher": "payton tolle",
@@ -802,6 +814,12 @@
     }
   },
   "sea @ cle": {
+    "17": {
+      "player": "gabriel arias",
+      "pitcher": "george kirby",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "cal raleigh",
       "pitcher": "logan allen",
@@ -996,7 +1014,7 @@
       "player": "aaron judge",
       "pitcher": "yoendrys gomez",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "1": {
       "player": "trent grisham",
