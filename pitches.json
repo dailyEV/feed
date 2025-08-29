@@ -3,8 +3,8 @@
     "40": {
       "player": "willson contreras",
       "pitcher": "zack littell",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "39": {
       "player": "ivan herrera",
@@ -245,8 +245,8 @@
     "34": {
       "player": "robert hassell",
       "pitcher": "adrian houser",
-      "result": "Foul Bunt",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "33": {
       "player": "dylan crews",
@@ -664,7 +664,7 @@
       "player": "addison barger",
       "pitcher": "freddy peralta",
       "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "pitch": "Changeup"
     },
     "20": {
       "player": "george springer",
@@ -940,10 +940,22 @@
     }
   },
   "sea @ cle": {
+    "23": {
+      "player": "josh naylor",
+      "pitcher": "logan allen",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
+    "22": {
+      "player": "eugenio suarez",
+      "pitcher": "logan allen",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "21": {
       "player": "julio rodriguez",
       "pitcher": "logan allen",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -1193,7 +1205,7 @@
     "7": {
       "player": "lenyn sosa",
       "pitcher": "carlos rodon",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "6": {
