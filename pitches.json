@@ -3,8 +3,8 @@
     "40": {
       "player": "willson contreras",
       "pitcher": "zack littell",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "39": {
       "player": "ivan herrera",
@@ -445,8 +445,8 @@
     "35": {
       "player": "max kepler",
       "pitcher": "bryce elder",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "34": {
       "player": "nick castellanos",
@@ -782,10 +782,16 @@
     }
   },
   "pit @ bos": {
+    "25": {
+      "player": "tommy pham",
+      "pitcher": "payton tolle",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "24": {
       "player": "bryan reynolds",
       "pitcher": "payton tolle",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "23": {
