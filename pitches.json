@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "16": {
+      "player": "jose trevino",
+      "pitcher": "matthew liberatore",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "15": {
       "player": "nathan church",
       "pitcher": "zack littell",
@@ -95,7 +101,7 @@
     "11": {
       "player": "riley adams",
       "pitcher": "adrian houser",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "10": {
@@ -163,8 +169,8 @@
     "13": {
       "player": "jurickson profar",
       "pitcher": "ranger suarez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "12": {
       "player": "nick allen",
@@ -239,7 +245,14 @@
       "pitch": "Sinker"
     }
   },
-  "mil @ tor": {},
+  "mil @ tor": {
+    "1": {
+      "player": "brice turang",
+      "pitcher": "shane bieber",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "pit @ bos": {},
   "sea @ cle": {},
   "mia @ nym": {},
