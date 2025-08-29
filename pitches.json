@@ -1,5 +1,35 @@
 {
   "stl @ cin": {
+    "29": {
+      "player": "miguel andujar",
+      "pitcher": "matthew liberatore",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
+    "28": {
+      "player": "elly de la cruz",
+      "pitcher": "matthew liberatore",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
+    "27": {
+      "player": "noelvi marte",
+      "pitcher": "matthew liberatore",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
+    "26": {
+      "player": "tj friedl",
+      "pitcher": "matthew liberatore",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "25": {
+      "player": "jordan walker",
+      "pitcher": "zack littell",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "thomas saggese",
       "pitcher": "zack littell",
@@ -146,10 +176,28 @@
     }
   },
   "tb @ wsh": {
+    "25": {
+      "player": "josh bell",
+      "pitcher": "adrian houser",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "24": {
+      "player": "cj abrams",
+      "pitcher": "adrian houser",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
+    "23": {
+      "player": "james wood",
+      "pitcher": "adrian houser",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "22": {
       "player": "brandon lowe",
       "pitcher": "mitchell parker",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "21": {
@@ -280,11 +328,29 @@
     }
   },
   "atl @ phi": {
+    "25": {
+      "player": "trea turner",
+      "pitcher": "bryce elder",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
+    "24": {
+      "player": "rafael marchan",
+      "pitcher": "bryce elder",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
+    "23": {
+      "player": "bryson stott",
+      "pitcher": "bryce elder",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "22": {
       "player": "max kepler",
       "pitcher": "bryce elder",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "21": {
       "player": "michael harris",
@@ -414,10 +480,16 @@
     }
   },
   "mil @ tor": {
+    "11": {
+      "player": "bo bichette",
+      "pitcher": "freddy peralta",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "isaac collins",
       "pitcher": "shane bieber",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Knuckle Curve"
     },
     "9": {
@@ -476,10 +548,28 @@
     }
   },
   "pit @ bos": {
+    "14": {
+      "player": "romy gonzalez",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
+    "13": {
+      "player": "masataka yoshida",
+      "pitcher": "paul skenes",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
+    "12": {
+      "player": "trevor story",
+      "pitcher": "paul skenes",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "liover peguero",
       "pitcher": "payton tolle",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -544,6 +634,24 @@
     }
   },
   "sea @ cle": {
+    "13": {
+      "player": "bo naylor",
+      "pitcher": "george kirby",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "12": {
+      "player": "kyle manzardo",
+      "pitcher": "george kirby",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "11": {
+      "player": "jose ramirez",
+      "pitcher": "george kirby",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "daniel schneemann",
       "pitcher": "george kirby",
@@ -606,6 +714,18 @@
     }
   },
   "mia @ nym": {
+    "10": {
+      "player": "brett baty",
+      "pitcher": "eury perez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "9": {
+      "player": "starling marte",
+      "pitcher": "eury perez",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "8": {
       "player": "brandon nimmo",
       "pitcher": "eury perez",
