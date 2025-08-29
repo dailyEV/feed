@@ -1,15 +1,21 @@
 {
   "stl @ cin": {
+    "22": {
+      "player": "nolan gorman",
+      "pitcher": "zack littell",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "21": {
       "player": "willson contreras",
       "pitcher": "zack littell",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Hit By Pitch",
+      "pitch": "Splitter"
     },
     "20": {
       "player": "ivan herrera",
       "pitcher": "zack littell",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "19": {
@@ -128,6 +134,18 @@
     }
   },
   "tb @ wsh": {
+    "17": {
+      "player": "dylan crews",
+      "pitcher": "adrian houser",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
+    "16": {
+      "player": "paul dejong",
+      "pitcher": "adrian houser",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "15": {
       "player": "daylen lile",
       "pitcher": "adrian houser",
@@ -328,7 +346,7 @@
       "player": "vladimir guerrero",
       "pitcher": "freddy peralta",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "5": {
       "player": "addison barger",
@@ -403,7 +421,7 @@
     "6": {
       "player": "jorge polanco",
       "pitcher": "logan allen",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "5": {
@@ -441,8 +459,8 @@
     "5": {
       "player": "juan soto",
       "pitcher": "eury perez",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "francisco lindor",
