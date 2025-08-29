@@ -1,10 +1,16 @@
 {
   "stl @ cin": {
+    "40": {
+      "player": "willson contreras",
+      "pitcher": "zack littell",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "39": {
       "player": "ivan herrera",
       "pitcher": "zack littell",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "38": {
       "player": "tj friedl",
@@ -779,8 +785,8 @@
     "24": {
       "player": "bryan reynolds",
       "pitcher": "payton tolle",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "jarren duran",
@@ -925,7 +931,7 @@
     "21": {
       "player": "julio rodriguez",
       "pitcher": "logan allen",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -1050,6 +1056,12 @@
     }
   },
   "mia @ nym": {
+    "19": {
+      "player": "pete alonso",
+      "pitcher": "tyler zuber",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
     "18": {
       "player": "juan soto",
       "pitcher": "tyler zuber",
@@ -1164,7 +1176,7 @@
       "player": "chase meidroth",
       "pitcher": "carlos rodon",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "giancarlo stanton",
