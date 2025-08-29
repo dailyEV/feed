@@ -1,9 +1,15 @@
 {
   "stl @ cin": {
+    "41": {
+      "player": "nolan gorman",
+      "pitcher": "zack littell",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "willson contreras",
       "pitcher": "zack littell",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "39": {
@@ -242,6 +248,12 @@
     }
   },
   "tb @ wsh": {
+    "35": {
+      "player": "james wood",
+      "pitcher": "adrian houser",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "34": {
       "player": "robert hassell",
       "pitcher": "adrian houser",
@@ -1089,8 +1101,8 @@
     "21": {
       "player": "brandon nimmo",
       "pitcher": "tyler zuber",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "20": {
       "player": "mark vientos",
