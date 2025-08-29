@@ -169,7 +169,7 @@
     "14": {
       "player": "matt olson",
       "pitcher": "ranger suarez",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "Sinker"
     },
     "13": {
@@ -252,6 +252,12 @@
     }
   },
   "mil @ tor": {
+    "2": {
+      "player": "william contreras",
+      "pitcher": "shane bieber",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "1": {
       "player": "brice turang",
       "pitcher": "shane bieber",
@@ -260,10 +266,16 @@
     }
   },
   "pit @ bos": {
+    "2": {
+      "player": "nick gonzales",
+      "pitcher": "payton tolle",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "jared triolo",
       "pitcher": "payton tolle",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     }
   },
@@ -271,8 +283,8 @@
     "1": {
       "player": "randy arozarena",
       "pitcher": "logan allen",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     }
   },
   "mia @ nym": {
