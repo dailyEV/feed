@@ -1,11 +1,5 @@
 {
   "stl @ cin": {
-    "41": {
-      "player": "nolan gorman",
-      "pitcher": "zack littell",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "40": {
       "player": "willson contreras",
       "pitcher": "zack littell",
@@ -800,10 +794,16 @@
     }
   },
   "pit @ bos": {
+    "27": {
+      "player": "alexander canario",
+      "pitcher": "payton tolle",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "andrew mccutchen",
       "pitcher": "payton tolle",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "25": {
@@ -1226,6 +1226,12 @@
     }
   },
   "nyy @ chw": {
+    "8": {
+      "player": "edgar quero",
+      "pitcher": "carlos rodon",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "7": {
       "player": "lenyn sosa",
       "pitcher": "carlos rodon",
@@ -1247,7 +1253,7 @@
     "4": {
       "player": "ben rice",
       "pitcher": "yoendrys gomez",
-      "result": "In play, out(s)",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "3": {
