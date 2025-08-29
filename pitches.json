@@ -104,6 +104,12 @@
     }
   },
   "tb @ wsh": {
+    "12": {
+      "player": "josh lowe",
+      "pitcher": "mitchell parker",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "11": {
       "player": "riley adams",
       "pitcher": "adrian houser",
@@ -261,8 +267,8 @@
     "2": {
       "player": "william contreras",
       "pitcher": "shane bieber",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "brice turang",
@@ -276,7 +282,7 @@
       "player": "nick gonzales",
       "pitcher": "payton tolle",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "jared triolo",
@@ -286,19 +292,25 @@
     }
   },
   "sea @ cle": {
+    "2": {
+      "player": "cal raleigh",
+      "pitcher": "logan allen",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "randy arozarena",
       "pitcher": "logan allen",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     }
   },
   "mia @ nym": {
     "1": {
       "player": "xavier edwards",
       "pitcher": "jonah tong",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     }
   },
   "nyy @ chw": {},
