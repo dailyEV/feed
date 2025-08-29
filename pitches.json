@@ -3,7 +3,7 @@
     "41": {
       "player": "nolan gorman",
       "pitcher": "zack littell",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -681,8 +681,8 @@
     "22": {
       "player": "vladimir guerrero",
       "pitcher": "freddy peralta",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "21": {
       "player": "addison barger",
@@ -1116,6 +1116,12 @@
     }
   },
   "mia @ nym": {
+    "22": {
+      "player": "starling marte",
+      "pitcher": "tyler zuber",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "brandon nimmo",
       "pitcher": "tyler zuber",
