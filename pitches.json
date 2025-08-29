@@ -1,10 +1,34 @@
 {
   "stl @ cin": {
+    "33": {
+      "player": "lars nootbaar",
+      "pitcher": "zack littell",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "32": {
+      "player": "nathan church",
+      "pitcher": "zack littell",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
+    "31": {
+      "player": "pedro pages",
+      "pitcher": "zack littell",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
+    "30": {
+      "player": "austin hays",
+      "pitcher": "matthew liberatore",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "29": {
       "player": "miguel andujar",
       "pitcher": "matthew liberatore",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "elly de la cruz",
@@ -176,10 +200,22 @@
     }
   },
   "tb @ wsh": {
+    "27": {
+      "player": "riley adams",
+      "pitcher": "adrian houser",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "26": {
+      "player": "luis garcia",
+      "pitcher": "adrian houser",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "25": {
       "player": "josh bell",
       "pitcher": "adrian houser",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Changeup"
     },
     "24": {
@@ -328,6 +364,30 @@
     }
   },
   "atl @ phi": {
+    "29": {
+      "player": "jurickson profar",
+      "pitcher": "ranger suarez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
+    "28": {
+      "player": "nick allen",
+      "pitcher": "ranger suarez",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
+    "27": {
+      "player": "nacho alvarez",
+      "pitcher": "ranger suarez",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
+    "26": {
+      "player": "sean murphy",
+      "pitcher": "ranger suarez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "25": {
       "player": "trea turner",
       "pitcher": "bryce elder",
@@ -480,11 +540,35 @@
     }
   },
   "mil @ tor": {
+    "15": {
+      "player": "blake perkins",
+      "pitcher": "shane bieber",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
+    "14": {
+      "player": "nathan lukes",
+      "pitcher": "freddy peralta",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "13": {
+      "player": "alejandro kirk",
+      "pitcher": "freddy peralta",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
+    "12": {
+      "player": "daulton varsho",
+      "pitcher": "freddy peralta",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "11": {
       "player": "bo bichette",
       "pitcher": "freddy peralta",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "10": {
       "player": "isaac collins",
@@ -548,11 +632,29 @@
     }
   },
   "pit @ bos": {
+    "17": {
+      "player": "isiah kiner falefa",
+      "pitcher": "payton tolle",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "16": {
+      "player": "ceddanne rafaela",
+      "pitcher": "paul skenes",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "15": {
+      "player": "nick sogard",
+      "pitcher": "paul skenes",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "14": {
       "player": "romy gonzalez",
       "pitcher": "paul skenes",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "masataka yoshida",
@@ -634,6 +736,24 @@
     }
   },
   "sea @ cle": {
+    "16": {
+      "player": "cal raleigh",
+      "pitcher": "logan allen",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "15": {
+      "player": "randy arozarena",
+      "pitcher": "logan allen",
+      "result": "Hit By Pitch",
+      "pitch": "4-Seam Fastball"
+    },
+    "14": {
+      "player": "jp crawford",
+      "pitcher": "logan allen",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "13": {
       "player": "bo naylor",
       "pitcher": "george kirby",
@@ -714,6 +834,24 @@
     }
   },
   "mia @ nym": {
+    "13": {
+      "player": "liam hicks",
+      "pitcher": "jonah tong",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "12": {
+      "player": "otto lopez",
+      "pitcher": "jonah tong",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
+    "11": {
+      "player": "tyrone taylor",
+      "pitcher": "tyler zuber",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "brett baty",
       "pitcher": "eury perez",
