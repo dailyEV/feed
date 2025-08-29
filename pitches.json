@@ -2203,7 +2203,7 @@
     "37": {
       "player": "kyle schwarber",
       "pitcher": "austin cox",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Curveball"
     },
     "36": {
@@ -2427,8 +2427,8 @@
     "27": {
       "player": "juan soto",
       "pitcher": "adam mazur",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "francisco lindor",
@@ -2588,6 +2588,12 @@
     }
   },
   "nyy @ chw": {
+    "11": {
+      "player": "jazz chisholm",
+      "pitcher": "davis martin",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "10": {
       "player": "andrew benintendi",
       "pitcher": "will warren",
