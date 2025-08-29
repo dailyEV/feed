@@ -227,8 +227,8 @@
     "31": {
       "player": "daylen lile",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "josh lowe",
@@ -737,7 +737,7 @@
     "23": {
       "player": "jarren duran",
       "pitcher": "paul skenes",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "22": {
@@ -990,11 +990,17 @@
     }
   },
   "mia @ nym": {
+    "17": {
+      "player": "francisco lindor",
+      "pitcher": "tyler zuber",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "16": {
       "player": "luis torrens",
       "pitcher": "tyler zuber",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "15": {
       "player": "troy johnston",
@@ -1091,7 +1097,7 @@
     "5": {
       "player": "giancarlo stanton",
       "pitcher": "yoendrys gomez",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "4": {
