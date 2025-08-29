@@ -230,6 +230,12 @@
     }
   },
   "tb @ wsh": {
+    "32": {
+      "player": "paul dejong",
+      "pitcher": "adrian houser",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "31": {
       "player": "daylen lile",
       "pitcher": "adrian houser",
@@ -627,8 +633,8 @@
     "20": {
       "player": "george springer",
       "pitcher": "freddy peralta",
-      "result": "Hit By Pitch",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "andres gimenez",
@@ -749,8 +755,8 @@
     "23": {
       "player": "jarren duran",
       "pitcher": "paul skenes",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "alex bregman",
@@ -1008,11 +1014,17 @@
     }
   },
   "mia @ nym": {
+    "18": {
+      "player": "juan soto",
+      "pitcher": "tyler zuber",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "17": {
       "player": "francisco lindor",
       "pitcher": "tyler zuber",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "16": {
       "player": "luis torrens",
