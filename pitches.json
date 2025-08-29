@@ -3,8 +3,8 @@
     "16": {
       "player": "jose trevino",
       "pitcher": "matthew liberatore",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "15": {
       "player": "nathan church",
@@ -169,7 +169,7 @@
     "14": {
       "player": "matt olson",
       "pitcher": "ranger suarez",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "13": {
@@ -255,12 +255,26 @@
     "1": {
       "player": "brice turang",
       "pitcher": "shane bieber",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     }
   },
-  "pit @ bos": {},
-  "sea @ cle": {},
+  "pit @ bos": {
+    "1": {
+      "player": "jared triolo",
+      "pitcher": "payton tolle",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
+  "sea @ cle": {
+    "1": {
+      "player": "randy arozarena",
+      "pitcher": "logan allen",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "mia @ nym": {},
   "nyy @ chw": {},
   "laa @ hou": {},
