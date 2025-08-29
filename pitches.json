@@ -3,8 +3,8 @@
     "40": {
       "player": "willson contreras",
       "pitcher": "zack littell",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "ivan herrera",
@@ -242,11 +242,17 @@
     }
   },
   "tb @ wsh": {
+    "34": {
+      "player": "robert hassell",
+      "pitcher": "adrian houser",
+      "result": "Foul Bunt",
+      "pitch": "Curveball"
+    },
     "33": {
       "player": "dylan crews",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "32": {
       "player": "paul dejong",
@@ -445,7 +451,7 @@
     "35": {
       "player": "max kepler",
       "pitcher": "bryce elder",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "34": {
@@ -657,7 +663,7 @@
     "21": {
       "player": "addison barger",
       "pitcher": "freddy peralta",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "20": {
@@ -934,16 +940,10 @@
     }
   },
   "sea @ cle": {
-    "22": {
-      "player": "eugenio suarez",
-      "pitcher": "logan allen",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
     "21": {
       "player": "julio rodriguez",
       "pitcher": "logan allen",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -1068,6 +1068,12 @@
     }
   },
   "mia @ nym": {
+    "20": {
+      "player": "mark vientos",
+      "pitcher": "tyler zuber",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "19": {
       "player": "pete alonso",
       "pitcher": "tyler zuber",
@@ -1184,6 +1190,12 @@
     }
   },
   "nyy @ chw": {
+    "7": {
+      "player": "lenyn sosa",
+      "pitcher": "carlos rodon",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "chase meidroth",
       "pitcher": "carlos rodon",
