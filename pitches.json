@@ -3,8 +3,8 @@
     "57": {
       "player": "lars nootbaar",
       "pitcher": "zack littell",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "56": {
       "player": "nathan church",
@@ -1620,11 +1620,17 @@
     }
   },
   "mia @ nym": {
+    "33": {
+      "player": "pete alonso",
+      "pitcher": "valente bellozo",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "32": {
       "player": "agustin ramirez",
       "pitcher": "jonah tong",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "jakob marsee",
@@ -1939,7 +1945,7 @@
     "8": {
       "player": "carlos correa",
       "pitcher": "tyler anderson",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "7": {
