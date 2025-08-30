@@ -856,6 +856,12 @@
     }
   },
   "atl @ phi": {
+    "70": {
+      "player": "vidal brujan",
+      "pitcher": "jhoan duran",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "69": {
       "player": "max kepler",
       "pitcher": "pierce johnson",
@@ -1981,7 +1987,7 @@
     "59": {
       "player": "eugenio suarez",
       "pitcher": "jakob junis",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -2660,12 +2666,6 @@
     }
   },
   "nyy @ chw": {
-    "41": {
-      "player": "brooks baldwin",
-      "pitcher": "carlos rodon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "40": {
       "player": "michael a taylor",
       "pitcher": "carlos rodon",
@@ -2911,8 +2911,8 @@
     "27": {
       "player": "carlos correa",
       "pitcher": "tyler anderson",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "26": {
       "player": "jo adell",
@@ -3075,8 +3075,8 @@
     "32": {
       "player": "salvador perez",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "maikel garcia",
@@ -3269,8 +3269,8 @@
     "32": {
       "player": "austin martin",
       "pitcher": "nestor cortes",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "matt wallner",
