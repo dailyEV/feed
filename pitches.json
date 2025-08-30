@@ -437,8 +437,8 @@
     "67": {
       "player": "dylan crews",
       "pitcher": "bryan baker",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "paul dejong",
@@ -1927,8 +1927,8 @@
     "56": {
       "player": "randy arozarena",
       "pitcher": "jakob junis",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "55": {
       "player": "steven kwan",
@@ -2262,6 +2262,12 @@
     }
   },
   "mia @ nym": {
+    "52": {
+      "player": "juan soto",
+      "pitcher": "valente bellozo",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "51": {
       "player": "francisco lindor",
       "pitcher": "valente bellozo",
@@ -2573,7 +2579,7 @@
     "37": {
       "player": "giancarlo stanton",
       "pitcher": "brandon eisert",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "36": {
@@ -2952,6 +2958,12 @@
     }
   },
   "det @ kc": {
+    "29": {
+      "player": "javier baez",
+      "pitcher": "seth lugo",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "zach mckinstry",
       "pitcher": "seth lugo",
@@ -3304,11 +3316,17 @@
     }
   },
   "chc @ col": {
+    "18": {
+      "player": "michael busch",
+      "pitcher": "german marquez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "yanquiel fernandez",
       "pitcher": "cade horton",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "16": {
       "player": "warming bernabel",
