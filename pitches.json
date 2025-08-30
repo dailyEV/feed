@@ -3,7 +3,7 @@
     "85": {
       "player": "masyn winn",
       "pitcher": "tony santillan",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "84": {
@@ -1802,6 +1802,12 @@
     }
   },
   "pit @ bos": {
+    "75": {
+      "player": "nick sogard",
+      "pitcher": "dennis santana",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "74": {
       "player": "romy gonzalez",
       "pitcher": "dennis santana",
@@ -2245,8 +2251,8 @@
     "71": {
       "player": "nolan jones",
       "pitcher": "andres munoz",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "70": {
       "player": "jp crawford",
@@ -2670,12 +2676,6 @@
     }
   },
   "mia @ nym": {
-    "66": {
-      "player": "agustin ramirez",
-      "pitcher": "jose castillo",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "65": {
       "player": "jakob marsee",
       "pitcher": "jose castillo",
@@ -3068,6 +3068,18 @@
     }
   },
   "nyy @ chw": {
+    "51": {
+      "player": "ben rice",
+      "pitcher": "mike vasil",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
+    "50": {
+      "player": "cody bellinger",
+      "pitcher": "mike vasil",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "aaron judge",
       "pitcher": "mike vasil",
@@ -3863,7 +3875,7 @@
     "40": {
       "player": "freddy fermin",
       "pitcher": "zebby matthews",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "39": {
