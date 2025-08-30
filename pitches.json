@@ -668,7 +668,7 @@
       "player": "ronald acuna",
       "pitcher": "matt strahm",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Slider"
     },
     "53": {
       "player": "matt olson",
@@ -2086,10 +2086,16 @@
     }
   },
   "laa @ hou": {
+    "10": {
+      "player": "logan ohoppe",
+      "pitcher": "cristian javier",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "jo adell",
       "pitcher": "cristian javier",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "8": {
@@ -2142,17 +2148,11 @@
     }
   },
   "det @ kc": {
-    "11": {
-      "player": "salvador perez",
-      "pitcher": "chris paddack",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "10": {
       "player": "maikel garcia",
       "pitcher": "chris paddack",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "vinnie pasquantino",
