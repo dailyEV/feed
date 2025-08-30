@@ -1844,6 +1844,12 @@
     }
   },
   "atl @ phi": {
+    "36": {
+      "player": "weston wilson",
+      "pitcher": "chris sale",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "35": {
       "player": "edmundo sosa",
       "pitcher": "chris sale",
@@ -2056,11 +2062,17 @@
     }
   },
   "stl @ cin": {
+    "21": {
+      "player": "lars nootbaar",
+      "pitcher": "andrew abbott",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "ivan herrera",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "masyn winn",
@@ -2214,7 +2226,7 @@
       "player": "luke keaschall",
       "pitcher": "nick pivetta",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "7": {
       "player": "trevor larnach",
@@ -2301,8 +2313,8 @@
     "4": {
       "player": "mike yastrzemski",
       "pitcher": "jack flaherty",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "3": {
       "player": "kerry carpenter",
