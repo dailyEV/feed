@@ -2805,8 +2805,8 @@
     "91": {
       "player": "troy johnston",
       "pitcher": "luis torrens",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "90": {
       "player": "connor norby",
@@ -3766,6 +3766,12 @@
     }
   },
   "laa @ hou": {
+    "60": {
+      "player": "yainer diaz",
+      "pitcher": "luis garcia",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "jesus sanchez",
       "pitcher": "luis garcia",
@@ -4125,8 +4131,8 @@
     "60": {
       "player": "wenceel perez",
       "pitcher": "taylor clarke",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "spencer torkelson",
@@ -4484,11 +4490,17 @@
     }
   },
   "sd @ min": {
+    "55": {
+      "player": "matt wallner",
+      "pitcher": "yuki matsui",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "54": {
       "player": "brooks lee",
       "pitcher": "yuki matsui",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "53": {
       "player": "luke keaschall",
@@ -5221,7 +5233,7 @@
     "1": {
       "player": "jackson holliday",
       "pitcher": "robbie ray",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     }
   }
