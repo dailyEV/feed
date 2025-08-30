@@ -3826,6 +3826,12 @@
     }
   },
   "laa @ hou": {
+    "64": {
+      "player": "taylor ward",
+      "pitcher": "craig kimbrel",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "63": {
       "player": "mike trout",
       "pitcher": "craig kimbrel",
@@ -4210,7 +4216,7 @@
       "player": "maikel garcia",
       "pitcher": "kyle finnegan",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Splitter"
     },
     "64": {
       "player": "vinnie pasquantino",
@@ -4598,10 +4604,16 @@
     }
   },
   "sd @ min": {
+    "61": {
+      "player": "jake cronenworth",
+      "pitcher": "justin topa",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "60": {
       "player": "jose iglesias",
       "pitcher": "justin topa",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sweeper"
     },
     "59": {
@@ -4963,8 +4975,8 @@
     "62": {
       "player": "dansby swanson",
       "pitcher": "antonio senzatela",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "61": {
       "player": "mickey moniak",
@@ -5420,12 +5432,6 @@
     }
   },
   "ari @ lad": {
-    "11": {
-      "player": "will smith",
-      "pitcher": "zac gallen",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "10": {
       "player": "tyler locklear",
       "pitcher": "blake snell",
