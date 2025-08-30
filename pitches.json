@@ -796,6 +796,12 @@
     }
   },
   "atl @ phi": {
+    "65": {
+      "player": "bryce harper",
+      "pitcher": "dylan lee",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "kyle schwarber",
       "pitcher": "dylan lee",
@@ -1469,8 +1475,8 @@
     "55": {
       "player": "bryan reynolds",
       "pitcher": "justin slaten",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "54": {
       "player": "nick gonzales",
@@ -1798,10 +1804,16 @@
     }
   },
   "sea @ cle": {
+    "54": {
+      "player": "brayan rocchio",
+      "pitcher": "george kirby",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "53": {
       "player": "nolan jones",
       "pitcher": "george kirby",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -2405,8 +2417,8 @@
     "33": {
       "player": "colson montgomery",
       "pitcher": "carlos rodon",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "32": {
       "player": "edgar quero",
@@ -2736,12 +2748,6 @@
     }
   },
   "det @ kc": {
-    "24": {
-      "player": "bobby witt",
-      "pitcher": "chris paddack",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "23": {
       "player": "mike yastrzemski",
       "pitcher": "chris paddack",
@@ -2882,12 +2888,6 @@
     }
   },
   "sd @ min": {
-    "25": {
-      "player": "brooks lee",
-      "pitcher": "nestor cortes",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "24": {
       "player": "luke keaschall",
       "pitcher": "nestor cortes",
