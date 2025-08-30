@@ -500,6 +500,12 @@
     }
   },
   "tb @ wsh": {
+    "78": {
+      "player": "brady house",
+      "pitcher": "pete fairbanks",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "77": {
       "player": "josh bell",
       "pitcher": "pete fairbanks",
@@ -1398,10 +1404,16 @@
     }
   },
   "mil @ tor": {
+    "63": {
+      "player": "andruw monasterio",
+      "pitcher": "tommy nance",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "62": {
       "player": "blake perkins",
       "pitcher": "tommy nance",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "61": {
@@ -1775,8 +1787,8 @@
     "71": {
       "player": "bryan reynolds",
       "pitcher": "brennan bernardino",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "70": {
       "player": "nick gonzales",
