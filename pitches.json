@@ -481,8 +481,8 @@
     "38": {
       "player": "ozzie albies",
       "pitcher": "ranger suarez",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "37": {
       "player": "ronald acuna",
@@ -708,11 +708,17 @@
     }
   },
   "mil @ tor": {
+    "24": {
+      "player": "christian yelich",
+      "pitcher": "shane bieber",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "23": {
       "player": "william contreras",
       "pitcher": "shane bieber",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "vladimir guerrero",
@@ -1024,12 +1030,6 @@
     }
   },
   "sea @ cle": {
-    "26": {
-      "player": "jose ramirez",
-      "pitcher": "george kirby",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "25": {
       "player": "daniel schneemann",
       "pitcher": "george kirby",
@@ -1322,12 +1322,6 @@
     }
   },
   "nyy @ chw": {
-    "11": {
-      "player": "ryan mcmahon",
-      "pitcher": "yoendrys gomez",
-      "result": "Foul",
-      "pitch": "Curveball"
-    },
     "10": {
       "player": "jazz chisholm",
       "pitcher": "yoendrys gomez",
