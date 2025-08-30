@@ -2372,6 +2372,12 @@
     }
   },
   "sd @ min": {
+    "15": {
+      "player": "kody clemens",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "14": {
       "player": "ryan jeffers",
       "pitcher": "nick pivetta",
@@ -2462,7 +2468,7 @@
       "player": "brooks baldwin",
       "pitcher": "cam schlittler",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "curtis mead",
@@ -2544,6 +2550,12 @@
     }
   },
   "det @ kc": {
+    "11": {
+      "player": "salvador perez",
+      "pitcher": "jack flaherty",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "10": {
       "player": "wenceel perez",
       "pitcher": "stephen kolek",
@@ -2606,11 +2618,17 @@
     }
   },
   "sea @ cle": {
+    "13": {
+      "player": "david fry",
+      "pitcher": "logan gilbert",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "bo naylor",
       "pitcher": "logan gilbert",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "11": {
       "player": "kyle manzardo",
@@ -2680,6 +2698,18 @@
     }
   },
   "bal @ sf": {
+    "14": {
+      "player": "casey schmitt",
+      "pitcher": "trevor rogers",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "13": {
+      "player": "wilmer flores",
+      "pitcher": "trevor rogers",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "12": {
       "player": "samuel basallo",
       "pitcher": "carson seymour",
