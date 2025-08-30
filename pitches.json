@@ -1318,7 +1318,7 @@
       "player": "liam hicks",
       "pitcher": "edwin diaz",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "80": {
       "player": "troy johnston",
@@ -1802,6 +1802,12 @@
     }
   },
   "atl @ phi": {
+    "31": {
+      "player": "michael harris",
+      "pitcher": "cristopher sanchez",
+      "result": "Missed Bunt",
+      "pitch": "Sinker"
+    },
     "30": {
       "player": "nick castellanos",
       "pitcher": "chris sale",
@@ -1987,7 +1993,7 @@
     "16": {
       "player": "jose trevino",
       "pitcher": "michael mcgreevy",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "15": {
@@ -2081,8 +2087,21 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "laa @ hou": {},
+  "laa @ hou": {
+    "1": {
+      "player": "zach neto",
+      "pitcher": "spencer arrighetti",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    }
+  },
   "sd @ min": {
+    "2": {
+      "player": "luis arraez",
+      "pitcher": "taj bradley",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "fernando tatis",
       "pitcher": "taj bradley",
