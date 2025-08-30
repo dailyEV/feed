@@ -2134,11 +2134,17 @@
     }
   },
   "stl @ cin": {
+    "31": {
+      "player": "masyn winn",
+      "pitcher": "andrew abbott",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "30": {
       "player": "nathan church",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "29": {
       "player": "pedro pages",
@@ -2402,6 +2408,12 @@
     }
   },
   "sd @ min": {
+    "18": {
+      "player": "luis arraez",
+      "pitcher": "taj bradley",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "17": {
       "player": "fernando tatis",
       "pitcher": "taj bradley",
@@ -2506,10 +2518,16 @@
     }
   },
   "nyy @ chw": {
+    "16": {
+      "player": "ryan mcmahon",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "anthony volpe",
       "pitcher": "shane smith",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -2601,7 +2619,7 @@
     "14": {
       "player": "randal grichuk",
       "pitcher": "jack flaherty",
-      "result": "Ball In Dirt",
+      "result": "Foul",
       "pitch": "Knuckle Curve"
     },
     "13": {
@@ -2684,18 +2702,6 @@
     }
   },
   "sea @ cle": {
-    "15": {
-      "player": "cole young",
-      "pitcher": "gavin williams",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "14": {
-      "player": "jp crawford",
-      "pitcher": "gavin williams",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "13": {
       "player": "david fry",
       "pitcher": "logan gilbert",
@@ -2776,6 +2782,12 @@
     }
   },
   "bal @ sf": {
+    "16": {
+      "player": "daniel johnson",
+      "pitcher": "carson seymour",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "jung hoo lee",
       "pitcher": "trevor rogers",
