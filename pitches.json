@@ -1422,6 +1422,12 @@
     }
   },
   "mil @ tor": {
+    "64": {
+      "player": "george springer",
+      "pitcher": "shelby miller",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "63": {
       "player": "andruw monasterio",
       "pitcher": "tommy nance",
@@ -2251,8 +2257,8 @@
     "71": {
       "player": "nolan jones",
       "pitcher": "andres munoz",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "70": {
       "player": "jp crawford",
@@ -2676,6 +2682,12 @@
     }
   },
   "mia @ nym": {
+    "66": {
+      "player": "agustin ramirez",
+      "pitcher": "jose castillo",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "65": {
       "player": "jakob marsee",
       "pitcher": "jose castillo",
@@ -3379,8 +3391,8 @@
     "40": {
       "player": "carlos correa",
       "pitcher": "tyler anderson",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "39": {
       "player": "jose altuve",
@@ -3618,10 +3630,16 @@
     }
   },
   "det @ kc": {
+    "43": {
+      "player": "zach mckinstry",
+      "pitcher": "jonathan bowlan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "dillon dingler",
       "pitcher": "jonathan bowlan",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "41": {
@@ -4117,7 +4135,7 @@
     "36": {
       "player": "orlando arcia",
       "pitcher": "cade horton",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "35": {
