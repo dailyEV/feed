@@ -290,11 +290,17 @@
     }
   },
   "tb @ wsh": {
+    "41": {
+      "player": "yandy diaz",
+      "pitcher": "mitchell parker",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "40": {
       "player": "junior caminero",
       "pitcher": "mitchell parker",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "39": {
       "player": "chandler simpson",
@@ -532,6 +538,12 @@
     }
   },
   "atl @ phi": {
+    "42": {
+      "player": "trea turner",
+      "pitcher": "bryce elder",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "rafael marchan",
       "pitcher": "bryce elder",
@@ -783,8 +795,8 @@
     "28": {
       "player": "alejandro kirk",
       "pitcher": "freddy peralta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "27": {
       "player": "daulton varsho",
@@ -1154,7 +1166,7 @@
       "player": "dominic canzone",
       "pitcher": "logan allen",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "28": {
       "player": "mitch garver",
@@ -1487,7 +1499,7 @@
     "15": {
       "player": "tim elko",
       "pitcher": "carlos rodon",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -1576,7 +1588,14 @@
     }
   },
   "laa @ hou": {},
-  "det @ kc": {},
+  "det @ kc": {
+    "1": {
+      "player": "colt keith",
+      "pitcher": "seth lugo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "sd @ min": {},
   "chc @ col": {},
   "tex @ ath": {},
