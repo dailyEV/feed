@@ -2074,12 +2074,6 @@
     }
   },
   "stl @ cin": {
-    "22": {
-      "player": "tj friedl",
-      "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "21": {
       "player": "lars nootbaar",
       "pitcher": "andrew abbott",
@@ -2211,8 +2205,8 @@
     "7": {
       "player": "carlos correa",
       "pitcher": "kyle hendricks",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "jose altuve",
@@ -2362,7 +2356,7 @@
       "player": "vinnie pasquantino",
       "pitcher": "jack flaherty",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "bobby witt",
@@ -2422,10 +2416,16 @@
     }
   },
   "bal @ sf": {
+    "7": {
+      "player": "willy adames",
+      "pitcher": "trevor rogers",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "rafael devers",
       "pitcher": "trevor rogers",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "5": {
