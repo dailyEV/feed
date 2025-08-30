@@ -437,8 +437,8 @@
     "65": {
       "player": "daylen lile",
       "pitcher": "bryan baker",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "64": {
       "player": "christopher morel",
@@ -1236,11 +1236,17 @@
     }
   },
   "mil @ tor": {
+    "52": {
+      "player": "andrew vaughn",
+      "pitcher": "justin bruihl",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "christian yelich",
       "pitcher": "justin bruihl",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "50": {
       "player": "william contreras",
@@ -1888,6 +1894,12 @@
     }
   },
   "sea @ cle": {
+    "56": {
+      "player": "randy arozarena",
+      "pitcher": "jakob junis",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "steven kwan",
       "pitcher": "george kirby",
@@ -2223,7 +2235,7 @@
     "50": {
       "player": "liam hicks",
       "pitcher": "jonah tong",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -2525,7 +2537,7 @@
     "36": {
       "player": "ben rice",
       "pitcher": "brandon eisert",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "35": {
