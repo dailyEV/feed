@@ -1,10 +1,16 @@
 {
   "stl @ cin": {
+    "80": {
+      "player": "kebryan hayes",
+      "pitcher": "matt svanson",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "79": {
       "player": "will banfield",
       "pitcher": "matt svanson",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "78": {
       "player": "spencer steer",
@@ -2110,10 +2116,16 @@
     }
   },
   "sea @ cle": {
+    "65": {
+      "player": "cj kayfus",
+      "pitcher": "matt brash",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "angel martinez",
       "pitcher": "matt brash",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "63": {
@@ -3124,6 +3136,12 @@
     }
   },
   "laa @ hou": {
+    "35": {
+      "player": "bryce teodosio",
+      "pitcher": "cristian javier",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "niko kavadas",
       "pitcher": "cristian javier",
@@ -3333,8 +3351,8 @@
     "37": {
       "player": "spencer torkelson",
       "pitcher": "jonathan bowlan",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "riley greene",
@@ -3772,6 +3790,12 @@
     }
   },
   "chc @ col": {
+    "27": {
+      "player": "ian happ",
+      "pitcher": "german marquez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "jordan beck",
       "pitcher": "cade horton",
