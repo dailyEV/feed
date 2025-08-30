@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "68": {
+      "player": "kebryan hayes",
+      "pitcher": "gordon graceffo",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "67": {
       "player": "thomas saggese",
       "pitcher": "nick martinez",
@@ -404,12 +410,6 @@
     }
   },
   "tb @ wsh": {
-    "60": {
-      "player": "chandler simpson",
-      "pitcher": "cole henry",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "59": {
       "player": "riley adams",
       "pitcher": "garrett cleavinger",
@@ -766,12 +766,6 @@
     }
   },
   "atl @ phi": {
-    "63": {
-      "player": "trea turner",
-      "pitcher": "dylan lee",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "62": {
       "player": "nacho alvarez",
       "pitcher": "orion kerkering",
@@ -1418,6 +1412,12 @@
     }
   },
   "pit @ bos": {
+    "54": {
+      "player": "nick gonzales",
+      "pitcher": "justin slaten",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "53": {
       "player": "jared triolo",
       "pitcher": "justin slaten",
@@ -2506,11 +2506,17 @@
     }
   },
   "laa @ hou": {
+    "20": {
+      "player": "jeremy pena",
+      "pitcher": "tyler anderson",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "19": {
       "player": "mauricio dubon",
       "pitcher": "tyler anderson",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "zach neto",
