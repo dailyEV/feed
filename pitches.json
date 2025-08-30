@@ -3,8 +3,8 @@
     "56": {
       "player": "nathan church",
       "pitcher": "zack littell",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "55": {
       "player": "pedro pages",
@@ -921,8 +921,8 @@
     "34": {
       "player": "davis schneider",
       "pitcher": "freddy peralta",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "nathan lukes",
@@ -1775,8 +1775,8 @@
     "20": {
       "player": "ben rice",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "cody bellinger",
@@ -1894,11 +1894,23 @@
     }
   },
   "laa @ hou": {
+    "8": {
+      "player": "carlos correa",
+      "pitcher": "tyler anderson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "7": {
+      "player": "jose altuve",
+      "pitcher": "tyler anderson",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "yordan alvarez",
       "pitcher": "tyler anderson",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "jeremy pena",
