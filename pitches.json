@@ -3,8 +3,8 @@
     "74": {
       "player": "jordan walker",
       "pitcher": "emilio pagan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "73": {
       "player": "miguel andujar",
@@ -856,6 +856,18 @@
     }
   },
   "atl @ phi": {
+    "71": {
+      "player": "jurickson profar",
+      "pitcher": "jhoan duran",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "70": {
+      "player": "vidal brujan",
+      "pitcher": "jhoan duran",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "69": {
       "player": "max kepler",
       "pitcher": "pierce johnson",
@@ -1981,7 +1993,7 @@
     "59": {
       "player": "eugenio suarez",
       "pitcher": "jakob junis",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -2660,6 +2672,12 @@
     }
   },
   "nyy @ chw": {
+    "42": {
+      "player": "chase meidroth",
+      "pitcher": "carlos rodon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "brooks baldwin",
       "pitcher": "carlos rodon",
@@ -2908,11 +2926,23 @@
     }
   },
   "laa @ hou": {
+    "29": {
+      "player": "jesus sanchez",
+      "pitcher": "tyler anderson",
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
+    },
+    "28": {
+      "player": "christian walker",
+      "pitcher": "tyler anderson",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "27": {
       "player": "carlos correa",
       "pitcher": "tyler anderson",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "jo adell",
@@ -3460,6 +3490,12 @@
     }
   },
   "chc @ col": {
+    "22": {
+      "player": "orlando arcia",
+      "pitcher": "cade horton",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "pete crow armstrong",
       "pitcher": "german marquez",
