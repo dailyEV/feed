@@ -1260,6 +1260,12 @@
     }
   },
   "mia @ nym": {
+    "71": {
+      "player": "joey wiemer",
+      "pitcher": "gregory soto",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "70": {
       "player": "cedric mullins",
       "pitcher": "calvin faucher",
@@ -1685,8 +1691,8 @@
     "17": {
       "player": "jurickson profar",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "16": {
       "player": "nick allen",
@@ -1786,10 +1792,16 @@
     }
   },
   "stl @ cin": {
+    "2": {
+      "player": "ivan herrera",
+      "pitcher": "andrew abbott",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "1": {
       "player": "masyn winn",
       "pitcher": "andrew abbott",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     }
   },
