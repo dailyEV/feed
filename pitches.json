@@ -724,6 +724,12 @@
     }
   },
   "atl @ phi": {
+    "60": {
+      "player": "michael harris",
+      "pitcher": "orion kerkering",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "59": {
       "player": "marcell ozuna",
       "pitcher": "orion kerkering",
@@ -1328,6 +1334,18 @@
     }
   },
   "pit @ bos": {
+    "50": {
+      "player": "nick sogard",
+      "pitcher": "paul skenes",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
+    "49": {
+      "player": "romy gonzalez",
+      "pitcher": "paul skenes",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "masataka yoshida",
       "pitcher": "paul skenes",
@@ -2317,8 +2335,8 @@
     "16": {
       "player": "niko kavadas",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "cam smith",
@@ -2629,8 +2647,8 @@
     "3": {
       "player": "seiya suzuki",
       "pitcher": "german marquez",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "kyle tucker",
