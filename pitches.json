@@ -509,7 +509,7 @@
     "78": {
       "player": "brady house",
       "pitcher": "pete fairbanks",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "77": {
@@ -1410,10 +1410,16 @@
     }
   },
   "mil @ tor": {
+    "63": {
+      "player": "andruw monasterio",
+      "pitcher": "tommy nance",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "62": {
       "player": "blake perkins",
       "pitcher": "tommy nance",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "61": {
@@ -2212,6 +2218,12 @@
     }
   },
   "sea @ cle": {
+    "70": {
+      "player": "jp crawford",
+      "pitcher": "tim herrin",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "69": {
       "player": "dominic canzone",
       "pitcher": "tim herrin",
@@ -3298,10 +3310,16 @@
     }
   },
   "laa @ hou": {
+    "38": {
+      "player": "yordan alvarez",
+      "pitcher": "tyler anderson",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "37": {
       "player": "jeremy pena",
       "pitcher": "tyler anderson",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "36": {
@@ -3764,12 +3782,6 @@
     }
   },
   "sd @ min": {
-    "39": {
-      "player": "brooks lee",
-      "pitcher": "david morgan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "38": {
       "player": "luke keaschall",
       "pitcher": "david morgan",
@@ -4000,6 +4012,12 @@
     }
   },
   "chc @ col": {
+    "32": {
+      "player": "brenton doyle",
+      "pitcher": "cade horton",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "31": {
       "player": "reese mcguire",
       "pitcher": "german marquez",
