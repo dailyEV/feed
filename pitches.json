@@ -410,11 +410,23 @@
     }
   },
   "tb @ wsh": {
+    "62": {
+      "player": "yandy diaz",
+      "pitcher": "cole henry",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
+    "61": {
+      "player": "junior caminero",
+      "pitcher": "cole henry",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "60": {
       "player": "chandler simpson",
       "pitcher": "cole henry",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "riley adams",
@@ -1158,6 +1170,12 @@
     }
   },
   "mil @ tor": {
+    "46": {
+      "player": "addison barger",
+      "pitcher": "freddy peralta",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "45": {
       "player": "george springer",
       "pitcher": "freddy peralta",
@@ -2073,7 +2091,7 @@
     "46": {
       "player": "xavier edwards",
       "pitcher": "jonah tong",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -2798,17 +2816,11 @@
     }
   },
   "sd @ min": {
-    "24": {
-      "player": "luke keaschall",
-      "pitcher": "nestor cortes",
-      "result": "Foul",
-      "pitch": "Sweeper"
-    },
     "23": {
       "player": "ryan jeffers",
       "pitcher": "nestor cortes",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Ball In Dirt",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "byron buxton",
