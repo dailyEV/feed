@@ -1,11 +1,5 @@
 {
   "stl @ cin": {
-    "53": {
-      "player": "tj friedl",
-      "pitcher": "jorge alcala",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "52": {
       "player": "santiago espinal",
       "pitcher": "jorge alcala",
@@ -592,6 +586,12 @@
     }
   },
   "atl @ phi": {
+    "46": {
+      "player": "nacho alvarez",
+      "pitcher": "david robertson",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "45": {
       "player": "sean murphy",
       "pitcher": "david robertson",
@@ -868,7 +868,7 @@
       "player": "blake perkins",
       "pitcher": "shane bieber",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Knuckle Curve"
     },
     "31": {
       "player": "isaac collins",
@@ -1058,6 +1058,12 @@
     }
   },
   "pit @ bos": {
+    "38": {
+      "player": "alex bregman",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "roman anthony",
       "pitcher": "paul skenes",
@@ -1285,8 +1291,8 @@
     "34": {
       "player": "cj kayfus",
       "pitcher": "george kirby",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "33": {
       "player": "angel martinez",
@@ -1838,6 +1844,18 @@
     }
   },
   "sd @ min": {
+    "6": {
+      "player": "ryan jeffers",
+      "pitcher": "nestor cortes",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "5": {
+      "player": "byron buxton",
+      "pitcher": "nestor cortes",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "ryan ohearn",
       "pitcher": "zebby matthews",
