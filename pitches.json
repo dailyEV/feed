@@ -2218,6 +2218,12 @@
     }
   },
   "nyy @ chw": {
+    "5": {
+      "player": "kyle teel",
+      "pitcher": "cam schlittler",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "4": {
       "player": "mike tauchman",
       "pitcher": "cam schlittler",
@@ -2264,10 +2270,16 @@
     }
   },
   "sea @ cle": {
+    "4": {
+      "player": "josh naylor",
+      "pitcher": "gavin williams",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
     "3": {
       "player": "julio rodriguez",
       "pitcher": "gavin williams",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "2": {
@@ -2287,8 +2299,8 @@
     "3": {
       "player": "gunnar henderson",
       "pitcher": "carson seymour",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "jeremiah jackson",
