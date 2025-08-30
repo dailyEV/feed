@@ -3,7 +3,7 @@
     "56": {
       "player": "nathan church",
       "pitcher": "zack littell",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -628,6 +628,12 @@
     }
   },
   "atl @ phi": {
+    "50": {
+      "player": "nick castellanos",
+      "pitcher": "bryce elder",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "brandon marsh",
       "pitcher": "bryce elder",
@@ -1381,8 +1387,8 @@
     "37": {
       "player": "julio rodriguez",
       "pitcher": "logan allen",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "cal raleigh",
@@ -1605,8 +1611,8 @@
     "32": {
       "player": "agustin ramirez",
       "pitcher": "jonah tong",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "jakob marsee",
@@ -1918,11 +1924,23 @@
     }
   },
   "laa @ hou": {
+    "8": {
+      "player": "carlos correa",
+      "pitcher": "tyler anderson",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "7": {
+      "player": "jose altuve",
+      "pitcher": "tyler anderson",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "yordan alvarez",
       "pitcher": "tyler anderson",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "jeremy pena",
