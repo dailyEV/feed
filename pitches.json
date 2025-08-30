@@ -3,8 +3,8 @@
     "64": {
       "player": "willson contreras",
       "pitcher": "nick martinez",
-      "result": "Ball In Dirt",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "63": {
       "player": "ivan herrera",
@@ -386,6 +386,12 @@
     }
   },
   "tb @ wsh": {
+    "57": {
+      "player": "josh bell",
+      "pitcher": "garrett cleavinger",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "56": {
       "player": "cj abrams",
       "pitcher": "garrett cleavinger",
@@ -727,8 +733,8 @@
     "60": {
       "player": "michael harris",
       "pitcher": "orion kerkering",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "59": {
       "player": "marcell ozuna",
@@ -1639,8 +1645,8 @@
     "48": {
       "player": "angel martinez",
       "pitcher": "george kirby",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "47": {
       "player": "bo naylor",
@@ -1926,6 +1932,12 @@
     }
   },
   "mia @ nym": {
+    "40": {
+      "player": "brett baty",
+      "pitcher": "valente bellozo",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "39": {
       "player": "connor norby",
       "pitcher": "jonah tong",
@@ -2165,8 +2177,8 @@
     "27": {
       "player": "ryan mcmahon",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "jazz chisholm",
@@ -2534,17 +2546,11 @@
     }
   },
   "sd @ min": {
-    "19": {
-      "player": "manny machado",
-      "pitcher": "zebby matthews",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
     "18": {
       "player": "luis arraez",
       "pitcher": "zebby matthews",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "17": {
       "player": "fernando tatis",
