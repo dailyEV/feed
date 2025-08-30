@@ -497,8 +497,8 @@
     "77": {
       "player": "josh bell",
       "pitcher": "pete fairbanks",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "76": {
       "player": "cj abrams",
@@ -1392,11 +1392,17 @@
     }
   },
   "mil @ tor": {
+    "62": {
+      "player": "blake perkins",
+      "pitcher": "tommy nance",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "61": {
       "player": "isaac collins",
       "pitcher": "tommy nance",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "60": {
       "player": "caleb durbin",
@@ -1760,6 +1766,12 @@
     }
   },
   "pit @ bos": {
+    "71": {
+      "player": "bryan reynolds",
+      "pitcher": "brennan bernardino",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "70": {
       "player": "nick gonzales",
       "pitcher": "brennan bernardino",
@@ -2185,8 +2197,8 @@
     "69": {
       "player": "dominic canzone",
       "pitcher": "tim herrin",
-      "result": "In play, no out",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "68": {
       "player": "mitch garver",
