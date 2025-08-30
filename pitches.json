@@ -2441,8 +2441,8 @@
     "19": {
       "player": "manny machado",
       "pitcher": "taj bradley",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "luis arraez",
@@ -2848,11 +2848,23 @@
     }
   },
   "bal @ sf": {
+    "19": {
+      "player": "gunnar henderson",
+      "pitcher": "carson seymour",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "18": {
+      "player": "jeremiah jackson",
+      "pitcher": "carson seymour",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "17": {
       "player": "jackson holliday",
       "pitcher": "carson seymour",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "16": {
       "player": "daniel johnson",
