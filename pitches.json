@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "65": {
+      "player": "nolan gorman",
+      "pitcher": "nick martinez",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "64": {
       "player": "willson contreras",
       "pitcher": "nick martinez",
@@ -386,6 +392,12 @@
     }
   },
   "tb @ wsh": {
+    "57": {
+      "player": "josh bell",
+      "pitcher": "garrett cleavinger",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "56": {
       "player": "cj abrams",
       "pitcher": "garrett cleavinger",
@@ -1086,6 +1098,12 @@
     }
   },
   "mil @ tor": {
+    "42": {
+      "player": "caleb durbin",
+      "pitcher": "louis varland",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "41": {
       "player": "sal frelick",
       "pitcher": "brendon little",
@@ -1337,8 +1355,8 @@
     "50": {
       "player": "nick sogard",
       "pitcher": "paul skenes",
-      "result": "Called Strike",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "romy gonzalez",
@@ -1639,8 +1657,8 @@
     "48": {
       "player": "angel martinez",
       "pitcher": "george kirby",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "47": {
       "player": "bo naylor",
@@ -2171,8 +2189,8 @@
     "27": {
       "player": "ryan mcmahon",
       "pitcher": "yoendrys gomez",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "jazz chisholm",
@@ -2332,11 +2350,17 @@
     }
   },
   "laa @ hou": {
+    "17": {
+      "player": "bryce teodosio",
+      "pitcher": "cristian javier",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "niko kavadas",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "cam smith",
@@ -2433,8 +2457,8 @@
     "18": {
       "player": "gleyber torres",
       "pitcher": "seth lugo",
-      "result": "Foul",
-      "pitch": "Slurve"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "17": {
       "player": "colt keith",
@@ -2659,8 +2683,8 @@
     "4": {
       "player": "pete crow armstrong",
       "pitcher": "german marquez",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "seiya suzuki",
