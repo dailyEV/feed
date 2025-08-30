@@ -1853,7 +1853,7 @@
     "36": {
       "player": "weston wilson",
       "pitcher": "chris sale",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "35": {
@@ -2071,8 +2071,8 @@
     "21": {
       "player": "lars nootbaar",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "20": {
       "player": "ivan herrera",
@@ -2196,12 +2196,6 @@
     }
   },
   "laa @ hou": {
-    "6": {
-      "player": "jose altuve",
-      "pitcher": "kyle hendricks",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "5": {
       "player": "yordan alvarez",
       "pitcher": "kyle hendricks",
@@ -2234,11 +2228,17 @@
     }
   },
   "sd @ min": {
+    "9": {
+      "player": "matt wallner",
+      "pitcher": "nick pivetta",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "luke keaschall",
       "pitcher": "nick pivetta",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "7": {
       "player": "trevor larnach",
@@ -2328,11 +2328,17 @@
     }
   },
   "det @ kc": {
+    "5": {
+      "player": "bobby witt",
+      "pitcher": "jack flaherty",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "mike yastrzemski",
       "pitcher": "jack flaherty",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "kerry carpenter",
