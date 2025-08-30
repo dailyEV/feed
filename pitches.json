@@ -3,8 +3,8 @@
     "61": {
       "player": "william contreras",
       "pitcher": "jeff hoffman",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "christian yelich",
@@ -362,10 +362,16 @@
     }
   },
   "tb @ wsh": {
+    "37": {
+      "player": "luis garcia",
+      "pitcher": "ryan pepiot",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "36": {
       "player": "dylan crews",
       "pitcher": "ryan pepiot",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "35": {
@@ -580,6 +586,12 @@
     }
   },
   "pit @ bos": {
+    "36": {
+      "player": "jared triolo",
+      "pitcher": "dustin may",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "isiah kiner falefa",
       "pitcher": "dustin may",
@@ -795,8 +807,8 @@
     "35": {
       "player": "brett baty",
       "pitcher": "edward cabrera",
-      "result": "Foul Tip",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "jeff mcneil",
