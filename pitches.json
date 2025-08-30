@@ -703,8 +703,8 @@
     "57": {
       "player": "bryson stott",
       "pitcher": "bryce elder",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "max kepler",
@@ -1047,8 +1047,8 @@
     "40": {
       "player": "andrew vaughn",
       "pitcher": "brendon little",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "39": {
       "player": "christian yelich",
@@ -1567,8 +1567,8 @@
     "45": {
       "player": "jose ramirez",
       "pitcher": "george kirby",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "44": {
       "player": "jorge polanco",
@@ -2224,12 +2224,6 @@
     }
   },
   "laa @ hou": {
-    "13": {
-      "player": "jesus sanchez",
-      "pitcher": "tyler anderson",
-      "result": "In play, no out",
-      "pitch": "Cutter"
-    },
     "12": {
       "player": "christian walker",
       "pitcher": "tyler anderson",
@@ -2304,12 +2298,6 @@
     }
   },
   "det @ kc": {
-    "14": {
-      "player": "dillon dingler",
-      "pitcher": "seth lugo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "13": {
       "player": "jonathan india",
       "pitcher": "chris paddack",
@@ -2393,7 +2381,7 @@
     "16": {
       "player": "freddy fermin",
       "pitcher": "zebby matthews",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "15": {
