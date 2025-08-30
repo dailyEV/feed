@@ -4305,7 +4305,7 @@
     "75": {
       "player": "andy ibanez",
       "pitcher": "sam long",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "74": {
@@ -4754,11 +4754,17 @@
     }
   },
   "sd @ min": {
+    "71": {
+      "player": "ramon laureano",
+      "pitcher": "cole sands",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "70": {
       "player": "ryan ohearn",
       "pitcher": "cole sands",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "69": {
       "player": "manny machado",
@@ -5179,8 +5185,8 @@
     "72": {
       "player": "warming bernabel",
       "pitcher": "ben brown",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "kyle karros",
@@ -5613,8 +5619,8 @@
     "23": {
       "player": "shea langeliers",
       "pitcher": "jack leiter",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "nick kurtz",
