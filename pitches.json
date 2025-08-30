@@ -1856,6 +1856,12 @@
     }
   },
   "atl @ phi": {
+    "39": {
+      "player": "ronald acuna",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "38": {
       "player": "matt olson",
       "pitcher": "cristopher sanchez",
@@ -2285,8 +2291,8 @@
     "10": {
       "player": "gavin sheets",
       "pitcher": "taj bradley",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "9": {
       "player": "matt wallner",
@@ -2344,11 +2350,17 @@
     }
   },
   "nyy @ chw": {
+    "10": {
+      "player": "jazz chisholm",
+      "pitcher": "shane smith",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "cody bellinger",
       "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "andrew benintendi",
@@ -2403,7 +2415,7 @@
     "7": {
       "player": "maikel garcia",
       "pitcher": "jack flaherty",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "6": {
