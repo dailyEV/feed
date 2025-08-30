@@ -3,7 +3,7 @@
     "51": {
       "player": "kebryan hayes",
       "pitcher": "jorge alcala",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -843,8 +843,8 @@
     "31": {
       "player": "isaac collins",
       "pitcher": "shane bieber",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "30": {
       "player": "caleb durbin",
@@ -1252,6 +1252,12 @@
     }
   },
   "sea @ cle": {
+    "33": {
+      "player": "angel martinez",
+      "pitcher": "george kirby",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "bo naylor",
       "pitcher": "george kirby",
@@ -1720,6 +1726,18 @@
     }
   },
   "laa @ hou": {
+    "4": {
+      "player": "yoan moncada",
+      "pitcher": "cristian javier",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "3": {
+      "player": "taylor ward",
+      "pitcher": "cristian javier",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "2": {
       "player": "mike trout",
       "pitcher": "cristian javier",
@@ -1737,8 +1755,8 @@
     "5": {
       "player": "spencer torkelson",
       "pitcher": "seth lugo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slurve"
     },
     "4": {
       "player": "riley greene",
