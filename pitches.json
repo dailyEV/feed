@@ -491,8 +491,8 @@
     "75": {
       "player": "james wood",
       "pitcher": "pete fairbanks",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "74": {
       "player": "junior caminero",
@@ -1377,7 +1377,7 @@
     "61": {
       "player": "isaac collins",
       "pitcher": "tommy nance",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "60": {
@@ -3426,6 +3426,12 @@
     }
   },
   "det @ kc": {
+    "39": {
+      "player": "adam frazier",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "38": {
       "player": "wenceel perez",
       "pitcher": "jonathan bowlan",
