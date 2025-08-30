@@ -1739,13 +1739,13 @@
     "68": {
       "player": "masataka yoshida",
       "pitcher": "isaac mattson",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "trevor story",
       "pitcher": "isaac mattson",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -2146,6 +2146,12 @@
     }
   },
   "sea @ cle": {
+    "67": {
+      "player": "jorge polanco",
+      "pitcher": "tim herrin",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "66": {
       "player": "josh naylor",
       "pitcher": "tim herrin",
@@ -2547,7 +2553,7 @@
     "62": {
       "player": "tyrone taylor",
       "pitcher": "valente bellozo",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "61": {
@@ -2921,8 +2927,8 @@
     "47": {
       "player": "austin wells",
       "pitcher": "grant taylor",
-      "result": "Ball In Dirt",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "46": {
       "player": "anthony volpe",
