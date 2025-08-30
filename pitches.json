@@ -3,8 +3,8 @@
     "43": {
       "player": "elly de la cruz",
       "pitcher": "matthew liberatore",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "42": {
       "player": "noelvi marte",
@@ -711,8 +711,8 @@
     "23": {
       "player": "william contreras",
       "pitcher": "shane bieber",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "22": {
       "player": "vladimir guerrero",
@@ -851,8 +851,8 @@
     "29": {
       "player": "masataka yoshida",
       "pitcher": "paul skenes",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "28": {
       "player": "trevor story",
@@ -1024,6 +1024,12 @@
     }
   },
   "sea @ cle": {
+    "26": {
+      "player": "jose ramirez",
+      "pitcher": "george kirby",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "25": {
       "player": "daniel schneemann",
       "pitcher": "george kirby",
@@ -1316,11 +1322,17 @@
     }
   },
   "nyy @ chw": {
+    "11": {
+      "player": "ryan mcmahon",
+      "pitcher": "yoendrys gomez",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "10": {
       "player": "jazz chisholm",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "colson montgomery",
