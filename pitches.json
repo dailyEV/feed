@@ -336,7 +336,7 @@
       "player": "carson williams",
       "pitcher": "mitchell parker",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "christopher morel",
@@ -910,7 +910,7 @@
       "player": "davis schneider",
       "pitcher": "freddy peralta",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "33": {
       "player": "nathan lukes",
@@ -1357,8 +1357,8 @@
     "36": {
       "player": "cal raleigh",
       "pitcher": "logan allen",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "randy arozarena",
@@ -1760,6 +1760,12 @@
     }
   },
   "nyy @ chw": {
+    "20": {
+      "player": "ben rice",
+      "pitcher": "yoendrys gomez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "19": {
       "player": "cody bellinger",
       "pitcher": "yoendrys gomez",
@@ -1876,11 +1882,17 @@
     }
   },
   "laa @ hou": {
+    "7": {
+      "player": "jose altuve",
+      "pitcher": "tyler anderson",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "yordan alvarez",
       "pitcher": "tyler anderson",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "jeremy pena",
