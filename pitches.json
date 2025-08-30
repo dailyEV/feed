@@ -1310,6 +1310,12 @@
     }
   },
   "pit @ bos": {
+    "48": {
+      "player": "masataka yoshida",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "47": {
       "player": "henry davis",
       "pitcher": "greg weissert",
@@ -1594,11 +1600,17 @@
     }
   },
   "sea @ cle": {
+    "47": {
+      "player": "bo naylor",
+      "pitcher": "george kirby",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "46": {
       "player": "kyle manzardo",
       "pitcher": "george kirby",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "jose ramirez",
@@ -2358,17 +2370,11 @@
     }
   },
   "det @ kc": {
-    "15": {
-      "player": "zach mckinstry",
-      "pitcher": "seth lugo",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "14": {
       "player": "dillon dingler",
       "pitcher": "seth lugo",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slurve"
     },
     "13": {
       "player": "jonathan india",
