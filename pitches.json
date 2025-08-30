@@ -482,6 +482,12 @@
     }
   },
   "tb @ wsh": {
+    "75": {
+      "player": "james wood",
+      "pitcher": "pete fairbanks",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "74": {
       "player": "junior caminero",
       "pitcher": "orlando ribalta",
@@ -1365,7 +1371,7 @@
     "60": {
       "player": "caleb durbin",
       "pitcher": "tommy nance",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "59": {
@@ -2906,12 +2912,6 @@
     }
   },
   "nyy @ chw": {
-    "47": {
-      "player": "austin wells",
-      "pitcher": "grant taylor",
-      "result": "Ball In Dirt",
-      "pitch": "4-Seam Fastball"
-    },
     "46": {
       "player": "anthony volpe",
       "pitcher": "grant taylor",
@@ -3193,8 +3193,8 @@
     "35": {
       "player": "bryce teodosio",
       "pitcher": "cristian javier",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "34": {
       "player": "niko kavadas",
@@ -3635,8 +3635,8 @@
     "37": {
       "player": "ryan jeffers",
       "pitcher": "david morgan",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "36": {
       "player": "byron buxton",
