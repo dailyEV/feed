@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "90": {
+      "player": "elly de la cruz",
+      "pitcher": "ryan fernandez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "89": {
       "player": "noelvi marte",
       "pitcher": "ryan fernandez",
@@ -1446,6 +1452,12 @@
     }
   },
   "mil @ tor": {
+    "68": {
+      "player": "william contreras",
+      "pitcher": "yariel rodriguez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "67": {
       "player": "brice turang",
       "pitcher": "yariel rodriguez",
@@ -2748,6 +2760,12 @@
     }
   },
   "mia @ nym": {
+    "71": {
+      "player": "pete alonso",
+      "pitcher": "seth martinez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "70": {
       "player": "cedric mullins",
       "pitcher": "seth martinez",
@@ -3173,7 +3191,7 @@
     "55": {
       "player": "curtis mead",
       "pitcher": "carlos rodon",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "54": {
@@ -3762,12 +3780,6 @@
     }
   },
   "det @ kc": {
-    "48": {
-      "player": "vinnie pasquantino",
-      "pitcher": "tyler holton",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "47": {
       "player": "bobby witt",
       "pitcher": "tyler holton",
@@ -4055,8 +4067,8 @@
     "45": {
       "player": "royce lewis",
       "pitcher": "david morgan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "44": {
       "player": "austin martin",
@@ -4324,11 +4336,17 @@
     }
   },
   "chc @ col": {
+    "42": {
+      "player": "nico hoerner",
+      "pitcher": "german marquez",
+      "result": "Ball In Dirt",
+      "pitch": "Knuckle Curve"
+    },
     "41": {
       "player": "ian happ",
       "pitcher": "german marquez",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "40": {
       "player": "pete crow armstrong",
