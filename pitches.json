@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "49": {
+      "player": "spencer steer",
+      "pitcher": "matthew liberatore",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
+    },
     "48": {
       "player": "jordan walker",
       "pitcher": "zack littell",
@@ -541,7 +547,7 @@
     "42": {
       "player": "trea turner",
       "pitcher": "bryce elder",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "41": {
@@ -962,6 +968,12 @@
     }
   },
   "pit @ bos": {
+    "34": {
+      "player": "henry davis",
+      "pitcher": "payton tolle",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "connor wong",
       "pitcher": "paul skenes",
@@ -1166,7 +1178,7 @@
       "player": "dominic canzone",
       "pitcher": "logan allen",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "mitch garver",
@@ -1338,6 +1350,12 @@
     }
   },
   "mia @ nym": {
+    "27": {
+      "player": "juan soto",
+      "pitcher": "valente bellozo",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "26": {
       "player": "francisco lindor",
       "pitcher": "valente bellozo",
@@ -1587,7 +1605,14 @@
       "pitch": "Curveball"
     }
   },
-  "laa @ hou": {},
+  "laa @ hou": {
+    "1": {
+      "player": "zach neto",
+      "pitcher": "cristian javier",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    }
+  },
   "det @ kc": {
     "1": {
       "player": "colt keith",
