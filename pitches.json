@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "81": {
+      "player": "lars nootbaar",
+      "pitcher": "tony santillan",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "80": {
       "player": "kebryan hayes",
       "pitcher": "matt svanson",
@@ -1372,7 +1378,7 @@
       "player": "isaac collins",
       "pitcher": "tommy nance",
       "result": "Called Strike",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "60": {
       "player": "caleb durbin",
@@ -2146,12 +2152,6 @@
     }
   },
   "sea @ cle": {
-    "67": {
-      "player": "jorge polanco",
-      "pitcher": "tim herrin",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "66": {
       "player": "josh naylor",
       "pitcher": "tim herrin",
@@ -2553,7 +2553,7 @@
     "62": {
       "player": "tyrone taylor",
       "pitcher": "valente bellozo",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "61": {
@@ -3208,11 +3208,17 @@
     }
   },
   "laa @ hou": {
+    "36": {
+      "player": "mauricio dubon",
+      "pitcher": "tyler anderson",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "35": {
       "player": "bryce teodosio",
       "pitcher": "cristian javier",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "34": {
       "player": "niko kavadas",
@@ -3874,11 +3880,17 @@
     }
   },
   "chc @ col": {
+    "30": {
+      "player": "matt shaw",
+      "pitcher": "german marquez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "29": {
       "player": "dansby swanson",
       "pitcher": "german marquez",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "nico hoerner",
