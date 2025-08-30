@@ -3,8 +3,8 @@
     "68": {
       "player": "kebryan hayes",
       "pitcher": "gordon graceffo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "67": {
       "player": "thomas saggese",
@@ -413,8 +413,8 @@
     "60": {
       "player": "chandler simpson",
       "pitcher": "cole henry",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "59": {
       "player": "riley adams",
@@ -775,8 +775,8 @@
     "63": {
       "player": "trea turner",
       "pitcher": "dylan lee",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "62": {
       "player": "nacho alvarez",
@@ -1152,6 +1152,12 @@
     }
   },
   "mil @ tor": {
+    "46": {
+      "player": "addison barger",
+      "pitcher": "freddy peralta",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "45": {
       "player": "george springer",
       "pitcher": "freddy peralta",
@@ -2064,6 +2070,12 @@
     }
   },
   "mia @ nym": {
+    "46": {
+      "player": "xavier edwards",
+      "pitcher": "jonah tong",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "45": {
       "player": "joey wiemer",
       "pitcher": "jonah tong",
@@ -2336,6 +2348,12 @@
     }
   },
   "nyy @ chw": {
+    "32": {
+      "player": "edgar quero",
+      "pitcher": "carlos rodon",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "31": {
       "player": "aaron judge",
       "pitcher": "yoendrys gomez",
@@ -2527,8 +2545,8 @@
     "20": {
       "player": "jeremy pena",
       "pitcher": "tyler anderson",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "mauricio dubon",
@@ -2923,8 +2941,8 @@
     "10": {
       "player": "nico hoerner",
       "pitcher": "german marquez",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "ian happ",
