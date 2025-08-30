@@ -3,8 +3,8 @@
     "58": {
       "player": "elly de la cruz",
       "pitcher": "gordon graceffo",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "57": {
       "player": "lars nootbaar",
@@ -353,8 +353,8 @@
     "50": {
       "player": "dylan crews",
       "pitcher": "brian van belle",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "49": {
       "player": "paul dejong",
@@ -652,6 +652,12 @@
     }
   },
   "atl @ phi": {
+    "53": {
+      "player": "matt olson",
+      "pitcher": "matt strahm",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "52": {
       "player": "jurickson profar",
       "pitcher": "matt strahm",
@@ -969,8 +975,8 @@
     "37": {
       "player": "brice turang",
       "pitcher": "shane bieber",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
     },
     "36": {
       "player": "andruw monasterio",
@@ -1193,8 +1199,8 @@
     "43": {
       "player": "bryan reynolds",
       "pitcher": "payton tolle",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "nick gonzales",
@@ -1450,6 +1456,18 @@
     }
   },
   "sea @ cle": {
+    "41": {
+      "player": "daniel schneemann",
+      "pitcher": "george kirby",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
+    "40": {
+      "player": "steven kwan",
+      "pitcher": "george kirby",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "39": {
       "player": "brayan rocchio",
       "pitcher": "george kirby",
@@ -2160,7 +2178,7 @@
       "player": "matt wallner",
       "pitcher": "nestor cortes",
       "result": "Foul",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "brooks lee",
