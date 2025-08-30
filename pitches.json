@@ -305,7 +305,7 @@
     "42": {
       "player": "josh bell",
       "pitcher": "brian van belle",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "41": {
@@ -995,8 +995,8 @@
     "36": {
       "player": "isiah kiner falefa",
       "pitcher": "payton tolle",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "liover peguero",
@@ -1396,7 +1396,7 @@
       "player": "juan soto",
       "pitcher": "valente bellozo",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "26": {
       "player": "francisco lindor",
@@ -1648,6 +1648,12 @@
     }
   },
   "laa @ hou": {
+    "2": {
+      "player": "mike trout",
+      "pitcher": "cristian javier",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "zach neto",
       "pitcher": "cristian javier",
