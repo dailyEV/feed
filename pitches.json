@@ -1185,7 +1185,7 @@
     "47": {
       "player": "vladimir guerrero",
       "pitcher": "freddy peralta",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "46": {
@@ -2402,11 +2402,17 @@
     }
   },
   "nyy @ chw": {
+    "33": {
+      "player": "colson montgomery",
+      "pitcher": "carlos rodon",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "edgar quero",
       "pitcher": "carlos rodon",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "aaron judge",
@@ -2599,7 +2605,7 @@
     "22": {
       "player": "jose altuve",
       "pitcher": "tyler anderson",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "21": {
@@ -2730,6 +2736,12 @@
     }
   },
   "det @ kc": {
+    "24": {
+      "player": "bobby witt",
+      "pitcher": "chris paddack",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "mike yastrzemski",
       "pitcher": "chris paddack",
@@ -2870,11 +2882,17 @@
     }
   },
   "sd @ min": {
+    "25": {
+      "player": "brooks lee",
+      "pitcher": "nestor cortes",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "24": {
       "player": "luke keaschall",
       "pitcher": "nestor cortes",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "ryan jeffers",
@@ -3016,6 +3034,18 @@
     }
   },
   "chc @ col": {
+    "13": {
+      "player": "reese mcguire",
+      "pitcher": "german marquez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "12": {
+      "player": "matt shaw",
+      "pitcher": "german marquez",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "11": {
       "player": "dansby swanson",
       "pitcher": "german marquez",
