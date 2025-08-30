@@ -3,7 +3,7 @@
     "81": {
       "player": "lars nootbaar",
       "pitcher": "tony santillan",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "80": {
@@ -1377,8 +1377,8 @@
     "61": {
       "player": "isaac collins",
       "pitcher": "tommy nance",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "caleb durbin",
@@ -2152,6 +2152,18 @@
     }
   },
   "sea @ cle": {
+    "68": {
+      "player": "mitch garver",
+      "pitcher": "tim herrin",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
+    "67": {
+      "player": "jorge polanco",
+      "pitcher": "tim herrin",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "66": {
       "player": "josh naylor",
       "pitcher": "tim herrin",
@@ -2550,6 +2562,12 @@
     }
   },
   "mia @ nym": {
+    "63": {
+      "player": "luis torrens",
+      "pitcher": "valente bellozo",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "tyrone taylor",
       "pitcher": "valente bellozo",
@@ -3426,12 +3444,6 @@
     }
   },
   "det @ kc": {
-    "39": {
-      "player": "adam frazier",
-      "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "38": {
       "player": "wenceel perez",
       "pitcher": "jonathan bowlan",
@@ -3662,6 +3674,12 @@
     }
   },
   "sd @ min": {
+    "38": {
+      "player": "luke keaschall",
+      "pitcher": "david morgan",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "ryan jeffers",
       "pitcher": "david morgan",
