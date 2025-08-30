@@ -419,8 +419,8 @@
     "63": {
       "player": "brandon lowe",
       "pitcher": "cole henry",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "62": {
       "player": "yandy diaz",
@@ -799,7 +799,7 @@
     "65": {
       "player": "bryce harper",
       "pitcher": "dylan lee",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "64": {
@@ -1804,16 +1804,10 @@
     }
   },
   "sea @ cle": {
-    "54": {
-      "player": "brayan rocchio",
-      "pitcher": "george kirby",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
     "53": {
       "player": "nolan jones",
       "pitcher": "george kirby",
-      "result": "In play, run(s)",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -2417,8 +2411,8 @@
     "33": {
       "player": "colson montgomery",
       "pitcher": "carlos rodon",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "32": {
       "player": "edgar quero",
@@ -2617,8 +2611,8 @@
     "22": {
       "player": "jose altuve",
       "pitcher": "tyler anderson",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "21": {
       "player": "yordan alvarez",
@@ -2748,6 +2742,12 @@
     }
   },
   "det @ kc": {
+    "24": {
+      "player": "bobby witt",
+      "pitcher": "chris paddack",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "mike yastrzemski",
       "pitcher": "chris paddack",
@@ -3037,7 +3037,7 @@
     "13": {
       "player": "reese mcguire",
       "pitcher": "german marquez",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "12": {
