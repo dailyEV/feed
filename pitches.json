@@ -4535,7 +4535,7 @@
     "58": {
       "player": "kody clemens",
       "pitcher": "alek jacob",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "57": {
@@ -4882,6 +4882,12 @@
     }
   },
   "chc @ col": {
+    "59": {
+      "player": "yanquiel fernandez",
+      "pitcher": "ben brown",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    },
     "58": {
       "player": "warming bernabel",
       "pitcher": "ben brown",
@@ -5232,6 +5238,18 @@
     }
   },
   "tex @ ath": {
+    "10": {
+      "player": "cody freeman",
+      "pitcher": "jeffrey springs",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "9": {
+      "player": "kyle higashioka",
+      "pitcher": "jeffrey springs",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "josh jung",
       "pitcher": "jeffrey springs",
@@ -5282,10 +5300,16 @@
     }
   },
   "ari @ lad": {
+    "7": {
+      "player": "freddie freeman",
+      "pitcher": "zac gallen",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "mookie betts",
       "pitcher": "zac gallen",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "5": {
@@ -5323,8 +5347,8 @@
     "3": {
       "player": "gunnar henderson",
       "pitcher": "robbie ray",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "2": {
       "player": "jeremiah jackson",
