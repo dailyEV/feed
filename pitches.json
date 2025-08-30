@@ -482,6 +482,12 @@
     }
   },
   "tb @ wsh": {
+    "74": {
+      "player": "junior caminero",
+      "pitcher": "orlando ribalta",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "73": {
       "player": "chandler simpson",
       "pitcher": "pj poulin",
@@ -1356,6 +1362,12 @@
     }
   },
   "mil @ tor": {
+    "60": {
+      "player": "caleb durbin",
+      "pitcher": "tommy nance",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "andres gimenez",
       "pitcher": "aaron ashby",
@@ -2119,8 +2131,8 @@
     "65": {
       "player": "cj kayfus",
       "pitcher": "matt brash",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "64": {
       "player": "angel martinez",
@@ -2879,7 +2891,7 @@
     "46": {
       "player": "anthony volpe",
       "pitcher": "grant taylor",
-      "result": "Foul Bunt",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -3157,8 +3169,8 @@
     "35": {
       "player": "bryce teodosio",
       "pitcher": "cristian javier",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "34": {
       "player": "niko kavadas",
@@ -3369,8 +3381,8 @@
     "38": {
       "player": "wenceel perez",
       "pitcher": "jonathan bowlan",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "37": {
       "player": "spencer torkelson",
@@ -3820,11 +3832,17 @@
     }
   },
   "chc @ col": {
+    "28": {
+      "player": "nico hoerner",
+      "pitcher": "german marquez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "ian happ",
       "pitcher": "german marquez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Knuckle Curve"
     },
     "26": {
       "player": "jordan beck",
