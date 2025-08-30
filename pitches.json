@@ -4784,11 +4784,17 @@
     }
   },
   "sd @ min": {
+    "77": {
+      "player": "jake cronenworth",
+      "pitcher": "kody funderburk",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "76": {
       "player": "jose iglesias",
       "pitcher": "kody funderburk",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "75": {
       "player": "gavin sheets",
@@ -5242,11 +5248,17 @@
     }
   },
   "chc @ col": {
+    "79": {
+      "player": "tyler freeman",
+      "pitcher": "drew pomeranz",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "78": {
       "player": "orlando arcia",
       "pitcher": "drew pomeranz",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "77": {
       "player": "yanquiel fernandez",
@@ -5715,8 +5727,8 @@
     "31": {
       "player": "lawrence butler",
       "pitcher": "jack leiter",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "colby thomas",
@@ -5903,8 +5915,8 @@
     "27": {
       "player": "tyler locklear",
       "pitcher": "blake snell",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "blaze alexander",
@@ -6064,6 +6076,12 @@
     }
   },
   "bal @ sf": {
+    "24": {
+      "player": "jackson holliday",
+      "pitcher": "robbie ray",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "23": {
       "player": "alex jackson",
       "pitcher": "robbie ray",
