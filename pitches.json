@@ -416,17 +416,11 @@
     }
   },
   "tb @ wsh": {
-    "64": {
-      "player": "christopher morel",
-      "pitcher": "cole henry",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
-    },
     "63": {
       "player": "brandon lowe",
       "pitcher": "cole henry",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "62": {
       "player": "yandy diaz",
@@ -805,7 +799,7 @@
     "65": {
       "player": "bryce harper",
       "pitcher": "dylan lee",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "64": {
@@ -2426,6 +2420,12 @@
     }
   },
   "nyy @ chw": {
+    "34": {
+      "player": "curtis mead",
+      "pitcher": "carlos rodon",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "33": {
       "player": "colson montgomery",
       "pitcher": "carlos rodon",
@@ -2906,6 +2906,12 @@
     }
   },
   "sd @ min": {
+    "25": {
+      "player": "brooks lee",
+      "pitcher": "nestor cortes",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "luke keaschall",
       "pitcher": "nestor cortes",
