@@ -2035,7 +2035,7 @@
     "62": {
       "player": "kyle manzardo",
       "pitcher": "matt brash",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "61": {
@@ -2747,13 +2747,13 @@
     "43": {
       "player": "lenyn sosa",
       "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "chase meidroth",
       "pitcher": "carlos rodon",
-      "result": "In play, run(s)",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "41": {
@@ -3192,6 +3192,12 @@
     }
   },
   "det @ kc": {
+    "35": {
+      "player": "kerry carpenter",
+      "pitcher": "seth lugo",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "34": {
       "player": "gleyber torres",
       "pitcher": "seth lugo",
@@ -3595,8 +3601,8 @@
     "24": {
       "player": "ezequiel tovar",
       "pitcher": "cade horton",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "mickey moniak",
