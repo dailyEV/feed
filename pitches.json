@@ -4,7 +4,7 @@
       "player": "kebryan hayes",
       "pitcher": "jorge alcala",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "50": {
       "player": "jose trevino",
@@ -311,8 +311,8 @@
     "43": {
       "player": "luis garcia",
       "pitcher": "brian van belle",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "42": {
       "player": "josh bell",
@@ -831,8 +831,8 @@
     "31": {
       "player": "isaac collins",
       "pitcher": "shane bieber",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "30": {
       "player": "caleb durbin",
@@ -1016,6 +1016,12 @@
     }
   },
   "pit @ bos": {
+    "37": {
+      "player": "roman anthony",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "36": {
       "player": "isiah kiner falefa",
       "pitcher": "payton tolle",
@@ -1595,8 +1601,8 @@
     "16": {
       "player": "austin wells",
       "pitcher": "yoendrys gomez",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "tim elko",
@@ -1690,12 +1696,6 @@
     }
   },
   "laa @ hou": {
-    "3": {
-      "player": "taylor ward",
-      "pitcher": "cristian javier",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
     "2": {
       "player": "mike trout",
       "pitcher": "cristian javier",
@@ -1745,8 +1745,8 @@
     "4": {
       "player": "ryan ohearn",
       "pitcher": "zebby matthews",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "3": {
       "player": "manny machado",
