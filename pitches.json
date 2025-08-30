@@ -416,11 +416,17 @@
     }
   },
   "tb @ wsh": {
+    "64": {
+      "player": "christopher morel",
+      "pitcher": "cole henry",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "63": {
       "player": "brandon lowe",
       "pitcher": "cole henry",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "yandy diaz",
@@ -1475,7 +1481,7 @@
     "55": {
       "player": "bryan reynolds",
       "pitcher": "justin slaten",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Cutter"
     },
     "54": {
@@ -1804,10 +1810,16 @@
     }
   },
   "sea @ cle": {
+    "54": {
+      "player": "brayan rocchio",
+      "pitcher": "george kirby",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "53": {
       "player": "nolan jones",
       "pitcher": "george kirby",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -2124,6 +2136,12 @@
     }
   },
   "mia @ nym": {
+    "48": {
+      "player": "agustin ramirez",
+      "pitcher": "jonah tong",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "jakob marsee",
       "pitcher": "jonah tong",
@@ -2411,8 +2429,8 @@
     "33": {
       "player": "colson montgomery",
       "pitcher": "carlos rodon",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "32": {
       "player": "edgar quero",
