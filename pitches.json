@@ -757,8 +757,8 @@
     "62": {
       "player": "nacho alvarez",
       "pitcher": "orion kerkering",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "61": {
       "player": "drake baldwin",
@@ -1131,8 +1131,8 @@
     "44": {
       "player": "blake perkins",
       "pitcher": "louis varland",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "isaac collins",
@@ -1394,12 +1394,6 @@
     }
   },
   "pit @ bos": {
-    "52": {
-      "player": "isiah kiner falefa",
-      "pitcher": "justin slaten",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
     "51": {
       "player": "oneil cruz",
       "pitcher": "justin slaten",
@@ -1708,6 +1702,12 @@
     }
   },
   "sea @ cle": {
+    "50": {
+      "player": "dominic canzone",
+      "pitcher": "jakob junis",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "49": {
       "player": "mitch garver",
       "pitcher": "jakob junis",
@@ -2556,6 +2556,12 @@
     }
   },
   "det @ kc": {
+    "20": {
+      "player": "riley greene",
+      "pitcher": "seth lugo",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "19": {
       "player": "kerry carpenter",
       "pitcher": "seth lugo",
