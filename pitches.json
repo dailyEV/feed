@@ -2202,12 +2202,6 @@
     }
   },
   "laa @ hou": {
-    "7": {
-      "player": "carlos correa",
-      "pitcher": "kyle hendricks",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "6": {
       "player": "jose altuve",
       "pitcher": "kyle hendricks",
@@ -2249,7 +2243,7 @@
     "9": {
       "player": "matt wallner",
       "pitcher": "nick pivetta",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "8": {
@@ -2346,11 +2340,17 @@
     }
   },
   "det @ kc": {
+    "6": {
+      "player": "vinnie pasquantino",
+      "pitcher": "jack flaherty",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "5": {
       "player": "bobby witt",
       "pitcher": "jack flaherty",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "mike yastrzemski",
@@ -2378,12 +2378,6 @@
     }
   },
   "sea @ cle": {
-    "5": {
-      "player": "steven kwan",
-      "pitcher": "logan gilbert",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "4": {
       "player": "josh naylor",
       "pitcher": "gavin williams",
