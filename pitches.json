@@ -2196,6 +2196,12 @@
     }
   },
   "laa @ hou": {
+    "6": {
+      "player": "jose altuve",
+      "pitcher": "kyle hendricks",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "yordan alvarez",
       "pitcher": "kyle hendricks",
@@ -2231,7 +2237,7 @@
     "9": {
       "player": "matt wallner",
       "pitcher": "nick pivetta",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "8": {
@@ -2328,12 +2334,6 @@
     }
   },
   "det @ kc": {
-    "5": {
-      "player": "bobby witt",
-      "pitcher": "jack flaherty",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "4": {
       "player": "mike yastrzemski",
       "pitcher": "jack flaherty",
@@ -2386,6 +2386,18 @@
     }
   },
   "bal @ sf": {
+    "6": {
+      "player": "rafael devers",
+      "pitcher": "trevor rogers",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "5": {
+      "player": "heliot ramos",
+      "pitcher": "trevor rogers",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "ryan mountcastle",
       "pitcher": "carson seymour",
