@@ -1841,8 +1841,8 @@
     "34": {
       "player": "harrison bader",
       "pitcher": "chris sale",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "nick allen",
@@ -2198,6 +2198,18 @@
     }
   },
   "sd @ min": {
+    "8": {
+      "player": "luke keaschall",
+      "pitcher": "nick pivetta",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "7": {
+      "player": "trevor larnach",
+      "pitcher": "nick pivetta",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "byron buxton",
       "pitcher": "nick pivetta",
@@ -2274,12 +2286,6 @@
     }
   },
   "det @ kc": {
-    "4": {
-      "player": "mike yastrzemski",
-      "pitcher": "jack flaherty",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "3": {
       "player": "kerry carpenter",
       "pitcher": "stephen kolek",
