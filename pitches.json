@@ -2167,8 +2167,8 @@
     "36": {
       "player": "ivan herrera",
       "pitcher": "andrew abbott",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "kebryan hayes",
@@ -2519,7 +2519,7 @@
     "23": {
       "player": "trevor larnach",
       "pitcher": "nick pivetta",
-      "result": "In play, run(s)",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "22": {
@@ -2656,10 +2656,16 @@
     }
   },
   "nyy @ chw": {
+    "22": {
+      "player": "lenyn sosa",
+      "pitcher": "cam schlittler",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "kyle teel",
       "pitcher": "cam schlittler",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "20": {
@@ -2784,10 +2790,16 @@
     }
   },
   "det @ kc": {
+    "20": {
+      "player": "kerry carpenter",
+      "pitcher": "stephen kolek",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "19": {
       "player": "gleyber torres",
       "pitcher": "stephen kolek",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "18": {
@@ -2900,6 +2912,12 @@
     }
   },
   "sea @ cle": {
+    "19": {
+      "player": "nolan jones",
+      "pitcher": "logan gilbert",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "cj kayfus",
       "pitcher": "logan gilbert",
