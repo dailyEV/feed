@@ -4,7 +4,7 @@
       "player": "ivan herrera",
       "pitcher": "nick martinez",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "will banfield",
@@ -380,12 +380,6 @@
     }
   },
   "tb @ wsh": {
-    "56": {
-      "player": "cj abrams",
-      "pitcher": "garrett cleavinger",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "55": {
       "player": "james wood",
       "pitcher": "garrett cleavinger",
@@ -1071,7 +1065,7 @@
     "41": {
       "player": "sal frelick",
       "pitcher": "brendon little",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Knuckle Curve"
     },
     "40": {
@@ -1316,12 +1310,6 @@
     }
   },
   "pit @ bos": {
-    "48": {
-      "player": "masataka yoshida",
-      "pitcher": "paul skenes",
-      "result": "Foul",
-      "pitch": "Curveball"
-    },
     "47": {
       "player": "henry davis",
       "pitcher": "greg weissert",
@@ -2376,11 +2364,23 @@
     }
   },
   "det @ kc": {
+    "16": {
+      "player": "javier baez",
+      "pitcher": "seth lugo",
+      "result": "Swinging Strike",
+      "pitch": "Slurve"
+    },
+    "15": {
+      "player": "zach mckinstry",
+      "pitcher": "seth lugo",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "dillon dingler",
       "pitcher": "seth lugo",
-      "result": "Foul",
-      "pitch": "Slurve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "jonathan india",
@@ -2462,10 +2462,16 @@
     }
   },
   "sd @ min": {
+    "18": {
+      "player": "luis arraez",
+      "pitcher": "zebby matthews",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "fernando tatis",
       "pitcher": "zebby matthews",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "16": {
