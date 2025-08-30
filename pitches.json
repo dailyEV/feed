@@ -1,5 +1,17 @@
 {
   "stl @ cin": {
+    "48": {
+      "player": "jordan walker",
+      "pitcher": "zack littell",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "47": {
+      "player": "thomas saggese",
+      "pitcher": "zack littell",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "masyn winn",
       "pitcher": "zack littell",
@@ -281,8 +293,8 @@
     "39": {
       "player": "chandler simpson",
       "pitcher": "mitchell parker",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "nick fortes",
@@ -750,6 +762,12 @@
     }
   },
   "mil @ tor": {
+    "26": {
+      "player": "bo bichette",
+      "pitcher": "freddy peralta",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "andrew vaughn",
       "pitcher": "shane bieber",
@@ -905,8 +923,8 @@
     "33": {
       "player": "connor wong",
       "pitcher": "paul skenes",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "ceddanne rafaela",
@@ -1102,16 +1120,10 @@
     }
   },
   "sea @ cle": {
-    "28": {
-      "player": "mitch garver",
-      "pitcher": "logan allen",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "27": {
       "player": "jorge polanco",
       "pitcher": "logan allen",
-      "result": "In play, no out",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "26": {
