@@ -712,6 +712,12 @@
     }
   },
   "atl @ phi": {
+    "59": {
+      "player": "marcell ozuna",
+      "pitcher": "orion kerkering",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "58": {
       "player": "rafael marchan",
       "pitcher": "bryce elder",
@@ -1310,6 +1316,12 @@
     }
   },
   "pit @ bos": {
+    "48": {
+      "player": "masataka yoshida",
+      "pitcher": "paul skenes",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "47": {
       "player": "henry davis",
       "pitcher": "greg weissert",
@@ -1597,8 +1609,8 @@
     "47": {
       "player": "bo naylor",
       "pitcher": "george kirby",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "46": {
       "player": "kyle manzardo",
@@ -2114,6 +2126,12 @@
     }
   },
   "nyy @ chw": {
+    "27": {
+      "player": "ryan mcmahon",
+      "pitcher": "yoendrys gomez",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "26": {
       "player": "jazz chisholm",
       "pitcher": "yoendrys gomez",
@@ -2364,10 +2382,16 @@
     }
   },
   "det @ kc": {
+    "17": {
+      "player": "colt keith",
+      "pitcher": "seth lugo",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "16": {
       "player": "javier baez",
       "pitcher": "seth lugo",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Slurve"
     },
     "15": {
