@@ -3,7 +3,7 @@
     "57": {
       "player": "lars nootbaar",
       "pitcher": "zack littell",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "56": {
@@ -347,7 +347,7 @@
     "49": {
       "player": "paul dejong",
       "pitcher": "brian van belle",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "48": {
@@ -942,6 +942,12 @@
     }
   },
   "mil @ tor": {
+    "36": {
+      "player": "andruw monasterio",
+      "pitcher": "shane bieber",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "andres gimenez",
       "pitcher": "freddy peralta",
@@ -1623,8 +1629,8 @@
     "33": {
       "player": "pete alonso",
       "pitcher": "valente bellozo",
-      "result": "In play, no out",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "agustin ramirez",
@@ -1992,6 +1998,12 @@
     }
   },
   "det @ kc": {
+    "9": {
+      "player": "vinnie pasquantino",
+      "pitcher": "chris paddack",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "bobby witt",
       "pitcher": "chris paddack",
