@@ -3314,12 +3314,6 @@
     }
   },
   "nyy @ chw": {
-    "67": {
-      "player": "aaron judge",
-      "pitcher": "jordan leasure",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "66": {
       "player": "lenyn sosa",
       "pitcher": "fernando cruz",
@@ -3718,6 +3712,12 @@
     }
   },
   "laa @ hou": {
+    "56": {
+      "player": "jose altuve",
+      "pitcher": "luis garcia",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "yordan alvarez",
       "pitcher": "luis garcia",
@@ -4729,8 +4729,8 @@
     "54": {
       "player": "pete crow armstrong",
       "pitcher": "antonio senzatela",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "53": {
       "player": "seiya suzuki",
@@ -5071,6 +5071,13 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "ari @ lad": {},
+  "ari @ lad": {
+    "1": {
+      "player": "ketel marte",
+      "pitcher": "blake snell",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    }
+  },
   "bal @ sf": {}
 }
