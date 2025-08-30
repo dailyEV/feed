@@ -1317,7 +1317,7 @@
     "90": {
       "player": "cedric mullins",
       "pitcher": "tyler phillips",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "89": {
@@ -2202,10 +2202,16 @@
     }
   },
   "laa @ hou": {
+    "7": {
+      "player": "carlos correa",
+      "pitcher": "kyle hendricks",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "jose altuve",
       "pitcher": "kyle hendricks",
-      "result": "Foul",
+      "result": "Hit By Pitch",
       "pitch": "Sinker"
     },
     "5": {
@@ -2343,8 +2349,8 @@
     "5": {
       "player": "bobby witt",
       "pitcher": "jack flaherty",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "4": {
       "player": "mike yastrzemski",
