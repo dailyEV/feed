@@ -856,12 +856,6 @@
     }
   },
   "atl @ phi": {
-    "70": {
-      "player": "vidal brujan",
-      "pitcher": "jhoan duran",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
     "69": {
       "player": "max kepler",
       "pitcher": "pierce johnson",
@@ -1613,7 +1607,7 @@
     "62": {
       "player": "henry davis",
       "pitcher": "jordan hicks",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "61": {
@@ -1987,7 +1981,7 @@
     "59": {
       "player": "eugenio suarez",
       "pitcher": "jakob junis",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -2343,7 +2337,7 @@
     "54": {
       "player": "mark vientos",
       "pitcher": "valente bellozo",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -2666,6 +2660,12 @@
     }
   },
   "nyy @ chw": {
+    "41": {
+      "player": "brooks baldwin",
+      "pitcher": "carlos rodon",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "40": {
       "player": "michael a taylor",
       "pitcher": "carlos rodon",
@@ -3075,8 +3075,8 @@
     "32": {
       "player": "salvador perez",
       "pitcher": "chris paddack",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "maikel garcia",
