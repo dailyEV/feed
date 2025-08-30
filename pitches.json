@@ -3,8 +3,8 @@
     "32": {
       "player": "caleb durbin",
       "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "isaac collins",
@@ -191,8 +191,8 @@
     "4": {
       "player": "junior caminero",
       "pitcher": "jake irvin",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "brandon lowe",
@@ -214,14 +214,26 @@
     }
   },
   "pit @ bos": {
+    "2": {
+      "player": "spencer horwitz",
+      "pitcher": "dustin may",
+      "result": "Foul Bunt",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "jared triolo",
       "pitcher": "dustin may",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     }
   },
   "mia @ nym": {
+    "3": {
+      "player": "agustin ramirez",
+      "pitcher": "david peterson",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "otto lopez",
       "pitcher": "david peterson",
