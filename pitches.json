@@ -787,7 +787,7 @@
     "64": {
       "player": "kyle schwarber",
       "pitcher": "dylan lee",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "63": {
@@ -1170,12 +1170,6 @@
     }
   },
   "mil @ tor": {
-    "46": {
-      "player": "addison barger",
-      "pitcher": "freddy peralta",
-      "result": "Foul",
-      "pitch": "Curveball"
-    },
     "45": {
       "player": "george springer",
       "pitcher": "freddy peralta",
@@ -1774,12 +1768,6 @@
     }
   },
   "sea @ cle": {
-    "52": {
-      "player": "cj kayfus",
-      "pitcher": "george kirby",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "51": {
       "player": "jp crawford",
       "pitcher": "jakob junis",
@@ -2091,7 +2079,7 @@
     "46": {
       "player": "xavier edwards",
       "pitcher": "jonah tong",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -2560,6 +2548,12 @@
     }
   },
   "laa @ hou": {
+    "21": {
+      "player": "yordan alvarez",
+      "pitcher": "tyler anderson",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "20": {
       "player": "jeremy pena",
       "pitcher": "tyler anderson",
@@ -2816,11 +2810,17 @@
     }
   },
   "sd @ min": {
+    "24": {
+      "player": "luke keaschall",
+      "pitcher": "nestor cortes",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "23": {
       "player": "ryan jeffers",
       "pitcher": "nestor cortes",
-      "result": "Ball In Dirt",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "22": {
       "player": "byron buxton",
