@@ -377,7 +377,7 @@
     "54": {
       "player": "nick fortes",
       "pitcher": "clayton beeter",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "53": {
@@ -1044,6 +1044,12 @@
     }
   },
   "mil @ tor": {
+    "40": {
+      "player": "andrew vaughn",
+      "pitcher": "brendon little",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "christian yelich",
       "pitcher": "brendon little",
@@ -1558,6 +1564,12 @@
     }
   },
   "sea @ cle": {
+    "45": {
+      "player": "jose ramirez",
+      "pitcher": "george kirby",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "jorge polanco",
       "pitcher": "logan allen",
@@ -1827,7 +1839,7 @@
     "38": {
       "player": "liam hicks",
       "pitcher": "jonah tong",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "37": {
@@ -2209,8 +2221,8 @@
     "13": {
       "player": "jesus sanchez",
       "pitcher": "tyler anderson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "12": {
       "player": "christian walker",
