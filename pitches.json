@@ -616,6 +616,12 @@
     }
   },
   "atl @ phi": {
+    "47": {
+      "player": "bryce harper",
+      "pitcher": "bryce elder",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "nacho alvarez",
       "pitcher": "david robertson",
@@ -894,12 +900,6 @@
     }
   },
   "mil @ tor": {
-    "33": {
-      "player": "nathan lukes",
-      "pitcher": "freddy peralta",
-      "result": "Called Strike",
-      "pitch": "Changeup"
-    },
     "32": {
       "player": "blake perkins",
       "pitcher": "shane bieber",
@@ -1739,8 +1739,8 @@
     "19": {
       "player": "cody bellinger",
       "pitcher": "yoendrys gomez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "aaron judge",
@@ -1852,11 +1852,17 @@
     }
   },
   "laa @ hou": {
+    "6": {
+      "player": "yordan alvarez",
+      "pitcher": "tyler anderson",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "5": {
       "player": "jeremy pena",
       "pitcher": "tyler anderson",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "yoan moncada",
