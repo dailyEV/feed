@@ -1437,7 +1437,7 @@
     "66": {
       "player": "vladimir guerrero",
       "pitcher": "shelby miller",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -2727,7 +2727,7 @@
     "68": {
       "player": "liam hicks",
       "pitcher": "jose castillo",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "67": {
@@ -3959,8 +3959,8 @@
     "42": {
       "player": "luis arraez",
       "pitcher": "zebby matthews",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "fernando tatis",
@@ -4210,11 +4210,17 @@
     }
   },
   "chc @ col": {
+    "38": {
+      "player": "kyle tucker",
+      "pitcher": "german marquez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "michael busch",
       "pitcher": "german marquez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "orlando arcia",
