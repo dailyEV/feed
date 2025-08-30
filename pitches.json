@@ -1,5 +1,11 @@
 {
   "mil @ tor": {
+    "32": {
+      "player": "caleb durbin",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "31": {
       "player": "isaac collins",
       "pitcher": "kevin gausman",
@@ -185,8 +191,8 @@
     "4": {
       "player": "junior caminero",
       "pitcher": "jake irvin",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "3": {
       "player": "brandon lowe",
@@ -212,15 +218,15 @@
       "player": "jared triolo",
       "pitcher": "dustin may",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     }
   },
   "mia @ nym": {
     "1": {
       "player": "xavier edwards",
       "pitcher": "david peterson",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     }
   },
   "atl @ phi": {},
