@@ -347,8 +347,8 @@
     "49": {
       "player": "paul dejong",
       "pitcher": "brian van belle",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "48": {
       "player": "carson williams",
@@ -1160,6 +1160,12 @@
     }
   },
   "pit @ bos": {
+    "42": {
+      "player": "nick gonzales",
+      "pitcher": "payton tolle",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "41": {
       "player": "jared triolo",
       "pitcher": "payton tolle",
@@ -1404,16 +1410,10 @@
       "player": "jared triolo",
       "pitcher": "payton tolle",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     }
   },
   "sea @ cle": {
-    "38": {
-      "player": "nolan jones",
-      "pitcher": "george kirby",
-      "result": "In play, out(s)",
-      "pitch": "Knuckle Curve"
-    },
     "37": {
       "player": "julio rodriguez",
       "pitcher": "logan allen",
@@ -1638,6 +1638,12 @@
     }
   },
   "mia @ nym": {
+    "34": {
+      "player": "mark vientos",
+      "pitcher": "valente bellozo",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "33": {
       "player": "pete alonso",
       "pitcher": "valente bellozo",
@@ -1838,6 +1844,18 @@
     }
   },
   "nyy @ chw": {
+    "22": {
+      "player": "brooks baldwin",
+      "pitcher": "carlos rodon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "21": {
+      "player": "michael a taylor",
+      "pitcher": "carlos rodon",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "20": {
       "player": "ben rice",
       "pitcher": "yoendrys gomez",
@@ -2010,6 +2028,12 @@
     }
   },
   "det @ kc": {
+    "10": {
+      "player": "maikel garcia",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "9": {
       "player": "vinnie pasquantino",
       "pitcher": "chris paddack",
