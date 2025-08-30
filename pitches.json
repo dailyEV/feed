@@ -2137,8 +2137,8 @@
     "31": {
       "player": "masyn winn",
       "pitcher": "andrew abbott",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "nathan church",
@@ -2524,11 +2524,17 @@
     }
   },
   "nyy @ chw": {
+    "17": {
+      "player": "jasson dominguez",
+      "pitcher": "shane smith",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "16": {
       "player": "ryan mcmahon",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "anthony volpe",
@@ -2625,7 +2631,7 @@
     "14": {
       "player": "randal grichuk",
       "pitcher": "jack flaherty",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "13": {
@@ -2711,8 +2717,8 @@
     "16": {
       "player": "randy arozarena",
       "pitcher": "gavin williams",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "15": {
       "player": "cole young",
@@ -2806,6 +2812,18 @@
     }
   },
   "bal @ sf": {
+    "17": {
+      "player": "jackson holliday",
+      "pitcher": "carson seymour",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
+    "16": {
+      "player": "daniel johnson",
+      "pitcher": "carson seymour",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "15": {
       "player": "jung hoo lee",
       "pitcher": "trevor rogers",
