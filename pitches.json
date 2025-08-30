@@ -1314,11 +1314,17 @@
     }
   },
   "mia @ nym": {
+    "90": {
+      "player": "cedric mullins",
+      "pitcher": "tyler phillips",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "89": {
       "player": "hayden senger",
       "pitcher": "tyler phillips",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "88": {
       "player": "brett baty",
@@ -2199,7 +2205,7 @@
     "6": {
       "player": "jose altuve",
       "pitcher": "kyle hendricks",
-      "result": "Foul",
+      "result": "Hit By Pitch",
       "pitch": "Sinker"
     },
     "5": {
@@ -2237,7 +2243,7 @@
     "9": {
       "player": "matt wallner",
       "pitcher": "nick pivetta",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "8": {
@@ -2334,6 +2340,12 @@
     }
   },
   "det @ kc": {
+    "5": {
+      "player": "bobby witt",
+      "pitcher": "jack flaherty",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "mike yastrzemski",
       "pitcher": "jack flaherty",
