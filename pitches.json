@@ -3,7 +3,7 @@
     "68": {
       "player": "kebryan hayes",
       "pitcher": "gordon graceffo",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -414,7 +414,7 @@
       "player": "yandy diaz",
       "pitcher": "cole henry",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "junior caminero",
@@ -787,8 +787,8 @@
     "64": {
       "player": "kyle schwarber",
       "pitcher": "dylan lee",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "trea turner",
@@ -1771,7 +1771,7 @@
     "53": {
       "player": "nolan jones",
       "pitcher": "george kirby",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -2560,11 +2560,17 @@
     }
   },
   "laa @ hou": {
+    "22": {
+      "player": "jose altuve",
+      "pitcher": "tyler anderson",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "21": {
       "player": "yordan alvarez",
       "pitcher": "tyler anderson",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "jeremy pena",
@@ -2688,17 +2694,11 @@
     }
   },
   "det @ kc": {
-    "23": {
-      "player": "mike yastrzemski",
-      "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "22": {
       "player": "kyle isbel",
       "pitcher": "chris paddack",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "michael massey",
@@ -2831,8 +2831,8 @@
     "24": {
       "player": "luke keaschall",
       "pitcher": "nestor cortes",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "ryan jeffers",
@@ -2977,7 +2977,7 @@
     "11": {
       "player": "dansby swanson",
       "pitcher": "german marquez",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Knuckle Curve"
     },
     "10": {
