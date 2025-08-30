@@ -1139,8 +1139,8 @@
     "40": {
       "player": "trevor story",
       "pitcher": "paul skenes",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "39": {
       "player": "jarren duran",
@@ -1378,6 +1378,12 @@
     }
   },
   "sea @ cle": {
+    "37": {
+      "player": "julio rodriguez",
+      "pitcher": "logan allen",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "cal raleigh",
       "pitcher": "logan allen",
@@ -1912,23 +1918,11 @@
     }
   },
   "laa @ hou": {
-    "8": {
-      "player": "carlos correa",
-      "pitcher": "tyler anderson",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
-    "7": {
-      "player": "jose altuve",
-      "pitcher": "tyler anderson",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
     "6": {
       "player": "yordan alvarez",
       "pitcher": "tyler anderson",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "5": {
       "player": "jeremy pena",
@@ -1962,6 +1956,12 @@
     }
   },
   "det @ kc": {
+    "9": {
+      "player": "vinnie pasquantino",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "8": {
       "player": "bobby witt",
       "pitcher": "chris paddack",
@@ -2012,6 +2012,12 @@
     }
   },
   "sd @ min": {
+    "8": {
+      "player": "ramon laureano",
+      "pitcher": "zebby matthews",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "luke keaschall",
       "pitcher": "nestor cortes",
