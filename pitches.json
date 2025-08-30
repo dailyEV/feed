@@ -344,11 +344,17 @@
     }
   },
   "tb @ wsh": {
+    "50": {
+      "player": "dylan crews",
+      "pitcher": "brian van belle",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "49": {
       "player": "paul dejong",
       "pitcher": "brian van belle",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "carson williams",
@@ -640,6 +646,12 @@
     }
   },
   "atl @ phi": {
+    "51": {
+      "player": "vidal brujan",
+      "pitcher": "matt strahm",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "nick castellanos",
       "pitcher": "bryce elder",
@@ -1160,12 +1172,6 @@
     }
   },
   "pit @ bos": {
-    "42": {
-      "player": "nick gonzales",
-      "pitcher": "payton tolle",
-      "result": "In play, no out",
-      "pitch": "Cutter"
-    },
     "41": {
       "player": "jared triolo",
       "pitcher": "payton tolle",
@@ -1410,10 +1416,22 @@
       "player": "jared triolo",
       "pitcher": "payton tolle",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     }
   },
   "sea @ cle": {
+    "39": {
+      "player": "brayan rocchio",
+      "pitcher": "george kirby",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
+    "38": {
+      "player": "nolan jones",
+      "pitcher": "george kirby",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "37": {
       "player": "julio rodriguez",
       "pitcher": "logan allen",
@@ -1638,6 +1656,12 @@
     }
   },
   "mia @ nym": {
+    "35": {
+      "player": "brandon nimmo",
+      "pitcher": "valente bellozo",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "mark vientos",
       "pitcher": "valente bellozo",
@@ -1847,7 +1871,7 @@
     "22": {
       "player": "brooks baldwin",
       "pitcher": "carlos rodon",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "21": {
@@ -1978,6 +2002,12 @@
     }
   },
   "laa @ hou": {
+    "9": {
+      "player": "jo adell",
+      "pitcher": "cristian javier",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "carlos correa",
       "pitcher": "tyler anderson",
