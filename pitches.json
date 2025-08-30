@@ -1860,7 +1860,7 @@
       "player": "marcell ozuna",
       "pitcher": "tanner banks",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Sweeper"
     },
     "50": {
       "player": "nick castellanos",
@@ -2772,10 +2772,16 @@
     }
   },
   "det @ kc": {
+    "20": {
+      "player": "kerry carpenter",
+      "pitcher": "stephen kolek",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "19": {
       "player": "gleyber torres",
       "pitcher": "stephen kolek",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "18": {
@@ -2888,12 +2894,6 @@
     }
   },
   "sea @ cle": {
-    "19": {
-      "player": "nolan jones",
-      "pitcher": "logan gilbert",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "18": {
       "player": "cj kayfus",
       "pitcher": "logan gilbert",
@@ -3004,6 +3004,12 @@
     }
   },
   "bal @ sf": {
+    "23": {
+      "player": "coby mayo",
+      "pitcher": "carson seymour",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "22": {
       "player": "dylan beavers",
       "pitcher": "carson seymour",
