@@ -2369,8 +2369,8 @@
     "14": {
       "player": "ryan jeffers",
       "pitcher": "nick pivetta",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "13": {
       "player": "elias diaz",
@@ -2452,11 +2452,17 @@
     }
   },
   "nyy @ chw": {
+    "14": {
+      "player": "brooks baldwin",
+      "pitcher": "cam schlittler",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "13": {
       "player": "curtis mead",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "12": {
       "player": "will robertson",
@@ -2594,6 +2600,12 @@
     }
   },
   "sea @ cle": {
+    "12": {
+      "player": "bo naylor",
+      "pitcher": "logan gilbert",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "kyle manzardo",
       "pitcher": "logan gilbert",
