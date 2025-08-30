@@ -3,8 +3,8 @@
     "68": {
       "player": "kebryan hayes",
       "pitcher": "gordon graceffo",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "thomas saggese",
@@ -772,6 +772,12 @@
     }
   },
   "atl @ phi": {
+    "64": {
+      "player": "kyle schwarber",
+      "pitcher": "dylan lee",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "63": {
       "player": "trea turner",
       "pitcher": "dylan lee",
@@ -1152,12 +1158,6 @@
     }
   },
   "mil @ tor": {
-    "46": {
-      "player": "addison barger",
-      "pitcher": "freddy peralta",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "45": {
       "player": "george springer",
       "pitcher": "freddy peralta",
@@ -1434,7 +1434,7 @@
       "player": "nick gonzales",
       "pitcher": "justin slaten",
       "result": "Foul",
-      "pitch": "Cutter"
+      "pitch": "Sweeper"
     },
     "53": {
       "player": "jared triolo",
@@ -2073,8 +2073,8 @@
     "46": {
       "player": "xavier edwards",
       "pitcher": "jonah tong",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "joey wiemer",
@@ -2545,7 +2545,7 @@
     "20": {
       "player": "jeremy pena",
       "pitcher": "tyler anderson",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -2798,11 +2798,17 @@
     }
   },
   "sd @ min": {
+    "24": {
+      "player": "luke keaschall",
+      "pitcher": "nestor cortes",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "23": {
       "player": "ryan jeffers",
       "pitcher": "nestor cortes",
-      "result": "Ball In Dirt",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "22": {
       "player": "byron buxton",
@@ -2941,8 +2947,8 @@
     "10": {
       "player": "nico hoerner",
       "pitcher": "german marquez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "9": {
       "player": "ian happ",
