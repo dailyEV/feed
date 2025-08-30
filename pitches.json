@@ -1,10 +1,16 @@
 {
   "stl @ cin": {
+    "56": {
+      "player": "nathan church",
+      "pitcher": "zack littell",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "pedro pages",
       "pitcher": "zack littell",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "54": {
       "player": "noelvi marte",
@@ -622,6 +628,12 @@
     }
   },
   "atl @ phi": {
+    "48": {
+      "player": "alec bohm",
+      "pitcher": "bryce elder",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "bryce harper",
       "pitcher": "bryce elder",
@@ -1115,8 +1127,8 @@
     "40": {
       "player": "trevor story",
       "pitcher": "paul skenes",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "39": {
       "player": "jarren duran",
@@ -1760,12 +1772,6 @@
     }
   },
   "nyy @ chw": {
-    "20": {
-      "player": "ben rice",
-      "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "19": {
       "player": "cody bellinger",
       "pitcher": "yoendrys gomez",
@@ -1882,17 +1888,11 @@
     }
   },
   "laa @ hou": {
-    "7": {
-      "player": "jose altuve",
-      "pitcher": "tyler anderson",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
     "6": {
       "player": "yordan alvarez",
       "pitcher": "tyler anderson",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "5": {
       "player": "jeremy pena",
