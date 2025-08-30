@@ -1835,7 +1835,7 @@
     "34": {
       "player": "harrison bader",
       "pitcher": "chris sale",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "33": {
@@ -2041,8 +2041,8 @@
     "20": {
       "player": "ivan herrera",
       "pitcher": "andrew abbott",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "masyn winn",
@@ -2192,12 +2192,6 @@
     }
   },
   "sd @ min": {
-    "7": {
-      "player": "trevor larnach",
-      "pitcher": "nick pivetta",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "6": {
       "player": "byron buxton",
       "pitcher": "nick pivetta",
@@ -2236,11 +2230,17 @@
     }
   },
   "nyy @ chw": {
+    "6": {
+      "player": "lenyn sosa",
+      "pitcher": "cam schlittler",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "kyle teel",
       "pitcher": "cam schlittler",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "mike tauchman",
@@ -2288,6 +2288,12 @@
     }
   },
   "sea @ cle": {
+    "4": {
+      "player": "josh naylor",
+      "pitcher": "gavin williams",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
     "3": {
       "player": "julio rodriguez",
       "pitcher": "gavin williams",
@@ -2308,11 +2314,17 @@
     }
   },
   "bal @ sf": {
+    "4": {
+      "player": "ryan mountcastle",
+      "pitcher": "carson seymour",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "gunnar henderson",
       "pitcher": "carson seymour",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "2": {
       "player": "jeremiah jackson",
