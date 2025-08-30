@@ -443,8 +443,8 @@
     "68": {
       "player": "robert hassell",
       "pitcher": "bryan baker",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "67": {
       "player": "dylan crews",
@@ -1266,10 +1266,16 @@
     }
   },
   "mil @ tor": {
+    "54": {
+      "player": "bo bichette",
+      "pitcher": "aaron ashby",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "53": {
       "player": "sal frelick",
       "pitcher": "justin bruihl",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "52": {
@@ -1948,12 +1954,6 @@
     }
   },
   "sea @ cle": {
-    "57": {
-      "player": "cal raleigh",
-      "pitcher": "jakob junis",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "56": {
       "player": "randy arozarena",
       "pitcher": "jakob junis",
@@ -2292,6 +2292,18 @@
     }
   },
   "mia @ nym": {
+    "54": {
+      "player": "mark vientos",
+      "pitcher": "valente bellozo",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "53": {
+      "player": "pete alonso",
+      "pitcher": "valente bellozo",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "52": {
       "player": "juan soto",
       "pitcher": "valente bellozo",
@@ -2609,8 +2621,8 @@
     "38": {
       "player": "andrew benintendi",
       "pitcher": "carlos rodon",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "giancarlo stanton",
@@ -2836,6 +2848,12 @@
     }
   },
   "laa @ hou": {
+    "27": {
+      "player": "carlos correa",
+      "pitcher": "tyler anderson",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "jo adell",
       "pitcher": "cristian javier",
@@ -2994,6 +3012,18 @@
     }
   },
   "det @ kc": {
+    "31": {
+      "player": "maikel garcia",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "30": {
+      "player": "vinnie pasquantino",
+      "pitcher": "chris paddack",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "javier baez",
       "pitcher": "seth lugo",
@@ -3352,6 +3382,12 @@
     }
   },
   "chc @ col": {
+    "20": {
+      "player": "seiya suzuki",
+      "pitcher": "german marquez",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "kyle tucker",
       "pitcher": "german marquez",
