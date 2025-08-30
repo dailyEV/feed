@@ -2149,8 +2149,8 @@
     "32": {
       "player": "miguel andujar",
       "pitcher": "michael mcgreevy",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "masyn winn",
@@ -2554,11 +2554,17 @@
     }
   },
   "nyy @ chw": {
+    "18": {
+      "player": "trent grisham",
+      "pitcher": "shane smith",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "jasson dominguez",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "ryan mcmahon",
@@ -2658,6 +2664,12 @@
     }
   },
   "det @ kc": {
+    "15": {
+      "player": "dillon dingler",
+      "pitcher": "stephen kolek",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "randal grichuk",
       "pitcher": "jack flaherty",
@@ -2848,12 +2860,6 @@
     }
   },
   "bal @ sf": {
-    "19": {
-      "player": "gunnar henderson",
-      "pitcher": "carson seymour",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "18": {
       "player": "jeremiah jackson",
       "pitcher": "carson seymour",
