@@ -2802,10 +2802,16 @@
     }
   },
   "mia @ nym": {
+    "90": {
+      "player": "connor norby",
+      "pitcher": "luis torrens",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "89": {
       "player": "liam hicks",
       "pitcher": "luis torrens",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "88": {
@@ -3338,11 +3344,17 @@
     }
   },
   "nyy @ chw": {
+    "69": {
+      "player": "ben rice",
+      "pitcher": "jordan leasure",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "68": {
       "player": "jasson dominguez",
       "pitcher": "jordan leasure",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "aaron judge",
@@ -3752,7 +3764,7 @@
       "player": "christian walker",
       "pitcher": "luis garcia",
       "result": "Called Strike",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "57": {
       "player": "carlos correa",
@@ -4101,8 +4113,8 @@
     "59": {
       "player": "spencer torkelson",
       "pitcher": "taylor clarke",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "riley greene",
@@ -5159,8 +5171,8 @@
     "4": {
       "player": "lourdes gurriel",
       "pitcher": "blake snell",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "corbin carroll",
