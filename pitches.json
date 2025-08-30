@@ -1314,6 +1314,12 @@
     }
   },
   "mil @ tor": {
+    "56": {
+      "player": "alejandro kirk",
+      "pitcher": "aaron ashby",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "daulton varsho",
       "pitcher": "aaron ashby",
@@ -2391,7 +2397,7 @@
     "56": {
       "player": "troy johnston",
       "pitcher": "ryan helsley",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -2735,7 +2741,7 @@
     "42": {
       "player": "chase meidroth",
       "pitcher": "carlos rodon",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "41": {
@@ -2986,18 +2992,6 @@
     }
   },
   "laa @ hou": {
-    "31": {
-      "player": "cam smith",
-      "pitcher": "tyler anderson",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
-    "30": {
-      "player": "yainer diaz",
-      "pitcher": "tyler anderson",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "29": {
       "player": "jesus sanchez",
       "pitcher": "tyler anderson",
@@ -3177,7 +3171,7 @@
     "33": {
       "player": "colt keith",
       "pitcher": "seth lugo",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "32": {
@@ -3571,8 +3565,8 @@
     "24": {
       "player": "ezequiel tovar",
       "pitcher": "cade horton",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "23": {
       "player": "mickey moniak",
