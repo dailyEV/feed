@@ -3,8 +3,8 @@
     "62": {
       "player": "will banfield",
       "pitcher": "gordon graceffo",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "spencer steer",
@@ -377,8 +377,8 @@
     "53": {
       "player": "everson pereira",
       "pitcher": "clayton beeter",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "52": {
       "player": "josh lowe",
@@ -694,10 +694,16 @@
     }
   },
   "atl @ phi": {
+    "57": {
+      "player": "bryson stott",
+      "pitcher": "bryce elder",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "56": {
       "player": "max kepler",
       "pitcher": "bryce elder",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "55": {
@@ -1032,6 +1038,12 @@
     }
   },
   "mil @ tor": {
+    "39": {
+      "player": "christian yelich",
+      "pitcher": "brendon little",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "38": {
       "player": "william contreras",
       "pitcher": "shane bieber",
@@ -1540,10 +1552,16 @@
     }
   },
   "sea @ cle": {
+    "44": {
+      "player": "jorge polanco",
+      "pitcher": "logan allen",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "43": {
       "player": "josh naylor",
       "pitcher": "logan allen",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "42": {
@@ -2045,7 +2063,7 @@
     "23": {
       "player": "chase meidroth",
       "pitcher": "carlos rodon",
-      "result": "In play, no out",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "22": {
@@ -2336,12 +2354,6 @@
     }
   },
   "sd @ min": {
-    "16": {
-      "player": "freddy fermin",
-      "pitcher": "zebby matthews",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "15": {
       "player": "jake cronenworth",
       "pitcher": "zebby matthews",
