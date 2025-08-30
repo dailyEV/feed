@@ -1859,8 +1859,8 @@
     "51": {
       "player": "marcell ozuna",
       "pitcher": "tanner banks",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "50": {
       "player": "nick castellanos",
@@ -2164,11 +2164,17 @@
     }
   },
   "stl @ cin": {
+    "37": {
+      "player": "lars nootbaar",
+      "pitcher": "andrew abbott",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "36": {
       "player": "ivan herrera",
       "pitcher": "andrew abbott",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "kebryan hayes",
@@ -2656,10 +2662,16 @@
     }
   },
   "nyy @ chw": {
+    "22": {
+      "player": "lenyn sosa",
+      "pitcher": "cam schlittler",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "kyle teel",
       "pitcher": "cam schlittler",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "20": {
@@ -2909,8 +2921,8 @@
     "19": {
       "player": "nolan jones",
       "pitcher": "logan gilbert",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "18": {
       "player": "cj kayfus",
