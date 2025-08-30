@@ -3,7 +3,7 @@
     "68": {
       "player": "kebryan hayes",
       "pitcher": "gordon graceffo",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -787,7 +787,7 @@
     "64": {
       "player": "kyle schwarber",
       "pitcher": "dylan lee",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "63": {
@@ -1445,8 +1445,8 @@
     "54": {
       "player": "nick gonzales",
       "pitcher": "justin slaten",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "53": {
       "player": "jared triolo",
@@ -1768,6 +1768,18 @@
     }
   },
   "sea @ cle": {
+    "53": {
+      "player": "nolan jones",
+      "pitcher": "george kirby",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "52": {
+      "player": "cj kayfus",
+      "pitcher": "george kirby",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "51": {
       "player": "jp crawford",
       "pitcher": "jakob junis",
@@ -2079,8 +2091,8 @@
     "46": {
       "player": "xavier edwards",
       "pitcher": "jonah tong",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "45": {
       "player": "joey wiemer",
@@ -2956,6 +2968,12 @@
     }
   },
   "chc @ col": {
+    "11": {
+      "player": "dansby swanson",
+      "pitcher": "german marquez",
+      "result": "In play, run(s)",
+      "pitch": "Knuckle Curve"
+    },
     "10": {
       "player": "nico hoerner",
       "pitcher": "german marquez",
