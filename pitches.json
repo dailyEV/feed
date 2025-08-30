@@ -419,8 +419,8 @@
     "63": {
       "player": "brandon lowe",
       "pitcher": "cole henry",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "62": {
       "player": "yandy diaz",
@@ -799,7 +799,7 @@
     "64": {
       "player": "kyle schwarber",
       "pitcher": "dylan lee",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "63": {
@@ -1801,7 +1801,7 @@
     "53": {
       "player": "nolan jones",
       "pitcher": "george kirby",
-      "result": "In play, run(s)",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -2118,11 +2118,17 @@
     }
   },
   "mia @ nym": {
+    "47": {
+      "player": "jakob marsee",
+      "pitcher": "jonah tong",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "xavier edwards",
       "pitcher": "jonah tong",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "joey wiemer",
