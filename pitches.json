@@ -1098,12 +1098,6 @@
     }
   },
   "mil @ tor": {
-    "42": {
-      "player": "caleb durbin",
-      "pitcher": "louis varland",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
-    },
     "41": {
       "player": "sal frelick",
       "pitcher": "brendon little",
@@ -1657,8 +1651,8 @@
     "48": {
       "player": "angel martinez",
       "pitcher": "george kirby",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "bo naylor",
@@ -2356,11 +2350,23 @@
     }
   },
   "laa @ hou": {
+    "18": {
+      "player": "zach neto",
+      "pitcher": "cristian javier",
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
+    },
+    "17": {
+      "player": "bryce teodosio",
+      "pitcher": "cristian javier",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "niko kavadas",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "cam smith",
@@ -2564,6 +2570,12 @@
     }
   },
   "sd @ min": {
+    "20": {
+      "player": "kody clemens",
+      "pitcher": "nestor cortes",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "manny machado",
       "pitcher": "zebby matthews",
