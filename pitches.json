@@ -3,7 +3,7 @@
     "79": {
       "player": "will banfield",
       "pitcher": "matt svanson",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "78": {
@@ -476,6 +476,12 @@
     }
   },
   "tb @ wsh": {
+    "74": {
+      "player": "junior caminero",
+      "pitcher": "orlando ribalta",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "73": {
       "player": "chandler simpson",
       "pitcher": "pj poulin",
@@ -1353,8 +1359,8 @@
     "59": {
       "player": "andres gimenez",
       "pitcher": "aaron ashby",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "58": {
       "player": "davis schneider",
@@ -1706,6 +1712,18 @@
     }
   },
   "pit @ bos": {
+    "66": {
+      "player": "jarren duran",
+      "pitcher": "isaac mattson",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
+    "65": {
+      "player": "alex bregman",
+      "pitcher": "isaac mattson",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "isiah kiner falefa",
       "pitcher": "justin wilson",
@@ -2092,16 +2110,10 @@
     }
   },
   "sea @ cle": {
-    "65": {
-      "player": "cj kayfus",
-      "pitcher": "matt brash",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "64": {
       "player": "angel martinez",
       "pitcher": "matt brash",
-      "result": "In play, run(s)",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "63": {
@@ -2487,8 +2499,8 @@
     "59": {
       "player": "brandon nimmo",
       "pitcher": "valente bellozo",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "joey wiemer",
@@ -3760,12 +3772,6 @@
     }
   },
   "chc @ col": {
-    "27": {
-      "player": "ian happ",
-      "pitcher": "german marquez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "26": {
       "player": "jordan beck",
       "pitcher": "cade horton",
