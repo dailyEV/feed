@@ -5799,7 +5799,7 @@
     "48": {
       "player": "jacob wilson",
       "pitcher": "jack leiter",
-      "result": "Ball In Dirt",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "47": {
@@ -6089,8 +6089,8 @@
     "47": {
       "player": "freddie freeman",
       "pitcher": "zac gallen",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "46": {
       "player": "mookie betts",
@@ -6370,11 +6370,17 @@
     }
   },
   "bal @ sf": {
+    "41": {
+      "player": "dominic smith",
+      "pitcher": "corbin martin",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "40": {
       "player": "matt chapman",
       "pitcher": "corbin martin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": ""
     },
     "39": {
       "player": "rafael devers",
