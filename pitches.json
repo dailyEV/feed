@@ -356,12 +356,6 @@
     }
   },
   "tb @ wsh": {
-    "52": {
-      "player": "josh lowe",
-      "pitcher": "mitchell parker",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "51": {
       "player": "robert hassell",
       "pitcher": "brian van belle",
@@ -1486,12 +1480,6 @@
     }
   },
   "sea @ cle": {
-    "42": {
-      "player": "eugenio suarez",
-      "pitcher": "logan allen",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "41": {
       "player": "daniel schneemann",
       "pitcher": "george kirby",
@@ -2098,10 +2086,16 @@
     }
   },
   "laa @ hou": {
+    "10": {
+      "player": "logan ohoppe",
+      "pitcher": "cristian javier",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "jo adell",
       "pitcher": "cristian javier",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "8": {
@@ -2154,11 +2148,17 @@
     }
   },
   "det @ kc": {
+    "11": {
+      "player": "salvador perez",
+      "pitcher": "chris paddack",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "maikel garcia",
       "pitcher": "chris paddack",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "9": {
       "player": "vinnie pasquantino",
@@ -2216,6 +2216,12 @@
     }
   },
   "sd @ min": {
+    "14": {
+      "player": "royce lewis",
+      "pitcher": "nestor cortes",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "13": {
       "player": "austin martin",
       "pitcher": "nestor cortes",
