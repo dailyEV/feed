@@ -1951,7 +1951,7 @@
     "58": {
       "player": "julio rodriguez",
       "pitcher": "jakob junis",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "57": {
@@ -2624,17 +2624,11 @@
     }
   },
   "nyy @ chw": {
-    "39": {
-      "player": "tim elko",
-      "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "38": {
       "player": "andrew benintendi",
       "pitcher": "carlos rodon",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "37": {
       "player": "giancarlo stanton",
@@ -3024,12 +3018,6 @@
     }
   },
   "det @ kc": {
-    "31": {
-      "player": "maikel garcia",
-      "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "30": {
       "player": "vinnie pasquantino",
       "pitcher": "chris paddack",
@@ -3212,6 +3200,12 @@
     }
   },
   "sd @ min": {
+    "31": {
+      "player": "matt wallner",
+      "pitcher": "nestor cortes",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "jake cronenworth",
       "pitcher": "zebby matthews",
