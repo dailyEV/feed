@@ -401,7 +401,7 @@
     "59": {
       "player": "riley adams",
       "pitcher": "garrett cleavinger",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "58": {
@@ -1394,6 +1394,18 @@
     }
   },
   "pit @ bos": {
+    "52": {
+      "player": "isiah kiner falefa",
+      "pitcher": "justin slaten",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
+    "51": {
+      "player": "oneil cruz",
+      "pitcher": "justin slaten",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "50": {
       "player": "nick sogard",
       "pitcher": "paul skenes",
@@ -1992,6 +2004,12 @@
     }
   },
   "mia @ nym": {
+    "43": {
+      "player": "troy johnston",
+      "pitcher": "jonah tong",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "luis torrens",
       "pitcher": "valente bellozo",
@@ -2788,12 +2806,6 @@
     }
   },
   "chc @ col": {
-    "6": {
-      "player": "ezequiel tovar",
-      "pitcher": "cade horton",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "5": {
       "player": "mickey moniak",
       "pitcher": "cade horton",
