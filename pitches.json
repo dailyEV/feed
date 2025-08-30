@@ -3,8 +3,8 @@
     "61": {
       "player": "spencer steer",
       "pitcher": "gordon graceffo",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "austin hays",
@@ -1513,7 +1513,7 @@
     "43": {
       "player": "josh naylor",
       "pitcher": "logan allen",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "42": {
@@ -1774,7 +1774,7 @@
       "player": "otto lopez",
       "pitcher": "jonah tong",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "36": {
       "player": "starling marte",
@@ -1997,8 +1997,8 @@
     "24": {
       "player": "lenyn sosa",
       "pitcher": "carlos rodon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "chase meidroth",
@@ -2143,8 +2143,8 @@
     "11": {
       "player": "christian moore",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "logan ohoppe",
@@ -2208,6 +2208,12 @@
     }
   },
   "det @ kc": {
+    "13": {
+      "player": "jonathan india",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "adam frazier",
       "pitcher": "chris paddack",
