@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "50": {
+      "player": "jose trevino",
+      "pitcher": "matthew liberatore",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "49": {
       "player": "spencer steer",
       "pitcher": "matthew liberatore",
@@ -544,6 +550,12 @@
     }
   },
   "atl @ phi": {
+    "43": {
+      "player": "kyle schwarber",
+      "pitcher": "bryce elder",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "42": {
       "player": "trea turner",
       "pitcher": "bryce elder",
@@ -968,6 +980,12 @@
     }
   },
   "pit @ bos": {
+    "35": {
+      "player": "liover peguero",
+      "pitcher": "payton tolle",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "henry davis",
       "pitcher": "payton tolle",
@@ -1177,8 +1195,8 @@
     "30": {
       "player": "jp crawford",
       "pitcher": "logan allen",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "29": {
       "player": "dominic canzone",
@@ -1359,8 +1377,8 @@
     "27": {
       "player": "juan soto",
       "pitcher": "valente bellozo",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "francisco lindor",
@@ -1615,8 +1633,8 @@
     "1": {
       "player": "zach neto",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     }
   },
   "det @ kc": {
@@ -1627,7 +1645,14 @@
       "pitch": "Changeup"
     }
   },
-  "sd @ min": {},
+  "sd @ min": {
+    "1": {
+      "player": "fernando tatis",
+      "pitcher": "zebby matthews",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "chc @ col": {},
   "tex @ ath": {},
   "ari @ lad": {},
