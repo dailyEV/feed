@@ -488,6 +488,12 @@
     }
   },
   "tb @ wsh": {
+    "76": {
+      "player": "cj abrams",
+      "pitcher": "pete fairbanks",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "75": {
       "player": "james wood",
       "pitcher": "pete fairbanks",
@@ -1377,8 +1383,8 @@
     "61": {
       "player": "isaac collins",
       "pitcher": "tommy nance",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "60": {
       "player": "caleb durbin",
@@ -2565,8 +2571,8 @@
     "63": {
       "player": "luis torrens",
       "pitcher": "valente bellozo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "62": {
       "player": "tyrone taylor",
@@ -3444,6 +3450,12 @@
     }
   },
   "det @ kc": {
+    "39": {
+      "player": "adam frazier",
+      "pitcher": "chris paddack",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "38": {
       "player": "wenceel perez",
       "pitcher": "jonathan bowlan",
@@ -3677,8 +3689,8 @@
     "38": {
       "player": "luke keaschall",
       "pitcher": "david morgan",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "ryan jeffers",
@@ -3904,11 +3916,17 @@
     }
   },
   "chc @ col": {
+    "31": {
+      "player": "reese mcguire",
+      "pitcher": "german marquez",
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
+    },
     "30": {
       "player": "matt shaw",
       "pitcher": "german marquez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "29": {
       "player": "dansby swanson",
