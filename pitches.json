@@ -389,8 +389,8 @@
     "43": {
       "player": "cj abrams",
       "pitcher": "mason englert",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "james wood",
@@ -646,11 +646,17 @@
     }
   },
   "pit @ bos": {
+    "43": {
+      "player": "carlos narvaez",
+      "pitcher": "johan oviedo",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "42": {
       "player": "david hamilton",
       "pitcher": "johan oviedo",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "nick gonzales",
@@ -903,7 +909,7 @@
     "41": {
       "player": "francisco lindor",
       "pitcher": "edward cabrera",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "40": {
