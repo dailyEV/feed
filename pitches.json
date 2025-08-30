@@ -703,8 +703,8 @@
     "58": {
       "player": "rafael marchan",
       "pitcher": "bryce elder",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "57": {
       "player": "bryson stott",
@@ -1053,8 +1053,8 @@
     "40": {
       "player": "andrew vaughn",
       "pitcher": "brendon little",
-      "result": "Ball In Dirt",
-      "pitch": "Knuckle Curve"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "christian yelich",
@@ -1576,6 +1576,12 @@
     }
   },
   "sea @ cle": {
+    "46": {
+      "player": "kyle manzardo",
+      "pitcher": "george kirby",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "jose ramirez",
       "pitcher": "george kirby",
@@ -2242,11 +2248,17 @@
     }
   },
   "laa @ hou": {
+    "15": {
+      "player": "cam smith",
+      "pitcher": "tyler anderson",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "14": {
       "player": "yainer diaz",
       "pitcher": "tyler anderson",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "jesus sanchez",
@@ -2417,8 +2429,8 @@
     "17": {
       "player": "fernando tatis",
       "pitcher": "zebby matthews",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "freddy fermin",
