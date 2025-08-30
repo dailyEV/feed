@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "77": {
+      "player": "austin hays",
+      "pitcher": "matt svanson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "76": {
       "player": "nathan church",
       "pitcher": "emilio pagan",
@@ -461,7 +467,7 @@
     "71": {
       "player": "everson pereira",
       "pitcher": "pj poulin",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "70": {
@@ -1320,6 +1326,12 @@
     }
   },
   "mil @ tor": {
+    "57": {
+      "player": "nathan lukes",
+      "pitcher": "aaron ashby",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "56": {
       "player": "alejandro kirk",
       "pitcher": "aaron ashby",
@@ -1658,10 +1670,16 @@
     }
   },
   "pit @ bos": {
+    "63": {
+      "player": "oneil cruz",
+      "pitcher": "justin wilson",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "henry davis",
       "pitcher": "jordan hicks",
-      "result": "In play, out(s)",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "61": {
@@ -2409,8 +2427,8 @@
     "57": {
       "player": "eric wagaman",
       "pitcher": "ryan helsley",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "troy johnston",
@@ -2750,6 +2768,12 @@
     }
   },
   "nyy @ chw": {
+    "44": {
+      "player": "jazz chisholm",
+      "pitcher": "grant taylor",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "43": {
       "player": "lenyn sosa",
       "pitcher": "carlos rodon",
@@ -3202,7 +3226,7 @@
       "player": "kerry carpenter",
       "pitcher": "seth lugo",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Slurve"
     },
     "34": {
       "player": "gleyber torres",
@@ -3410,6 +3434,12 @@
     }
   },
   "sd @ min": {
+    "33": {
+      "player": "royce lewis",
+      "pitcher": "wandy peralta",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "32": {
       "player": "austin martin",
       "pitcher": "nestor cortes",
