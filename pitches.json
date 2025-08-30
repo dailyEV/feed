@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "51": {
+      "player": "kebryan hayes",
+      "pitcher": "jorge alcala",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "50": {
       "player": "jose trevino",
       "pitcher": "matthew liberatore",
@@ -305,8 +311,8 @@
     "43": {
       "player": "luis garcia",
       "pitcher": "brian van belle",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "josh bell",
@@ -822,10 +828,16 @@
     }
   },
   "mil @ tor": {
+    "31": {
+      "player": "isaac collins",
+      "pitcher": "shane bieber",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "30": {
       "player": "caleb durbin",
       "pitcher": "shane bieber",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "29": {
@@ -1222,6 +1234,12 @@
     }
   },
   "sea @ cle": {
+    "31": {
+      "player": "kyle manzardo",
+      "pitcher": "george kirby",
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
+    },
     "30": {
       "player": "jp crawford",
       "pitcher": "logan allen",
@@ -1231,7 +1249,7 @@
     "29": {
       "player": "dominic canzone",
       "pitcher": "logan allen",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Sweeper"
     },
     "28": {
@@ -1578,7 +1596,7 @@
       "player": "austin wells",
       "pitcher": "yoendrys gomez",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "15": {
       "player": "tim elko",
@@ -1692,6 +1710,12 @@
     }
   },
   "det @ kc": {
+    "5": {
+      "player": "spencer torkelson",
+      "pitcher": "seth lugo",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "riley greene",
       "pitcher": "seth lugo",
@@ -1718,6 +1742,12 @@
     }
   },
   "sd @ min": {
+    "4": {
+      "player": "ryan ohearn",
+      "pitcher": "zebby matthews",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "manny machado",
       "pitcher": "zebby matthews",
