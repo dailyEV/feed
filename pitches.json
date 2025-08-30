@@ -5799,8 +5799,8 @@
     "66": {
       "player": "rowdy tellez",
       "pitcher": "brady basso",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "65": {
       "player": "jonah heim",
@@ -6194,10 +6194,16 @@
     }
   },
   "ari @ lad": {
+    "62": {
+      "player": "mookie betts",
+      "pitcher": "kyle backhus",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "61": {
       "player": "shohei ohtani",
       "pitcher": "kyle backhus",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "60": {
@@ -6562,6 +6568,12 @@
     }
   },
   "bal @ sf": {
+    "62": {
+      "player": "jeremiah jackson",
+      "pitcher": "matt gage",
+      "result": "Foul Tip",
+      "pitch": "Changeup"
+    },
     "61": {
       "player": "jackson holliday",
       "pitcher": "matt gage",
