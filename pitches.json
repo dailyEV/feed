@@ -1,5 +1,17 @@
 {
   "mil @ tor": {
+    "31": {
+      "player": "isaac collins",
+      "pitcher": "kevin gausman",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "30": {
+      "player": "andrew vaughn",
+      "pitcher": "kevin gausman",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "alejandro kirk",
       "pitcher": "quinn priester",
@@ -173,7 +185,7 @@
     "4": {
       "player": "junior caminero",
       "pitcher": "jake irvin",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "3": {
@@ -196,7 +208,14 @@
     }
   },
   "pit @ bos": {},
-  "mia @ nym": {},
+  "mia @ nym": {
+    "1": {
+      "player": "xavier edwards",
+      "pitcher": "david peterson",
+      "result": "Foul",
+      "pitch": "Sinker"
+    }
+  },
   "atl @ phi": {},
   "stl @ cin": {},
   "laa @ hou": {},
