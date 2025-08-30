@@ -1859,8 +1859,8 @@
     "45": {
       "player": "sean murphy",
       "pitcher": "cristopher sanchez",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "44": {
       "player": "bryce harper",
@@ -2131,8 +2131,8 @@
     "29": {
       "player": "pedro pages",
       "pitcher": "andrew abbott",
-      "result": "Hit By Pitch",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "thomas saggese",
@@ -2387,8 +2387,8 @@
     "16": {
       "player": "royce lewis",
       "pitcher": "nick pivetta",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Sinker"
     },
     "15": {
       "player": "kody clemens",
@@ -2572,7 +2572,7 @@
       "player": "adam frazier",
       "pitcher": "jack flaherty",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "11": {
       "player": "salvador perez",
@@ -2646,7 +2646,7 @@
       "player": "david fry",
       "pitcher": "logan gilbert",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "12": {
       "player": "bo naylor",
@@ -2722,6 +2722,12 @@
     }
   },
   "bal @ sf": {
+    "15": {
+      "player": "jung hoo lee",
+      "pitcher": "trevor rogers",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "14": {
       "player": "casey schmitt",
       "pitcher": "trevor rogers",
