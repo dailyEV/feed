@@ -326,11 +326,17 @@
     }
   },
   "tb @ wsh": {
+    "48": {
+      "player": "carson williams",
+      "pitcher": "mitchell parker",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "christopher morel",
       "pitcher": "mitchell parker",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "brandon lowe",
@@ -1088,6 +1094,12 @@
     }
   },
   "pit @ bos": {
+    "40": {
+      "player": "trevor story",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "39": {
       "player": "jarren duran",
       "pitcher": "paul skenes",
@@ -1327,7 +1339,7 @@
     "35": {
       "player": "randy arozarena",
       "pitcher": "logan allen",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "34": {
@@ -1539,8 +1551,8 @@
     "31": {
       "player": "jakob marsee",
       "pitcher": "jonah tong",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "xavier edwards",
@@ -1724,6 +1736,12 @@
     }
   },
   "nyy @ chw": {
+    "19": {
+      "player": "cody bellinger",
+      "pitcher": "yoendrys gomez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "18": {
       "player": "aaron judge",
       "pitcher": "yoendrys gomez",
@@ -1837,8 +1855,8 @@
     "5": {
       "player": "jeremy pena",
       "pitcher": "tyler anderson",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "4": {
       "player": "yoan moncada",
@@ -1907,8 +1925,8 @@
     "7": {
       "player": "luke keaschall",
       "pitcher": "nestor cortes",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "ryan jeffers",
