@@ -377,8 +377,8 @@
     "53": {
       "player": "everson pereira",
       "pitcher": "clayton beeter",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "josh lowe",
@@ -1032,12 +1032,6 @@
     }
   },
   "mil @ tor": {
-    "39": {
-      "player": "christian yelich",
-      "pitcher": "brendon little",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "38": {
       "player": "william contreras",
       "pitcher": "shane bieber",
@@ -1268,6 +1262,12 @@
     }
   },
   "pit @ bos": {
+    "46": {
+      "player": "spencer horwitz",
+      "pitcher": "greg weissert",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "45": {
       "player": "andrew mccutchen",
       "pitcher": "greg weissert",
@@ -1803,7 +1803,7 @@
     "38": {
       "player": "liam hicks",
       "pitcher": "jonah tong",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "37": {
@@ -2182,6 +2182,12 @@
     }
   },
   "laa @ hou": {
+    "12": {
+      "player": "christian walker",
+      "pitcher": "tyler anderson",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "christian moore",
       "pitcher": "cristian javier",
@@ -2330,11 +2336,17 @@
     }
   },
   "sd @ min": {
-    "15": {
-      "player": "jake cronenworth",
+    "16": {
+      "player": "freddy fermin",
       "pitcher": "zebby matthews",
       "result": "Foul",
       "pitch": "Slider"
+    },
+    "15": {
+      "player": "jake cronenworth",
+      "pitcher": "zebby matthews",
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "royce lewis",
