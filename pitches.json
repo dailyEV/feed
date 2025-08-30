@@ -1594,17 +1594,11 @@
     }
   },
   "sea @ cle": {
-    "47": {
-      "player": "bo naylor",
-      "pitcher": "george kirby",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "46": {
       "player": "kyle manzardo",
       "pitcher": "george kirby",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "45": {
       "player": "jose ramirez",
@@ -1878,6 +1872,12 @@
     }
   },
   "mia @ nym": {
+    "39": {
+      "player": "connor norby",
+      "pitcher": "jonah tong",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "liam hicks",
       "pitcher": "jonah tong",
@@ -2112,7 +2112,7 @@
       "player": "jazz chisholm",
       "pitcher": "yoendrys gomez",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "giancarlo stanton",
@@ -2358,11 +2358,17 @@
     }
   },
   "det @ kc": {
+    "15": {
+      "player": "zach mckinstry",
+      "pitcher": "seth lugo",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "dillon dingler",
       "pitcher": "seth lugo",
-      "result": "Foul",
-      "pitch": "Slurve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "jonathan india",
@@ -2547,7 +2553,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "chc @ col": {},
+  "chc @ col": {
+    "1": {
+      "player": "michael busch",
+      "pitcher": "german marquez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "tex @ ath": {},
   "ari @ lad": {},
   "bal @ sf": {}
