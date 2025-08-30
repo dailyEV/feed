@@ -4,7 +4,7 @@
       "player": "noelvi marte",
       "pitcher": "jojo romero",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "70": {
       "player": "tj friedl",
@@ -814,6 +814,12 @@
     }
   },
   "atl @ phi": {
+    "67": {
+      "player": "brandon marsh",
+      "pitcher": "pierce johnson",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "66": {
       "player": "alec bohm",
       "pitcher": "pierce johnson",
@@ -1212,6 +1218,12 @@
     }
   },
   "mil @ tor": {
+    "51": {
+      "player": "christian yelich",
+      "pitcher": "justin bruihl",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "50": {
       "player": "william contreras",
       "pitcher": "justin bruihl",
@@ -1517,7 +1529,7 @@
     "57": {
       "player": "connor wong",
       "pitcher": "dauri moreta",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -1858,6 +1870,12 @@
     }
   },
   "sea @ cle": {
+    "55": {
+      "player": "steven kwan",
+      "pitcher": "george kirby",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "54": {
       "player": "brayan rocchio",
       "pitcher": "george kirby",
@@ -2489,8 +2507,8 @@
     "36": {
       "player": "ben rice",
       "pitcher": "brandon eisert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "35": {
       "player": "cody bellinger",
@@ -2704,6 +2722,18 @@
     }
   },
   "laa @ hou": {
+    "24": {
+      "player": "taylor ward",
+      "pitcher": "cristian javier",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
+    "23": {
+      "player": "mike trout",
+      "pitcher": "cristian javier",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "jose altuve",
       "pitcher": "tyler anderson",
@@ -2841,8 +2871,8 @@
     "26": {
       "player": "wenceel perez",
       "pitcher": "seth lugo",
-      "result": "Swinging Strike",
-      "pitch": "Slurve"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "25": {
       "player": "spencer torkelson",
@@ -2999,8 +3029,8 @@
     "28": {
       "player": "gavin sheets",
       "pitcher": "zebby matthews",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "27": {
       "player": "ramon laureano",
