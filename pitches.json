@@ -3,7 +3,7 @@
     "50": {
       "player": "jose trevino",
       "pitcher": "matthew liberatore",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "49": {
@@ -1383,8 +1383,8 @@
     "27": {
       "player": "juan soto",
       "pitcher": "valente bellozo",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "francisco lindor",
@@ -1639,11 +1639,17 @@
     "1": {
       "player": "zach neto",
       "pitcher": "cristian javier",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     }
   },
   "det @ kc": {
+    "2": {
+      "player": "gleyber torres",
+      "pitcher": "seth lugo",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "colt keith",
       "pitcher": "seth lugo",
@@ -1652,6 +1658,12 @@
     }
   },
   "sd @ min": {
+    "2": {
+      "player": "luis arraez",
+      "pitcher": "zebby matthews",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "1": {
       "player": "fernando tatis",
       "pitcher": "zebby matthews",
