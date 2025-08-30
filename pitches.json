@@ -3365,8 +3365,8 @@
     "77": {
       "player": "jazz chisholm",
       "pitcher": "korey lee",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "76": {
       "player": "jose caballero",
@@ -3829,7 +3829,7 @@
     "63": {
       "player": "mike trout",
       "pitcher": "craig kimbrel",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -4960,6 +4960,12 @@
     }
   },
   "chc @ col": {
+    "62": {
+      "player": "dansby swanson",
+      "pitcher": "antonio senzatela",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "61": {
       "player": "mickey moniak",
       "pitcher": "ben brown",
@@ -5328,6 +5334,12 @@
     }
   },
   "tex @ ath": {
+    "14": {
+      "player": "jacob wilson",
+      "pitcher": "jack leiter",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "tyler soderstrom",
       "pitcher": "jack leiter",
@@ -5408,6 +5420,12 @@
     }
   },
   "ari @ lad": {
+    "11": {
+      "player": "will smith",
+      "pitcher": "zac gallen",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "tyler locklear",
       "pitcher": "blake snell",
@@ -5473,8 +5491,8 @@
     "6": {
       "player": "jung hoo lee",
       "pitcher": "dean kremer",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "5": {
       "player": "emmanuel rivera",
