@@ -3826,16 +3826,10 @@
     }
   },
   "laa @ hou": {
-    "64": {
-      "player": "taylor ward",
-      "pitcher": "craig kimbrel",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "63": {
       "player": "mike trout",
       "pitcher": "craig kimbrel",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -4607,8 +4601,8 @@
     "61": {
       "player": "jake cronenworth",
       "pitcher": "justin topa",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "jose iglesias",
@@ -4975,8 +4969,8 @@
     "62": {
       "player": "dansby swanson",
       "pitcher": "antonio senzatela",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "61": {
       "player": "mickey moniak",
@@ -5349,8 +5343,8 @@
     "14": {
       "player": "jacob wilson",
       "pitcher": "jack leiter",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "13": {
       "player": "tyler soderstrom",
@@ -5432,6 +5426,12 @@
     }
   },
   "ari @ lad": {
+    "11": {
+      "player": "will smith",
+      "pitcher": "zac gallen",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "tyler locklear",
       "pitcher": "blake snell",
@@ -5498,7 +5498,7 @@
       "player": "jung hoo lee",
       "pitcher": "dean kremer",
       "result": "Ball",
-      "pitch": "Splitter"
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "emmanuel rivera",
