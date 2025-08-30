@@ -2242,12 +2242,6 @@
     }
   },
   "sea @ cle": {
-    "71": {
-      "player": "nolan jones",
-      "pitcher": "andres munoz",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "70": {
       "player": "jp crawford",
       "pitcher": "tim herrin",
@@ -2670,11 +2664,17 @@
     }
   },
   "mia @ nym": {
+    "66": {
+      "player": "agustin ramirez",
+      "pitcher": "jose castillo",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "65": {
       "player": "jakob marsee",
       "pitcher": "jose castillo",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "64": {
       "player": "xavier edwards",
@@ -3062,12 +3062,6 @@
     }
   },
   "nyy @ chw": {
-    "50": {
-      "player": "cody bellinger",
-      "pitcher": "mike vasil",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "49": {
       "player": "aaron judge",
       "pitcher": "mike vasil",
@@ -3364,6 +3358,12 @@
     }
   },
   "laa @ hou": {
+    "40": {
+      "player": "carlos correa",
+      "pitcher": "tyler anderson",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "39": {
       "player": "jose altuve",
       "pitcher": "tyler anderson",
@@ -4090,6 +4090,12 @@
     }
   },
   "chc @ col": {
+    "36": {
+      "player": "orlando arcia",
+      "pitcher": "cade horton",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "yanquiel fernandez",
       "pitcher": "cade horton",
