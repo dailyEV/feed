@@ -1317,8 +1317,8 @@
     "83": {
       "player": "jakob marsee",
       "pitcher": "edwin diaz",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "82": {
       "player": "connor norby",
@@ -1817,8 +1817,8 @@
     "32": {
       "player": "nacho alvarez",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "michael harris",
@@ -2011,7 +2011,7 @@
     "17": {
       "player": "matt mclain",
       "pitcher": "michael mcgreevy",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "Sweeper"
     },
     "16": {
@@ -2152,6 +2152,12 @@
     }
   },
   "nyy @ chw": {
+    "3": {
+      "player": "aaron judge",
+      "pitcher": "shane smith",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "ben rice",
       "pitcher": "shane smith",
