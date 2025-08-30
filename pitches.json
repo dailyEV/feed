@@ -3,7 +3,7 @@
     "68": {
       "player": "kebryan hayes",
       "pitcher": "gordon graceffo",
-      "result": "In play, run(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -787,8 +787,8 @@
     "64": {
       "player": "kyle schwarber",
       "pitcher": "dylan lee",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "63": {
       "player": "trea turner",
@@ -1170,6 +1170,18 @@
     }
   },
   "mil @ tor": {
+    "47": {
+      "player": "vladimir guerrero",
+      "pitcher": "freddy peralta",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "46": {
+      "player": "addison barger",
+      "pitcher": "freddy peralta",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "45": {
       "player": "george springer",
       "pitcher": "freddy peralta",
@@ -1771,8 +1783,8 @@
     "53": {
       "player": "nolan jones",
       "pitcher": "george kirby",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "52": {
       "player": "cj kayfus",
@@ -2091,8 +2103,8 @@
     "46": {
       "player": "xavier edwards",
       "pitcher": "jonah tong",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "joey wiemer",
@@ -2560,12 +2572,6 @@
     }
   },
   "laa @ hou": {
-    "22": {
-      "player": "jose altuve",
-      "pitcher": "tyler anderson",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "21": {
       "player": "yordan alvarez",
       "pitcher": "tyler anderson",
@@ -2694,11 +2700,17 @@
     }
   },
   "det @ kc": {
+    "23": {
+      "player": "mike yastrzemski",
+      "pitcher": "chris paddack",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "22": {
       "player": "kyle isbel",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "21": {
       "player": "michael massey",
