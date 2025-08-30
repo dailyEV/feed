@@ -497,8 +497,8 @@
     "76": {
       "player": "cj abrams",
       "pitcher": "pete fairbanks",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "75": {
       "player": "james wood",
@@ -1389,8 +1389,8 @@
     "61": {
       "player": "isaac collins",
       "pitcher": "tommy nance",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "60": {
       "player": "caleb durbin",
@@ -2170,10 +2170,16 @@
     }
   },
   "sea @ cle": {
+    "69": {
+      "player": "dominic canzone",
+      "pitcher": "tim herrin",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "68": {
       "player": "mitch garver",
       "pitcher": "tim herrin",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "67": {
@@ -3937,8 +3943,8 @@
     "31": {
       "player": "reese mcguire",
       "pitcher": "german marquez",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "matt shaw",
