@@ -1,11 +1,5 @@
 {
   "stl @ cin": {
-    "78": {
-      "player": "spencer steer",
-      "pitcher": "matt svanson",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "77": {
       "player": "austin hays",
       "pitcher": "matt svanson",
@@ -1347,8 +1341,8 @@
     "58": {
       "player": "davis schneider",
       "pitcher": "aaron ashby",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "57": {
       "player": "nathan lukes",
@@ -3082,6 +3076,18 @@
     }
   },
   "laa @ hou": {
+    "34": {
+      "player": "niko kavadas",
+      "pitcher": "cristian javier",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "33": {
+      "player": "christian moore",
+      "pitcher": "cristian javier",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "logan ohoppe",
       "pitcher": "cristian javier",
@@ -3712,11 +3718,17 @@
     }
   },
   "chc @ col": {
+    "26": {
+      "player": "jordan beck",
+      "pitcher": "cade horton",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "hunter goodman",
       "pitcher": "cade horton",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "24": {
       "player": "ezequiel tovar",
