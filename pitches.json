@@ -467,7 +467,7 @@
     "72": {
       "player": "nick fortes",
       "pitcher": "pj poulin",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "71": {
@@ -1685,8 +1685,8 @@
     "64": {
       "player": "isiah kiner falefa",
       "pitcher": "justin wilson",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "63": {
       "player": "oneil cruz",
@@ -2798,10 +2798,16 @@
     }
   },
   "nyy @ chw": {
+    "45": {
+      "player": "ryan mcmahon",
+      "pitcher": "grant taylor",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "jazz chisholm",
       "pitcher": "grant taylor",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -3064,11 +3070,17 @@
     }
   },
   "laa @ hou": {
+    "33": {
+      "player": "christian moore",
+      "pitcher": "cristian javier",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "logan ohoppe",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "cam smith",
