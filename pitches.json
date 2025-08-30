@@ -808,12 +808,6 @@
     }
   },
   "pit @ bos": {
-    "84": {
-      "player": "alex bregman",
-      "pitcher": "evan sisk",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
     "83": {
       "player": "roman anthony",
       "pitcher": "evan sisk",
@@ -1314,10 +1308,16 @@
     }
   },
   "mia @ nym": {
+    "78": {
+      "player": "brandon nimmo",
+      "pitcher": "ronny henriquez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "77": {
       "player": "pete alonso",
       "pitcher": "ronny henriquez",
-      "result": "Ball In Dirt",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "76": {
@@ -1782,7 +1782,7 @@
       "player": "drake baldwin",
       "pitcher": "cristopher sanchez",
       "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "25": {
       "player": "ozzie albies",
