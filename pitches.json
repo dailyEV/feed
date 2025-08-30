@@ -1343,8 +1343,8 @@
     "50": {
       "player": "nick sogard",
       "pitcher": "paul skenes",
-      "result": "Called Strike",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "romy gonzalez",
@@ -1646,7 +1646,7 @@
       "player": "angel martinez",
       "pitcher": "george kirby",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "bo naylor",
@@ -1932,12 +1932,6 @@
     }
   },
   "mia @ nym": {
-    "40": {
-      "player": "brett baty",
-      "pitcher": "valente bellozo",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "39": {
       "player": "connor norby",
       "pitcher": "jonah tong",
@@ -2177,8 +2171,8 @@
     "27": {
       "player": "ryan mcmahon",
       "pitcher": "yoendrys gomez",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "jazz chisholm",
@@ -2341,8 +2335,8 @@
     "16": {
       "player": "niko kavadas",
       "pitcher": "cristian javier",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "15": {
       "player": "cam smith",
@@ -2546,11 +2540,17 @@
     }
   },
   "sd @ min": {
+    "19": {
+      "player": "manny machado",
+      "pitcher": "zebby matthews",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "18": {
       "player": "luis arraez",
       "pitcher": "zebby matthews",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "17": {
       "player": "fernando tatis",
@@ -2656,6 +2656,12 @@
     }
   },
   "chc @ col": {
+    "4": {
+      "player": "pete crow armstrong",
+      "pitcher": "german marquez",
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
+    },
     "3": {
       "player": "seiya suzuki",
       "pitcher": "german marquez",
