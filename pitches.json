@@ -586,12 +586,6 @@
     }
   },
   "atl @ phi": {
-    "46": {
-      "player": "nacho alvarez",
-      "pitcher": "david robertson",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
     "45": {
       "player": "sean murphy",
       "pitcher": "david robertson",
@@ -867,7 +861,7 @@
     "32": {
       "player": "blake perkins",
       "pitcher": "shane bieber",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Knuckle Curve"
     },
     "31": {
@@ -1058,10 +1052,16 @@
     }
   },
   "pit @ bos": {
+    "39": {
+      "player": "jarren duran",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "38": {
       "player": "alex bregman",
       "pitcher": "paul skenes",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "37": {
@@ -1291,8 +1291,8 @@
     "34": {
       "player": "cj kayfus",
       "pitcher": "george kirby",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "33": {
       "player": "angel martinez",
@@ -1780,6 +1780,12 @@
     }
   },
   "laa @ hou": {
+    "5": {
+      "player": "jeremy pena",
+      "pitcher": "tyler anderson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "yoan moncada",
       "pitcher": "cristian javier",
@@ -1809,8 +1815,8 @@
     "6": {
       "player": "wenceel perez",
       "pitcher": "seth lugo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "5": {
       "player": "spencer torkelson",
@@ -1844,18 +1850,6 @@
     }
   },
   "sd @ min": {
-    "6": {
-      "player": "ryan jeffers",
-      "pitcher": "nestor cortes",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "5": {
-      "player": "byron buxton",
-      "pitcher": "nestor cortes",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "4": {
       "player": "ryan ohearn",
       "pitcher": "zebby matthews",
