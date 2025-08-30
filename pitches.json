@@ -1856,10 +1856,16 @@
     }
   },
   "atl @ phi": {
+    "50": {
+      "player": "nick castellanos",
+      "pitcher": "tyler kinley",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "49": {
       "player": "alec bohm",
       "pitcher": "tyler kinley",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "48": {
@@ -2358,6 +2364,12 @@
     }
   },
   "laa @ hou": {
+    "20": {
+      "player": "yoan moncada",
+      "pitcher": "spencer arrighetti",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "19": {
       "player": "zach neto",
       "pitcher": "spencer arrighetti",
@@ -2474,6 +2486,18 @@
     }
   },
   "sd @ min": {
+    "22": {
+      "player": "byron buxton",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
+    "21": {
+      "player": "james outman",
+      "pitcher": "nick pivetta",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "20": {
       "player": "brooks lee",
       "pitcher": "nick pivetta",
@@ -2596,6 +2620,12 @@
     }
   },
   "nyy @ chw": {
+    "20": {
+      "player": "mike tauchman",
+      "pitcher": "cam schlittler",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "chase meidroth",
       "pitcher": "cam schlittler",
@@ -2712,6 +2742,12 @@
     }
   },
   "det @ kc": {
+    "18": {
+      "player": "colt keith",
+      "pitcher": "stephen kolek",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "17": {
       "player": "andy ibanez",
       "pitcher": "stephen kolek",
@@ -2929,8 +2965,8 @@
     "21": {
       "player": "colton cowser",
       "pitcher": "carson seymour",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "20": {
       "player": "ryan mountcastle",
