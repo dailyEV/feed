@@ -3365,8 +3365,8 @@
     "80": {
       "player": "chase meidroth",
       "pitcher": "camilo doval",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "79": {
       "player": "brooks baldwin",
@@ -3844,6 +3844,12 @@
     }
   },
   "laa @ hou": {
+    "66": {
+      "player": "jo adell",
+      "pitcher": "kaleb ort",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "65": {
       "player": "yoan moncada",
       "pitcher": "craig kimbrel",
@@ -4236,10 +4242,16 @@
     }
   },
   "det @ kc": {
+    "69": {
+      "player": "javier baez",
+      "pitcher": "taylor clarke",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "68": {
       "player": "zach mckinstry",
       "pitcher": "taylor clarke",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "67": {
@@ -5029,8 +5041,8 @@
     "64": {
       "player": "reese mcguire",
       "pitcher": "antonio senzatela",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "63": {
       "player": "matt shaw",
@@ -5412,12 +5424,6 @@
     }
   },
   "tex @ ath": {
-    "16": {
-      "player": "michael helman",
-      "pitcher": "jeffrey springs",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "15": {
       "player": "colby thomas",
       "pitcher": "jack leiter",
