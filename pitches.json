@@ -553,8 +553,8 @@
     "43": {
       "player": "kyle schwarber",
       "pitcher": "bryce elder",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "trea turner",
@@ -1201,7 +1201,7 @@
     "30": {
       "player": "jp crawford",
       "pitcher": "logan allen",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -1384,7 +1384,7 @@
       "player": "juan soto",
       "pitcher": "valente bellozo",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "26": {
       "player": "francisco lindor",
@@ -1636,11 +1636,17 @@
     }
   },
   "laa @ hou": {
+    "2": {
+      "player": "mike trout",
+      "pitcher": "cristian javier",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "1": {
       "player": "zach neto",
       "pitcher": "cristian javier",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     }
   },
   "det @ kc": {
