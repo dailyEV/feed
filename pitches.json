@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "62": {
+      "player": "will banfield",
+      "pitcher": "gordon graceffo",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "61": {
       "player": "spencer steer",
       "pitcher": "gordon graceffo",
@@ -1026,6 +1032,12 @@
     }
   },
   "mil @ tor": {
+    "39": {
+      "player": "christian yelich",
+      "pitcher": "brendon little",
+      "result": "Ball In Dirt",
+      "pitch": "Knuckle Curve"
+    },
     "38": {
       "player": "william contreras",
       "pitcher": "shane bieber",
@@ -1528,16 +1540,10 @@
     }
   },
   "sea @ cle": {
-    "44": {
-      "player": "jorge polanco",
-      "pitcher": "logan allen",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "43": {
       "player": "josh naylor",
       "pitcher": "logan allen",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "42": {
@@ -1794,11 +1800,17 @@
     }
   },
   "mia @ nym": {
+    "38": {
+      "player": "liam hicks",
+      "pitcher": "jonah tong",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "otto lopez",
       "pitcher": "jonah tong",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "36": {
       "player": "starling marte",
@@ -2235,8 +2247,8 @@
     "13": {
       "player": "jonathan india",
       "pitcher": "chris paddack",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "12": {
       "player": "adam frazier",
@@ -2312,12 +2324,6 @@
     }
   },
   "sd @ min": {
-    "15": {
-      "player": "jake cronenworth",
-      "pitcher": "zebby matthews",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "14": {
       "player": "royce lewis",
       "pitcher": "nestor cortes",
