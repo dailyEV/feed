@@ -455,8 +455,8 @@
     "54": {
       "player": "jake cronenworth",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "53": {
       "player": "matt wallner",
@@ -1334,11 +1334,17 @@
     }
   },
   "mil @ tor": {
+    "48": {
+      "player": "isaac collins",
+      "pitcher": "tommy nance",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "47": {
       "player": "andrew vaughn",
       "pitcher": "tommy nance",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "46": {
       "player": "sal frelick",
@@ -1618,6 +1624,12 @@
     }
   },
   "sea @ cle": {
+    "45": {
+      "player": "jose ramirez",
+      "pitcher": "bryce miller",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "daniel schneemann",
       "pitcher": "bryce miller",
@@ -1887,8 +1899,8 @@
     "38": {
       "player": "mark vientos",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "liam hicks",
