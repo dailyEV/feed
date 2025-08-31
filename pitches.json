@@ -2804,6 +2804,18 @@
     }
   },
   "sd @ min": {
+    "42": {
+      "player": "manny machado",
+      "pitcher": "mick abel",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
+    "41": {
+      "player": "luis arraez",
+      "pitcher": "mick abel",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "40": {
       "player": "luke keaschall",
       "pitcher": "nick pivetta",
@@ -3276,12 +3288,6 @@
     }
   },
   "det @ kc": {
-    "37": {
-      "player": "kyle isbel",
-      "pitcher": "jack flaherty",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "36": {
       "player": "randal grichuk",
       "pitcher": "jack flaherty",
@@ -3703,8 +3709,8 @@
     "42": {
       "player": "luis matos",
       "pitcher": "trevor rogers",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "jung hoo lee",
@@ -3957,8 +3963,8 @@
     "2": {
       "player": "kyle tucker",
       "pitcher": "mccade brown",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "1": {
       "player": "michael busch",
