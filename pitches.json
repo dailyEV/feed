@@ -1859,8 +1859,8 @@
     "56": {
       "player": "bryson stott",
       "pitcher": "pierce johnson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "55": {
       "player": "harrison bader",
@@ -2197,8 +2197,8 @@
     "42": {
       "player": "noelvi marte",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "41": {
       "player": "tj friedl",
@@ -2451,7 +2451,7 @@
     "27": {
       "player": "mike trout",
       "pitcher": "spencer arrighetti",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -2782,6 +2782,12 @@
     }
   },
   "nyy @ chw": {
+    "26": {
+      "player": "jazz chisholm",
+      "pitcher": "shane smith",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "25": {
       "player": "cody bellinger",
       "pitcher": "shane smith",
@@ -2934,6 +2940,12 @@
     }
   },
   "det @ kc": {
+    "25": {
+      "player": "riley greene",
+      "pitcher": "stephen kolek",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "spencer torkelson",
       "pitcher": "stephen kolek",
@@ -3083,8 +3095,8 @@
     "23": {
       "player": "josh naylor",
       "pitcher": "gavin williams",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "22": {
       "player": "julio rodriguez",
