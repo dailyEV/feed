@@ -535,8 +535,8 @@
     "19": {
       "player": "carlos narvaez",
       "pitcher": "mitch keller",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "ceddanne rafaela",
@@ -883,7 +883,7 @@
     "15": {
       "player": "cj kayfus",
       "pitcher": "bryce miller",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Knuckle Curve"
     },
     "14": {
@@ -1059,7 +1059,14 @@
       "pitch": "Sinker"
     }
   },
-  "det @ kc": {},
+  "det @ kc": {
+    "1": {
+      "player": "colt keith",
+      "pitcher": "michael wacha",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "nyy @ chw": {},
   "chc @ col": {},
   "bal @ sf": {},
