@@ -793,7 +793,7 @@
     "46": {
       "player": "oneil cruz",
       "pitcher": "lucas giolito",
-      "result": "Ball In Dirt",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "45": {
@@ -1923,8 +1923,8 @@
     "40": {
       "player": "cedric mullins",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "39": {
       "player": "brett baty",
@@ -2162,6 +2162,12 @@
     }
   },
   "laa @ hou": {
+    "27": {
+      "player": "luis rengifo",
+      "pitcher": "hunter brown",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "26": {
       "player": "jo adell",
       "pitcher": "hunter brown",
@@ -2320,11 +2326,23 @@
     }
   },
   "det @ kc": {
+    "32": {
+      "player": "zach mckinstry",
+      "pitcher": "michael wacha",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
+    "31": {
+      "player": "wenceel perez",
+      "pitcher": "michael wacha",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "30": {
       "player": "spencer torkelson",
       "pitcher": "michael wacha",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "luke maile",
@@ -2502,12 +2520,6 @@
     }
   },
   "nyy @ chw": {
-    "29": {
-      "player": "jazz chisholm",
-      "pitcher": "martin perez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "28": {
       "player": "amed rosario",
       "pitcher": "martin perez",
