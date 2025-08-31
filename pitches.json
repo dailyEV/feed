@@ -2646,12 +2646,6 @@
     }
   },
   "mia @ nym": {
-    "68": {
-      "player": "xavier edwards",
-      "pitcher": "brandon waddell",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
     "67": {
       "player": "javier sanoja",
       "pitcher": "brandon waddell",
@@ -3391,8 +3385,8 @@
     "60": {
       "player": "zach mckinstry",
       "pitcher": "sam long",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Hit By Pitch",
+      "pitch": "Slider"
     },
     "59": {
       "player": "wenceel perez",
@@ -3750,6 +3744,12 @@
     }
   },
   "nyy @ chw": {
+    "57": {
+      "player": "cody bellinger",
+      "pitcher": "wikelman gonzalez",
+      "result": "Ball",
+      "pitch": "Slurve"
+    },
     "56": {
       "player": "michael a taylor",
       "pitcher": "fernando cruz",
@@ -4291,7 +4291,7 @@
     "4": {
       "player": "ryan mountcastle",
       "pitcher": "justin verlander",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -4337,8 +4337,8 @@
     "1": {
       "player": "geraldo perdomo",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     }
   },
   "atl @ phi": {}
