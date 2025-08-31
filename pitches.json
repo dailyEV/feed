@@ -2233,8 +2233,8 @@
     "52": {
       "player": "spencer steer",
       "pitcher": "michael mcgreevy",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "51": {
       "player": "gavin lux",
@@ -2780,16 +2780,10 @@
     }
   },
   "sd @ min": {
-    "40": {
-      "player": "luke keaschall",
-      "pitcher": "nick pivetta",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "39": {
       "player": "trevor larnach",
       "pitcher": "nick pivetta",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -3243,7 +3237,7 @@
     "35": {
       "player": "michael massey",
       "pitcher": "jack flaherty",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -3452,6 +3446,12 @@
     }
   },
   "sea @ cle": {
+    "32": {
+      "player": "jp crawford",
+      "pitcher": "gavin williams",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "luke raley",
       "pitcher": "gavin williams",
