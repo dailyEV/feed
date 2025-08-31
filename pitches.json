@@ -1859,8 +1859,8 @@
     "56": {
       "player": "bryson stott",
       "pitcher": "pierce johnson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "55": {
       "player": "harrison bader",
@@ -2451,8 +2451,8 @@
     "27": {
       "player": "mike trout",
       "pitcher": "spencer arrighetti",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "christian walker",
@@ -2612,6 +2612,12 @@
     }
   },
   "sd @ min": {
+    "29": {
+      "player": "ryan jeffers",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "gavin sheets",
       "pitcher": "taj bradley",
@@ -2782,17 +2788,11 @@
     }
   },
   "nyy @ chw": {
-    "27": {
-      "player": "austin wells",
-      "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "26": {
       "player": "jazz chisholm",
       "pitcher": "shane smith",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "25": {
       "player": "cody bellinger",
@@ -2946,11 +2946,17 @@
     }
   },
   "det @ kc": {
+    "26": {
+      "player": "wenceel perez",
+      "pitcher": "stephen kolek",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "25": {
       "player": "riley greene",
       "pitcher": "stephen kolek",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "24": {
       "player": "spencer torkelson",
@@ -3101,7 +3107,7 @@
     "24": {
       "player": "eugenio suarez",
       "pitcher": "gavin williams",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "23": {
@@ -3244,6 +3250,18 @@
     }
   },
   "bal @ sf": {
+    "30": {
+      "player": "daniel johnson",
+      "pitcher": "tristan beck",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
+    "29": {
+      "player": "samuel basallo",
+      "pitcher": "tristan beck",
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
+    },
     "28": {
       "player": "willy adames",
       "pitcher": "trevor rogers",
