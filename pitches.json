@@ -3221,7 +3221,7 @@
     "77": {
       "player": "edouard julien",
       "pitcher": "jeremiah estrada",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "76": {
@@ -3685,8 +3685,8 @@
     "74": {
       "player": "trent grisham",
       "pitcher": "grant taylor",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "73": {
       "player": "jose caballero",
@@ -5388,6 +5388,12 @@
     }
   },
   "chc @ col": {
+    "44": {
+      "player": "ryan ritter",
+      "pitcher": "javier assad",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "43": {
       "player": "yanquiel fernandez",
       "pitcher": "javier assad",
