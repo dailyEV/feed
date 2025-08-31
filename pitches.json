@@ -419,8 +419,8 @@
     "45": {
       "player": "james outman",
       "pitcher": "wandy peralta",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "44": {
       "player": "royce lewis",
@@ -688,11 +688,17 @@
     }
   },
   "pit @ bos": {
+    "33": {
+      "player": "cam devanney",
+      "pitcher": "lucas giolito",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "32": {
       "player": "alexander canario",
       "pitcher": "lucas giolito",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "31": {
       "player": "masataka yoshida",
@@ -1109,8 +1115,8 @@
     "36": {
       "player": "jackson chourio",
       "pitcher": "max scherzer",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "35": {
       "player": "brice turang",
@@ -1798,6 +1804,12 @@
     }
   },
   "det @ kc": {
+    "19": {
+      "player": "colt keith",
+      "pitcher": "michael wacha",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "trey sweeney",
       "pitcher": "michael wacha",
