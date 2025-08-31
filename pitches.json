@@ -2427,7 +2427,7 @@
     "25": {
       "player": "jesus sanchez",
       "pitcher": "kyle hendricks",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "24": {
@@ -2576,12 +2576,6 @@
     }
   },
   "sd @ min": {
-    "26": {
-      "player": "ryan ohearn",
-      "pitcher": "taj bradley",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "25": {
       "player": "matt wallner",
       "pitcher": "nick pivetta",
@@ -2871,7 +2865,7 @@
     "23": {
       "player": "bobby witt",
       "pitcher": "jack flaherty",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "22": {
@@ -3136,11 +3130,17 @@
     }
   },
   "bal @ sf": {
+    "26": {
+      "player": "heliot ramos",
+      "pitcher": "trevor rogers",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "25": {
       "player": "andrew knizner",
       "pitcher": "trevor rogers",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "24": {
       "player": "luis matos",
