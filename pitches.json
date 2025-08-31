@@ -4313,7 +4313,7 @@
     "44": {
       "player": "ian happ",
       "pitcher": "tanner gordon",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -4580,7 +4580,7 @@
       "player": "luis vazquez",
       "pitcher": "justin verlander",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "11": {
       "player": "samuel basallo",
@@ -4650,11 +4650,17 @@
     }
   },
   "tex @ ath": {
+    "15": {
+      "player": "colby thomas",
+      "pitcher": "jacob degrom",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "14": {
       "player": "carlos cortes",
       "pitcher": "jacob degrom",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "13": {
       "player": "michael helman",
