@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "42": {
+      "player": "nolan gorman",
+      "pitcher": "brady singer",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "41": {
       "player": "willson contreras",
       "pitcher": "brady singer",
@@ -341,14 +347,27 @@
   },
   "pit @ bos": {},
   "tb @ wsh": {
+    "2": {
+      "player": "brandon lowe",
+      "pitcher": "brad lord",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "1": {
       "player": "chandler simpson",
       "pitcher": "brad lord",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     }
   },
-  "mil @ tor": {},
+  "mil @ tor": {
+    "1": {
+      "player": "brice turang",
+      "pitcher": "max scherzer",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "sea @ cle": {},
   "mia @ nym": {},
   "laa @ hou": {},
