@@ -1,9 +1,15 @@
 {
   "stl @ cin": {
+    "57": {
+      "player": "nathan church",
+      "pitcher": "sam moll",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "56": {
       "player": "jimmy crooks",
       "pitcher": "sam moll",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sweeper"
     },
     "55": {
@@ -618,10 +624,16 @@
     }
   },
   "tb @ wsh": {
+    "18": {
+      "player": "paul dejong",
+      "pitcher": "ian seymour",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "17": {
       "player": "dylan crews",
       "pitcher": "ian seymour",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "16": {
@@ -838,6 +850,12 @@
     }
   },
   "sea @ cle": {
+    "14": {
+      "player": "nolan jones",
+      "pitcher": "bryce miller",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "cole young",
       "pitcher": "tanner bibee",
@@ -918,6 +936,12 @@
     }
   },
   "mia @ nym": {
+    "12": {
+      "player": "pete alonso",
+      "pitcher": "sandy alcantara",
+      "result": "Foul Tip",
+      "pitch": "Changeup"
+    },
     "11": {
       "player": "joey wiemer",
       "pitcher": "kodai senga",
