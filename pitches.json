@@ -383,7 +383,7 @@
     "37": {
       "player": "fernando tatis",
       "pitcher": "joe ryan",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "36": {
@@ -765,7 +765,7 @@
     "28": {
       "player": "tristan gray",
       "pitcher": "pj poulin",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "27": {
@@ -932,6 +932,12 @@
     }
   },
   "mil @ tor": {
+    "29": {
+      "player": "nathan lukes",
+      "pitcher": "brandon woodruff",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "bo bichette",
       "pitcher": "brandon woodruff",
@@ -1254,10 +1260,16 @@
     }
   },
   "mia @ nym": {
+    "22": {
+      "player": "hayden senger",
+      "pitcher": "sandy alcantara",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "cedric mullins",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -1506,6 +1518,12 @@
     }
   },
   "nyy @ chw": {
+    "12": {
+      "player": "ben rice",
+      "pitcher": "martin perez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "anthony volpe",
       "pitcher": "martin perez",
