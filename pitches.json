@@ -3125,7 +3125,7 @@
     "67": {
       "player": "mike trout",
       "pitcher": "aj blubaugh",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -4382,11 +4382,23 @@
     }
   },
   "chc @ col": {
+    "49": {
+      "player": "braxton fulford",
+      "pitcher": "matthew boyd",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
+    "48": {
+      "player": "kyle farmer",
+      "pitcher": "matthew boyd",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "47": {
       "player": "kyle karros",
       "pitcher": "matthew boyd",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "46": {
       "player": "dansby swanson",
@@ -4669,7 +4681,7 @@
     "17": {
       "player": "patrick bailey",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Splitter"
     },
     "16": {
@@ -4895,8 +4907,8 @@
     "17": {
       "player": "alek thomas",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "16": {
       "player": "shohei ohtani",
