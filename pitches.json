@@ -451,7 +451,7 @@
     "11": {
       "player": "nathaniel lowe",
       "pitcher": "mitch keller",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -520,7 +520,7 @@
       "player": "tristan gray",
       "pitcher": "brad lord",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "10": {
       "player": "hunter feduccia",
@@ -587,8 +587,8 @@
     "12": {
       "player": "ernie clement",
       "pitcher": "brandon woodruff",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "nathan lukes",
@@ -661,7 +661,7 @@
     "8": {
       "player": "kyle manzardo",
       "pitcher": "bryce miller",
-      "result": "Foul Tip",
+      "result": "Foul",
       "pitch": "Splitter"
     },
     "7": {
@@ -708,6 +708,12 @@
     }
   },
   "mia @ nym": {
+    "8": {
+      "player": "brandon nimmo",
+      "pitcher": "sandy alcantara",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "juan soto",
       "pitcher": "sandy alcantara",
