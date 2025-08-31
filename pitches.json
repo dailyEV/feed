@@ -1860,7 +1860,7 @@
       "player": "alec bohm",
       "pitcher": "raisel iglesias",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "jt realmuto",
@@ -2251,8 +2251,8 @@
     "52": {
       "player": "spencer steer",
       "pitcher": "michael mcgreevy",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "gavin lux",
@@ -2562,12 +2562,6 @@
     }
   },
   "laa @ hou": {
-    "40": {
-      "player": "carlos correa",
-      "pitcher": "kyle hendricks",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "39": {
       "player": "jose altuve",
       "pitcher": "kyle hendricks",
@@ -2804,10 +2798,16 @@
     }
   },
   "sd @ min": {
+    "40": {
+      "player": "luke keaschall",
+      "pitcher": "nick pivetta",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "39": {
       "player": "trevor larnach",
       "pitcher": "nick pivetta",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -3040,6 +3040,12 @@
     }
   },
   "nyy @ chw": {
+    "37": {
+      "player": "mike tauchman",
+      "pitcher": "cam schlittler",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "36": {
       "player": "chase meidroth",
       "pitcher": "cam schlittler",
@@ -3476,6 +3482,12 @@
     }
   },
   "sea @ cle": {
+    "32": {
+      "player": "jp crawford",
+      "pitcher": "gavin williams",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "luke raley",
       "pitcher": "gavin williams",
