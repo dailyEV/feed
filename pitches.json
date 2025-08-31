@@ -452,6 +452,12 @@
     }
   },
   "sd @ min": {
+    "68": {
+      "player": "austin martin",
+      "pitcher": "mason miller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "67": {
       "player": "ramon laureano",
       "pitcher": "michael tonkin",
@@ -859,8 +865,8 @@
     "60": {
       "player": "trevor story",
       "pitcher": "dauri moreta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "59": {
       "player": "jarren duran",
@@ -1963,8 +1969,8 @@
     "58": {
       "player": "jorge polanco",
       "pitcher": "kolby allard",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "eugenio suarez",
@@ -2627,8 +2633,8 @@
     "41": {
       "player": "jo adell",
       "pitcher": "hunter brown",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Knuckle Curve"
     },
     "40": {
       "player": "taylor ward",
@@ -2872,6 +2878,12 @@
     }
   },
   "det @ kc": {
+    "46": {
+      "player": "vinnie pasquantino",
+      "pitcher": "tarik skubal",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "45": {
       "player": "zach mckinstry",
       "pitcher": "daniel lynch",
@@ -3404,11 +3416,17 @@
     }
   },
   "chc @ col": {
+    "18": {
+      "player": "seiya suzuki",
+      "pitcher": "tanner gordon",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "kyle tucker",
       "pitcher": "tanner gordon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Slider"
     },
     "16": {
       "player": "michael busch",
