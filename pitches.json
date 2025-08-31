@@ -1859,7 +1859,7 @@
     "61": {
       "player": "drake baldwin",
       "pitcher": "jhoan duran",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "60": {
@@ -2224,6 +2224,12 @@
     }
   },
   "stl @ cin": {
+    "49": {
+      "player": "elly de la cruz",
+      "pitcher": "michael mcgreevy",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "48": {
       "player": "masyn winn",
       "pitcher": "scott barlow",
@@ -2732,6 +2738,12 @@
     }
   },
   "sd @ min": {
+    "37": {
+      "player": "james outman",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "brooks lee",
       "pitcher": "nick pivetta",
@@ -2950,6 +2962,12 @@
     }
   },
   "nyy @ chw": {
+    "34": {
+      "player": "curtis mead",
+      "pitcher": "cam schlittler",
+      "result": "Hit By Pitch",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "jasson dominguez",
       "pitcher": "shane smith",
@@ -3153,7 +3171,7 @@
     "31": {
       "player": "dillon dingler",
       "pitcher": "stephen kolek",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "30": {
@@ -3517,8 +3535,8 @@
     "37": {
       "player": "casey schmitt",
       "pitcher": "trevor rogers",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "36": {
       "player": "wilmer flores",
