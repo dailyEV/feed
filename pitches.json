@@ -380,11 +380,17 @@
     }
   },
   "sd @ min": {
+    "36": {
+      "player": "freddy fermin",
+      "pitcher": "joe ryan",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "35": {
       "player": "jose iglesias",
       "pitcher": "joe ryan",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "34": {
       "player": "austin martin",
@@ -914,6 +920,12 @@
     }
   },
   "mil @ tor": {
+    "28": {
+      "player": "bo bichette",
+      "pitcher": "brandon woodruff",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "27": {
       "player": "andrew vaughn",
       "pitcher": "max scherzer",
@@ -1081,8 +1093,8 @@
     "25": {
       "player": "jose ramirez",
       "pitcher": "bryce miller",
-      "result": "In play, out(s)",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "24": {
       "player": "daniel schneemann",
@@ -1358,6 +1370,12 @@
     }
   },
   "laa @ hou": {
+    "9": {
+      "player": "carlos correa",
+      "pitcher": "jose soriano",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    },
     "8": {
       "player": "jose altuve",
       "pitcher": "jose soriano",
@@ -1479,8 +1497,8 @@
     "11": {
       "player": "anthony volpe",
       "pitcher": "martin perez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "jazz chisholm",
