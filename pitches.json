@@ -2302,17 +2302,11 @@
     }
   },
   "stl @ cin": {
-    "65": {
-      "player": "nathan church",
-      "pitcher": "zach maxwell",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "64": {
       "player": "pedro pages",
       "pitcher": "zach maxwell",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "63": {
       "player": "thomas saggese",
@@ -3634,7 +3628,7 @@
       "player": "trey sweeney",
       "pitcher": "john schreiber",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "dillon dingler",
@@ -3923,7 +3917,7 @@
     "49": {
       "player": "jp crawford",
       "pitcher": "gavin williams",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "48": {
@@ -4216,6 +4210,12 @@
     }
   },
   "bal @ sf": {
+    "56": {
+      "player": "dylan beavers",
+      "pitcher": "tristan beck",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "colton cowser",
       "pitcher": "tristan beck",
