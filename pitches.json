@@ -907,8 +907,8 @@
     "68": {
       "player": "alexander canario",
       "pitcher": "garrett whitlock",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "67": {
       "player": "bryan reynolds",
@@ -1314,12 +1314,6 @@
     }
   },
   "tb @ wsh": {
-    "68": {
-      "player": "luis garcia",
-      "pitcher": "pete fairbanks",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
-    },
     "67": {
       "player": "dylan crews",
       "pitcher": "pete fairbanks",
@@ -2514,6 +2508,12 @@
     }
   },
   "mia @ nym": {
+    "58": {
+      "player": "cedric mullins",
+      "pitcher": "sandy alcantara",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
+    },
     "57": {
       "player": "brett baty",
       "pitcher": "sandy alcantara",
@@ -2858,10 +2858,16 @@
     }
   },
   "laa @ hou": {
+    "48": {
+      "player": "oswald peraza",
+      "pitcher": "lance mccullers",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "matthew lugo",
       "pitcher": "lance mccullers",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "46": {
