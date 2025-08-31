@@ -3,7 +3,7 @@
     "63": {
       "player": "kebryan hayes",
       "pitcher": "gordon graceffo",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "62": {
@@ -383,7 +383,7 @@
     "35": {
       "player": "jose iglesias",
       "pitcher": "joe ryan",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "34": {
@@ -1078,6 +1078,12 @@
     }
   },
   "sea @ cle": {
+    "25": {
+      "player": "jose ramirez",
+      "pitcher": "bryce miller",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "daniel schneemann",
       "pitcher": "bryce miller",
@@ -1396,11 +1402,17 @@
     }
   },
   "det @ kc": {
+    "11": {
+      "player": "zach mckinstry",
+      "pitcher": "michael wacha",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "10": {
       "player": "wenceel perez",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "9": {
       "player": "spencer torkelson",
