@@ -1859,8 +1859,8 @@
     "53": {
       "player": "matt olson",
       "pitcher": "tanner banks",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "52": {
       "player": "jurickson profar",
@@ -2406,10 +2406,16 @@
     }
   },
   "laa @ hou": {
+    "24": {
+      "player": "carlos correa",
+      "pitcher": "kyle hendricks",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "23": {
       "player": "jose altuve",
       "pitcher": "kyle hendricks",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "22": {
@@ -2549,8 +2555,8 @@
     "24": {
       "player": "luke keaschall",
       "pitcher": "nick pivetta",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "23": {
       "player": "trevor larnach",
@@ -2954,11 +2960,17 @@
     }
   },
   "sea @ cle": {
+    "20": {
+      "player": "brayan rocchio",
+      "pitcher": "logan gilbert",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "nolan jones",
       "pitcher": "logan gilbert",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "18": {
       "player": "cj kayfus",
@@ -3070,6 +3082,12 @@
     }
   },
   "bal @ sf": {
+    "24": {
+      "player": "luis matos",
+      "pitcher": "trevor rogers",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "23": {
       "player": "coby mayo",
       "pitcher": "carson seymour",
