@@ -2975,7 +2975,7 @@
     "52": {
       "player": "fernando tatis",
       "pitcher": "mick abel",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "51": {
@@ -3573,8 +3573,8 @@
     "45": {
       "player": "riley greene",
       "pitcher": "john schreiber",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "maikel garcia",
@@ -3845,8 +3845,8 @@
     "45": {
       "player": "bo naylor",
       "pitcher": "logan gilbert",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "kyle manzardo",
@@ -4428,6 +4428,12 @@
     }
   },
   "chc @ col": {
+    "15": {
+      "player": "michael busch",
+      "pitcher": "mccade brown",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "willi castro",
       "pitcher": "mccade brown",
