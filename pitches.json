@@ -3,8 +3,8 @@
     "71": {
       "player": "elly de la cruz",
       "pitcher": "andre granillo",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "70": {
       "player": "noelvi marte",
@@ -428,6 +428,12 @@
     }
   },
   "sd @ min": {
+    "47": {
+      "player": "manny machado",
+      "pitcher": "joe ryan",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "luis arraez",
       "pitcher": "joe ryan",
@@ -918,10 +924,16 @@
     }
   },
   "tb @ wsh": {
+    "39": {
+      "player": "junior caminero",
+      "pitcher": "pj poulin",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "38": {
       "player": "brandon lowe",
       "pitcher": "pj poulin",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "37": {
@@ -1148,12 +1160,6 @@
     }
   },
   "mil @ tor": {
-    "39": {
-      "player": "george springer",
-      "pitcher": "brandon woodruff",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "38": {
       "player": "myles straw",
       "pitcher": "brandon woodruff",
@@ -1384,6 +1390,12 @@
     }
   },
   "sea @ cle": {
+    "36": {
+      "player": "julio rodriguez",
+      "pitcher": "tanner bibee",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "35": {
       "player": "cal raleigh",
       "pitcher": "tanner bibee",
@@ -1599,7 +1611,7 @@
     "31": {
       "player": "jeff mcneil",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "30": {
@@ -1787,7 +1799,7 @@
     "17": {
       "player": "jacob melton",
       "pitcher": "jose soriano",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "16": {
@@ -1891,8 +1903,8 @@
     "20": {
       "player": "maikel garcia",
       "pitcher": "tarik skubal",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "19": {
       "player": "colt keith",
@@ -2014,7 +2026,7 @@
       "player": "cody bellinger",
       "pitcher": "martin perez",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "20": {
       "player": "aaron judge",
