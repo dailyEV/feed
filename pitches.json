@@ -4400,6 +4400,12 @@
     }
   },
   "chc @ col": {
+    "64": {
+      "player": "pete crow armstrong",
+      "pitcher": "luis peralta",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "ian happ",
       "pitcher": "luis peralta",
@@ -4780,17 +4786,11 @@
     }
   },
   "bal @ sf": {
-    "33": {
-      "player": "patrick bailey",
-      "pitcher": "tomoyuki sugano",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "32": {
       "player": "luis matos",
       "pitcher": "tomoyuki sugano",
-      "result": "In play, no out",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "matt chapman",
@@ -4980,6 +4980,12 @@
     }
   },
   "tex @ ath": {
+    "38": {
+      "player": "willie maciver",
+      "pitcher": "jacob degrom",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "adolis garcia",
       "pitcher": "jt ginn",
@@ -5204,11 +5210,17 @@
     }
   },
   "ari @ lad": {
+    "37": {
+      "player": "jake mccarthy",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "36": {
       "player": "jordan lawlar",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "35": {
       "player": "alek thomas",
