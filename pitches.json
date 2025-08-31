@@ -455,8 +455,8 @@
     "57": {
       "player": "fernando tatis",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "56": {
       "player": "freddy fermin",
@@ -1376,6 +1376,12 @@
     }
   },
   "mil @ tor": {
+    "50": {
+      "player": "ernie clement",
+      "pitcher": "brandon woodruff",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "nathan lukes",
       "pitcher": "brandon woodruff",
@@ -1675,8 +1681,8 @@
     "47": {
       "player": "jp crawford",
       "pitcher": "tanner bibee",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "46": {
       "player": "dominic canzone",
@@ -1956,12 +1962,6 @@
     }
   },
   "mia @ nym": {
-    "41": {
-      "player": "heriberto hernandez",
-      "pitcher": "brandon waddell",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "40": {
       "player": "cedric mullins",
       "pitcher": "sandy alcantara",
@@ -2368,17 +2368,11 @@
     }
   },
   "det @ kc": {
-    "33": {
-      "player": "jake rogers",
-      "pitcher": "michael wacha",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "32": {
       "player": "zach mckinstry",
       "pitcher": "michael wacha",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "wenceel perez",
@@ -2568,6 +2562,12 @@
     }
   },
   "nyy @ chw": {
+    "31": {
+      "player": "ben rice",
+      "pitcher": "martin perez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "30": {
       "player": "anthony volpe",
       "pitcher": "martin perez",
@@ -2753,8 +2753,8 @@
     "1": {
       "player": "michael busch",
       "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     }
   },
   "bal @ sf": {},
