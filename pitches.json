@@ -2583,7 +2583,7 @@
     "42": {
       "player": "yoan moncada",
       "pitcher": "spencer arrighetti",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "41": {
@@ -2834,17 +2834,11 @@
     }
   },
   "sd @ min": {
-    "44": {
-      "player": "ramon laureano",
-      "pitcher": "mick abel",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "43": {
       "player": "ryan ohearn",
       "pitcher": "mick abel",
-      "result": "Foul Tip",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "manny machado",
@@ -3100,6 +3094,12 @@
     }
   },
   "nyy @ chw": {
+    "39": {
+      "player": "trent grisham",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "38": {
       "player": "kyle teel",
       "pitcher": "cam schlittler",
@@ -3557,8 +3557,8 @@
     "35": {
       "player": "nolan jones",
       "pitcher": "logan gilbert",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "34": {
       "player": "cj kayfus",
@@ -3769,7 +3769,7 @@
     "44": {
       "player": "heliot ramos",
       "pitcher": "trevor rogers",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "43": {
