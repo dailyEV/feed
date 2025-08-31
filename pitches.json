@@ -1,10 +1,16 @@
 {
   "stl @ cin": {
+    "70": {
+      "player": "noelvi marte",
+      "pitcher": "andre granillo",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "69": {
       "player": "tj friedl",
       "pitcher": "andre granillo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "68": {
       "player": "matt mclain",
@@ -694,12 +700,6 @@
     }
   },
   "pit @ bos": {
-    "34": {
-      "player": "jared triolo",
-      "pitcher": "lucas giolito",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "33": {
       "player": "cam devanney",
       "pitcher": "lucas giolito",
@@ -1124,6 +1124,12 @@
     }
   },
   "mil @ tor": {
+    "37": {
+      "player": "tyler heineman",
+      "pitcher": "brandon woodruff",
+      "result": "Foul Bunt",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "jackson chourio",
       "pitcher": "max scherzer",
@@ -1953,7 +1959,7 @@
     "20": {
       "player": "aaron judge",
       "pitcher": "martin perez",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "19": {
