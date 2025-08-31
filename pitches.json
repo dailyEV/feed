@@ -3,7 +3,7 @@
     "63": {
       "player": "kebryan hayes",
       "pitcher": "gordon graceffo",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "62": {
@@ -383,8 +383,8 @@
     "35": {
       "player": "jose iglesias",
       "pitcher": "joe ryan",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "34": {
       "player": "austin martin",
@@ -595,8 +595,8 @@
     "26": {
       "player": "henry davis",
       "pitcher": "lucas giolito",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "25": {
       "player": "oneil cruz",
@@ -1081,8 +1081,8 @@
     "25": {
       "player": "jose ramirez",
       "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "24": {
       "player": "daniel schneemann",
@@ -1355,8 +1355,8 @@
     "8": {
       "player": "jose altuve",
       "pitcher": "jose soriano",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "yordan alvarez",
@@ -1402,12 +1402,6 @@
     }
   },
   "det @ kc": {
-    "11": {
-      "player": "zach mckinstry",
-      "pitcher": "michael wacha",
-      "result": "Called Strike",
-      "pitch": "Changeup"
-    },
     "10": {
       "player": "wenceel perez",
       "pitcher": "michael wacha",
@@ -1474,7 +1468,7 @@
       "player": "anthony volpe",
       "pitcher": "martin perez",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "10": {
       "player": "jazz chisholm",
