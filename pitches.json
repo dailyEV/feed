@@ -455,8 +455,8 @@
     "75": {
       "player": "bryce johnson",
       "pitcher": "michael tonkin",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "74": {
       "player": "freddy fermin",
@@ -1311,7 +1311,7 @@
     "67": {
       "player": "dylan crews",
       "pitcher": "pete fairbanks",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -2128,6 +2128,12 @@
     }
   },
   "sea @ cle": {
+    "63": {
+      "player": "jp crawford",
+      "pitcher": "kolby allard",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "62": {
       "player": "bo naylor",
       "pitcher": "matt brash",
@@ -2834,11 +2840,17 @@
     }
   },
   "laa @ hou": {
+    "47": {
+      "player": "matthew lugo",
+      "pitcher": "lance mccullers",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "travis darnaud",
       "pitcher": "lance mccullers",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "jose altuve",
@@ -3115,7 +3127,7 @@
     "51": {
       "player": "colt keith",
       "pitcher": "jonathan bowlan",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "50": {
@@ -3710,6 +3722,12 @@
     }
   },
   "chc @ col": {
+    "23": {
+      "player": "tyler freeman",
+      "pitcher": "matthew boyd",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "ryan ritter",
       "pitcher": "matthew boyd",
