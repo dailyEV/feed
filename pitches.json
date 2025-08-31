@@ -1233,7 +1233,7 @@
     "61": {
       "player": "riley adams",
       "pitcher": "mason montgomery",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "60": {
@@ -1598,6 +1598,12 @@
     }
   },
   "mil @ tor": {
+    "63": {
+      "player": "ernie clement",
+      "pitcher": "tobias myers",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "62": {
       "player": "nathan lukes",
       "pitcher": "tobias myers",
@@ -1972,6 +1978,12 @@
     }
   },
   "sea @ cle": {
+    "59": {
+      "player": "dominic canzone",
+      "pitcher": "kolby allard",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "58": {
       "player": "jorge polanco",
       "pitcher": "kolby allard",
@@ -2884,11 +2896,17 @@
     }
   },
   "det @ kc": {
+    "47": {
+      "player": "salvador perez",
+      "pitcher": "tarik skubal",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "46": {
       "player": "vinnie pasquantino",
       "pitcher": "tarik skubal",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "45": {
       "player": "zach mckinstry",
