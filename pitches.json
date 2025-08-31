@@ -2305,7 +2305,7 @@
     "62": {
       "player": "nolan gorman",
       "pitcher": "zach maxwell",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -2679,7 +2679,7 @@
     "51": {
       "player": "matthew lugo",
       "pitcher": "bryan king",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -2984,11 +2984,17 @@
     }
   },
   "sd @ min": {
+    "53": {
+      "player": "luis arraez",
+      "pitcher": "mick abel",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "fernando tatis",
       "pitcher": "mick abel",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "51": {
       "player": "kody clemens",
@@ -3298,6 +3304,12 @@
     }
   },
   "nyy @ chw": {
+    "48": {
+      "player": "austin wells",
+      "pitcher": "shane smith",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "47": {
       "player": "will robertson",
       "pitcher": "cam schlittler",
@@ -3585,8 +3597,8 @@
     "46": {
       "player": "wenceel perez",
       "pitcher": "john schreiber",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "45": {
       "player": "riley greene",
