@@ -1859,7 +1859,7 @@
     "73": {
       "player": "brandon marsh",
       "pitcher": "dylan dodd",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Cutter"
     },
     "72": {
@@ -2296,6 +2296,18 @@
     }
   },
   "stl @ cin": {
+    "60": {
+      "player": "tj friedl",
+      "pitcher": "jorge alcala",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "59": {
+      "player": "matt mclain",
+      "pitcher": "jorge alcala",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "58": {
       "player": "will benson",
       "pitcher": "jorge alcala",
@@ -2646,11 +2658,17 @@
     }
   },
   "laa @ hou": {
-    "48": {
-      "player": "jo adell",
+    "49": {
+      "player": "luis rengifo",
       "pitcher": "spencer arrighetti",
       "result": "Called Strike",
       "pitch": "4-Seam Fastball"
+    },
+    "48": {
+      "player": "jo adell",
+      "pitcher": "spencer arrighetti",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "47": {
       "player": "yainer diaz",
@@ -2939,7 +2957,7 @@
     "48": {
       "player": "elias diaz",
       "pitcher": "mick abel",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "47": {
