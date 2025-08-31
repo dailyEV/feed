@@ -1856,12 +1856,6 @@
     }
   },
   "atl @ phi": {
-    "70": {
-      "player": "nick castellanos",
-      "pitcher": "hunter stratton",
-      "result": "Hit By Pitch",
-      "pitch": "4-Seam Fastball"
-    },
     "69": {
       "player": "jurickson profar",
       "pitcher": "matt strahm",
@@ -2281,8 +2275,8 @@
     "57": {
       "player": "jordan walker",
       "pitcher": "connor phillips",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "willson contreras",
@@ -2622,12 +2616,6 @@
     }
   },
   "laa @ hou": {
-    "46": {
-      "player": "christian walker",
-      "pitcher": "kyle hendricks",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "45": {
       "player": "jesus sanchez",
       "pitcher": "kyle hendricks",
@@ -2903,8 +2891,8 @@
     "46": {
       "player": "jose iglesias",
       "pitcher": "mick abel",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "45": {
       "player": "gavin sheets",
@@ -3432,6 +3420,12 @@
     }
   },
   "det @ kc": {
+    "41": {
+      "player": "mike yastrzemski",
+      "pitcher": "jack flaherty",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "40": {
       "player": "spencer torkelson",
       "pitcher": "stephen kolek",
@@ -3674,6 +3668,12 @@
     }
   },
   "sea @ cle": {
+    "40": {
+      "player": "josh naylor",
+      "pitcher": "gavin williams",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "julio rodriguez",
       "pitcher": "gavin williams",
@@ -3910,6 +3910,12 @@
     }
   },
   "bal @ sf": {
+    "47": {
+      "player": "daniel johnson",
+      "pitcher": "tristan beck",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "46": {
       "player": "samuel basallo",
       "pitcher": "tristan beck",
@@ -4188,10 +4194,16 @@
     }
   },
   "chc @ col": {
+    "8": {
+      "player": "mickey moniak",
+      "pitcher": "javier assad",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "7": {
       "player": "tyler freeman",
       "pitcher": "javier assad",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "6": {
