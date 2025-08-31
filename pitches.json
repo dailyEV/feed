@@ -2584,7 +2584,7 @@
       "player": "mike trout",
       "pitcher": "spencer arrighetti",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "yoan moncada",
@@ -2840,11 +2840,17 @@
     }
   },
   "sd @ min": {
+    "44": {
+      "player": "ramon laureano",
+      "pitcher": "mick abel",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "ryan ohearn",
       "pitcher": "mick abel",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Curveball"
     },
     "42": {
       "player": "manny machado",
@@ -3100,6 +3106,12 @@
     }
   },
   "nyy @ chw": {
+    "40": {
+      "player": "ben rice",
+      "pitcher": "shane smith",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "39": {
       "player": "trent grisham",
       "pitcher": "shane smith",
@@ -3569,8 +3581,8 @@
     "36": {
       "player": "brayan rocchio",
       "pitcher": "logan gilbert",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "35": {
       "player": "nolan jones",
@@ -3787,7 +3799,7 @@
     "44": {
       "player": "heliot ramos",
       "pitcher": "trevor rogers",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -4050,6 +4062,12 @@
     }
   },
   "chc @ col": {
+    "5": {
+      "player": "nico hoerner",
+      "pitcher": "mccade brown",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "ian happ",
       "pitcher": "mccade brown",
