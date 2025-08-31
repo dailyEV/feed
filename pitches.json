@@ -2302,6 +2302,12 @@
     }
   },
   "stl @ cin": {
+    "76": {
+      "player": "matt mclain",
+      "pitcher": "kyle leahy",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "75": {
       "player": "will banfield",
       "pitcher": "kyle leahy",
@@ -2757,7 +2763,7 @@
     "61": {
       "player": "jose altuve",
       "pitcher": "jose fermin",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "60": {
@@ -3125,7 +3131,7 @@
     "63": {
       "player": "manny machado",
       "pitcher": "brooks kriske",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "62": {
@@ -3505,8 +3511,8 @@
     "59": {
       "player": "aaron judge",
       "pitcher": "brandon eisert",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "ben rice",
@@ -3861,8 +3867,8 @@
     "56": {
       "player": "kerry carpenter",
       "pitcher": "lucas erceg",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "55": {
       "player": "gleyber torres",
