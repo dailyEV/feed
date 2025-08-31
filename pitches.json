@@ -799,8 +799,8 @@
     "50": {
       "player": "romy gonzalez",
       "pitcher": "colin holderman",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "49": {
       "player": "masataka yoshida",
@@ -1406,6 +1406,12 @@
     }
   },
   "mil @ tor": {
+    "53": {
+      "player": "myles straw",
+      "pitcher": "brandon woodruff",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "52": {
       "player": "tyler heineman",
       "pitcher": "brandon woodruff",
@@ -1720,12 +1726,6 @@
     }
   },
   "sea @ cle": {
-    "49": {
-      "player": "randy arozarena",
-      "pitcher": "matt festa",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "48": {
       "player": "cole young",
       "pitcher": "tanner bibee",
@@ -2273,8 +2273,8 @@
     "29": {
       "player": "jesus sanchez",
       "pitcher": "jose soriano",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "carlos correa",
@@ -2449,7 +2449,7 @@
     "35": {
       "player": "colt keith",
       "pitcher": "michael wacha",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "34": {
