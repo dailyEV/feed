@@ -456,7 +456,7 @@
       "player": "jose iglesias",
       "pitcher": "michael tonkin",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "72": {
       "player": "mason mccoy",
@@ -895,7 +895,7 @@
     "65": {
       "player": "andrew mccutchen",
       "pitcher": "garrett whitlock",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "64": {
@@ -1288,7 +1288,7 @@
       "player": "tristan gray",
       "pitcher": "orlando ribalta",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "65": {
       "player": "hunter feduccia",
@@ -1682,6 +1682,12 @@
     }
   },
   "mil @ tor": {
+    "67": {
+      "player": "andres gimenez",
+      "pitcher": "tobias myers",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "66": {
       "player": "sal frelick",
       "pitcher": "louis varland",
@@ -2080,6 +2086,12 @@
     }
   },
   "sea @ cle": {
+    "62": {
+      "player": "bo naylor",
+      "pitcher": "matt brash",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "61": {
       "player": "brayan rocchio",
       "pitcher": "matt brash",
@@ -3052,6 +3064,12 @@
     }
   },
   "det @ kc": {
+    "50": {
+      "player": "andy ibanez",
+      "pitcher": "jonathan bowlan",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "49": {
       "player": "jake rogers",
       "pitcher": "daniel lynch",
@@ -3351,8 +3369,8 @@
     "47": {
       "player": "colson montgomery",
       "pitcher": "luis gil",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "46": {
       "player": "lenyn sosa",
