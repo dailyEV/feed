@@ -814,6 +814,12 @@
     }
   },
   "pit @ bos": {
+    "54": {
+      "player": "alex bregman",
+      "pitcher": "colin holderman",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "53": {
       "player": "roman anthony",
       "pitcher": "colin holderman",
@@ -1134,6 +1140,12 @@
     }
   },
   "tb @ wsh": {
+    "54": {
+      "player": "brady house",
+      "pitcher": "edwin uceta",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "53": {
       "player": "daylen lile",
       "pitcher": "edwin uceta",
@@ -1457,8 +1469,8 @@
     "55": {
       "player": "addison barger",
       "pitcher": "tobias myers",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "54": {
       "player": "george springer",
@@ -2094,11 +2106,17 @@
     }
   },
   "mia @ nym": {
+    "46": {
+      "player": "francisco lindor",
+      "pitcher": "sandy alcantara",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "45": {
       "player": "hayden senger",
       "pitcher": "sandy alcantara",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "44": {
       "player": "javier sanoja",
@@ -2787,7 +2805,7 @@
     "35": {
       "player": "jose caballero",
       "pitcher": "martin perez",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Cutter"
     },
     "34": {
