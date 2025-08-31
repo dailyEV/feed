@@ -332,10 +332,16 @@
     }
   },
   "sd @ min": {
+    "28": {
+      "player": "jake cronenworth",
+      "pitcher": "joe ryan",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "27": {
       "player": "gavin sheets",
       "pitcher": "joe ryan",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -784,11 +790,17 @@
     }
   },
   "sea @ cle": {
+    "13": {
+      "player": "cole young",
+      "pitcher": "tanner bibee",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "12": {
       "player": "jp crawford",
       "pitcher": "tanner bibee",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "dominic canzone",
@@ -858,6 +870,12 @@
     }
   },
   "mia @ nym": {
+    "11": {
+      "player": "joey wiemer",
+      "pitcher": "kodai senga",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "troy johnston",
       "pitcher": "kodai senga",
