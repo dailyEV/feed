@@ -1,10 +1,16 @@
 {
   "stl @ cin": {
+    "63": {
+      "player": "kebryan hayes",
+      "pitcher": "gordon graceffo",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "62": {
       "player": "spencer steer",
       "pitcher": "gordon graceffo",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "gavin lux",
@@ -377,8 +383,8 @@
     "35": {
       "player": "jose iglesias",
       "pitcher": "joe ryan",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "34": {
       "player": "austin martin",
@@ -589,7 +595,7 @@
     "26": {
       "player": "henry davis",
       "pitcher": "lucas giolito",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "25": {
@@ -1390,6 +1396,18 @@
     }
   },
   "det @ kc": {
+    "10": {
+      "player": "wenceel perez",
+      "pitcher": "michael wacha",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "9": {
+      "player": "spencer torkelson",
+      "pitcher": "michael wacha",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "riley greene",
       "pitcher": "michael wacha",
@@ -1440,6 +1458,12 @@
     }
   },
   "nyy @ chw": {
+    "11": {
+      "player": "anthony volpe",
+      "pitcher": "martin perez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "10": {
       "player": "jazz chisholm",
       "pitcher": "martin perez",
