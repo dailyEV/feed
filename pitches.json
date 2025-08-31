@@ -1859,7 +1859,7 @@
     "55": {
       "player": "harrison bader",
       "pitcher": "pierce johnson",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "54": {
@@ -2188,11 +2188,17 @@
     }
   },
   "stl @ cin": {
+    "41": {
+      "player": "tj friedl",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "matt mclain",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "39": {
       "player": "jose trevino",
@@ -2433,7 +2439,7 @@
     "26": {
       "player": "christian walker",
       "pitcher": "kyle hendricks",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "Curveball"
     },
     "25": {
@@ -2591,8 +2597,8 @@
     "27": {
       "player": "ramon laureano",
       "pitcher": "taj bradley",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "26": {
       "player": "ryan ohearn",
