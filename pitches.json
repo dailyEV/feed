@@ -455,8 +455,8 @@
     "71": {
       "player": "gavin sheets",
       "pitcher": "michael tonkin",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "70": {
       "player": "matt wallner",
@@ -1272,11 +1272,17 @@
     }
   },
   "tb @ wsh": {
-    "65": {
-      "player": "hunter feduccia",
+    "66": {
+      "player": "tristan gray",
       "pitcher": "orlando ribalta",
       "result": "Ball",
       "pitch": "4-Seam Fastball"
+    },
+    "65": {
+      "player": "hunter feduccia",
+      "pitcher": "orlando ribalta",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "64": {
       "player": "everson pereira",
@@ -1667,8 +1673,8 @@
     "66": {
       "player": "sal frelick",
       "pitcher": "louis varland",
-      "result": "In play, out(s)",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "65": {
       "player": "william contreras",
@@ -2065,7 +2071,7 @@
     "60": {
       "player": "angel martinez",
       "pitcher": "matt brash",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "59": {
@@ -2747,7 +2753,7 @@
     "45": {
       "player": "jose altuve",
       "pitcher": "jose soriano",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Knuckle Curve"
     },
     "44": {
@@ -3312,6 +3318,12 @@
     }
   },
   "nyy @ chw": {
+    "47": {
+      "player": "colson montgomery",
+      "pitcher": "luis gil",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "lenyn sosa",
       "pitcher": "luis gil",
