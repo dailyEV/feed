@@ -1,11 +1,5 @@
 {
   "stl @ cin": {
-    "42": {
-      "player": "nolan gorman",
-      "pitcher": "brady singer",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "41": {
       "player": "willson contreras",
       "pitcher": "brady singer",
@@ -257,8 +251,8 @@
     "15": {
       "player": "royce lewis",
       "pitcher": "david morgan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "14": {
       "player": "ryan jeffers",
@@ -345,7 +339,14 @@
       "pitch": "Sinker"
     }
   },
-  "pit @ bos": {},
+  "pit @ bos": {
+    "1": {
+      "player": "jared triolo",
+      "pitcher": "lucas giolito",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "tb @ wsh": {
     "2": {
       "player": "brandon lowe",
