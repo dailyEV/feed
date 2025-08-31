@@ -2766,6 +2766,12 @@
     }
   },
   "laa @ hou": {
+    "63": {
+      "player": "jo adell",
+      "pitcher": "bryan abreu",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "carlos correa",
       "pitcher": "jose fermin",
@@ -3143,7 +3149,7 @@
     "66": {
       "player": "james outman",
       "pitcher": "jason adam",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "65": {
@@ -3538,11 +3544,17 @@
     }
   },
   "nyy @ chw": {
+    "62": {
+      "player": "andrew benintendi",
+      "pitcher": "luke weaver",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "61": {
       "player": "colson montgomery",
       "pitcher": "luke weaver",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "lenyn sosa",
@@ -3909,8 +3921,8 @@
     "57": {
       "player": "nick loftin",
       "pitcher": "tyler holton",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "56": {
       "player": "kerry carpenter",
@@ -5013,8 +5025,8 @@
     "29": {
       "player": "dansby swanson",
       "pitcher": "mccade brown",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "28": {
       "player": "hunter goodman",
@@ -5186,6 +5198,12 @@
     }
   },
   "ari @ lad": {
+    "11": {
+      "player": "teoscar hernandez",
+      "pitcher": "eduardo rodriguez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "gabriel moreno",
       "pitcher": "tyler glasnow",
