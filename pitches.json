@@ -455,7 +455,7 @@
     "69": {
       "player": "byron buxton",
       "pitcher": "mason miller",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -1245,8 +1245,8 @@
     "62": {
       "player": "andres chaparro",
       "pitcher": "mason montgomery",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "61": {
       "player": "riley adams",
@@ -2669,8 +2669,8 @@
     "42": {
       "player": "luis rengifo",
       "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "41": {
       "player": "jo adell",
@@ -3210,6 +3210,12 @@
     }
   },
   "nyy @ chw": {
+    "45": {
+      "player": "anthony volpe",
+      "pitcher": "martin perez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "44": {
       "player": "jazz chisholm",
       "pitcher": "martin perez",
