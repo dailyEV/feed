@@ -4403,8 +4403,8 @@
     "73": {
       "player": "mickey moniak",
       "pitcher": "daniel palencia",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "72": {
       "player": "ryan ritter",
@@ -4843,8 +4843,8 @@
     "41": {
       "player": "jackson holliday",
       "pitcher": "justin verlander",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "40": {
       "player": "daniel johnson",
@@ -5091,7 +5091,7 @@
     "48": {
       "player": "michael helman",
       "pitcher": "elvis alvarado",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -5378,6 +5378,12 @@
     }
   },
   "ari @ lad": {
+    "45": {
+      "player": "alex call",
+      "pitcher": "brandyn garcia",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "corbin carroll",
       "pitcher": "yoshinobu yamamoto",
