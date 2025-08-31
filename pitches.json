@@ -3,8 +3,8 @@
     "59": {
       "player": "ivan herrera",
       "pitcher": "nick martinez",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "lars nootbaar",
@@ -544,12 +544,6 @@
     }
   },
   "pit @ bos": {
-    "22": {
-      "player": "tommy pham",
-      "pitcher": "lucas giolito",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "21": {
       "player": "spencer horwitz",
       "pitcher": "lucas giolito",
@@ -678,6 +672,12 @@
     }
   },
   "tb @ wsh": {
+    "22": {
+      "player": "hunter feduccia",
+      "pitcher": "brad lord",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "everson pereira",
       "pitcher": "brad lord",
@@ -806,6 +806,12 @@
     }
   },
   "mil @ tor": {
+    "23": {
+      "player": "jackson chourio",
+      "pitcher": "max scherzer",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "22": {
       "player": "brice turang",
       "pitcher": "max scherzer",
@@ -940,6 +946,12 @@
     }
   },
   "sea @ cle": {
+    "18": {
+      "player": "cal raleigh",
+      "pitcher": "tanner bibee",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "17": {
       "player": "randy arozarena",
       "pitcher": "tanner bibee",
@@ -1140,7 +1152,7 @@
       "player": "mike trout",
       "pitcher": "hunter brown",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "2": {
       "player": "yoan moncada",
@@ -1156,6 +1168,12 @@
     }
   },
   "det @ kc": {
+    "4": {
+      "player": "maikel garcia",
+      "pitcher": "tarik skubal",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "kerry carpenter",
       "pitcher": "michael wacha",
