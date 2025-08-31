@@ -766,12 +766,6 @@
     }
   },
   "pit @ bos": {
-    "42": {
-      "player": "trevor story",
-      "pitcher": "mitch keller",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "41": {
       "player": "jarren duran",
       "pitcher": "mitch keller",
@@ -1023,8 +1017,8 @@
     "44": {
       "player": "bob seymour",
       "pitcher": "clayton beeter",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "43": {
       "player": "riley adams",
@@ -1564,6 +1558,12 @@
     }
   },
   "sea @ cle": {
+    "42": {
+      "player": "jorge polanco",
+      "pitcher": "tanner bibee",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "41": {
       "player": "eugenio suarez",
       "pitcher": "tanner bibee",
@@ -2158,12 +2158,6 @@
     }
   },
   "det @ kc": {
-    "27": {
-      "player": "randal grichuk",
-      "pitcher": "tarik skubal",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "26": {
       "player": "riley greene",
       "pitcher": "michael wacha",
@@ -2325,8 +2319,8 @@
     "26": {
       "player": "colson montgomery",
       "pitcher": "luis gil",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "lenyn sosa",
