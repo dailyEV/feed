@@ -409,7 +409,7 @@
     "8": {
       "player": "nick gonzales",
       "pitcher": "lucas giolito",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "7": {
@@ -506,11 +506,17 @@
     }
   },
   "mil @ tor": {
+    "8": {
+      "player": "addison barger",
+      "pitcher": "brandon woodruff",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "george springer",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Hit By Pitch",
+      "pitch": "Changeup"
     },
     "6": {
       "player": "andrew vaughn",
@@ -579,8 +585,8 @@
     "3": {
       "player": "agustin ramirez",
       "pitcher": "kodai senga",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "2": {
       "player": "jakob marsee",
