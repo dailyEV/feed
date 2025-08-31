@@ -1856,12 +1856,6 @@
     }
   },
   "atl @ phi": {
-    "60": {
-      "player": "ozzie albies",
-      "pitcher": "jhoan duran",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "59": {
       "player": "kyle schwarber",
       "pitcher": "dylan lee",
@@ -2511,7 +2505,7 @@
     "34": {
       "player": "luis rengifo",
       "pitcher": "spencer arrighetti",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "33": {
@@ -3120,6 +3114,12 @@
     }
   },
   "det @ kc": {
+    "31": {
+      "player": "dillon dingler",
+      "pitcher": "stephen kolek",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "30": {
       "player": "adam frazier",
       "pitcher": "jack flaherty",
@@ -3306,7 +3306,7 @@
       "player": "david fry",
       "pitcher": "logan gilbert",
       "result": "Foul",
-      "pitch": "Splitter"
+      "pitch": "Curveball"
     },
     "28": {
       "player": "bo naylor",
@@ -3478,11 +3478,17 @@
     }
   },
   "bal @ sf": {
+    "37": {
+      "player": "casey schmitt",
+      "pitcher": "trevor rogers",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "36": {
       "player": "wilmer flores",
       "pitcher": "trevor rogers",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "35": {
       "player": "matt chapman",
