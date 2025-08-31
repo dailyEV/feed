@@ -432,7 +432,7 @@
       "player": "manny machado",
       "pitcher": "joe ryan",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "46": {
       "player": "luis arraez",
@@ -715,7 +715,7 @@
     "35": {
       "player": "spencer horwitz",
       "pitcher": "lucas giolito",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -1166,11 +1166,17 @@
     }
   },
   "mil @ tor": {
+    "40": {
+      "player": "addison barger",
+      "pitcher": "brandon woodruff",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "george springer",
       "pitcher": "brandon woodruff",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "38": {
       "player": "myles straw",
@@ -1405,8 +1411,8 @@
     "36": {
       "player": "julio rodriguez",
       "pitcher": "tanner bibee",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "35": {
       "player": "cal raleigh",
@@ -1623,8 +1629,8 @@
     "31": {
       "player": "jeff mcneil",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "pete alonso",
