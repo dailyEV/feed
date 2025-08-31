@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "51": {
+      "player": "will banfield",
+      "pitcher": "gordon graceffo",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "50": {
       "player": "jordan walker",
       "pitcher": "brady singer",
@@ -445,7 +451,7 @@
     "11": {
       "player": "nathaniel lowe",
       "pitcher": "mitch keller",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -513,8 +519,8 @@
     "11": {
       "player": "tristan gray",
       "pitcher": "brad lord",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "hunter feduccia",
@@ -655,7 +661,7 @@
     "8": {
       "player": "kyle manzardo",
       "pitcher": "bryce miller",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "Splitter"
     },
     "7": {
@@ -702,12 +708,6 @@
     }
   },
   "mia @ nym": {
-    "7": {
-      "player": "juan soto",
-      "pitcher": "sandy alcantara",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "6": {
       "player": "francisco lindor",
       "pitcher": "sandy alcantara",
