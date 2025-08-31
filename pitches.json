@@ -535,8 +535,8 @@
     "20": {
       "player": "roman anthony",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "19": {
       "player": "carlos narvaez",
@@ -1076,6 +1076,12 @@
     }
   },
   "laa @ hou": {
+    "3": {
+      "player": "mike trout",
+      "pitcher": "hunter brown",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "yoan moncada",
       "pitcher": "hunter brown",
@@ -1090,6 +1096,12 @@
     }
   },
   "det @ kc": {
+    "3": {
+      "player": "kerry carpenter",
+      "pitcher": "michael wacha",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "2": {
       "player": "gleyber torres",
       "pitcher": "michael wacha",
@@ -1107,7 +1119,7 @@
     "1": {
       "player": "paul goldschmidt",
       "pitcher": "martin perez",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     }
   },
