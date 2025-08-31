@@ -392,6 +392,12 @@
     }
   },
   "sd @ min": {
+    "42": {
+      "player": "kody clemens",
+      "pitcher": "wandy peralta",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "luke keaschall",
       "pitcher": "wandy peralta",
@@ -1219,8 +1225,8 @@
     "29": {
       "player": "kyle manzardo",
       "pitcher": "bryce miller",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "dominic canzone",
@@ -1392,6 +1398,18 @@
     }
   },
   "mia @ nym": {
+    "26": {
+      "player": "heriberto hernandez",
+      "pitcher": "kodai senga",
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
+    },
+    "25": {
+      "player": "liam hicks",
+      "pitcher": "kodai senga",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "juan soto",
       "pitcher": "sandy alcantara",
@@ -1538,6 +1556,12 @@
     }
   },
   "laa @ hou": {
+    "13": {
+      "player": "matthew lugo",
+      "pitcher": "hunter brown",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "travis darnaud",
       "pitcher": "hunter brown",
@@ -1701,8 +1725,8 @@
     "15": {
       "player": "will robertson",
       "pitcher": "luis gil",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "curtis mead",
