@@ -535,8 +535,8 @@
     "20": {
       "player": "roman anthony",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "19": {
       "player": "carlos narvaez",
@@ -764,10 +764,16 @@
     }
   },
   "mil @ tor": {
+    "21": {
+      "player": "vladimir guerrero",
+      "pitcher": "brandon woodruff",
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
+    },
     "20": {
       "player": "addison barger",
       "pitcher": "brandon woodruff",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -987,7 +993,7 @@
     "13": {
       "player": "jeff mcneil",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -1081,8 +1087,8 @@
     "2": {
       "player": "gleyber torres",
       "pitcher": "michael wacha",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "1": {
       "player": "colt keith",
@@ -1095,7 +1101,7 @@
     "1": {
       "player": "paul goldschmidt",
       "pitcher": "martin perez",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     }
   },
