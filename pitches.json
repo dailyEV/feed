@@ -266,11 +266,17 @@
     }
   },
   "sd @ min": {
+    "18": {
+      "player": "luis arraez",
+      "pitcher": "joe ryan",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "17": {
       "player": "fernando tatis",
       "pitcher": "joe ryan",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "freddy fermin",
@@ -370,6 +376,12 @@
     }
   },
   "pit @ bos": {
+    "6": {
+      "player": "jarren duran",
+      "pitcher": "mitch keller",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "alex bregman",
       "pitcher": "mitch keller",
@@ -434,6 +446,12 @@
     }
   },
   "mil @ tor": {
+    "6": {
+      "player": "andrew vaughn",
+      "pitcher": "max scherzer",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "sal frelick",
       "pitcher": "max scherzer",
