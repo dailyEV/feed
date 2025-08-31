@@ -1,10 +1,16 @@
 {
   "stl @ cin": {
+    "67": {
+      "player": "thomas saggese",
+      "pitcher": "tony santillan",
+      "result": "Called Strike",
+      "pitch": "Slurve"
+    },
     "66": {
       "player": "nolan gorman",
       "pitcher": "tony santillan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "65": {
       "player": "willson contreras",
@@ -658,6 +664,12 @@
     }
   },
   "pit @ bos": {
+    "31": {
+      "player": "masataka yoshida",
+      "pitcher": "mitch keller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "nathaniel lowe",
       "pitcher": "mitch keller",
@@ -840,6 +852,12 @@
     }
   },
   "tb @ wsh": {
+    "34": {
+      "player": "paul dejong",
+      "pitcher": "ian seymour",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "dylan crews",
       "pitcher": "ian seymour",
@@ -1428,17 +1446,11 @@
     }
   },
   "mia @ nym": {
-    "27": {
-      "player": "troy johnston",
-      "pitcher": "kodai senga",
-      "result": "In play, out(s)",
-      "pitch": "Forkball"
-    },
     "26": {
       "player": "heriberto hernandez",
       "pitcher": "kodai senga",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "25": {
       "player": "liam hicks",
@@ -1773,7 +1785,7 @@
     "17": {
       "player": "michael a taylor",
       "pitcher": "luis gil",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "16": {
