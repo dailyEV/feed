@@ -3125,7 +3125,7 @@
     "65": {
       "player": "zach neto",
       "pitcher": "aj blubaugh",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -3951,8 +3951,8 @@
     "70": {
       "player": "cody bellinger",
       "pitcher": "mike vasil",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "69": {
       "player": "aaron judge",
@@ -4370,6 +4370,12 @@
     }
   },
   "chc @ col": {
+    "47": {
+      "player": "kyle karros",
+      "pitcher": "matthew boyd",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "46": {
       "player": "dansby swanson",
       "pitcher": "tanner gordon",
@@ -4651,7 +4657,7 @@
     "15": {
       "player": "matt chapman",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "14": {
@@ -4743,8 +4749,8 @@
     "19": {
       "player": "joc pederson",
       "pitcher": "jt ginn",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "18": {
       "player": "wyatt langford",
