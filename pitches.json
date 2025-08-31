@@ -3125,7 +3125,7 @@
     "61": {
       "player": "yainer diaz",
       "pitcher": "luis garcia",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "60": {
@@ -3493,8 +3493,8 @@
     "66": {
       "player": "colt keith",
       "pitcher": "taylor clarke",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "65": {
       "player": "bobby witt",
@@ -4259,8 +4259,8 @@
     "39": {
       "player": "ezequiel tovar",
       "pitcher": "matthew boyd",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "michael busch",
@@ -4492,6 +4492,12 @@
     }
   },
   "bal @ sf": {
+    "9": {
+      "player": "dominic smith",
+      "pitcher": "tomoyuki sugano",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "8": {
       "player": "willy adames",
       "pitcher": "tomoyuki sugano",
@@ -4601,7 +4607,7 @@
     "7": {
       "player": "andy pages",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sweeper"
     },
     "6": {
