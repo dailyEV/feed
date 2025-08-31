@@ -323,8 +323,8 @@
     "24": {
       "player": "manny machado",
       "pitcher": "joe ryan",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "23": {
       "player": "brooks lee",
@@ -629,7 +629,7 @@
     "14": {
       "player": "isaac collins",
       "pitcher": "max scherzer",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "13": {
@@ -712,6 +712,12 @@
     }
   },
   "sea @ cle": {
+    "10": {
+      "player": "jorge polanco",
+      "pitcher": "tanner bibee",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "eugenio suarez",
       "pitcher": "tanner bibee",
