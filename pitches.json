@@ -1859,7 +1859,7 @@
     "65": {
       "player": "alec bohm",
       "pitcher": "raisel iglesias",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -2251,8 +2251,8 @@
     "52": {
       "player": "spencer steer",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "51": {
       "player": "gavin lux",
@@ -3043,8 +3043,8 @@
     "37": {
       "player": "mike tauchman",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "36": {
       "player": "chase meidroth",
@@ -3482,12 +3482,6 @@
     }
   },
   "sea @ cle": {
-    "32": {
-      "player": "jp crawford",
-      "pitcher": "gavin williams",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "31": {
       "player": "luke raley",
       "pitcher": "gavin williams",
@@ -3917,7 +3911,14 @@
       "pitch": "Sinker"
     }
   },
-  "chc @ col": {},
+  "chc @ col": {
+    "1": {
+      "player": "michael busch",
+      "pitcher": "mccade brown",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    }
+  },
   "ari @ lad": {},
   "tex @ ath": {}
 }
