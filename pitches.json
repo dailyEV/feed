@@ -431,8 +431,8 @@
     "46": {
       "player": "luis arraez",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "45": {
       "player": "james outman",
@@ -706,6 +706,12 @@
     }
   },
   "pit @ bos": {
+    "35": {
+      "player": "spencer horwitz",
+      "pitcher": "lucas giolito",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "jared triolo",
       "pitcher": "lucas giolito",
@@ -1142,6 +1148,18 @@
     }
   },
   "mil @ tor": {
+    "39": {
+      "player": "george springer",
+      "pitcher": "brandon woodruff",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
+    "38": {
+      "player": "myles straw",
+      "pitcher": "brandon woodruff",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "tyler heineman",
       "pitcher": "brandon woodruff",
@@ -1581,7 +1599,7 @@
     "31": {
       "player": "jeff mcneil",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "30": {
@@ -1769,7 +1787,7 @@
     "17": {
       "player": "jacob melton",
       "pitcher": "jose soriano",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "16": {
