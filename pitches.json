@@ -667,8 +667,8 @@
     "31": {
       "player": "masataka yoshida",
       "pitcher": "mitch keller",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "nathaniel lowe",
@@ -855,8 +855,8 @@
     "34": {
       "player": "paul dejong",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "dylan crews",
@@ -1270,6 +1270,12 @@
     }
   },
   "sea @ cle": {
+    "31": {
+      "player": "cj kayfus",
+      "pitcher": "bryce miller",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "nolan jones",
       "pitcher": "bryce miller",
@@ -1452,6 +1458,18 @@
     }
   },
   "mia @ nym": {
+    "28": {
+      "player": "joey wiemer",
+      "pitcher": "kodai senga",
+      "result": "Foul",
+      "pitch": "Forkball"
+    },
+    "27": {
+      "player": "troy johnston",
+      "pitcher": "kodai senga",
+      "result": "In play, out(s)",
+      "pitch": "Forkball"
+    },
     "26": {
       "player": "heriberto hernandez",
       "pitcher": "kodai senga",
@@ -1610,6 +1628,12 @@
     }
   },
   "laa @ hou": {
+    "14": {
+      "player": "christian walker",
+      "pitcher": "jose soriano",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "13": {
       "player": "matthew lugo",
       "pitcher": "hunter brown",
