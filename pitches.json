@@ -455,7 +455,7 @@
     "59": {
       "player": "luke keaschall",
       "pitcher": "yuki matsui",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -808,12 +808,6 @@
     }
   },
   "pit @ bos": {
-    "53": {
-      "player": "roman anthony",
-      "pitcher": "colin holderman",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "52": {
       "player": "carlos narvaez",
       "pitcher": "colin holderman",
@@ -1445,7 +1439,7 @@
     "54": {
       "player": "george springer",
       "pitcher": "tobias myers",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -2342,6 +2336,12 @@
     }
   },
   "laa @ hou": {
+    "31": {
+      "player": "travis darnaud",
+      "pitcher": "hunter brown",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "30": {
       "player": "christian walker",
       "pitcher": "jose soriano",
@@ -2951,8 +2951,8 @@
     "6": {
       "player": "ezequiel tovar",
       "pitcher": "matthew boyd",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "5": {
       "player": "tyler freeman",
