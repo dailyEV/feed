@@ -2966,16 +2966,10 @@
     }
   },
   "sd @ min": {
-    "50": {
-      "player": "ryan jeffers",
-      "pitcher": "adrian morejon",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "49": {
       "player": "matt wallner",
       "pitcher": "adrian morejon",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "48": {
@@ -3546,6 +3540,12 @@
     }
   },
   "det @ kc": {
+    "44": {
+      "player": "maikel garcia",
+      "pitcher": "tommy kahnle",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "43": {
       "player": "vinnie pasquantino",
       "pitcher": "jack flaherty",
@@ -4070,7 +4070,7 @@
       "player": "willy adames",
       "pitcher": "trevor rogers",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "49": {
       "player": "jeremiah jackson",
@@ -4368,6 +4368,12 @@
     }
   },
   "chc @ col": {
+    "12": {
+      "player": "carson kelly",
+      "pitcher": "mccade brown",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "ezequiel tovar",
       "pitcher": "javier assad",
