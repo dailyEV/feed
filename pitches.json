@@ -455,7 +455,7 @@
     "76": {
       "player": "luis arraez",
       "pitcher": "michael tonkin",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "75": {
@@ -913,7 +913,7 @@
     "68": {
       "player": "alexander canario",
       "pitcher": "garrett whitlock",
-      "result": "Ball In Dirt",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "67": {
@@ -1323,7 +1323,7 @@
     "68": {
       "player": "luis garcia",
       "pitcher": "pete fairbanks",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "67": {
@@ -1730,12 +1730,6 @@
     }
   },
   "mil @ tor": {
-    "70": {
-      "player": "george springer",
-      "pitcher": "tobias myers",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "69": {
       "player": "myles straw",
       "pitcher": "tobias myers",
@@ -2155,8 +2149,8 @@
     "63": {
       "player": "jp crawford",
       "pitcher": "kolby allard",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "62": {
       "player": "bo naylor",
@@ -2885,8 +2879,8 @@
     "48": {
       "player": "oswald peraza",
       "pitcher": "lance mccullers",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "47": {
       "player": "matthew lugo",
@@ -3175,8 +3169,8 @@
     "52": {
       "player": "gleyber torres",
       "pitcher": "jonathan bowlan",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "51": {
       "player": "colt keith",
@@ -3489,7 +3483,7 @@
     "49": {
       "player": "curtis mead",
       "pitcher": "fernando cruz",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "48": {
@@ -3782,6 +3776,12 @@
     }
   },
   "chc @ col": {
+    "25": {
+      "player": "brenton doyle",
+      "pitcher": "matthew boyd",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "24": {
       "player": "ezequiel tovar",
       "pitcher": "matthew boyd",
