@@ -3,7 +3,7 @@
     "72": {
       "player": "cesar prieto",
       "pitcher": "emilio pagan",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Splitter"
     },
     "71": {
@@ -434,6 +434,12 @@
     }
   },
   "sd @ min": {
+    "49": {
+      "player": "ramon laureano",
+      "pitcher": "joe ryan",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "48": {
       "player": "ryan ohearn",
       "pitcher": "joe ryan",
@@ -724,12 +730,6 @@
     }
   },
   "pit @ bos": {
-    "38": {
-      "player": "carlos narvaez",
-      "pitcher": "mitch keller",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "37": {
       "player": "ceddanne rafaela",
       "pitcher": "mitch keller",
@@ -1450,12 +1450,6 @@
     }
   },
   "sea @ cle": {
-    "38": {
-      "player": "brayan rocchio",
-      "pitcher": "bryce miller",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "37": {
       "player": "will wilson",
       "pitcher": "bryce miller",
@@ -1877,8 +1871,8 @@
     "18": {
       "player": "oswald peraza",
       "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "jacob melton",
