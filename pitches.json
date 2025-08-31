@@ -2769,8 +2769,8 @@
     "63": {
       "player": "jo adell",
       "pitcher": "bryan abreu",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "carlos correa",
@@ -3149,8 +3149,8 @@
     "66": {
       "player": "james outman",
       "pitcher": "jason adam",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "65": {
       "player": "brooks lee",
@@ -3922,7 +3922,7 @@
       "player": "tyler tolbert",
       "pitcher": "tyler holton",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "nick loftin",
@@ -5031,8 +5031,8 @@
     "30": {
       "player": "willi castro",
       "pitcher": "mccade brown",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "29": {
       "player": "dansby swanson",
@@ -5210,10 +5210,16 @@
     }
   },
   "ari @ lad": {
+    "12": {
+      "player": "andy pages",
+      "pitcher": "eduardo rodriguez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "teoscar hernandez",
       "pitcher": "eduardo rodriguez",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "10": {
