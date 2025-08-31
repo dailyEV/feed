@@ -3634,12 +3634,6 @@
     }
   },
   "nyy @ chw": {
-    "70": {
-      "player": "mike tauchman",
-      "pitcher": "david bednar",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "69": {
       "player": "chase meidroth",
       "pitcher": "david bednar",
@@ -4059,7 +4053,7 @@
     "64": {
       "player": "wenceel perez",
       "pitcher": "carlos estevez",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -4840,6 +4834,18 @@
     }
   },
   "bal @ sf": {
+    "74": {
+      "player": "coby mayo",
+      "pitcher": "christian koss",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
+    "73": {
+      "player": "dylan beavers",
+      "pitcher": "christian koss",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "72": {
       "player": "matt chapman",
       "pitcher": "shawn dubin",
@@ -5274,6 +5280,12 @@
     }
   },
   "chc @ col": {
+    "38": {
+      "player": "nico hoerner",
+      "pitcher": "jimmy herget",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "37": {
       "player": "ian happ",
       "pitcher": "mccade brown",
@@ -5498,6 +5510,12 @@
     }
   },
   "ari @ lad": {
+    "20": {
+      "player": "mookie betts",
+      "pitcher": "eduardo rodriguez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "shohei ohtani",
       "pitcher": "eduardo rodriguez",
