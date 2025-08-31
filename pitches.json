@@ -907,8 +907,8 @@
     "68": {
       "player": "alexander canario",
       "pitcher": "garrett whitlock",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "67": {
       "player": "bryan reynolds",
@@ -1314,6 +1314,12 @@
     }
   },
   "tb @ wsh": {
+    "68": {
+      "player": "luis garcia",
+      "pitcher": "pete fairbanks",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "67": {
       "player": "dylan crews",
       "pitcher": "pete fairbanks",
@@ -1721,7 +1727,7 @@
     "69": {
       "player": "myles straw",
       "pitcher": "tobias myers",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -2511,7 +2517,7 @@
     "58": {
       "player": "cedric mullins",
       "pitcher": "sandy alcantara",
-      "result": "In play, run(s)",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "57": {
@@ -2858,12 +2864,6 @@
     }
   },
   "laa @ hou": {
-    "48": {
-      "player": "oswald peraza",
-      "pitcher": "lance mccullers",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "47": {
       "player": "matthew lugo",
       "pitcher": "lance mccullers",
@@ -3151,7 +3151,7 @@
     "52": {
       "player": "gleyber torres",
       "pitcher": "jonathan bowlan",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "51": {
@@ -3462,6 +3462,12 @@
     }
   },
   "nyy @ chw": {
+    "49": {
+      "player": "curtis mead",
+      "pitcher": "fernando cruz",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "48": {
       "player": "edgar quero",
       "pitcher": "luis gil",
