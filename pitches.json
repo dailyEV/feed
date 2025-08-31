@@ -440,12 +440,6 @@
     }
   },
   "sd @ min": {
-    "50": {
-      "player": "gavin sheets",
-      "pitcher": "joe ryan",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "49": {
       "player": "ramon laureano",
       "pitcher": "joe ryan",
@@ -745,8 +739,8 @@
     "38": {
       "player": "carlos narvaez",
       "pitcher": "mitch keller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "37": {
       "player": "ceddanne rafaela",
@@ -972,6 +966,12 @@
     }
   },
   "tb @ wsh": {
+    "42": {
+      "player": "cj abrams",
+      "pitcher": "ian seymour",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "41": {
       "player": "james wood",
       "pitcher": "ian seymour",
@@ -1474,6 +1474,12 @@
     }
   },
   "sea @ cle": {
+    "39": {
+      "player": "austin hedges",
+      "pitcher": "bryce miller",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "38": {
       "player": "brayan rocchio",
       "pitcher": "bryce miller",
@@ -1704,6 +1710,12 @@
     }
   },
   "mia @ nym": {
+    "34": {
+      "player": "jakob marsee",
+      "pitcher": "kodai senga",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "xavier edwards",
       "pitcher": "kodai senga",
@@ -1908,7 +1920,7 @@
       "player": "zach neto",
       "pitcher": "hunter brown",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "18": {
       "player": "oswald peraza",
@@ -2020,6 +2032,12 @@
     }
   },
   "det @ kc": {
+    "24": {
+      "player": "gleyber torres",
+      "pitcher": "michael wacha",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "salvador perez",
       "pitcher": "tarik skubal",
