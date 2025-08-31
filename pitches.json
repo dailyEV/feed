@@ -1859,8 +1859,8 @@
     "74": {
       "player": "trea turner",
       "pitcher": "dylan dodd",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "73": {
       "player": "brandon marsh",
@@ -2664,6 +2664,12 @@
     }
   },
   "laa @ hou": {
+    "50": {
+      "player": "logan ohoppe",
+      "pitcher": "spencer arrighetti",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "luis rengifo",
       "pitcher": "spencer arrighetti",
@@ -2960,12 +2966,6 @@
     }
   },
   "sd @ min": {
-    "49": {
-      "player": "matt wallner",
-      "pitcher": "adrian morejon",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "48": {
       "player": "elias diaz",
       "pitcher": "mick abel",
@@ -3256,11 +3256,17 @@
     }
   },
   "nyy @ chw": {
+    "46": {
+      "player": "andrew benintendi",
+      "pitcher": "cam schlittler",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "45": {
       "player": "colson montgomery",
       "pitcher": "cam schlittler",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "44": {
       "player": "lenyn sosa",
@@ -3791,8 +3797,8 @@
     "43": {
       "player": "jose ramirez",
       "pitcher": "logan gilbert",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "42": {
       "player": "daniel schneemann",
@@ -4048,6 +4054,12 @@
     }
   },
   "bal @ sf": {
+    "50": {
+      "player": "willy adames",
+      "pitcher": "trevor rogers",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "49": {
       "player": "jeremiah jackson",
       "pitcher": "tristan beck",
