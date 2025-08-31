@@ -799,8 +799,8 @@
     "49": {
       "player": "masataka yoshida",
       "pitcher": "colin holderman",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "48": {
       "player": "nathaniel lowe",
@@ -1095,7 +1095,7 @@
     "50": {
       "player": "tristan gray",
       "pitcher": "shinnosuke ogasawara",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -1397,8 +1397,8 @@
     "52": {
       "player": "tyler heineman",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "51": {
       "player": "andres gimenez",
@@ -2001,8 +2001,8 @@
     "42": {
       "player": "troy johnston",
       "pitcher": "brandon waddell",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "41": {
       "player": "heriberto hernandez",
@@ -2252,12 +2252,6 @@
     }
   },
   "laa @ hou": {
-    "29": {
-      "player": "jesus sanchez",
-      "pitcher": "jose soriano",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "28": {
       "player": "carlos correa",
       "pitcher": "jose soriano",
@@ -2428,6 +2422,12 @@
     }
   },
   "det @ kc": {
+    "35": {
+      "player": "colt keith",
+      "pitcher": "michael wacha",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "34": {
       "player": "trey sweeney",
       "pitcher": "michael wacha",
@@ -2825,8 +2825,8 @@
     "3": {
       "player": "seiya suzuki",
       "pitcher": "tanner gordon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "2": {
       "player": "kyle tucker",
