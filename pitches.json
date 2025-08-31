@@ -3,7 +3,7 @@
     "55": {
       "player": "elly de la cruz",
       "pitcher": "gordon graceffo",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -335,7 +335,7 @@
     "27": {
       "player": "gavin sheets",
       "pitcher": "joe ryan",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -496,6 +496,12 @@
     }
   },
   "pit @ bos": {
+    "15": {
+      "player": "alexander canario",
+      "pitcher": "lucas giolito",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "henry davis",
       "pitcher": "lucas giolito",
@@ -677,8 +683,8 @@
     "16": {
       "player": "andruw monasterio",
       "pitcher": "max scherzer",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "15": {
       "player": "caleb durbin",
