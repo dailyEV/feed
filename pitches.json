@@ -407,7 +407,7 @@
     "44": {
       "player": "royce lewis",
       "pitcher": "wandy peralta",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "43": {
@@ -861,8 +861,8 @@
     "35": {
       "player": "daylen lile",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "paul dejong",
@@ -1070,6 +1070,12 @@
     }
   },
   "mil @ tor": {
+    "36": {
+      "player": "jackson chourio",
+      "pitcher": "max scherzer",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "brice turang",
       "pitcher": "max scherzer",
@@ -1282,6 +1288,12 @@
     }
   },
   "sea @ cle": {
+    "31": {
+      "player": "cj kayfus",
+      "pitcher": "bryce miller",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "nolan jones",
       "pitcher": "bryce miller",
@@ -1634,11 +1646,17 @@
     }
   },
   "laa @ hou": {
+    "15": {
+      "player": "yainer diaz",
+      "pitcher": "jose soriano",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "christian walker",
       "pitcher": "jose soriano",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "13": {
       "player": "matthew lugo",
@@ -1723,8 +1741,8 @@
     "17": {
       "player": "jake rogers",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "tyler tolbert",
