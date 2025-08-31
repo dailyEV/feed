@@ -1859,7 +1859,7 @@
     "72": {
       "player": "bryson stott",
       "pitcher": "hunter stratton",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "71": {
@@ -3205,8 +3205,8 @@
     "43": {
       "player": "jazz chisholm",
       "pitcher": "shane smith",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "cody bellinger",
@@ -3465,8 +3465,8 @@
     "41": {
       "player": "mike yastrzemski",
       "pitcher": "jack flaherty",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "40": {
       "player": "spencer torkelson",
@@ -4242,11 +4242,17 @@
     }
   },
   "chc @ col": {
-    "8": {
-      "player": "mickey moniak",
+    "9": {
+      "player": "hunter goodman",
       "pitcher": "javier assad",
       "result": "Ball",
       "pitch": "Cutter"
+    },
+    "8": {
+      "player": "mickey moniak",
+      "pitcher": "javier assad",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "tyler freeman",
