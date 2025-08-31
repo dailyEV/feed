@@ -3077,8 +3077,8 @@
     "56": {
       "player": "jo adell",
       "pitcher": "lance mccullers",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "55": {
       "player": "taylor ward",
@@ -3412,6 +3412,12 @@
     }
   },
   "det @ kc": {
+    "62": {
+      "player": "andy ibanez",
+      "pitcher": "sam long",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "61": {
       "player": "jake rogers",
       "pitcher": "sam long",
@@ -3783,8 +3789,8 @@
     "58": {
       "player": "giancarlo stanton",
       "pitcher": "wikelman gonzalez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "cody bellinger",
@@ -4130,10 +4136,16 @@
     }
   },
   "chc @ col": {
+    "35": {
+      "player": "tyler freeman",
+      "pitcher": "matthew boyd",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "34": {
       "player": "ryan ritter",
       "pitcher": "matthew boyd",
-      "result": "Foul",
+      "result": "Hit By Pitch",
       "pitch": "4-Seam Fastball"
     },
     "33": {
