@@ -2302,10 +2302,16 @@
     }
   },
   "stl @ cin": {
+    "64": {
+      "player": "pedro pages",
+      "pitcher": "zach maxwell",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "thomas saggese",
       "pitcher": "zach maxwell",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "62": {
@@ -2682,6 +2688,12 @@
     }
   },
   "laa @ hou": {
+    "52": {
+      "player": "travis darnaud",
+      "pitcher": "bryan king",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "matthew lugo",
       "pitcher": "bryan king",
@@ -2993,8 +3005,8 @@
     "53": {
       "player": "luis arraez",
       "pitcher": "mick abel",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "52": {
       "player": "fernando tatis",
@@ -3606,12 +3618,6 @@
     }
   },
   "det @ kc": {
-    "47": {
-      "player": "dillon dingler",
-      "pitcher": "john schreiber",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "46": {
       "player": "wenceel perez",
       "pitcher": "john schreiber",
@@ -4168,6 +4174,12 @@
     }
   },
   "bal @ sf": {
+    "53": {
+      "player": "gunnar henderson",
+      "pitcher": "tristan beck",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "52": {
       "player": "wilmer flores",
       "pitcher": "trevor rogers",
