@@ -452,12 +452,6 @@
     }
   },
   "sd @ min": {
-    "68": {
-      "player": "austin martin",
-      "pitcher": "mason miller",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "67": {
       "player": "ramon laureano",
       "pitcher": "michael tonkin",
@@ -2310,6 +2304,12 @@
     }
   },
   "mia @ nym": {
+    "53": {
+      "player": "otto lopez",
+      "pitcher": "brandon waddell",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "52": {
       "player": "agustin ramirez",
       "pitcher": "brandon waddell",
@@ -2627,8 +2627,8 @@
     "41": {
       "player": "jo adell",
       "pitcher": "hunter brown",
-      "result": "Ball In Dirt",
-      "pitch": "Knuckle Curve"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "40": {
       "player": "taylor ward",
@@ -3148,7 +3148,7 @@
       "player": "amed rosario",
       "pitcher": "martin perez",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "42": {
       "player": "giancarlo stanton",
