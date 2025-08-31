@@ -2227,8 +2227,8 @@
     "68": {
       "player": "jose ramirez",
       "pitcher": "andres munoz",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "67": {
       "player": "daniel schneemann",
@@ -2632,7 +2632,7 @@
       "player": "pete alonso",
       "pitcher": "calvin faucher",
       "result": "Ball In Dirt",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "65": {
       "player": "brandon nimmo",
@@ -4211,7 +4211,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "tex @ ath": {},
+  "tex @ ath": {
+    "1": {
+      "player": "josh smith",
+      "pitcher": "jt ginn",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  },
   "ari @ lad": {},
   "atl @ phi": {}
 }
