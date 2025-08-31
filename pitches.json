@@ -3,8 +3,8 @@
     "59": {
       "player": "ivan herrera",
       "pitcher": "nick martinez",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "lars nootbaar",
@@ -359,8 +359,8 @@
     "31": {
       "player": "ryan jeffers",
       "pitcher": "jeremiah estrada",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "30": {
       "player": "kody clemens",
@@ -669,7 +669,7 @@
     "20": {
       "player": "bob seymour",
       "pitcher": "brad lord",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -919,7 +919,7 @@
     "17": {
       "player": "randy arozarena",
       "pitcher": "tanner bibee",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "16": {
@@ -1023,8 +1023,8 @@
     "14": {
       "player": "mark vientos",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "13": {
       "player": "jeff mcneil",
@@ -1110,7 +1110,7 @@
       "player": "mike trout",
       "pitcher": "hunter brown",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "yoan moncada",
@@ -1146,11 +1146,17 @@
     }
   },
   "nyy @ chw": {
-    "2": {
-      "player": "aaron judge",
+    "3": {
+      "player": "cody bellinger",
       "pitcher": "martin perez",
       "result": "Called Strike",
       "pitch": "Sinker"
+    },
+    "2": {
+      "player": "aaron judge",
+      "pitcher": "martin perez",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "1": {
       "player": "paul goldschmidt",
