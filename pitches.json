@@ -709,7 +709,7 @@
     "34": {
       "player": "jared triolo",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -1145,8 +1145,8 @@
     "37": {
       "player": "tyler heineman",
       "pitcher": "brandon woodruff",
-      "result": "Foul Bunt",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "36": {
       "player": "jackson chourio",
@@ -1870,6 +1870,12 @@
     }
   },
   "det @ kc": {
+    "20": {
+      "player": "maikel garcia",
+      "pitcher": "tarik skubal",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "colt keith",
       "pitcher": "michael wacha",
@@ -1986,6 +1992,12 @@
     }
   },
   "nyy @ chw": {
+    "21": {
+      "player": "cody bellinger",
+      "pitcher": "martin perez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "aaron judge",
       "pitcher": "martin perez",
