@@ -1860,7 +1860,7 @@
       "player": "harrison bader",
       "pitcher": "pierce johnson",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "54": {
       "player": "ronald acuna",
@@ -2433,7 +2433,7 @@
     "26": {
       "player": "christian walker",
       "pitcher": "kyle hendricks",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "25": {
@@ -2755,8 +2755,8 @@
     "24": {
       "player": "aaron judge",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "ben rice",
@@ -3038,11 +3038,17 @@
     }
   },
   "sea @ cle": {
-    "22": {
-      "player": "julio rodriguez",
+    "23": {
+      "player": "josh naylor",
       "pitcher": "gavin williams",
       "result": "Foul",
       "pitch": "4-Seam Fastball"
+    },
+    "22": {
+      "player": "julio rodriguez",
+      "pitcher": "gavin williams",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "steven kwan",
