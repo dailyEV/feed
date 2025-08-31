@@ -2673,8 +2673,8 @@
     "73": {
       "player": "brett baty",
       "pitcher": "freddy tarnok",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "72": {
       "player": "mark vientos",
@@ -3472,6 +3472,12 @@
     }
   },
   "det @ kc": {
+    "65": {
+      "player": "bobby witt",
+      "pitcher": "kyle finnegan",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "64": {
       "player": "maikel garcia",
       "pitcher": "kyle finnegan",
@@ -3861,8 +3867,8 @@
     "60": {
       "player": "jazz chisholm",
       "pitcher": "cam booser",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "59": {
       "player": "amed rosario",
@@ -4220,6 +4226,12 @@
     }
   },
   "chc @ col": {
+    "38": {
+      "player": "michael busch",
+      "pitcher": "tanner gordon",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "reese mcguire",
       "pitcher": "tanner gordon",
@@ -4444,11 +4456,17 @@
     }
   },
   "bal @ sf": {
+    "7": {
+      "player": "rafael devers",
+      "pitcher": "tomoyuki sugano",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "6": {
       "player": "heliot ramos",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "5": {
       "player": "colton cowser",
@@ -4485,8 +4503,8 @@
     "7": {
       "player": "jacob wilson",
       "pitcher": "jacob degrom",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "6": {
       "player": "lawrence butler",
