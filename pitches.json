@@ -386,6 +386,18 @@
     }
   },
   "sd @ min": {
+    "39": {
+      "player": "matt wallner",
+      "pitcher": "wandy peralta",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
+    "38": {
+      "player": "byron buxton",
+      "pitcher": "wandy peralta",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "fernando tatis",
       "pitcher": "joe ryan",
@@ -613,8 +625,8 @@
     "27": {
       "player": "alex bregman",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "henry davis",
@@ -1144,11 +1156,17 @@
     }
   },
   "sea @ cle": {
+    "28": {
+      "player": "dominic canzone",
+      "pitcher": "tanner bibee",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "jorge polanco",
       "pitcher": "tanner bibee",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "eugenio suarez",
@@ -1311,8 +1329,8 @@
     "23": {
       "player": "francisco lindor",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "22": {
       "player": "hayden senger",
@@ -1510,6 +1528,12 @@
     }
   },
   "det @ kc": {
+    "12": {
+      "player": "randal grichuk",
+      "pitcher": "tarik skubal",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "zach mckinstry",
       "pitcher": "michael wacha",
@@ -1578,6 +1602,12 @@
     }
   },
   "nyy @ chw": {
+    "13": {
+      "player": "edgar quero",
+      "pitcher": "luis gil",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "ben rice",
       "pitcher": "martin perez",
