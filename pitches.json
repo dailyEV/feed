@@ -2932,7 +2932,7 @@
       "player": "mike trout",
       "pitcher": "spencer arrighetti",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "42": {
       "player": "yoan moncada",
@@ -2968,7 +2968,7 @@
       "player": "bryce teodosio",
       "pitcher": "spencer arrighetti",
       "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "36": {
       "player": "niko kavadas",
@@ -3028,7 +3028,7 @@
       "player": "mike trout",
       "pitcher": "spencer arrighetti",
       "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "26": {
       "player": "christian walker",
@@ -3076,13 +3076,13 @@
       "player": "zach neto",
       "pitcher": "spencer arrighetti",
       "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "18": {
       "player": "bryce teodosio",
       "pitcher": "spencer arrighetti",
       "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "17": {
       "player": "niko kavadas",
@@ -3188,6 +3188,12 @@
     }
   },
   "sd @ min": {
+    "72": {
+      "player": "elias diaz",
+      "pitcher": "genesis cabrera",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "71": {
       "player": "jake cronenworth",
       "pitcher": "genesis cabrera",
@@ -4017,8 +4023,8 @@
     "62": {
       "player": "spencer torkelson",
       "pitcher": "carlos estevez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "maikel garcia",
@@ -4388,11 +4394,17 @@
     }
   },
   "sea @ cle": {
+    "66": {
+      "player": "luke raley",
+      "pitcher": "cade smith",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "65": {
       "player": "jorge polanco",
       "pitcher": "cade smith",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "eugenio suarez",
@@ -4784,7 +4796,7 @@
       "player": "rafael devers",
       "pitcher": "shawn dubin",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "69": {
       "player": "heliot ramos",
