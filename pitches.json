@@ -455,8 +455,8 @@
     "55": {
       "player": "jose iglesias",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "54": {
       "player": "jake cronenworth",
@@ -1349,7 +1349,7 @@
     "48": {
       "player": "isaac collins",
       "pitcher": "tommy nance",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "47": {
@@ -1639,8 +1639,8 @@
     "45": {
       "player": "jose ramirez",
       "pitcher": "bryce miller",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "daniel schneemann",
@@ -1908,10 +1908,16 @@
     }
   },
   "mia @ nym": {
+    "40": {
+      "player": "cedric mullins",
+      "pitcher": "sandy alcantara",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "brett baty",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "38": {
