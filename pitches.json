@@ -2674,7 +2674,7 @@
       "player": "logan ohoppe",
       "pitcher": "spencer arrighetti",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "49": {
       "player": "luis rengifo",
@@ -3833,8 +3833,8 @@
     "45": {
       "player": "bo naylor",
       "pitcher": "logan gilbert",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "44": {
       "player": "kyle manzardo",
@@ -4102,10 +4102,16 @@
     }
   },
   "bal @ sf": {
+    "52": {
+      "player": "wilmer flores",
+      "pitcher": "trevor rogers",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "51": {
       "player": "matt chapman",
       "pitcher": "trevor rogers",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "50": {
@@ -4410,6 +4416,12 @@
     }
   },
   "chc @ col": {
+    "13": {
+      "player": "dansby swanson",
+      "pitcher": "mccade brown",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "12": {
       "player": "carson kelly",
       "pitcher": "mccade brown",
