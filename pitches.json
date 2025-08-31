@@ -2302,6 +2302,12 @@
     }
   },
   "stl @ cin": {
+    "62": {
+      "player": "nolan gorman",
+      "pitcher": "zach maxwell",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "noelvi marte",
       "pitcher": "jojo romero",
@@ -2670,6 +2676,12 @@
     }
   },
   "laa @ hou": {
+    "51": {
+      "player": "matthew lugo",
+      "pitcher": "bryan king",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "50": {
       "player": "logan ohoppe",
       "pitcher": "spencer arrighetti",
@@ -2823,7 +2835,7 @@
     "25": {
       "player": "jesus sanchez",
       "pitcher": "kyle hendricks",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "24": {
@@ -2975,8 +2987,8 @@
     "52": {
       "player": "fernando tatis",
       "pitcher": "mick abel",
-      "result": "In play, no out",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "51": {
       "player": "kody clemens",
@@ -3570,11 +3582,17 @@
     }
   },
   "det @ kc": {
+    "46": {
+      "player": "wenceel perez",
+      "pitcher": "john schreiber",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "riley greene",
       "pitcher": "john schreiber",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "44": {
       "player": "maikel garcia",
