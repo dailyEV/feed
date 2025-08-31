@@ -4,7 +4,7 @@
       "player": "spencer steer",
       "pitcher": "gordon graceffo",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "61": {
       "player": "gavin lux",
@@ -741,8 +741,8 @@
     "27": {
       "player": "cj abrams",
       "pitcher": "ian seymour",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "james wood",
@@ -1069,7 +1069,7 @@
     "23": {
       "player": "steven kwan",
       "pitcher": "bryce miller",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "22": {
@@ -1331,8 +1331,8 @@
     "7": {
       "player": "yordan alvarez",
       "pitcher": "jose soriano",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "jeremy pena",
@@ -1372,6 +1372,12 @@
     }
   },
   "det @ kc": {
+    "9": {
+      "player": "spencer torkelson",
+      "pitcher": "michael wacha",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "riley greene",
       "pitcher": "michael wacha",
@@ -1425,8 +1431,8 @@
     "10": {
       "player": "jazz chisholm",
       "pitcher": "martin perez",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "9": {
       "player": "colson montgomery",
