@@ -768,10 +768,16 @@
     }
   },
   "tb @ wsh": {
+    "30": {
+      "player": "chandler simpson",
+      "pitcher": "pj poulin",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "carson williams",
       "pitcher": "pj poulin",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "28": {
@@ -1281,7 +1287,7 @@
     "22": {
       "player": "hayden senger",
       "pitcher": "sandy alcantara",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "21": {
@@ -1412,6 +1418,12 @@
     }
   },
   "laa @ hou": {
+    "10": {
+      "player": "jesus sanchez",
+      "pitcher": "jose soriano",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "9": {
       "player": "carlos correa",
       "pitcher": "jose soriano",
