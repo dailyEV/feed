@@ -1856,11 +1856,17 @@
     }
   },
   "atl @ phi": {
+    "67": {
+      "player": "nacho alvarez",
+      "pitcher": "matt strahm",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "66": {
       "player": "michael harris",
       "pitcher": "matt strahm",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "65": {
       "player": "alec bohm",
@@ -2257,8 +2263,8 @@
     "53": {
       "player": "kebryan hayes",
       "pitcher": "michael mcgreevy",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "52": {
       "player": "spencer steer",
@@ -2574,12 +2580,6 @@
     }
   },
   "laa @ hou": {
-    "41": {
-      "player": "zach neto",
-      "pitcher": "spencer arrighetti",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
     "40": {
       "player": "carlos correa",
       "pitcher": "kyle hendricks",
@@ -2822,6 +2822,12 @@
     }
   },
   "sd @ min": {
+    "43": {
+      "player": "ryan ohearn",
+      "pitcher": "mick abel",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "42": {
       "player": "manny machado",
       "pitcher": "mick abel",
@@ -3530,6 +3536,18 @@
     }
   },
   "sea @ cle": {
+    "35": {
+      "player": "nolan jones",
+      "pitcher": "logan gilbert",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "34": {
+      "player": "cj kayfus",
+      "pitcher": "logan gilbert",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "33": {
       "player": "cole young",
       "pitcher": "gavin williams",
@@ -3730,12 +3748,6 @@
     }
   },
   "bal @ sf": {
-    "43": {
-      "player": "andrew knizner",
-      "pitcher": "trevor rogers",
-      "result": "In play, no out",
-      "pitch": "Changeup"
-    },
     "42": {
       "player": "luis matos",
       "pitcher": "trevor rogers",
