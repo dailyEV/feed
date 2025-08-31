@@ -452,6 +452,12 @@
     }
   },
   "sd @ min": {
+    "67": {
+      "player": "ramon laureano",
+      "pitcher": "michael tonkin",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "66": {
       "player": "ryan ohearn",
       "pitcher": "michael tonkin",
@@ -1924,6 +1930,12 @@
     }
   },
   "sea @ cle": {
+    "56": {
+      "player": "josh naylor",
+      "pitcher": "kolby allard",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "55": {
       "player": "cj kayfus",
       "pitcher": "gabe speier",
@@ -2253,8 +2265,8 @@
     "51": {
       "player": "jakob marsee",
       "pitcher": "brandon waddell",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "xavier edwards",
@@ -2558,17 +2570,11 @@
     }
   },
   "laa @ hou": {
-    "39": {
-      "player": "mike trout",
-      "pitcher": "hunter brown",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "38": {
       "player": "yoan moncada",
       "pitcher": "hunter brown",
-      "result": "In play, out(s)",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "37": {
       "player": "jacob melton",
@@ -2794,12 +2800,6 @@
     }
   },
   "det @ kc": {
-    "45": {
-      "player": "zach mckinstry",
-      "pitcher": "daniel lynch",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "44": {
       "player": "wenceel perez",
       "pitcher": "daniel lynch",
@@ -3317,8 +3317,8 @@
     "14": {
       "player": "matt shaw",
       "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "kyle farmer",
