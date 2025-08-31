@@ -1856,6 +1856,12 @@
     }
   },
   "atl @ phi": {
+    "60": {
+      "player": "ozzie albies",
+      "pitcher": "jhoan duran",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "kyle schwarber",
       "pitcher": "dylan lee",
@@ -2502,11 +2508,17 @@
     }
   },
   "laa @ hou": {
+    "35": {
+      "player": "logan ohoppe",
+      "pitcher": "spencer arrighetti",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "34": {
       "player": "luis rengifo",
       "pitcher": "spencer arrighetti",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "33": {
       "player": "jeremy pena",
@@ -2923,8 +2935,8 @@
     "32": {
       "player": "ryan mcmahon",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "anthony volpe",
@@ -3117,8 +3129,8 @@
     "31": {
       "player": "dillon dingler",
       "pitcher": "stephen kolek",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "30": {
       "player": "adam frazier",
@@ -3306,7 +3318,7 @@
       "player": "david fry",
       "pitcher": "logan gilbert",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "Splitter"
     },
     "28": {
       "player": "bo naylor",
@@ -3481,8 +3493,8 @@
     "37": {
       "player": "casey schmitt",
       "pitcher": "trevor rogers",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "36": {
       "player": "wilmer flores",
