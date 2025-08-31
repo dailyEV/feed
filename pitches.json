@@ -3,7 +3,7 @@
     "44": {
       "player": "austin hays",
       "pitcher": "andre pallante",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "43": {
@@ -270,7 +270,7 @@
       "player": "fernando tatis",
       "pitcher": "joe ryan",
       "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "freddy fermin",
@@ -370,11 +370,17 @@
     }
   },
   "pit @ bos": {
+    "5": {
+      "player": "alex bregman",
+      "pitcher": "mitch keller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "roman anthony",
       "pitcher": "mitch keller",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "3": {
       "player": "tommy pham",
@@ -396,6 +402,12 @@
     }
   },
   "tb @ wsh": {
+    "5": {
+      "player": "cj abrams",
+      "pitcher": "ian seymour",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "4": {
       "player": "james wood",
       "pitcher": "ian seymour",
@@ -422,6 +434,12 @@
     }
   },
   "mil @ tor": {
+    "4": {
+      "player": "william contreras",
+      "pitcher": "max scherzer",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "christian yelich",
       "pitcher": "max scherzer",
@@ -442,11 +460,17 @@
     }
   },
   "sea @ cle": {
+    "3": {
+      "player": "julio rodriguez",
+      "pitcher": "tanner bibee",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "2": {
       "player": "cal raleigh",
       "pitcher": "tanner bibee",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Hit By Pitch",
+      "pitch": "Cutter"
     },
     "1": {
       "player": "randy arozarena",
