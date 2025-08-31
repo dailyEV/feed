@@ -1,11 +1,5 @@
 {
   "stl @ cin": {
-    "60": {
-      "player": "austin hays",
-      "pitcher": "gordon graceffo",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
     "59": {
       "player": "ivan herrera",
       "pitcher": "nick martinez",
@@ -365,8 +359,8 @@
     "34": {
       "player": "austin martin",
       "pitcher": "jeremiah estrada",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "33": {
       "player": "james outman",
@@ -869,7 +863,7 @@
     "25": {
       "player": "william contreras",
       "pitcher": "max scherzer",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -1140,11 +1134,17 @@
     }
   },
   "mia @ nym": {
+    "18": {
+      "player": "jakob marsee",
+      "pitcher": "kodai senga",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "17": {
       "player": "xavier edwards",
       "pitcher": "kodai senga",
-      "result": "Swinging Strike",
-      "pitch": "Forkball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "javier sanoja",
@@ -1279,7 +1279,7 @@
     "7": {
       "player": "salvador perez",
       "pitcher": "tarik skubal",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Changeup"
     },
     "6": {
@@ -1320,6 +1320,12 @@
     }
   },
   "nyy @ chw": {
+    "7": {
+      "player": "kyle teel",
+      "pitcher": "luis gil",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "6": {
       "player": "mike tauchman",
       "pitcher": "luis gil",
