@@ -526,11 +526,17 @@
     }
   },
   "pit @ bos": {
+    "19": {
+      "player": "carlos narvaez",
+      "pitcher": "mitch keller",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "18": {
       "player": "ceddanne rafaela",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "17": {
       "player": "jared triolo",
@@ -749,7 +755,7 @@
     "19": {
       "player": "george springer",
       "pitcher": "brandon woodruff",
-      "result": "In play, run(s)",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -951,8 +957,8 @@
     "12": {
       "player": "pete alonso",
       "pitcher": "sandy alcantara",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "11": {
       "player": "joey wiemer",
@@ -1021,7 +1027,14 @@
       "pitch": "Forkball"
     }
   },
-  "laa @ hou": {},
+  "laa @ hou": {
+    "1": {
+      "player": "zach neto",
+      "pitcher": "hunter brown",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "det @ kc": {},
   "nyy @ chw": {},
   "chc @ col": {},
