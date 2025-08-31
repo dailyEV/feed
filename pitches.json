@@ -1,10 +1,16 @@
 {
   "stl @ cin": {
+    "50": {
+      "player": "jordan walker",
+      "pitcher": "brady singer",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "cesar prieto",
       "pitcher": "brady singer",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "thomas saggese",
@@ -299,8 +305,8 @@
     "21": {
       "player": "byron buxton",
       "pitcher": "kyle hart",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "austin martin",
@@ -486,6 +492,12 @@
     }
   },
   "tb @ wsh": {
+    "10": {
+      "player": "hunter feduccia",
+      "pitcher": "brad lord",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "everson pereira",
       "pitcher": "brad lord",
