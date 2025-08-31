@@ -359,7 +359,7 @@
     "32": {
       "player": "royce lewis",
       "pitcher": "jeremiah estrada",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -1187,8 +1187,8 @@
     "4": {
       "player": "taylor ward",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "3": {
       "player": "mike trout",
@@ -1210,10 +1210,16 @@
     }
   },
   "det @ kc": {
+    "6": {
+      "player": "vinnie pasquantino",
+      "pitcher": "tarik skubal",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "bobby witt",
       "pitcher": "tarik skubal",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "4": {
@@ -1245,7 +1251,7 @@
     "5": {
       "player": "amed rosario",
       "pitcher": "martin perez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "4": {
