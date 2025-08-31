@@ -1083,7 +1083,7 @@
     "49": {
       "player": "paul dejong",
       "pitcher": "edwin uceta",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "Changeup"
     },
     "48": {
@@ -1962,6 +1962,12 @@
     }
   },
   "mia @ nym": {
+    "41": {
+      "player": "heriberto hernandez",
+      "pitcher": "brandon waddell",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "40": {
       "player": "cedric mullins",
       "pitcher": "sandy alcantara",
@@ -2368,11 +2374,17 @@
     }
   },
   "det @ kc": {
+    "33": {
+      "player": "jake rogers",
+      "pitcher": "michael wacha",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "32": {
       "player": "zach mckinstry",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "wenceel perez",
@@ -2753,8 +2765,8 @@
     "1": {
       "player": "michael busch",
       "pitcher": "tanner gordon",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     }
   },
   "bal @ sf": {},
