@@ -3186,7 +3186,7 @@
       "player": "jake cronenworth",
       "pitcher": "genesis cabrera",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sinker"
     },
     "70": {
       "player": "jose iglesias",
@@ -3613,7 +3613,7 @@
     "66": {
       "player": "austin wells",
       "pitcher": "jordan leasure",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "65": {
@@ -4376,10 +4376,16 @@
     }
   },
   "sea @ cle": {
+    "65": {
+      "player": "jorge polanco",
+      "pitcher": "cade smith",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "64": {
       "player": "eugenio suarez",
       "pitcher": "cade smith",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -5402,6 +5408,12 @@
     }
   },
   "ari @ lad": {
+    "17": {
+      "player": "ildemaro vargas",
+      "pitcher": "tyler glasnow",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "tyler locklear",
       "pitcher": "tyler glasnow",
