@@ -2272,12 +2272,6 @@
     }
   },
   "stl @ cin": {
-    "56": {
-      "player": "willson contreras",
-      "pitcher": "connor phillips",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "55": {
       "player": "lars nootbaar",
       "pitcher": "connor phillips",
@@ -2879,7 +2873,7 @@
     "45": {
       "player": "gavin sheets",
       "pitcher": "mick abel",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "44": {
@@ -3151,7 +3145,7 @@
     "41": {
       "player": "aaron judge",
       "pitcher": "shane smith",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -3850,6 +3844,12 @@
     }
   },
   "bal @ sf": {
+    "46": {
+      "player": "samuel basallo",
+      "pitcher": "tristan beck",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "45": {
       "player": "rafael devers",
       "pitcher": "trevor rogers",
