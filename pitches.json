@@ -455,8 +455,8 @@
     "57": {
       "player": "fernando tatis",
       "pitcher": "joe ryan",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "freddy fermin",
@@ -1376,6 +1376,12 @@
     }
   },
   "mil @ tor": {
+    "50": {
+      "player": "ernie clement",
+      "pitcher": "brandon woodruff",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "nathan lukes",
       "pitcher": "brandon woodruff",
@@ -2201,8 +2207,8 @@
     "27": {
       "player": "luis rengifo",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "jo adell",
@@ -2365,8 +2371,8 @@
     "32": {
       "player": "zach mckinstry",
       "pitcher": "michael wacha",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "wenceel perez",
@@ -2737,7 +2743,14 @@
       "pitch": "Changeup"
     }
   },
-  "chc @ col": {},
+  "chc @ col": {
+    "1": {
+      "player": "michael busch",
+      "pitcher": "tanner gordon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "bal @ sf": {},
   "tex @ ath": {},
   "ari @ lad": {},
