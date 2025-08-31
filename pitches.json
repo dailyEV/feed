@@ -2302,12 +2302,6 @@
     }
   },
   "stl @ cin": {
-    "64": {
-      "player": "pedro pages",
-      "pitcher": "zach maxwell",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "63": {
       "player": "thomas saggese",
       "pitcher": "zach maxwell",
@@ -2691,7 +2685,7 @@
     "52": {
       "player": "travis darnaud",
       "pitcher": "bryan king",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "51": {
@@ -3005,8 +2999,8 @@
     "53": {
       "player": "luis arraez",
       "pitcher": "mick abel",
-      "result": "In play, no out",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "52": {
       "player": "fernando tatis",
@@ -3621,8 +3615,8 @@
     "47": {
       "player": "dillon dingler",
       "pitcher": "john schreiber",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "46": {
       "player": "wenceel perez",
@@ -3902,6 +3896,12 @@
     }
   },
   "sea @ cle": {
+    "47": {
+      "player": "jorge polanco",
+      "pitcher": "gavin williams",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "eugenio suarez",
       "pitcher": "gavin williams",
