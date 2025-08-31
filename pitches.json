@@ -284,11 +284,17 @@
     }
   },
   "sd @ min": {
+    "20": {
+      "player": "austin martin",
+      "pitcher": "kyle hart",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "19": {
       "player": "james outman",
       "pitcher": "kyle hart",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "18": {
       "player": "luis arraez",
@@ -503,8 +509,8 @@
     "7": {
       "player": "george springer",
       "pitcher": "brandon woodruff",
-      "result": "Hit By Pitch",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "andrew vaughn",
