@@ -757,7 +757,7 @@
     "40": {
       "player": "alex bregman",
       "pitcher": "mitch keller",
-      "result": "Ball",
+      "result": "Hit By Pitch",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -1259,7 +1259,7 @@
     "44": {
       "player": "christian yelich",
       "pitcher": "brendon little",
-      "result": "Ball In Dirt",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "43": {
@@ -1761,7 +1761,7 @@
     "36": {
       "player": "otto lopez",
       "pitcher": "kodai senga",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "4-Seam Fastball"
     },
     "35": {
@@ -2101,7 +2101,7 @@
     "26": {
       "player": "riley greene",
       "pitcher": "michael wacha",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "25": {
@@ -2256,6 +2256,12 @@
     }
   },
   "nyy @ chw": {
+    "25": {
+      "player": "lenyn sosa",
+      "pitcher": "luis gil",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "kyle teel",
       "pitcher": "luis gil",
