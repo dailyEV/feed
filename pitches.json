@@ -1859,7 +1859,7 @@
     "73": {
       "player": "brandon marsh",
       "pitcher": "dylan dodd",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Cutter"
     },
     "72": {
@@ -3776,11 +3776,17 @@
     }
   },
   "sea @ cle": {
+    "43": {
+      "player": "jose ramirez",
+      "pitcher": "logan gilbert",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "daniel schneemann",
       "pitcher": "logan gilbert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "41": {
       "player": "steven kwan",
@@ -4326,11 +4332,17 @@
     }
   },
   "chc @ col": {
+    "11": {
+      "player": "ezequiel tovar",
+      "pitcher": "javier assad",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "10": {
       "player": "brenton doyle",
       "pitcher": "javier assad",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "9": {
       "player": "hunter goodman",
