@@ -3511,8 +3511,8 @@
     "72": {
       "player": "adam frazier",
       "pitcher": "rafael montero",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "71": {
       "player": "salvador perez",
@@ -3945,7 +3945,7 @@
     "68": {
       "player": "paul goldschmidt",
       "pitcher": "mike vasil",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "67": {
@@ -4627,8 +4627,8 @@
     "14": {
       "player": "jackson holliday",
       "pitcher": "justin verlander",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "13": {
       "player": "daniel johnson",
@@ -4710,6 +4710,18 @@
     }
   },
   "tex @ ath": {
+    "18": {
+      "player": "wyatt langford",
+      "pitcher": "jt ginn",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "17": {
+      "player": "josh smith",
+      "pitcher": "jt ginn",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "16": {
       "player": "willie maciver",
       "pitcher": "jacob degrom",
