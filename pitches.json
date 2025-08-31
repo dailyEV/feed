@@ -1329,8 +1329,8 @@
     "69": {
       "player": "daylen lile",
       "pitcher": "pete fairbanks",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "68": {
       "player": "luis garcia",
@@ -3211,7 +3211,7 @@
     "53": {
       "player": "kerry carpenter",
       "pitcher": "jonathan bowlan",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "52": {
@@ -3531,8 +3531,8 @@
     "50": {
       "player": "ben rice",
       "pitcher": "steven wilson",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "curtis mead",
@@ -3830,6 +3830,12 @@
     }
   },
   "chc @ col": {
+    "26": {
+      "player": "pete crow armstrong",
+      "pitcher": "tanner gordon",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "brenton doyle",
       "pitcher": "matthew boyd",
