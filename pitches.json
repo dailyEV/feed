@@ -3,7 +3,7 @@
     "67": {
       "player": "thomas saggese",
       "pitcher": "tony santillan",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -404,10 +404,16 @@
     }
   },
   "sd @ min": {
+    "44": {
+      "player": "royce lewis",
+      "pitcher": "wandy peralta",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "ryan jeffers",
       "pitcher": "wandy peralta",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "42": {
@@ -667,8 +673,8 @@
     "31": {
       "player": "masataka yoshida",
       "pitcher": "mitch keller",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "nathaniel lowe",
@@ -855,8 +861,8 @@
     "35": {
       "player": "daylen lile",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "34": {
       "player": "paul dejong",
@@ -1067,7 +1073,7 @@
     "35": {
       "player": "brice turang",
       "pitcher": "max scherzer",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "34": {
@@ -1276,6 +1282,12 @@
     }
   },
   "sea @ cle": {
+    "31": {
+      "player": "cj kayfus",
+      "pitcher": "bryce miller",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "nolan jones",
       "pitcher": "bryce miller",
@@ -1461,8 +1473,8 @@
     "28": {
       "player": "joey wiemer",
       "pitcher": "kodai senga",
-      "result": "Foul",
-      "pitch": "Forkball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "troy johnston",
@@ -1628,6 +1640,12 @@
     }
   },
   "laa @ hou": {
+    "14": {
+      "player": "christian walker",
+      "pitcher": "jose soriano",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "13": {
       "player": "matthew lugo",
       "pitcher": "hunter brown",
@@ -1809,7 +1827,7 @@
     "17": {
       "player": "michael a taylor",
       "pitcher": "luis gil",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "16": {
