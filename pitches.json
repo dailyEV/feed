@@ -3,8 +3,8 @@
     "44": {
       "player": "austin hays",
       "pitcher": "andre pallante",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "elly de la cruz",
@@ -266,6 +266,12 @@
     }
   },
   "sd @ min": {
+    "17": {
+      "player": "fernando tatis",
+      "pitcher": "joe ryan",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "freddy fermin",
       "pitcher": "joe ryan",
@@ -393,8 +399,8 @@
     "4": {
       "player": "james wood",
       "pitcher": "ian seymour",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "3": {
       "player": "junior caminero",
@@ -419,8 +425,8 @@
     "3": {
       "player": "christian yelich",
       "pitcher": "max scherzer",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "2": {
       "player": "jackson chourio",
@@ -436,11 +442,17 @@
     }
   },
   "sea @ cle": {
+    "2": {
+      "player": "cal raleigh",
+      "pitcher": "tanner bibee",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "randy arozarena",
       "pitcher": "tanner bibee",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     }
   },
   "mia @ nym": {
