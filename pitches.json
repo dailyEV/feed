@@ -532,6 +532,12 @@
     }
   },
   "pit @ bos": {
+    "20": {
+      "player": "roman anthony",
+      "pitcher": "mitch keller",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "carlos narvaez",
       "pitcher": "mitch keller",
@@ -975,8 +981,8 @@
     "13": {
       "player": "jeff mcneil",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "pete alonso",
@@ -1063,11 +1069,18 @@
     "1": {
       "player": "colt keith",
       "pitcher": "michael wacha",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     }
   },
-  "nyy @ chw": {},
+  "nyy @ chw": {
+    "1": {
+      "player": "paul goldschmidt",
+      "pitcher": "martin perez",
+      "result": "Ball",
+      "pitch": "Cutter"
+    }
+  },
   "chc @ col": {},
   "bal @ sf": {},
   "tex @ ath": {},
