@@ -2302,17 +2302,11 @@
     }
   },
   "stl @ cin": {
-    "65": {
-      "player": "nathan church",
-      "pitcher": "zach maxwell",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "64": {
       "player": "pedro pages",
       "pitcher": "zach maxwell",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "63": {
       "player": "thomas saggese",
@@ -3923,7 +3917,7 @@
     "48": {
       "player": "luke raley",
       "pitcher": "gavin williams",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -4210,6 +4204,12 @@
     }
   },
   "bal @ sf": {
+    "56": {
+      "player": "dylan beavers",
+      "pitcher": "tristan beck",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "55": {
       "player": "colton cowser",
       "pitcher": "tristan beck",
@@ -4542,6 +4542,12 @@
     }
   },
   "chc @ col": {
+    "17": {
+      "player": "seiya suzuki",
+      "pitcher": "mccade brown",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "16": {
       "player": "kyle tucker",
       "pitcher": "mccade brown",
