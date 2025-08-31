@@ -2210,7 +2210,7 @@
       "player": "nolan gorman",
       "pitcher": "scott barlow",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Sinker"
     },
     "43": {
       "player": "jordan walker",
@@ -2648,10 +2648,16 @@
     }
   },
   "sd @ min": {
+    "31": {
+      "player": "royce lewis",
+      "pitcher": "nick pivetta",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "30": {
       "player": "kody clemens",
       "pitcher": "nick pivetta",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "29": {
@@ -3003,8 +3009,8 @@
     "27": {
       "player": "vinnie pasquantino",
       "pitcher": "jack flaherty",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "wenceel perez",
@@ -3322,6 +3328,12 @@
     }
   },
   "bal @ sf": {
+    "32": {
+      "player": "jeremiah jackson",
+      "pitcher": "tristan beck",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "31": {
       "player": "jackson holliday",
       "pitcher": "tristan beck",
