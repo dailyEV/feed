@@ -2753,7 +2753,7 @@
     "37": {
       "player": "james outman",
       "pitcher": "nick pivetta",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "36": {
@@ -2977,7 +2977,7 @@
     "35": {
       "player": "brooks baldwin",
       "pitcher": "cam schlittler",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -3389,8 +3389,8 @@
     "30": {
       "player": "jorge polanco",
       "pitcher": "gavin williams",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "29": {
       "player": "david fry",
@@ -3568,11 +3568,17 @@
     }
   },
   "bal @ sf": {
+    "39": {
+      "player": "dylan beavers",
+      "pitcher": "tristan beck",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "38": {
       "player": "colton cowser",
       "pitcher": "tristan beck",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "casey schmitt",
