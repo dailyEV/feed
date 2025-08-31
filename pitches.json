@@ -842,7 +842,7 @@
       "player": "spencer horwitz",
       "pitcher": "justin slaten",
       "result": "Foul",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "jared triolo",
@@ -1891,8 +1891,8 @@
     "54": {
       "player": "nolan jones",
       "pitcher": "gabe speier",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "53": {
       "player": "kyle manzardo",
@@ -2731,8 +2731,8 @@
     "42": {
       "player": "riley greene",
       "pitcher": "daniel lynch",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "bobby witt",
@@ -2985,7 +2985,7 @@
     "40": {
       "player": "mike tauchman",
       "pitcher": "luis gil",
-      "result": "Called Strike",
+      "result": "Foul Tip",
       "pitch": "Slider"
     },
     "39": {
@@ -3224,6 +3224,12 @@
     }
   },
   "chc @ col": {
+    "13": {
+      "player": "kyle farmer",
+      "pitcher": "matthew boyd",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "12": {
       "player": "kyle karros",
       "pitcher": "matthew boyd",
