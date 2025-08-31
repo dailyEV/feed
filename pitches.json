@@ -2209,8 +2209,8 @@
     "47": {
       "player": "nathan church",
       "pitcher": "scott barlow",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "46": {
       "player": "pedro pages",
@@ -2690,11 +2690,17 @@
     }
   },
   "sd @ min": {
+    "34": {
+      "player": "elias diaz",
+      "pitcher": "taj bradley",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "jake cronenworth",
       "pitcher": "taj bradley",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "32": {
       "player": "jose iglesias",
@@ -2890,12 +2896,6 @@
     }
   },
   "nyy @ chw": {
-    "31": {
-      "player": "anthony volpe",
-      "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "30": {
       "player": "will robertson",
       "pitcher": "cam schlittler",
@@ -3081,7 +3081,7 @@
     "30": {
       "player": "adam frazier",
       "pitcher": "jack flaherty",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "29": {
