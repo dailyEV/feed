@@ -1859,8 +1859,8 @@
     "67": {
       "player": "nacho alvarez",
       "pitcher": "matt strahm",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "66": {
       "player": "michael harris",
@@ -2263,8 +2263,8 @@
     "53": {
       "player": "kebryan hayes",
       "pitcher": "michael mcgreevy",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "52": {
       "player": "spencer steer",
@@ -2834,10 +2834,16 @@
     }
   },
   "sd @ min": {
+    "43": {
+      "player": "ryan ohearn",
+      "pitcher": "mick abel",
+      "result": "Foul Tip",
+      "pitch": "Curveball"
+    },
     "42": {
       "player": "manny machado",
       "pitcher": "mick abel",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "41": {
