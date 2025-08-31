@@ -452,12 +452,6 @@
     }
   },
   "sd @ min": {
-    "71": {
-      "player": "gavin sheets",
-      "pitcher": "michael tonkin",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "70": {
       "player": "matt wallner",
       "pitcher": "mason miller",
@@ -880,12 +874,6 @@
     }
   },
   "pit @ bos": {
-    "64": {
-      "player": "nick gonzales",
-      "pitcher": "garrett whitlock",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
     "63": {
       "player": "tommy pham",
       "pitcher": "garrett whitlock",
@@ -1655,8 +1643,8 @@
     "66": {
       "player": "sal frelick",
       "pitcher": "louis varland",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "65": {
       "player": "william contreras",
@@ -2726,6 +2714,12 @@
     }
   },
   "laa @ hou": {
+    "45": {
+      "player": "jose altuve",
+      "pitcher": "jose soriano",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "yordan alvarez",
       "pitcher": "jose soriano",
@@ -2995,8 +2989,8 @@
     "49": {
       "player": "jake rogers",
       "pitcher": "daniel lynch",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "48": {
       "player": "randal grichuk",
@@ -3291,8 +3285,8 @@
     "46": {
       "player": "lenyn sosa",
       "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "anthony volpe",
@@ -3569,7 +3563,7 @@
     "21": {
       "player": "orlando arcia",
       "pitcher": "matthew boyd",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "20": {
