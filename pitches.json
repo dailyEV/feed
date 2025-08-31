@@ -3125,8 +3125,8 @@
     "63": {
       "player": "jacob melton",
       "pitcher": "luis garcia",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "62": {
       "player": "ramon urias",
@@ -3502,6 +3502,12 @@
     }
   },
   "det @ kc": {
+    "70": {
+      "player": "vinnie pasquantino",
+      "pitcher": "rafael montero",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "69": {
       "player": "riley greene",
       "pitcher": "taylor clarke",
@@ -4325,7 +4331,7 @@
     "44": {
       "player": "ian happ",
       "pitcher": "tanner gordon",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -4588,11 +4594,17 @@
     }
   },
   "bal @ sf": {
+    "13": {
+      "player": "daniel johnson",
+      "pitcher": "justin verlander",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "12": {
       "player": "luis vazquez",
       "pitcher": "justin verlander",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "11": {
       "player": "samuel basallo",
