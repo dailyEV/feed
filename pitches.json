@@ -914,7 +914,7 @@
       "player": "liover peguero",
       "pitcher": "aroldis chapman",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Splitter"
     },
     "73": {
       "player": "jared triolo",
@@ -1781,8 +1781,8 @@
     "74": {
       "player": "davis schneider",
       "pitcher": "rob zastryzny",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "73": {
       "player": "jake bauers",
@@ -4203,7 +4203,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "bal @ sf": {},
+  "bal @ sf": {
+    "1": {
+      "player": "jackson holliday",
+      "pitcher": "justin verlander",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "tex @ ath": {},
   "ari @ lad": {},
   "atl @ phi": {}
