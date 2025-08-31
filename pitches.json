@@ -3164,12 +3164,6 @@
     }
   },
   "sd @ min": {
-    "68": {
-      "player": "ramon laureano",
-      "pitcher": "genesis cabrera",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "67": {
       "player": "ryan ohearn",
       "pitcher": "genesis cabrera",
@@ -3574,6 +3568,12 @@
     }
   },
   "nyy @ chw": {
+    "64": {
+      "player": "cody bellinger",
+      "pitcher": "jordan leasure",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "will robertson",
       "pitcher": "luke weaver",
@@ -4313,8 +4313,8 @@
     "63": {
       "player": "bo naylor",
       "pitcher": "gabe speier",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "kyle manzardo",
@@ -5094,6 +5094,12 @@
     }
   },
   "chc @ col": {
+    "33": {
+      "player": "ezequiel tovar",
+      "pitcher": "javier assad",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "32": {
       "player": "brenton doyle",
       "pitcher": "javier assad",
@@ -5288,10 +5294,16 @@
     }
   },
   "ari @ lad": {
+    "14": {
+      "player": "enrique hernandez",
+      "pitcher": "eduardo rodriguez",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "13": {
       "player": "alex call",
       "pitcher": "eduardo rodriguez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "12": {
