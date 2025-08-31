@@ -452,12 +452,6 @@
     }
   },
   "sd @ min": {
-    "65": {
-      "player": "will wagner",
-      "pitcher": "michael tonkin",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "64": {
       "player": "luis arraez",
       "pitcher": "michael tonkin",
@@ -848,7 +842,7 @@
       "player": "spencer horwitz",
       "pitcher": "justin slaten",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "57": {
       "player": "jared triolo",
@@ -1544,11 +1538,17 @@
     }
   },
   "mil @ tor": {
+    "60": {
+      "player": "jackson chourio",
+      "pitcher": "louis varland",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    },
     "59": {
       "player": "brice turang",
       "pitcher": "louis varland",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "58": {
       "player": "andruw monasterio",
@@ -2229,7 +2229,7 @@
     "50": {
       "player": "xavier edwards",
       "pitcher": "brandon waddell",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -2528,6 +2528,12 @@
     }
   },
   "laa @ hou": {
+    "38": {
+      "player": "yoan moncada",
+      "pitcher": "hunter brown",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "37": {
       "player": "jacob melton",
       "pitcher": "jose soriano",
