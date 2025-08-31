@@ -1769,7 +1769,7 @@
     "73": {
       "player": "jake bauers",
       "pitcher": "seranthony dominguez",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -2209,8 +2209,8 @@
     "66": {
       "player": "steven kwan",
       "pitcher": "andres munoz",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "65": {
       "player": "randy arozarena",
@@ -2981,7 +2981,7 @@
     "50": {
       "player": "carlos correa",
       "pitcher": "jose soriano",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "49": {
@@ -3280,10 +3280,16 @@
     }
   },
   "det @ kc": {
+    "56": {
+      "player": "michael massey",
+      "pitcher": "tarik skubal",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "luke maile",
       "pitcher": "tarik skubal",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "54": {
