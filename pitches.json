@@ -1308,6 +1308,12 @@
     }
   },
   "tb @ wsh": {
+    "68": {
+      "player": "luis garcia",
+      "pitcher": "pete fairbanks",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "67": {
       "player": "dylan crews",
       "pitcher": "pete fairbanks",
@@ -2849,7 +2855,7 @@
     "47": {
       "player": "matthew lugo",
       "pitcher": "lance mccullers",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "46": {
@@ -3130,11 +3136,17 @@
     }
   },
   "det @ kc": {
+    "52": {
+      "player": "gleyber torres",
+      "pitcher": "jonathan bowlan",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "colt keith",
       "pitcher": "jonathan bowlan",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "andy ibanez",
@@ -3731,8 +3743,8 @@
     "24": {
       "player": "ezequiel tovar",
       "pitcher": "matthew boyd",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "tyler freeman",
