@@ -2769,7 +2769,7 @@
     "72": {
       "player": "jesus sanchez",
       "pitcher": "kenley jansen",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "71": {
@@ -3200,6 +3200,12 @@
     }
   },
   "sd @ min": {
+    "75": {
+      "player": "ryan fitzgerald",
+      "pitcher": "jeremiah estrada",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "74": {
       "player": "austin martin",
       "pitcher": "jeremiah estrada",
@@ -3646,6 +3652,18 @@
     }
   },
   "nyy @ chw": {
+    "72": {
+      "player": "ryan mcmahon",
+      "pitcher": "grant taylor",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "71": {
+      "player": "anthony volpe",
+      "pitcher": "grant taylor",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "70": {
       "player": "mike tauchman",
       "pitcher": "david bednar",
@@ -5310,11 +5328,23 @@
     }
   },
   "chc @ col": {
+    "41": {
+      "player": "dansby swanson",
+      "pitcher": "jimmy herget",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
+    "40": {
+      "player": "carson kelly",
+      "pitcher": "jimmy herget",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "38": {
       "player": "nico hoerner",
       "pitcher": "jimmy herget",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "37": {
       "player": "ian happ",
@@ -5543,7 +5573,7 @@
     "21": {
       "player": "will smith",
       "pitcher": "eduardo rodriguez",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "20": {
