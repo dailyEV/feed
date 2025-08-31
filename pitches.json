@@ -748,6 +748,12 @@
     }
   },
   "pit @ bos": {
+    "39": {
+      "player": "roman anthony",
+      "pitcher": "mitch keller",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "carlos narvaez",
       "pitcher": "mitch keller",
@@ -978,11 +984,17 @@
     }
   },
   "tb @ wsh": {
+    "43": {
+      "player": "riley adams",
+      "pitcher": "ian seymour",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "42": {
       "player": "cj abrams",
       "pitcher": "ian seymour",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "james wood",
@@ -1232,17 +1244,11 @@
     }
   },
   "mil @ tor": {
-    "44": {
-      "player": "christian yelich",
-      "pitcher": "brendon little",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "43": {
       "player": "jackson chourio",
       "pitcher": "brendon little",
-      "result": "In play, no out",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "bo bichette",
@@ -1737,7 +1743,7 @@
     "35": {
       "player": "agustin ramirez",
       "pitcher": "kodai senga",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Forkball"
     },
     "34": {
@@ -1949,8 +1955,8 @@
     "20": {
       "player": "yoan moncada",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "19": {
       "player": "zach neto",
@@ -2071,8 +2077,8 @@
     "25": {
       "player": "kerry carpenter",
       "pitcher": "michael wacha",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "24": {
       "player": "gleyber torres",
@@ -2224,7 +2230,7 @@
       "player": "kyle teel",
       "pitcher": "luis gil",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "23": {
       "player": "mike tauchman",
