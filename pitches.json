@@ -2209,8 +2209,8 @@
     "45": {
       "player": "thomas saggese",
       "pitcher": "scott barlow",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "44": {
       "player": "nolan gorman",
@@ -2481,8 +2481,8 @@
     "31": {
       "player": "cam smith",
       "pitcher": "kyle hendricks",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "yainer diaz",
@@ -2666,6 +2666,12 @@
     }
   },
   "sd @ min": {
+    "32": {
+      "player": "jose iglesias",
+      "pitcher": "taj bradley",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "royce lewis",
       "pitcher": "nick pivetta",
@@ -2854,10 +2860,22 @@
     }
   },
   "nyy @ chw": {
+    "30": {
+      "player": "will robertson",
+      "pitcher": "cam schlittler",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "29": {
+      "player": "andrew benintendi",
+      "pitcher": "cam schlittler",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "28": {
       "player": "colson montgomery",
       "pitcher": "cam schlittler",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "27": {
@@ -3200,6 +3218,12 @@
     }
   },
   "sea @ cle": {
+    "27": {
+      "player": "kyle manzardo",
+      "pitcher": "logan gilbert",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "26": {
       "player": "jose ramirez",
       "pitcher": "logan gilbert",
