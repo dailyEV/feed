@@ -3,8 +3,8 @@
     "44": {
       "player": "austin hays",
       "pitcher": "andre pallante",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "43": {
       "player": "elly de la cruz",
@@ -407,7 +407,7 @@
     "3": {
       "player": "christian yelich",
       "pitcher": "max scherzer",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "2": {
@@ -424,7 +424,14 @@
     }
   },
   "sea @ cle": {},
-  "mia @ nym": {},
+  "mia @ nym": {
+    "1": {
+      "player": "xavier edwards",
+      "pitcher": "kodai senga",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "laa @ hou": {},
   "det @ kc": {},
   "nyy @ chw": {},
