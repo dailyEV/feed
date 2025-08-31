@@ -1859,7 +1859,7 @@
     "58": {
       "player": "trea turner",
       "pitcher": "pierce johnson",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "57": {
@@ -2478,6 +2478,12 @@
     }
   },
   "laa @ hou": {
+    "30": {
+      "player": "yainer diaz",
+      "pitcher": "kyle hendricks",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "jo adell",
       "pitcher": "spencer arrighetti",
@@ -2842,10 +2848,16 @@
     }
   },
   "nyy @ chw": {
+    "29": {
+      "player": "andrew benintendi",
+      "pitcher": "cam schlittler",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "28": {
       "player": "colson montgomery",
       "pitcher": "cam schlittler",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "27": {
@@ -3012,6 +3024,12 @@
     }
   },
   "det @ kc": {
+    "28": {
+      "player": "maikel garcia",
+      "pitcher": "jack flaherty",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "vinnie pasquantino",
       "pitcher": "jack flaherty",
@@ -3176,12 +3194,6 @@
     }
   },
   "sea @ cle": {
-    "27": {
-      "player": "kyle manzardo",
-      "pitcher": "logan gilbert",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
-    },
     "26": {
       "player": "jose ramirez",
       "pitcher": "logan gilbert",
