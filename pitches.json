@@ -1,16 +1,10 @@
 {
   "stl @ cin": {
-    "67": {
-      "player": "thomas saggese",
-      "pitcher": "tony santillan",
-      "result": "Called Strike",
-      "pitch": "Slurve"
-    },
     "66": {
       "player": "nolan gorman",
       "pitcher": "tony santillan",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "65": {
       "player": "willson contreras",
@@ -407,8 +401,8 @@
     "43": {
       "player": "ryan jeffers",
       "pitcher": "wandy peralta",
-      "result": "Foul Tip",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "kody clemens",
@@ -667,8 +661,8 @@
     "31": {
       "player": "masataka yoshida",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "30": {
       "player": "nathaniel lowe",
@@ -1058,6 +1052,12 @@
     }
   },
   "mil @ tor": {
+    "35": {
+      "player": "brice turang",
+      "pitcher": "max scherzer",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "andruw monasterio",
       "pitcher": "max scherzer",
@@ -1267,7 +1267,7 @@
     "30": {
       "player": "nolan jones",
       "pitcher": "bryce miller",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -1449,8 +1449,8 @@
     "26": {
       "player": "heriberto hernandez",
       "pitcher": "kodai senga",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "liam hicks",
