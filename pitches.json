@@ -290,6 +290,12 @@
     }
   },
   "sd @ min": {
+    "21": {
+      "player": "byron buxton",
+      "pitcher": "kyle hart",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "austin martin",
       "pitcher": "kyle hart",
@@ -415,8 +421,8 @@
     "9": {
       "player": "andrew mccutchen",
       "pitcher": "lucas giolito",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "8": {
       "player": "nick gonzales",
@@ -471,8 +477,8 @@
     "9": {
       "player": "everson pereira",
       "pitcher": "brad lord",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "8": {
       "player": "bob seymour",
@@ -524,11 +530,17 @@
     }
   },
   "mil @ tor": {
+    "9": {
+      "player": "vladimir guerrero",
+      "pitcher": "brandon woodruff",
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "addison barger",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "7": {
       "player": "george springer",
@@ -577,7 +589,7 @@
     "5": {
       "player": "steven kwan",
       "pitcher": "bryce miller",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "4": {
