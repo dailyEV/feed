@@ -2306,7 +2306,7 @@
       "player": "matt mclain",
       "pitcher": "kyle leahy",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "75": {
       "player": "will banfield",
@@ -3511,7 +3511,7 @@
     "59": {
       "player": "aaron judge",
       "pitcher": "brandon eisert",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "58": {
@@ -3867,8 +3867,8 @@
     "56": {
       "player": "kerry carpenter",
       "pitcher": "lucas erceg",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "55": {
       "player": "gleyber torres",
@@ -4205,7 +4205,7 @@
     "59": {
       "player": "julio rodriguez",
       "pitcher": "hunter gaddis",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -4561,8 +4561,8 @@
     "64": {
       "player": "jeremiah jackson",
       "pitcher": "matt gage",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "63": {
       "player": "jackson holliday",
@@ -4944,18 +4944,6 @@
     }
   },
   "chc @ col": {
-    "28": {
-      "player": "hunter goodman",
-      "pitcher": "javier assad",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
-    "27": {
-      "player": "mickey moniak",
-      "pitcher": "javier assad",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
     "26": {
       "player": "tyler freeman",
       "pitcher": "javier assad",
@@ -5114,11 +5102,17 @@
     }
   },
   "ari @ lad": {
+    "9": {
+      "player": "blaze alexander",
+      "pitcher": "tyler glasnow",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "lourdes gurriel",
       "pitcher": "tyler glasnow",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "7": {
       "player": "freddie freeman",
