@@ -269,8 +269,8 @@
     "17": {
       "player": "fernando tatis",
       "pitcher": "joe ryan",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "freddy fermin",
@@ -373,8 +373,8 @@
     "5": {
       "player": "alex bregman",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "4": {
       "player": "roman anthony",
@@ -405,8 +405,8 @@
     "5": {
       "player": "cj abrams",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "4": {
       "player": "james wood",
@@ -434,6 +434,12 @@
     }
   },
   "mil @ tor": {
+    "5": {
+      "player": "sal frelick",
+      "pitcher": "max scherzer",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "william contreras",
       "pitcher": "max scherzer",
@@ -463,8 +469,8 @@
     "3": {
       "player": "julio rodriguez",
       "pitcher": "tanner bibee",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "2": {
       "player": "cal raleigh",
@@ -483,8 +489,8 @@
     "1": {
       "player": "xavier edwards",
       "pitcher": "kodai senga",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Forkball"
     }
   },
   "laa @ hou": {},
