@@ -631,8 +631,8 @@
     "28": {
       "player": "jarren duran",
       "pitcher": "mitch keller",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "alex bregman",
@@ -989,8 +989,8 @@
     "31": {
       "player": "andres gimenez",
       "pitcher": "brandon woodruff",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "ernie clement",
@@ -1558,6 +1558,12 @@
     }
   },
   "det @ kc": {
+    "13": {
+      "player": "nick loftin",
+      "pitcher": "tarik skubal",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "randal grichuk",
       "pitcher": "tarik skubal",
@@ -1632,12 +1638,6 @@
     }
   },
   "nyy @ chw": {
-    "14": {
-      "player": "curtis mead",
-      "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "13": {
       "player": "edgar quero",
       "pitcher": "luis gil",
