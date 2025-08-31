@@ -4,7 +4,7 @@
       "player": "spencer steer",
       "pitcher": "gordon graceffo",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "61": {
       "player": "gavin lux",
@@ -580,11 +580,17 @@
     }
   },
   "pit @ bos": {
+    "26": {
+      "player": "henry davis",
+      "pitcher": "lucas giolito",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "25": {
       "player": "oneil cruz",
       "pitcher": "lucas giolito",
-      "result": "Ball In Dirt",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "24": {
       "player": "andrew mccutchen",
@@ -735,8 +741,8 @@
     "27": {
       "player": "cj abrams",
       "pitcher": "ian seymour",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "26": {
       "player": "james wood",
@@ -1325,8 +1331,8 @@
     "7": {
       "player": "yordan alvarez",
       "pitcher": "jose soriano",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "6": {
       "player": "jeremy pena",
@@ -1416,6 +1422,12 @@
     }
   },
   "nyy @ chw": {
+    "10": {
+      "player": "jazz chisholm",
+      "pitcher": "martin perez",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "9": {
       "player": "colson montgomery",
       "pitcher": "luis gil",
