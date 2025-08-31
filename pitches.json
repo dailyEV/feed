@@ -1781,8 +1781,8 @@
     "82": {
       "player": "william contreras",
       "pitcher": "jeff hoffman",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "81": {
       "player": "christian yelich",
@@ -2679,8 +2679,8 @@
     "74": {
       "player": "cedric mullins",
       "pitcher": "freddy tarnok",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "73": {
       "player": "brett baty",
@@ -3487,8 +3487,8 @@
     "65": {
       "player": "bobby witt",
       "pitcher": "kyle finnegan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "64": {
       "player": "maikel garcia",
@@ -3879,8 +3879,8 @@
     "60": {
       "player": "jazz chisholm",
       "pitcher": "cam booser",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "59": {
       "player": "amed rosario",
@@ -4512,6 +4512,12 @@
     }
   },
   "tex @ ath": {
+    "8": {
+      "player": "brent rooker",
+      "pitcher": "jacob degrom",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "7": {
       "player": "jacob wilson",
       "pitcher": "jacob degrom",
@@ -4559,7 +4565,7 @@
     "5": {
       "player": "mookie betts",
       "pitcher": "brandon pfaadt",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "4": {
