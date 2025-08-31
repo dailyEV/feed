@@ -1859,8 +1859,8 @@
     "54": {
       "player": "ronald acuna",
       "pitcher": "tanner banks",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "53": {
       "player": "matt olson",
@@ -2182,6 +2182,12 @@
     }
   },
   "stl @ cin": {
+    "39": {
+      "player": "jose trevino",
+      "pitcher": "michael mcgreevy",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "38": {
       "player": "willson contreras",
       "pitcher": "andrew abbott",
@@ -2415,7 +2421,7 @@
     "24": {
       "player": "carlos correa",
       "pitcher": "kyle hendricks",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "23": {
@@ -2713,8 +2719,8 @@
     "22": {
       "player": "lenyn sosa",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "21": {
       "player": "kyle teel",
@@ -2847,8 +2853,8 @@
     "22": {
       "player": "mike yastrzemski",
       "pitcher": "jack flaherty",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "kyle isbel",
@@ -3100,6 +3106,12 @@
     }
   },
   "bal @ sf": {
+    "25": {
+      "player": "andrew knizner",
+      "pitcher": "trevor rogers",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "luis matos",
       "pitcher": "trevor rogers",
