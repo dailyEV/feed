@@ -1,5 +1,11 @@
 {
   "stl @ cin": {
+    "60": {
+      "player": "austin hays",
+      "pitcher": "gordon graceffo",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "ivan herrera",
       "pitcher": "nick martinez",
@@ -359,8 +365,8 @@
     "34": {
       "player": "austin martin",
       "pitcher": "jeremiah estrada",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "james outman",
@@ -562,6 +568,12 @@
     }
   },
   "pit @ bos": {
+    "24": {
+      "player": "andrew mccutchen",
+      "pitcher": "lucas giolito",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "nick gonzales",
       "pitcher": "lucas giolito",
@@ -702,6 +714,18 @@
     }
   },
   "tb @ wsh": {
+    "25": {
+      "player": "jacob young",
+      "pitcher": "ian seymour",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
+    "24": {
+      "player": "brady house",
+      "pitcher": "ian seymour",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "23": {
       "player": "daylen lile",
       "pitcher": "ian seymour",
@@ -1220,6 +1244,12 @@
     }
   },
   "laa @ hou": {
+    "5": {
+      "player": "jo adell",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "taylor ward",
       "pitcher": "hunter brown",
