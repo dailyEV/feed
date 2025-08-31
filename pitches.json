@@ -4,7 +4,7 @@
       "player": "cesar prieto",
       "pitcher": "brady singer",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "48": {
       "player": "thomas saggese",
@@ -424,11 +424,17 @@
     }
   },
   "pit @ bos": {
+    "10": {
+      "player": "oneil cruz",
+      "pitcher": "lucas giolito",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "andrew mccutchen",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "8": {
       "player": "nick gonzales",
@@ -539,8 +545,8 @@
     "9": {
       "player": "vladimir guerrero",
       "pitcher": "brandon woodruff",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "8": {
       "player": "addison barger",
