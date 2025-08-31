@@ -412,6 +412,12 @@
     }
   },
   "pit @ bos": {
+    "9": {
+      "player": "andrew mccutchen",
+      "pitcher": "lucas giolito",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "8": {
       "player": "nick gonzales",
       "pitcher": "lucas giolito",
@@ -465,8 +471,8 @@
     "9": {
       "player": "everson pereira",
       "pitcher": "brad lord",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "8": {
       "player": "bob seymour",
@@ -518,11 +524,17 @@
     }
   },
   "mil @ tor": {
+    "9": {
+      "player": "vladimir guerrero",
+      "pitcher": "brandon woodruff",
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "addison barger",
       "pitcher": "brandon woodruff",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "7": {
       "player": "george springer",
@@ -568,6 +580,12 @@
     }
   },
   "sea @ cle": {
+    "5": {
+      "player": "steven kwan",
+      "pitcher": "bryce miller",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "josh naylor",
       "pitcher": "tanner bibee",
