@@ -455,8 +455,8 @@
     "57": {
       "player": "fernando tatis",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "56": {
       "player": "freddy fermin",
@@ -796,6 +796,12 @@
     }
   },
   "pit @ bos": {
+    "48": {
+      "player": "nathaniel lowe",
+      "pitcher": "colin holderman",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "47": {
       "player": "henry davis",
       "pitcher": "lucas giolito",
@@ -1379,8 +1385,8 @@
     "51": {
       "player": "andres gimenez",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "ernie clement",
@@ -1687,8 +1693,8 @@
     "48": {
       "player": "cole young",
       "pitcher": "tanner bibee",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "47": {
       "player": "jp crawford",
@@ -1974,6 +1980,12 @@
     }
   },
   "mia @ nym": {
+    "42": {
+      "player": "troy johnston",
+      "pitcher": "brandon waddell",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "heriberto hernandez",
       "pitcher": "brandon waddell",
@@ -2222,6 +2234,12 @@
     }
   },
   "laa @ hou": {
+    "28": {
+      "player": "carlos correa",
+      "pitcher": "jose soriano",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "27": {
       "player": "luis rengifo",
       "pitcher": "hunter brown",
@@ -2389,8 +2407,8 @@
     "33": {
       "player": "jake rogers",
       "pitcher": "michael wacha",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "zach mckinstry",
@@ -2589,7 +2607,7 @@
     "31": {
       "player": "ben rice",
       "pitcher": "martin perez",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "30": {
