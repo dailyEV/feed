@@ -1167,7 +1167,7 @@
     "56": {
       "player": "brandon lowe",
       "pitcher": "jose a ferrer",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "55": {
@@ -1846,6 +1846,12 @@
     }
   },
   "sea @ cle": {
+    "53": {
+      "player": "kyle manzardo",
+      "pitcher": "gabe speier",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "julio rodriguez",
       "pitcher": "matt festa",
@@ -2447,7 +2453,7 @@
     "35": {
       "player": "yainer diaz",
       "pitcher": "jose soriano",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Knuckle Curve"
     },
     "34": {
@@ -2659,8 +2665,8 @@
     "40": {
       "player": "maikel garcia",
       "pitcher": "tarik skubal",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "39": {
       "player": "tyler tolbert",
@@ -2901,8 +2907,8 @@
     "38": {
       "player": "cody bellinger",
       "pitcher": "martin perez",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "37": {
       "player": "aaron judge",
