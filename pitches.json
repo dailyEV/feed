@@ -452,10 +452,16 @@
     }
   },
   "sd @ min": {
+    "74": {
+      "player": "freddy fermin",
+      "pitcher": "michael tonkin",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "73": {
       "player": "jose iglesias",
       "pitcher": "michael tonkin",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -892,6 +898,12 @@
     }
   },
   "pit @ bos": {
+    "67": {
+      "player": "bryan reynolds",
+      "pitcher": "garrett whitlock",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "66": {
       "player": "oneil cruz",
       "pitcher": "garrett whitlock",
@@ -2804,6 +2816,12 @@
     }
   },
   "laa @ hou": {
+    "46": {
+      "player": "travis darnaud",
+      "pitcher": "lance mccullers",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "45": {
       "player": "jose altuve",
       "pitcher": "jose soriano",
@@ -3671,8 +3689,8 @@
     "22": {
       "player": "ryan ritter",
       "pitcher": "matthew boyd",
-      "result": "Foul Bunt",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "orlando arcia",
