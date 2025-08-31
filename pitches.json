@@ -3496,11 +3496,17 @@
     }
   },
   "det @ kc": {
+    "68": {
+      "player": "kerry carpenter",
+      "pitcher": "taylor clarke",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "67": {
       "player": "gleyber torres",
       "pitcher": "taylor clarke",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "66": {
       "player": "colt keith",
@@ -3903,8 +3909,8 @@
     "64": {
       "player": "kyle teel",
       "pitcher": "tim hill",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "63": {
       "player": "mike tauchman",
@@ -4286,6 +4292,12 @@
     }
   },
   "chc @ col": {
+    "42": {
+      "player": "kyle tucker",
+      "pitcher": "tanner gordon",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "jordan beck",
       "pitcher": "matthew boyd",
@@ -4605,8 +4617,8 @@
     "12": {
       "player": "ezequiel duran",
       "pitcher": "jt ginn",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "11": {
       "player": "jonah heim",
