@@ -455,8 +455,8 @@
     "57": {
       "player": "fernando tatis",
       "pitcher": "joe ryan",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "freddy fermin",
@@ -1376,6 +1376,12 @@
     }
   },
   "mil @ tor": {
+    "51": {
+      "player": "andres gimenez",
+      "pitcher": "brandon woodruff",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "50": {
       "player": "ernie clement",
       "pitcher": "brandon woodruff",
@@ -1678,6 +1684,12 @@
     }
   },
   "sea @ cle": {
+    "48": {
+      "player": "cole young",
+      "pitcher": "tanner bibee",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "47": {
       "player": "jp crawford",
       "pitcher": "tanner bibee",
@@ -1965,8 +1977,8 @@
     "41": {
       "player": "heriberto hernandez",
       "pitcher": "brandon waddell",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "40": {
       "player": "cedric mullins",
@@ -2377,8 +2389,8 @@
     "33": {
       "player": "jake rogers",
       "pitcher": "michael wacha",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "32": {
       "player": "zach mckinstry",
@@ -2577,8 +2589,8 @@
     "31": {
       "player": "ben rice",
       "pitcher": "martin perez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "anthony volpe",
@@ -2766,7 +2778,7 @@
       "player": "michael busch",
       "pitcher": "tanner gordon",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Slider"
     }
   },
   "bal @ sf": {},
