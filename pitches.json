@@ -2305,8 +2305,8 @@
     "74": {
       "player": "kebryan hayes",
       "pitcher": "kyle leahy",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "73": {
       "player": "spencer steer",
@@ -3104,11 +3104,17 @@
     }
   },
   "sd @ min": {
+    "63": {
+      "player": "manny machado",
+      "pitcher": "brooks kriske",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "62": {
       "player": "luis arraez",
       "pitcher": "brooks kriske",
-      "result": "Ball In Dirt",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "61": {
       "player": "fernando tatis",
@@ -3826,7 +3832,7 @@
       "player": "gleyber torres",
       "pitcher": "lucas erceg",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "54": {
       "player": "colt keith",
