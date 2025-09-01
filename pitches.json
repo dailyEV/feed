@@ -1805,8 +1805,8 @@
     "71": {
       "player": "jo adell",
       "pitcher": "craig kimbrel",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "70": {
       "player": "mike trout",
@@ -1950,7 +1950,7 @@
       "player": "ramon urias",
       "pitcher": "yusei kikuchi",
       "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "45": {
       "player": "yainer diaz",
@@ -1986,25 +1986,25 @@
       "player": "carlos correa",
       "pitcher": "yusei kikuchi",
       "result": "In play, run(s)",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "39": {
       "player": "jose altuve",
       "pitcher": "yusei kikuchi",
       "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "38": {
       "player": "yordan alvarez",
       "pitcher": "yusei kikuchi",
       "result": "In play, no out",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "37": {
       "player": "jeremy pena",
       "pitcher": "yusei kikuchi",
       "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "36": {
       "player": "bryce teodosio",
@@ -2034,7 +2034,7 @@
       "player": "cam smith",
       "pitcher": "yusei kikuchi",
       "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "31": {
       "player": "ramon urias",
@@ -2142,7 +2142,7 @@
       "player": "cam smith",
       "pitcher": "yusei kikuchi",
       "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "13": {
       "player": "ramon urias",
@@ -2196,7 +2196,7 @@
       "player": "yordan alvarez",
       "pitcher": "yusei kikuchi",
       "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "4": {
       "player": "jeremy pena",
@@ -2715,8 +2715,8 @@
     "79": {
       "player": "jose fermin",
       "pitcher": "scott mcgough",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "78": {
       "player": "thomas saggese",
@@ -3334,6 +3334,12 @@
     }
   },
   "sf @ col": {
+    "21": {
+      "player": "orlando arcia",
+      "pitcher": "kai wei teng",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "willy adames",
       "pitcher": "chase dollander",
