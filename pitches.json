@@ -1799,8 +1799,8 @@
     "62": {
       "player": "zach neto",
       "pitcher": "bryan king",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "logan ohoppe",
@@ -2167,8 +2167,8 @@
     "69": {
       "player": "chase meidroth",
       "pitcher": "justin topa",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "68": {
       "player": "andrew benintendi",
@@ -2583,7 +2583,7 @@
     "68": {
       "player": "jacob wilson",
       "pitcher": "chris roycroft",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "67": {
@@ -3126,11 +3126,17 @@
     }
   },
   "phi @ mil": {
+    "10": {
+      "player": "blake perkins",
+      "pitcher": "taijuan walker",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "9": {
       "player": "jake bauers",
       "pitcher": "taijuan walker",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "8": {
       "player": "christian yelich",
