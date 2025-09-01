@@ -3227,8 +3227,8 @@
     "74": {
       "player": "matt olson",
       "pitcher": "brad keller",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "73": {
       "player": "dansby swanson",
@@ -3664,11 +3664,17 @@
     }
   },
   "sf @ col": {
+    "69": {
+      "player": "kyle karros",
+      "pitcher": "keaton winn",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "68": {
       "player": "ezequiel tovar",
       "pitcher": "keaton winn",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "67": {
       "player": "brenton doyle",
@@ -4471,7 +4477,14 @@
       "pitch": "Curveball"
     }
   },
-  "bal @ sd": {},
+  "bal @ sd": {
+    "1": {
+      "player": "jackson holliday",
+      "pitcher": "dylan cease",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "sea @ tb": {},
   "tex @ ari": {}
 }
