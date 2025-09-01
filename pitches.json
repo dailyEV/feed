@@ -1329,7 +1329,7 @@
     "72": {
       "player": "alex bregman",
       "pitcher": "zak kent",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "71": {
@@ -2478,6 +2478,12 @@
     }
   },
   "ath @ stl": {
+    "62": {
+      "player": "lars nootbaar",
+      "pitcher": "justin sterner",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "61": {
       "player": "nathan church",
       "pitcher": "justin sterner",
@@ -2846,11 +2852,17 @@
     }
   },
   "atl @ chc": {
+    "9": {
+      "player": "seiya suzuki",
+      "pitcher": "spencer strider",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "kyle tucker",
       "pitcher": "spencer strider",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "michael busch",
@@ -2899,8 +2911,8 @@
     "3": {
       "player": "willy adames",
       "pitcher": "chase dollander",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "rafael devers",
