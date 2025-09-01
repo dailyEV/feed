@@ -3,7 +3,7 @@
     "58": {
       "player": "jakob marsee",
       "pitcher": "jose a ferrer",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "57": {
@@ -691,7 +691,7 @@
     "54": {
       "player": "tj friedl",
       "pitcher": "yariel rodriguez",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "53": {
@@ -1274,10 +1274,16 @@
     }
   },
   "laa @ hou": {
+    "26": {
+      "player": "mike trout",
+      "pitcher": "luis garcia",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "25": {
       "player": "oswald peraza",
       "pitcher": "luis garcia",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -1426,12 +1432,6 @@
     }
   },
   "chw @ min": {
-    "35": {
-      "player": "james outman",
-      "pitcher": "cam booser",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "34": {
       "player": "edouard julien",
       "pitcher": "cam booser",
