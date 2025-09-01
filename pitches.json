@@ -3,8 +3,8 @@
     "21": {
       "player": "james wood",
       "pitcher": "cade gibson",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "20": {
       "player": "cj stubbs",
@@ -131,8 +131,8 @@
     "18": {
       "player": "dillon dingler",
       "pitcher": "sean manaea",
-      "result": "In play, no out",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "17": {
       "player": "andy ibanez",
@@ -354,6 +354,12 @@
     }
   },
   "cle @ bos": {
+    "6": {
+      "player": "alex bregman",
+      "pitcher": "parker messick",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "5": {
       "player": "roman anthony",
       "pitcher": "parker messick",
