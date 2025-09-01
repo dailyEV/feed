@@ -3224,6 +3224,12 @@
     }
   },
   "atl @ chc": {
+    "76": {
+      "player": "drake baldwin",
+      "pitcher": "brad keller",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "75": {
       "player": "ronald acuna",
       "pitcher": "brad keller",
@@ -4089,7 +4095,7 @@
     "67": {
       "player": "brandon marsh",
       "pitcher": "shelby miller",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Splitter"
     },
     "66": {
@@ -4490,10 +4496,16 @@
     }
   },
   "bal @ sd": {
+    "2": {
+      "player": "jeremiah jackson",
+      "pitcher": "dylan cease",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "1": {
       "player": "jackson holliday",
       "pitcher": "dylan cease",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     }
   },
