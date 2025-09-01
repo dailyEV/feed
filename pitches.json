@@ -209,8 +209,8 @@
     "34": {
       "player": "juan soto",
       "pitcher": "charlie morton",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "33": {
       "player": "francisco lindor",
@@ -415,7 +415,7 @@
     "31": {
       "player": "nathan lukes",
       "pitcher": "hunter greene",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "30": {
@@ -603,8 +603,8 @@
     "17": {
       "player": "steven kwan",
       "pitcher": "brayan bello",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "16": {
       "player": "brayan rocchio",
@@ -708,7 +708,7 @@
       "player": "jeremy pena",
       "pitcher": "yusei kikuchi",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "3": {
       "player": "mike trout",
@@ -730,10 +730,16 @@
     }
   },
   "chw @ min": {
+    "6": {
+      "player": "ryan jeffers",
+      "pitcher": "fraser ellard",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "byron buxton",
       "pitcher": "fraser ellard",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "4": {
