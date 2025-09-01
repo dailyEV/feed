@@ -3,7 +3,7 @@
     "53": {
       "player": "troy johnston",
       "pitcher": "cole henry",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -634,6 +634,12 @@
     }
   },
   "tor @ cin": {
+    "51": {
+      "player": "kebryan hayes",
+      "pitcher": "chris bassitt",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "50": {
       "player": "ernie clement",
       "pitcher": "scott barlow",
@@ -936,6 +942,12 @@
     }
   },
   "cle @ bos": {
+    "42": {
+      "player": "trevor story",
+      "pitcher": "parker messick",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "alex bregman",
       "pitcher": "parker messick",
@@ -1184,11 +1196,17 @@
     }
   },
   "laa @ hou": {
+    "23": {
+      "player": "christian walker",
+      "pitcher": "yusei kikuchi",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "22": {
       "player": "carlos correa",
       "pitcher": "yusei kikuchi",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "jose altuve",
@@ -1321,7 +1339,7 @@
     "30": {
       "player": "royce lewis",
       "pitcher": "wikelman gonzalez",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -1500,6 +1518,12 @@
     }
   },
   "ath @ stl": {
+    "23": {
+      "player": "tyler soderstrom",
+      "pitcher": "sonny gray",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "22": {
       "player": "lars nootbaar",
       "pitcher": "luis morales",
