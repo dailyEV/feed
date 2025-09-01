@@ -1215,7 +1215,7 @@
     "57": {
       "player": "trevor story",
       "pitcher": "jakob junis",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "56": {
@@ -1559,7 +1559,7 @@
     "44": {
       "player": "mike trout",
       "pitcher": "luis garcia",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -1825,8 +1825,8 @@
     "51": {
       "player": "brooks baldwin",
       "pitcher": "genesis cabrera",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "50": {
       "player": "chase meidroth",
@@ -2130,6 +2130,12 @@
     }
   },
   "ath @ stl": {
+    "49": {
+      "player": "willson contreras",
+      "pitcher": "luis morales",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "ivan herrera",
       "pitcher": "luis morales",
