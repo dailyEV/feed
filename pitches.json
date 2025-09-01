@@ -371,7 +371,7 @@
     "84": {
       "player": "riley greene",
       "pitcher": "edwin diaz",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "83": {
@@ -2445,8 +2445,8 @@
     "60": {
       "player": "jordan walker",
       "pitcher": "justin sterner",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "59": {
       "player": "pedro pages",
@@ -2842,6 +2842,12 @@
     }
   },
   "sf @ col": {
+    "2": {
+      "player": "rafael devers",
+      "pitcher": "chase dollander",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "1": {
       "player": "heliot ramos",
       "pitcher": "chase dollander",
