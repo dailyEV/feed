@@ -209,7 +209,7 @@
     "34": {
       "player": "juan soto",
       "pitcher": "charlie morton",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Curveball"
     },
     "33": {
@@ -415,7 +415,7 @@
     "31": {
       "player": "nathan lukes",
       "pitcher": "hunter greene",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "30": {
@@ -603,8 +603,8 @@
     "17": {
       "player": "steven kwan",
       "pitcher": "brayan bello",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "brayan rocchio",
@@ -704,6 +704,12 @@
     }
   },
   "laa @ hou": {
+    "5": {
+      "player": "yordan alvarez",
+      "pitcher": "yusei kikuchi",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "4": {
       "player": "jeremy pena",
       "pitcher": "yusei kikuchi",
@@ -767,7 +773,14 @@
       "pitch": "Changeup"
     }
   },
-  "ath @ stl": {},
+  "ath @ stl": {
+    "1": {
+      "player": "lawrence butler",
+      "pitcher": "sonny gray",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "atl @ chc": {},
   "sf @ col": {},
   "phi @ mil": {},
