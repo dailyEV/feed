@@ -3,7 +3,7 @@
     "51": {
       "player": "robert hassell",
       "pitcher": "george soriano",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -619,8 +619,8 @@
     "50": {
       "player": "ernie clement",
       "pitcher": "scott barlow",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "49": {
       "player": "nathan lukes",
@@ -921,8 +921,8 @@
     "39": {
       "player": "connor wong",
       "pitcher": "parker messick",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "38": {
       "player": "jose ramirez",
@@ -1285,7 +1285,7 @@
     "28": {
       "player": "trevor larnach",
       "pitcher": "wikelman gonzalez",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "27": {
@@ -1452,10 +1452,16 @@
     }
   },
   "ath @ stl": {
+    "22": {
+      "player": "lars nootbaar",
+      "pitcher": "luis morales",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "nathan church",
       "pitcher": "luis morales",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "20": {
