@@ -1329,7 +1329,7 @@
     "74": {
       "player": "romy gonzalez",
       "pitcher": "zak kent",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "73": {
@@ -2891,8 +2891,8 @@
     "10": {
       "player": "ian happ",
       "pitcher": "spencer strider",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "9": {
       "player": "seiya suzuki",
@@ -2976,11 +2976,17 @@
     }
   },
   "phi @ mil": {
+    "6": {
+      "player": "jackson chourio",
+      "pitcher": "taijuan walker",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "5": {
       "player": "brice turang",
       "pitcher": "taijuan walker",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "4": {
       "player": "jt realmuto",
