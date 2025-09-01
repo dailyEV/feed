@@ -3,7 +3,7 @@
     "38": {
       "player": "agustin ramirez",
       "pitcher": "clayton beeter",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "37": {
@@ -230,11 +230,17 @@
     }
   },
   "nym @ det": {
+    "39": {
+      "player": "zach mckinstry",
+      "pitcher": "sean manaea",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "dillon dingler",
       "pitcher": "sean manaea",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "andy ibanez",
@@ -460,6 +466,12 @@
     }
   },
   "tor @ cin": {
+    "36": {
+      "player": "tj friedl",
+      "pitcher": "chris bassitt",
+      "result": "Foul Bunt",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "matt mclain",
       "pitcher": "chris bassitt",
@@ -854,7 +866,7 @@
       "player": "chase meidroth",
       "pitcher": "bailey ober",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "11": {
       "player": "andrew benintendi",
