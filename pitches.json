@@ -3227,7 +3227,7 @@
     "82": {
       "player": "seiya suzuki",
       "pitcher": "john brebbia",
-      "result": "Ball In Dirt",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "81": {
@@ -3715,8 +3715,8 @@
     "78": {
       "player": "tyler freeman",
       "pitcher": "keaton winn",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "77": {
       "player": "orlando arcia",
@@ -4616,10 +4616,16 @@
     }
   },
   "bal @ sd": {
+    "9": {
+      "player": "dylan beavers",
+      "pitcher": "dylan cease",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "8": {
       "player": "emmanuel rivera",
       "pitcher": "dylan cease",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "7": {
