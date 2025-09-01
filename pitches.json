@@ -1,5 +1,11 @@
 {
   "mia @ wsh": {
+    "53": {
+      "player": "troy johnston",
+      "pitcher": "cole henry",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "javier sanoja",
       "pitcher": "cole henry",
@@ -317,7 +323,7 @@
     "52": {
       "player": "kerry carpenter",
       "pitcher": "ryne stanek",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "51": {
@@ -933,8 +939,8 @@
     "41": {
       "player": "alex bregman",
       "pitcher": "parker messick",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "40": {
       "player": "roman anthony",
@@ -1178,17 +1184,11 @@
     }
   },
   "laa @ hou": {
-    "23": {
-      "player": "christian walker",
-      "pitcher": "yusei kikuchi",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "22": {
       "player": "carlos correa",
       "pitcher": "yusei kikuchi",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "21": {
       "player": "jose altuve",
@@ -1321,7 +1321,7 @@
     "30": {
       "player": "royce lewis",
       "pitcher": "wikelman gonzalez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "29": {
