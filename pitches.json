@@ -227,7 +227,7 @@
     "35": {
       "player": "pete alonso",
       "pitcher": "rafael montero",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -439,8 +439,8 @@
     "34": {
       "player": "jose trevino",
       "pitcher": "chris bassitt",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "kebryan hayes",
@@ -762,7 +762,7 @@
       "player": "jose altuve",
       "pitcher": "yusei kikuchi",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Sweeper"
     },
     "5": {
       "player": "yordan alvarez",
@@ -846,6 +846,12 @@
     }
   },
   "ath @ stl": {
+    "3": {
+      "player": "brent rooker",
+      "pitcher": "sonny gray",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "2": {
       "player": "jacob wilson",
       "pitcher": "sonny gray",
