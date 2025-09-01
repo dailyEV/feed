@@ -1805,7 +1805,7 @@
     "70": {
       "player": "mike trout",
       "pitcher": "craig kimbrel",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "69": {
@@ -2709,8 +2709,8 @@
     "78": {
       "player": "thomas saggese",
       "pitcher": "scott mcgough",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "77": {
       "player": "zack gelof",
@@ -3176,10 +3176,16 @@
     }
   },
   "atl @ chc": {
+    "25": {
+      "player": "matt shaw",
+      "pitcher": "spencer strider",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "24": {
       "player": "dansby swanson",
       "pitcher": "spencer strider",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "22": {
