@@ -245,7 +245,7 @@
     "42": {
       "player": "gleyber torres",
       "pitcher": "sean manaea",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "41": {
@@ -500,7 +500,7 @@
       "player": "george springer",
       "pitcher": "hunter greene",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "38": {
       "player": "andres gimenez",
@@ -890,6 +890,12 @@
     }
   },
   "laa @ hou": {
+    "11": {
+      "player": "travis darnaud",
+      "pitcher": "luis garcia",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "luis rengifo",
       "pitcher": "luis garcia",
@@ -952,12 +958,6 @@
     }
   },
   "chw @ min": {
-    "16": {
-      "player": "brooks lee",
-      "pitcher": "fraser ellard",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "15": {
       "player": "trevor larnach",
       "pitcher": "fraser ellard",
