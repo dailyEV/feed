@@ -35,8 +35,8 @@
     "3": {
       "player": "pete alonso",
       "pitcher": "charlie morton",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "juan soto",
@@ -52,11 +52,17 @@
     }
   },
   "tor @ cin": {
+    "3": {
+      "player": "vladimir guerrero",
+      "pitcher": "hunter greene",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "2": {
       "player": "addison barger",
       "pitcher": "hunter greene",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "1": {
       "player": "george springer",
