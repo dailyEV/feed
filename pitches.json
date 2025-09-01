@@ -1311,8 +1311,8 @@
     "68": {
       "player": "kyle manzardo",
       "pitcher": "steven matz",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "67": {
       "player": "roman anthony",
@@ -2747,8 +2747,8 @@
     "4": {
       "player": "drake baldwin",
       "pitcher": "colin rea",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "ronald acuna",
@@ -2770,7 +2770,14 @@
     }
   },
   "sf @ col": {},
-  "phi @ mil": {},
+  "phi @ mil": {
+    "1": {
+      "player": "trea turner",
+      "pitcher": "jacob misiorowski",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "bal @ sd": {},
   "sea @ tb": {},
   "tex @ ari": {}
