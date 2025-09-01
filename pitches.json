@@ -1,5 +1,11 @@
 {
   "mia @ wsh": {
+    "18": {
+      "player": "joey wiemer",
+      "pitcher": "andrew alvarez",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "17": {
       "player": "javier sanoja",
       "pitcher": "andrew alvarez",
@@ -196,10 +202,16 @@
     }
   },
   "tor @ cin": {
+    "16": {
+      "player": "matt mclain",
+      "pitcher": "chris bassitt",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "jose trevino",
       "pitcher": "chris bassitt",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "14": {
@@ -291,7 +303,7 @@
     "3": {
       "player": "jose ramirez",
       "pitcher": "brayan bello",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "2": {
