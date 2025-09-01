@@ -3,8 +3,8 @@
     "34": {
       "player": "joey wiemer",
       "pitcher": "andrew alvarez",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "33": {
       "player": "javier sanoja",
@@ -206,10 +206,16 @@
     }
   },
   "nym @ det": {
+    "34": {
+      "player": "juan soto",
+      "pitcher": "charlie morton",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "francisco lindor",
       "pitcher": "charlie morton",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "32": {
@@ -718,6 +724,12 @@
     }
   },
   "chw @ min": {
+    "5": {
+      "player": "byron buxton",
+      "pitcher": "fraser ellard",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "edgar quero",
       "pitcher": "bailey ober",
