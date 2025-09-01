@@ -1493,7 +1493,7 @@
     "39": {
       "player": "jose altuve",
       "pitcher": "yusei kikuchi",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "38": {
@@ -1729,7 +1729,7 @@
     "48": {
       "player": "curtis mead",
       "pitcher": "genesis cabrera",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "47": {
@@ -2016,6 +2016,12 @@
     }
   },
   "ath @ stl": {
+    "45": {
+      "player": "willie maciver",
+      "pitcher": "sonny gray",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "44": {
       "player": "zack gelof",
       "pitcher": "sonny gray",
