@@ -1,5 +1,11 @@
 {
   "mia @ wsh": {
+    "33": {
+      "player": "javier sanoja",
+      "pitcher": "andrew alvarez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "victor mesa",
       "pitcher": "andrew alvarez",
@@ -194,11 +200,17 @@
     }
   },
   "nym @ det": {
+    "33": {
+      "player": "francisco lindor",
+      "pitcher": "charlie morton",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "32": {
       "player": "brett baty",
       "pitcher": "charlie morton",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "luis torrens",
@@ -391,8 +403,8 @@
     "29": {
       "player": "sal stewart",
       "pitcher": "chris bassitt",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "28": {
       "player": "gavin lux",
@@ -659,8 +671,8 @@
     "3": {
       "player": "mike trout",
       "pitcher": "luis garcia",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "oswald peraza",
@@ -676,6 +688,12 @@
     }
   },
   "chw @ min": {
+    "4": {
+      "player": "edgar quero",
+      "pitcher": "bailey ober",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "kyle teel",
       "pitcher": "bailey ober",
