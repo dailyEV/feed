@@ -1805,8 +1805,8 @@
     "68": {
       "player": "jose altuve",
       "pitcher": "brock burke",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "67": {
       "player": "yordan alvarez",
@@ -2064,7 +2064,7 @@
       "player": "zach neto",
       "pitcher": "luis garcia",
       "result": "In play, run(s)",
-      "pitch": "Cutter"
+      "pitch": "Sweeper"
     },
     "23": {
       "player": "christian walker",
@@ -2206,6 +2206,12 @@
     }
   },
   "chw @ min": {
+    "78": {
+      "player": "colson montgomery",
+      "pitcher": "travis adams",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "77": {
       "player": "edgar quero",
       "pitcher": "travis adams",
@@ -2673,8 +2679,8 @@
     "77": {
       "player": "zack gelof",
       "pitcher": "chris roycroft",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "76": {
       "player": "jj bleday",
@@ -3137,7 +3143,7 @@
     "21": {
       "player": "ozzie albies",
       "pitcher": "colin rea",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -3366,6 +3372,12 @@
     }
   },
   "phi @ mil": {
+    "16": {
+      "player": "joey ortiz",
+      "pitcher": "taijuan walker",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "15": {
       "player": "caleb durbin",
       "pitcher": "taijuan walker",
