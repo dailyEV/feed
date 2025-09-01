@@ -1,10 +1,16 @@
 {
   "mia @ wsh": {
+    "47": {
+      "player": "victor mesa",
+      "pitcher": "konnor pilkington",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "eric wagaman",
       "pitcher": "konnor pilkington",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "heriberto hernandez",
@@ -281,7 +287,7 @@
     "46": {
       "player": "cedric mullins",
       "pitcher": "drew sommers",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "45": {
@@ -556,6 +562,12 @@
     }
   },
   "tor @ cin": {
+    "44": {
+      "player": "sal stewart",
+      "pitcher": "chris bassitt",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "43": {
       "player": "gavin lux",
       "pitcher": "chris bassitt",
@@ -816,6 +828,12 @@
     }
   },
   "cle @ bos": {
+    "33": {
+      "player": "nathaniel lowe",
+      "pitcher": "parker messick",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "ceddanne rafaela",
       "pitcher": "parker messick",
@@ -1105,7 +1123,7 @@
     "20": {
       "player": "byron buxton",
       "pitcher": "wikelman gonzalez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -1224,10 +1242,16 @@
     }
   },
   "ath @ stl": {
+    "15": {
+      "player": "thomas saggese",
+      "pitcher": "luis morales",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "14": {
       "player": "masyn winn",
       "pitcher": "luis morales",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "13": {
