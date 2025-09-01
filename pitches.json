@@ -3227,8 +3227,8 @@
     "80": {
       "player": "carlos santana",
       "pitcher": "john brebbia",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "79": {
       "player": "matt shaw",
@@ -3704,7 +3704,7 @@
       "player": "yanquiel fernandez",
       "pitcher": "keaton winn",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "75": {
       "player": "matt chapman",
@@ -4161,7 +4161,7 @@
     "72": {
       "player": "trea turner",
       "pitcher": "rob zastryzny",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "71": {
@@ -4592,6 +4592,12 @@
     }
   },
   "bal @ sd": {
+    "7": {
+      "player": "ramon laureano",
+      "pitcher": "kyle bradish",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "6": {
       "player": "ryan ohearn",
       "pitcher": "kyle bradish",
