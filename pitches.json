@@ -371,7 +371,7 @@
     "84": {
       "player": "riley greene",
       "pitcher": "edwin diaz",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "83": {
@@ -1739,8 +1739,8 @@
     "57": {
       "player": "christian walker",
       "pitcher": "ryan zeferjahn",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "56": {
       "player": "carlos correa",
@@ -2077,8 +2077,8 @@
     "61": {
       "player": "colson montgomery",
       "pitcher": "kody funderburk",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "60": {
       "player": "edgar quero",
@@ -2445,8 +2445,8 @@
     "60": {
       "player": "jordan walker",
       "pitcher": "justin sterner",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "59": {
       "player": "pedro pages",
@@ -2856,6 +2856,12 @@
     }
   },
   "phi @ mil": {
+    "3": {
+      "player": "bryce harper",
+      "pitcher": "jacob misiorowski",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "2": {
       "player": "kyle schwarber",
       "pitcher": "jacob misiorowski",
