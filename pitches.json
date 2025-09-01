@@ -2059,7 +2059,7 @@
     "60": {
       "player": "edgar quero",
       "pitcher": "kody funderburk",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Cutter"
     },
     "59": {
@@ -2418,6 +2418,12 @@
     }
   },
   "ath @ stl": {
+    "59": {
+      "player": "pedro pages",
+      "pitcher": "justin sterner",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "58": {
       "player": "colby thomas",
       "pitcher": "ryan fernandez",
@@ -2768,12 +2774,6 @@
     }
   },
   "atl @ chc": {
-    "6": {
-      "player": "michael harris",
-      "pitcher": "colin rea",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "5": {
       "player": "ozzie albies",
       "pitcher": "colin rea",
@@ -2810,8 +2810,8 @@
     "1": {
       "player": "trea turner",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     }
   },
   "bal @ sd": {},
