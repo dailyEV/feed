@@ -1805,7 +1805,7 @@
     "70": {
       "player": "mike trout",
       "pitcher": "craig kimbrel",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "69": {
@@ -2218,11 +2218,17 @@
     }
   },
   "chw @ min": {
+    "81": {
+      "player": "luke keaschall",
+      "pitcher": "jordan leasure",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "80": {
       "player": "austin martin",
       "pitcher": "jordan leasure",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "79": {
       "player": "ryan jeffers",
@@ -3170,6 +3176,12 @@
     }
   },
   "atl @ chc": {
+    "24": {
+      "player": "dansby swanson",
+      "pitcher": "spencer strider",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "michael harris",
       "pitcher": "colin rea",
@@ -3426,6 +3438,12 @@
     }
   },
   "phi @ mil": {
+    "19": {
+      "player": "william contreras",
+      "pitcher": "taijuan walker",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "18": {
       "player": "jackson chourio",
       "pitcher": "taijuan walker",
