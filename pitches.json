@@ -3227,7 +3227,7 @@
     "34": {
       "player": "nico hoerner",
       "pitcher": "spencer strider",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -3427,8 +3427,8 @@
     "31": {
       "player": "kyle karros",
       "pitcher": "kai wei teng",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "30": {
       "player": "ezequiel tovar",
@@ -3612,6 +3612,12 @@
     }
   },
   "phi @ mil": {
+    "30": {
+      "player": "harrison bader",
+      "pitcher": "jacob misiorowski",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "brandon marsh",
       "pitcher": "jacob misiorowski",
