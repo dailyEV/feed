@@ -1805,8 +1805,8 @@
     "68": {
       "player": "jose altuve",
       "pitcher": "brock burke",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "67": {
       "player": "yordan alvarez",
@@ -2064,7 +2064,7 @@
       "player": "zach neto",
       "pitcher": "luis garcia",
       "result": "In play, run(s)",
-      "pitch": "Sweeper"
+      "pitch": "Cutter"
     },
     "23": {
       "player": "christian walker",
@@ -2206,11 +2206,17 @@
     }
   },
   "chw @ min": {
+    "77": {
+      "player": "edgar quero",
+      "pitcher": "travis adams",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "76": {
       "player": "kyle teel",
       "pitcher": "travis adams",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "75": {
       "player": "byron buxton",
@@ -2664,6 +2670,12 @@
     }
   },
   "ath @ stl": {
+    "77": {
+      "player": "zack gelof",
+      "pitcher": "chris roycroft",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "76": {
       "player": "jj bleday",
       "pitcher": "chris roycroft",
@@ -3250,6 +3262,12 @@
     }
   },
   "sf @ col": {
+    "17": {
+      "player": "drew gilbert",
+      "pitcher": "chase dollander",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "16": {
       "player": "patrick bailey",
       "pitcher": "chase dollander",
