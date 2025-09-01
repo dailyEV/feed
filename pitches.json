@@ -3,7 +3,7 @@
     "50": {
       "player": "andres chaparro",
       "pitcher": "george soriano",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "49": {
@@ -305,8 +305,8 @@
     "50": {
       "player": "dillon dingler",
       "pitcher": "ryne stanek",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "andy ibanez",
@@ -894,6 +894,12 @@
     }
   },
   "cle @ bos": {
+    "38": {
+      "player": "jose ramirez",
+      "pitcher": "brayan bello",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "daniel schneemann",
       "pitcher": "brayan bello",
@@ -1118,6 +1124,12 @@
     }
   },
   "laa @ hou": {
+    "21": {
+      "player": "jose altuve",
+      "pitcher": "yusei kikuchi",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "yordan alvarez",
       "pitcher": "yusei kikuchi",
@@ -1243,8 +1255,8 @@
     "26": {
       "player": "matt wallner",
       "pitcher": "wikelman gonzalez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "colson montgomery",
