@@ -212,11 +212,23 @@
     }
   },
   "lad @ pit": {
-    "32": {
-      "player": "alex freeland",
+    "34": {
+      "player": "shohei ohtani",
       "pitcher": "bubba chandler",
       "result": "Called Strike",
       "pitch": "4-Seam Fastball"
+    },
+    "33": {
+      "player": "miguel rojas",
+      "pitcher": "bubba chandler",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "32": {
+      "player": "alex freeland",
+      "pitcher": "bubba chandler",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "andy pages",
@@ -827,8 +839,8 @@
     "36": {
       "player": "james wood",
       "pitcher": "adam mazur",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "jacob young",
@@ -1089,8 +1101,8 @@
     "6": {
       "player": "maikel garcia",
       "pitcher": "mitch farris",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "logan ohoppe",
@@ -1127,8 +1139,8 @@
     "6": {
       "player": "kyle tucker",
       "pitcher": "joey wentz",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
     },
     "5": {
       "player": "nico hoerner",
