@@ -185,8 +185,8 @@
     "27": {
       "player": "michael conforto",
       "pitcher": "bubba chandler",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "teoscar hernandez",
@@ -519,8 +519,8 @@
     "32": {
       "player": "carlos narvaez",
       "pitcher": "slade cecconi",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "31": {
       "player": "ceddanne rafaela",
@@ -710,10 +710,16 @@
     }
   },
   "mia @ wsh": {
+    "31": {
+      "player": "troy johnston",
+      "pitcher": "cade cavalli",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "30": {
       "player": "connor norby",
       "pitcher": "cade cavalli",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Knuckle Curve"
     },
     "29": {
@@ -911,13 +917,26 @@
       "pitch": "Sinker"
     }
   },
-  "laa @ kc": {},
+  "laa @ kc": {
+    "1": {
+      "player": "zach neto",
+      "pitcher": "michael lorenzen",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    }
+  },
   "atl @ chc": {
+    "2": {
+      "player": "matt olson",
+      "pitcher": "shota imanaga",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "ronald acuna",
       "pitcher": "shota imanaga",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     }
   },
   "chw @ min": {},
