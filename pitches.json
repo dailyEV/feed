@@ -3,8 +3,8 @@
     "35": {
       "player": "zach mckinstry",
       "pitcher": "nolan mclean",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "34": {
       "player": "wenceel perez",
@@ -212,6 +212,12 @@
     }
   },
   "lad @ pit": {
+    "32": {
+      "player": "alex freeland",
+      "pitcher": "bubba chandler",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "andy pages",
       "pitcher": "bubba chandler",
@@ -400,11 +406,17 @@
     }
   },
   "tor @ cin": {
+    "33": {
+      "player": "kebryan hayes",
+      "pitcher": "dillon tate",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "32": {
       "player": "sal stewart",
       "pitcher": "dillon tate",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "andres gimenez",
@@ -594,6 +606,12 @@
     }
   },
   "cle @ bos": {
+    "35": {
+      "player": "jhonkensy noel",
+      "pitcher": "garrett crochet",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "34": {
       "player": "alex bregman",
       "pitcher": "slade cecconi",
@@ -803,8 +821,8 @@
     "35": {
       "player": "jacob young",
       "pitcher": "adam mazur",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "paul dejong",
@@ -1015,8 +1033,8 @@
     "6": {
       "player": "brandon lowe",
       "pitcher": "bryan woo",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "yandy diaz",
@@ -1137,8 +1155,8 @@
     "1": {
       "player": "nick kurtz",
       "pitcher": "miles mikolas",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     }
   },
   "nyy @ hou": {},
