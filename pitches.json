@@ -212,23 +212,11 @@
     }
   },
   "lad @ pit": {
-    "34": {
-      "player": "shohei ohtani",
-      "pitcher": "bubba chandler",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "33": {
-      "player": "miguel rojas",
-      "pitcher": "bubba chandler",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "32": {
       "player": "alex freeland",
       "pitcher": "bubba chandler",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "andy pages",
@@ -421,8 +409,8 @@
     "34": {
       "player": "jose trevino",
       "pitcher": "dillon tate",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "33": {
       "player": "kebryan hayes",
@@ -624,11 +612,23 @@
     }
   },
   "cle @ bos": {
+    "37": {
+      "player": "nolan jones",
+      "pitcher": "garrett crochet",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
+    "36": {
+      "player": "brayan rocchio",
+      "pitcher": "garrett crochet",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "jhonkensy noel",
       "pitcher": "garrett crochet",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "34": {
       "player": "alex bregman",
@@ -839,8 +839,8 @@
     "36": {
       "player": "james wood",
       "pitcher": "adam mazur",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "35": {
       "player": "jacob young",
@@ -1139,8 +1139,8 @@
     "6": {
       "player": "kyle tucker",
       "pitcher": "joey wentz",
-      "result": "Ball In Dirt",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "nico hoerner",
@@ -1174,11 +1174,23 @@
     }
   },
   "chw @ min": {
+    "6": {
+      "player": "brooks lee",
+      "pitcher": "davis martin",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "5": {
+      "player": "trevor larnach",
+      "pitcher": "davis martin",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "byron buxton",
       "pitcher": "davis martin",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "lenyn sosa",
