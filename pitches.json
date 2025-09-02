@@ -1,11 +1,5 @@
 {
   "nym @ det": {
-    "37": {
-      "player": "pete alonso",
-      "pitcher": "bailey horn",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
     "36": {
       "player": "juan soto",
       "pitcher": "bailey horn",
@@ -224,6 +218,12 @@
     }
   },
   "lad @ pit": {
+    "35": {
+      "player": "nick yorke",
+      "pitcher": "clayton kershaw",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "shohei ohtani",
       "pitcher": "bubba chandler",
@@ -433,7 +433,7 @@
     "35": {
       "player": "matt mclain",
       "pitcher": "dillon tate",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "34": {
@@ -1144,7 +1144,7 @@
       "player": "bobby witt",
       "pitcher": "mitch farris",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "maikel garcia",
@@ -1187,8 +1187,8 @@
     "8": {
       "player": "carson kelly",
       "pitcher": "joey wentz",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "7": {
       "player": "seiya suzuki",
@@ -1278,6 +1278,12 @@
     }
   },
   "ath @ stl": {
+    "5": {
+      "player": "ivan herrera",
+      "pitcher": "luis severino",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "4": {
       "player": "lars nootbaar",
       "pitcher": "luis severino",
