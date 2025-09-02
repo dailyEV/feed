@@ -44,12 +44,6 @@
     }
   },
   "lad @ pit": {
-    "6": {
-      "player": "bryan reynolds",
-      "pitcher": "clayton kershaw",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "5": {
       "player": "nick gonzales",
       "pitcher": "clayton kershaw",
@@ -82,6 +76,12 @@
     }
   },
   "tor @ cin": {
+    "7": {
+      "player": "davis schneider",
+      "pitcher": "scott barlow",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "alejandro kirk",
       "pitcher": "scott barlow",
@@ -120,11 +120,17 @@
     }
   },
   "cle @ bos": {
+    "4": {
+      "player": "david fry",
+      "pitcher": "garrett crochet",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "jose ramirez",
       "pitcher": "garrett crochet",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "2": {
       "player": "angel martinez",
@@ -140,6 +146,12 @@
     }
   },
   "mia @ wsh": {
+    "5": {
+      "player": "cj abrams",
+      "pitcher": "adam mazur",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "james wood",
       "pitcher": "adam mazur",
