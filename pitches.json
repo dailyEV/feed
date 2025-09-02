@@ -5209,8 +5209,8 @@
     "66": {
       "player": "tristan gray",
       "pitcher": "tayler saucedo",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "65": {
       "player": "nick fortes",
@@ -5604,10 +5604,16 @@
     }
   },
   "tex @ ari": {
+    "44": {
+      "player": "corbin carroll",
+      "pitcher": "patrick corbin",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "43": {
       "player": "geraldo perdomo",
       "pitcher": "patrick corbin",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "42": {
