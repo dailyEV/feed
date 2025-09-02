@@ -182,6 +182,12 @@
     }
   },
   "lad @ pit": {
+    "27": {
+      "player": "michael conforto",
+      "pitcher": "bubba chandler",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "26": {
       "player": "teoscar hernandez",
       "pitcher": "bubba chandler",
@@ -702,7 +708,7 @@
       "player": "connor norby",
       "pitcher": "cade cavalli",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Knuckle Curve"
     },
     "29": {
       "player": "otto lopez",
@@ -883,7 +889,7 @@
     "3": {
       "player": "julio rodriguez",
       "pitcher": "drew rasmussen",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "2": {
@@ -900,7 +906,14 @@
     }
   },
   "laa @ kc": {},
-  "atl @ chc": {},
+  "atl @ chc": {
+    "1": {
+      "player": "ronald acuna",
+      "pitcher": "shota imanaga",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "chw @ min": {},
   "ath @ stl": {},
   "nyy @ hou": {},
