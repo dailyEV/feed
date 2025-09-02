@@ -388,6 +388,12 @@
     }
   },
   "tor @ cin": {
+    "32": {
+      "player": "sal stewart",
+      "pitcher": "dillon tate",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "31": {
       "player": "andres gimenez",
       "pitcher": "brent suter",
@@ -786,7 +792,7 @@
       "player": "paul dejong",
       "pitcher": "adam mazur",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "33": {
       "player": "dylan crews",
@@ -991,7 +997,7 @@
     "6": {
       "player": "brandon lowe",
       "pitcher": "bryan woo",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "5": {
@@ -1026,11 +1032,17 @@
     }
   },
   "laa @ kc": {
+    "5": {
+      "player": "logan ohoppe",
+      "pitcher": "michael lorenzen",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "jo adell",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "yoan moncada",
