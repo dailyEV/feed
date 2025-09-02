@@ -346,12 +346,6 @@
     }
   },
   "tor @ cin": {
-    "29": {
-      "player": "alejandro kirk",
-      "pitcher": "brent suter",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "28": {
       "player": "gavin lux",
       "pitcher": "jose berrios",
@@ -933,8 +927,8 @@
     "1": {
       "player": "zach neto",
       "pitcher": "michael lorenzen",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Hit By Pitch",
+      "pitch": "Changeup"
     }
   },
   "atl @ chc": {
@@ -942,7 +936,7 @@
       "player": "matt olson",
       "pitcher": "shota imanaga",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "1": {
       "player": "ronald acuna",
@@ -951,7 +945,14 @@
       "pitch": "Splitter"
     }
   },
-  "chw @ min": {},
+  "chw @ min": {
+    "1": {
+      "player": "mike tauchman",
+      "pitcher": "simeon woods richardson",
+      "result": "Ball",
+      "pitch": "Curveball"
+    }
+  },
   "ath @ stl": {},
   "nyy @ hou": {},
   "sf @ col": {},
