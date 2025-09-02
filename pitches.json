@@ -1,16 +1,10 @@
 {
   "nym @ det": {
-    "39": {
-      "player": "mark vientos",
-      "pitcher": "bailey horn",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "38": {
       "player": "brandon nimmo",
       "pitcher": "bailey horn",
-      "result": "In play, no out",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "37": {
       "player": "pete alonso",
@@ -666,6 +660,12 @@
     }
   },
   "cle @ bos": {
+    "38": {
+      "player": "jarren duran",
+      "pitcher": "slade cecconi",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "37": {
       "player": "nolan jones",
       "pitcher": "garrett crochet",
@@ -1114,6 +1114,12 @@
     }
   },
   "sea @ tb": {
+    "9": {
+      "player": "jake mangum",
+      "pitcher": "bryan woo",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "josh lowe",
       "pitcher": "bryan woo",
@@ -1261,8 +1267,8 @@
     "8": {
       "player": "kody clemens",
       "pitcher": "davis martin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "7": {
       "player": "matt wallner",
