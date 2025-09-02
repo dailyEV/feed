@@ -3,8 +3,8 @@
     "3": {
       "player": "pete alonso",
       "pitcher": "sawyer gipson long",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "juan soto",
@@ -23,8 +23,8 @@
     "2": {
       "player": "mookie betts",
       "pitcher": "carmen mlodzinski",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "1": {
       "player": "shohei ohtani",
@@ -34,12 +34,6 @@
     }
   },
   "tor @ cin": {
-    "3": {
-      "player": "vladimir guerrero",
-      "pitcher": "scott barlow",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "2": {
       "player": "nathan lukes",
       "pitcher": "scott barlow",
@@ -54,7 +48,14 @@
     }
   },
   "cle @ bos": {},
-  "mia @ wsh": {},
+  "mia @ wsh": {
+    "1": {
+      "player": "xavier edwards",
+      "pitcher": "cade cavalli",
+      "result": "Foul",
+      "pitch": "Sinker"
+    }
+  },
   "sea @ tb": {},
   "laa @ kc": {},
   "atl @ chc": {},
