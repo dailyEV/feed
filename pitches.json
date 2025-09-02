@@ -236,6 +236,12 @@
     }
   },
   "lad @ pit": {
+    "38": {
+      "player": "mookie betts",
+      "pitcher": "bubba chandler",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "cam devanney",
       "pitcher": "clayton kershaw",
@@ -460,6 +466,18 @@
     }
   },
   "tor @ cin": {
+    "37": {
+      "player": "george springer",
+      "pitcher": "brent suter",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "36": {
+      "player": "isiah kiner falefa",
+      "pitcher": "brent suter",
+      "result": "Hit By Pitch",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "matt mclain",
       "pitcher": "dillon tate",
@@ -675,7 +693,7 @@
     "40": {
       "player": "nathaniel lowe",
       "pitcher": "slade cecconi",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -1148,7 +1166,7 @@
       "player": "josh naylor",
       "pitcher": "drew rasmussen",
       "result": "Called Strike",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "jake mangum",
@@ -1256,12 +1274,6 @@
     }
   },
   "atl @ chc": {
-    "9": {
-      "player": "michael harris",
-      "pitcher": "shota imanaga",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "8": {
       "player": "carson kelly",
       "pitcher": "joey wentz",
@@ -1315,8 +1327,8 @@
     "9": {
       "player": "colson montgomery",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "8": {
       "player": "kody clemens",
@@ -1368,6 +1380,12 @@
     }
   },
   "ath @ stl": {
+    "7": {
+      "player": "tyler soderstrom",
+      "pitcher": "miles mikolas",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "willson contreras",
       "pitcher": "luis severino",
