@@ -3,8 +3,8 @@
     "35": {
       "player": "zach mckinstry",
       "pitcher": "nolan mclean",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "wenceel perez",
@@ -212,6 +212,12 @@
     }
   },
   "lad @ pit": {
+    "32": {
+      "player": "alex freeland",
+      "pitcher": "bubba chandler",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "andy pages",
       "pitcher": "bubba chandler",
@@ -400,11 +406,17 @@
     }
   },
   "tor @ cin": {
+    "33": {
+      "player": "kebryan hayes",
+      "pitcher": "dillon tate",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "32": {
       "player": "sal stewart",
       "pitcher": "dillon tate",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "andres gimenez",
@@ -1021,8 +1033,8 @@
     "6": {
       "player": "brandon lowe",
       "pitcher": "bryan woo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "yandy diaz",
@@ -1091,7 +1103,7 @@
     "5": {
       "player": "nico hoerner",
       "pitcher": "joey wentz",
-      "result": "In play, no out",
+      "result": "Called Strike",
       "pitch": "Cutter"
     },
     "4": {
@@ -1123,8 +1135,8 @@
     "4": {
       "player": "byron buxton",
       "pitcher": "davis martin",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "3": {
       "player": "lenyn sosa",
