@@ -3,8 +3,8 @@
     "32": {
       "player": "francisco lindor",
       "pitcher": "sawyer gipson long",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "brett baty",
@@ -194,12 +194,6 @@
     }
   },
   "lad @ pit": {
-    "29": {
-      "player": "andrew mccutchen",
-      "pitcher": "clayton kershaw",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "28": {
       "player": "tommy pham",
       "pitcher": "clayton kershaw",
@@ -558,11 +552,17 @@
     }
   },
   "cle @ bos": {
+    "34": {
+      "player": "alex bregman",
+      "pitcher": "slade cecconi",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "33": {
       "player": "roman anthony",
       "pitcher": "slade cecconi",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "32": {
       "player": "carlos narvaez",
@@ -952,6 +952,12 @@
     }
   },
   "sea @ tb": {
+    "5": {
+      "player": "yandy diaz",
+      "pitcher": "bryan woo",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "chandler simpson",
       "pitcher": "bryan woo",
@@ -978,6 +984,12 @@
     }
   },
   "laa @ kc": {
+    "3": {
+      "player": "yoan moncada",
+      "pitcher": "michael lorenzen",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "2": {
       "player": "luis rengifo",
       "pitcher": "michael lorenzen",
@@ -995,8 +1007,8 @@
     "4": {
       "player": "marcell ozuna",
       "pitcher": "shota imanaga",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "3": {
       "player": "ozzie albies",
