@@ -1,11 +1,5 @@
 {
   "nym @ det": {
-    "37": {
-      "player": "pete alonso",
-      "pitcher": "bailey horn",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "36": {
       "player": "juan soto",
       "pitcher": "bailey horn",
@@ -433,8 +427,8 @@
     "35": {
       "player": "matt mclain",
       "pitcher": "dillon tate",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "34": {
       "player": "jose trevino",
@@ -642,6 +636,12 @@
     }
   },
   "cle @ bos": {
+    "37": {
+      "player": "nolan jones",
+      "pitcher": "garrett crochet",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "brayan rocchio",
       "pitcher": "garrett crochet",
@@ -1087,8 +1087,8 @@
     "8": {
       "player": "josh lowe",
       "pitcher": "bryan woo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "7": {
       "player": "junior caminero",
@@ -1138,7 +1138,7 @@
       "player": "bobby witt",
       "pitcher": "mitch farris",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "maikel garcia",
@@ -1225,8 +1225,8 @@
     "7": {
       "player": "matt wallner",
       "pitcher": "davis martin",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "brooks lee",
