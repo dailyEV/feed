@@ -185,8 +185,8 @@
     "27": {
       "player": "michael conforto",
       "pitcher": "bubba chandler",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "26": {
       "player": "teoscar hernandez",
@@ -346,6 +346,12 @@
     }
   },
   "tor @ cin": {
+    "29": {
+      "player": "alejandro kirk",
+      "pitcher": "brent suter",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "gavin lux",
       "pitcher": "jose berrios",
@@ -516,11 +522,17 @@
     }
   },
   "cle @ bos": {
+    "33": {
+      "player": "roman anthony",
+      "pitcher": "slade cecconi",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "32": {
       "player": "carlos narvaez",
       "pitcher": "slade cecconi",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "ceddanne rafaela",
@@ -713,8 +725,8 @@
     "31": {
       "player": "troy johnston",
       "pitcher": "cade cavalli",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "connor norby",
