@@ -3,8 +3,8 @@
     "17": {
       "player": "colt keith",
       "pitcher": "nolan mclean",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "trey sweeney",
@@ -107,8 +107,8 @@
     "13": {
       "player": "teoscar hernandez",
       "pitcher": "carmen mlodzinski",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "12": {
       "player": "will smith",
@@ -187,8 +187,8 @@
     "13": {
       "player": "sal stewart",
       "pitcher": "jose berrios",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slurve"
     },
     "12": {
       "player": "gavin lux",
@@ -368,11 +368,17 @@
     }
   },
   "mia @ wsh": {
+    "18": {
+      "player": "james wood",
+      "pitcher": "adam mazur",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "17": {
       "player": "jacob young",
       "pitcher": "adam mazur",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "16": {
       "player": "paul dejong",
