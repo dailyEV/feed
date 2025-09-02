@@ -216,7 +216,7 @@
       "player": "alex freeland",
       "pitcher": "bubba chandler",
       "result": "Called Strike",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "andy pages",
@@ -410,7 +410,7 @@
       "player": "jose trevino",
       "pitcher": "dillon tate",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "33": {
       "player": "kebryan hayes",
@@ -824,6 +824,12 @@
     }
   },
   "mia @ wsh": {
+    "36": {
+      "player": "james wood",
+      "pitcher": "adam mazur",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
     "35": {
       "player": "jacob young",
       "pitcher": "adam mazur",
@@ -1039,8 +1045,8 @@
     "7": {
       "player": "junior caminero",
       "pitcher": "bryan woo",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "6": {
       "player": "brandon lowe",
@@ -1080,6 +1086,12 @@
     }
   },
   "laa @ kc": {
+    "6": {
+      "player": "maikel garcia",
+      "pitcher": "mitch farris",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "logan ohoppe",
       "pitcher": "michael lorenzen",
@@ -1112,6 +1124,12 @@
     }
   },
   "atl @ chc": {
+    "6": {
+      "player": "kyle tucker",
+      "pitcher": "joey wentz",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "nico hoerner",
       "pitcher": "joey wentz",
@@ -1147,8 +1165,8 @@
     "4": {
       "player": "byron buxton",
       "pitcher": "davis martin",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "3": {
       "player": "lenyn sosa",
@@ -1173,8 +1191,8 @@
     "2": {
       "player": "jacob wilson",
       "pitcher": "miles mikolas",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "1": {
       "player": "nick kurtz",
