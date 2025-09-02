@@ -427,7 +427,7 @@
     "35": {
       "player": "matt mclain",
       "pitcher": "dillon tate",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Sweeper"
     },
     "34": {
@@ -636,12 +636,6 @@
     }
   },
   "cle @ bos": {
-    "37": {
-      "player": "nolan jones",
-      "pitcher": "garrett crochet",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "36": {
       "player": "brayan rocchio",
       "pitcher": "garrett crochet",
@@ -1178,6 +1172,12 @@
     }
   },
   "atl @ chc": {
+    "8": {
+      "player": "carson kelly",
+      "pitcher": "joey wentz",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "seiya suzuki",
       "pitcher": "joey wentz",
@@ -1266,6 +1266,12 @@
     }
   },
   "ath @ stl": {
+    "4": {
+      "player": "lars nootbaar",
+      "pitcher": "luis severino",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "brent rooker",
       "pitcher": "miles mikolas",
