@@ -1,11 +1,5 @@
 {
   "nym @ det": {
-    "39": {
-      "player": "mark vientos",
-      "pitcher": "bailey horn",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "38": {
       "player": "brandon nimmo",
       "pitcher": "bailey horn",
@@ -672,11 +666,17 @@
     }
   },
   "cle @ bos": {
+    "39": {
+      "player": "trevor story",
+      "pitcher": "slade cecconi",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "38": {
       "player": "jarren duran",
       "pitcher": "slade cecconi",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "37": {
       "player": "nolan jones",
@@ -1326,6 +1326,18 @@
     }
   },
   "ath @ stl": {
+    "6": {
+      "player": "willson contreras",
+      "pitcher": "luis severino",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
+    "5": {
+      "player": "ivan herrera",
+      "pitcher": "luis severino",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "4": {
       "player": "lars nootbaar",
       "pitcher": "luis severino",
