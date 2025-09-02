@@ -203,8 +203,8 @@
     "30": {
       "player": "alexander canario",
       "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "29": {
       "player": "andrew mccutchen",
@@ -573,8 +573,8 @@
     "34": {
       "player": "alex bregman",
       "pitcher": "slade cecconi",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "33": {
       "player": "roman anthony",
@@ -776,6 +776,12 @@
     }
   },
   "mia @ wsh": {
+    "34": {
+      "player": "paul dejong",
+      "pitcher": "adam mazur",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "33": {
       "player": "dylan crews",
       "pitcher": "adam mazur",
@@ -979,7 +985,7 @@
     "6": {
       "player": "brandon lowe",
       "pitcher": "bryan woo",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "5": {
@@ -1069,8 +1075,8 @@
     "3": {
       "player": "lenyn sosa",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "kyle teel",
@@ -1085,7 +1091,14 @@
       "pitch": "Slider"
     }
   },
-  "ath @ stl": {},
+  "ath @ stl": {
+    "1": {
+      "player": "nick kurtz",
+      "pitcher": "miles mikolas",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "nyy @ hou": {},
   "sf @ col": {},
   "bal @ sd": {},
