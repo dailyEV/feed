@@ -3,7 +3,7 @@
     "12": {
       "player": "jeff mcneil",
       "pitcher": "sawyer gipson long",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "11": {
@@ -77,8 +77,8 @@
     "11": {
       "player": "henry davis",
       "pitcher": "clayton kershaw",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "10": {
       "player": "nick yorke",
@@ -204,6 +204,12 @@
     }
   },
   "cle @ bos": {
+    "11": {
+      "player": "nolan jones",
+      "pitcher": "garrett crochet",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "brayan rocchio",
       "pitcher": "garrett crochet",
@@ -266,11 +272,17 @@
     }
   },
   "mia @ wsh": {
+    "11": {
+      "player": "troy johnston",
+      "pitcher": "cade cavalli",
+      "result": "Hit By Pitch",
+      "pitch": "Cutter"
+    },
     "10": {
       "player": "connor norby",
       "pitcher": "cade cavalli",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "9": {
       "player": "otto lopez",
