@@ -149,8 +149,8 @@
     "20": {
       "player": "bryan reynolds",
       "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "19": {
       "player": "nick gonzales",
@@ -271,8 +271,8 @@
     "22": {
       "player": "jose trevino",
       "pitcher": "jose berrios",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "kebryan hayes",
@@ -402,11 +402,17 @@
     }
   },
   "cle @ bos": {
+    "25": {
+      "player": "nathaniel lowe",
+      "pitcher": "slade cecconi",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "trevor story",
       "pitcher": "slade cecconi",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "23": {
       "player": "jarren duran",
