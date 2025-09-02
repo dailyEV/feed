@@ -3,8 +3,8 @@
     "34": {
       "player": "wenceel perez",
       "pitcher": "nolan mclean",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "33": {
       "player": "spencer torkelson",
@@ -391,7 +391,7 @@
     "32": {
       "player": "sal stewart",
       "pitcher": "dillon tate",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "31": {
@@ -788,11 +788,17 @@
     }
   },
   "mia @ wsh": {
+    "35": {
+      "player": "jacob young",
+      "pitcher": "adam mazur",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "paul dejong",
       "pitcher": "adam mazur",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "dylan crews",
@@ -997,8 +1003,8 @@
     "6": {
       "player": "brandon lowe",
       "pitcher": "bryan woo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "5": {
       "player": "yandy diaz",
@@ -1032,6 +1038,12 @@
     }
   },
   "laa @ kc": {
+    "5": {
+      "player": "logan ohoppe",
+      "pitcher": "michael lorenzen",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "jo adell",
       "pitcher": "michael lorenzen",
@@ -1058,12 +1070,6 @@
     }
   },
   "atl @ chc": {
-    "5": {
-      "player": "nico hoerner",
-      "pitcher": "joey wentz",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "4": {
       "player": "marcell ozuna",
       "pitcher": "shota imanaga",
