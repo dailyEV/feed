@@ -1,9 +1,21 @@
 {
   "nym @ det": {
+    "47": {
+      "player": "francisco lindor",
+      "pitcher": "chris paddack",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
+    "46": {
+      "player": "brett baty",
+      "pitcher": "chris paddack",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "45": {
       "player": "luis torrens",
       "pitcher": "chris paddack",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "44": {
@@ -272,11 +284,23 @@
     }
   },
   "lad @ pit": {
+    "48": {
+      "player": "alex freeland",
+      "pitcher": "bubba chandler",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "47": {
+      "player": "andy pages",
+      "pitcher": "bubba chandler",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "michael conforto",
       "pitcher": "bubba chandler",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "45": {
       "player": "teoscar hernandez",
@@ -550,6 +574,12 @@
     }
   },
   "tor @ cin": {
+    "46": {
+      "player": "sal stewart",
+      "pitcher": "eric lauer",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "45": {
       "player": "gavin lux",
       "pitcher": "eric lauer",
@@ -822,6 +852,18 @@
     }
   },
   "cle @ bos": {
+    "52": {
+      "player": "ceddanne rafaela",
+      "pitcher": "slade cecconi",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
+    "51": {
+      "player": "masataka yoshida",
+      "pitcher": "slade cecconi",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "50": {
       "player": "romy gonzalez",
       "pitcher": "slade cecconi",
@@ -1124,11 +1166,17 @@
     }
   },
   "mia @ wsh": {
+    "48": {
+      "player": "connor norby",
+      "pitcher": "pj poulin",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "otto lopez",
       "pitcher": "pj poulin",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "46": {
       "player": "liam hicks",
@@ -1408,11 +1456,17 @@
     }
   },
   "sea @ tb": {
+    "19": {
+      "player": "cole young",
+      "pitcher": "drew rasmussen",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "18": {
       "player": "jp crawford",
       "pitcher": "drew rasmussen",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "chandler simpson",
@@ -1518,11 +1572,17 @@
     }
   },
   "laa @ kc": {
+    "17": {
+      "player": "kyle isbel",
+      "pitcher": "mitch farris",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "16": {
       "player": "nick loftin",
       "pitcher": "mitch farris",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "15": {
       "player": "adam frazier",
@@ -1616,6 +1676,24 @@
     }
   },
   "atl @ chc": {
+    "17": {
+      "player": "ronald acuna",
+      "pitcher": "shota imanaga",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
+    "16": {
+      "player": "nacho alvarez",
+      "pitcher": "shota imanaga",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "15": {
+      "player": "sean murphy",
+      "pitcher": "shota imanaga",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "14": {
       "player": "dansby swanson",
       "pitcher": "joey wentz",
@@ -1702,6 +1780,12 @@
     }
   },
   "chw @ min": {
+    "18": {
+      "player": "will robertson",
+      "pitcher": "simeon woods richardson",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "byron buxton",
       "pitcher": "davis martin",
@@ -1806,6 +1890,18 @@
     }
   },
   "ath @ stl": {
+    "15": {
+      "player": "darell hernaiz",
+      "pitcher": "miles mikolas",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "14": {
+      "player": "jj bleday",
+      "pitcher": "miles mikolas",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "13": {
       "player": "jimmy crooks",
       "pitcher": "luis severino",
@@ -1886,10 +1982,22 @@
     }
   },
   "nyy @ hou": {
+    "4": {
+      "player": "giancarlo stanton",
+      "pitcher": "framber valdez",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
+    "3": {
+      "player": "aaron judge",
+      "pitcher": "framber valdez",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "cody bellinger",
       "pitcher": "framber valdez",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "1": {
