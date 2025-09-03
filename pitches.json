@@ -622,12 +622,6 @@
     }
   },
   "tor @ cin": {
-    "53": {
-      "player": "matt mclain",
-      "pitcher": "eric lauer",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
-    },
     "52": {
       "player": "jose trevino",
       "pitcher": "eric lauer",
@@ -1292,10 +1286,16 @@
     }
   },
   "mia @ wsh": {
+    "56": {
+      "player": "victor mesa",
+      "pitcher": "cole henry",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "55": {
       "player": "heriberto hernandez",
       "pitcher": "cole henry",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -1627,7 +1627,7 @@
     "25": {
       "player": "jake mangum",
       "pitcher": "bryan woo",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "24": {
@@ -1928,6 +1928,12 @@
     }
   },
   "atl @ chc": {
+    "22": {
+      "player": "seiya suzuki",
+      "pitcher": "joey wentz",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "kyle tucker",
       "pitcher": "joey wentz",
@@ -2056,6 +2062,12 @@
     }
   },
   "chw @ min": {
+    "23": {
+      "player": "trevor larnach",
+      "pitcher": "davis martin",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "lenyn sosa",
       "pitcher": "simeon woods richardson",
@@ -2193,8 +2205,8 @@
     "22": {
       "player": "lars nootbaar",
       "pitcher": "luis severino",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "21": {
       "player": "nathan church",
