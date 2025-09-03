@@ -2413,8 +2413,8 @@
     "67": {
       "player": "tristan gray",
       "pitcher": "luke jackson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "66": {
       "player": "christopher morel",
@@ -3239,7 +3239,7 @@
     "63": {
       "player": "ozzie albies",
       "pitcher": "daniel palencia",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -3619,8 +3619,8 @@
     "73": {
       "player": "brooks baldwin",
       "pitcher": "noah davis",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "72": {
       "player": "andrew benintendi",
@@ -4950,6 +4950,12 @@
     }
   },
   "bal @ sd": {
+    "11": {
+      "player": "dylan beavers",
+      "pitcher": "yu darvish",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "manny machado",
       "pitcher": "tyler wells",
