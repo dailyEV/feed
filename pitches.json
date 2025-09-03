@@ -1,5 +1,11 @@
 {
   "nym @ det": {
+    "61": {
+      "player": "pete alonso",
+      "pitcher": "tommy kahnle",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "60": {
       "player": "juan soto",
       "pitcher": "chris paddack",
@@ -706,6 +712,12 @@
     }
   },
   "tor @ cin": {
+    "59": {
+      "player": "elly de la cruz",
+      "pitcher": "eric lauer",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "58": {
       "player": "nathan lukes",
       "pitcher": "connor phillips",
@@ -1056,6 +1068,12 @@
     }
   },
   "cle @ bos": {
+    "64": {
+      "player": "david fry",
+      "pitcher": "justin slaten",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "63": {
       "player": "romy gonzalez",
       "pitcher": "hunter gaddis",
@@ -1436,6 +1454,12 @@
     }
   },
   "mia @ wsh": {
+    "63": {
+      "player": "liam hicks",
+      "pitcher": "konnor pilkington",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "agustin ramirez",
       "pitcher": "konnor pilkington",
@@ -1810,12 +1834,6 @@
     }
   },
   "sea @ tb": {
-    "34": {
-      "player": "hunter feduccia",
-      "pitcher": "bryan woo",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "33": {
       "player": "carson williams",
       "pitcher": "bryan woo",
@@ -2016,6 +2034,12 @@
     }
   },
   "laa @ kc": {
+    "33": {
+      "player": "oswald peraza",
+      "pitcher": "michael lorenzen",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "matthew lugo",
       "pitcher": "michael lorenzen",
@@ -2213,7 +2237,7 @@
     "28": {
       "player": "ozzie albies",
       "pitcher": "shota imanaga",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "27": {
@@ -2380,6 +2404,12 @@
     }
   },
   "chw @ min": {
+    "32": {
+      "player": "mickey gasper",
+      "pitcher": "davis martin",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "james outman",
       "pitcher": "davis martin",
@@ -2762,11 +2792,23 @@
     }
   },
   "nyy @ hou": {
+    "17": {
+      "player": "cam smith",
+      "pitcher": "max fried",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "16": {
+      "player": "ramon urias",
+      "pitcher": "max fried",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "15": {
       "player": "yainer diaz",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "paul goldschmidt",
@@ -2857,8 +2899,8 @@
     "2": {
       "player": "rafael devers",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "1": {
       "player": "heliot ramos",
