@@ -3053,7 +3053,7 @@
     "51": {
       "player": "ha seong kim",
       "pitcher": "drew pomeranz",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -3361,8 +3361,8 @@
     "59": {
       "player": "andrew benintendi",
       "pitcher": "thomas hatch",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "58": {
       "player": "curtis mead",
@@ -3717,8 +3717,8 @@
     "58": {
       "player": "lars nootbaar",
       "pitcher": "sean newcomb",
-      "result": "Called Strike",
-      "pitch": "Slurve"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "57": {
       "player": "nathan church",
@@ -4294,6 +4294,12 @@
     }
   },
   "sf @ col": {
+    "25": {
+      "player": "hunter goodman",
+      "pitcher": "logan webb",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "mickey moniak",
       "pitcher": "logan webb",
