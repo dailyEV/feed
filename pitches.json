@@ -365,7 +365,7 @@
     "57": {
       "player": "shohei ohtani",
       "pitcher": "isaac mattson",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -2007,8 +2007,8 @@
     "32": {
       "player": "matthew lugo",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "adam frazier",
@@ -2556,12 +2556,6 @@
     }
   },
   "ath @ stl": {
-    "31": {
-      "player": "darell hernaiz",
-      "pitcher": "miles mikolas",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
-    },
     "30": {
       "player": "jj bleday",
       "pitcher": "miles mikolas",
@@ -2744,11 +2738,17 @@
     }
   },
   "nyy @ hou": {
+    "16": {
+      "player": "ramon urias",
+      "pitcher": "max fried",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "15": {
       "player": "yainer diaz",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "paul goldschmidt",
@@ -2839,8 +2839,8 @@
     "2": {
       "player": "rafael devers",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "1": {
       "player": "heliot ramos",
