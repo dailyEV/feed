@@ -368,11 +368,17 @@
     }
   },
   "lad @ pit": {
+    "59": {
+      "player": "freddie freeman",
+      "pitcher": "isaac mattson",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "mookie betts",
       "pitcher": "isaac mattson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "57": {
       "player": "shohei ohtani",
@@ -1837,8 +1843,8 @@
     "34": {
       "player": "hunter feduccia",
       "pitcher": "bryan woo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "33": {
       "player": "carson williams",
@@ -2044,7 +2050,7 @@
       "player": "bryce teodosio",
       "pitcher": "michael lorenzen",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "33": {
       "player": "oswald peraza",
@@ -2246,6 +2252,12 @@
     }
   },
   "atl @ chc": {
+    "29": {
+      "player": "marcell ozuna",
+      "pitcher": "shota imanaga",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "28": {
       "player": "ozzie albies",
       "pitcher": "shota imanaga",
