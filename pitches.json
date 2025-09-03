@@ -2410,11 +2410,23 @@
     }
   },
   "sea @ tb": {
-    "63": {
-      "player": "julio rodriguez",
+    "65": {
+      "player": "eugenio suarez",
       "pitcher": "kevin kelly",
       "result": "Called Strike",
       "pitch": "Sinker"
+    },
+    "64": {
+      "player": "josh naylor",
+      "pitcher": "kevin kelly",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
+    "63": {
+      "player": "julio rodriguez",
+      "pitcher": "kevin kelly",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "62": {
       "player": "jake mangum",
@@ -3571,7 +3583,7 @@
     "69": {
       "player": "lenyn sosa",
       "pitcher": "noah davis",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "68": {
@@ -4633,8 +4645,8 @@
     "35": {
       "player": "kyle farmer",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "34": {
       "player": "yanquiel fernandez",
@@ -4842,6 +4854,12 @@
     }
   },
   "bal @ sd": {
+    "10": {
+      "player": "manny machado",
+      "pitcher": "tyler wells",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "9": {
       "player": "luis arraez",
       "pitcher": "tyler wells",
@@ -4898,6 +4916,12 @@
     }
   },
   "tex @ ari": {
+    "10": {
+      "player": "cody freeman",
+      "pitcher": "nabil crismatt",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "9": {
       "player": "josh jung",
       "pitcher": "nabil crismatt",
