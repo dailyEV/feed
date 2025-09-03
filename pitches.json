@@ -3,7 +3,7 @@
     "45": {
       "player": "luis torrens",
       "pitcher": "chris paddack",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "44": {
@@ -276,7 +276,7 @@
       "player": "michael conforto",
       "pitcher": "bubba chandler",
       "result": "Called Strike",
-      "pitch": "Curveball"
+      "pitch": "Changeup"
     },
     "45": {
       "player": "teoscar hernandez",
@@ -822,6 +822,12 @@
     }
   },
   "cle @ bos": {
+    "50": {
+      "player": "romy gonzalez",
+      "pitcher": "slade cecconi",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "nolan jones",
       "pitcher": "garrett crochet",
@@ -1405,8 +1411,8 @@
     "18": {
       "player": "jp crawford",
       "pitcher": "drew rasmussen",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "17": {
       "player": "chandler simpson",
@@ -1610,6 +1616,12 @@
     }
   },
   "atl @ chc": {
+    "15": {
+      "player": "sean murphy",
+      "pitcher": "shota imanaga",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "dansby swanson",
       "pitcher": "joey wentz",
@@ -1803,8 +1815,8 @@
     "13": {
       "player": "jimmy crooks",
       "pitcher": "luis severino",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "masyn winn",
