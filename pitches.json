@@ -410,6 +410,12 @@
     }
   },
   "lad @ pit": {
+    "64": {
+      "player": "andrew mccutchen",
+      "pitcher": "michael kopech",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "tommy pham",
       "pitcher": "michael kopech",
@@ -1607,8 +1613,8 @@
     "68": {
       "player": "paul dejong",
       "pitcher": "freddy tarnok",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "dylan crews",
@@ -2692,6 +2698,12 @@
     }
   },
   "chw @ min": {
+    "41": {
+      "player": "trevor larnach",
+      "pitcher": "davis martin",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "byron buxton",
       "pitcher": "davis martin",
@@ -2937,8 +2949,8 @@
     "39": {
       "player": "shea langeliers",
       "pitcher": "miles mikolas",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "38": {
       "player": "tyler soderstrom",
@@ -3164,6 +3176,18 @@
     }
   },
   "nyy @ hou": {
+    "24": {
+      "player": "carlos correa",
+      "pitcher": "max fried",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "23": {
+      "player": "jeremy pena",
+      "pitcher": "max fried",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "22": {
       "player": "cesar salazar",
       "pitcher": "max fried",
@@ -3298,6 +3322,12 @@
     }
   },
   "sf @ col": {
+    "4": {
+      "player": "dominic smith",
+      "pitcher": "antonio senzatela",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "casey schmitt",
       "pitcher": "antonio senzatela",
