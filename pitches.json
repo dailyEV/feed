@@ -302,6 +302,12 @@
     }
   },
   "lad @ pit": {
+    "50": {
+      "player": "oneil cruz",
+      "pitcher": "edgardo henriquez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "andrew mccutchen",
       "pitcher": "edgardo henriquez",
@@ -598,6 +604,12 @@
     }
   },
   "tor @ cin": {
+    "51": {
+      "player": "kebryan hayes",
+      "pitcher": "eric lauer",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "50": {
       "player": "andres gimenez",
       "pitcher": "zach maxwell",
@@ -903,8 +915,8 @@
     "56": {
       "player": "austin hedges",
       "pitcher": "garrett whitlock",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "55": {
       "player": "alex bregman",
@@ -2088,12 +2100,6 @@
     }
   },
   "ath @ stl": {
-    "21": {
-      "player": "nathan church",
-      "pitcher": "luis severino",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "20": {
       "player": "victor scott",
       "pitcher": "luis severino",
@@ -2219,8 +2225,8 @@
     "8": {
       "player": "christian walker",
       "pitcher": "max fried",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "jose altuve",
