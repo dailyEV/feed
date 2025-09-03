@@ -2413,7 +2413,7 @@
     "62": {
       "player": "jake mangum",
       "pitcher": "carlos vargas",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "61": {
@@ -3538,11 +3538,17 @@
     }
   },
   "chw @ min": {
+    "69": {
+      "player": "lenyn sosa",
+      "pitcher": "noah davis",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "68": {
       "player": "kyle teel",
       "pitcher": "noah davis",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Hit By Pitch",
+      "pitch": "Sweeper"
     },
     "67": {
       "player": "brooks lee",
@@ -4800,6 +4806,12 @@
     }
   },
   "bal @ sd": {
+    "8": {
+      "player": "fernando tatis",
+      "pitcher": "tyler wells",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "7": {
       "player": "emmanuel rivera",
       "pitcher": "yu darvish",
