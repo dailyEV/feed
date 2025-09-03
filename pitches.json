@@ -3,8 +3,8 @@
     "40": {
       "player": "dillon dingler",
       "pitcher": "nolan mclean",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "mark vientos",
@@ -242,6 +242,12 @@
     }
   },
   "lad @ pit": {
+    "40": {
+      "player": "will smith",
+      "pitcher": "bubba chandler",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "39": {
       "player": "freddie freeman",
       "pitcher": "bubba chandler",
@@ -711,7 +717,7 @@
     "41": {
       "player": "austin hedges",
       "pitcher": "garrett crochet",
-      "result": "In play, run(s)",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "40": {
@@ -1396,11 +1402,17 @@
     }
   },
   "chw @ min": {
+    "11": {
+      "player": "andrew benintendi",
+      "pitcher": "simeon woods richardson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "curtis mead",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "9": {
       "player": "colson montgomery",
