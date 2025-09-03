@@ -3,8 +3,8 @@
     "56": {
       "player": "cedric mullins",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "55": {
       "player": "jeff mcneil",
@@ -1352,6 +1352,18 @@
     }
   },
   "mia @ wsh": {
+    "59": {
+      "player": "luis garcia",
+      "pitcher": "freddy tarnok",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "58": {
+      "player": "josh bell",
+      "pitcher": "freddy tarnok",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "57": {
       "player": "xavier edwards",
       "pitcher": "cole henry",
@@ -2170,6 +2182,12 @@
     }
   },
   "chw @ min": {
+    "27": {
+      "player": "curtis mead",
+      "pitcher": "simeon woods richardson",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "colson montgomery",
       "pitcher": "simeon woods richardson",
@@ -2496,7 +2514,7 @@
       "player": "austin wells",
       "pitcher": "framber valdez",
       "result": "Called Strike",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "12": {
       "player": "jose caballero",
