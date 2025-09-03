@@ -1,16 +1,10 @@
 {
   "nym @ det": {
-    "67": {
-      "player": "jeff mcneil",
-      "pitcher": "brenan hanifee",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "66": {
       "player": "luisangel acuna",
       "pitcher": "brenan hanifee",
-      "result": "In play, no out",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "65": {
       "player": "brandon nimmo",
@@ -408,7 +402,7 @@
       "player": "bryan reynolds",
       "pitcher": "michael kopech",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "61": {
       "player": "teoscar hernandez",
@@ -778,6 +772,12 @@
     }
   },
   "tor @ cin": {
+    "65": {
+      "player": "alejandro kirk",
+      "pitcher": "connor phillips",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "64": {
       "player": "daulton varsho",
       "pitcher": "connor phillips",
@@ -3114,7 +3114,7 @@
       "player": "mauricio dubon",
       "pitcher": "max fried",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Cutter"
     },
     "20": {
       "player": "giancarlo stanton",
@@ -3238,6 +3238,12 @@
     }
   },
   "sf @ col": {
+    "3": {
+      "player": "casey schmitt",
+      "pitcher": "antonio senzatela",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "2": {
       "player": "rafael devers",
       "pitcher": "kyle freeland",
