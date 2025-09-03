@@ -1,5 +1,11 @@
 {
   "nym @ det": {
+    "45": {
+      "player": "luis torrens",
+      "pitcher": "chris paddack",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "cedric mullins",
       "pitcher": "bailey horn",
@@ -532,16 +538,10 @@
     }
   },
   "tor @ cin": {
-    "44": {
-      "player": "austin hays",
-      "pitcher": "eric lauer",
-      "result": "In play, run(s)",
-      "pitch": "Cutter"
-    },
     "43": {
       "player": "elly de la cruz",
       "pitcher": "eric lauer",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -1094,10 +1094,16 @@
     }
   },
   "mia @ wsh": {
+    "46": {
+      "player": "liam hicks",
+      "pitcher": "pj poulin",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "agustin ramirez",
       "pitcher": "pj poulin",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -1740,6 +1746,12 @@
     }
   },
   "ath @ stl": {
+    "13": {
+      "player": "jimmy crooks",
+      "pitcher": "luis severino",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "12": {
       "player": "masyn winn",
       "pitcher": "luis severino",
