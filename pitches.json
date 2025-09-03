@@ -1373,8 +1373,8 @@
     "60": {
       "player": "daylen lile",
       "pitcher": "freddy tarnok",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "59": {
       "player": "luis garcia",
@@ -1732,6 +1732,18 @@
     }
   },
   "sea @ tb": {
+    "30": {
+      "player": "jorge polanco",
+      "pitcher": "drew rasmussen",
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
+    },
+    "29": {
+      "player": "eugenio suarez",
+      "pitcher": "drew rasmussen",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "28": {
       "player": "josh naylor",
       "pitcher": "drew rasmussen",
@@ -2075,7 +2087,7 @@
     "25": {
       "player": "ian happ",
       "pitcher": "joey wentz",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -2227,7 +2239,7 @@
     "28": {
       "player": "andrew benintendi",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "27": {
