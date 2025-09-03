@@ -3,8 +3,8 @@
     "52": {
       "player": "pete alonso",
       "pitcher": "chris paddack",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "51": {
       "player": "juan soto",
@@ -317,8 +317,8 @@
     "51": {
       "player": "spencer horwitz",
       "pitcher": "edgardo henriquez",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "oneil cruz",
@@ -939,8 +939,8 @@
     "58": {
       "player": "angel martinez",
       "pitcher": "garrett whitlock",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "57": {
       "player": "steven kwan",
@@ -1286,10 +1286,16 @@
     }
   },
   "mia @ wsh": {
+    "56": {
+      "player": "victor mesa",
+      "pitcher": "cole henry",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "55": {
       "player": "heriberto hernandez",
       "pitcher": "cole henry",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -2038,6 +2044,12 @@
     }
   },
   "chw @ min": {
+    "23": {
+      "player": "trevor larnach",
+      "pitcher": "davis martin",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "lenyn sosa",
       "pitcher": "simeon woods richardson",
@@ -2306,6 +2318,12 @@
     }
   },
   "nyy @ hou": {
+    "9": {
+      "player": "trent grisham",
+      "pitcher": "framber valdez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "8": {
       "player": "christian walker",
       "pitcher": "max fried",
