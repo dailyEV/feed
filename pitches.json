@@ -4556,10 +4556,16 @@
     }
   },
   "nyy @ hou": {
+    "69": {
+      "player": "cody bellinger",
+      "pitcher": "aj blubaugh",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "68": {
       "player": "paul goldschmidt",
       "pitcher": "aj blubaugh",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -4969,7 +4975,7 @@
     "60": {
       "player": "ryan ritter",
       "pitcher": "jose butto",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "59": {
@@ -5328,6 +5334,12 @@
     }
   },
   "bal @ sd": {
+    "32": {
+      "player": "jeremiah jackson",
+      "pitcher": "yu darvish",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "31": {
       "player": "jackson holliday",
       "pitcher": "yu darvish",
@@ -5516,12 +5528,6 @@
     }
   },
   "tex @ ari": {
-    "39": {
-      "player": "ketel marte",
-      "pitcher": "jacob latz",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "38": {
       "player": "jordan lawlar",
       "pitcher": "jacob latz",
