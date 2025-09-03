@@ -239,7 +239,7 @@
     "38": {
       "player": "mookie betts",
       "pitcher": "bubba chandler",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "37": {
@@ -1224,11 +1224,17 @@
     }
   },
   "laa @ kc": {
+    "9": {
+      "player": "salvador perez",
+      "pitcher": "mitch farris",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "8": {
       "player": "vinnie pasquantino",
       "pitcher": "mitch farris",
-      "result": "Foul Tip",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "bobby witt",
@@ -1333,8 +1339,8 @@
     "9": {
       "player": "colson montgomery",
       "pitcher": "simeon woods richardson",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "8": {
       "player": "kody clemens",
