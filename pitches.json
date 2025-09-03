@@ -2094,6 +2094,12 @@
     }
   },
   "laa @ kc": {
+    "35": {
+      "player": "nick loftin",
+      "pitcher": "mitch farris",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "34": {
       "player": "bryce teodosio",
       "pitcher": "michael lorenzen",
@@ -2300,6 +2306,18 @@
     }
   },
   "atl @ chc": {
+    "31": {
+      "player": "ha seong kim",
+      "pitcher": "shota imanaga",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "30": {
+      "player": "michael harris",
+      "pitcher": "shota imanaga",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "29": {
       "player": "marcell ozuna",
       "pitcher": "shota imanaga",
@@ -2479,8 +2497,8 @@
     "35": {
       "player": "will robertson",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "brooks baldwin",
@@ -2888,11 +2906,17 @@
     }
   },
   "nyy @ hou": {
-    "18": {
-      "player": "cody bellinger",
+    "19": {
+      "player": "aaron judge",
       "pitcher": "framber valdez",
       "result": "Called Strike",
       "pitch": "Sinker"
+    },
+    "18": {
+      "player": "cody bellinger",
+      "pitcher": "framber valdez",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "17": {
       "player": "cam smith",
