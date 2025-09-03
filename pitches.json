@@ -946,11 +946,17 @@
     }
   },
   "tor @ cin": {
+    "80": {
+      "player": "bo bichette",
+      "pitcher": "reiver sanmartin",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "79": {
       "player": "vladimir guerrero",
       "pitcher": "reiver sanmartin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "78": {
       "player": "austin hays",
@@ -2335,8 +2341,8 @@
     "51": {
       "player": "jorge polanco",
       "pitcher": "edwin uceta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "50": {
       "player": "eugenio suarez",
@@ -2643,8 +2649,8 @@
     "52": {
       "player": "randal grichuk",
       "pitcher": "reid detmers",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "51": {
       "player": "mike yastrzemski",
@@ -3238,12 +3244,6 @@
     }
   },
   "chw @ min": {
-    "55": {
-      "player": "kyle teel",
-      "pitcher": "thomas hatch",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "54": {
       "player": "mickey gasper",
       "pitcher": "davis martin",
