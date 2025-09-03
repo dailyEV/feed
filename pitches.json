@@ -976,6 +976,12 @@
     }
   },
   "tor @ cin": {
+    "87": {
+      "player": "will benson",
+      "pitcher": "jeff hoffman",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "86": {
       "player": "kebryan hayes",
       "pitcher": "jeff hoffman",
@@ -2404,12 +2410,6 @@
     }
   },
   "sea @ tb": {
-    "59": {
-      "player": "brandon lowe",
-      "pitcher": "gabe speier",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "58": {
       "player": "yandy diaz",
       "pitcher": "gabe speier",
@@ -2763,7 +2763,7 @@
     "61": {
       "player": "bobby witt",
       "pitcher": "luis garcia",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "60": {
@@ -3131,8 +3131,8 @@
     "54": {
       "player": "nico hoerner",
       "pitcher": "hayden harris",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "53": {
       "player": "sean murphy",
@@ -4462,11 +4462,17 @@
     }
   },
   "sf @ col": {
+    "31": {
+      "player": "patrick bailey",
+      "pitcher": "antonio senzatela",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "30": {
       "player": "christian koss",
       "pitcher": "antonio senzatela",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "29": {
       "player": "jung hoo lee",
