@@ -2145,7 +2145,7 @@
     "27": {
       "player": "nate eaton",
       "pitcher": "joey cantillo",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "26": {
@@ -2341,16 +2341,16 @@
     "1": {
       "player": "zach neto",
       "pitcher": "ryan bergert",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     }
   },
   "atl @ chc": {
     "2": {
       "player": "matt olson",
       "pitcher": "cade horton",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "1": {
       "player": "ronald acuna",
@@ -2360,7 +2360,14 @@
     }
   },
   "chw @ min": {},
-  "phi @ mil": {},
+  "phi @ mil": {
+    "1": {
+      "player": "trea turner",
+      "pitcher": "jose quintana",
+      "result": "Foul",
+      "pitch": "Sinker"
+    }
+  },
   "ath @ stl": {},
   "nyy @ hou": {},
   "sf @ col": {}
