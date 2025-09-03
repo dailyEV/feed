@@ -3,8 +3,8 @@
     "40": {
       "player": "dillon dingler",
       "pitcher": "nolan mclean",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "39": {
       "player": "mark vientos",
@@ -245,7 +245,7 @@
     "39": {
       "player": "freddie freeman",
       "pitcher": "bubba chandler",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -478,6 +478,12 @@
     }
   },
   "tor @ cin": {
+    "38": {
+      "player": "nathan lukes",
+      "pitcher": "brent suter",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "george springer",
       "pitcher": "brent suter",
@@ -944,11 +950,17 @@
     }
   },
   "mia @ wsh": {
+    "40": {
+      "player": "jakob marsee",
+      "pitcher": "cade cavalli",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "xavier edwards",
       "pitcher": "cade cavalli",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "38": {
       "player": "victor mesa",
@@ -1183,8 +1195,8 @@
     "11": {
       "player": "eugenio suarez",
       "pitcher": "drew rasmussen",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "10": {
       "player": "josh naylor",
@@ -1251,8 +1263,8 @@
     "9": {
       "player": "salvador perez",
       "pitcher": "mitch farris",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "8": {
       "player": "vinnie pasquantino",
@@ -1375,8 +1387,8 @@
     "10": {
       "player": "curtis mead",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "9": {
       "player": "colson montgomery",
