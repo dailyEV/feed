@@ -1796,11 +1796,17 @@
     }
   },
   "lad @ pit": {
-    "22": {
-      "player": "will smith",
+    "23": {
+      "player": "freddie freeman",
       "pitcher": "braxton ashcraft",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "22": {
+      "player": "dalton rushing",
+      "pitcher": "braxton ashcraft",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "mookie betts",
@@ -1933,8 +1939,8 @@
     "24": {
       "player": "austin hays",
       "pitcher": "shane bieber",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "23": {
       "player": "addison barger",
@@ -2076,6 +2082,12 @@
     }
   },
   "cle @ bos": {
+    "22": {
+      "player": "nick sogard",
+      "pitcher": "joey cantillo",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "21": {
       "player": "ceddanne rafaela",
       "pitcher": "joey cantillo",
