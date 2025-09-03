@@ -3,8 +3,8 @@
     "42": {
       "player": "colt keith",
       "pitcher": "nolan mclean",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "41": {
       "player": "trey sweeney",
@@ -254,6 +254,18 @@
     }
   },
   "lad @ pit": {
+    "43": {
+      "player": "bryan reynolds",
+      "pitcher": "clayton kershaw",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "42": {
+      "player": "nick gonzales",
+      "pitcher": "clayton kershaw",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "41": {
       "player": "jared triolo",
       "pitcher": "clayton kershaw",
@@ -1013,8 +1025,8 @@
     "43": {
       "player": "daylen lile",
       "pitcher": "adam mazur",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "luis garcia",
@@ -1424,6 +1436,12 @@
     }
   },
   "atl @ chc": {
+    "13": {
+      "player": "ian happ",
+      "pitcher": "joey wentz",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "12": {
       "player": "justin turner",
       "pitcher": "joey wentz",
@@ -1498,6 +1516,12 @@
     }
   },
   "chw @ min": {
+    "13": {
+      "player": "austin martin",
+      "pitcher": "davis martin",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "12": {
       "player": "brooks baldwin",
       "pitcher": "simeon woods richardson",
@@ -1572,6 +1596,12 @@
     }
   },
   "ath @ stl": {
+    "10": {
+      "player": "zack gelof",
+      "pitcher": "miles mikolas",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "lawrence butler",
       "pitcher": "miles mikolas",
