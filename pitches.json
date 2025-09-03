@@ -1176,6 +1176,12 @@
     }
   },
   "cle @ bos": {
+    "71": {
+      "player": "nate eaton",
+      "pitcher": "cade smith",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "70": {
       "player": "carlos narvaez",
       "pitcher": "hunter gaddis",
@@ -1598,11 +1604,17 @@
     }
   },
   "mia @ wsh": {
+    "68": {
+      "player": "paul dejong",
+      "pitcher": "freddy tarnok",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "67": {
       "player": "dylan crews",
       "pitcher": "freddy tarnok",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "riley adams",
@@ -2002,11 +2014,17 @@
     }
   },
   "sea @ tb": {
+    "40": {
+      "player": "brandon lowe",
+      "pitcher": "bryan woo",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "39": {
       "player": "yandy diaz",
       "pitcher": "bryan woo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "38": {
       "player": "chandler simpson",
@@ -2241,8 +2259,8 @@
     "38": {
       "player": "zach neto",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "37": {
       "player": "maikel garcia",
@@ -2674,6 +2692,12 @@
     }
   },
   "chw @ min": {
+    "40": {
+      "player": "byron buxton",
+      "pitcher": "davis martin",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "39": {
       "player": "lenyn sosa",
       "pitcher": "simeon woods richardson",
@@ -2913,8 +2937,8 @@
     "39": {
       "player": "shea langeliers",
       "pitcher": "miles mikolas",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "tyler soderstrom",
@@ -3140,6 +3164,12 @@
     }
   },
   "nyy @ hou": {
+    "22": {
+      "player": "cesar salazar",
+      "pitcher": "max fried",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "mauricio dubon",
       "pitcher": "max fried",
@@ -3271,7 +3301,7 @@
     "3": {
       "player": "casey schmitt",
       "pitcher": "antonio senzatela",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "2": {
