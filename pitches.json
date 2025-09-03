@@ -1799,8 +1799,8 @@
     "27": {
       "player": "bryan reynolds",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "spencer horwitz",
@@ -2145,8 +2145,8 @@
     "27": {
       "player": "nate eaton",
       "pitcher": "joey cantillo",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "connor wong",
@@ -2309,7 +2309,7 @@
     "5": {
       "player": "yandy diaz",
       "pitcher": "george kirby",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "4": {
@@ -2341,16 +2341,16 @@
     "1": {
       "player": "zach neto",
       "pitcher": "ryan bergert",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     }
   },
   "atl @ chc": {
     "2": {
       "player": "matt olson",
       "pitcher": "cade horton",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "ronald acuna",
@@ -2359,7 +2359,14 @@
       "pitch": "Sweeper"
     }
   },
-  "chw @ min": {},
+  "chw @ min": {
+    "1": {
+      "player": "kyle teel",
+      "pitcher": "zebby matthews",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    }
+  },
   "phi @ mil": {
     "1": {
       "player": "trea turner",
