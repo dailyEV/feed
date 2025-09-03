@@ -1221,7 +1221,7 @@
     "73": {
       "player": "jarren duran",
       "pitcher": "cade smith",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -1853,7 +1853,7 @@
     "38": {
       "player": "victor mesa",
       "pitcher": "cade cavalli",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "Knuckle Curve"
     },
     "37": {
@@ -2334,11 +2334,17 @@
     }
   },
   "laa @ kc": {
+    "42": {
+      "player": "logan ohoppe",
+      "pitcher": "michael lorenzen",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "jo adell",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "40": {
       "player": "yoan moncada",
@@ -2582,12 +2588,6 @@
     }
   },
   "atl @ chc": {
-    "37": {
-      "player": "nacho alvarez",
-      "pitcher": "shota imanaga",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "36": {
       "player": "sean murphy",
       "pitcher": "shota imanaga",
@@ -3469,8 +3469,8 @@
     "6": {
       "player": "luis matos",
       "pitcher": "antonio senzatela",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "5": {
       "player": "wilmer flores",
