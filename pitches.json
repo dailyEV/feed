@@ -2413,7 +2413,7 @@
     "62": {
       "player": "jake mangum",
       "pitcher": "carlos vargas",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "61": {
@@ -4588,11 +4588,17 @@
     }
   },
   "sf @ col": {
+    "35": {
+      "player": "kyle farmer",
+      "pitcher": "logan webb",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "34": {
       "player": "yanquiel fernandez",
       "pitcher": "logan webb",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "33": {
       "player": "kyle karros",
@@ -4794,12 +4800,6 @@
     }
   },
   "bal @ sd": {
-    "8": {
-      "player": "fernando tatis",
-      "pitcher": "tyler wells",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "7": {
       "player": "emmanuel rivera",
       "pitcher": "yu darvish",
