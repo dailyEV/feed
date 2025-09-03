@@ -1119,8 +1119,8 @@
     "67": {
       "player": "brayan rocchio",
       "pitcher": "justin slaten",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "jhonkensy noel",
@@ -1909,8 +1909,8 @@
     "35": {
       "player": "jp crawford",
       "pitcher": "drew rasmussen",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "hunter feduccia",
@@ -2733,7 +2733,7 @@
     "35": {
       "player": "jimmy crooks",
       "pitcher": "luis severino",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "34": {
@@ -2936,11 +2936,17 @@
     }
   },
   "nyy @ hou": {
+    "19": {
+      "player": "aaron judge",
+      "pitcher": "framber valdez",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "18": {
       "player": "cody bellinger",
       "pitcher": "framber valdez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "17": {
       "player": "cam smith",
