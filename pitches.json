@@ -3,7 +3,7 @@
     "61": {
       "player": "pete alonso",
       "pitcher": "tommy kahnle",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "60": {
@@ -718,6 +718,12 @@
     }
   },
   "tor @ cin": {
+    "59": {
+      "player": "elly de la cruz",
+      "pitcher": "eric lauer",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "58": {
       "player": "nathan lukes",
       "pitcher": "connor phillips",
@@ -1072,7 +1078,7 @@
       "player": "david fry",
       "pitcher": "justin slaten",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "63": {
       "player": "romy gonzalez",
@@ -1454,6 +1460,12 @@
     }
   },
   "mia @ wsh": {
+    "63": {
+      "player": "liam hicks",
+      "pitcher": "konnor pilkington",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "agustin ramirez",
       "pitcher": "konnor pilkington",
@@ -1828,12 +1840,6 @@
     }
   },
   "sea @ tb": {
-    "34": {
-      "player": "hunter feduccia",
-      "pitcher": "bryan woo",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "33": {
       "player": "carson williams",
       "pitcher": "bryan woo",
@@ -2034,6 +2040,12 @@
     }
   },
   "laa @ kc": {
+    "34": {
+      "player": "bryce teodosio",
+      "pitcher": "michael lorenzen",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "oswald peraza",
       "pitcher": "michael lorenzen",
@@ -2595,8 +2607,8 @@
     "33": {
       "player": "jacob wilson",
       "pitcher": "miles mikolas",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "darell hernaiz",
@@ -2789,8 +2801,8 @@
     "17": {
       "player": "cam smith",
       "pitcher": "max fried",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "16": {
       "player": "ramon urias",
