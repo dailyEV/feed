@@ -1796,6 +1796,12 @@
     }
   },
   "lad @ pit": {
+    "32": {
+      "player": "enrique hernandez",
+      "pitcher": "mike burrows",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "alex freeland",
       "pitcher": "mike burrows",
@@ -2363,8 +2369,8 @@
     "10": {
       "player": "hunter feduccia",
       "pitcher": "george kirby",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "jake mangum",
@@ -2486,11 +2492,17 @@
     }
   },
   "chw @ min": {
+    "6": {
+      "player": "luke keaschall",
+      "pitcher": "yoendrys gomez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "trevor larnach",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "4": {
       "player": "byron buxton",
@@ -2521,8 +2533,8 @@
     "4": {
       "player": "jt realmuto",
       "pitcher": "jose quintana",
-      "result": "In play, no out",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "bryce harper",
