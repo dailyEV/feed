@@ -410,11 +410,17 @@
     }
   },
   "lad @ pit": {
+    "63": {
+      "player": "tommy pham",
+      "pitcher": "michael kopech",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "62": {
       "player": "bryan reynolds",
       "pitcher": "michael kopech",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "61": {
       "player": "teoscar hernandez",
@@ -1601,8 +1607,8 @@
     "68": {
       "player": "paul dejong",
       "pitcher": "freddy tarnok",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "67": {
       "player": "dylan crews",
@@ -2011,8 +2017,8 @@
     "40": {
       "player": "brandon lowe",
       "pitcher": "bryan woo",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "yandy diaz",
@@ -2686,12 +2692,6 @@
     }
   },
   "chw @ min": {
-    "41": {
-      "player": "trevor larnach",
-      "pitcher": "davis martin",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "40": {
       "player": "byron buxton",
       "pitcher": "davis martin",
@@ -2937,8 +2937,8 @@
     "39": {
       "player": "shea langeliers",
       "pitcher": "miles mikolas",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "tyler soderstrom",
@@ -3298,12 +3298,6 @@
     }
   },
   "sf @ col": {
-    "4": {
-      "player": "dominic smith",
-      "pitcher": "antonio senzatela",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "3": {
       "player": "casey schmitt",
       "pitcher": "antonio senzatela",
