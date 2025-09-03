@@ -1308,6 +1308,12 @@
     }
   },
   "bal @ sd": {
+    "80": {
+      "player": "fernando tatis",
+      "pitcher": "yennier cano",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "79": {
       "player": "will wagner",
       "pitcher": "yennier cano",
@@ -1784,11 +1790,17 @@
     }
   },
   "lad @ pit": {
+    "6": {
+      "player": "bryan reynolds",
+      "pitcher": "emmet sheehan",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "spencer horwitz",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "jared triolo",
@@ -1816,12 +1828,6 @@
     }
   },
   "tor @ cin": {
-    "5": {
-      "player": "tj friedl",
-      "pitcher": "shane bieber",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "4": {
       "player": "bo bichette",
       "pitcher": "zack littell",
@@ -1848,6 +1854,12 @@
     }
   },
   "cle @ bos": {
+    "4": {
+      "player": "kyle manzardo",
+      "pitcher": "brennan bernardino",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "jose ramirez",
       "pitcher": "brennan bernardino",
