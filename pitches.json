@@ -416,6 +416,12 @@
     }
   },
   "lad @ pit": {
+    "65": {
+      "player": "oneil cruz",
+      "pitcher": "anthony banda",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "andrew mccutchen",
       "pitcher": "michael kopech",
@@ -805,7 +811,7 @@
     "67": {
       "player": "kebryan hayes",
       "pitcher": "louis varland",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -1209,7 +1215,7 @@
     "73": {
       "player": "jarren duran",
       "pitcher": "cade smith",
-      "result": "In play, run(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -2068,11 +2074,17 @@
     }
   },
   "sea @ tb": {
+    "42": {
+      "player": "julio rodriguez",
+      "pitcher": "bryan baker",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "cal raleigh",
       "pitcher": "bryan baker",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "40": {
       "player": "brandon lowe",
@@ -2785,7 +2797,7 @@
     "43": {
       "player": "matt wallner",
       "pitcher": "davis martin",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -3045,7 +3057,7 @@
     "42": {
       "player": "lars nootbaar",
       "pitcher": "hogan harris",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "41": {
@@ -3293,8 +3305,8 @@
     "25": {
       "player": "jose altuve",
       "pitcher": "max fried",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "24": {
       "player": "carlos correa",
@@ -3442,6 +3454,12 @@
     }
   },
   "sf @ col": {
+    "6": {
+      "player": "luis matos",
+      "pitcher": "antonio senzatela",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "wilmer flores",
       "pitcher": "antonio senzatela",
