@@ -3,7 +3,7 @@
     "41": {
       "player": "trey sweeney",
       "pitcher": "nolan mclean",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "40": {
@@ -1228,6 +1228,12 @@
     }
   },
   "sea @ tb": {
+    "13": {
+      "player": "dominic canzone",
+      "pitcher": "drew rasmussen",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "jorge polanco",
       "pitcher": "drew rasmussen",
@@ -1305,8 +1311,8 @@
     "10": {
       "player": "chris taylor",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "9": {
       "player": "salvador perez",
@@ -1368,7 +1374,7 @@
       "player": "justin turner",
       "pitcher": "joey wentz",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "11": {
       "player": "eli white",
@@ -1438,12 +1444,6 @@
     }
   },
   "chw @ min": {
-    "12": {
-      "player": "brooks baldwin",
-      "pitcher": "simeon woods richardson",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
     "11": {
       "player": "andrew benintendi",
       "pitcher": "simeon woods richardson",
@@ -1515,8 +1515,8 @@
     "9": {
       "player": "lawrence butler",
       "pitcher": "miles mikolas",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "8": {
       "player": "shea langeliers",
