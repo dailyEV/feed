@@ -3,7 +3,7 @@
     "76": {
       "player": "kerry carpenter",
       "pitcher": "kevin herget",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "75": {
@@ -872,7 +872,7 @@
       "player": "myles straw",
       "pitcher": "reiver sanmartin",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "72": {
       "player": "george springer",
@@ -2218,16 +2218,10 @@
     }
   },
   "sea @ tb": {
-    "46": {
-      "player": "jake mangum",
-      "pitcher": "caleb ferguson",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "45": {
       "player": "josh lowe",
       "pitcher": "caleb ferguson",
-      "result": "In play, no out",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "44": {
@@ -2768,6 +2762,12 @@
     }
   },
   "atl @ chc": {
+    "40": {
+      "player": "seiya suzuki",
+      "pitcher": "rolddy munoz",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "kyle tucker",
       "pitcher": "joey wentz",
@@ -3007,8 +3007,8 @@
     "48": {
       "player": "will robertson",
       "pitcher": "thomas hatch",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "47": {
       "player": "brooks baldwin",
@@ -3751,8 +3751,8 @@
     "10": {
       "player": "jung hoo lee",
       "pitcher": "antonio senzatela",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "hunter goodman",
