@@ -2410,6 +2410,12 @@
     }
   },
   "sea @ tb": {
+    "71": {
+      "player": "jp crawford",
+      "pitcher": "griffin jax",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "70": {
       "player": "luke raley",
       "pitcher": "griffin jax",
@@ -3662,7 +3668,7 @@
       "player": "austin martin",
       "pitcher": "bryse wilson",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "Sinker"
     },
     "76": {
       "player": "kody clemens",
@@ -4487,8 +4493,8 @@
     "54": {
       "player": "aaron judge",
       "pitcher": "enyel de los santos",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "53": {
       "player": "cody bellinger",
@@ -4813,7 +4819,7 @@
     "42": {
       "player": "jung hoo lee",
       "pitcher": "angel chivilli",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Changeup"
     },
     "41": {
@@ -5064,12 +5070,6 @@
     }
   },
   "bal @ sd": {
-    "15": {
-      "player": "gavin sheets",
-      "pitcher": "tyler wells",
-      "result": "Called Strike",
-      "pitch": "Changeup"
-    },
     "14": {
       "player": "jeremiah jackson",
       "pitcher": "yu darvish",
@@ -5159,8 +5159,8 @@
     "17": {
       "player": "michael helman",
       "pitcher": "nabil crismatt",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "16": {
       "player": "jorge barrosa",
