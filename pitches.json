@@ -414,7 +414,7 @@
       "player": "andrew mccutchen",
       "pitcher": "michael kopech",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "tommy pham",
@@ -1197,7 +1197,7 @@
     "71": {
       "player": "nate eaton",
       "pitcher": "cade smith",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "70": {
@@ -2716,6 +2716,24 @@
     }
   },
   "chw @ min": {
+    "43": {
+      "player": "matt wallner",
+      "pitcher": "davis martin",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "42": {
+      "player": "brooks lee",
+      "pitcher": "davis martin",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
+    "41": {
+      "player": "trevor larnach",
+      "pitcher": "davis martin",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "byron buxton",
       "pitcher": "davis martin",
@@ -3197,8 +3215,8 @@
     "24": {
       "player": "carlos correa",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "jeremy pena",
@@ -3344,7 +3362,7 @@
       "player": "wilmer flores",
       "pitcher": "antonio senzatela",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "4": {
       "player": "dominic smith",
