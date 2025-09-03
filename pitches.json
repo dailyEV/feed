@@ -2381,7 +2381,7 @@
     "10": {
       "player": "hunter feduccia",
       "pitcher": "george kirby",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "9": {
@@ -2443,8 +2443,8 @@
     "5": {
       "player": "mike yastrzemski",
       "pitcher": "caden dana",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "4": {
       "player": "jo adell",
@@ -2472,10 +2472,16 @@
     }
   },
   "atl @ chc": {
+    "7": {
+      "player": "seiya suzuki",
+      "pitcher": "bryce elder",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "6": {
       "player": "michael busch",
       "pitcher": "bryce elder",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "5": {
@@ -2513,8 +2519,8 @@
     "6": {
       "player": "luke keaschall",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "trevor larnach",
@@ -2548,10 +2554,16 @@
     }
   },
   "phi @ mil": {
+    "5": {
+      "player": "brice turang",
+      "pitcher": "aaron nola",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "jt realmuto",
       "pitcher": "jose quintana",
-      "result": "In play, no out",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "3": {
