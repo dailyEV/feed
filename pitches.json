@@ -805,7 +805,7 @@
     "67": {
       "player": "kebryan hayes",
       "pitcher": "louis varland",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -1650,7 +1650,7 @@
       "player": "james wood",
       "pitcher": "freddy tarnok",
       "result": "Called Strike",
-      "pitch": "Curveball"
+      "pitch": "Changeup"
     },
     "69": {
       "player": "robert hassell",
@@ -2564,6 +2564,12 @@
     }
   },
   "atl @ chc": {
+    "36": {
+      "player": "sean murphy",
+      "pitcher": "shota imanaga",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "eli white",
       "pitcher": "shota imanaga",
@@ -2779,8 +2785,8 @@
     "43": {
       "player": "matt wallner",
       "pitcher": "davis martin",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "brooks lee",
@@ -3036,6 +3042,12 @@
     }
   },
   "ath @ stl": {
+    "42": {
+      "player": "lars nootbaar",
+      "pitcher": "hogan harris",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "41": {
       "player": "nathan church",
       "pitcher": "hogan harris",
@@ -3430,12 +3442,6 @@
     }
   },
   "sf @ col": {
-    "6": {
-      "player": "luis matos",
-      "pitcher": "antonio senzatela",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "5": {
       "player": "wilmer flores",
       "pitcher": "antonio senzatela",
