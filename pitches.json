@@ -2757,7 +2757,7 @@
     "61": {
       "player": "bobby witt",
       "pitcher": "luis garcia",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "60": {
@@ -3125,7 +3125,7 @@
     "54": {
       "player": "nico hoerner",
       "pitcher": "hayden harris",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -3448,6 +3448,12 @@
     }
   },
   "chw @ min": {
+    "64": {
+      "player": "ryan fitzgerald",
+      "pitcher": "bryan hudson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "mike tauchman",
       "pitcher": "thomas hatch",
@@ -4190,11 +4196,17 @@
     }
   },
   "nyy @ hou": {
+    "43": {
+      "player": "jeremy pena",
+      "pitcher": "max fried",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "42": {
       "player": "cesar salazar",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "41": {
       "player": "mauricio dubon",
@@ -4630,7 +4642,7 @@
       "player": "gunnar henderson",
       "pitcher": "yu darvish",
       "result": "Called Strike",
-      "pitch": "Sinker"
+      "pitch": "Cutter"
     },
     "2": {
       "player": "jeremiah jackson",
@@ -4649,7 +4661,7 @@
     "4": {
       "player": "rowdy tellez",
       "pitcher": "nabil crismatt",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "3": {
