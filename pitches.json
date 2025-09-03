@@ -1034,7 +1034,7 @@
       "player": "austin hays",
       "pitcher": "eric lauer",
       "result": "In play, run(s)",
-      "pitch": "Slider"
+      "pitch": "Cutter"
     },
     "43": {
       "player": "elly de la cruz",
@@ -1769,7 +1769,7 @@
     "73": {
       "player": "eric wagaman",
       "pitcher": "jose a ferrer",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "72": {
@@ -2206,6 +2206,12 @@
     }
   },
   "sea @ tb": {
+    "45": {
+      "player": "josh lowe",
+      "pitcher": "caleb ferguson",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "junior caminero",
       "pitcher": "bryan woo",
@@ -2475,8 +2481,8 @@
     "45": {
       "player": "salvador perez",
       "pitcher": "jose fermin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "44": {
       "player": "vinnie pasquantino",
@@ -2747,7 +2753,7 @@
     "39": {
       "player": "kyle tucker",
       "pitcher": "joey wentz",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "38": {
@@ -2980,6 +2986,12 @@
     }
   },
   "chw @ min": {
+    "48": {
+      "player": "will robertson",
+      "pitcher": "thomas hatch",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "47": {
       "player": "brooks baldwin",
       "pitcher": "thomas hatch",
@@ -3267,8 +3279,8 @@
     "47": {
       "player": "jj bleday",
       "pitcher": "matt svanson",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "46": {
       "player": "zack gelof",
