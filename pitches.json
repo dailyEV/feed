@@ -440,6 +440,12 @@
     }
   },
   "lad @ pit": {
+    "67": {
+      "player": "michael conforto",
+      "pitcher": "dauri moreta",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "66": {
       "player": "spencer horwitz",
       "pitcher": "anthony banda",
@@ -841,8 +847,8 @@
     "69": {
       "player": "davis schneider",
       "pitcher": "reiver sanmartin",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "68": {
       "player": "jose trevino",
@@ -1709,7 +1715,7 @@
     "71": {
       "player": "javier sanoja",
       "pitcher": "jose a ferrer",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "70": {
@@ -2134,6 +2140,12 @@
     }
   },
   "sea @ tb": {
+    "44": {
+      "player": "junior caminero",
+      "pitcher": "bryan woo",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "43": {
       "player": "josh naylor",
       "pitcher": "bryan baker",
@@ -3580,12 +3592,6 @@
     }
   },
   "sf @ col": {
-    "9": {
-      "player": "hunter goodman",
-      "pitcher": "logan webb",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "8": {
       "player": "mickey moniak",
       "pitcher": "logan webb",
