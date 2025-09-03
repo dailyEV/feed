@@ -1799,8 +1799,8 @@
     "35": {
       "player": "joey bart",
       "pitcher": "emmet sheehan",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "oneil cruz",
@@ -2429,8 +2429,8 @@
     "12": {
       "player": "josh naylor",
       "pitcher": "adrian houser",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "11": {
       "player": "carson williams",
@@ -2544,11 +2544,17 @@
     }
   },
   "atl @ chc": {
+    "9": {
+      "player": "michael harris",
+      "pitcher": "cade horton",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "marcell ozuna",
       "pitcher": "cade horton",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "7": {
       "player": "seiya suzuki",
@@ -2642,7 +2648,7 @@
       "player": "william contreras",
       "pitcher": "aaron nola",
       "result": "Called Strike",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "jackson chourio",
