@@ -3,8 +3,8 @@
     "52": {
       "player": "pete alonso",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "51": {
       "player": "juan soto",
@@ -622,6 +622,12 @@
     }
   },
   "tor @ cin": {
+    "53": {
+      "player": "matt mclain",
+      "pitcher": "eric lauer",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "52": {
       "player": "jose trevino",
       "pitcher": "eric lauer",
@@ -1286,16 +1292,10 @@
     }
   },
   "mia @ wsh": {
-    "56": {
-      "player": "victor mesa",
-      "pitcher": "cole henry",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "55": {
       "player": "heriberto hernandez",
       "pitcher": "cole henry",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -2062,6 +2062,12 @@
     }
   },
   "chw @ min": {
+    "24": {
+      "player": "brooks lee",
+      "pitcher": "davis martin",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "23": {
       "player": "trevor larnach",
       "pitcher": "davis martin",
