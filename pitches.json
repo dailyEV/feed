@@ -1209,7 +1209,7 @@
     "73": {
       "player": "jarren duran",
       "pitcher": "cade smith",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -1650,7 +1650,7 @@
       "player": "james wood",
       "pitcher": "freddy tarnok",
       "result": "Called Strike",
-      "pitch": "Changeup"
+      "pitch": "Curveball"
     },
     "69": {
       "player": "robert hassell",
@@ -2319,8 +2319,8 @@
     "41": {
       "player": "jo adell",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "40": {
       "player": "yoan moncada",
@@ -2779,8 +2779,8 @@
     "43": {
       "player": "matt wallner",
       "pitcher": "davis martin",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "42": {
       "player": "brooks lee",
@@ -3036,12 +3036,6 @@
     }
   },
   "ath @ stl": {
-    "42": {
-      "player": "lars nootbaar",
-      "pitcher": "hogan harris",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "41": {
       "player": "nathan church",
       "pitcher": "hogan harris",
@@ -3436,6 +3430,12 @@
     }
   },
   "sf @ col": {
+    "6": {
+      "player": "luis matos",
+      "pitcher": "antonio senzatela",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "5": {
       "player": "wilmer flores",
       "pitcher": "antonio senzatela",
