@@ -4,7 +4,7 @@
       "player": "gleyber torres",
       "pitcher": "nolan mclean",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sinker"
     },
     "47": {
       "player": "francisco lindor",
@@ -583,7 +583,7 @@
     "48": {
       "player": "alejandro kirk",
       "pitcher": "zach maxwell",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -1193,8 +1193,8 @@
     "51": {
       "player": "robert hassell",
       "pitcher": "adam mazur",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "50": {
       "player": "paul dejong",
@@ -1498,6 +1498,12 @@
     }
   },
   "sea @ tb": {
+    "21": {
+      "player": "yandy diaz",
+      "pitcher": "bryan woo",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "randy arozarena",
       "pitcher": "drew rasmussen",
@@ -1620,11 +1626,17 @@
     }
   },
   "laa @ kc": {
-    "19": {
-      "player": "zach neto",
+    "20": {
+      "player": "luis rengifo",
       "pitcher": "michael lorenzen",
       "result": "Ball",
       "pitch": "Sinker"
+    },
+    "19": {
+      "player": "zach neto",
+      "pitcher": "michael lorenzen",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "18": {
       "player": "bryce teodosio",
@@ -1739,8 +1751,8 @@
     "18": {
       "player": "matt shaw",
       "pitcher": "joey wentz",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "ronald acuna",
@@ -1971,7 +1983,7 @@
     "18": {
       "player": "brent rooker",
       "pitcher": "miles mikolas",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "17": {
