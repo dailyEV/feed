@@ -389,7 +389,7 @@
     "61": {
       "player": "teoscar hernandez",
       "pitcher": "isaac mattson",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "60": {
@@ -758,7 +758,7 @@
       "player": "bo bichette",
       "pitcher": "connor phillips",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "62": {
       "player": "vladimir guerrero",
@@ -1134,12 +1134,6 @@
     }
   },
   "cle @ bos": {
-    "69": {
-      "player": "ceddanne rafaela",
-      "pitcher": "hunter gaddis",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "68": {
       "player": "masataka yoshida",
       "pitcher": "hunter gaddis",
@@ -1550,6 +1544,12 @@
     }
   },
   "mia @ wsh": {
+    "66": {
+      "player": "riley adams",
+      "pitcher": "freddy tarnok",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "65": {
       "player": "connor norby",
       "pitcher": "jackson rutledge",
@@ -2170,7 +2170,7 @@
       "player": "maikel garcia",
       "pitcher": "mitch farris",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "kyle isbel",
@@ -2390,6 +2390,12 @@
     }
   },
   "atl @ chc": {
+    "32": {
+      "player": "matt shaw",
+      "pitcher": "joey wentz",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "31": {
       "player": "ha seong kim",
       "pitcher": "shota imanaga",
