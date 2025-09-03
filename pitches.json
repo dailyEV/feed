@@ -3,7 +3,7 @@
     "56": {
       "player": "cedric mullins",
       "pitcher": "chris paddack",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "55": {
@@ -658,6 +658,12 @@
     }
   },
   "tor @ cin": {
+    "55": {
+      "player": "noelvi marte",
+      "pitcher": "eric lauer",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "54": {
       "player": "tj friedl",
       "pitcher": "eric lauer",
@@ -984,6 +990,12 @@
     }
   },
   "cle @ bos": {
+    "62": {
+      "player": "rob refsnyder",
+      "pitcher": "tim herrin",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "61": {
       "player": "trevor story",
       "pitcher": "tim herrin",
@@ -1708,6 +1720,12 @@
     }
   },
   "sea @ tb": {
+    "28": {
+      "player": "josh naylor",
+      "pitcher": "drew rasmussen",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "julio rodriguez",
       "pitcher": "drew rasmussen",
@@ -2039,8 +2057,8 @@
     "24": {
       "player": "justin turner",
       "pitcher": "joey wentz",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "23": {
       "player": "carson kelly",
@@ -2349,8 +2367,8 @@
     "27": {
       "player": "willson contreras",
       "pitcher": "luis severino",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "26": {
       "player": "ivan herrera",
