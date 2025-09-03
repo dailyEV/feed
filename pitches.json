@@ -455,7 +455,7 @@
     "67": {
       "player": "michael conforto",
       "pitcher": "dauri moreta",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "66": {
@@ -859,7 +859,7 @@
     "70": {
       "player": "ty france",
       "pitcher": "reiver sanmartin",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "69": {
@@ -2430,6 +2430,18 @@
     }
   },
   "laa @ kc": {
+    "45": {
+      "player": "salvador perez",
+      "pitcher": "jose fermin",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "44": {
+      "player": "vinnie pasquantino",
+      "pitcher": "jose fermin",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "bobby witt",
       "pitcher": "jose fermin",
@@ -2926,6 +2938,12 @@
     }
   },
   "chw @ min": {
+    "47": {
+      "player": "brooks baldwin",
+      "pitcher": "thomas hatch",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "andrew benintendi",
       "pitcher": "thomas hatch",
@@ -3207,8 +3225,8 @@
     "45": {
       "player": "lawrence butler",
       "pitcher": "matt svanson",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "44": {
       "player": "willson contreras",
@@ -3473,8 +3491,8 @@
     "28": {
       "player": "jazz chisholm",
       "pitcher": "framber valdez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "27": {
       "player": "anthony volpe",
@@ -3640,6 +3658,12 @@
     }
   },
   "sf @ col": {
+    "9": {
+      "player": "hunter goodman",
+      "pitcher": "logan webb",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "8": {
       "player": "mickey moniak",
       "pitcher": "logan webb",
