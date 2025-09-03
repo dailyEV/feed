@@ -302,12 +302,6 @@
     }
   },
   "lad @ pit": {
-    "50": {
-      "player": "oneil cruz",
-      "pitcher": "edgardo henriquez",
-      "result": "Ball In Dirt",
-      "pitch": "Cutter"
-    },
     "49": {
       "player": "andrew mccutchen",
       "pitcher": "edgardo henriquez",
@@ -909,8 +903,8 @@
     "56": {
       "player": "austin hedges",
       "pitcher": "garrett whitlock",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "55": {
       "player": "alex bregman",
@@ -1707,8 +1701,8 @@
     "21": {
       "player": "yoan moncada",
       "pitcher": "michael lorenzen",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "20": {
       "player": "luis rengifo",
@@ -1832,6 +1826,12 @@
     }
   },
   "atl @ chc": {
+    "21": {
+      "player": "kyle tucker",
+      "pitcher": "joey wentz",
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
+    },
     "20": {
       "player": "nico hoerner",
       "pitcher": "joey wentz",
@@ -2088,11 +2088,17 @@
     }
   },
   "ath @ stl": {
+    "21": {
+      "player": "nathan church",
+      "pitcher": "luis severino",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "20": {
       "player": "victor scott",
       "pitcher": "luis severino",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "jose fermin",
@@ -2213,8 +2219,8 @@
     "8": {
       "player": "christian walker",
       "pitcher": "max fried",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "jose altuve",
