@@ -3,7 +3,7 @@
     "64": {
       "player": "zach mckinstry",
       "pitcher": "kevin herget",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "63": {
@@ -389,7 +389,7 @@
     "60": {
       "player": "will smith",
       "pitcher": "isaac mattson",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -1520,6 +1520,12 @@
     }
   },
   "mia @ wsh": {
+    "65": {
+      "player": "connor norby",
+      "pitcher": "jackson rutledge",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "otto lopez",
       "pitcher": "konnor pilkington",
@@ -1906,11 +1912,23 @@
     }
   },
   "sea @ tb": {
+    "37": {
+      "player": "randy arozarena",
+      "pitcher": "drew rasmussen",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "36": {
+      "player": "cole young",
+      "pitcher": "drew rasmussen",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "jp crawford",
       "pitcher": "drew rasmussen",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "34": {
       "player": "hunter feduccia",
@@ -2334,7 +2352,7 @@
       "player": "ha seong kim",
       "pitcher": "shota imanaga",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "30": {
       "player": "michael harris",
@@ -2518,6 +2536,12 @@
     }
   },
   "chw @ min": {
+    "36": {
+      "player": "bryan ramos",
+      "pitcher": "simeon woods richardson",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "will robertson",
       "pitcher": "simeon woods richardson",
@@ -2733,7 +2757,7 @@
     "35": {
       "player": "jimmy crooks",
       "pitcher": "luis severino",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "34": {
@@ -2939,7 +2963,7 @@
     "19": {
       "player": "aaron judge",
       "pitcher": "framber valdez",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "18": {
