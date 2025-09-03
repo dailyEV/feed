@@ -329,8 +329,8 @@
     "52": {
       "player": "henry davis",
       "pitcher": "edgardo henriquez",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "51": {
       "player": "spencer horwitz",
@@ -1669,7 +1669,7 @@
     "26": {
       "player": "cal raleigh",
       "pitcher": "drew rasmussen",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "25": {
@@ -1985,7 +1985,7 @@
     "22": {
       "player": "seiya suzuki",
       "pitcher": "joey wentz",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "21": {
@@ -2268,6 +2268,12 @@
     }
   },
   "ath @ stl": {
+    "25": {
+      "player": "lawrence butler",
+      "pitcher": "miles mikolas",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "shea langeliers",
       "pitcher": "miles mikolas",
