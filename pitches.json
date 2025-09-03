@@ -257,8 +257,8 @@
     "41": {
       "player": "jared triolo",
       "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "40": {
       "player": "will smith",
@@ -1004,10 +1004,16 @@
     }
   },
   "mia @ wsh": {
+    "43": {
+      "player": "daylen lile",
+      "pitcher": "adam mazur",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "42": {
       "player": "luis garcia",
       "pitcher": "adam mazur",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "41": {
@@ -1409,7 +1415,7 @@
     "12": {
       "player": "justin turner",
       "pitcher": "joey wentz",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "11": {
@@ -1480,6 +1486,12 @@
     }
   },
   "chw @ min": {
+    "13": {
+      "player": "austin martin",
+      "pitcher": "davis martin",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "brooks baldwin",
       "pitcher": "simeon woods richardson",
@@ -1554,12 +1566,6 @@
     }
   },
   "ath @ stl": {
-    "10": {
-      "player": "zack gelof",
-      "pitcher": "miles mikolas",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "9": {
       "player": "lawrence butler",
       "pitcher": "miles mikolas",
