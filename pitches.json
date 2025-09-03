@@ -1,5 +1,11 @@
 {
   "nym @ det": {
+    "60": {
+      "player": "juan soto",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "francisco lindor",
       "pitcher": "chris paddack",
@@ -688,12 +694,6 @@
     }
   },
   "tor @ cin": {
-    "56": {
-      "player": "isiah kiner falefa",
-      "pitcher": "connor phillips",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "55": {
       "player": "noelvi marte",
       "pitcher": "eric lauer",
@@ -1026,6 +1026,12 @@
     }
   },
   "cle @ bos": {
+    "63": {
+      "player": "romy gonzalez",
+      "pitcher": "hunter gaddis",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "62": {
       "player": "rob refsnyder",
       "pitcher": "tim herrin",
@@ -1768,6 +1774,12 @@
     }
   },
   "sea @ tb": {
+    "32": {
+      "player": "richie palacios",
+      "pitcher": "bryan woo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "luke raley",
       "pitcher": "drew rasmussen",
@@ -2302,12 +2314,6 @@
     }
   },
   "chw @ min": {
-    "31": {
-      "player": "james outman",
-      "pitcher": "davis martin",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "30": {
       "player": "austin martin",
       "pitcher": "davis martin",
@@ -2493,8 +2499,8 @@
     "29": {
       "player": "zack gelof",
       "pitcher": "miles mikolas",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "28": {
       "player": "nolan gorman",
@@ -2751,7 +2757,20 @@
       "pitch": "Changeup"
     }
   },
-  "sf @ col": {},
+  "sf @ col": {
+    "2": {
+      "player": "rafael devers",
+      "pitcher": "kyle freeland",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "1": {
+      "player": "heliot ramos",
+      "pitcher": "kyle freeland",
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
+    }
+  },
   "bal @ sd": {},
   "tex @ ari": {}
 }
