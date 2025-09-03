@@ -2410,6 +2410,12 @@
     }
   },
   "sea @ tb": {
+    "69": {
+      "player": "jorge polanco",
+      "pitcher": "griffin jax",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "68": {
       "player": "hunter feduccia",
       "pitcher": "luke jackson",
@@ -3242,6 +3248,12 @@
     }
   },
   "atl @ chc": {
+    "65": {
+      "player": "michael harris",
+      "pitcher": "daniel palencia",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "marcell ozuna",
       "pitcher": "daniel palencia",
@@ -4753,8 +4765,8 @@
     "39": {
       "player": "dominic smith",
       "pitcher": "angel chivilli",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "casey schmitt",
@@ -4986,11 +4998,17 @@
     }
   },
   "bal @ sd": {
+    "13": {
+      "player": "jackson holliday",
+      "pitcher": "yu darvish",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "coby mayo",
       "pitcher": "yu darvish",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "11": {
       "player": "dylan beavers",
@@ -5063,7 +5081,7 @@
     "15": {
       "player": "tyler locklear",
       "pitcher": "jacob latz",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "14": {
