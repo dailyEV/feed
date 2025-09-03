@@ -368,11 +368,17 @@
     }
   },
   "lad @ pit": {
+    "59": {
+      "player": "freddie freeman",
+      "pitcher": "isaac mattson",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "mookie betts",
       "pitcher": "isaac mattson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "57": {
       "player": "shohei ohtani",
@@ -1074,6 +1080,12 @@
     }
   },
   "cle @ bos": {
+    "66": {
+      "player": "jhonkensy noel",
+      "pitcher": "justin slaten",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "65": {
       "player": "kyle manzardo",
       "pitcher": "justin slaten",
@@ -1466,6 +1478,12 @@
     }
   },
   "mia @ wsh": {
+    "64": {
+      "player": "otto lopez",
+      "pitcher": "konnor pilkington",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "liam hicks",
       "pitcher": "konnor pilkington",
@@ -1849,8 +1867,8 @@
     "34": {
       "player": "hunter feduccia",
       "pitcher": "bryan woo",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "carson williams",
@@ -2055,8 +2073,8 @@
     "34": {
       "player": "bryce teodosio",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "33": {
       "player": "oswald peraza",
@@ -2258,12 +2276,6 @@
     }
   },
   "atl @ chc": {
-    "29": {
-      "player": "marcell ozuna",
-      "pitcher": "shota imanaga",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
-    },
     "28": {
       "player": "ozzie albies",
       "pitcher": "shota imanaga",
