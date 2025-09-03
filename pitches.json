@@ -437,7 +437,7 @@
     "66": {
       "player": "spencer horwitz",
       "pitcher": "anthony banda",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "65": {
@@ -835,8 +835,8 @@
     "69": {
       "player": "davis schneider",
       "pitcher": "reiver sanmartin",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "68": {
       "player": "jose trevino",
@@ -2872,12 +2872,6 @@
     }
   },
   "chw @ min": {
-    "45": {
-      "player": "curtis mead",
-      "pitcher": "thomas hatch",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
     "44": {
       "player": "colson montgomery",
       "pitcher": "thomas hatch",
@@ -3144,6 +3138,12 @@
     }
   },
   "ath @ stl": {
+    "44": {
+      "player": "willson contreras",
+      "pitcher": "michael kelly",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "43": {
       "player": "ivan herrera",
       "pitcher": "michael kelly",
@@ -3401,8 +3401,8 @@
     "27": {
       "player": "anthony volpe",
       "pitcher": "framber valdez",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "trent grisham",
@@ -3562,6 +3562,12 @@
     }
   },
   "sf @ col": {
+    "7": {
+      "player": "tyler freeman",
+      "pitcher": "logan webb",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "luis matos",
       "pitcher": "antonio senzatela",
