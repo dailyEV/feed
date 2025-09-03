@@ -3,7 +3,7 @@
     "79": {
       "player": "wenceel perez",
       "pitcher": "kevin herget",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "78": {
@@ -901,7 +901,7 @@
     "74": {
       "player": "matt mclain",
       "pitcher": "seranthony dominguez",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "73": {
@@ -2258,7 +2258,7 @@
       "player": "christopher morel",
       "pitcher": "caleb ferguson",
       "result": "Ball",
-      "pitch": "Slurve"
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "jake mangum",
@@ -3372,11 +3372,17 @@
     }
   },
   "ath @ stl": {
+    "49": {
+      "player": "masyn winn",
+      "pitcher": "sean newcomb",
+      "result": "Called Strike",
+      "pitch": "Slurve"
+    },
     "48": {
       "player": "nolan gorman",
       "pitcher": "sean newcomb",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slurve"
     },
     "47": {
       "player": "jj bleday",
