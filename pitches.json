@@ -317,8 +317,8 @@
     "51": {
       "player": "spencer horwitz",
       "pitcher": "edgardo henriquez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "50": {
       "player": "oneil cruz",
@@ -945,8 +945,8 @@
     "59": {
       "player": "jose ramirez",
       "pitcher": "garrett whitlock",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "58": {
       "player": "angel martinez",
@@ -1944,7 +1944,7 @@
       "player": "seiya suzuki",
       "pitcher": "joey wentz",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "kyle tucker",
@@ -2354,11 +2354,17 @@
     }
   },
   "nyy @ hou": {
-    "9": {
-      "player": "trent grisham",
+    "10": {
+      "player": "anthony volpe",
       "pitcher": "framber valdez",
       "result": "Called Strike",
       "pitch": "Sinker"
+    },
+    "9": {
+      "player": "trent grisham",
+      "pitcher": "framber valdez",
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "8": {
       "player": "christian walker",
