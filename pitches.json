@@ -3,8 +3,8 @@
     "80": {
       "player": "zach mckinstry",
       "pitcher": "kevin herget",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "79": {
       "player": "wenceel perez",
@@ -482,10 +482,16 @@
     }
   },
   "lad @ pit": {
+    "72": {
+      "player": "jared triolo",
+      "pitcher": "kirby yates",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "71": {
       "player": "cam devanney",
       "pitcher": "kirby yates",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "70": {
@@ -913,8 +919,8 @@
     "74": {
       "player": "matt mclain",
       "pitcher": "seranthony dominguez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "73": {
       "player": "myles straw",
@@ -3396,11 +3402,17 @@
     }
   },
   "ath @ stl": {
+    "49": {
+      "player": "masyn winn",
+      "pitcher": "sean newcomb",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "48": {
       "player": "nolan gorman",
       "pitcher": "sean newcomb",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slurve"
     },
     "47": {
       "player": "jj bleday",
@@ -3856,6 +3868,12 @@
     }
   },
   "sf @ col": {
+    "14": {
+      "player": "brenton doyle",
+      "pitcher": "logan webb",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "heliot ramos",
       "pitcher": "antonio senzatela",
