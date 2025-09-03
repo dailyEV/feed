@@ -2014,10 +2014,16 @@
     }
   },
   "tor @ cin": {
+    "37": {
+      "player": "george springer",
+      "pitcher": "zack littell",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "36": {
       "player": "ernie clement",
       "pitcher": "zack littell",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "35": {
@@ -2550,11 +2556,17 @@
     }
   },
   "atl @ chc": {
+    "10": {
+      "player": "ha seong kim",
+      "pitcher": "cade horton",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "michael harris",
       "pitcher": "cade horton",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "8": {
       "player": "marcell ozuna",
@@ -2606,12 +2618,6 @@
     }
   },
   "chw @ min": {
-    "8": {
-      "player": "ryan jeffers",
-      "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "7": {
       "player": "matt wallner",
       "pitcher": "yoendrys gomez",
