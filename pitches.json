@@ -979,7 +979,7 @@
     "85": {
       "player": "sal stewart",
       "pitcher": "jeff hoffman",
-      "result": "Foul Tip",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "84": {
@@ -2398,6 +2398,12 @@
     }
   },
   "sea @ tb": {
+    "58": {
+      "player": "yandy diaz",
+      "pitcher": "gabe speier",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "chandler simpson",
       "pitcher": "gabe speier",
@@ -3421,8 +3427,8 @@
     "63": {
       "player": "mike tauchman",
       "pitcher": "thomas hatch",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "62": {
       "player": "bryan ramos",
@@ -4164,7 +4170,7 @@
       "player": "mauricio dubon",
       "pitcher": "max fried",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Cutter"
     },
     "40": {
       "player": "cam smith",
@@ -4408,6 +4414,12 @@
     }
   },
   "sf @ col": {
+    "28": {
+      "player": "luis matos",
+      "pitcher": "antonio senzatela",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "wilmer flores",
       "pitcher": "antonio senzatela",
@@ -4575,8 +4587,8 @@
     "1": {
       "player": "jackson holliday",
       "pitcher": "yu darvish",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     }
   },
   "tex @ ari": {
