@@ -1799,8 +1799,8 @@
     "8": {
       "player": "freddie freeman",
       "pitcher": "braxton ashcraft",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "tommy pham",
@@ -1849,7 +1849,7 @@
     "10": {
       "player": "ty france",
       "pitcher": "zack littell",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "9": {
@@ -1908,11 +1908,17 @@
     }
   },
   "cle @ bos": {
+    "8": {
+      "player": "trevor story",
+      "pitcher": "joey cantillo",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "7": {
       "player": "alex bregman",
       "pitcher": "joey cantillo",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "6": {
       "player": "nate eaton",
