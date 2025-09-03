@@ -365,7 +365,7 @@
     "57": {
       "player": "shohei ohtani",
       "pitcher": "isaac mattson",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -1439,7 +1439,7 @@
     "62": {
       "player": "agustin ramirez",
       "pitcher": "konnor pilkington",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -1810,6 +1810,18 @@
     }
   },
   "sea @ tb": {
+    "34": {
+      "player": "hunter feduccia",
+      "pitcher": "bryan woo",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "33": {
+      "player": "carson williams",
+      "pitcher": "bryan woo",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "32": {
       "player": "richie palacios",
       "pitcher": "bryan woo",
@@ -2202,7 +2214,7 @@
       "player": "ozzie albies",
       "pitcher": "shota imanaga",
       "result": "Ball",
-      "pitch": "Splitter"
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "matt olson",
@@ -2371,8 +2383,8 @@
     "31": {
       "player": "james outman",
       "pitcher": "davis martin",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
     },
     "30": {
       "player": "austin martin",
@@ -2556,6 +2568,12 @@
     }
   },
   "ath @ stl": {
+    "31": {
+      "player": "darell hernaiz",
+      "pitcher": "miles mikolas",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "30": {
       "player": "jj bleday",
       "pitcher": "miles mikolas",
@@ -2738,17 +2756,11 @@
     }
   },
   "nyy @ hou": {
-    "16": {
-      "player": "ramon urias",
-      "pitcher": "max fried",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "15": {
       "player": "yainer diaz",
       "pitcher": "max fried",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "paul goldschmidt",
@@ -2839,8 +2851,8 @@
     "2": {
       "player": "rafael devers",
       "pitcher": "kyle freeland",
-      "result": "In play, run(s)",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "heliot ramos",
