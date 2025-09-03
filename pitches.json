@@ -1947,7 +1947,7 @@
     "29": {
       "player": "mike yastrzemski",
       "pitcher": "mitch farris",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "28": {
@@ -2123,7 +2123,7 @@
     "26": {
       "player": "dansby swanson",
       "pitcher": "joey wentz",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "25": {
@@ -2278,6 +2278,18 @@
     }
   },
   "chw @ min": {
+    "30": {
+      "player": "austin martin",
+      "pitcher": "davis martin",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
+    "29": {
+      "player": "kody clemens",
+      "pitcher": "davis martin",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "andrew benintendi",
       "pitcher": "simeon woods richardson",
@@ -2621,8 +2633,8 @@
     "14": {
       "player": "paul goldschmidt",
       "pitcher": "framber valdez",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "austin wells",
