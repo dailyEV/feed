@@ -4556,6 +4556,12 @@
     }
   },
   "nyy @ hou": {
+    "65": {
+      "player": "carlos correa",
+      "pitcher": "paul blackburn",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "64": {
       "player": "austin wells",
       "pitcher": "steven okert",
@@ -4945,8 +4951,8 @@
     "55": {
       "player": "yanquiel fernandez",
       "pitcher": "jose butto",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "kyle karros",
@@ -5274,11 +5280,17 @@
     }
   },
   "bal @ sd": {
-    "25": {
-      "player": "freddy fermin",
+    "26": {
+      "player": "fernando tatis",
       "pitcher": "tyler wells",
       "result": "Ball",
       "pitch": "Cutter"
+    },
+    "25": {
+      "player": "freddy fermin",
+      "pitcher": "tyler wells",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "mason mccoy",
