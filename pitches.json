@@ -547,8 +547,8 @@
     "45": {
       "player": "gavin lux",
       "pitcher": "eric lauer",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "44": {
       "player": "austin hays",
@@ -1396,12 +1396,6 @@
     }
   },
   "sea @ tb": {
-    "18": {
-      "player": "jp crawford",
-      "pitcher": "drew rasmussen",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "17": {
       "player": "chandler simpson",
       "pitcher": "bryan woo",
@@ -1506,11 +1500,23 @@
     }
   },
   "laa @ kc": {
+    "16": {
+      "player": "nick loftin",
+      "pitcher": "mitch farris",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
+    "15": {
+      "player": "adam frazier",
+      "pitcher": "mitch farris",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "randal grichuk",
       "pitcher": "mitch farris",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "13": {
       "player": "mike yastrzemski",
@@ -1678,6 +1684,12 @@
     }
   },
   "chw @ min": {
+    "17": {
+      "player": "byron buxton",
+      "pitcher": "davis martin",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "ryan fitzgerald",
       "pitcher": "davis martin",
@@ -1779,7 +1791,7 @@
     "13": {
       "player": "jimmy crooks",
       "pitcher": "luis severino",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "12": {
