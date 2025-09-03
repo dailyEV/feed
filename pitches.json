@@ -3131,8 +3131,8 @@
     "54": {
       "player": "nico hoerner",
       "pitcher": "hayden harris",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "53": {
       "player": "sean murphy",
@@ -3458,7 +3458,7 @@
       "player": "ryan fitzgerald",
       "pitcher": "bryan hudson",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "63": {
       "player": "mike tauchman",
@@ -4650,11 +4650,17 @@
     }
   },
   "bal @ sd": {
+    "4": {
+      "player": "ryan mountcastle",
+      "pitcher": "yu darvish",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "gunnar henderson",
       "pitcher": "yu darvish",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "jeremiah jackson",
