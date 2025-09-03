@@ -2413,8 +2413,8 @@
     "61": {
       "player": "josh lowe",
       "pitcher": "gabe speier",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "junior caminero",
@@ -3170,12 +3170,6 @@
     }
   },
   "atl @ chc": {
-    "57": {
-      "player": "drake baldwin",
-      "pitcher": "caleb thielbar",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "56": {
       "player": "seiya suzuki",
       "pitcher": "hayden harris",
@@ -4280,11 +4274,17 @@
     }
   },
   "nyy @ hou": {
+    "45": {
+      "player": "ryan mcmahon",
+      "pitcher": "enyel de los santos",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "jazz chisholm",
       "pitcher": "enyel de los santos",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "jeremy pena",
@@ -4549,7 +4549,7 @@
     "33": {
       "player": "kyle karros",
       "pitcher": "logan webb",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "32": {
