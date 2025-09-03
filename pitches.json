@@ -1226,6 +1226,12 @@
     }
   },
   "mia @ wsh": {
+    "53": {
+      "player": "cj abrams",
+      "pitcher": "adam mazur",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "52": {
       "player": "james wood",
       "pitcher": "adam mazur",
@@ -1802,6 +1808,18 @@
     }
   },
   "atl @ chc": {
+    "20": {
+      "player": "nico hoerner",
+      "pitcher": "joey wentz",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
+    "19": {
+      "player": "kevin alcantara",
+      "pitcher": "joey wentz",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "matt shaw",
       "pitcher": "joey wentz",
@@ -1915,8 +1933,8 @@
     "22": {
       "player": "lenyn sosa",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "21": {
       "player": "kyle teel",
@@ -2162,11 +2180,17 @@
     }
   },
   "nyy @ hou": {
+    "7": {
+      "player": "jose altuve",
+      "pitcher": "max fried",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "6": {
       "player": "carlos correa",
       "pitcher": "max fried",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "5": {
       "player": "jeremy pena",
