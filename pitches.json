@@ -946,6 +946,12 @@
     }
   },
   "tor @ cin": {
+    "79": {
+      "player": "vladimir guerrero",
+      "pitcher": "reiver sanmartin",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "78": {
       "player": "austin hays",
       "pitcher": "seranthony dominguez",
@@ -2637,8 +2643,8 @@
     "52": {
       "player": "randal grichuk",
       "pitcher": "reid detmers",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "mike yastrzemski",
@@ -2948,11 +2954,17 @@
     }
   },
   "atl @ chc": {
+    "47": {
+      "player": "dansby swanson",
+      "pitcher": "rolddy munoz",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "ian happ",
       "pitcher": "rolddy munoz",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "michael busch",
@@ -3876,7 +3888,7 @@
       "player": "paul goldschmidt",
       "pitcher": "framber valdez",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "33": {
       "player": "austin wells",
