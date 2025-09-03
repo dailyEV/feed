@@ -1,5 +1,11 @@
 {
   "nym @ det": {
+    "69": {
+      "player": "dillon dingler",
+      "pitcher": "kevin herget",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "68": {
       "player": "cedric mullins",
       "pitcher": "brenan hanifee",
@@ -799,7 +805,7 @@
     "66": {
       "player": "sal stewart",
       "pitcher": "louis varland",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Knuckle Curve"
     },
     "65": {
@@ -1197,8 +1203,8 @@
     "72": {
       "player": "alex bregman",
       "pitcher": "cade smith",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Splitter"
     },
     "71": {
       "player": "nate eaton",
@@ -1632,7 +1638,7 @@
       "player": "robert hassell",
       "pitcher": "freddy tarnok",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "paul dejong",
@@ -2044,6 +2050,12 @@
     }
   },
   "sea @ tb": {
+    "41": {
+      "player": "cal raleigh",
+      "pitcher": "bryan baker",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "brandon lowe",
       "pitcher": "bryan woo",
@@ -2286,12 +2298,6 @@
     }
   },
   "laa @ kc": {
-    "41": {
-      "player": "jo adell",
-      "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "40": {
       "player": "yoan moncada",
       "pitcher": "michael lorenzen",
@@ -2749,8 +2755,8 @@
     "43": {
       "player": "matt wallner",
       "pitcher": "davis martin",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "brooks lee",
@@ -3006,6 +3012,12 @@
     }
   },
   "ath @ stl": {
+    "41": {
+      "player": "nathan church",
+      "pitcher": "hogan harris",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "victor scott",
       "pitcher": "hogan harris",
@@ -3242,11 +3254,17 @@
     }
   },
   "nyy @ hou": {
+    "25": {
+      "player": "jose altuve",
+      "pitcher": "max fried",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "24": {
       "player": "carlos correa",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "jeremy pena",
@@ -3392,7 +3410,7 @@
       "player": "wilmer flores",
       "pitcher": "antonio senzatela",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "dominic smith",
