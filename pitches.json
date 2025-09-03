@@ -368,6 +368,12 @@
     }
   },
   "lad @ pit": {
+    "60": {
+      "player": "will smith",
+      "pitcher": "isaac mattson",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "freddie freeman",
       "pitcher": "isaac mattson",
@@ -724,6 +730,12 @@
     }
   },
   "tor @ cin": {
+    "60": {
+      "player": "austin hays",
+      "pitcher": "louis varland",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    },
     "59": {
       "player": "elly de la cruz",
       "pitcher": "eric lauer",
@@ -1080,10 +1092,16 @@
     }
   },
   "cle @ bos": {
+    "67": {
+      "player": "brayan rocchio",
+      "pitcher": "justin slaten",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "66": {
       "player": "jhonkensy noel",
       "pitcher": "justin slaten",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sweeper"
     },
     "65": {
@@ -2276,6 +2294,12 @@
     }
   },
   "atl @ chc": {
+    "30": {
+      "player": "michael harris",
+      "pitcher": "shota imanaga",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "29": {
       "player": "marcell ozuna",
       "pitcher": "shota imanaga",
@@ -2855,8 +2879,8 @@
     "18": {
       "player": "cody bellinger",
       "pitcher": "framber valdez",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "17": {
       "player": "cam smith",
