@@ -4,7 +4,7 @@
       "player": "cedric mullins",
       "pitcher": "chris paddack",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "55": {
       "player": "jeff mcneil",
@@ -341,7 +341,7 @@
     "53": {
       "player": "cam devanney",
       "pitcher": "blake treinen",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "52": {
@@ -2027,7 +2027,7 @@
     "24": {
       "player": "justin turner",
       "pitcher": "joey wentz",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "23": {
@@ -2170,12 +2170,6 @@
     }
   },
   "chw @ min": {
-    "27": {
-      "player": "curtis mead",
-      "pitcher": "simeon woods richardson",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "26": {
       "player": "colson montgomery",
       "pitcher": "simeon woods richardson",
@@ -2334,10 +2328,16 @@
     }
   },
   "ath @ stl": {
+    "27": {
+      "player": "willson contreras",
+      "pitcher": "luis severino",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "26": {
       "player": "ivan herrera",
       "pitcher": "luis severino",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "25": {
@@ -2492,11 +2492,17 @@
     }
   },
   "nyy @ hou": {
+    "13": {
+      "player": "austin wells",
+      "pitcher": "framber valdez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "12": {
       "player": "jose caballero",
       "pitcher": "framber valdez",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "jazz chisholm",
