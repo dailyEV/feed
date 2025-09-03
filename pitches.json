@@ -1,5 +1,17 @@
 {
   "nym @ det": {
+    "63": {
+      "player": "wenceel perez",
+      "pitcher": "kevin herget",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
+    "62": {
+      "player": "spencer torkelson",
+      "pitcher": "kevin herget",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "pete alonso",
       "pitcher": "tommy kahnle",
@@ -371,8 +383,8 @@
     "60": {
       "player": "will smith",
       "pitcher": "isaac mattson",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "freddie freeman",
@@ -1095,8 +1107,8 @@
     "67": {
       "player": "brayan rocchio",
       "pitcher": "justin slaten",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "66": {
       "player": "jhonkensy noel",
@@ -1499,7 +1511,7 @@
     "64": {
       "player": "otto lopez",
       "pitcher": "konnor pilkington",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -2497,8 +2509,8 @@
     "35": {
       "player": "will robertson",
       "pitcher": "simeon woods richardson",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "34": {
       "player": "brooks baldwin",
@@ -2706,10 +2718,16 @@
     }
   },
   "ath @ stl": {
+    "35": {
+      "player": "jimmy crooks",
+      "pitcher": "luis severino",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "34": {
       "player": "masyn winn",
       "pitcher": "luis severino",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "33": {
@@ -2906,17 +2924,11 @@
     }
   },
   "nyy @ hou": {
-    "19": {
-      "player": "aaron judge",
-      "pitcher": "framber valdez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "18": {
       "player": "cody bellinger",
       "pitcher": "framber valdez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "cam smith",
