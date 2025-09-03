@@ -500,12 +500,6 @@
     }
   },
   "lad @ pit": {
-    "76": {
-      "player": "shohei ohtani",
-      "pitcher": "dennis santana",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "75": {
       "player": "miguel rojas",
       "pitcher": "dennis santana",
@@ -2350,6 +2344,12 @@
     }
   },
   "sea @ tb": {
+    "53": {
+      "player": "jp crawford",
+      "pitcher": "edwin uceta",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "luke raley",
       "pitcher": "edwin uceta",
@@ -2667,8 +2667,8 @@
     "53": {
       "player": "adam frazier",
       "pitcher": "reid detmers",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "randal grichuk",
@@ -3277,8 +3277,8 @@
     "56": {
       "player": "lenyn sosa",
       "pitcher": "thomas hatch",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "55": {
       "player": "kyle teel",
