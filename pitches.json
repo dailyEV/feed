@@ -1800,7 +1800,7 @@
       "player": "spencer horwitz",
       "pitcher": "emmet sheehan",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "alex call",
@@ -1957,8 +1957,8 @@
     "29": {
       "player": "daulton varsho",
       "pitcher": "zack littell",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Splitter"
     },
     "28": {
       "player": "bo bichette",
@@ -2282,10 +2282,16 @@
     }
   },
   "sea @ tb": {
+    "5": {
+      "player": "yandy diaz",
+      "pitcher": "george kirby",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "chandler simpson",
       "pitcher": "george kirby",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -2308,7 +2314,14 @@
     }
   },
   "laa @ kc": {},
-  "atl @ chc": {},
+  "atl @ chc": {
+    "1": {
+      "player": "ronald acuna",
+      "pitcher": "cade horton",
+      "result": "Foul",
+      "pitch": "Sinker"
+    }
+  },
   "chw @ min": {},
   "phi @ mil": {},
   "ath @ stl": {},
