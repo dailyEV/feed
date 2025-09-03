@@ -2401,7 +2401,7 @@
     "57": {
       "player": "chandler simpson",
       "pitcher": "gabe speier",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "56": {
@@ -2742,6 +2742,12 @@
     }
   },
   "laa @ kc": {
+    "59": {
+      "player": "kyle isbel",
+      "pitcher": "luis garcia",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "58": {
       "player": "logan ohoppe",
       "pitcher": "luinder avila",
@@ -3415,8 +3421,8 @@
     "63": {
       "player": "mike tauchman",
       "pitcher": "thomas hatch",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "62": {
       "player": "bryan ramos",
@@ -4151,8 +4157,8 @@
     "41": {
       "player": "mauricio dubon",
       "pitcher": "max fried",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "40": {
       "player": "cam smith",
@@ -4396,6 +4402,12 @@
     }
   },
   "sf @ col": {
+    "27": {
+      "player": "wilmer flores",
+      "pitcher": "antonio senzatela",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "brenton doyle",
       "pitcher": "logan webb",
@@ -4557,7 +4569,7 @@
     "1": {
       "player": "jackson holliday",
       "pitcher": "yu darvish",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Cutter"
     }
   },
