@@ -272,6 +272,12 @@
     }
   },
   "lad @ pit": {
+    "45": {
+      "player": "teoscar hernandez",
+      "pitcher": "bubba chandler",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "tommy pham",
       "pitcher": "clayton kershaw",
@@ -538,10 +544,22 @@
     }
   },
   "tor @ cin": {
+    "45": {
+      "player": "gavin lux",
+      "pitcher": "eric lauer",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "44": {
+      "player": "austin hays",
+      "pitcher": "eric lauer",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "43": {
       "player": "elly de la cruz",
       "pitcher": "eric lauer",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -1094,10 +1112,22 @@
     }
   },
   "mia @ wsh": {
+    "47": {
+      "player": "otto lopez",
+      "pitcher": "pj poulin",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "46": {
+      "player": "liam hicks",
+      "pitcher": "pj poulin",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "agustin ramirez",
       "pitcher": "pj poulin",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -1642,6 +1672,12 @@
     }
   },
   "chw @ min": {
+    "17": {
+      "player": "byron buxton",
+      "pitcher": "davis martin",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "ryan fitzgerald",
       "pitcher": "davis martin",
@@ -1744,7 +1780,7 @@
       "player": "jimmy crooks",
       "pitcher": "luis severino",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Changeup"
     },
     "12": {
       "player": "masyn winn",
