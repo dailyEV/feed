@@ -368,17 +368,11 @@
     }
   },
   "lad @ pit": {
-    "59": {
-      "player": "freddie freeman",
-      "pitcher": "isaac mattson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "58": {
       "player": "mookie betts",
       "pitcher": "isaac mattson",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "shohei ohtani",
@@ -724,6 +718,12 @@
     }
   },
   "tor @ cin": {
+    "59": {
+      "player": "elly de la cruz",
+      "pitcher": "eric lauer",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "nathan lukes",
       "pitcher": "connor phillips",
@@ -1074,6 +1074,12 @@
     }
   },
   "cle @ bos": {
+    "65": {
+      "player": "kyle manzardo",
+      "pitcher": "justin slaten",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "64": {
       "player": "david fry",
       "pitcher": "justin slaten",
@@ -2049,7 +2055,7 @@
     "34": {
       "player": "bryce teodosio",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "33": {
@@ -2825,8 +2831,8 @@
     "17": {
       "player": "cam smith",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "ramon urias",
