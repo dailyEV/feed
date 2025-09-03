@@ -1799,7 +1799,7 @@
     "31": {
       "player": "alex freeland",
       "pitcher": "mike burrows",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "30": {
@@ -2360,11 +2360,17 @@
     }
   },
   "sea @ tb": {
+    "10": {
+      "player": "hunter feduccia",
+      "pitcher": "george kirby",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "jake mangum",
       "pitcher": "george kirby",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "8": {
       "player": "josh lowe",
@@ -2442,6 +2448,18 @@
     }
   },
   "atl @ chc": {
+    "6": {
+      "player": "michael busch",
+      "pitcher": "bryce elder",
+      "result": "Foul Bunt",
+      "pitch": "Sinker"
+    },
+    "5": {
+      "player": "nico hoerner",
+      "pitcher": "bryce elder",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "drake baldwin",
       "pitcher": "cade horton",
@@ -2468,17 +2486,11 @@
     }
   },
   "chw @ min": {
-    "6": {
-      "player": "luke keaschall",
-      "pitcher": "yoendrys gomez",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "5": {
       "player": "trevor larnach",
       "pitcher": "yoendrys gomez",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "4": {
       "player": "byron buxton",
@@ -2509,8 +2521,8 @@
     "4": {
       "player": "jt realmuto",
       "pitcher": "jose quintana",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "3": {
       "player": "bryce harper",
