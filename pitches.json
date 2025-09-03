@@ -485,7 +485,7 @@
     "73": {
       "player": "nick gonzales",
       "pitcher": "kirby yates",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "72": {
@@ -922,6 +922,12 @@
     }
   },
   "tor @ cin": {
+    "77": {
+      "player": "elly de la cruz",
+      "pitcher": "seranthony dominguez",
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
+    },
     "76": {
       "player": "noelvi marte",
       "pitcher": "seranthony dominguez",
@@ -2293,8 +2299,8 @@
     "49": {
       "player": "hunter feduccia",
       "pitcher": "eduard bazardo",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "48": {
       "player": "tristan gray",
@@ -2589,8 +2595,8 @@
     "50": {
       "player": "zach neto",
       "pitcher": "john schreiber",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "49": {
       "player": "bryce teodosio",
@@ -2888,12 +2894,6 @@
     }
   },
   "atl @ chc": {
-    "44": {
-      "player": "marcell ozuna",
-      "pitcher": "shota imanaga",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "43": {
       "player": "ozzie albies",
       "pitcher": "shota imanaga",
@@ -3157,7 +3157,7 @@
     "52": {
       "player": "austin martin",
       "pitcher": "davis martin",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "51": {
@@ -3767,7 +3767,7 @@
     "31": {
       "player": "yainer diaz",
       "pitcher": "max fried",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": ""
     },
     "30": {
@@ -3952,6 +3952,12 @@
     }
   },
   "sf @ col": {
+    "16": {
+      "player": "kyle karros",
+      "pitcher": "logan webb",
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
+    },
     "15": {
       "player": "ezequiel tovar",
       "pitcher": "logan webb",
