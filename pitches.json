@@ -269,8 +269,8 @@
     "44": {
       "player": "tommy pham",
       "pitcher": "clayton kershaw",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "43": {
       "player": "bryan reynolds",
@@ -786,6 +786,12 @@
     }
   },
   "cle @ bos": {
+    "48": {
+      "player": "brayan rocchio",
+      "pitcher": "garrett crochet",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "47": {
       "player": "jhonkensy noel",
       "pitcher": "garrett crochet",
@@ -1529,7 +1535,7 @@
     "14": {
       "player": "dansby swanson",
       "pitcher": "joey wentz",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "13": {
@@ -1612,11 +1618,17 @@
     }
   },
   "chw @ min": {
+    "16": {
+      "player": "ryan fitzgerald",
+      "pitcher": "davis martin",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "15": {
       "player": "mickey gasper",
       "pitcher": "davis martin",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "james outman",
@@ -1707,7 +1719,7 @@
     "11": {
       "player": "nolan gorman",
       "pitcher": "luis severino",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "10": {
