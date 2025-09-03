@@ -272,10 +272,16 @@
     }
   },
   "lad @ pit": {
+    "46": {
+      "player": "michael conforto",
+      "pitcher": "bubba chandler",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "45": {
       "player": "teoscar hernandez",
       "pitcher": "bubba chandler",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "44": {
@@ -1396,6 +1402,12 @@
     }
   },
   "sea @ tb": {
+    "18": {
+      "player": "jp crawford",
+      "pitcher": "drew rasmussen",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "chandler simpson",
       "pitcher": "bryan woo",
@@ -1791,8 +1803,8 @@
     "13": {
       "player": "jimmy crooks",
       "pitcher": "luis severino",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "12": {
       "player": "masyn winn",
