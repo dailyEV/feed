@@ -956,7 +956,7 @@
       "player": "bo bichette",
       "pitcher": "reiver sanmartin",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "79": {
       "player": "vladimir guerrero",
@@ -2347,7 +2347,7 @@
     "51": {
       "player": "jorge polanco",
       "pitcher": "edwin uceta",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "50": {
@@ -2970,7 +2970,7 @@
       "player": "dansby swanson",
       "pitcher": "rolddy munoz",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "46": {
       "player": "ian happ",
@@ -3253,8 +3253,8 @@
     "55": {
       "player": "kyle teel",
       "pitcher": "thomas hatch",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "54": {
       "player": "mickey gasper",
@@ -3582,6 +3582,12 @@
     }
   },
   "ath @ stl": {
+    "54": {
+      "player": "brent rooker",
+      "pitcher": "matt svanson",
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
+    },
     "53": {
       "player": "jacob wilson",
       "pitcher": "matt svanson",
@@ -3896,6 +3902,12 @@
     }
   },
   "nyy @ hou": {
+    "35": {
+      "player": "cody bellinger",
+      "pitcher": "framber valdez",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "34": {
       "player": "paul goldschmidt",
       "pitcher": "framber valdez",
@@ -4102,11 +4114,17 @@
     }
   },
   "sf @ col": {
+    "20": {
+      "player": "casey schmitt",
+      "pitcher": "antonio senzatela",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "19": {
       "player": "rafael devers",
       "pitcher": "antonio senzatela",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "kyle farmer",
