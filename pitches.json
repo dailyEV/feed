@@ -368,12 +368,6 @@
     }
   },
   "lad @ pit": {
-    "60": {
-      "player": "will smith",
-      "pitcher": "isaac mattson",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "59": {
       "player": "freddie freeman",
       "pitcher": "isaac mattson",
@@ -1095,8 +1089,8 @@
     "67": {
       "player": "brayan rocchio",
       "pitcher": "justin slaten",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "66": {
       "player": "jhonkensy noel",
@@ -2294,12 +2288,6 @@
     }
   },
   "atl @ chc": {
-    "30": {
-      "player": "michael harris",
-      "pitcher": "shota imanaga",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
     "29": {
       "player": "marcell ozuna",
       "pitcher": "shota imanaga",
@@ -2476,6 +2464,18 @@
     }
   },
   "chw @ min": {
+    "35": {
+      "player": "will robertson",
+      "pitcher": "simeon woods richardson",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
+    "34": {
+      "player": "brooks baldwin",
+      "pitcher": "simeon woods richardson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "ryan fitzgerald",
       "pitcher": "davis martin",
@@ -2879,8 +2879,8 @@
     "18": {
       "player": "cody bellinger",
       "pitcher": "framber valdez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "cam smith",
