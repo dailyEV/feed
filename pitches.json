@@ -3,7 +3,7 @@
     "83": {
       "player": "colt keith",
       "pitcher": "ryne stanek",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "82": {
@@ -500,12 +500,6 @@
     }
   },
   "lad @ pit": {
-    "74": {
-      "player": "bryan reynolds",
-      "pitcher": "kirby yates",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "73": {
       "player": "nick gonzales",
       "pitcher": "kirby yates",
@@ -946,12 +940,6 @@
     }
   },
   "tor @ cin": {
-    "78": {
-      "player": "austin hays",
-      "pitcher": "seranthony dominguez",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "77": {
       "player": "elly de la cruz",
       "pitcher": "seranthony dominguez",
@@ -3199,8 +3187,8 @@
     "53": {
       "player": "james outman",
       "pitcher": "davis martin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "52": {
       "player": "austin martin",
@@ -4012,6 +4000,12 @@
     }
   },
   "sf @ col": {
+    "18": {
+      "player": "kyle farmer",
+      "pitcher": "logan webb",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "17": {
       "player": "yanquiel fernandez",
       "pitcher": "logan webb",
