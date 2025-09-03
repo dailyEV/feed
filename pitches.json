@@ -500,6 +500,12 @@
     }
   },
   "lad @ pit": {
+    "75": {
+      "player": "miguel rojas",
+      "pitcher": "dennis santana",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "74": {
       "player": "bryan reynolds",
       "pitcher": "kirby yates",
@@ -950,7 +956,7 @@
       "player": "bo bichette",
       "pitcher": "reiver sanmartin",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "79": {
       "player": "vladimir guerrero",
@@ -3247,8 +3253,8 @@
     "55": {
       "player": "kyle teel",
       "pitcher": "thomas hatch",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "54": {
       "player": "mickey gasper",
@@ -3890,12 +3896,6 @@
     }
   },
   "nyy @ hou": {
-    "35": {
-      "player": "cody bellinger",
-      "pitcher": "framber valdez",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
     "34": {
       "player": "paul goldschmidt",
       "pitcher": "framber valdez",
@@ -4102,17 +4102,11 @@
     }
   },
   "sf @ col": {
-    "20": {
-      "player": "casey schmitt",
-      "pitcher": "antonio senzatela",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
     "19": {
       "player": "rafael devers",
       "pitcher": "antonio senzatela",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "kyle farmer",
