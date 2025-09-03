@@ -414,7 +414,7 @@
       "player": "andrew mccutchen",
       "pitcher": "michael kopech",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "63": {
       "player": "tommy pham",
@@ -1197,7 +1197,7 @@
     "71": {
       "player": "nate eaton",
       "pitcher": "cade smith",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "70": {
@@ -1625,8 +1625,8 @@
     "69": {
       "player": "robert hassell",
       "pitcher": "freddy tarnok",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "paul dejong",
@@ -2716,12 +2716,6 @@
     }
   },
   "chw @ min": {
-    "41": {
-      "player": "trevor larnach",
-      "pitcher": "davis martin",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "40": {
       "player": "byron buxton",
       "pitcher": "davis martin",
@@ -2964,6 +2958,12 @@
     }
   },
   "ath @ stl": {
+    "40": {
+      "player": "victor scott",
+      "pitcher": "hogan harris",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "shea langeliers",
       "pitcher": "miles mikolas",
