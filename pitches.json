@@ -275,8 +275,8 @@
     "46": {
       "player": "michael conforto",
       "pitcher": "bubba chandler",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "teoscar hernandez",
@@ -553,8 +553,8 @@
     "45": {
       "player": "gavin lux",
       "pitcher": "eric lauer",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "austin hays",
@@ -822,12 +822,6 @@
     }
   },
   "cle @ bos": {
-    "51": {
-      "player": "masataka yoshida",
-      "pitcher": "slade cecconi",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
     "50": {
       "player": "romy gonzalez",
       "pitcher": "slade cecconi",
@@ -1133,8 +1127,8 @@
     "47": {
       "player": "otto lopez",
       "pitcher": "pj poulin",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "46": {
       "player": "liam hicks",
@@ -1622,12 +1616,6 @@
     }
   },
   "atl @ chc": {
-    "15": {
-      "player": "sean murphy",
-      "pitcher": "shota imanaga",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "14": {
       "player": "dansby swanson",
       "pitcher": "joey wentz",
@@ -1717,8 +1705,8 @@
     "17": {
       "player": "byron buxton",
       "pitcher": "davis martin",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "16": {
       "player": "ryan fitzgerald",
@@ -1821,8 +1809,8 @@
     "13": {
       "player": "jimmy crooks",
       "pitcher": "luis severino",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "masyn winn",
@@ -1897,7 +1885,20 @@
       "pitch": "Sinker"
     }
   },
-  "nyy @ hou": {},
+  "nyy @ hou": {
+    "2": {
+      "player": "cody bellinger",
+      "pitcher": "framber valdez",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "1": {
+      "player": "paul goldschmidt",
+      "pitcher": "framber valdez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    }
+  },
   "sf @ col": {},
   "bal @ sd": {},
   "tex @ ari": {}
