@@ -535,7 +535,7 @@
     "43": {
       "player": "elly de la cruz",
       "pitcher": "eric lauer",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -795,7 +795,7 @@
     "48": {
       "player": "brayan rocchio",
       "pitcher": "garrett crochet",
-      "result": "Swinging Strike",
+      "result": "In play, run(s)",
       "pitch": "Sweeper"
     },
     "47": {
@@ -1082,12 +1082,6 @@
     }
   },
   "mia @ wsh": {
-    "45": {
-      "player": "agustin ramirez",
-      "pitcher": "pj poulin",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "44": {
       "player": "riley adams",
       "pitcher": "adam mazur",
@@ -1357,8 +1351,8 @@
     "17": {
       "player": "chandler simpson",
       "pitcher": "bryan woo",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "hunter feduccia",
@@ -1461,8 +1455,8 @@
     "14": {
       "player": "randal grichuk",
       "pitcher": "mitch farris",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "13": {
       "player": "mike yastrzemski",
@@ -1547,8 +1541,8 @@
     "14": {
       "player": "dansby swanson",
       "pitcher": "joey wentz",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "13": {
       "player": "ian happ",
@@ -1731,8 +1725,8 @@
     "12": {
       "player": "masyn winn",
       "pitcher": "luis severino",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "nolan gorman",
