@@ -293,8 +293,8 @@
     "49": {
       "player": "andrew mccutchen",
       "pitcher": "edgardo henriquez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "alex freeland",
@@ -589,7 +589,7 @@
     "49": {
       "player": "davis schneider",
       "pitcher": "zach maxwell",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "48": {
@@ -885,7 +885,7 @@
     "55": {
       "player": "alex bregman",
       "pitcher": "nic enright",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -1531,7 +1531,7 @@
     "22": {
       "player": "brandon lowe",
       "pitcher": "bryan woo",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "21": {
@@ -1665,8 +1665,8 @@
     "20": {
       "player": "luis rengifo",
       "pitcher": "michael lorenzen",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "zach neto",
@@ -1787,7 +1787,7 @@
     "18": {
       "player": "matt shaw",
       "pitcher": "joey wentz",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "17": {
@@ -1898,7 +1898,7 @@
       "player": "kyle teel",
       "pitcher": "simeon woods richardson",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "mike tauchman",
@@ -2132,6 +2132,12 @@
     }
   },
   "nyy @ hou": {
+    "6": {
+      "player": "carlos correa",
+      "pitcher": "max fried",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "jeremy pena",
       "pitcher": "max fried",
