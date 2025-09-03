@@ -1,5 +1,11 @@
 {
   "nym @ det": {
+    "80": {
+      "player": "zach mckinstry",
+      "pitcher": "kevin herget",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "79": {
       "player": "wenceel perez",
       "pitcher": "kevin herget",
@@ -476,6 +482,12 @@
     }
   },
   "lad @ pit": {
+    "71": {
+      "player": "cam devanney",
+      "pitcher": "kirby yates",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "70": {
       "player": "henry davis",
       "pitcher": "kirby yates",
@@ -901,8 +913,8 @@
     "74": {
       "player": "matt mclain",
       "pitcher": "seranthony dominguez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "73": {
       "player": "myles straw",
@@ -2538,11 +2550,17 @@
     }
   },
   "laa @ kc": {
+    "48": {
+      "player": "oswald peraza",
+      "pitcher": "john schreiber",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "47": {
       "player": "matthew lugo",
       "pitcher": "john schreiber",
-      "result": "Foul Tip",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "chris taylor",
@@ -2822,6 +2840,12 @@
     }
   },
   "atl @ chc": {
+    "42": {
+      "player": "matt olson",
+      "pitcher": "shota imanaga",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "41": {
       "player": "carson kelly",
       "pitcher": "rolddy munoz",
@@ -3372,17 +3396,11 @@
     }
   },
   "ath @ stl": {
-    "49": {
-      "player": "masyn winn",
-      "pitcher": "sean newcomb",
-      "result": "Called Strike",
-      "pitch": "Slurve"
-    },
     "48": {
       "player": "nolan gorman",
       "pitcher": "sean newcomb",
-      "result": "In play, out(s)",
-      "pitch": "Slurve"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "47": {
       "player": "jj bleday",
