@@ -2345,7 +2345,7 @@
     "8": {
       "player": "josh lowe",
       "pitcher": "george kirby",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Knuckle Curve"
     },
     "7": {
@@ -2395,8 +2395,8 @@
     "4": {
       "player": "jo adell",
       "pitcher": "ryan bergert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "3": {
       "player": "taylor ward",
@@ -2421,8 +2421,8 @@
     "4": {
       "player": "drake baldwin",
       "pitcher": "cade horton",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "ozzie albies",
@@ -2444,6 +2444,12 @@
     }
   },
   "chw @ min": {
+    "4": {
+      "player": "byron buxton",
+      "pitcher": "yoendrys gomez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "colson montgomery",
       "pitcher": "zebby matthews",
@@ -2467,8 +2473,8 @@
     "3": {
       "player": "bryce harper",
       "pitcher": "jose quintana",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "2": {
       "player": "kyle schwarber",
@@ -2483,7 +2489,14 @@
       "pitch": "Curveball"
     }
   },
-  "ath @ stl": {},
+  "ath @ stl": {
+    "1": {
+      "player": "shea langeliers",
+      "pitcher": "matthew liberatore",
+      "result": "Ball",
+      "pitch": "Curveball"
+    }
+  },
   "nyy @ hou": {},
   "sf @ col": {}
 }
