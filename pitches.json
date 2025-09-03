@@ -40,7 +40,7 @@
       "player": "brett baty",
       "pitcher": "chris paddack",
       "result": "In play, out(s)",
-      "pitch": ""
+      "pitch": "Changeup"
     },
     "45": {
       "player": "luis torrens",
@@ -622,6 +622,12 @@
     }
   },
   "tor @ cin": {
+    "53": {
+      "player": "matt mclain",
+      "pitcher": "eric lauer",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "52": {
       "player": "jose trevino",
       "pitcher": "eric lauer",
@@ -939,7 +945,7 @@
     "58": {
       "player": "angel martinez",
       "pitcher": "garrett whitlock",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "57": {
@@ -1286,16 +1292,10 @@
     }
   },
   "mia @ wsh": {
-    "56": {
-      "player": "victor mesa",
-      "pitcher": "cole henry",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "55": {
       "player": "heriberto hernandez",
       "pitcher": "cole henry",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -1627,7 +1627,7 @@
     "25": {
       "player": "jake mangum",
       "pitcher": "bryan woo",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "24": {
@@ -1776,11 +1776,23 @@
     }
   },
   "laa @ kc": {
+    "25": {
+      "player": "salvador perez",
+      "pitcher": "mitch farris",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
+    "24": {
+      "player": "vinnie pasquantino",
+      "pitcher": "mitch farris",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "bobby witt",
       "pitcher": "mitch farris",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "22": {
       "player": "maikel garcia",
@@ -2044,12 +2056,6 @@
     }
   },
   "chw @ min": {
-    "23": {
-      "player": "trevor larnach",
-      "pitcher": "davis martin",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "22": {
       "player": "lenyn sosa",
       "pitcher": "simeon woods richardson",
@@ -2321,8 +2327,8 @@
     "9": {
       "player": "trent grisham",
       "pitcher": "framber valdez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "8": {
       "player": "christian walker",
