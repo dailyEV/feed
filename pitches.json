@@ -3,7 +3,7 @@
     "49": {
       "player": "kerry carpenter",
       "pitcher": "nolan mclean",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "48": {
@@ -296,6 +296,12 @@
     }
   },
   "lad @ pit": {
+    "50": {
+      "player": "oneil cruz",
+      "pitcher": "edgardo henriquez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "andrew mccutchen",
       "pitcher": "edgardo henriquez",
@@ -894,6 +900,12 @@
     }
   },
   "cle @ bos": {
+    "56": {
+      "player": "austin hedges",
+      "pitcher": "garrett whitlock",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "55": {
       "player": "alex bregman",
       "pitcher": "nic enright",
@@ -1229,8 +1241,8 @@
     "53": {
       "player": "cj abrams",
       "pitcher": "adam mazur",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "52": {
       "player": "james wood",
@@ -1549,7 +1561,7 @@
     "22": {
       "player": "brandon lowe",
       "pitcher": "bryan woo",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "21": {
@@ -1811,8 +1823,8 @@
     "20": {
       "player": "nico hoerner",
       "pitcher": "joey wentz",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "kevin alcantara",
@@ -2180,12 +2192,6 @@
     }
   },
   "nyy @ hou": {
-    "7": {
-      "player": "jose altuve",
-      "pitcher": "max fried",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "6": {
       "player": "carlos correa",
       "pitcher": "max fried",
