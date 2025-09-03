@@ -1799,8 +1799,8 @@
     "32": {
       "player": "enrique hernandez",
       "pitcher": "mike burrows",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "alex freeland",
@@ -2199,8 +2199,8 @@
     "30": {
       "player": "brayan rocchio",
       "pitcher": "zack kelly",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "29": {
       "player": "trevor story",
@@ -2443,8 +2443,8 @@
     "5": {
       "player": "mike yastrzemski",
       "pitcher": "caden dana",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "4": {
       "player": "jo adell",
@@ -2476,7 +2476,7 @@
       "player": "michael busch",
       "pitcher": "bryce elder",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "nico hoerner",
@@ -2513,7 +2513,7 @@
     "6": {
       "player": "luke keaschall",
       "pitcher": "yoendrys gomez",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "5": {
@@ -2574,6 +2574,12 @@
     }
   },
   "ath @ stl": {
+    "3": {
+      "player": "nick kurtz",
+      "pitcher": "matthew liberatore",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "2": {
       "player": "jacob wilson",
       "pitcher": "matthew liberatore",
