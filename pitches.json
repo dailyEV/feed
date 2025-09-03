@@ -2014,12 +2014,6 @@
     }
   },
   "tor @ cin": {
-    "37": {
-      "player": "george springer",
-      "pitcher": "zack littell",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "36": {
       "player": "ernie clement",
       "pitcher": "zack littell",
@@ -2438,11 +2432,17 @@
     }
   },
   "sea @ tb": {
+    "13": {
+      "player": "eugenio suarez",
+      "pitcher": "adrian houser",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "josh naylor",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "carson williams",
@@ -2618,6 +2618,12 @@
     }
   },
   "chw @ min": {
+    "8": {
+      "player": "ryan jeffers",
+      "pitcher": "yoendrys gomez",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "7": {
       "player": "matt wallner",
       "pitcher": "yoendrys gomez",
@@ -2665,7 +2671,7 @@
     "7": {
       "player": "william contreras",
       "pitcher": "aaron nola",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -2709,8 +2715,8 @@
     "6": {
       "player": "lars nootbaar",
       "pitcher": "jeffrey springs",
-      "result": "Foul Bunt",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "5": {
       "player": "ivan herrera",
