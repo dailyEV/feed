@@ -1,5 +1,11 @@
 {
   "nym @ det": {
+    "60": {
+      "player": "juan soto",
+      "pitcher": "chris paddack",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "francisco lindor",
       "pitcher": "chris paddack",
@@ -691,7 +697,7 @@
     "57": {
       "player": "george springer",
       "pitcher": "connor phillips",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -1410,7 +1416,7 @@
       "player": "jakob marsee",
       "pitcher": "konnor pilkington",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "daylen lile",
@@ -1777,7 +1783,7 @@
     "32": {
       "player": "richie palacios",
       "pitcher": "bryan woo",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -2314,12 +2320,6 @@
     }
   },
   "chw @ min": {
-    "31": {
-      "player": "james outman",
-      "pitcher": "davis martin",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
-    },
     "30": {
       "player": "austin martin",
       "pitcher": "davis martin",
@@ -2681,8 +2681,8 @@
     "14": {
       "player": "paul goldschmidt",
       "pitcher": "framber valdez",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "austin wells",
@@ -2764,6 +2764,12 @@
     }
   },
   "sf @ col": {
+    "2": {
+      "player": "rafael devers",
+      "pitcher": "kyle freeland",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "heliot ramos",
       "pitcher": "kyle freeland",
