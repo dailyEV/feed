@@ -1,5 +1,11 @@
 {
   "nym @ det": {
+    "56": {
+      "player": "cedric mullins",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "jeff mcneil",
       "pitcher": "chris paddack",
@@ -646,12 +652,6 @@
     }
   },
   "tor @ cin": {
-    "55": {
-      "player": "noelvi marte",
-      "pitcher": "eric lauer",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "54": {
       "player": "tj friedl",
       "pitcher": "eric lauer",
@@ -1690,10 +1690,16 @@
     }
   },
   "sea @ tb": {
+    "27": {
+      "player": "julio rodriguez",
+      "pitcher": "drew rasmussen",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "26": {
       "player": "cal raleigh",
       "pitcher": "drew rasmussen",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "25": {
@@ -2152,6 +2158,12 @@
     }
   },
   "chw @ min": {
+    "26": {
+      "player": "colson montgomery",
+      "pitcher": "simeon woods richardson",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "matt wallner",
       "pitcher": "davis martin",
@@ -2459,8 +2471,8 @@
     "12": {
       "player": "jose caballero",
       "pitcher": "framber valdez",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "jazz chisholm",
