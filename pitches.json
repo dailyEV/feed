@@ -1,9 +1,15 @@
 {
   "nym @ det": {
+    "42": {
+      "player": "colt keith",
+      "pitcher": "nolan mclean",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "41": {
       "player": "trey sweeney",
       "pitcher": "nolan mclean",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "40": {
@@ -992,11 +998,17 @@
     }
   },
   "mia @ wsh": {
+    "42": {
+      "player": "luis garcia",
+      "pitcher": "adam mazur",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "41": {
       "player": "josh bell",
       "pitcher": "adam mazur",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "40": {
       "player": "jakob marsee",
@@ -1539,7 +1551,7 @@
     "9": {
       "player": "lawrence butler",
       "pitcher": "miles mikolas",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "8": {
