@@ -1424,6 +1424,12 @@
     }
   },
   "mia @ wsh": {
+    "62": {
+      "player": "agustin ramirez",
+      "pitcher": "konnor pilkington",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "jakob marsee",
       "pitcher": "konnor pilkington",
@@ -1795,7 +1801,7 @@
     "32": {
       "player": "richie palacios",
       "pitcher": "bryan woo",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -2174,12 +2180,6 @@
     }
   },
   "atl @ chc": {
-    "27": {
-      "player": "matt olson",
-      "pitcher": "shota imanaga",
-      "result": "In play, no out",
-      "pitch": "Sweeper"
-    },
     "26": {
       "player": "dansby swanson",
       "pitcher": "joey wentz",
@@ -2529,8 +2529,8 @@
     "30": {
       "player": "jj bleday",
       "pitcher": "miles mikolas",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "29": {
       "player": "zack gelof",
@@ -2797,7 +2797,7 @@
     "2": {
       "player": "rafael devers",
       "pitcher": "kyle freeland",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "1": {
