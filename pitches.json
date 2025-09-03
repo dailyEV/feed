@@ -1433,7 +1433,7 @@
     "62": {
       "player": "agustin ramirez",
       "pitcher": "konnor pilkington",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -2001,8 +2001,8 @@
     "31": {
       "player": "adam frazier",
       "pitcher": "mitch farris",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "randal grichuk",
@@ -2189,8 +2189,8 @@
     "28": {
       "player": "ozzie albies",
       "pitcher": "shota imanaga",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "matt olson",
@@ -2360,7 +2360,7 @@
       "player": "james outman",
       "pitcher": "davis martin",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "austin martin",
@@ -2544,6 +2544,12 @@
     }
   },
   "ath @ stl": {
+    "31": {
+      "player": "darell hernaiz",
+      "pitcher": "miles mikolas",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "jj bleday",
       "pitcher": "miles mikolas",
@@ -2726,11 +2732,17 @@
     }
   },
   "nyy @ hou": {
+    "16": {
+      "player": "ramon urias",
+      "pitcher": "max fried",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "15": {
       "player": "yainer diaz",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "paul goldschmidt",
