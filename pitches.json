@@ -368,10 +368,16 @@
     }
   },
   "lad @ pit": {
+    "58": {
+      "player": "mookie betts",
+      "pitcher": "isaac mattson",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "57": {
       "player": "shohei ohtani",
       "pitcher": "isaac mattson",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -712,12 +718,6 @@
     }
   },
   "tor @ cin": {
-    "59": {
-      "player": "elly de la cruz",
-      "pitcher": "eric lauer",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "58": {
       "player": "nathan lukes",
       "pitcher": "connor phillips",
@@ -1072,7 +1072,7 @@
       "player": "david fry",
       "pitcher": "justin slaten",
       "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "romy gonzalez",
@@ -1454,12 +1454,6 @@
     }
   },
   "mia @ wsh": {
-    "63": {
-      "player": "liam hicks",
-      "pitcher": "konnor pilkington",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "62": {
       "player": "agustin ramirez",
       "pitcher": "konnor pilkington",
@@ -1834,6 +1828,12 @@
     }
   },
   "sea @ tb": {
+    "34": {
+      "player": "hunter feduccia",
+      "pitcher": "bryan woo",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "33": {
       "player": "carson williams",
       "pitcher": "bryan woo",
@@ -2037,8 +2037,8 @@
     "33": {
       "player": "oswald peraza",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "32": {
       "player": "matthew lugo",
@@ -2237,7 +2237,7 @@
     "28": {
       "player": "ozzie albies",
       "pitcher": "shota imanaga",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "27": {
@@ -2404,12 +2404,6 @@
     }
   },
   "chw @ min": {
-    "32": {
-      "player": "mickey gasper",
-      "pitcher": "davis martin",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "31": {
       "player": "james outman",
       "pitcher": "davis martin",
@@ -2795,8 +2789,8 @@
     "17": {
       "player": "cam smith",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "ramon urias",
