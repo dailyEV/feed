@@ -257,8 +257,8 @@
     "43": {
       "player": "bryan reynolds",
       "pitcher": "clayton kershaw",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "42": {
       "player": "nick gonzales",
@@ -759,8 +759,8 @@
     "45": {
       "player": "david fry",
       "pitcher": "garrett crochet",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "44": {
       "player": "jose ramirez",
@@ -1458,7 +1458,7 @@
       "player": "ian happ",
       "pitcher": "joey wentz",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "12": {
       "player": "justin turner",
@@ -1534,11 +1534,17 @@
     }
   },
   "chw @ min": {
+    "15": {
+      "player": "mickey gasper",
+      "pitcher": "davis martin",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "james outman",
       "pitcher": "davis martin",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "austin martin",
