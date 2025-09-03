@@ -1311,7 +1311,7 @@
     "76": {
       "player": "dylan carlson",
       "pitcher": "robert suarez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "75": {
@@ -1774,11 +1774,17 @@
     }
   },
   "tor @ cin": {
+    "2": {
+      "player": "addison barger",
+      "pitcher": "zack littell",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "1": {
       "player": "george springer",
       "pitcher": "zack littell",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     }
   },
   "cle @ bos": {},
