@@ -1567,8 +1567,8 @@
     "23": {
       "player": "junior caminero",
       "pitcher": "bryan woo",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "22": {
       "player": "brandon lowe",
@@ -1835,8 +1835,8 @@
     "20": {
       "player": "nico hoerner",
       "pitcher": "joey wentz",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "19": {
       "player": "kevin alcantara",
@@ -1958,7 +1958,7 @@
       "player": "lenyn sosa",
       "pitcher": "simeon woods richardson",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "21": {
       "player": "kyle teel",
@@ -2088,11 +2088,17 @@
     }
   },
   "ath @ stl": {
+    "20": {
+      "player": "victor scott",
+      "pitcher": "luis severino",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "19": {
       "player": "jose fermin",
       "pitcher": "luis severino",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "brent rooker",
