@@ -1,10 +1,22 @@
 {
   "nym @ det": {
+    "68": {
+      "player": "cedric mullins",
+      "pitcher": "brenan hanifee",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "67": {
+      "player": "jeff mcneil",
+      "pitcher": "brenan hanifee",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "66": {
       "player": "luisangel acuna",
       "pitcher": "brenan hanifee",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "65": {
       "player": "brandon nimmo",
@@ -401,8 +413,8 @@
     "62": {
       "player": "bryan reynolds",
       "pitcher": "michael kopech",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "teoscar hernandez",
@@ -772,12 +784,6 @@
     }
   },
   "tor @ cin": {
-    "65": {
-      "player": "alejandro kirk",
-      "pitcher": "connor phillips",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "64": {
       "player": "daulton varsho",
       "pitcher": "connor phillips",
@@ -2453,7 +2459,7 @@
     "33": {
       "player": "kevin alcantara",
       "pitcher": "joey wentz",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Cutter"
     },
     "32": {
@@ -2650,6 +2656,12 @@
     }
   },
   "chw @ min": {
+    "40": {
+      "player": "byron buxton",
+      "pitcher": "davis martin",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "lenyn sosa",
       "pitcher": "simeon woods richardson",
@@ -2886,6 +2898,12 @@
     }
   },
   "ath @ stl": {
+    "39": {
+      "player": "shea langeliers",
+      "pitcher": "miles mikolas",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "tyler soderstrom",
       "pitcher": "miles mikolas",
@@ -3113,8 +3131,8 @@
     "21": {
       "player": "mauricio dubon",
       "pitcher": "max fried",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "giancarlo stanton",
@@ -3241,8 +3259,8 @@
     "3": {
       "player": "casey schmitt",
       "pitcher": "antonio senzatela",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "rafael devers",
