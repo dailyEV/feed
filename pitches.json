@@ -2203,8 +2203,8 @@
     "67": {
       "player": "george springer",
       "pitcher": "lyon richardson",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "66": {
       "player": "ernie clement",
@@ -2972,11 +2972,17 @@
     }
   },
   "sea @ tb": {
+    "48": {
+      "player": "mitch garver",
+      "pitcher": "adrian houser",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "dominic canzone",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "46": {
       "player": "junior caminero",
@@ -3256,12 +3262,6 @@
     }
   },
   "laa @ kc": {
-    "36": {
-      "player": "kyle isbel",
-      "pitcher": "caden dana",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "35": {
       "player": "jac caglianone",
       "pitcher": "caden dana",
@@ -3474,6 +3474,12 @@
     }
   },
   "atl @ chc": {
+    "39": {
+      "player": "nico hoerner",
+      "pitcher": "bryce elder",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "38": {
       "player": "matt olson",
       "pitcher": "ben brown",
@@ -3707,8 +3713,8 @@
     "39": {
       "player": "byron buxton",
       "pitcher": "yoendrys gomez",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "38": {
       "player": "kyle teel",
@@ -3937,8 +3943,8 @@
     "41": {
       "player": "bryce harper",
       "pitcher": "jose quintana",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slurve"
     },
     "40": {
       "player": "kyle schwarber",
@@ -4185,8 +4191,8 @@
     "39": {
       "player": "masyn winn",
       "pitcher": "jeffrey springs",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "38": {
       "player": "victor scott",
@@ -4421,7 +4427,7 @@
     "26": {
       "player": "austin wells",
       "pitcher": "jason alexander",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "25": {
