@@ -2227,8 +2227,8 @@
     "86": {
       "player": "bo bichette",
       "pitcher": "zach maxwell",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "85": {
       "player": "vladimir guerrero",
@@ -3200,12 +3200,6 @@
     }
   },
   "sea @ tb": {
-    "68": {
-      "player": "cal raleigh",
-      "pitcher": "mason englert",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "67": {
       "player": "randy arozarena",
       "pitcher": "mason englert",
@@ -3610,6 +3604,12 @@
     }
   },
   "laa @ kc": {
+    "54": {
+      "player": "zach neto",
+      "pitcher": "lucas erceg",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "53": {
       "player": "jac caglianone",
       "pitcher": "robert stephenson",
@@ -4274,6 +4274,12 @@
     }
   },
   "chw @ min": {
+    "58": {
+      "player": "matt wallner",
+      "pitcher": "brandon eisert",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "57": {
       "player": "luke keaschall",
       "pitcher": "brandon eisert",
@@ -4615,8 +4621,8 @@
     "56": {
       "player": "kyle schwarber",
       "pitcher": "aaron ashby",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "55": {
       "player": "trea turner",
@@ -4953,8 +4959,8 @@
     "57": {
       "player": "brent rooker",
       "pitcher": "kyle leahy",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "nick kurtz",
@@ -5294,10 +5300,16 @@
     }
   },
   "nyy @ hou": {
+    "43": {
+      "player": "austin wells",
+      "pitcher": "steven okert",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "42": {
       "player": "ben rice",
       "pitcher": "steven okert",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "41": {
@@ -5551,8 +5563,8 @@
     "32": {
       "player": "jordan beck",
       "pitcher": "robbie ray",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "31": {
       "player": "hunter goodman",
