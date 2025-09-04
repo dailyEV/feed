@@ -2227,7 +2227,7 @@
     "78": {
       "player": "sal stewart",
       "pitcher": "louis varland",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "77": {
@@ -3110,17 +3110,11 @@
     }
   },
   "sea @ tb": {
-    "60": {
-      "player": "dominic canzone",
-      "pitcher": "adrian houser",
-      "result": "Hit By Pitch",
-      "pitch": "Sinker"
-    },
     "59": {
       "player": "jorge polanco",
       "pitcher": "adrian houser",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "eugenio suarez",
@@ -3475,7 +3469,7 @@
     "45": {
       "player": "vinnie pasquantino",
       "pitcher": "brock burke",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "44": {
@@ -4327,7 +4321,7 @@
     "49": {
       "player": "jake bauers",
       "pitcher": "max lazar",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "48": {
@@ -4620,6 +4614,12 @@
     }
   },
   "ath @ stl": {
+    "49": {
+      "player": "carlos cortes",
+      "pitcher": "kyle leahy",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "48": {
       "player": "lawrence butler",
       "pitcher": "kyle leahy",
@@ -5104,6 +5104,18 @@
     }
   },
   "sf @ col": {
+    "24": {
+      "player": "kyle karros",
+      "pitcher": "robbie ray",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "23": {
+      "player": "braxton fulford",
+      "pitcher": "robbie ray",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "casey schmitt",
       "pitcher": "german marquez",
