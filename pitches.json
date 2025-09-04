@@ -2140,6 +2140,12 @@
     }
   },
   "tor @ cin": {
+    "60": {
+      "player": "kebryan hayes",
+      "pitcher": "tommy nance",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "andres gimenez",
       "pitcher": "lyon richardson",
@@ -2493,8 +2499,8 @@
     "52": {
       "player": "jarren duran",
       "pitcher": "joey cantillo",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "51": {
       "player": "rob refsnyder",
@@ -2804,11 +2810,23 @@
     }
   },
   "sea @ tb": {
+    "37": {
+      "player": "hunter feduccia",
+      "pitcher": "emerson hancock",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "36": {
+      "player": "jake mangum",
+      "pitcher": "emerson hancock",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "josh lowe",
       "pitcher": "emerson hancock",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "julio rodriguez",
@@ -3016,17 +3034,11 @@
     }
   },
   "laa @ kc": {
-    "27": {
-      "player": "chris taylor",
-      "pitcher": "ryan bergert",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "26": {
       "player": "luis rengifo",
       "pitcher": "ryan bergert",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "jo adell",
@@ -3183,8 +3195,8 @@
     "31": {
       "player": "ha seong kim",
       "pitcher": "cade horton",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "30": {
       "player": "michael harris",
@@ -3372,7 +3384,7 @@
       "player": "matt wallner",
       "pitcher": "yoendrys gomez",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "brooks baldwin",
@@ -3544,6 +3556,12 @@
     }
   },
   "phi @ mil": {
+    "30": {
+      "player": "harrison bader",
+      "pitcher": "jose quintana",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "alec bohm",
       "pitcher": "jose quintana",
