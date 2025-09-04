@@ -1799,8 +1799,8 @@
     "54": {
       "player": "enrique hernandez",
       "pitcher": "evan sisk",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "53": {
       "player": "cam devanney",
@@ -2122,11 +2122,17 @@
     }
   },
   "tor @ cin": {
+    "57": {
+      "player": "alejandro kirk",
+      "pitcher": "lyon richardson",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "56": {
       "player": "daulton varsho",
       "pitcher": "lyon richardson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "55": {
       "player": "bo bichette",
@@ -2753,8 +2759,8 @@
     "33": {
       "player": "cal raleigh",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "32": {
       "player": "randy arozarena",
@@ -2953,8 +2959,8 @@
     "25": {
       "player": "jo adell",
       "pitcher": "ryan bergert",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "taylor ward",
@@ -3272,6 +3278,12 @@
     }
   },
   "chw @ min": {
+    "28": {
+      "player": "curtis mead",
+      "pitcher": "zebby matthews",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "27": {
       "player": "andrew benintendi",
       "pitcher": "zebby matthews",
@@ -3743,7 +3755,7 @@
     "13": {
       "player": "ryan mcmahon",
       "pitcher": "jason alexander",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "12": {
