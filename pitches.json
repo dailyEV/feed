@@ -1796,6 +1796,12 @@
     }
   },
   "lad @ pit": {
+    "63": {
+      "player": "teoscar hernandez",
+      "pitcher": "isaac mattson",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "tommy pham",
       "pitcher": "justin wrobleski",
@@ -2170,16 +2176,10 @@
     }
   },
   "tor @ cin": {
-    "65": {
-      "player": "elly de la cruz",
-      "pitcher": "ryan borucki",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "64": {
       "player": "noelvi marte",
       "pitcher": "ryan borucki",
-      "result": "In play, run(s)",
+      "result": "Ball In Dirt",
       "pitch": "Sinker"
     },
     "63": {
@@ -2556,11 +2556,17 @@
     }
   },
   "cle @ bos": {
+    "59": {
+      "player": "connor wong",
+      "pitcher": "jakob junis",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "58": {
       "player": "nick sogard",
       "pitcher": "jakob junis",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "57": {
       "player": "jhonkensy noel",
@@ -3169,8 +3175,8 @@
     "33": {
       "player": "bryce teodosio",
       "pitcher": "ryan bergert",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "oswald peraza",
@@ -3790,12 +3796,6 @@
     }
   },
   "phi @ mil": {
-    "37": {
-      "player": "edmundo sosa",
-      "pitcher": "jose quintana",
-      "result": "In play, no out",
-      "pitch": "Curveball"
-    },
     "36": {
       "player": "nick castellanos",
       "pitcher": "jose quintana",
@@ -4226,6 +4226,12 @@
     }
   },
   "nyy @ hou": {
+    "22": {
+      "player": "taylor trammell",
+      "pitcher": "will warren",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "ramon urias",
       "pitcher": "will warren",
