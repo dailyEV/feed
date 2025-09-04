@@ -1799,7 +1799,7 @@
     "57": {
       "player": "dalton rushing",
       "pitcher": "evan sisk",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "56": {
@@ -2140,10 +2140,16 @@
     }
   },
   "tor @ cin": {
+    "59": {
+      "player": "andres gimenez",
+      "pitcher": "lyon richardson",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "ty france",
       "pitcher": "lyon richardson",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "57": {
@@ -2484,12 +2490,6 @@
     }
   },
   "cle @ bos": {
-    "52": {
-      "player": "jarren duran",
-      "pitcher": "joey cantillo",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "51": {
       "player": "rob refsnyder",
       "pitcher": "joey cantillo",
@@ -2798,6 +2798,12 @@
     }
   },
   "sea @ tb": {
+    "35": {
+      "player": "josh lowe",
+      "pitcher": "emerson hancock",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "34": {
       "player": "julio rodriguez",
       "pitcher": "adrian houser",
@@ -3915,5 +3921,12 @@
       "pitch": "Changeup"
     }
   },
-  "sf @ col": {}
+  "sf @ col": {
+    "1": {
+      "player": "heliot ramos",
+      "pitcher": "german marquez",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    }
+  }
 }
