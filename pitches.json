@@ -4059,7 +4059,7 @@
     "68": {
       "player": "carlos santana",
       "pitcher": "raisel iglesias",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -4469,7 +4469,7 @@
     "69": {
       "player": "andrew benintendi",
       "pitcher": "kody funderburk",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "68": {
@@ -5262,11 +5262,17 @@
     }
   },
   "ath @ stl": {
+    "68": {
+      "player": "brett harris",
+      "pitcher": "jojo romero",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "67": {
       "player": "lawrence butler",
       "pitcher": "jojo romero",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "66": {
       "player": "thomas saggese",
@@ -5977,7 +5983,7 @@
     "43": {
       "player": "tyler freeman",
       "pitcher": "robbie ray",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "42": {
