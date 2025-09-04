@@ -2227,8 +2227,8 @@
     "81": {
       "player": "tj friedl",
       "pitcher": "brendon little",
-      "result": "Ball In Dirt",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "80": {
       "player": "matt mclain",
@@ -3155,7 +3155,7 @@
     "62": {
       "player": "bob seymour",
       "pitcher": "tayler saucedo",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "Sweeper"
     },
     "61": {
@@ -3825,8 +3825,8 @@
     "52": {
       "player": "dansby swanson",
       "pitcher": "bryce elder",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "51": {
       "player": "carlos santana",
@@ -4444,6 +4444,12 @@
     }
   },
   "phi @ mil": {
+    "52": {
+      "player": "nick castellanos",
+      "pitcher": "jose quintana",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "joey ortiz",
       "pitcher": "max lazar",
@@ -4755,8 +4761,8 @@
     "51": {
       "player": "thomas saggese",
       "pitcher": "elvis alvarado",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "50": {
       "player": "shea langeliers",
@@ -5281,8 +5287,8 @@
     "26": {
       "player": "luis matos",
       "pitcher": "german marquez",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "25": {
       "player": "ryan ritter",
