@@ -1796,12 +1796,6 @@
     }
   },
   "lad @ pit": {
-    "66": {
-      "player": "andrew mccutchen",
-      "pitcher": "justin wrobleski",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "65": {
       "player": "andy pages",
       "pitcher": "isaac mattson",
@@ -2595,8 +2589,8 @@
     "62": {
       "player": "bo naylor",
       "pitcher": "dustin may",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "alex bregman",
@@ -3462,12 +3456,6 @@
     }
   },
   "atl @ chc": {
-    "39": {
-      "player": "nico hoerner",
-      "pitcher": "bryce elder",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "38": {
       "player": "matt olson",
       "pitcher": "ben brown",
@@ -4179,8 +4167,8 @@
     "39": {
       "player": "masyn winn",
       "pitcher": "jeffrey springs",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "38": {
       "player": "victor scott",
@@ -4558,6 +4546,12 @@
     }
   },
   "sf @ col": {
+    "13": {
+      "player": "warming bernabel",
+      "pitcher": "robbie ray",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "brenton doyle",
       "pitcher": "robbie ray",
