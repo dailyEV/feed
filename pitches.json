@@ -3200,11 +3200,17 @@
     }
   },
   "sea @ tb": {
+    "68": {
+      "player": "cal raleigh",
+      "pitcher": "mason englert",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "67": {
       "player": "randy arozarena",
       "pitcher": "mason englert",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "66": {
       "player": "jp crawford",
@@ -4272,7 +4278,7 @@
       "player": "luke keaschall",
       "pitcher": "brandon eisert",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "56": {
       "player": "trevor larnach",
@@ -5288,16 +5294,10 @@
     }
   },
   "nyy @ hou": {
-    "43": {
-      "player": "austin wells",
-      "pitcher": "steven okert",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
     "42": {
       "player": "ben rice",
       "pitcher": "steven okert",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "41": {
@@ -5548,6 +5548,12 @@
     }
   },
   "sf @ col": {
+    "32": {
+      "player": "jordan beck",
+      "pitcher": "robbie ray",
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
+    },
     "31": {
       "player": "hunter goodman",
       "pitcher": "robbie ray",
