@@ -1796,6 +1796,12 @@
     }
   },
   "lad @ pit": {
+    "57": {
+      "player": "dalton rushing",
+      "pitcher": "evan sisk",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "56": {
       "player": "mookie betts",
       "pitcher": "evan sisk",
@@ -2134,16 +2140,10 @@
     }
   },
   "tor @ cin": {
-    "59": {
-      "player": "andres gimenez",
-      "pitcher": "lyon richardson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "58": {
       "player": "ty france",
       "pitcher": "lyon richardson",
-      "result": "In play, run(s)",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "57": {
@@ -2792,6 +2792,12 @@
     }
   },
   "sea @ tb": {
+    "34": {
+      "player": "julio rodriguez",
+      "pitcher": "adrian houser",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "cal raleigh",
       "pitcher": "adrian houser",
@@ -3147,7 +3153,7 @@
     "29": {
       "player": "marcell ozuna",
       "pitcher": "cade horton",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "28": {
@@ -3657,8 +3663,8 @@
     "27": {
       "player": "colby thomas",
       "pitcher": "matthew liberatore",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "brent rooker",
