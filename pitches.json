@@ -2313,8 +2313,8 @@
     "40": {
       "player": "kyle manzardo",
       "pitcher": "zack kelly",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "connor wong",
@@ -2552,6 +2552,12 @@
     }
   },
   "sea @ tb": {
+    "20": {
+      "player": "josh lowe",
+      "pitcher": "george kirby",
+      "result": "Hit By Pitch",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "junior caminero",
       "pitcher": "george kirby",
@@ -2757,8 +2763,8 @@
     "15": {
       "player": "matt shaw",
       "pitcher": "bryce elder",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "14": {
       "player": "willi castro",
@@ -2846,6 +2852,12 @@
     }
   },
   "chw @ min": {
+    "16": {
+      "player": "brooks lee",
+      "pitcher": "yoendrys gomez",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "15": {
       "player": "chase meidroth",
       "pitcher": "zebby matthews",
@@ -2932,12 +2944,6 @@
     }
   },
   "phi @ mil": {
-    "15": {
-      "player": "nick castellanos",
-      "pitcher": "jose quintana",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "14": {
       "player": "harrison bader",
       "pitcher": "jose quintana",
@@ -3027,8 +3033,8 @@
     "12": {
       "player": "willson contreras",
       "pitcher": "jeffrey springs",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "11": {
       "player": "lawrence butler",
@@ -3101,8 +3107,8 @@
     "1": {
       "player": "trent grisham",
       "pitcher": "jason alexander",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     }
   },
   "sf @ col": {}
