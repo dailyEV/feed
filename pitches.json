@@ -2664,11 +2664,17 @@
     }
   },
   "cle @ bos": {
+    "68": {
+      "player": "romy gonzalez",
+      "pitcher": "jakob junis",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "67": {
       "player": "david hamilton",
       "pitcher": "jakob junis",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "66": {
       "player": "steven kwan",
@@ -3654,12 +3660,6 @@
     }
   },
   "atl @ chc": {
-    "45": {
-      "player": "michael harris",
-      "pitcher": "drew pomeranz",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "44": {
       "player": "marcell ozuna",
       "pitcher": "ben brown",
@@ -4192,6 +4192,12 @@
     }
   },
   "phi @ mil": {
+    "46": {
+      "player": "jt realmuto",
+      "pitcher": "jose quintana",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "45": {
       "player": "blake perkins",
       "pitcher": "aaron nola",
@@ -4467,7 +4473,7 @@
     "44": {
       "player": "lars nootbaar",
       "pitcher": "jeffrey springs",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "43": {
@@ -4906,11 +4912,17 @@
     }
   },
   "sf @ col": {
-    "19": {
-      "player": "matt chapman",
+    "20": {
+      "player": "wilmer flores",
       "pitcher": "german marquez",
       "result": "Foul",
       "pitch": "Knuckle Curve"
+    },
+    "19": {
+      "player": "matt chapman",
+      "pitcher": "german marquez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "willy adames",
