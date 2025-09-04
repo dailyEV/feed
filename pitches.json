@@ -1796,11 +1796,17 @@
     }
   },
   "lad @ pit": {
+    "61": {
+      "player": "bryan reynolds",
+      "pitcher": "justin wrobleski",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "60": {
       "player": "spencer horwitz",
       "pitcher": "justin wrobleski",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
     },
     "59": {
       "player": "jared triolo",
@@ -2161,7 +2167,7 @@
     "63": {
       "player": "tj friedl",
       "pitcher": "ryan borucki",
-      "result": "Ball In Dirt",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "62": {
@@ -3115,7 +3121,7 @@
     "30": {
       "player": "adam frazier",
       "pitcher": "caden dana",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -3503,8 +3509,8 @@
     "34": {
       "player": "edouard julien",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "33": {
       "player": "royce lewis",
@@ -3704,7 +3710,7 @@
       "player": "jackson chourio",
       "pitcher": "aaron nola",
       "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "brice turang",
