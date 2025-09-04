@@ -2667,7 +2667,7 @@
     "69": {
       "player": "rob refsnyder",
       "pitcher": "jakob junis",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "68": {
@@ -3427,7 +3427,7 @@
     "43": {
       "player": "mike yastrzemski",
       "pitcher": "brock burke",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -3968,12 +3968,6 @@
     }
   },
   "chw @ min": {
-    "47": {
-      "player": "ryan jeffers",
-      "pitcher": "mike vasil",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "46": {
       "player": "andrew benintendi",
       "pitcher": "zebby matthews",
@@ -4246,18 +4240,6 @@
     }
   },
   "phi @ mil": {
-    "48": {
-      "player": "harrison bader",
-      "pitcher": "jose quintana",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
-    "47": {
-      "player": "alec bohm",
-      "pitcher": "jose quintana",
-      "result": "In play, no out",
-      "pitch": "Curveball"
-    },
     "46": {
       "player": "jt realmuto",
       "pitcher": "jose quintana",
@@ -4536,6 +4518,12 @@
     }
   },
   "ath @ stl": {
+    "47": {
+      "player": "darell hernaiz",
+      "pitcher": "kyle leahy",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "46": {
       "player": "zack gelof",
       "pitcher": "kyle leahy",
@@ -4814,10 +4802,16 @@
     }
   },
   "nyy @ hou": {
+    "32": {
+      "player": "carlos correa",
+      "pitcher": "will warren",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "jose altuve",
       "pitcher": "will warren",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "30": {
@@ -5005,8 +4999,8 @@
     "22": {
       "player": "casey schmitt",
       "pitcher": "german marquez",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "drew gilbert",
