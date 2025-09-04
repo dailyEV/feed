@@ -1799,8 +1799,8 @@
     "49": {
       "player": "andrew mccutchen",
       "pitcher": "ben casparius",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "alex freeland",
@@ -2092,6 +2092,12 @@
     }
   },
   "tor @ cin": {
+    "52": {
+      "player": "austin hays",
+      "pitcher": "shane bieber",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "vladimir guerrero",
       "pitcher": "nick martinez",
@@ -2394,11 +2400,17 @@
     }
   },
   "cle @ bos": {
+    "47": {
+      "player": "cj kayfus",
+      "pitcher": "zack kelly",
+      "result": "Foul Tip",
+      "pitch": "Cutter"
+    },
     "46": {
       "player": "gabriel arias",
       "pitcher": "zack kelly",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "trevor story",
@@ -2676,7 +2688,7 @@
       "player": "chandler simpson",
       "pitcher": "eduard bazardo",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "27": {
       "player": "bob seymour",
@@ -3226,6 +3238,12 @@
     }
   },
   "phi @ mil": {
+    "23": {
+      "player": "kyle schwarber",
+      "pitcher": "jose quintana",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "22": {
       "player": "trea turner",
       "pitcher": "jose quintana",
@@ -3486,7 +3504,7 @@
       "player": "carlos correa",
       "pitcher": "will warren",
       "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "jose altuve",
