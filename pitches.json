@@ -1796,11 +1796,17 @@
     }
   },
   "lad @ pit": {
+    "40": {
+      "player": "freddie freeman",
+      "pitcher": "mike burrows",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "dalton rushing",
       "pitcher": "mike burrows",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "38": {
       "player": "mookie betts",
@@ -2265,7 +2271,7 @@
     "38": {
       "player": "nick sogard",
       "pitcher": "joey cantillo",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "37": {
@@ -2492,6 +2498,12 @@
     }
   },
   "sea @ tb": {
+    "17": {
+      "player": "yandy diaz",
+      "pitcher": "george kirby",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "16": {
       "player": "chandler simpson",
       "pitcher": "george kirby",
@@ -2821,8 +2833,8 @@
     "11": {
       "player": "jake bauers",
       "pitcher": "aaron nola",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "blake perkins",
@@ -2889,8 +2901,8 @@
     "10": {
       "player": "darell hernaiz",
       "pitcher": "matthew liberatore",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "9": {
       "player": "zack gelof",
