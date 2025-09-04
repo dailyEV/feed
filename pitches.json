@@ -1796,6 +1796,12 @@
     }
   },
   "lad @ pit": {
+    "49": {
+      "player": "andrew mccutchen",
+      "pitcher": "ben casparius",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "48": {
       "player": "alex freeland",
       "pitcher": "mike burrows",
@@ -2666,11 +2672,17 @@
     }
   },
   "sea @ tb": {
+    "28": {
+      "player": "chandler simpson",
+      "pitcher": "eduard bazardo",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "27": {
       "player": "bob seymour",
       "pitcher": "eduard bazardo",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "26": {
       "player": "jp crawford",
@@ -2830,12 +2842,6 @@
     }
   },
   "laa @ kc": {
-    "20": {
-      "player": "kyle isbel",
-      "pitcher": "caden dana",
-      "result": "In play, run(s)",
-      "pitch": "Changeup"
-    },
     "19": {
       "player": "jac caglianone",
       "pitcher": "caden dana",
@@ -2952,12 +2958,6 @@
     }
   },
   "atl @ chc": {
-    "23": {
-      "player": "matt olson",
-      "pitcher": "cade horton",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "22": {
       "player": "seiya suzuki",
       "pitcher": "bryce elder",
@@ -3229,8 +3229,8 @@
     "22": {
       "player": "trea turner",
       "pitcher": "jose quintana",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "weston wilson",
@@ -3485,8 +3485,8 @@
     "8": {
       "player": "carlos correa",
       "pitcher": "will warren",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "7": {
       "player": "jose altuve",
