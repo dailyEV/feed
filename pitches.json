@@ -1800,7 +1800,7 @@
       "player": "andy pages",
       "pitcher": "mike burrows",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "46": {
       "player": "alex call",
@@ -2803,7 +2803,7 @@
     "18": {
       "player": "michael massey",
       "pitcher": "caden dana",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "17": {
@@ -2910,6 +2910,12 @@
     }
   },
   "atl @ chc": {
+    "22": {
+      "player": "seiya suzuki",
+      "pitcher": "bryce elder",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "michael busch",
       "pitcher": "bryce elder",
@@ -3041,8 +3047,8 @@
     "21": {
       "player": "lenyn sosa",
       "pitcher": "zebby matthews",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "kyle teel",
@@ -3279,7 +3285,7 @@
     "18": {
       "player": "shea langeliers",
       "pitcher": "matthew liberatore",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "17": {
@@ -3386,10 +3392,16 @@
     }
   },
   "nyy @ hou": {
+    "7": {
+      "player": "jose altuve",
+      "pitcher": "will warren",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "yordan alvarez",
       "pitcher": "will warren",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "5": {
