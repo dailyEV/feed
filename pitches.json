@@ -2493,8 +2493,8 @@
     "52": {
       "player": "jarren duran",
       "pitcher": "joey cantillo",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "rob refsnyder",
@@ -2804,11 +2804,17 @@
     }
   },
   "sea @ tb": {
+    "36": {
+      "player": "jake mangum",
+      "pitcher": "emerson hancock",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "josh lowe",
       "pitcher": "emerson hancock",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "julio rodriguez",
@@ -3171,8 +3177,8 @@
     "30": {
       "player": "michael harris",
       "pitcher": "cade horton",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "marcell ozuna",
@@ -3520,6 +3526,12 @@
     }
   },
   "phi @ mil": {
+    "29": {
+      "player": "alec bohm",
+      "pitcher": "jose quintana",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "28": {
       "player": "jt realmuto",
       "pitcher": "jose quintana",
@@ -3690,6 +3702,12 @@
     }
   },
   "ath @ stl": {
+    "28": {
+      "player": "zack gelof",
+      "pitcher": "matthew liberatore",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "27": {
       "player": "colby thomas",
       "pitcher": "matthew liberatore",
