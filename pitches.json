@@ -1796,11 +1796,17 @@
     }
   },
   "lad @ pit": {
+    "70": {
+      "player": "michael conforto",
+      "pitcher": "dennis santana",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "69": {
       "player": "hyeseong kim",
       "pitcher": "dennis santana",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "oneil cruz",
@@ -2212,6 +2218,12 @@
     }
   },
   "tor @ cin": {
+    "69": {
+      "player": "vladimir guerrero",
+      "pitcher": "yosver zulueta",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "68": {
       "player": "addison barger",
       "pitcher": "yosver zulueta",
@@ -2616,6 +2628,18 @@
     }
   },
   "cle @ bos": {
+    "64": {
+      "player": "cj kayfus",
+      "pitcher": "dustin may",
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
+    },
+    "63": {
+      "player": "george valera",
+      "pitcher": "dustin may",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "62": {
       "player": "bo naylor",
       "pitcher": "dustin may",
@@ -2994,7 +3018,7 @@
       "player": "randy arozarena",
       "pitcher": "adrian houser",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "49": {
       "player": "jp crawford",
@@ -3764,11 +3788,17 @@
     }
   },
   "chw @ min": {
+    "42": {
+      "player": "matt wallner",
+      "pitcher": "yoendrys gomez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "luke keaschall",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "40": {
       "player": "trevor larnach",
@@ -4009,7 +4039,7 @@
     "43": {
       "player": "sal frelick",
       "pitcher": "aaron nola",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "42": {
@@ -4508,6 +4538,18 @@
     }
   },
   "nyy @ hou": {
+    "28": {
+      "player": "ryan mcmahon",
+      "pitcher": "jason alexander",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "27": {
+      "player": "anthony volpe",
+      "pitcher": "jason alexander",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "26": {
       "player": "austin wells",
       "pitcher": "jason alexander",
@@ -4669,7 +4711,7 @@
     "15": {
       "player": "patrick bailey",
       "pitcher": "german marquez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "14": {
