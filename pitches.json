@@ -4038,11 +4038,17 @@
     }
   },
   "atl @ chc": {
+    "66": {
+      "player": "seiya suzuki",
+      "pitcher": "raisel iglesias",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "65": {
       "player": "michael busch",
       "pitcher": "raisel iglesias",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "nico hoerner",
@@ -4430,12 +4436,6 @@
     }
   },
   "chw @ min": {
-    "66": {
-      "player": "austin martin",
-      "pitcher": "grant taylor",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "65": {
       "player": "edouard julien",
       "pitcher": "grant taylor",
@@ -4825,7 +4825,7 @@
     "63": {
       "player": "harrison bader",
       "pitcher": "abner uribe",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "62": {
@@ -5205,7 +5205,7 @@
     "65": {
       "player": "willson contreras",
       "pitcher": "tyler ferguson",
-      "result": "Swinging Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "63": {
