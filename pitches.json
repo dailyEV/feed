@@ -1799,7 +1799,7 @@
     "64": {
       "player": "alex call",
       "pitcher": "isaac mattson",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -2185,8 +2185,8 @@
     "65": {
       "player": "elly de la cruz",
       "pitcher": "ryan borucki",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "64": {
       "player": "noelvi marte",
@@ -2571,7 +2571,7 @@
     "60": {
       "player": "nathaniel lowe",
       "pitcher": "jakob junis",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "59": {
@@ -2930,12 +2930,6 @@
     }
   },
   "sea @ tb": {
-    "45": {
-      "player": "brandon lowe",
-      "pitcher": "emerson hancock",
-      "result": "In play, run(s)",
-      "pitch": "Sinker"
-    },
     "44": {
       "player": "yandy diaz",
       "pitcher": "emerson hancock",
@@ -3202,6 +3196,12 @@
     }
   },
   "laa @ kc": {
+    "35": {
+      "player": "jac caglianone",
+      "pitcher": "caden dana",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "michael massey",
       "pitcher": "caden dana",
@@ -3408,10 +3408,16 @@
     }
   },
   "atl @ chc": {
+    "38": {
+      "player": "matt olson",
+      "pitcher": "ben brown",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "ronald acuna",
       "pitcher": "ben brown",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Knuckle Curve"
     },
     "36": {
@@ -3856,6 +3862,12 @@
     }
   },
   "phi @ mil": {
+    "40": {
+      "player": "kyle schwarber",
+      "pitcher": "jose quintana",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "trea turner",
       "pitcher": "jose quintana",
@@ -4095,7 +4107,7 @@
     "37": {
       "player": "jordan walker",
       "pitcher": "jeffrey springs",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "36": {
