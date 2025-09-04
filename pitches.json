@@ -3194,10 +3194,16 @@
     }
   },
   "sea @ tb": {
+    "67": {
+      "player": "randy arozarena",
+      "pitcher": "mason englert",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "66": {
       "player": "jp crawford",
       "pitcher": "mason englert",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "65": {
@@ -3912,6 +3918,12 @@
     }
   },
   "atl @ chc": {
+    "57": {
+      "player": "michael harris",
+      "pitcher": "taylor rogers",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "56": {
       "player": "luke williams",
       "pitcher": "taylor rogers",
@@ -4250,6 +4262,12 @@
     }
   },
   "chw @ min": {
+    "57": {
+      "player": "luke keaschall",
+      "pitcher": "brandon eisert",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "56": {
       "player": "trevor larnach",
       "pitcher": "brandon eisert",
@@ -4582,10 +4600,16 @@
     }
   },
   "phi @ mil": {
+    "56": {
+      "player": "kyle schwarber",
+      "pitcher": "aaron ashby",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "55": {
       "player": "trea turner",
       "pitcher": "aaron ashby",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "54": {
@@ -4917,8 +4941,8 @@
     "56": {
       "player": "nick kurtz",
       "pitcher": "kyle leahy",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "55": {
       "player": "jacob wilson",
@@ -5252,12 +5276,6 @@
     }
   },
   "nyy @ hou": {
-    "42": {
-      "player": "ben rice",
-      "pitcher": "steven okert",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "41": {
       "player": "taylor trammell",
       "pitcher": "will warren",
