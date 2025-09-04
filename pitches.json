@@ -2170,16 +2170,10 @@
     }
   },
   "tor @ cin": {
-    "65": {
-      "player": "elly de la cruz",
-      "pitcher": "ryan borucki",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "64": {
       "player": "noelvi marte",
       "pitcher": "ryan borucki",
-      "result": "In play, run(s)",
+      "result": "Ball In Dirt",
       "pitch": "Sinker"
     },
     "63": {
@@ -2909,7 +2903,7 @@
     "43": {
       "player": "chandler simpson",
       "pitcher": "emerson hancock",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "42": {
@@ -3170,7 +3164,7 @@
       "player": "bryce teodosio",
       "pitcher": "ryan bergert",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "32": {
       "player": "oswald peraza",
@@ -3790,6 +3784,12 @@
     }
   },
   "phi @ mil": {
+    "37": {
+      "player": "edmundo sosa",
+      "pitcher": "jose quintana",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "36": {
       "player": "nick castellanos",
       "pitcher": "jose quintana",
@@ -4208,12 +4208,6 @@
     }
   },
   "nyy @ hou": {
-    "22": {
-      "player": "taylor trammell",
-      "pitcher": "will warren",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "21": {
       "player": "ramon urias",
       "pitcher": "will warren",
@@ -4342,11 +4336,17 @@
     }
   },
   "sf @ col": {
+    "9": {
+      "player": "drew gilbert",
+      "pitcher": "german marquez",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "8": {
       "player": "wilmer flores",
       "pitcher": "german marquez",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "matt chapman",
