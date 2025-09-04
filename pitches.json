@@ -2703,8 +2703,8 @@
     "73": {
       "player": "kyle manzardo",
       "pitcher": "dustin may",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "72": {
       "player": "jose ramirez",
@@ -3511,8 +3511,8 @@
     "48": {
       "player": "bryce teodosio",
       "pitcher": "jonathan bowlan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "47": {
       "player": "oswald peraza",
@@ -4412,7 +4412,7 @@
       "player": "joey ortiz",
       "pitcher": "max lazar",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Knuckle Curve"
     },
     "50": {
       "player": "anthony seigler",
@@ -5018,11 +5018,17 @@
     }
   },
   "nyy @ hou": {
+    "36": {
+      "player": "giancarlo stanton",
+      "pitcher": "jason alexander",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "jazz chisholm",
       "pitcher": "jason alexander",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "cody bellinger",
