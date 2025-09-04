@@ -2170,10 +2170,16 @@
     }
   },
   "tor @ cin": {
+    "65": {
+      "player": "elly de la cruz",
+      "pitcher": "ryan borucki",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "noelvi marte",
       "pitcher": "ryan borucki",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "63": {
@@ -2553,8 +2559,8 @@
     "58": {
       "player": "nick sogard",
       "pitcher": "jakob junis",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "jhonkensy noel",
@@ -2904,7 +2910,7 @@
       "player": "chandler simpson",
       "pitcher": "emerson hancock",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "42": {
       "player": "bob seymour",
@@ -4008,11 +4014,23 @@
     }
   },
   "ath @ stl": {
+    "35": {
+      "player": "shea langeliers",
+      "pitcher": "matthew liberatore",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
+    "34": {
+      "player": "willie maciver",
+      "pitcher": "matthew liberatore",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "lawrence butler",
       "pitcher": "matthew liberatore",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "32": {
       "player": "pedro pages",
@@ -4336,17 +4354,11 @@
     }
   },
   "sf @ col": {
-    "9": {
-      "player": "drew gilbert",
-      "pitcher": "german marquez",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
-    },
     "8": {
       "player": "wilmer flores",
       "pitcher": "german marquez",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "7": {
       "player": "matt chapman",
