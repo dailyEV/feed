@@ -1796,6 +1796,18 @@
     }
   },
   "lad @ pit": {
+    "52": {
+      "player": "joey bart",
+      "pitcher": "ben casparius",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
+    "51": {
+      "player": "oneil cruz",
+      "pitcher": "ben casparius",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "50": {
       "player": "nick gonzales",
       "pitcher": "ben casparius",
@@ -2098,12 +2110,6 @@
     }
   },
   "tor @ cin": {
-    "54": {
-      "player": "spencer steer",
-      "pitcher": "shane bieber",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "53": {
       "player": "gavin lux",
       "pitcher": "shane bieber",
@@ -2893,8 +2899,8 @@
     "23": {
       "player": "vinnie pasquantino",
       "pitcher": "caden dana",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "bobby witt",
@@ -3185,8 +3191,8 @@
     "25": {
       "player": "trevor larnach",
       "pitcher": "yoendrys gomez",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "byron buxton",
@@ -3474,11 +3480,17 @@
     }
   },
   "ath @ stl": {
+    "24": {
+      "player": "lars nootbaar",
+      "pitcher": "jeffrey springs",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "ivan herrera",
       "pitcher": "jeffrey springs",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Slider"
     },
     "22": {
       "player": "masyn winn",
