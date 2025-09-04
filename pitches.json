@@ -2400,17 +2400,11 @@
     }
   },
   "cle @ bos": {
-    "47": {
-      "player": "cj kayfus",
-      "pitcher": "zack kelly",
-      "result": "Foul Tip",
-      "pitch": "Cutter"
-    },
     "46": {
       "player": "gabriel arias",
       "pitcher": "zack kelly",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "45": {
       "player": "trevor story",
@@ -2688,7 +2682,7 @@
       "player": "chandler simpson",
       "pitcher": "eduard bazardo",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "27": {
       "player": "bob seymour",
@@ -2854,6 +2848,12 @@
     }
   },
   "laa @ kc": {
+    "20": {
+      "player": "kyle isbel",
+      "pitcher": "caden dana",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
+    },
     "19": {
       "player": "jac caglianone",
       "pitcher": "caden dana",
@@ -2970,6 +2970,12 @@
     }
   },
   "atl @ chc": {
+    "23": {
+      "player": "matt olson",
+      "pitcher": "cade horton",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "seiya suzuki",
       "pitcher": "bryce elder",
@@ -3104,6 +3110,12 @@
     }
   },
   "chw @ min": {
+    "24": {
+      "player": "byron buxton",
+      "pitcher": "yoendrys gomez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "edgar quero",
       "pitcher": "zebby matthews",
