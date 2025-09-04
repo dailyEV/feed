@@ -2616,12 +2616,6 @@
     }
   },
   "cle @ bos": {
-    "63": {
-      "player": "george valera",
-      "pitcher": "dustin may",
-      "result": "In play, no out",
-      "pitch": "Cutter"
-    },
     "62": {
       "player": "bo naylor",
       "pitcher": "dustin may",
@@ -3000,7 +2994,7 @@
       "player": "randy arozarena",
       "pitcher": "adrian houser",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "49": {
       "player": "jp crawford",
@@ -3525,8 +3519,8 @@
     "41": {
       "player": "seiya suzuki",
       "pitcher": "bryce elder",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "40": {
       "player": "michael busch",
@@ -4012,11 +4006,17 @@
     }
   },
   "phi @ mil": {
+    "43": {
+      "player": "sal frelick",
+      "pitcher": "aaron nola",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "42": {
       "player": "william contreras",
       "pitcher": "aaron nola",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Knuckle Curve"
     },
     "41": {
       "player": "bryce harper",
@@ -4669,7 +4669,7 @@
     "15": {
       "player": "patrick bailey",
       "pitcher": "german marquez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "14": {
