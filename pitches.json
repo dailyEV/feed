@@ -1796,10 +1796,16 @@
     }
   },
   "lad @ pit": {
+    "65": {
+      "player": "andy pages",
+      "pitcher": "isaac mattson",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "alex call",
       "pitcher": "isaac mattson",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -2185,8 +2191,8 @@
     "65": {
       "player": "elly de la cruz",
       "pitcher": "ryan borucki",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "64": {
       "player": "noelvi marte",
@@ -2930,6 +2936,12 @@
     }
   },
   "sea @ tb": {
+    "45": {
+      "player": "brandon lowe",
+      "pitcher": "emerson hancock",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "yandy diaz",
       "pitcher": "emerson hancock",
@@ -3408,12 +3420,6 @@
     }
   },
   "atl @ chc": {
-    "38": {
-      "player": "matt olson",
-      "pitcher": "ben brown",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "37": {
       "player": "ronald acuna",
       "pitcher": "ben brown",
@@ -4104,6 +4110,12 @@
     }
   },
   "ath @ stl": {
+    "38": {
+      "player": "victor scott",
+      "pitcher": "jeffrey springs",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "37": {
       "player": "jordan walker",
       "pitcher": "jeffrey springs",
