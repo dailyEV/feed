@@ -1799,7 +1799,7 @@
     "42": {
       "player": "spencer horwitz",
       "pitcher": "emmet sheehan",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "41": {
@@ -2534,11 +2534,17 @@
     }
   },
   "sea @ tb": {
+    "19": {
+      "player": "junior caminero",
+      "pitcher": "george kirby",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "18": {
       "player": "brandon lowe",
       "pitcher": "george kirby",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "17": {
       "player": "yandy diaz",
@@ -2730,11 +2736,17 @@
     }
   },
   "atl @ chc": {
+    "15": {
+      "player": "matt shaw",
+      "pitcher": "bryce elder",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "14": {
       "player": "willi castro",
       "pitcher": "bryce elder",
-      "result": "Ball In Dirt",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "13": {
       "player": "dansby swanson",
@@ -2819,8 +2831,8 @@
     "15": {
       "player": "chase meidroth",
       "pitcher": "zebby matthews",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "14": {
       "player": "michael a taylor",
