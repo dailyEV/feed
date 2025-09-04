@@ -2050,6 +2050,12 @@
     }
   },
   "tor @ cin": {
+    "42": {
+      "player": "alejandro kirk",
+      "pitcher": "nick martinez",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "daulton varsho",
       "pitcher": "nick martinez",
@@ -2653,8 +2659,8 @@
     "14": {
       "player": "oswald peraza",
       "pitcher": "ryan bergert",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul Bunt",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "adam frazier",
@@ -2914,10 +2920,16 @@
     }
   },
   "phi @ mil": {
+    "14": {
+      "player": "harrison bader",
+      "pitcher": "jose quintana",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "alec bohm",
       "pitcher": "jose quintana",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "12": {
