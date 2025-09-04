@@ -1799,8 +1799,8 @@
     "39": {
       "player": "dalton rushing",
       "pitcher": "mike burrows",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "38": {
       "player": "mookie betts",
@@ -2265,8 +2265,8 @@
     "38": {
       "player": "nick sogard",
       "pitcher": "joey cantillo",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "ceddanne rafaela",
@@ -2495,7 +2495,7 @@
     "16": {
       "player": "chandler simpson",
       "pitcher": "george kirby",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "15": {
@@ -2590,6 +2590,12 @@
     }
   },
   "laa @ kc": {
+    "12": {
+      "player": "salvador perez",
+      "pitcher": "caden dana",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "11": {
       "player": "maikel garcia",
       "pitcher": "caden dana",
@@ -2658,6 +2664,12 @@
     }
   },
   "atl @ chc": {
+    "13": {
+      "player": "dansby swanson",
+      "pitcher": "bryce elder",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "12": {
       "player": "carlos santana",
       "pitcher": "bryce elder",
@@ -2736,7 +2748,7 @@
       "player": "brooks baldwin",
       "pitcher": "zebby matthews",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "Cutter"
     },
     "12": {
       "player": "curtis mead",
@@ -2806,6 +2818,18 @@
     }
   },
   "phi @ mil": {
+    "11": {
+      "player": "jake bauers",
+      "pitcher": "aaron nola",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "10": {
+      "player": "blake perkins",
+      "pitcher": "aaron nola",
+      "result": "Foul Tip",
+      "pitch": "Knuckle Curve"
+    },
     "9": {
       "player": "isaac collins",
       "pitcher": "aaron nola",
@@ -2862,6 +2886,12 @@
     }
   },
   "ath @ stl": {
+    "10": {
+      "player": "darell hernaiz",
+      "pitcher": "matthew liberatore",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "zack gelof",
       "pitcher": "matthew liberatore",
