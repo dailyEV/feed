@@ -1796,6 +1796,12 @@
     }
   },
   "lad @ pit": {
+    "37": {
+      "player": "shohei ohtani",
+      "pitcher": "mike burrows",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "cam devanney",
       "pitcher": "emmet sheehan",
@@ -2017,7 +2023,7 @@
     "37": {
       "player": "george springer",
       "pitcher": "zack littell",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "36": {
@@ -2447,8 +2453,8 @@
     "14": {
       "player": "jorge polanco",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "eugenio suarez",
@@ -2595,8 +2601,8 @@
     "10": {
       "player": "ha seong kim",
       "pitcher": "cade horton",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "9": {
       "player": "michael harris",
@@ -2707,8 +2713,8 @@
     "8": {
       "player": "sal frelick",
       "pitcher": "aaron nola",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Knuckle Curve"
     },
     "7": {
       "player": "william contreras",
