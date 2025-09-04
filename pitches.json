@@ -2188,6 +2188,12 @@
     }
   },
   "tor @ cin": {
+    "66": {
+      "player": "ernie clement",
+      "pitcher": "lyon richardson",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "65": {
       "player": "elly de la cruz",
       "pitcher": "ryan borucki",
@@ -3223,7 +3229,7 @@
     "35": {
       "player": "jac caglianone",
       "pitcher": "caden dana",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -3665,8 +3671,8 @@
     "39": {
       "player": "byron buxton",
       "pitcher": "yoendrys gomez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "38": {
       "player": "kyle teel",
@@ -3892,11 +3898,17 @@
     }
   },
   "phi @ mil": {
+    "41": {
+      "player": "bryce harper",
+      "pitcher": "jose quintana",
+      "result": "Swinging Strike",
+      "pitch": "Slurve"
+    },
     "40": {
       "player": "kyle schwarber",
       "pitcher": "jose quintana",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul Tip",
+      "pitch": "Slurve"
     },
     "39": {
       "player": "trea turner",
@@ -4373,7 +4385,7 @@
     "24": {
       "player": "giancarlo stanton",
       "pitcher": "jason alexander",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "23": {
@@ -4519,8 +4531,8 @@
     "12": {
       "player": "brenton doyle",
       "pitcher": "robbie ray",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "jordan beck",
