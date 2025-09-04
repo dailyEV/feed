@@ -2185,8 +2185,8 @@
     "65": {
       "player": "elly de la cruz",
       "pitcher": "ryan borucki",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "64": {
       "player": "noelvi marte",
@@ -2571,7 +2571,7 @@
     "60": {
       "player": "nathaniel lowe",
       "pitcher": "jakob junis",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "59": {
@@ -2933,8 +2933,8 @@
     "44": {
       "player": "yandy diaz",
       "pitcher": "emerson hancock",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "chandler simpson",
@@ -3405,8 +3405,8 @@
     "37": {
       "player": "ronald acuna",
       "pitcher": "ben brown",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "nacho alvarez",
@@ -3629,8 +3629,8 @@
     "38": {
       "player": "kyle teel",
       "pitcher": "zebby matthews",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "37": {
       "player": "chase meidroth",
@@ -4310,11 +4310,17 @@
     }
   },
   "nyy @ hou": {
+    "23": {
+      "player": "jeremy pena",
+      "pitcher": "will warren",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "22": {
       "player": "taylor trammell",
       "pitcher": "will warren",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "ramon urias",
