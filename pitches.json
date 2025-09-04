@@ -1796,6 +1796,12 @@
     }
   },
   "lad @ pit": {
+    "64": {
+      "player": "alex call",
+      "pitcher": "isaac mattson",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "63": {
       "player": "teoscar hernandez",
       "pitcher": "isaac mattson",
@@ -2176,10 +2182,16 @@
     }
   },
   "tor @ cin": {
+    "65": {
+      "player": "elly de la cruz",
+      "pitcher": "ryan borucki",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "noelvi marte",
       "pitcher": "ryan borucki",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "63": {
@@ -2915,8 +2927,8 @@
     "43": {
       "player": "chandler simpson",
       "pitcher": "emerson hancock",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "42": {
       "player": "bob seymour",
@@ -4014,6 +4026,12 @@
     }
   },
   "ath @ stl": {
+    "36": {
+      "player": "jacob wilson",
+      "pitcher": "matthew liberatore",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "shea langeliers",
       "pitcher": "matthew liberatore",
@@ -4230,7 +4248,7 @@
       "player": "taylor trammell",
       "pitcher": "will warren",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "21": {
       "player": "ramon urias",
@@ -4360,11 +4378,17 @@
     }
   },
   "sf @ col": {
+    "9": {
+      "player": "drew gilbert",
+      "pitcher": "german marquez",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "8": {
       "player": "wilmer flores",
       "pitcher": "german marquez",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "matt chapman",
