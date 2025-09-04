@@ -1799,7 +1799,7 @@
     "64": {
       "player": "alex call",
       "pitcher": "isaac mattson",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -2185,8 +2185,8 @@
     "65": {
       "player": "elly de la cruz",
       "pitcher": "ryan borucki",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "64": {
       "player": "noelvi marte",
@@ -2571,7 +2571,7 @@
     "60": {
       "player": "nathaniel lowe",
       "pitcher": "jakob junis",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "59": {
@@ -2930,6 +2930,12 @@
     }
   },
   "sea @ tb": {
+    "45": {
+      "player": "brandon lowe",
+      "pitcher": "emerson hancock",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "yandy diaz",
       "pitcher": "emerson hancock",
@@ -3199,8 +3205,8 @@
     "34": {
       "player": "michael massey",
       "pitcher": "caden dana",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "33": {
       "player": "bryce teodosio",
@@ -3405,8 +3411,8 @@
     "37": {
       "player": "ronald acuna",
       "pitcher": "ben brown",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "36": {
       "player": "nacho alvarez",
@@ -3629,8 +3635,8 @@
     "38": {
       "player": "kyle teel",
       "pitcher": "zebby matthews",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "chase meidroth",
@@ -4313,8 +4319,8 @@
     "23": {
       "player": "jeremy pena",
       "pitcher": "will warren",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "taylor trammell",
