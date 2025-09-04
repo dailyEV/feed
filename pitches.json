@@ -3224,10 +3224,16 @@
     }
   },
   "sea @ tb": {
+    "75": {
+      "player": "eugenio suarez",
+      "pitcher": "mason englert",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "74": {
       "player": "leo rivas",
       "pitcher": "mason englert",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "73": {
@@ -4780,6 +4786,12 @@
     }
   },
   "phi @ mil": {
+    "62": {
+      "player": "alec bohm",
+      "pitcher": "abner uribe",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "61": {
       "player": "william contreras",
       "pitcher": "orion kerkering",
@@ -5151,7 +5163,7 @@
     "63": {
       "player": "ivan herrera",
       "pitcher": "tyler ferguson",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "62": {
@@ -5531,7 +5543,7 @@
     "49": {
       "player": "jose altuve",
       "pitcher": "fernando cruz",
-      "result": "Swinging Strike",
+      "result": "In play, run(s)",
       "pitch": "Splitter"
     },
     "48": {
