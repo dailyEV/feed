@@ -2828,10 +2828,16 @@
     }
   },
   "sea @ tb": {
+    "38": {
+      "player": "carson williams",
+      "pitcher": "emerson hancock",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "hunter feduccia",
       "pitcher": "emerson hancock",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "36": {
@@ -3407,8 +3413,8 @@
     "32": {
       "player": "brooks lee",
       "pitcher": "yoendrys gomez",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "ryan jeffers",
@@ -3592,6 +3598,12 @@
     }
   },
   "phi @ mil": {
+    "31": {
+      "player": "jake bauers",
+      "pitcher": "aaron nola",
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
+    },
     "30": {
       "player": "harrison bader",
       "pitcher": "jose quintana",
@@ -4051,7 +4063,7 @@
     "3": {
       "player": "willy adames",
       "pitcher": "german marquez",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "2": {
