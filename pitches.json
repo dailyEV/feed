@@ -1799,8 +1799,8 @@
     "49": {
       "player": "andrew mccutchen",
       "pitcher": "ben casparius",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "alex freeland",
@@ -2095,7 +2095,7 @@
     "52": {
       "player": "austin hays",
       "pitcher": "shane bieber",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "51": {
@@ -2687,7 +2687,7 @@
     "28": {
       "player": "chandler simpson",
       "pitcher": "eduard bazardo",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "27": {
@@ -2854,6 +2854,12 @@
     }
   },
   "laa @ kc": {
+    "21": {
+      "player": "mike yastrzemski",
+      "pitcher": "caden dana",
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
+    },
     "20": {
       "player": "kyle isbel",
       "pitcher": "caden dana",
@@ -2976,6 +2982,12 @@
     }
   },
   "atl @ chc": {
+    "24": {
+      "player": "ozzie albies",
+      "pitcher": "cade horton",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "matt olson",
       "pitcher": "cade horton",
@@ -3119,8 +3131,8 @@
     "24": {
       "player": "byron buxton",
       "pitcher": "yoendrys gomez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "23": {
       "player": "edgar quero",
@@ -3259,7 +3271,7 @@
     "23": {
       "player": "kyle schwarber",
       "pitcher": "jose quintana",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "22": {
@@ -3396,6 +3408,18 @@
     }
   },
   "ath @ stl": {
+    "22": {
+      "player": "masyn winn",
+      "pitcher": "jeffrey springs",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
+    "21": {
+      "player": "victor scott",
+      "pitcher": "jeffrey springs",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "nick kurtz",
       "pitcher": "matthew liberatore",
