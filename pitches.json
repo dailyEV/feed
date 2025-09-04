@@ -4397,8 +4397,8 @@
     "63": {
       "player": "lenyn sosa",
       "pitcher": "cole sands",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "kyle teel",
@@ -5140,7 +5140,7 @@
       "player": "masyn winn",
       "pitcher": "tyler ferguson",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "victor scott",
@@ -5510,10 +5510,16 @@
     }
   },
   "nyy @ hou": {
+    "49": {
+      "player": "jose altuve",
+      "pitcher": "fernando cruz",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "48": {
       "player": "yordan alvarez",
       "pitcher": "fernando cruz",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Splitter"
     },
     "47": {
@@ -5803,8 +5809,8 @@
     "39": {
       "player": "drew gilbert",
       "pitcher": "german marquez",
-      "result": "Ball In Dirt",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "38": {
       "player": "wilmer flores",
