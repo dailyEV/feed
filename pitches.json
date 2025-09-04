@@ -1799,7 +1799,7 @@
     "55": {
       "player": "shohei ohtani",
       "pitcher": "evan sisk",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "54": {
@@ -2128,6 +2128,12 @@
     }
   },
   "tor @ cin": {
+    "58": {
+      "player": "ty france",
+      "pitcher": "lyon richardson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "alejandro kirk",
       "pitcher": "lyon richardson",
@@ -2765,8 +2771,8 @@
     "33": {
       "player": "cal raleigh",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "randy arozarena",
@@ -2965,8 +2971,8 @@
     "25": {
       "player": "jo adell",
       "pitcher": "ryan bergert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "24": {
       "player": "taylor ward",
@@ -3448,11 +3454,17 @@
     }
   },
   "phi @ mil": {
+    "27": {
+      "player": "blake perkins",
+      "pitcher": "aaron nola",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "26": {
       "player": "isaac collins",
       "pitcher": "aaron nola",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "25": {
       "player": "sal frelick",
@@ -3606,6 +3618,12 @@
     }
   },
   "ath @ stl": {
+    "26": {
+      "player": "brent rooker",
+      "pitcher": "matthew liberatore",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "25": {
       "player": "willson contreras",
       "pitcher": "jeffrey springs",
