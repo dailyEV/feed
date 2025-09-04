@@ -2173,8 +2173,8 @@
     "64": {
       "player": "noelvi marte",
       "pitcher": "ryan borucki",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "63": {
       "player": "tj friedl",
@@ -2550,6 +2550,12 @@
     }
   },
   "cle @ bos": {
+    "58": {
+      "player": "nick sogard",
+      "pitcher": "jakob junis",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "57": {
       "player": "jhonkensy noel",
       "pitcher": "dustin may",
@@ -2894,6 +2900,12 @@
     }
   },
   "sea @ tb": {
+    "43": {
+      "player": "chandler simpson",
+      "pitcher": "emerson hancock",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "42": {
       "player": "bob seymour",
       "pitcher": "emerson hancock",
@@ -3148,11 +3160,17 @@
     }
   },
   "laa @ kc": {
-    "32": {
-      "player": "oswald peraza",
+    "33": {
+      "player": "bryce teodosio",
       "pitcher": "ryan bergert",
       "result": "Called Strike",
       "pitch": "Sweeper"
+    },
+    "32": {
+      "player": "oswald peraza",
+      "pitcher": "ryan bergert",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "logan ohoppe",
@@ -3342,6 +3360,12 @@
     }
   },
   "atl @ chc": {
+    "36": {
+      "player": "nacho alvarez",
+      "pitcher": "ben brown",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "35": {
       "player": "eli white",
       "pitcher": "ben brown",
@@ -4306,12 +4330,6 @@
     }
   },
   "sf @ col": {
-    "8": {
-      "player": "wilmer flores",
-      "pitcher": "german marquez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "7": {
       "player": "matt chapman",
       "pitcher": "german marquez",
