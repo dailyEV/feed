@@ -1799,8 +1799,8 @@
     "47": {
       "player": "andy pages",
       "pitcher": "mike burrows",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "46": {
       "player": "alex call",
@@ -2080,11 +2080,17 @@
     }
   },
   "tor @ cin": {
+    "47": {
+      "player": "andres gimenez",
+      "pitcher": "nick martinez",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "ty france",
       "pitcher": "nick martinez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "elly de la cruz",
@@ -3133,8 +3139,8 @@
     "19": {
       "player": "william contreras",
       "pitcher": "aaron nola",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "18": {
       "player": "jackson chourio",
@@ -3350,6 +3356,12 @@
     }
   },
   "nyy @ hou": {
+    "6": {
+      "player": "yordan alvarez",
+      "pitcher": "will warren",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "jeremy pena",
       "pitcher": "will warren",
