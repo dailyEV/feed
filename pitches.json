@@ -1799,8 +1799,8 @@
     "57": {
       "player": "dalton rushing",
       "pitcher": "evan sisk",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "mookie betts",
@@ -2798,12 +2798,6 @@
     }
   },
   "sea @ tb": {
-    "35": {
-      "player": "josh lowe",
-      "pitcher": "emerson hancock",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "34": {
       "player": "julio rodriguez",
       "pitcher": "adrian houser",
@@ -3013,8 +3007,8 @@
     "25": {
       "player": "jo adell",
       "pitcher": "ryan bergert",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "taylor ward",
@@ -3162,6 +3156,12 @@
     }
   },
   "atl @ chc": {
+    "30": {
+      "player": "michael harris",
+      "pitcher": "cade horton",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "29": {
       "player": "marcell ozuna",
       "pitcher": "cade horton",
@@ -3842,6 +3842,12 @@
     }
   },
   "nyy @ hou": {
+    "15": {
+      "player": "yainer diaz",
+      "pitcher": "will warren",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "14": {
       "player": "jesus sanchez",
       "pitcher": "will warren",
