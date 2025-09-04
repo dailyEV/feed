@@ -2143,8 +2143,8 @@
     "60": {
       "player": "kebryan hayes",
       "pitcher": "tommy nance",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "59": {
       "player": "andres gimenez",
@@ -2499,8 +2499,8 @@
     "52": {
       "player": "jarren duran",
       "pitcher": "joey cantillo",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "rob refsnyder",
@@ -3556,12 +3556,6 @@
     }
   },
   "phi @ mil": {
-    "30": {
-      "player": "harrison bader",
-      "pitcher": "jose quintana",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "29": {
       "player": "alec bohm",
       "pitcher": "jose quintana",
@@ -3741,7 +3735,7 @@
     "28": {
       "player": "zack gelof",
       "pitcher": "matthew liberatore",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "27": {
@@ -3908,6 +3902,12 @@
     }
   },
   "nyy @ hou": {
+    "16": {
+      "player": "victor caratini",
+      "pitcher": "will warren",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "15": {
       "player": "yainer diaz",
       "pitcher": "will warren",
@@ -4000,10 +4000,22 @@
     }
   },
   "sf @ col": {
+    "3": {
+      "player": "willy adames",
+      "pitcher": "german marquez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "2": {
+      "player": "rafael devers",
+      "pitcher": "german marquez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "1": {
       "player": "heliot ramos",
       "pitcher": "german marquez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     }
   }
