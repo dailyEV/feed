@@ -1796,12 +1796,6 @@
     }
   },
   "lad @ pit": {
-    "42": {
-      "player": "spencer horwitz",
-      "pitcher": "emmet sheehan",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "41": {
       "player": "jared triolo",
       "pitcher": "emmet sheehan",
@@ -2050,18 +2044,6 @@
     }
   },
   "tor @ cin": {
-    "41": {
-      "player": "daulton varsho",
-      "pitcher": "nick martinez",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
-    "40": {
-      "player": "bo bichette",
-      "pitcher": "nick martinez",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
     "39": {
       "player": "vladimir guerrero",
       "pitcher": "nick martinez",
@@ -2537,8 +2519,8 @@
     "18": {
       "player": "brandon lowe",
       "pitcher": "george kirby",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "yandy diaz",
@@ -2810,11 +2792,17 @@
     }
   },
   "chw @ min": {
+    "15": {
+      "player": "chase meidroth",
+      "pitcher": "zebby matthews",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "14": {
       "player": "michael a taylor",
       "pitcher": "zebby matthews",
       "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "pitch": "Slider"
     },
     "13": {
       "player": "brooks baldwin",
@@ -2967,7 +2955,7 @@
     "11": {
       "player": "lawrence butler",
       "pitcher": "matthew liberatore",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "10": {
