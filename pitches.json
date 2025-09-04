@@ -2709,7 +2709,7 @@
     "75": {
       "player": "ceddanne rafaela",
       "pitcher": "erik sabrowski",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "74": {
@@ -3158,11 +3158,17 @@
     }
   },
   "sea @ tb": {
+    "65": {
+      "player": "brandon lowe",
+      "pitcher": "tayler saucedo",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "64": {
       "player": "yandy diaz",
       "pitcher": "tayler saucedo",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "63": {
       "player": "chandler simpson",
@@ -3544,6 +3550,12 @@
     }
   },
   "laa @ kc": {
+    "51": {
+      "player": "adam frazier",
+      "pitcher": "robert stephenson",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "50": {
       "player": "salvador perez",
       "pitcher": "robert stephenson",
@@ -4489,7 +4501,7 @@
     "53": {
       "player": "edmundo sosa",
       "pitcher": "jose quintana",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "52": {
@@ -4806,11 +4818,17 @@
     }
   },
   "ath @ stl": {
+    "53": {
+      "player": "pedro pages",
+      "pitcher": "elvis alvarado",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "52": {
       "player": "nolan gorman",
       "pitcher": "elvis alvarado",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "51": {
       "player": "thomas saggese",
