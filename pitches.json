@@ -1799,7 +1799,7 @@
     "57": {
       "player": "dalton rushing",
       "pitcher": "evan sisk",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Sinker"
     },
     "56": {
@@ -2804,17 +2804,11 @@
     }
   },
   "sea @ tb": {
-    "36": {
-      "player": "jake mangum",
-      "pitcher": "emerson hancock",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "35": {
       "player": "josh lowe",
       "pitcher": "emerson hancock",
-      "result": "In play, no out",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "julio rodriguez",
@@ -3022,6 +3016,12 @@
     }
   },
   "laa @ kc": {
+    "26": {
+      "player": "luis rengifo",
+      "pitcher": "ryan bergert",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "25": {
       "player": "jo adell",
       "pitcher": "ryan bergert",
@@ -3362,6 +3362,12 @@
     }
   },
   "chw @ min": {
+    "30": {
+      "player": "matt wallner",
+      "pitcher": "yoendrys gomez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "brooks baldwin",
       "pitcher": "zebby matthews",
@@ -3711,8 +3717,8 @@
     "28": {
       "player": "zack gelof",
       "pitcher": "matthew liberatore",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "colby thomas",
