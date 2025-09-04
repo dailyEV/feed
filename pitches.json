@@ -1796,6 +1796,12 @@
     }
   },
   "lad @ pit": {
+    "47": {
+      "player": "andy pages",
+      "pitcher": "mike burrows",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "alex call",
       "pitcher": "mike burrows",
@@ -2074,11 +2080,17 @@
     }
   },
   "tor @ cin": {
+    "47": {
+      "player": "andres gimenez",
+      "pitcher": "nick martinez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "46": {
       "player": "ty france",
       "pitcher": "nick martinez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "elly de la cruz",
@@ -2352,6 +2364,12 @@
     }
   },
   "cle @ bos": {
+    "44": {
+      "player": "alex bregman",
+      "pitcher": "joey cantillo",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "43": {
       "player": "nate eaton",
       "pitcher": "joey cantillo",
@@ -2871,8 +2889,8 @@
     "20": {
       "player": "nico hoerner",
       "pitcher": "bryce elder",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "19": {
       "player": "reese mcguire",
@@ -3311,8 +3329,8 @@
     "5": {
       "player": "jeremy pena",
       "pitcher": "will warren",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "4": {
       "player": "jazz chisholm",
