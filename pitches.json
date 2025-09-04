@@ -1799,8 +1799,8 @@
     "53": {
       "player": "cam devanney",
       "pitcher": "ben casparius",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "joey bart",
@@ -2440,7 +2440,7 @@
       "player": "steven kwan",
       "pitcher": "zack kelly",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "48": {
       "player": "brayan rocchio",
@@ -2735,8 +2735,8 @@
     "31": {
       "player": "junior caminero",
       "pitcher": "eduard bazardo",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "brandon lowe",
@@ -3510,6 +3510,12 @@
     }
   },
   "ath @ stl": {
+    "25": {
+      "player": "willson contreras",
+      "pitcher": "jeffrey springs",
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
+    },
     "24": {
       "player": "lars nootbaar",
       "pitcher": "jeffrey springs",
@@ -3656,16 +3662,10 @@
     }
   },
   "nyy @ hou": {
-    "11": {
-      "player": "austin wells",
-      "pitcher": "jason alexander",
-      "result": "In play, no out",
-      "pitch": "Sweeper"
-    },
     "10": {
       "player": "ben rice",
       "pitcher": "jason alexander",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "9": {
