@@ -1799,8 +1799,8 @@
     "48": {
       "player": "alex freeland",
       "pitcher": "mike burrows",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "47": {
       "player": "andy pages",
@@ -2385,8 +2385,8 @@
     "45": {
       "player": "trevor story",
       "pitcher": "joey cantillo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "44": {
       "player": "alex bregman",
@@ -2657,7 +2657,7 @@
     "27": {
       "player": "bob seymour",
       "pitcher": "eduard bazardo",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "26": {
@@ -2937,8 +2937,8 @@
     "22": {
       "player": "seiya suzuki",
       "pitcher": "bryce elder",
-      "result": "Ball In Dirt",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "michael busch",
@@ -3312,6 +3312,12 @@
     }
   },
   "ath @ stl": {
+    "20": {
+      "player": "nick kurtz",
+      "pitcher": "matthew liberatore",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "19": {
       "player": "jacob wilson",
       "pitcher": "matthew liberatore",
