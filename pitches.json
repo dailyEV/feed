@@ -1799,7 +1799,7 @@
     "43": {
       "player": "bryan reynolds",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -2056,12 +2056,6 @@
     }
   },
   "tor @ cin": {
-    "42": {
-      "player": "alejandro kirk",
-      "pitcher": "nick martinez",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "41": {
       "player": "daulton varsho",
       "pitcher": "nick martinez",
@@ -2313,8 +2307,8 @@
     "40": {
       "player": "kyle manzardo",
       "pitcher": "zack kelly",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Changeup"
     },
     "39": {
       "player": "connor wong",
@@ -2671,7 +2665,7 @@
     "14": {
       "player": "oswald peraza",
       "pitcher": "ryan bergert",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "13": {
@@ -3018,6 +3012,12 @@
     }
   },
   "ath @ stl": {
+    "12": {
+      "player": "willson contreras",
+      "pitcher": "jeffrey springs",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "11": {
       "player": "lawrence butler",
       "pitcher": "matthew liberatore",
