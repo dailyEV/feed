@@ -3227,7 +3227,7 @@
     "75": {
       "player": "eugenio suarez",
       "pitcher": "mason englert",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "74": {
@@ -3676,6 +3676,12 @@
     }
   },
   "laa @ kc": {
+    "60": {
+      "player": "kyle isbel",
+      "pitcher": "andrew chafin",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "chris taylor",
       "pitcher": "lucas erceg",
@@ -4032,11 +4038,17 @@
     }
   },
   "atl @ chc": {
+    "66": {
+      "player": "seiya suzuki",
+      "pitcher": "raisel iglesias",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "65": {
       "player": "michael busch",
       "pitcher": "raisel iglesias",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "nico hoerner",
@@ -4427,7 +4439,7 @@
     "65": {
       "player": "edouard julien",
       "pitcher": "grant taylor",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -4813,7 +4825,7 @@
     "63": {
       "player": "harrison bader",
       "pitcher": "abner uribe",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "62": {
@@ -5193,7 +5205,7 @@
     "65": {
       "player": "willson contreras",
       "pitcher": "tyler ferguson",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -5576,6 +5588,12 @@
     }
   },
   "nyy @ hou": {
+    "51": {
+      "player": "jesus sanchez",
+      "pitcher": "fernando cruz",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "50": {
       "player": "carlos correa",
       "pitcher": "fernando cruz",
@@ -5878,11 +5896,17 @@
     }
   },
   "sf @ col": {
+    "41": {
+      "player": "kyle karros",
+      "pitcher": "robbie ray",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "braxton fulford",
       "pitcher": "robbie ray",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "drew gilbert",
