@@ -2227,7 +2227,7 @@
     "78": {
       "player": "sal stewart",
       "pitcher": "louis varland",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "77": {
@@ -3110,11 +3110,17 @@
     }
   },
   "sea @ tb": {
+    "60": {
+      "player": "dominic canzone",
+      "pitcher": "adrian houser",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "jorge polanco",
       "pitcher": "adrian houser",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "eugenio suarez",
@@ -4318,6 +4324,12 @@
     }
   },
   "phi @ mil": {
+    "49": {
+      "player": "jake bauers",
+      "pitcher": "max lazar",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "harrison bader",
       "pitcher": "jose quintana",
