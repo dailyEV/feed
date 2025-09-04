@@ -2631,8 +2631,8 @@
     "12": {
       "player": "carlos santana",
       "pitcher": "bryce elder",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "ian happ",
@@ -2702,11 +2702,23 @@
     }
   },
   "chw @ min": {
+    "13": {
+      "player": "brooks baldwin",
+      "pitcher": "zebby matthews",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
+    "12": {
+      "player": "curtis mead",
+      "pitcher": "zebby matthews",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "andrew benintendi",
       "pitcher": "zebby matthews",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "edgar quero",
