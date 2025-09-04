@@ -2655,7 +2655,7 @@
     "66": {
       "player": "steven kwan",
       "pitcher": "dustin may",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "65": {
@@ -3373,8 +3373,8 @@
     "39": {
       "player": "taylor ward",
       "pitcher": "john schreiber",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "38": {
       "player": "yoan moncada",
@@ -4120,17 +4120,11 @@
     }
   },
   "phi @ mil": {
-    "45": {
-      "player": "blake perkins",
-      "pitcher": "aaron nola",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
-    },
     "44": {
       "player": "isaac collins",
       "pitcher": "aaron nola",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "sal frelick",
@@ -4649,7 +4643,7 @@
     "29": {
       "player": "trent grisham",
       "pitcher": "jason alexander",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "28": {
@@ -4822,10 +4816,16 @@
     }
   },
   "sf @ col": {
+    "19": {
+      "player": "matt chapman",
+      "pitcher": "german marquez",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "18": {
       "player": "willy adames",
       "pitcher": "german marquez",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "17": {
