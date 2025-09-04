@@ -2056,6 +2056,12 @@
     }
   },
   "tor @ cin": {
+    "42": {
+      "player": "alejandro kirk",
+      "pitcher": "nick martinez",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "daulton varsho",
       "pitcher": "nick martinez",
@@ -2304,6 +2310,12 @@
     }
   },
   "cle @ bos": {
+    "40": {
+      "player": "kyle manzardo",
+      "pitcher": "zack kelly",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "connor wong",
       "pitcher": "joey cantillo",
@@ -2543,8 +2555,8 @@
     "19": {
       "player": "junior caminero",
       "pitcher": "george kirby",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "brandon lowe",
@@ -2745,8 +2757,8 @@
     "15": {
       "player": "matt shaw",
       "pitcher": "bryce elder",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "willi castro",
@@ -3073,6 +3085,13 @@
       "pitch": "Changeup"
     }
   },
-  "nyy @ hou": {},
+  "nyy @ hou": {
+    "1": {
+      "player": "trent grisham",
+      "pitcher": "jason alexander",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    }
+  },
   "sf @ col": {}
 }
