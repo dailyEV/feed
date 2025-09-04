@@ -2897,7 +2897,7 @@
     "42": {
       "player": "bob seymour",
       "pitcher": "emerson hancock",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "41": {
@@ -3342,6 +3342,12 @@
     }
   },
   "atl @ chc": {
+    "35": {
+      "player": "eli white",
+      "pitcher": "ben brown",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "reese mcguire",
       "pitcher": "bryce elder",
@@ -4176,7 +4182,7 @@
       "player": "ramon urias",
       "pitcher": "will warren",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "jazz chisholm",
@@ -4300,12 +4306,6 @@
     }
   },
   "sf @ col": {
-    "7": {
-      "player": "matt chapman",
-      "pitcher": "german marquez",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "6": {
       "player": "hunter goodman",
       "pitcher": "robbie ray",
