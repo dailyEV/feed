@@ -2570,12 +2570,6 @@
     }
   },
   "sea @ tb": {
-    "22": {
-      "player": "hunter feduccia",
-      "pitcher": "george kirby",
-      "result": "In play, run(s)",
-      "pitch": "Sinker"
-    },
     "21": {
       "player": "jake mangum",
       "pitcher": "george kirby",
@@ -2707,8 +2701,8 @@
     "16": {
       "player": "zach neto",
       "pitcher": "ryan bergert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "15": {
       "player": "bryce teodosio",
@@ -2805,8 +2799,8 @@
     "16": {
       "player": "eli white",
       "pitcher": "cade horton",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "15": {
       "player": "matt shaw",
@@ -2903,7 +2897,7 @@
     "18": {
       "player": "edouard julien",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "17": {
@@ -3096,6 +3090,12 @@
     }
   },
   "ath @ stl": {
+    "14": {
+      "player": "nolan gorman",
+      "pitcher": "jeffrey springs",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "thomas saggese",
       "pitcher": "jeffrey springs",
