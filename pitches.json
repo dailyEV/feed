@@ -2227,8 +2227,8 @@
     "70": {
       "player": "bo bichette",
       "pitcher": "yosver zulueta",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "69": {
       "player": "vladimir guerrero",
@@ -2643,8 +2643,8 @@
     "65": {
       "player": "brayan rocchio",
       "pitcher": "dustin may",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "64": {
       "player": "cj kayfus",
@@ -3032,6 +3032,12 @@
     }
   },
   "sea @ tb": {
+    "52": {
+      "player": "julio rodriguez",
+      "pitcher": "adrian houser",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "cal raleigh",
       "pitcher": "adrian houser",
@@ -3340,12 +3346,6 @@
     }
   },
   "laa @ kc": {
-    "38": {
-      "player": "yoan moncada",
-      "pitcher": "john schreiber",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
     "37": {
       "player": "zach neto",
       "pitcher": "ryan bergert",
@@ -3570,11 +3570,17 @@
     }
   },
   "atl @ chc": {
+    "43": {
+      "player": "drake baldwin",
+      "pitcher": "ben brown",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "42": {
       "player": "ozzie albies",
       "pitcher": "ben brown",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
     },
     "41": {
       "player": "seiya suzuki",
@@ -3827,8 +3833,8 @@
     "42": {
       "player": "matt wallner",
       "pitcher": "yoendrys gomez",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "luke keaschall",
@@ -4075,8 +4081,8 @@
     "44": {
       "player": "isaac collins",
       "pitcher": "aaron nola",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "sal frelick",
@@ -4341,8 +4347,8 @@
     "42": {
       "player": "tyler soderstrom",
       "pitcher": "kyle leahy",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "41": {
       "player": "brent rooker",
@@ -4762,6 +4768,12 @@
     }
   },
   "sf @ col": {
+    "17": {
+      "player": "rafael devers",
+      "pitcher": "german marquez",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "heliot ramos",
       "pitcher": "german marquez",
