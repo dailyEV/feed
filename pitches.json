@@ -2589,8 +2589,8 @@
     "62": {
       "player": "bo naylor",
       "pitcher": "dustin may",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "61": {
       "player": "alex bregman",
@@ -2963,8 +2963,8 @@
     "47": {
       "player": "dominic canzone",
       "pitcher": "adrian houser",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "46": {
       "player": "junior caminero",
@@ -3247,8 +3247,8 @@
     "35": {
       "player": "jac caglianone",
       "pitcher": "caden dana",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "michael massey",
@@ -3456,6 +3456,12 @@
     }
   },
   "atl @ chc": {
+    "39": {
+      "player": "nico hoerner",
+      "pitcher": "bryce elder",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "38": {
       "player": "matt olson",
       "pitcher": "ben brown",
@@ -3689,8 +3695,8 @@
     "39": {
       "player": "byron buxton",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "38": {
       "player": "kyle teel",
@@ -3919,8 +3925,8 @@
     "41": {
       "player": "bryce harper",
       "pitcher": "jose quintana",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slurve"
     },
     "40": {
       "player": "kyle schwarber",
@@ -4400,10 +4406,22 @@
     }
   },
   "nyy @ hou": {
+    "26": {
+      "player": "austin wells",
+      "pitcher": "jason alexander",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "25": {
+      "player": "ben rice",
+      "pitcher": "jason alexander",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "giancarlo stanton",
       "pitcher": "jason alexander",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "23": {
@@ -4546,12 +4564,6 @@
     }
   },
   "sf @ col": {
-    "13": {
-      "player": "warming bernabel",
-      "pitcher": "robbie ray",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "12": {
       "player": "brenton doyle",
       "pitcher": "robbie ray",
