@@ -2224,6 +2224,12 @@
     }
   },
   "tor @ cin": {
+    "75": {
+      "player": "austin hays",
+      "pitcher": "louis varland",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "74": {
       "player": "andres gimenez",
       "pitcher": "yosver zulueta",
@@ -3684,11 +3690,17 @@
     }
   },
   "atl @ chc": {
+    "48": {
+      "player": "nacho alvarez",
+      "pitcher": "drew pomeranz",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "47": {
       "player": "eli white",
       "pitcher": "drew pomeranz",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "ha seong kim",
@@ -3971,8 +3983,8 @@
     "47": {
       "player": "ryan jeffers",
       "pitcher": "mike vasil",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "46": {
       "player": "andrew benintendi",
@@ -4246,18 +4258,6 @@
     }
   },
   "phi @ mil": {
-    "48": {
-      "player": "harrison bader",
-      "pitcher": "jose quintana",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
-    },
-    "47": {
-      "player": "alec bohm",
-      "pitcher": "jose quintana",
-      "result": "In play, no out",
-      "pitch": "Curveball"
-    },
     "46": {
       "player": "jt realmuto",
       "pitcher": "jose quintana",
@@ -4539,8 +4539,8 @@
     "47": {
       "player": "darell hernaiz",
       "pitcher": "kyle leahy",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "46": {
       "player": "zack gelof",
