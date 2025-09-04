@@ -2501,7 +2501,7 @@
     "17": {
       "player": "yandy diaz",
       "pitcher": "george kirby",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "16": {
@@ -2602,11 +2602,17 @@
     }
   },
   "laa @ kc": {
+    "13": {
+      "player": "adam frazier",
+      "pitcher": "caden dana",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "12": {
       "player": "salvador perez",
       "pitcher": "caden dana",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "maikel garcia",
@@ -2759,8 +2765,8 @@
     "13": {
       "player": "brooks baldwin",
       "pitcher": "zebby matthews",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "curtis mead",
@@ -2901,7 +2907,7 @@
     "10": {
       "player": "darell hernaiz",
       "pitcher": "matthew liberatore",
-      "result": "Called Strike",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "9": {
