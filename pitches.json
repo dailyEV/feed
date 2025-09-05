@@ -711,8 +711,8 @@
     "18": {
       "player": "nick yorke",
       "pitcher": "quinn priester",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "17": {
       "player": "joey bart",
@@ -856,6 +856,12 @@
     }
   },
   "tor @ nyy": {
+    "5": {
+      "player": "daulton varsho",
+      "pitcher": "cam schlittler",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "bo bichette",
       "pitcher": "cam schlittler",
@@ -882,6 +888,12 @@
     }
   },
   "phi @ mia": {
+    "6": {
+      "player": "otto lopez",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "brandon marsh",
       "pitcher": "valente bellozo",
@@ -914,11 +926,17 @@
     }
   },
   "sea @ atl": {
+    "4": {
+      "player": "eugenio suarez",
+      "pitcher": "chris sale",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "julio rodriguez",
       "pitcher": "chris sale",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "2": {
       "player": "cal raleigh",
