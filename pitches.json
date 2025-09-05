@@ -464,6 +464,12 @@
     }
   },
   "nym @ cin": {
+    "25": {
+      "player": "matt mclain",
+      "pitcher": "david peterson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "kebryan hayes",
       "pitcher": "david peterson",
@@ -613,7 +619,7 @@
     "23": {
       "player": "gleyber torres",
       "pitcher": "shane smith",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "22": {
@@ -753,8 +759,8 @@
     "21": {
       "player": "isaac collins",
       "pitcher": "johan oviedo",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "20": {
       "player": "brice turang",
@@ -937,7 +943,7 @@
     "7": {
       "player": "nathan lukes",
       "pitcher": "cam schlittler",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Cutter"
     },
     "6": {
@@ -978,11 +984,17 @@
     }
   },
   "phi @ mia": {
+    "10": {
+      "player": "max kepler",
+      "pitcher": "valente bellozo",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "harrison bader",
       "pitcher": "valente bellozo",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "jakob marsee",
@@ -1034,6 +1046,12 @@
     }
   },
   "sea @ atl": {
+    "7": {
+      "player": "ozzie albies",
+      "pitcher": "logan gilbert",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "6": {
       "player": "matt olson",
       "pitcher": "logan gilbert",
