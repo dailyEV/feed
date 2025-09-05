@@ -464,6 +464,12 @@
     }
   },
   "nym @ cin": {
+    "16": {
+      "player": "pete alonso",
+      "pitcher": "andrew abbott",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
     "15": {
       "player": "juan soto",
       "pitcher": "andrew abbott",
@@ -533,7 +539,7 @@
     "4": {
       "player": "mark vientos",
       "pitcher": "andrew abbott",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "3": {
@@ -703,7 +709,14 @@
       "pitch": "Slider"
     }
   },
-  "lad @ bal": {},
+  "lad @ bal": {
+    "1": {
+      "player": "shohei ohtani",
+      "pitcher": "dean kremer",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "tor @ nyy": {},
   "phi @ mia": {},
   "sea @ atl": {},
