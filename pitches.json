@@ -664,12 +664,6 @@
     }
   },
   "chw @ det": {
-    "30": {
-      "player": "riley greene",
-      "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "29": {
       "player": "bryan ramos",
       "pitcher": "jack flaherty",
@@ -1295,7 +1289,7 @@
     "14": {
       "player": "marcell ozuna",
       "pitcher": "logan gilbert",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "13": {
@@ -1379,11 +1373,17 @@
   },
   "cle @ tb": {},
   "min @ kc": {
+    "2": {
+      "player": "trevor larnach",
+      "pitcher": "michael wacha",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "byron buxton",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     }
   },
   "hou @ tex": {},
