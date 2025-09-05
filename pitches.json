@@ -464,6 +464,12 @@
     }
   },
   "nym @ cin": {
+    "21": {
+      "player": "brandon nimmo",
+      "pitcher": "andrew abbott",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "20": {
       "player": "mark vientos",
       "pitcher": "andrew abbott",
@@ -699,7 +705,7 @@
     "17": {
       "player": "joey bart",
       "pitcher": "quinn priester",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "16": {
@@ -803,8 +809,8 @@
     "6": {
       "player": "gunnar henderson",
       "pitcher": "shohei ohtani",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "5": {
       "player": "jeremiah jackson",
@@ -842,7 +848,7 @@
       "player": "bo bichette",
       "pitcher": "cam schlittler",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "3": {
       "player": "vladimir guerrero",
@@ -867,8 +873,8 @@
     "5": {
       "player": "brandon marsh",
       "pitcher": "valente bellozo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "4": {
       "player": "jt realmuto",
@@ -896,11 +902,17 @@
     }
   },
   "sea @ atl": {
+    "2": {
+      "player": "cal raleigh",
+      "pitcher": "chris sale",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "randy arozarena",
       "pitcher": "chris sale",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     }
   },
   "cle @ tb": {},
