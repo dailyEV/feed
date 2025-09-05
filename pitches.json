@@ -467,8 +467,8 @@
     "14": {
       "player": "francisco lindor",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Hit By Pitch",
+      "pitch": "Sweeper"
     },
     "13": {
       "player": "luisangel acuna",
@@ -550,10 +550,16 @@
     }
   },
   "chw @ det": {
+    "13": {
+      "player": "spencer torkelson",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "riley greene",
       "pitcher": "shane smith",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "11": {
@@ -627,8 +633,8 @@
     "10": {
       "player": "tommy pham",
       "pitcher": "quinn priester",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "9": {
       "player": "bryan reynolds",
