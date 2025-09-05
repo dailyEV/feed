@@ -464,11 +464,17 @@
     }
   },
   "nym @ cin": {
+    "37": {
+      "player": "tyler stephenson",
+      "pitcher": "david peterson",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "spencer steer",
       "pitcher": "david peterson",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "35": {
       "player": "austin hays",
@@ -1073,8 +1079,8 @@
     "18": {
       "player": "mookie betts",
       "pitcher": "dean kremer",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "17": {
       "player": "shohei ohtani",
@@ -1388,6 +1394,12 @@
     }
   },
   "sea @ atl": {
+    "18": {
+      "player": "dominic canzone",
+      "pitcher": "chris sale",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "jurickson profar",
       "pitcher": "logan gilbert",
@@ -1492,6 +1504,12 @@
     }
   },
   "cle @ tb": {
+    "4": {
+      "player": "david fry",
+      "pitcher": "griffin jax",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "jose ramirez",
       "pitcher": "griffin jax",
@@ -1515,8 +1533,8 @@
     "6": {
       "player": "mike yastrzemski",
       "pitcher": "pablo lopez",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "austin martin",
