@@ -467,8 +467,8 @@
     "32": {
       "player": "juan soto",
       "pitcher": "andrew abbott",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "francisco lindor",
@@ -1090,11 +1090,17 @@
     }
   },
   "tor @ nyy": {
+    "13": {
+      "player": "george springer",
+      "pitcher": "cam schlittler",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "12": {
       "player": "andres gimenez",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "11": {
       "player": "aaron judge",
