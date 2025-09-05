@@ -1074,7 +1074,7 @@
       "player": "shohei ohtani",
       "pitcher": "dean kremer",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Splitter"
     },
     "16": {
       "player": "miguel rojas",
@@ -1177,8 +1177,8 @@
     "14": {
       "player": "addison barger",
       "pitcher": "cam schlittler",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "13": {
       "player": "george springer",
@@ -1263,8 +1263,8 @@
     "19": {
       "player": "bryce harper",
       "pitcher": "valente bellozo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "kyle schwarber",
@@ -1473,7 +1473,14 @@
       "pitch": "Slider"
     }
   },
-  "cle @ tb": {},
+  "cle @ tb": {
+    "1": {
+      "player": "steven kwan",
+      "pitcher": "griffin jax",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "min @ kc": {
     "5": {
       "player": "austin martin",
