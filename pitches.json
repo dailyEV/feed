@@ -688,6 +688,12 @@
     }
   },
   "chw @ det": {
+    "34": {
+      "player": "dillon dingler",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "zach mckinstry",
       "pitcher": "shane smith",
@@ -888,6 +894,18 @@
     }
   },
   "mil @ pit": {
+    "33": {
+      "player": "joey bart",
+      "pitcher": "quinn priester",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
+    "32": {
+      "player": "oneil cruz",
+      "pitcher": "quinn priester",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "31": {
       "player": "jake bauers",
       "pitcher": "johan oviedo",
@@ -1186,6 +1204,12 @@
     }
   },
   "tor @ nyy": {
+    "16": {
+      "player": "bo bichette",
+      "pitcher": "cam schlittler",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "vladimir guerrero",
       "pitcher": "cam schlittler",
@@ -1278,6 +1302,12 @@
     }
   },
   "phi @ mia": {
+    "20": {
+      "player": "victor mesa",
+      "pitcher": "cristopher sanchez",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "19": {
       "player": "bryce harper",
       "pitcher": "valente bellozo",
@@ -1397,7 +1427,7 @@
     "18": {
       "player": "dominic canzone",
       "pitcher": "chris sale",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "17": {
@@ -1530,11 +1560,17 @@
     }
   },
   "min @ kc": {
+    "7": {
+      "player": "bobby witt",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "6": {
       "player": "mike yastrzemski",
       "pitcher": "pablo lopez",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "5": {
       "player": "austin martin",
