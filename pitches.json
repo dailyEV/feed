@@ -667,7 +667,7 @@
     "30": {
       "player": "riley greene",
       "pitcher": "shane smith",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "29": {
@@ -1031,8 +1031,8 @@
     "16": {
       "player": "miguel rojas",
       "pitcher": "dean kremer",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "15": {
       "player": "dalton rushing",
@@ -1206,6 +1206,12 @@
     }
   },
   "phi @ mia": {
+    "18": {
+      "player": "kyle schwarber",
+      "pitcher": "valente bellozo",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "trea turner",
       "pitcher": "valente bellozo",
@@ -1403,6 +1409,12 @@
   },
   "cle @ tb": {},
   "min @ kc": {
+    "4": {
+      "player": "kody clemens",
+      "pitcher": "michael wacha",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "luke keaschall",
       "pitcher": "michael wacha",
