@@ -467,8 +467,8 @@
     "36": {
       "player": "spencer steer",
       "pitcher": "david peterson",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "35": {
       "player": "austin hays",
@@ -1180,11 +1180,17 @@
     }
   },
   "tor @ nyy": {
+    "15": {
+      "player": "vladimir guerrero",
+      "pitcher": "cam schlittler",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "14": {
       "player": "addison barger",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "george springer",
@@ -1486,6 +1492,12 @@
     }
   },
   "cle @ tb": {
+    "3": {
+      "player": "jose ramirez",
+      "pitcher": "griffin jax",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "angel martinez",
       "pitcher": "griffin jax",
@@ -1503,8 +1515,8 @@
     "6": {
       "player": "mike yastrzemski",
       "pitcher": "pablo lopez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "5": {
       "player": "austin martin",
