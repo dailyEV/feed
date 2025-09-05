@@ -464,6 +464,12 @@
     }
   },
   "nym @ cin": {
+    "38": {
+      "player": "kebryan hayes",
+      "pitcher": "david peterson",
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
+    },
     "37": {
       "player": "tyler stephenson",
       "pitcher": "david peterson",
@@ -1317,8 +1323,8 @@
     "22": {
       "player": "otto lopez",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "21": {
       "player": "javier sanoja",
@@ -1451,8 +1457,8 @@
     "19": {
       "player": "leo rivas",
       "pitcher": "chris sale",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "dominic canzone",
@@ -1564,11 +1570,17 @@
     }
   },
   "cle @ tb": {
+    "5": {
+      "player": "nolan jones",
+      "pitcher": "griffin jax",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "david fry",
       "pitcher": "griffin jax",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "3": {
       "player": "jose ramirez",
