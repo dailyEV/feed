@@ -897,8 +897,8 @@
     "35": {
       "player": "jared triolo",
       "pitcher": "quinn priester",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "34": {
       "player": "nick yorke",
@@ -1442,10 +1442,16 @@
     }
   },
   "sea @ atl": {
+    "19": {
+      "player": "leo rivas",
+      "pitcher": "chris sale",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "dominic canzone",
       "pitcher": "chris sale",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "17": {
@@ -1578,6 +1584,12 @@
     }
   },
   "min @ kc": {
+    "8": {
+      "player": "vinnie pasquantino",
+      "pitcher": "pablo lopez",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "7": {
       "player": "bobby witt",
       "pitcher": "pablo lopez",
