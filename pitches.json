@@ -607,8 +607,8 @@
     "22": {
       "player": "colt keith",
       "pitcher": "shane smith",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "21": {
       "player": "parker meadows",
@@ -858,7 +858,7 @@
       "player": "michael conforto",
       "pitcher": "dean kremer",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Cutter"
     },
     "7": {
       "player": "teoscar hernandez",
@@ -992,10 +992,16 @@
     }
   },
   "sea @ atl": {
+    "6": {
+      "player": "matt olson",
+      "pitcher": "logan gilbert",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "jurickson profar",
       "pitcher": "logan gilbert",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "4": {
