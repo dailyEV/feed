@@ -314,6 +314,7 @@ if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--sport")
 	parser.add_argument("--date", "-d")
+	parser.add_argument("--wait", "-w", type=int)
 	parser.add_argument("--pitch", "-p", action="store_true")
 	parser.add_argument("--loop", action="store_true")
 	parser.add_argument("--clear", action="store_true")
@@ -328,6 +329,9 @@ if __name__ == '__main__':
 		date = str(datetime.now() - timedelta(days=1))[:10]
 	elif not date:
 		date = str(datetime.now())[:10]
+
+	if args.wait:
+		time.sleep(60 * args.wait)
 
 	if args.history:
 		with open("feed_times.json") as fh:
