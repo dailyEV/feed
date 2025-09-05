@@ -837,8 +837,8 @@
     "28": {
       "player": "william contreras",
       "pitcher": "johan oviedo",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "nick gonzales",
@@ -1093,8 +1093,8 @@
     "12": {
       "player": "andres gimenez",
       "pitcher": "cam schlittler",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "11": {
       "player": "aaron judge",
@@ -1168,7 +1168,7 @@
       "player": "maximo acosta",
       "pitcher": "cristopher sanchez",
       "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "15": {
       "player": "joey wiemer",
@@ -1342,7 +1342,14 @@
     }
   },
   "cle @ tb": {},
-  "min @ kc": {},
+  "min @ kc": {
+    "1": {
+      "player": "byron buxton",
+      "pitcher": "michael wacha",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "hou @ tex": {},
   "sf @ stl": {},
   "sd @ col": {},
