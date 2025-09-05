@@ -464,6 +464,18 @@
     }
   },
   "nym @ cin": {
+    "31": {
+      "player": "francisco lindor",
+      "pitcher": "andrew abbott",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "30": {
+      "player": "luisangel acuna",
+      "pitcher": "andrew abbott",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "29": {
       "player": "francisco alvarez",
       "pitcher": "andrew abbott",
@@ -813,7 +825,7 @@
     "27": {
       "player": "nick gonzales",
       "pitcher": "quinn priester",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "26": {
@@ -977,8 +989,8 @@
     "13": {
       "player": "dylan beavers",
       "pitcher": "shohei ohtani",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul Tip",
+      "pitch": "Sweeper"
     },
     "12": {
       "player": "emmanuel rivera",
@@ -1054,6 +1066,12 @@
     }
   },
   "tor @ nyy": {
+    "12": {
+      "player": "andres gimenez",
+      "pitcher": "cam schlittler",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "11": {
       "player": "aaron judge",
       "pitcher": "kevin gausman",
@@ -1214,12 +1232,6 @@
     }
   },
   "sea @ atl": {
-    "13": {
-      "player": "mitch garver",
-      "pitcher": "chris sale",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "12": {
       "player": "jorge polanco",
       "pitcher": "chris sale",
