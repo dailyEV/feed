@@ -437,8 +437,8 @@
     "41": {
       "player": "tommy pham",
       "pitcher": "blake snell",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "40": {
       "player": "bryan reynolds",
@@ -685,8 +685,8 @@
     "17": {
       "player": "chandler simpson",
       "pitcher": "logan allen",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
     },
     "16": {
       "player": "carson williams",
@@ -786,11 +786,17 @@
     }
   },
   "laa @ kc": {
+    "13": {
+      "player": "bryce teodosio",
+      "pitcher": "noah cameron",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "12": {
       "player": "logan ohoppe",
       "pitcher": "noah cameron",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "maikel garcia",
@@ -864,8 +870,8 @@
     "12": {
       "player": "ryan mcmahon",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "anthony volpe",
