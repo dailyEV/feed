@@ -814,6 +814,12 @@
     }
   },
   "tor @ nyy": {
+    "3": {
+      "player": "vladimir guerrero",
+      "pitcher": "cam schlittler",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "addison barger",
       "pitcher": "cam schlittler",
@@ -831,8 +837,8 @@
     "4": {
       "player": "jt realmuto",
       "pitcher": "valente bellozo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "3": {
       "player": "bryce harper",
@@ -853,7 +859,14 @@
       "pitch": "Cutter"
     }
   },
-  "sea @ atl": {},
+  "sea @ atl": {
+    "1": {
+      "player": "randy arozarena",
+      "pitcher": "chris sale",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "cle @ tb": {},
   "min @ kc": {},
   "hou @ tex": {},
