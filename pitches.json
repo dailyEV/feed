@@ -464,6 +464,12 @@
     }
   },
   "nym @ cin": {
+    "33": {
+      "player": "pete alonso",
+      "pitcher": "andrew abbott",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "32": {
       "player": "juan soto",
       "pitcher": "andrew abbott",
@@ -1010,10 +1016,16 @@
     }
   },
   "lad @ bal": {
+    "15": {
+      "player": "dalton rushing",
+      "pitcher": "dean kremer",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "14": {
       "player": "hyeseong kim",
       "pitcher": "dean kremer",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "13": {
@@ -1096,17 +1108,11 @@
     }
   },
   "tor @ nyy": {
-    "13": {
-      "player": "george springer",
-      "pitcher": "cam schlittler",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "12": {
       "player": "andres gimenez",
       "pitcher": "cam schlittler",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "11": {
       "player": "aaron judge",
@@ -1358,8 +1364,8 @@
     "1": {
       "player": "byron buxton",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     }
   },
   "hou @ tex": {},
