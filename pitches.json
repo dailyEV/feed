@@ -646,11 +646,17 @@
     }
   },
   "chw @ det": {
+    "28": {
+      "player": "will robertson",
+      "pitcher": "jack flaherty",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "27": {
       "player": "andrew benintendi",
       "pitcher": "jack flaherty",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "26": {
       "player": "chase meidroth",
@@ -810,6 +816,12 @@
     }
   },
   "mil @ pit": {
+    "27": {
+      "player": "nick gonzales",
+      "pitcher": "quinn priester",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "26": {
       "player": "andrew mccutchen",
       "pitcher": "quinn priester",
@@ -971,8 +983,8 @@
     "13": {
       "player": "dylan beavers",
       "pitcher": "shohei ohtani",
-      "result": "Foul Tip",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "emmanuel rivera",
@@ -1116,6 +1128,12 @@
     }
   },
   "phi @ mia": {
+    "15": {
+      "player": "joey wiemer",
+      "pitcher": "cristopher sanchez",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "14": {
       "player": "eric wagaman",
       "pitcher": "cristopher sanchez",
@@ -1206,7 +1224,7 @@
       "player": "jorge polanco",
       "pitcher": "chris sale",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "11": {
       "player": "eugenio suarez",
