@@ -467,8 +467,8 @@
     "29": {
       "player": "francisco alvarez",
       "pitcher": "andrew abbott",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "elly de la cruz",
@@ -1110,10 +1110,16 @@
     }
   },
   "phi @ mia": {
+    "14": {
+      "player": "eric wagaman",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "heriberto hernandez",
       "pitcher": "cristopher sanchez",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "12": {
@@ -1190,11 +1196,17 @@
     }
   },
   "sea @ atl": {
+    "12": {
+      "player": "jorge polanco",
+      "pitcher": "chris sale",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "eugenio suarez",
       "pitcher": "chris sale",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "10": {
       "player": "michael harris",
