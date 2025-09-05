@@ -467,8 +467,8 @@
     "35": {
       "player": "austin hays",
       "pitcher": "david peterson",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "miguel andujar",
@@ -679,8 +679,8 @@
     "32": {
       "player": "wenceel perez",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "spencer torkelson",
@@ -1061,8 +1061,8 @@
     "17": {
       "player": "shohei ohtani",
       "pitcher": "dean kremer",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "miguel rojas",
@@ -1252,7 +1252,7 @@
       "player": "kyle schwarber",
       "pitcher": "valente bellozo",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "trea turner",
@@ -1361,8 +1361,8 @@
     "16": {
       "player": "nacho alvarez",
       "pitcher": "logan gilbert",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "15": {
       "player": "jake fraley",
@@ -1457,11 +1457,17 @@
   },
   "cle @ tb": {},
   "min @ kc": {
+    "5": {
+      "player": "austin martin",
+      "pitcher": "michael wacha",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "4": {
       "player": "kody clemens",
       "pitcher": "michael wacha",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "3": {
       "player": "luke keaschall",
