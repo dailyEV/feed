@@ -685,7 +685,7 @@
     "33": {
       "player": "zach mckinstry",
       "pitcher": "shane smith",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "32": {
@@ -1070,12 +1070,6 @@
     }
   },
   "lad @ bal": {
-    "18": {
-      "player": "mookie betts",
-      "pitcher": "dean kremer",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "17": {
       "player": "shohei ohtani",
       "pitcher": "dean kremer",
@@ -1489,11 +1483,17 @@
     "1": {
       "player": "steven kwan",
       "pitcher": "griffin jax",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     }
   },
   "min @ kc": {
+    "6": {
+      "player": "mike yastrzemski",
+      "pitcher": "pablo lopez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "austin martin",
       "pitcher": "michael wacha",
