@@ -634,6 +634,12 @@
     }
   },
   "chw @ det": {
+    "27": {
+      "player": "andrew benintendi",
+      "pitcher": "jack flaherty",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "26": {
       "player": "chase meidroth",
       "pitcher": "jack flaherty",
@@ -938,11 +944,17 @@
     }
   },
   "lad @ bal": {
+    "12": {
+      "player": "emmanuel rivera",
+      "pitcher": "shohei ohtani",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "11": {
       "player": "colton cowser",
       "pitcher": "shohei ohtani",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "10": {
       "player": "ryan mountcastle",
@@ -1009,7 +1021,7 @@
     "9": {
       "player": "trent grisham",
       "pitcher": "kevin gausman",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "8": {
