@@ -467,8 +467,8 @@
     "68": {
       "player": "juan soto",
       "pitcher": "nick martinez",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "67": {
       "player": "francisco lindor",
@@ -2301,8 +2301,8 @@
     "60": {
       "player": "trea turner",
       "pitcher": "george soriano",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "59": {
       "player": "bryson stott",
@@ -2663,7 +2663,7 @@
     "55": {
       "player": "nacho alvarez",
       "pitcher": "matt brash",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "54": {
@@ -3252,6 +3252,18 @@
     }
   },
   "min @ kc": {
+    "47": {
+      "player": "salvador perez",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
+    "46": {
+      "player": "maikel garcia",
+      "pitcher": "pablo lopez",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "45": {
       "player": "matt wallner",
       "pitcher": "angel zerpa",
@@ -3721,8 +3733,8 @@
     "29": {
       "player": "heliot ramos",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "28": {
       "player": "patrick bailey",
@@ -3894,6 +3906,12 @@
     }
   },
   "sd @ col": {
+    "16": {
+      "player": "jose iglesias",
+      "pitcher": "kyle freeland",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "ryan ritter",
       "pitcher": "nick pivetta",
