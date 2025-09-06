@@ -859,8 +859,8 @@
     "62": {
       "player": "gleyber torres",
       "pitcher": "dan altavilla",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "61": {
       "player": "colt keith",
@@ -1230,17 +1230,11 @@
     }
   },
   "mil @ pit": {
-    "69": {
-      "player": "tommy pham",
-      "pitcher": "jared koenig",
-      "result": "Called Strike",
-      "pitch": "Changeup"
-    },
     "68": {
       "player": "bryan reynolds",
       "pitcher": "jared koenig",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "67": {
       "player": "spencer horwitz",
@@ -3532,6 +3526,12 @@
     }
   },
   "sf @ stl": {
+    "25": {
+      "player": "jung hoo lee",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "lars nootbaar",
       "pitcher": "carson seymour",
