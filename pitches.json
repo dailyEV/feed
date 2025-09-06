@@ -769,8 +769,8 @@
     "47": {
       "player": "dominic fletcher",
       "pitcher": "keider montero",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "46": {
       "player": "bryan ramos",
@@ -1943,7 +1943,7 @@
     "35": {
       "player": "leo rivas",
       "pitcher": "chris sale",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "34": {
@@ -2155,8 +2155,8 @@
     "22": {
       "player": "carson williams",
       "pitcher": "gavin williams",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "21": {
       "player": "hunter feduccia",
@@ -2286,11 +2286,17 @@
     }
   },
   "min @ kc": {
+    "25": {
+      "player": "maikel garcia",
+      "pitcher": "pablo lopez",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
     "24": {
       "player": "vinnie pasquantino",
       "pitcher": "pablo lopez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "bobby witt",
