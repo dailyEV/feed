@@ -1263,8 +1263,8 @@
     "42": {
       "player": "dominic fletcher",
       "pitcher": "tarik skubal",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "41": {
       "player": "brooks baldwin",
@@ -1699,8 +1699,8 @@
     "30": {
       "player": "blake perkins",
       "pitcher": "mitch keller",
-      "result": "Foul Tip",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "29": {
       "player": "tommy pham",
@@ -1881,8 +1881,8 @@
     "7": {
       "player": "freddie freeman",
       "pitcher": "trevor rogers",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "6": {
       "player": "gunnar henderson",
@@ -1922,11 +1922,17 @@
     }
   },
   "cle @ tb": {
+    "17": {
+      "player": "steven kwan",
+      "pitcher": "shane baz",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "16": {
       "player": "cj kayfus",
       "pitcher": "shane baz",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "15": {
       "player": "richie palacios",
@@ -2144,6 +2150,12 @@
     }
   },
   "min @ kc": {
+    "14": {
+      "player": "royce lewis",
+      "pitcher": "stephen kolek",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "13": {
       "player": "matt wallner",
       "pitcher": "stephen kolek",
