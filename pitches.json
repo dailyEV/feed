@@ -467,7 +467,7 @@
     "80": {
       "player": "elly de la cruz",
       "pitcher": "edwin diaz",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "79": {
@@ -946,17 +946,11 @@
     }
   },
   "chw @ det": {
-    "79": {
-      "player": "gleyber torres",
-      "pitcher": "jordan leasure",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "78": {
       "player": "colt keith",
       "pitcher": "jordan leasure",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "77": {
       "player": "trey sweeney",
@@ -2248,6 +2242,12 @@
     }
   },
   "tor @ nyy": {
+    "63": {
+      "player": "jose caballero",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "ryan mcmahon",
       "pitcher": "kevin gausman",
@@ -2625,8 +2625,8 @@
     "75": {
       "player": "max kepler",
       "pitcher": "michael petersen",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "74": {
       "player": "harrison bader",
@@ -3490,6 +3490,12 @@
     }
   },
   "cle @ tb": {
+    "60": {
+      "player": "jhonkensy noel",
+      "pitcher": "brian van belle",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "59": {
       "player": "carson williams",
       "pitcher": "gavin williams",
@@ -4477,7 +4483,7 @@
     "45": {
       "player": "jose fermin",
       "pitcher": "carson seymour",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -4922,6 +4928,12 @@
     }
   },
   "ath @ laa": {
+    "2": {
+      "player": "shea langeliers",
+      "pitcher": "jose soriano",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "1": {
       "player": "nick kurtz",
       "pitcher": "jose soriano",
