@@ -467,7 +467,7 @@
     "71": {
       "player": "spencer steer",
       "pitcher": "tyler rogers",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "70": {
@@ -1308,11 +1308,17 @@
     }
   },
   "mil @ pit": {
+    "75": {
+      "player": "caleb durbin",
+      "pitcher": "colin holderman",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "74": {
       "player": "jake bauers",
       "pitcher": "colin holderman",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "73": {
       "player": "andrew vaughn",
@@ -3127,7 +3133,7 @@
     "47": {
       "player": "brandon lowe",
       "pitcher": "gavin williams",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "46": {
@@ -4119,8 +4125,8 @@
     "19": {
       "player": "tyler freeman",
       "pitcher": "nick pivetta",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "elias diaz",
