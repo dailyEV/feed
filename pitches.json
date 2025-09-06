@@ -3364,6 +3364,12 @@
     }
   },
   "cle @ tb": {
+    "55": {
+      "player": "junior caminero",
+      "pitcher": "gavin williams",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "54": {
       "player": "gabriel arias",
       "pitcher": "brian van belle",
@@ -3690,11 +3696,17 @@
     }
   },
   "min @ kc": {
+    "55": {
+      "player": "kyle isbel",
+      "pitcher": "kody funderburk",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "54": {
       "player": "jac caglianone",
       "pitcher": "kody funderburk",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "53": {
       "player": "byron buxton",
@@ -4273,7 +4285,7 @@
     "41": {
       "player": "jimmy crooks",
       "pitcher": "carson seymour",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -4521,8 +4533,8 @@
     "26": {
       "player": "brenton doyle",
       "pitcher": "nick pivetta",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "25": {
       "player": "manny machado",
