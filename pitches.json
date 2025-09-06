@@ -1400,12 +1400,6 @@
     }
   },
   "lad @ bal": {
-    "35": {
-      "player": "miguel rojas",
-      "pitcher": "dietrich enns",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "34": {
       "player": "samuel basallo",
       "pitcher": "anthony banda",
@@ -1612,6 +1606,12 @@
     }
   },
   "tor @ nyy": {
+    "32": {
+      "player": "aaron judge",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "31": {
       "player": "ben rice",
       "pitcher": "kevin gausman",
@@ -1803,7 +1803,7 @@
     "40": {
       "player": "brandon marsh",
       "pitcher": "josh simpson",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "39": {
@@ -2046,7 +2046,7 @@
       "player": "jurickson profar",
       "pitcher": "logan gilbert",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Splitter"
     },
     "37": {
       "player": "nacho alvarez",
@@ -2424,11 +2424,17 @@
     }
   },
   "min @ kc": {
+    "29": {
+      "player": "matt wallner",
+      "pitcher": "michael wacha",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "austin martin",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "27": {
       "player": "kody clemens",
