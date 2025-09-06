@@ -1901,7 +1901,7 @@
     "71": {
       "player": "samuel basallo",
       "pitcher": "tanner scott",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "70": {
@@ -4526,6 +4526,12 @@
     }
   },
   "hou @ tex": {
+    "57": {
+      "player": "wyatt langford",
+      "pitcher": "aj blubaugh",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "56": {
       "player": "cody freeman",
       "pitcher": "aj blubaugh",
@@ -4864,6 +4870,12 @@
     }
   },
   "sf @ stl": {
+    "59": {
+      "player": "patrick bailey",
+      "pitcher": "ryan fernandez",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "58": {
       "player": "drew gilbert",
       "pitcher": "ryan fernandez",
@@ -5214,11 +5226,17 @@
     }
   },
   "sd @ col": {
+    "44": {
+      "player": "kyle karros",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "43": {
       "player": "ezequiel tovar",
       "pitcher": "nick pivetta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "42": {
       "player": "fernando tatis",
