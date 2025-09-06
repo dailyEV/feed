@@ -1026,11 +1026,17 @@
     }
   },
   "mil @ pit": {
+    "47": {
+      "player": "jake bauers",
+      "pitcher": "carmen mlodzinski",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "andrew vaughn",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "45": {
       "player": "sal frelick",
@@ -1492,6 +1498,12 @@
     }
   },
   "tor @ nyy": {
+    "26": {
+      "player": "jose caballero",
+      "pitcher": "kevin gausman",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "ryan mcmahon",
       "pitcher": "kevin gausman",
@@ -1647,7 +1659,7 @@
     "35": {
       "player": "victor mesa",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "34": {
@@ -1856,6 +1868,12 @@
     }
   },
   "sea @ atl": {
+    "32": {
+      "player": "marcell ozuna",
+      "pitcher": "logan gilbert",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "31": {
       "player": "michael harris",
       "pitcher": "logan gilbert",
@@ -2047,7 +2065,7 @@
     "19": {
       "player": "josh lowe",
       "pitcher": "gavin williams",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -2163,8 +2181,8 @@
     "21": {
       "player": "luke keaschall",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "trevor larnach",
@@ -2288,6 +2306,12 @@
     }
   },
   "hou @ tex": {
+    "6": {
+      "player": "wyatt langford",
+      "pitcher": "colton gordon",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "5": {
       "player": "cody freeman",
       "pitcher": "colton gordon",
@@ -2323,8 +2347,8 @@
     "3": {
       "player": "willy adames",
       "pitcher": "michael mcgreevy",
-      "result": "In play, run(s)",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "rafael devers",
