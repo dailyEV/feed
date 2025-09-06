@@ -1017,7 +1017,7 @@
     "46": {
       "player": "andrew vaughn",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "45": {
@@ -1471,8 +1471,8 @@
     "25": {
       "player": "ryan mcmahon",
       "pitcher": "kevin gausman",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "24": {
       "player": "ernie clement",
@@ -1826,6 +1826,12 @@
     }
   },
   "sea @ atl": {
+    "31": {
+      "player": "michael harris",
+      "pitcher": "logan gilbert",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "30": {
       "player": "mitch garver",
       "pitcher": "chris sale",
@@ -2121,8 +2127,8 @@
     "20": {
       "player": "trevor larnach",
       "pitcher": "michael wacha",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "19": {
       "player": "byron buxton",
@@ -2240,6 +2246,12 @@
     }
   },
   "hou @ tex": {
+    "5": {
+      "player": "cody freeman",
+      "pitcher": "colton gordon",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "4": {
       "player": "michael helman",
       "pitcher": "colton gordon",
@@ -2266,11 +2278,17 @@
     }
   },
   "sf @ stl": {
+    "2": {
+      "player": "rafael devers",
+      "pitcher": "michael mcgreevy",
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
+    },
     "1": {
       "player": "heliot ramos",
       "pitcher": "michael mcgreevy",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     }
   },
   "sd @ col": {},
