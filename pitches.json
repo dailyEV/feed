@@ -1233,7 +1233,7 @@
     "69": {
       "player": "tommy pham",
       "pitcher": "jared koenig",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "68": {
@@ -1646,6 +1646,12 @@
     }
   },
   "lad @ bal": {
+    "48": {
+      "player": "dalton rushing",
+      "pitcher": "kade strowd",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "47": {
       "player": "enrique hernandez",
       "pitcher": "kade strowd",
@@ -2878,12 +2884,6 @@
     }
   },
   "cle @ tb": {
-    "40": {
-      "player": "nolan jones",
-      "pitcher": "ian seymour",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "39": {
       "player": "carson williams",
       "pitcher": "gavin williams",
@@ -3390,7 +3390,7 @@
       "player": "jesus sanchez",
       "pitcher": "merrill kelly",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "28": {
       "player": "carlos correa",
@@ -3714,11 +3714,17 @@
     }
   },
   "sd @ col": {
+    "14": {
+      "player": "warming bernabel",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "13": {
       "player": "kyle karros",
       "pitcher": "nick pivetta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "12": {
       "player": "ezequiel tovar",
