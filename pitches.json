@@ -467,8 +467,8 @@
     "56": {
       "player": "kebryan hayes",
       "pitcher": "ryne stanek",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "55": {
       "player": "tyler stephenson",
@@ -802,17 +802,11 @@
     }
   },
   "chw @ det": {
-    "54": {
-      "player": "curtis mead",
-      "pitcher": "keider montero",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
-    },
     "53": {
       "player": "kyle teel",
       "pitcher": "keider montero",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "52": {
       "player": "edgar quero",
@@ -1131,8 +1125,8 @@
     "59": {
       "player": "joey bart",
       "pitcher": "quinn priester",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "58": {
       "player": "andrew vaughn",
@@ -1723,8 +1717,8 @@
     "37": {
       "player": "alejandro kirk",
       "pitcher": "ryan yarbrough",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "36": {
       "player": "daulton varsho",
@@ -2652,6 +2646,12 @@
     }
   },
   "min @ kc": {
+    "33": {
+      "player": "royce lewis",
+      "pitcher": "michael wacha",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "32": {
       "player": "jac caglianone",
       "pitcher": "pablo lopez",
@@ -2850,7 +2850,7 @@
       "player": "josh smith",
       "pitcher": "colton gordon",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "17": {
       "player": "dylan moore",
@@ -2956,6 +2956,12 @@
     }
   },
   "sf @ stl": {
+    "15": {
+      "player": "masyn winn",
+      "pitcher": "carson seymour",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "rafael devers",
       "pitcher": "michael mcgreevy",
@@ -3042,10 +3048,16 @@
     }
   },
   "sd @ col": {
+    "3": {
+      "player": "manny machado",
+      "pitcher": "kyle freeland",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "2": {
       "player": "ryan ohearn",
       "pitcher": "kyle freeland",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Knuckle Curve"
     },
     "1": {
