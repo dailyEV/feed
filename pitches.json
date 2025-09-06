@@ -467,7 +467,7 @@
     "57": {
       "player": "matt mclain",
       "pitcher": "ryne stanek",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -812,7 +812,7 @@
       "player": "colson montgomery",
       "pitcher": "keider montero",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Knuckle Curve"
     },
     "54": {
       "player": "curtis mead",
@@ -1505,8 +1505,8 @@
     "40": {
       "player": "jeremiah jackson",
       "pitcher": "ben casparius",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "39": {
       "player": "jackson holliday",
@@ -2909,7 +2909,7 @@
     "19": {
       "player": "michael helman",
       "pitcher": "colton gordon",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -3025,8 +3025,8 @@
     "16": {
       "player": "jimmy crooks",
       "pitcher": "carson seymour",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "15": {
       "player": "masyn winn",
@@ -3120,6 +3120,12 @@
     }
   },
   "sd @ col": {
+    "4": {
+      "player": "tyler freeman",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "manny machado",
       "pitcher": "kyle freeland",
