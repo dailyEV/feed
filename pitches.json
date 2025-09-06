@@ -802,17 +802,11 @@
     }
   },
   "chw @ det": {
-    "54": {
-      "player": "curtis mead",
-      "pitcher": "keider montero",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "53": {
       "player": "kyle teel",
       "pitcher": "keider montero",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "52": {
       "player": "edgar quero",
@@ -1131,7 +1125,7 @@
     "59": {
       "player": "joey bart",
       "pitcher": "quinn priester",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "58": {
@@ -1720,11 +1714,17 @@
     }
   },
   "tor @ nyy": {
+    "38": {
+      "player": "nathan lukes",
+      "pitcher": "ryan yarbrough",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "alejandro kirk",
       "pitcher": "ryan yarbrough",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul Tip",
+      "pitch": "Changeup"
     },
     "36": {
       "player": "daulton varsho",
@@ -2213,7 +2213,7 @@
     "43": {
       "player": "julio rodriguez",
       "pitcher": "chris sale",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "42": {
@@ -2855,7 +2855,7 @@
     "18": {
       "player": "josh smith",
       "pitcher": "colton gordon",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "17": {
