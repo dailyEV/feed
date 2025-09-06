@@ -1809,12 +1809,6 @@
     }
   },
   "sf @ stl": {
-    "5": {
-      "player": "lars nootbaar",
-      "pitcher": "justin verlander",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "4": {
       "player": "dominic smith",
       "pitcher": "andre pallante",
@@ -1844,7 +1838,7 @@
     "4": {
       "player": "josh smith",
       "pitcher": "hunter brown",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -1867,11 +1861,17 @@
     }
   },
   "min @ kc": {
+    "5": {
+      "player": "maikel garcia",
+      "pitcher": "joe ryan",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "mike yastrzemski",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "luke keaschall",
