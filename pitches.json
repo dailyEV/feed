@@ -874,6 +874,12 @@
     }
   },
   "chw @ det": {
+    "67": {
+      "player": "riley greene",
+      "pitcher": "dan altavilla",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "66": {
       "player": "jahmai jones",
       "pitcher": "dan altavilla",
@@ -1706,11 +1712,17 @@
     }
   },
   "lad @ bal": {
+    "50": {
+      "player": "emmanuel rivera",
+      "pitcher": "jack dreyer",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "colton cowser",
       "pitcher": "jack dreyer",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "alex call",
@@ -2319,7 +2331,7 @@
     "61": {
       "player": "kyle schwarber",
       "pitcher": "george soriano",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "60": {
@@ -3019,8 +3031,8 @@
     "45": {
       "player": "richie palacios",
       "pitcher": "gavin williams",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "44": {
       "player": "bob seymour",
@@ -3288,10 +3300,16 @@
     }
   },
   "min @ kc": {
+    "48": {
+      "player": "adam frazier",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "47": {
       "player": "salvador perez",
       "pitcher": "pablo lopez",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "Sweeper"
     },
     "46": {
@@ -3775,8 +3793,8 @@
     "30": {
       "player": "rafael devers",
       "pitcher": "michael mcgreevy",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "29": {
       "player": "heliot ramos",
@@ -3954,6 +3972,12 @@
     }
   },
   "sd @ col": {
+    "18": {
+      "player": "elias diaz",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "jake cronenworth",
       "pitcher": "kyle freeland",
