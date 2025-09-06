@@ -468,7 +468,7 @@
       "player": "miguel andujar",
       "pitcher": "david peterson",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "51": {
       "player": "pete alonso",
@@ -781,8 +781,8 @@
     "49": {
       "player": "riley greene",
       "pitcher": "tyler gilbert",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "jahmai jones",
@@ -1077,8 +1077,8 @@
     "53": {
       "player": "oneil cruz",
       "pitcher": "quinn priester",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "52": {
       "player": "nick gonzales",
@@ -1603,8 +1603,8 @@
     "31": {
       "player": "ben rice",
       "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "30": {
       "player": "addison barger",
@@ -1788,6 +1788,12 @@
     }
   },
   "phi @ mia": {
+    "40": {
+      "player": "brandon marsh",
+      "pitcher": "josh simpson",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "39": {
       "player": "jt realmuto",
       "pitcher": "josh simpson",
@@ -2242,6 +2248,12 @@
     }
   },
   "cle @ tb": {
+    "24": {
+      "player": "gabriel arias",
+      "pitcher": "ian seymour",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "23": {
       "player": "bob seymour",
       "pitcher": "gavin williams",
@@ -2608,11 +2620,17 @@
     }
   },
   "sf @ stl": {
+    "9": {
+      "player": "nolan gorman",
+      "pitcher": "carson seymour",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "ivan herrera",
       "pitcher": "carson seymour",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "lars nootbaar",
