@@ -468,7 +468,7 @@
       "player": "noelvi marte",
       "pitcher": "edwin diaz",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "78": {
       "player": "tj friedl",
@@ -940,6 +940,12 @@
     }
   },
   "chw @ det": {
+    "78": {
+      "player": "colt keith",
+      "pitcher": "jordan leasure",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "77": {
       "player": "trey sweeney",
       "pitcher": "jordan leasure",
@@ -1877,8 +1883,8 @@
     "59": {
       "player": "jeremiah jackson",
       "pitcher": "blake treinen",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "58": {
       "player": "jackson holliday",
@@ -3047,8 +3053,8 @@
     "69": {
       "player": "cole young",
       "pitcher": "raisel iglesias",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "68": {
       "player": "jorge polanco",
@@ -3819,8 +3825,8 @@
     "57": {
       "player": "trevor larnach",
       "pitcher": "daniel lynch",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "mike yastrzemski",
@@ -4160,6 +4166,18 @@
     }
   },
   "hou @ tex": {
+    "46": {
+      "player": "christian walker",
+      "pitcher": "merrill kelly",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
+    "45": {
+      "player": "jesus sanchez",
+      "pitcher": "merrill kelly",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "44": {
       "player": "carlos correa",
       "pitcher": "merrill kelly",
@@ -4426,10 +4444,16 @@
     }
   },
   "sf @ stl": {
+    "45": {
+      "player": "jose fermin",
+      "pitcher": "carson seymour",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "victor scott",
       "pitcher": "carson seymour",
-      "result": "Swinging Strike",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "43": {
@@ -4695,8 +4719,8 @@
     "29": {
       "player": "warming bernabel",
       "pitcher": "nick pivetta",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "28": {
       "player": "kyle karros",
