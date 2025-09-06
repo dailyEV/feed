@@ -1134,6 +1134,12 @@
     }
   },
   "mil @ pit": {
+    "60": {
+      "player": "nick yorke",
+      "pitcher": "quinn priester",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "59": {
       "player": "joey bart",
       "pitcher": "quinn priester",
@@ -1726,11 +1732,17 @@
     }
   },
   "tor @ nyy": {
+    "38": {
+      "player": "nathan lukes",
+      "pitcher": "ryan yarbrough",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "alejandro kirk",
       "pitcher": "ryan yarbrough",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul Tip",
+      "pitch": "Changeup"
     },
     "36": {
       "player": "daulton varsho",
@@ -2225,7 +2237,7 @@
     "43": {
       "player": "julio rodriguez",
       "pitcher": "chris sale",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "42": {
