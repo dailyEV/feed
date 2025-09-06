@@ -1263,8 +1263,8 @@
     "33": {
       "player": "wenceel perez",
       "pitcher": "martin perez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "32": {
       "player": "gleyber torres",
@@ -1463,8 +1463,8 @@
     "20": {
       "player": "brandon nimmo",
       "pitcher": "brady singer",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "19": {
       "player": "juan soto",
@@ -1582,6 +1582,12 @@
     }
   },
   "mil @ pit": {
+    "19": {
+      "player": "cam devanney",
+      "pitcher": "brandon woodruff",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "18": {
       "player": "henry davis",
       "pitcher": "brandon woodruff",
@@ -1743,6 +1749,12 @@
     }
   },
   "sf @ stl": {
+    "4": {
+      "player": "dominic smith",
+      "pitcher": "andre pallante",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "willy adames",
       "pitcher": "andre pallante",
@@ -1763,11 +1775,17 @@
     }
   },
   "hou @ tex": {
+    "3": {
+      "player": "jose altuve",
+      "pitcher": "jacob degrom",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "2": {
       "player": "yordan alvarez",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "1": {
       "player": "jeremy pena",
@@ -1780,8 +1798,8 @@
     "3": {
       "player": "luke keaschall",
       "pitcher": "stephen kolek",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "trevor larnach",
