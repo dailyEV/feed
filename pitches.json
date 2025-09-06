@@ -467,8 +467,8 @@
     "44": {
       "player": "francisco alvarez",
       "pitcher": "connor phillips",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "jeff mcneil",
@@ -733,7 +733,7 @@
     "40": {
       "player": "chase meidroth",
       "pitcher": "bailey horn",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Cutter"
     },
     "39": {
@@ -1230,7 +1230,7 @@
       "player": "michael conforto",
       "pitcher": "dietrich enns",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "teoscar hernandez",
@@ -1387,8 +1387,8 @@
     "22": {
       "player": "alejandro kirk",
       "pitcher": "ryan yarbrough",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "paul goldschmidt",
@@ -1700,10 +1700,16 @@
     }
   },
   "sea @ atl": {
+    "28": {
+      "player": "eugenio suarez",
+      "pitcher": "chris sale",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "27": {
       "player": "julio rodriguez",
       "pitcher": "chris sale",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -1944,6 +1950,12 @@
     }
   },
   "min @ kc": {
+    "16": {
+      "player": "michael massey",
+      "pitcher": "pablo lopez",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "15": {
       "player": "adam frazier",
       "pitcher": "pablo lopez",
