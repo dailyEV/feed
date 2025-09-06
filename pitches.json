@@ -1505,8 +1505,8 @@
     "40": {
       "player": "jeremiah jackson",
       "pitcher": "ben casparius",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "jackson holliday",
@@ -1977,8 +1977,8 @@
     "46": {
       "player": "alec bohm",
       "pitcher": "josh simpson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "45": {
       "player": "max kepler",
@@ -2252,10 +2252,16 @@
     }
   },
   "sea @ atl": {
+    "44": {
+      "player": "drake baldwin",
+      "pitcher": "logan gilbert",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "julio rodriguez",
       "pitcher": "chris sale",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "42": {
@@ -2900,6 +2906,12 @@
     }
   },
   "hou @ tex": {
+    "19": {
+      "player": "michael helman",
+      "pitcher": "colton gordon",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "josh smith",
       "pitcher": "colton gordon",
