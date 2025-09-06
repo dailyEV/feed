@@ -1260,6 +1260,12 @@
     }
   },
   "chw @ det": {
+    "34": {
+      "player": "colson montgomery",
+      "pitcher": "tarik skubal",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "wenceel perez",
       "pitcher": "martin perez",
@@ -1594,6 +1600,18 @@
     }
   },
   "mil @ pit": {
+    "22": {
+      "player": "brice turang",
+      "pitcher": "mitch keller",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
+    "21": {
+      "player": "jackson chourio",
+      "pitcher": "mitch keller",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "jared triolo",
       "pitcher": "brandon woodruff",
@@ -1717,17 +1735,11 @@
   },
   "lad @ bal": {},
   "cle @ tb": {
-    "11": {
-      "player": "gabriel arias",
-      "pitcher": "shane baz",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "10": {
       "player": "daniel schneemann",
       "pitcher": "shane baz",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "9": {
       "player": "nolan jones",
@@ -1860,8 +1872,8 @@
     "4": {
       "player": "josh naylor",
       "pitcher": "hurston waldrep",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "3": {
       "player": "julio rodriguez",
