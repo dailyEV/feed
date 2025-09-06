@@ -808,6 +808,12 @@
     }
   },
   "chw @ det": {
+    "56": {
+      "player": "chase meidroth",
+      "pitcher": "keider montero",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "55": {
       "player": "colson montgomery",
       "pitcher": "keider montero",
@@ -1511,7 +1517,7 @@
     "41": {
       "player": "gunnar henderson",
       "pitcher": "ben casparius",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "40": {
@@ -1759,8 +1765,8 @@
     "39": {
       "player": "giancarlo stanton",
       "pitcher": "kevin gausman",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "nathan lukes",
@@ -1992,10 +1998,16 @@
     }
   },
   "phi @ mia": {
+    "48": {
+      "player": "trea turner",
+      "pitcher": "josh simpson",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "bryson stott",
       "pitcher": "josh simpson",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "46": {
@@ -2551,8 +2563,8 @@
     "32": {
       "player": "angel martinez",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "steven kwan",
