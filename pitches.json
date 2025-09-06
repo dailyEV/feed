@@ -464,12 +464,6 @@
     }
   },
   "nym @ cin": {
-    "59": {
-      "player": "brandon nimmo",
-      "pitcher": "nick martinez",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "58": {
       "player": "mark vientos",
       "pitcher": "nick martinez",
@@ -1167,7 +1161,7 @@
     "62": {
       "player": "jake bauers",
       "pitcher": "yohan ramirez",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -1786,6 +1780,18 @@
     }
   },
   "tor @ nyy": {
+    "41": {
+      "player": "paul goldschmidt",
+      "pitcher": "kevin gausman",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
+    "40": {
+      "player": "jazz chisholm",
+      "pitcher": "kevin gausman",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "giancarlo stanton",
       "pitcher": "kevin gausman",
@@ -2022,6 +2028,12 @@
     }
   },
   "phi @ mia": {
+    "49": {
+      "player": "kyle schwarber",
+      "pitcher": "josh simpson",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "trea turner",
       "pitcher": "josh simpson",
@@ -2594,7 +2606,7 @@
       "player": "jose ramirez",
       "pitcher": "ian seymour",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "angel martinez",
@@ -2793,8 +2805,8 @@
     "37": {
       "player": "trevor larnach",
       "pitcher": "michael wacha",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "36": {
       "player": "byron buxton",
@@ -3014,17 +3026,11 @@
     }
   },
   "hou @ tex": {
-    "21": {
-      "player": "yordan alvarez",
-      "pitcher": "merrill kelly",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
     "20": {
       "player": "jeremy pena",
       "pitcher": "merrill kelly",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "michael helman",
@@ -3145,7 +3151,7 @@
     "18": {
       "player": "jordan walker",
       "pitcher": "carson seymour",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "17": {
