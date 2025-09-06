@@ -1317,7 +1317,7 @@
     "75": {
       "player": "caleb durbin",
       "pitcher": "colin holderman",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "Cutter"
     },
     "74": {
@@ -1769,7 +1769,7 @@
     "52": {
       "player": "samuel basallo",
       "pitcher": "jack dreyer",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "51": {
@@ -2795,7 +2795,7 @@
     "58": {
       "player": "julio rodriguez",
       "pitcher": "tyler kinley",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "57": {
@@ -3142,6 +3142,12 @@
     }
   },
   "cle @ tb": {
+    "48": {
+      "player": "austin hedges",
+      "pitcher": "brian van belle",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "brandon lowe",
       "pitcher": "gavin williams",
@@ -3722,11 +3728,17 @@
     }
   },
   "hou @ tex": {
+    "37": {
+      "player": "jeremy pena",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "cam smith",
       "pitcher": "merrill kelly",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Changeup"
     },
     "35": {
       "player": "josh smith",
@@ -4140,10 +4152,16 @@
     }
   },
   "sd @ col": {
+    "21": {
+      "player": "hunter goodman",
+      "pitcher": "nick pivetta",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "mickey moniak",
       "pitcher": "nick pivetta",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "19": {
