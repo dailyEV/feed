@@ -1804,12 +1804,6 @@
     }
   },
   "tor @ nyy": {
-    "42": {
-      "player": "ernie clement",
-      "pitcher": "ryan yarbrough",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "41": {
       "player": "paul goldschmidt",
       "pitcher": "kevin gausman",
@@ -2058,10 +2052,16 @@
     }
   },
   "phi @ mia": {
+    "50": {
+      "player": "bryce harper",
+      "pitcher": "josh simpson",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "kyle schwarber",
       "pitcher": "josh simpson",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "48": {
@@ -2647,8 +2647,8 @@
     "34": {
       "player": "david fry",
       "pitcher": "ian seymour",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "jose ramirez",
@@ -2850,6 +2850,12 @@
     }
   },
   "min @ kc": {
+    "38": {
+      "player": "kyle isbel",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "37": {
       "player": "trevor larnach",
       "pitcher": "michael wacha",
@@ -3211,8 +3217,8 @@
     "19": {
       "player": "willy adames",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "18": {
       "player": "jordan walker",
@@ -3324,6 +3330,12 @@
     }
   },
   "sd @ col": {
+    "7": {
+      "player": "jordan beck",
+      "pitcher": "nick pivetta",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "hunter goodman",
       "pitcher": "nick pivetta",
