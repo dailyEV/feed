@@ -877,7 +877,7 @@
     "66": {
       "player": "jahmai jones",
       "pitcher": "dan altavilla",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "65": {
@@ -1709,7 +1709,7 @@
     "49": {
       "player": "colton cowser",
       "pitcher": "jack dreyer",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "48": {
@@ -2316,6 +2316,12 @@
     }
   },
   "phi @ mia": {
+    "61": {
+      "player": "kyle schwarber",
+      "pitcher": "george soriano",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "60": {
       "player": "trea turner",
       "pitcher": "george soriano",
@@ -3939,8 +3945,8 @@
     "17": {
       "player": "jake cronenworth",
       "pitcher": "kyle freeland",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "16": {
       "player": "jose iglesias",
