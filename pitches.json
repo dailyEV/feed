@@ -464,12 +464,6 @@
     }
   },
   "nym @ cin": {
-    "73": {
-      "player": "pete alonso",
-      "pitcher": "emilio pagan",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "72": {
       "player": "will benson",
       "pitcher": "tyler rogers",
@@ -907,8 +901,8 @@
     "71": {
       "player": "dillon dingler",
       "pitcher": "jordan leasure",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "70": {
       "player": "zach mckinstry",
@@ -2107,7 +2101,7 @@
     "56": {
       "player": "jazz chisholm",
       "pitcher": "kevin gausman",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -2837,8 +2831,8 @@
     "60": {
       "player": "matt olson",
       "pitcher": "gabe speier",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "59": {
       "player": "jurickson profar",
@@ -3498,11 +3492,17 @@
     }
   },
   "min @ kc": {
+    "52": {
+      "player": "jhonny pereda",
+      "pitcher": "angel zerpa",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "brooks lee",
       "pitcher": "angel zerpa",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "50": {
       "player": "royce lewis",
@@ -4036,12 +4036,6 @@
     }
   },
   "sf @ stl": {
-    "35": {
-      "player": "masyn winn",
-      "pitcher": "carson seymour",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "34": {
       "player": "nolan gorman",
       "pitcher": "carson seymour",
