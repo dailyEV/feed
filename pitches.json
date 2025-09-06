@@ -1612,6 +1612,12 @@
     }
   },
   "mil @ pit": {
+    "23": {
+      "player": "william contreras",
+      "pitcher": "mitch keller",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "22": {
       "player": "brice turang",
       "pitcher": "mitch keller",
@@ -1821,6 +1827,12 @@
     }
   },
   "sf @ stl": {
+    "6": {
+      "player": "ivan herrera",
+      "pitcher": "justin verlander",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "lars nootbaar",
       "pitcher": "justin verlander",
@@ -1856,7 +1868,7 @@
     "5": {
       "player": "wyatt langford",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "4": {
@@ -1917,10 +1929,16 @@
     }
   },
   "sea @ atl": {
+    "6": {
+      "player": "jorge polanco",
+      "pitcher": "hurston waldrep",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "eugenio suarez",
       "pitcher": "hurston waldrep",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "4": {
