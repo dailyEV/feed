@@ -1323,7 +1323,7 @@
     "75": {
       "player": "caleb durbin",
       "pitcher": "colin holderman",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "74": {
@@ -2086,11 +2086,17 @@
     }
   },
   "tor @ nyy": {
+    "56": {
+      "player": "jazz chisholm",
+      "pitcher": "kevin gausman",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "giancarlo stanton",
       "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "cody bellinger",
@@ -3450,6 +3456,12 @@
     }
   },
   "min @ kc": {
+    "50": {
+      "player": "royce lewis",
+      "pitcher": "angel zerpa",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "michael massey",
       "pitcher": "pablo lopez",
