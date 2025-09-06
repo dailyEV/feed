@@ -1902,7 +1902,7 @@
       "player": "andy pages",
       "pitcher": "rico garcia",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "61": {
       "player": "michael conforto",
@@ -2275,8 +2275,8 @@
     "65": {
       "player": "ben rice",
       "pitcher": "kevin gausman",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "64": {
       "player": "trent grisham",
@@ -3547,7 +3547,7 @@
     "62": {
       "player": "austin hedges",
       "pitcher": "brian van belle",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "61": {
@@ -4283,7 +4283,7 @@
     "48": {
       "player": "josh jung",
       "pitcher": "aj blubaugh",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -4854,6 +4854,12 @@
     }
   },
   "sd @ col": {
+    "33": {
+      "player": "jose iglesias",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "32": {
       "player": "jackson merrill",
       "pitcher": "kyle freeland",
@@ -5048,6 +5054,12 @@
     }
   },
   "ath @ laa": {
+    "4": {
+      "player": "tyler soderstrom",
+      "pitcher": "jose soriano",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "3": {
       "player": "brent rooker",
       "pitcher": "jose soriano",
@@ -5068,6 +5080,12 @@
     }
   },
   "bos @ ari": {
+    "3": {
+      "player": "trevor story",
+      "pitcher": "eduardo rodriguez",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "2": {
       "player": "alex bregman",
       "pitcher": "eduardo rodriguez",
