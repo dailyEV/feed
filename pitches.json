@@ -467,7 +467,7 @@
     "41": {
       "player": "brandon nimmo",
       "pitcher": "andrew abbott",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sweeper"
     },
     "40": {
@@ -712,12 +712,6 @@
     }
   },
   "chw @ det": {
-    "37": {
-      "player": "kyle teel",
-      "pitcher": "jack flaherty",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "36": {
       "player": "edgar quero",
       "pitcher": "jack flaherty",
@@ -936,11 +930,17 @@
     }
   },
   "mil @ pit": {
+    "38": {
+      "player": "brice turang",
+      "pitcher": "johan oviedo",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "joey ortiz",
       "pitcher": "johan oviedo",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "caleb durbin",
@@ -1160,6 +1160,12 @@
     }
   },
   "lad @ bal": {
+    "23": {
+      "player": "gunnar henderson",
+      "pitcher": "shohei ohtani",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "22": {
       "player": "jeremiah jackson",
       "pitcher": "shohei ohtani",
@@ -1693,8 +1699,8 @@
     "8": {
       "player": "brandon lowe",
       "pitcher": "gavin williams",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "7": {
       "player": "yandy diaz",
@@ -1743,7 +1749,7 @@
     "11": {
       "player": "royce lewis",
       "pitcher": "michael wacha",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "10": {
