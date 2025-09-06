@@ -950,7 +950,7 @@
       "player": "gleyber torres",
       "pitcher": "jordan leasure",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "78": {
       "player": "colt keith",
@@ -1895,8 +1895,8 @@
     "60": {
       "player": "teoscar hernandez",
       "pitcher": "rico garcia",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "jeremiah jackson",
@@ -2634,6 +2634,12 @@
     }
   },
   "phi @ mia": {
+    "77": {
+      "player": "bryson stott",
+      "pitcher": "michael petersen",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "76": {
       "player": "alec bohm",
       "pitcher": "michael petersen",
@@ -4978,10 +4984,16 @@
     }
   },
   "bos @ ari": {
+    "2": {
+      "player": "alex bregman",
+      "pitcher": "eduardo rodriguez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "jarren duran",
       "pitcher": "eduardo rodriguez",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     }
   }
