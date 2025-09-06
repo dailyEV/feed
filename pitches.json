@@ -802,11 +802,23 @@
     }
   },
   "chw @ det": {
+    "55": {
+      "player": "colson montgomery",
+      "pitcher": "keider montero",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "54": {
+      "player": "curtis mead",
+      "pitcher": "keider montero",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "53": {
       "player": "kyle teel",
       "pitcher": "keider montero",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "52": {
       "player": "edgar quero",
@@ -1714,17 +1726,11 @@
     }
   },
   "tor @ nyy": {
-    "38": {
-      "player": "nathan lukes",
-      "pitcher": "ryan yarbrough",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "37": {
       "player": "alejandro kirk",
       "pitcher": "ryan yarbrough",
-      "result": "Foul Tip",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "36": {
       "player": "daulton varsho",
@@ -1944,6 +1950,12 @@
     }
   },
   "phi @ mia": {
+    "45": {
+      "player": "max kepler",
+      "pitcher": "josh simpson",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "agustin ramirez",
       "pitcher": "cristopher sanchez",
@@ -2213,7 +2225,7 @@
     "43": {
       "player": "julio rodriguez",
       "pitcher": "chris sale",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "42": {
@@ -2655,8 +2667,8 @@
     "33": {
       "player": "royce lewis",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "32": {
       "player": "jac caglianone",
