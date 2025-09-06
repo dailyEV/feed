@@ -467,7 +467,7 @@
     "43": {
       "player": "jeff mcneil",
       "pitcher": "andrew abbott",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -954,11 +954,17 @@
     }
   },
   "mil @ pit": {
+    "42": {
+      "player": "tommy pham",
+      "pitcher": "quinn priester",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "41": {
       "player": "bryan reynolds",
       "pitcher": "quinn priester",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "40": {
       "player": "spencer horwitz",
@@ -1205,8 +1211,8 @@
     "25": {
       "player": "teoscar hernandez",
       "pitcher": "dietrich enns",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "24": {
       "player": "freddie freeman",
@@ -1485,8 +1491,8 @@
     "26": {
       "player": "brandon marsh",
       "pitcher": "lake bachar",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "jt realmuto",
@@ -1640,6 +1646,12 @@
     }
   },
   "sea @ atl": {
+    "26": {
+      "player": "ha seong kim",
+      "pitcher": "logan gilbert",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "25": {
       "player": "drake baldwin",
       "pitcher": "logan gilbert",
@@ -1792,6 +1804,12 @@
     }
   },
   "cle @ tb": {
+    "11": {
+      "player": "jhonkensy noel",
+      "pitcher": "ian seymour",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "10": {
       "player": "gabriel arias",
       "pitcher": "ian seymour",
