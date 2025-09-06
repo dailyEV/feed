@@ -1338,10 +1338,16 @@
     }
   },
   "mil @ pit": {
+    "78": {
+      "player": "oneil cruz",
+      "pitcher": "abner uribe",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "77": {
       "player": "nick gonzales",
       "pitcher": "abner uribe",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "76": {
@@ -2873,7 +2879,7 @@
     "62": {
       "player": "drake baldwin",
       "pitcher": "gabe speier",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -4311,8 +4317,8 @@
     "23": {
       "player": "fernando tatis",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "22": {
       "player": "jordan beck",
