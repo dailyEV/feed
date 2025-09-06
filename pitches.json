@@ -467,7 +467,7 @@
     "77": {
       "player": "matt mclain",
       "pitcher": "edwin diaz",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "76": {
@@ -1850,6 +1850,12 @@
     }
   },
   "lad @ bal": {
+    "57": {
+      "player": "coby mayo",
+      "pitcher": "blake treinen",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "56": {
       "player": "freddie freeman",
       "pitcher": "grant wolfram",
@@ -2188,11 +2194,17 @@
     }
   },
   "tor @ nyy": {
+    "60": {
+      "player": "ernie clement",
+      "pitcher": "mark leiter",
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
+    },
     "59": {
       "player": "nathan lukes",
       "pitcher": "mark leiter",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "58": {
       "player": "alejandro kirk",
@@ -3376,6 +3388,12 @@
     }
   },
   "cle @ tb": {
+    "55": {
+      "player": "junior caminero",
+      "pitcher": "gavin williams",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "54": {
       "player": "gabriel arias",
       "pitcher": "brian van belle",
@@ -3705,8 +3723,8 @@
     "55": {
       "player": "kyle isbel",
       "pitcher": "kody funderburk",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "54": {
       "player": "jac caglianone",
@@ -4536,11 +4554,17 @@
     }
   },
   "sd @ col": {
+    "27": {
+      "player": "ezequiel tovar",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "26": {
       "player": "brenton doyle",
       "pitcher": "nick pivetta",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "25": {
       "player": "manny machado",
