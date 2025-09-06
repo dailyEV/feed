@@ -1011,7 +1011,7 @@
     "46": {
       "player": "andrew vaughn",
       "pitcher": "carmen mlodzinski",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "45": {
@@ -1608,10 +1608,16 @@
     }
   },
   "phi @ mia": {
+    "33": {
+      "player": "joey wiemer",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "32": {
       "player": "eric wagaman",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "31": {
@@ -1984,6 +1990,12 @@
     }
   },
   "cle @ tb": {
+    "18": {
+      "player": "nolan jones",
+      "pitcher": "ian seymour",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "17": {
       "player": "david fry",
       "pitcher": "ian seymour",
