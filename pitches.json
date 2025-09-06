@@ -2125,8 +2125,8 @@
     "57": {
       "player": "paul goldschmidt",
       "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "56": {
       "player": "jazz chisholm",
@@ -2870,11 +2870,23 @@
     }
   },
   "sea @ atl": {
+    "62": {
+      "player": "drake baldwin",
+      "pitcher": "gabe speier",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "61": {
+      "player": "ozzie albies",
+      "pitcher": "gabe speier",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "60": {
       "player": "matt olson",
       "pitcher": "gabe speier",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "59": {
       "player": "jurickson profar",
