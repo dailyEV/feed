@@ -1451,7 +1451,7 @@
     "19": {
       "player": "juan soto",
       "pitcher": "brady singer",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "18": {
@@ -1726,8 +1726,21 @@
       "pitch": "Slider"
     }
   },
-  "hou @ tex": {},
+  "hou @ tex": {
+    "1": {
+      "player": "jeremy pena",
+      "pitcher": "jacob degrom",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    }
+  },
   "min @ kc": {
+    "2": {
+      "player": "trevor larnach",
+      "pitcher": "stephen kolek",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "1": {
       "player": "byron buxton",
       "pitcher": "stephen kolek",
@@ -1735,7 +1748,20 @@
       "pitch": "Cutter"
     }
   },
-  "sea @ atl": {},
+  "sea @ atl": {
+    "2": {
+      "player": "cal raleigh",
+      "pitcher": "hurston waldrep",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
+    "1": {
+      "player": "randy arozarena",
+      "pitcher": "hurston waldrep",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    }
+  },
   "bos @ ari": {},
   "sd @ col": {},
   "ath @ laa": {}
