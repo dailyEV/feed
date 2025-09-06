@@ -464,12 +464,6 @@
     }
   },
   "nym @ cin": {
-    "81": {
-      "player": "gavin lux",
-      "pitcher": "edwin diaz",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "80": {
       "player": "elly de la cruz",
       "pitcher": "edwin diaz",
@@ -2655,8 +2649,8 @@
     "77": {
       "player": "bryson stott",
       "pitcher": "michael petersen",
-      "result": "Ball In Dirt",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "76": {
       "player": "alec bohm",
@@ -3535,8 +3529,8 @@
     "62": {
       "player": "austin hedges",
       "pitcher": "brian van belle",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "61": {
       "player": "brayan rocchio",
@@ -3906,6 +3900,12 @@
     }
   },
   "min @ kc": {
+    "60": {
+      "player": "austin martin",
+      "pitcher": "taylor clarke",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "59": {
       "player": "kody clemens",
       "pitcher": "daniel lynch",
@@ -5024,11 +5024,17 @@
     }
   },
   "ath @ laa": {
+    "4": {
+      "player": "tyler soderstrom",
+      "pitcher": "jose soriano",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "3": {
       "player": "brent rooker",
       "pitcher": "jose soriano",
       "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "pitch": "Sinker"
     },
     "2": {
       "player": "shea langeliers",
@@ -5047,8 +5053,8 @@
     "2": {
       "player": "alex bregman",
       "pitcher": "eduardo rodriguez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "jarren duran",
