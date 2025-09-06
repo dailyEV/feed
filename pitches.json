@@ -464,11 +464,17 @@
     }
   },
   "nym @ cin": {
+    "49": {
+      "player": "francisco lindor",
+      "pitcher": "connor phillips",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "luisangel acuna",
       "pitcher": "connor phillips",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "elly de la cruz",
@@ -1302,7 +1308,7 @@
       "player": "colton cowser",
       "pitcher": "shohei ohtani",
       "result": "Ball",
-      "pitch": "Splitter"
+      "pitch": "Curveball"
     },
     "30": {
       "player": "ryan mountcastle",
@@ -1486,12 +1492,6 @@
     }
   },
   "tor @ nyy": {
-    "26": {
-      "player": "jose caballero",
-      "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "25": {
       "player": "ryan mcmahon",
       "pitcher": "kevin gausman",
@@ -2047,7 +2047,7 @@
     "19": {
       "player": "josh lowe",
       "pitcher": "gavin williams",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -2323,8 +2323,8 @@
     "3": {
       "player": "willy adames",
       "pitcher": "michael mcgreevy",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "2": {
       "player": "rafael devers",
