@@ -898,6 +898,12 @@
     }
   },
   "chw @ det": {
+    "70": {
+      "player": "zach mckinstry",
+      "pitcher": "jordan leasure",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "69": {
       "player": "wenceel perez",
       "pitcher": "dan altavilla",
@@ -1769,7 +1775,7 @@
     "52": {
       "player": "samuel basallo",
       "pitcher": "jack dreyer",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "51": {
@@ -2412,10 +2418,16 @@
     }
   },
   "phi @ mia": {
+    "64": {
+      "player": "victor mesa",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "63": {
       "player": "maximo acosta",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "62": {
@@ -2792,10 +2804,16 @@
     }
   },
   "sea @ atl": {
+    "59": {
+      "player": "jurickson profar",
+      "pitcher": "gabe speier",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "julio rodriguez",
       "pitcher": "tyler kinley",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "57": {
@@ -3142,6 +3160,12 @@
     }
   },
   "cle @ tb": {
+    "49": {
+      "player": "steven kwan",
+      "pitcher": "brian van belle",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "48": {
       "player": "austin hedges",
       "pitcher": "brian van belle",
@@ -4155,8 +4179,8 @@
     "21": {
       "player": "hunter goodman",
       "pitcher": "nick pivetta",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "20": {
       "player": "mickey moniak",
