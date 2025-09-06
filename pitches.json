@@ -1358,12 +1358,6 @@
     }
   },
   "lad @ bal": {
-    "34": {
-      "player": "samuel basallo",
-      "pitcher": "anthony banda",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "33": {
       "player": "dylan beavers",
       "pitcher": "anthony banda",
@@ -1567,8 +1561,8 @@
     "30": {
       "player": "addison barger",
       "pitcher": "ryan yarbrough",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "29": {
       "player": "george springer",
@@ -1749,7 +1743,7 @@
     "37": {
       "player": "kyle schwarber",
       "pitcher": "josh simpson",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "36": {
@@ -1973,7 +1967,7 @@
     "36": {
       "player": "luke raley",
       "pitcher": "chris sale",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "35": {
@@ -2489,7 +2483,7 @@
     "9": {
       "player": "jesus sanchez",
       "pitcher": "merrill kelly",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "8": {
@@ -2542,6 +2536,12 @@
     }
   },
   "sf @ stl": {
+    "7": {
+      "player": "lars nootbaar",
+      "pitcher": "carson seymour",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "jung hoo lee",
       "pitcher": "michael mcgreevy",
