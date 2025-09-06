@@ -787,8 +787,8 @@
     "51": {
       "player": "wenceel perez",
       "pitcher": "tyler gilbert",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "50": {
       "player": "spencer torkelson",
@@ -1412,18 +1412,6 @@
     }
   },
   "lad @ bal": {
-    "37": {
-      "player": "mookie betts",
-      "pitcher": "dietrich enns",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
-    "36": {
-      "player": "shohei ohtani",
-      "pitcher": "dietrich enns",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "35": {
       "player": "miguel rojas",
       "pitcher": "dietrich enns",
@@ -2320,11 +2308,17 @@
     }
   },
   "cle @ tb": {
+    "27": {
+      "player": "austin hedges",
+      "pitcher": "ian seymour",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "brayan rocchio",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "25": {
       "player": "jhonkensy noel",
@@ -2734,12 +2728,6 @@
     }
   },
   "sf @ stl": {
-    "11": {
-      "player": "drew gilbert",
-      "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "10": {
       "player": "casey schmitt",
       "pitcher": "michael mcgreevy",
