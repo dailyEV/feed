@@ -467,8 +467,8 @@
     "77": {
       "player": "matt mclain",
       "pitcher": "edwin diaz",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "76": {
       "player": "kebryan hayes",
@@ -928,11 +928,17 @@
     }
   },
   "chw @ det": {
+    "75": {
+      "player": "curtis mead",
+      "pitcher": "keider montero",
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
+    },
     "74": {
       "player": "kyle teel",
       "pitcher": "keider montero",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "73": {
       "player": "edgar quero",
@@ -2185,8 +2191,8 @@
     "59": {
       "player": "nathan lukes",
       "pitcher": "mark leiter",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "alejandro kirk",
@@ -4010,6 +4016,12 @@
     }
   },
   "hou @ tex": {
+    "42": {
+      "player": "jake burger",
+      "pitcher": "aj blubaugh",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "41": {
       "player": "wyatt langford",
       "pitcher": "aj blubaugh",
@@ -4258,6 +4270,12 @@
     }
   },
   "sf @ stl": {
+    "41": {
+      "player": "jimmy crooks",
+      "pitcher": "carson seymour",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "patrick bailey",
       "pitcher": "gordon graceffo",
@@ -4503,8 +4521,8 @@
     "26": {
       "player": "brenton doyle",
       "pitcher": "nick pivetta",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "manny machado",
