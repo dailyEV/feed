@@ -778,10 +778,16 @@
     }
   },
   "chw @ det": {
+    "50": {
+      "player": "spencer torkelson",
+      "pitcher": "tyler gilbert",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "49": {
       "player": "riley greene",
       "pitcher": "tyler gilbert",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "48": {
@@ -1077,7 +1083,7 @@
     "53": {
       "player": "oneil cruz",
       "pitcher": "quinn priester",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "52": {
@@ -2030,6 +2036,18 @@
     }
   },
   "sea @ atl": {
+    "38": {
+      "player": "jurickson profar",
+      "pitcher": "logan gilbert",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "37": {
+      "player": "nacho alvarez",
+      "pitcher": "logan gilbert",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "luke raley",
       "pitcher": "chris sale",
@@ -2248,6 +2266,12 @@
     }
   },
   "cle @ tb": {
+    "25": {
+      "player": "jhonkensy noel",
+      "pitcher": "ian seymour",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "24": {
       "player": "gabriel arias",
       "pitcher": "ian seymour",
@@ -2394,6 +2418,12 @@
     }
   },
   "min @ kc": {
+    "28": {
+      "player": "austin martin",
+      "pitcher": "michael wacha",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "27": {
       "player": "kody clemens",
       "pitcher": "michael wacha",
@@ -2558,6 +2588,12 @@
     }
   },
   "hou @ tex": {
+    "11": {
+      "player": "victor caratini",
+      "pitcher": "merrill kelly",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "10": {
       "player": "christian walker",
       "pitcher": "merrill kelly",
