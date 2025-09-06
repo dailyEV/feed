@@ -467,7 +467,7 @@
     "56": {
       "player": "kebryan hayes",
       "pitcher": "ryne stanek",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -802,11 +802,17 @@
     }
   },
   "chw @ det": {
+    "54": {
+      "player": "curtis mead",
+      "pitcher": "keider montero",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "53": {
       "player": "kyle teel",
       "pitcher": "keider montero",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "52": {
       "player": "edgar quero",
@@ -1122,6 +1128,12 @@
     }
   },
   "mil @ pit": {
+    "59": {
+      "player": "joey bart",
+      "pitcher": "quinn priester",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "58": {
       "player": "andrew vaughn",
       "pitcher": "kyle nicolas",
@@ -1711,7 +1723,7 @@
     "37": {
       "player": "alejandro kirk",
       "pitcher": "ryan yarbrough",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Cutter"
     },
     "36": {
@@ -1935,8 +1947,8 @@
     "44": {
       "player": "agustin ramirez",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "43": {
       "player": "otto lopez",
@@ -2461,8 +2473,8 @@
     "30": {
       "player": "brandon lowe",
       "pitcher": "gavin williams",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "29": {
       "player": "yandy diaz",
@@ -2837,8 +2849,8 @@
     "18": {
       "player": "josh smith",
       "pitcher": "colton gordon",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "dylan moore",
