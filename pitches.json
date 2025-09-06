@@ -770,7 +770,7 @@
       "player": "michael a taylor",
       "pitcher": "bailey horn",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "andrew benintendi",
@@ -1510,12 +1510,6 @@
     }
   },
   "tor @ nyy": {
-    "27": {
-      "player": "trent grisham",
-      "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "26": {
       "player": "jose caballero",
       "pitcher": "kevin gausman",
@@ -1886,17 +1880,11 @@
     }
   },
   "sea @ atl": {
-    "33": {
-      "player": "jake fraley",
-      "pitcher": "logan gilbert",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "32": {
       "player": "marcell ozuna",
       "pitcher": "logan gilbert",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "31": {
       "player": "michael harris",
@@ -2086,6 +2074,12 @@
     }
   },
   "cle @ tb": {
+    "20": {
+      "player": "jake mangum",
+      "pitcher": "gavin williams",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "josh lowe",
       "pitcher": "gavin williams",
@@ -2330,6 +2324,12 @@
     }
   },
   "hou @ tex": {
+    "6": {
+      "player": "wyatt langford",
+      "pitcher": "colton gordon",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "5": {
       "player": "cody freeman",
       "pitcher": "colton gordon",
@@ -2365,8 +2365,8 @@
     "4": {
       "player": "dominic smith",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "3": {
       "player": "willy adames",
