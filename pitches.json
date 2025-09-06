@@ -1260,6 +1260,18 @@
     }
   },
   "chw @ det": {
+    "37": {
+      "player": "michael a taylor",
+      "pitcher": "tarik skubal",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "36": {
+      "player": "bryan ramos",
+      "pitcher": "tarik skubal",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "35": {
       "player": "curtis mead",
       "pitcher": "tarik skubal",
@@ -1627,8 +1639,8 @@
     "24": {
       "player": "jake bauers",
       "pitcher": "mitch keller",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "william contreras",
@@ -1781,8 +1793,8 @@
     "12": {
       "player": "bo naylor",
       "pitcher": "shane baz",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "11": {
       "player": "gabriel arias",
@@ -1852,11 +1864,17 @@
     }
   },
   "sf @ stl": {
+    "7": {
+      "player": "nolan gorman",
+      "pitcher": "justin verlander",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "6": {
       "player": "ivan herrera",
       "pitcher": "justin verlander",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "5": {
       "player": "lars nootbaar",
@@ -1893,7 +1911,7 @@
     "6": {
       "player": "joc pederson",
       "pitcher": "hunter brown",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "5": {
@@ -1928,11 +1946,17 @@
     }
   },
   "min @ kc": {
+    "6": {
+      "player": "vinnie pasquantino",
+      "pitcher": "joe ryan",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "maikel garcia",
       "pitcher": "joe ryan",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "4": {
       "player": "mike yastrzemski",
