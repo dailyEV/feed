@@ -467,7 +467,7 @@
     "70": {
       "player": "austin hays",
       "pitcher": "tyler rogers",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "69": {
@@ -886,12 +886,6 @@
     }
   },
   "chw @ det": {
-    "69": {
-      "player": "wenceel perez",
-      "pitcher": "dan altavilla",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "68": {
       "player": "spencer torkelson",
       "pitcher": "dan altavilla",
@@ -1302,6 +1296,12 @@
     }
   },
   "mil @ pit": {
+    "73": {
+      "player": "andrew vaughn",
+      "pitcher": "colin holderman",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "72": {
       "player": "sal frelick",
       "pitcher": "colin holderman",
@@ -2729,7 +2729,7 @@
     "57": {
       "player": "cal raleigh",
       "pitcher": "tyler kinley",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "56": {
@@ -3073,8 +3073,8 @@
     "47": {
       "player": "brandon lowe",
       "pitcher": "gavin williams",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "46": {
       "player": "yandy diaz",
@@ -3357,8 +3357,8 @@
     "48": {
       "player": "adam frazier",
       "pitcher": "pablo lopez",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "salvador perez",
@@ -3644,6 +3644,12 @@
     }
   },
   "hou @ tex": {
+    "35": {
+      "player": "josh smith",
+      "pitcher": "colton gordon",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "34": {
       "player": "dylan moore",
       "pitcher": "colton gordon",
