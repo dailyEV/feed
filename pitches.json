@@ -467,8 +467,8 @@
     "65": {
       "player": "francisco alvarez",
       "pitcher": "nick martinez",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "64": {
       "player": "jeff mcneil",
@@ -859,7 +859,7 @@
     "62": {
       "player": "gleyber torres",
       "pitcher": "dan altavilla",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "61": {
@@ -1646,12 +1646,6 @@
     }
   },
   "lad @ bal": {
-    "48": {
-      "player": "dalton rushing",
-      "pitcher": "kade strowd",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "47": {
       "player": "enrique hernandez",
       "pitcher": "kade strowd",
@@ -1936,6 +1930,12 @@
     }
   },
   "tor @ nyy": {
+    "49": {
+      "player": "addison barger",
+      "pitcher": "ryan yarbrough",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "ben rice",
       "pitcher": "kevin gausman",
@@ -3390,7 +3390,7 @@
       "player": "jesus sanchez",
       "pitcher": "merrill kelly",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "carlos correa",
@@ -3565,7 +3565,7 @@
     "25": {
       "player": "jung hoo lee",
       "pitcher": "michael mcgreevy",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sweeper"
     },
     "24": {
@@ -3718,7 +3718,7 @@
       "player": "warming bernabel",
       "pitcher": "nick pivetta",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "kyle karros",
