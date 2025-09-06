@@ -1334,12 +1334,6 @@
     }
   },
   "lad @ bal": {
-    "32": {
-      "player": "emmanuel rivera",
-      "pitcher": "shohei ohtani",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "31": {
       "player": "colton cowser",
       "pitcher": "shohei ohtani",
@@ -2110,10 +2104,16 @@
     }
   },
   "cle @ tb": {
+    "21": {
+      "player": "hunter feduccia",
+      "pitcher": "gavin williams",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "jake mangum",
       "pitcher": "gavin williams",
-      "result": "Foul Tip",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "19": {
@@ -2232,6 +2232,12 @@
     }
   },
   "min @ kc": {
+    "22": {
+      "player": "mike yastrzemski",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "luke keaschall",
       "pitcher": "michael wacha",
@@ -2363,7 +2369,7 @@
     "7": {
       "player": "jake burger",
       "pitcher": "colton gordon",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "6": {
