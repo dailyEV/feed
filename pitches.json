@@ -1263,8 +1263,8 @@
     "31": {
       "player": "jahmai jones",
       "pitcher": "martin perez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "javier baez",
@@ -1451,8 +1451,8 @@
     "19": {
       "player": "juan soto",
       "pitcher": "brady singer",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "18": {
       "player": "francisco lindor",
@@ -1718,14 +1718,21 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "sf @ stl": {},
+  "sf @ stl": {
+    "1": {
+      "player": "jung hoo lee",
+      "pitcher": "andre pallante",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    }
+  },
   "hou @ tex": {},
   "min @ kc": {
     "1": {
       "player": "byron buxton",
       "pitcher": "stephen kolek",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     }
   },
   "sea @ atl": {},
