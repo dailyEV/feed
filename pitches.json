@@ -467,7 +467,7 @@
     "65": {
       "player": "francisco alvarez",
       "pitcher": "nick martinez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Cutter"
     },
     "64": {
@@ -1230,17 +1230,11 @@
     }
   },
   "mil @ pit": {
-    "69": {
-      "player": "tommy pham",
-      "pitcher": "jared koenig",
-      "result": "Called Strike",
-      "pitch": "Changeup"
-    },
     "68": {
       "player": "bryan reynolds",
       "pitcher": "jared koenig",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "67": {
       "player": "spencer horwitz",
@@ -2220,12 +2214,6 @@
     }
   },
   "phi @ mia": {
-    "57": {
-      "player": "max kepler",
-      "pitcher": "george soriano",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "56": {
       "player": "harrison bader",
       "pitcher": "george soriano",
@@ -3380,6 +3368,12 @@
     }
   },
   "hou @ tex": {
+    "29": {
+      "player": "jesus sanchez",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "carlos correa",
       "pitcher": "merrill kelly",
@@ -3553,8 +3547,8 @@
     "25": {
       "player": "jung hoo lee",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "24": {
       "player": "lars nootbaar",
@@ -3702,6 +3696,12 @@
     }
   },
   "sd @ col": {
+    "13": {
+      "player": "kyle karros",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "ezequiel tovar",
       "pitcher": "nick pivetta",
