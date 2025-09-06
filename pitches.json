@@ -464,17 +464,11 @@
     }
   },
   "nym @ cin": {
-    "67": {
-      "player": "francisco lindor",
-      "pitcher": "nick martinez",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "66": {
       "player": "luisangel acuna",
       "pitcher": "nick martinez",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "65": {
       "player": "francisco alvarez",
@@ -868,6 +862,12 @@
     }
   },
   "chw @ det": {
+    "63": {
+      "player": "andrew benintendi",
+      "pitcher": "keider montero",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "gleyber torres",
       "pitcher": "dan altavilla",
@@ -1948,11 +1948,17 @@
     }
   },
   "tor @ nyy": {
+    "51": {
+      "player": "bo bichette",
+      "pitcher": "ryan yarbrough",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "50": {
       "player": "vladimir guerrero",
       "pitcher": "ryan yarbrough",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "49": {
       "player": "addison barger",
@@ -2917,8 +2923,8 @@
     "41": {
       "player": "gabriel arias",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "40": {
       "player": "nolan jones",
@@ -3434,6 +3440,12 @@
     }
   },
   "hou @ tex": {
+    "31": {
+      "player": "victor caratini",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "30": {
       "player": "christian walker",
       "pitcher": "merrill kelly",
@@ -3616,11 +3628,17 @@
     }
   },
   "sf @ stl": {
+    "27": {
+      "player": "drew gilbert",
+      "pitcher": "michael mcgreevy",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "26": {
       "player": "casey schmitt",
       "pitcher": "michael mcgreevy",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "25": {
       "player": "jung hoo lee",
