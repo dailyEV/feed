@@ -1212,6 +1212,12 @@
     }
   },
   "mil @ pit": {
+    "67": {
+      "player": "spencer horwitz",
+      "pitcher": "jared koenig",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "66": {
       "player": "isaac collins",
       "pitcher": "yohan ramirez",
@@ -1613,7 +1619,7 @@
     "45": {
       "player": "michael conforto",
       "pitcher": "kade strowd",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -1885,8 +1891,8 @@
     "45": {
       "player": "ryan mcmahon",
       "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "44": {
       "player": "george springer",
@@ -2154,6 +2160,12 @@
     }
   },
   "phi @ mia": {
+    "54": {
+      "player": "jt realmuto",
+      "pitcher": "george soriano",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "53": {
       "player": "eric wagaman",
       "pitcher": "cristopher sanchez",
@@ -2477,8 +2489,8 @@
     "51": {
       "player": "leo rivas",
       "pitcher": "dylan lee",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "50": {
       "player": "dominic canzone",
@@ -2785,7 +2797,7 @@
     "38": {
       "player": "hunter feduccia",
       "pitcher": "gavin williams",
-      "result": "Ball In Dirt",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "37": {
@@ -3260,10 +3272,16 @@
     }
   },
   "hou @ tex": {
+    "27": {
+      "player": "josh jung",
+      "pitcher": "colton gordon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "kyle higashioka",
       "pitcher": "colton gordon",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "25": {
@@ -3418,11 +3436,17 @@
     }
   },
   "sf @ stl": {
+    "24": {
+      "player": "lars nootbaar",
+      "pitcher": "carson seymour",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "jose fermin",
       "pitcher": "carson seymour",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "22": {
       "player": "victor scott",
