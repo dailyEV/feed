@@ -1615,8 +1615,8 @@
     "32": {
       "player": "aaron judge",
       "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "ben rice",
@@ -2048,6 +2048,12 @@
     }
   },
   "sea @ atl": {
+    "39": {
+      "player": "matt olson",
+      "pitcher": "logan gilbert",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "38": {
       "player": "jurickson profar",
       "pitcher": "logan gilbert",
@@ -2278,11 +2284,17 @@
     }
   },
   "cle @ tb": {
+    "26": {
+      "player": "brayan rocchio",
+      "pitcher": "ian seymour",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "jhonkensy noel",
       "pitcher": "ian seymour",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "gabriel arias",
@@ -2609,7 +2621,7 @@
     "12": {
       "player": "taylor trammell",
       "pitcher": "merrill kelly",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "11": {
