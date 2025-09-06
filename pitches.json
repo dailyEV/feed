@@ -763,7 +763,7 @@
     "45": {
       "player": "michael a taylor",
       "pitcher": "bailey horn",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -1874,11 +1874,17 @@
     }
   },
   "sea @ atl": {
-    "32": {
-      "player": "marcell ozuna",
+    "33": {
+      "player": "jake fraley",
       "pitcher": "logan gilbert",
       "result": "Foul",
       "pitch": "Slider"
+    },
+    "32": {
+      "player": "marcell ozuna",
+      "pitcher": "logan gilbert",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "31": {
       "player": "michael harris",
@@ -2068,11 +2074,17 @@
     }
   },
   "cle @ tb": {
+    "20": {
+      "player": "jake mangum",
+      "pitcher": "gavin williams",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "josh lowe",
       "pitcher": "gavin williams",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "18": {
       "player": "nolan jones",
@@ -2187,8 +2199,8 @@
     "21": {
       "player": "luke keaschall",
       "pitcher": "michael wacha",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "20": {
       "player": "trevor larnach",
@@ -2312,12 +2324,6 @@
     }
   },
   "hou @ tex": {
-    "6": {
-      "player": "wyatt langford",
-      "pitcher": "colton gordon",
-      "result": "Foul",
-      "pitch": "Sweeper"
-    },
     "5": {
       "player": "cody freeman",
       "pitcher": "colton gordon",
@@ -2350,6 +2356,12 @@
     }
   },
   "sf @ stl": {
+    "4": {
+      "player": "dominic smith",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "willy adames",
       "pitcher": "michael mcgreevy",
