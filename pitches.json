@@ -2209,8 +2209,8 @@
     "61": {
       "player": "andres gimenez",
       "pitcher": "mark leiter",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "60": {
       "player": "ernie clement",
@@ -3008,6 +3008,12 @@
     }
   },
   "sea @ atl": {
+    "67": {
+      "player": "eugenio suarez",
+      "pitcher": "raisel iglesias",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "66": {
       "player": "jake fraley",
       "pitcher": "carlos vargas",
@@ -3406,11 +3412,17 @@
     }
   },
   "cle @ tb": {
+    "58": {
+      "player": "hunter feduccia",
+      "pitcher": "gavin williams",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "57": {
       "player": "jake mangum",
       "pitcher": "gavin williams",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "josh lowe",
@@ -4082,12 +4094,6 @@
     }
   },
   "hou @ tex": {
-    "43": {
-      "player": "jose altuve",
-      "pitcher": "merrill kelly",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "42": {
       "player": "jake burger",
       "pitcher": "aj blubaugh",
