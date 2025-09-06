@@ -2466,6 +2466,12 @@
     }
   },
   "phi @ mia": {
+    "67": {
+      "player": "rafael marchan",
+      "pitcher": "seth martinez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "66": {
       "player": "bryce harper",
       "pitcher": "seth martinez",
@@ -2864,23 +2870,11 @@
     }
   },
   "sea @ atl": {
-    "62": {
-      "player": "drake baldwin",
-      "pitcher": "gabe speier",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
-    "61": {
-      "player": "ozzie albies",
-      "pitcher": "gabe speier",
-      "result": "In play, run(s)",
-      "pitch": "Sinker"
-    },
     "60": {
       "player": "matt olson",
       "pitcher": "gabe speier",
-      "result": "In play, run(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "59": {
       "player": "jurickson profar",
@@ -3238,10 +3232,16 @@
     }
   },
   "cle @ tb": {
+    "51": {
+      "player": "jose ramirez",
+      "pitcher": "brian van belle",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "angel martinez",
       "pitcher": "brian van belle",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "49": {
@@ -4296,6 +4296,12 @@
     }
   },
   "sd @ col": {
+    "23": {
+      "player": "fernando tatis",
+      "pitcher": "kyle freeland",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "22": {
       "player": "jordan beck",
       "pitcher": "nick pivetta",
