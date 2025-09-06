@@ -464,6 +464,12 @@
     }
   },
   "nym @ cin": {
+    "59": {
+      "player": "brandon nimmo",
+      "pitcher": "nick martinez",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "58": {
       "player": "mark vientos",
       "pitcher": "nick martinez",
@@ -2606,7 +2612,7 @@
       "player": "jose ramirez",
       "pitcher": "ian seymour",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "32": {
       "player": "angel martinez",
@@ -2805,8 +2811,8 @@
     "37": {
       "player": "trevor larnach",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "36": {
       "player": "byron buxton",
@@ -3026,11 +3032,17 @@
     }
   },
   "hou @ tex": {
+    "21": {
+      "player": "yordan alvarez",
+      "pitcher": "merrill kelly",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "20": {
       "player": "jeremy pena",
       "pitcher": "merrill kelly",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "19": {
       "player": "michael helman",
@@ -3151,7 +3163,7 @@
     "18": {
       "player": "jordan walker",
       "pitcher": "carson seymour",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "17": {
