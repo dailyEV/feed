@@ -1898,12 +1898,6 @@
     }
   },
   "lad @ bal": {
-    "65": {
-      "player": "colton cowser",
-      "pitcher": "michael kopech",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "64": {
       "player": "ryan mountcastle",
       "pitcher": "michael kopech",
@@ -3596,7 +3590,7 @@
       "player": "richie palacios",
       "pitcher": "gavin williams",
       "result": "Called Strike",
-      "pitch": "Cutter"
+      "pitch": "Curveball"
     },
     "63": {
       "player": "everson pereira",
@@ -3981,8 +3975,8 @@
     "62": {
       "player": "vinnie pasquantino",
       "pitcher": "justin topa",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "61": {
       "player": "nick loftin",
@@ -4355,7 +4349,7 @@
     "50": {
       "player": "joc pederson",
       "pitcher": "aj blubaugh",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "49": {
@@ -4654,6 +4648,12 @@
     }
   },
   "sf @ stl": {
+    "49": {
+      "player": "willy adames",
+      "pitcher": "gordon graceffo",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "rafael devers",
       "pitcher": "gordon graceffo",
