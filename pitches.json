@@ -467,8 +467,8 @@
     "50": {
       "player": "juan soto",
       "pitcher": "connor phillips",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "49": {
       "player": "francisco lindor",
@@ -1042,7 +1042,7 @@
       "player": "joey ortiz",
       "pitcher": "carmen mlodzinski",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "48": {
       "player": "caleb durbin",
@@ -1337,7 +1337,7 @@
     "32": {
       "player": "emmanuel rivera",
       "pitcher": "shohei ohtani",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -2232,12 +2232,6 @@
     }
   },
   "min @ kc": {
-    "22": {
-      "player": "mike yastrzemski",
-      "pitcher": "pablo lopez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "21": {
       "player": "luke keaschall",
       "pitcher": "michael wacha",
@@ -2410,6 +2404,12 @@
     }
   },
   "sf @ stl": {
+    "5": {
+      "player": "matt chapman",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "dominic smith",
       "pitcher": "michael mcgreevy",
