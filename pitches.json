@@ -464,10 +464,16 @@
     }
   },
   "nym @ cin": {
+    "65": {
+      "player": "francisco alvarez",
+      "pitcher": "nick martinez",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "64": {
       "player": "jeff mcneil",
       "pitcher": "nick martinez",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -1224,6 +1230,12 @@
     }
   },
   "mil @ pit": {
+    "69": {
+      "player": "tommy pham",
+      "pitcher": "jared koenig",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "68": {
       "player": "bryan reynolds",
       "pitcher": "jared koenig",
@@ -3353,7 +3365,7 @@
     "28": {
       "player": "carlos correa",
       "pitcher": "merrill kelly",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "27": {
@@ -3669,7 +3681,7 @@
     "12": {
       "player": "ezequiel tovar",
       "pitcher": "nick pivetta",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "11": {
