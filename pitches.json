@@ -871,7 +871,7 @@
     "65": {
       "player": "bryan ramos",
       "pitcher": "keider montero",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "64": {
@@ -1260,6 +1260,12 @@
     }
   },
   "mil @ pit": {
+    "70": {
+      "player": "jackson chourio",
+      "pitcher": "colin holderman",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "69": {
       "player": "tommy pham",
       "pitcher": "jared koenig",
@@ -1677,10 +1683,10 @@
   },
   "lad @ bal": {
     "48": {
-      "player": "dalton rushing",
+      "player": "alex call",
       "pitcher": "kade strowd",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "enrique hernandez",
@@ -2277,8 +2283,8 @@
     "59": {
       "player": "bryson stott",
       "pitcher": "george soriano",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "alec bohm",
@@ -2950,6 +2956,12 @@
     }
   },
   "cle @ tb": {
+    "43": {
+      "player": "brayan rocchio",
+      "pitcher": "ian seymour",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "42": {
       "player": "jhonkensy noel",
       "pitcher": "ian seymour",
@@ -3476,6 +3488,18 @@
     }
   },
   "hou @ tex": {
+    "32": {
+      "player": "taylor trammell",
+      "pitcher": "merrill kelly",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "31": {
+      "player": "victor caratini",
+      "pitcher": "merrill kelly",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "christian walker",
       "pitcher": "merrill kelly",
