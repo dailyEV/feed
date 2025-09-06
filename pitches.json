@@ -1720,12 +1720,6 @@
     }
   },
   "mil @ pit": {
-    "31": {
-      "player": "joey ortiz",
-      "pitcher": "mitch keller",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
     "30": {
       "player": "blake perkins",
       "pitcher": "mitch keller",
@@ -1961,8 +1955,8 @@
     "18": {
       "player": "george valera",
       "pitcher": "shane baz",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "17": {
       "player": "steven kwan",
@@ -2139,7 +2133,7 @@
     "11": {
       "player": "dustin harris",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -2204,11 +2198,17 @@
     }
   },
   "min @ kc": {
+    "16": {
+      "player": "mickey gasper",
+      "pitcher": "stephen kolek",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "edouard julien",
       "pitcher": "stephen kolek",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "14": {
       "player": "royce lewis",
