@@ -799,8 +799,8 @@
     "53": {
       "player": "kyle teel",
       "pitcher": "keider montero",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "52": {
       "player": "edgar quero",
@@ -1466,11 +1466,17 @@
     }
   },
   "lad @ bal": {
+    "39": {
+      "player": "jackson holliday",
+      "pitcher": "anthony banda",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "38": {
       "player": "coby mayo",
       "pitcher": "anthony banda",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "37": {
       "player": "mookie betts",
@@ -1917,8 +1923,8 @@
     "44": {
       "player": "agustin ramirez",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "43": {
       "player": "otto lopez",
@@ -2180,6 +2186,12 @@
     }
   },
   "sea @ atl": {
+    "42": {
+      "player": "cal raleigh",
+      "pitcher": "chris sale",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "41": {
       "player": "randy arozarena",
       "pitcher": "chris sale",
@@ -2428,11 +2440,17 @@
     }
   },
   "cle @ tb": {
+    "30": {
+      "player": "brandon lowe",
+      "pitcher": "gavin williams",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "29": {
       "player": "yandy diaz",
       "pitcher": "gavin williams",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "richie palacios",
@@ -2798,12 +2816,6 @@
     }
   },
   "hou @ tex": {
-    "18": {
-      "player": "josh smith",
-      "pitcher": "colton gordon",
-      "result": "Foul",
-      "pitch": "Sweeper"
-    },
     "17": {
       "player": "dylan moore",
       "pitcher": "colton gordon",
