@@ -1451,8 +1451,8 @@
     "18": {
       "player": "francisco lindor",
       "pitcher": "brady singer",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "cedric mullins",
@@ -1660,8 +1660,8 @@
     "6": {
       "player": "yandy diaz",
       "pitcher": "tanner bibee",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "5": {
       "player": "chandler simpson",
@@ -1696,7 +1696,14 @@
   },
   "sf @ stl": {},
   "hou @ tex": {},
-  "min @ kc": {},
+  "min @ kc": {
+    "1": {
+      "player": "byron buxton",
+      "pitcher": "stephen kolek",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "sea @ atl": {},
   "bos @ ari": {},
   "sd @ col": {},
