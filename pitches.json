@@ -1731,7 +1731,7 @@
     "37": {
       "player": "kyle schwarber",
       "pitcher": "josh simpson",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "36": {
@@ -1952,10 +1952,16 @@
     }
   },
   "sea @ atl": {
+    "36": {
+      "player": "luke raley",
+      "pitcher": "chris sale",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "leo rivas",
       "pitcher": "chris sale",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "34": {
@@ -2164,6 +2170,12 @@
     }
   },
   "cle @ tb": {
+    "23": {
+      "player": "bob seymour",
+      "pitcher": "gavin williams",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "22": {
       "player": "carson williams",
       "pitcher": "gavin williams",
