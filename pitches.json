@@ -1901,8 +1901,8 @@
     "65": {
       "player": "colton cowser",
       "pitcher": "michael kopech",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "ryan mountcastle",
@@ -2293,8 +2293,8 @@
     "68": {
       "player": "vladimir guerrero",
       "pitcher": "camilo doval",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "67": {
       "player": "addison barger",
@@ -2700,10 +2700,16 @@
     }
   },
   "phi @ mia": {
+    "81": {
+      "player": "victor mesa",
+      "pitcher": "tim mayza",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "80": {
       "player": "maximo acosta",
       "pitcher": "tim mayza",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "79": {
@@ -3993,8 +3999,8 @@
     "63": {
       "player": "maikel garcia",
       "pitcher": "justin topa",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "62": {
       "player": "vinnie pasquantino",
@@ -4978,7 +4984,7 @@
       "player": "mickey moniak",
       "pitcher": "nick pivetta",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "35": {
       "player": "tyler freeman",
