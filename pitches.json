@@ -1194,6 +1194,12 @@
     }
   },
   "mil @ pit": {
+    "65": {
+      "player": "brice turang",
+      "pitcher": "yohan ramirez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "64": {
       "player": "joey ortiz",
       "pitcher": "yohan ramirez",
@@ -2393,8 +2399,8 @@
     "49": {
       "player": "mitch garver",
       "pitcher": "chris sale",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "48": {
       "player": "jorge polanco",
@@ -2689,8 +2695,8 @@
     "34": {
       "player": "david fry",
       "pitcher": "ian seymour",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "jose ramirez",
@@ -2892,11 +2898,17 @@
     }
   },
   "min @ kc": {
+    "39": {
+      "player": "mike yastrzemski",
+      "pitcher": "pablo lopez",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "kyle isbel",
       "pitcher": "pablo lopez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "trevor larnach",
@@ -3125,8 +3137,8 @@
     "23": {
       "player": "cody freeman",
       "pitcher": "colton gordon",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "22": {
       "player": "jose altuve",
@@ -3265,8 +3277,8 @@
     "20": {
       "player": "dominic smith",
       "pitcher": "michael mcgreevy",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "19": {
       "player": "willy adames",
