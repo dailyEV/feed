@@ -1263,8 +1263,8 @@
     "70": {
       "player": "jackson chourio",
       "pitcher": "colin holderman",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "69": {
       "player": "tommy pham",
@@ -1683,10 +1683,10 @@
   },
   "lad @ bal": {
     "48": {
-      "player": "alex call",
+      "player": "dalton rushing",
       "pitcher": "kade strowd",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "47": {
       "player": "enrique hernandez",
@@ -1972,6 +1972,12 @@
     }
   },
   "tor @ nyy": {
+    "52": {
+      "player": "daulton varsho",
+      "pitcher": "ryan yarbrough",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "bo bichette",
       "pitcher": "ryan yarbrough",
@@ -2283,8 +2289,8 @@
     "59": {
       "player": "bryson stott",
       "pitcher": "george soriano",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "58": {
       "player": "alec bohm",
@@ -2636,10 +2642,22 @@
     }
   },
   "sea @ atl": {
+    "55": {
+      "player": "nacho alvarez",
+      "pitcher": "matt brash",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
+    "54": {
+      "player": "jake fraley",
+      "pitcher": "matt brash",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "53": {
       "player": "marcell ozuna",
       "pitcher": "matt brash",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "Sinker"
     },
     "52": {
@@ -2959,8 +2977,8 @@
     "43": {
       "player": "brayan rocchio",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "jhonkensy noel",
