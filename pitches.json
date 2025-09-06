@@ -841,8 +841,8 @@
     "59": {
       "player": "dillon dingler",
       "pitcher": "tyler gilbert",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "zach mckinstry",
@@ -1197,7 +1197,7 @@
     "65": {
       "player": "brice turang",
       "pitcher": "yohan ramirez",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "64": {
@@ -2417,8 +2417,8 @@
     "49": {
       "player": "mitch garver",
       "pitcher": "chris sale",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "jorge polanco",
@@ -3155,8 +3155,8 @@
     "23": {
       "player": "cody freeman",
       "pitcher": "colton gordon",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "jose altuve",
@@ -3295,8 +3295,8 @@
     "20": {
       "player": "dominic smith",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "19": {
       "player": "willy adames",
@@ -3414,6 +3414,12 @@
     }
   },
   "sd @ col": {
+    "9": {
+      "player": "gavin sheets",
+      "pitcher": "kyle freeland",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "brenton doyle",
       "pitcher": "nick pivetta",
