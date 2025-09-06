@@ -1565,7 +1565,7 @@
     "38": {
       "player": "juan soto",
       "pitcher": "brady singer",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "37": {
@@ -2099,8 +2099,8 @@
     "22": {
       "player": "jose ramirez",
       "pitcher": "shane baz",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "21": {
       "player": "chandler simpson",
@@ -2331,8 +2331,8 @@
     "16": {
       "player": "josh smith",
       "pitcher": "hunter brown",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Knuckle Curve"
     },
     "15": {
       "player": "ezequiel duran",
@@ -2548,6 +2548,12 @@
     }
   },
   "sea @ atl": {
+    "20": {
+      "player": "josh naylor",
+      "pitcher": "hurston waldrep",
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
+    },
     "19": {
       "player": "julio rodriguez",
       "pitcher": "hurston waldrep",
