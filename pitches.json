@@ -1898,12 +1898,6 @@
     }
   },
   "lad @ bal": {
-    "70": {
-      "player": "dylan beavers",
-      "pitcher": "tanner scott",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "69": {
       "player": "emmanuel rivera",
       "pitcher": "tanner scott",
@@ -3670,6 +3664,12 @@
     }
   },
   "cle @ tb": {
+    "73": {
+      "player": "jake mangum",
+      "pitcher": "tim herrin",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "72": {
       "player": "josh lowe",
       "pitcher": "tim herrin",
@@ -5187,8 +5187,8 @@
     "42": {
       "player": "fernando tatis",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "elias diaz",
@@ -5441,8 +5441,8 @@
     "12": {
       "player": "luis rengifo",
       "pitcher": "mason barnett",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "jo adell",
@@ -5515,7 +5515,7 @@
     "12": {
       "player": "nathaniel lowe",
       "pitcher": "eduardo rodriguez",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "11": {
