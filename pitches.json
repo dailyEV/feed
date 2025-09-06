@@ -1263,8 +1263,8 @@
     "17": {
       "player": "brooks baldwin",
       "pitcher": "tarik skubal",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "16": {
       "player": "michael a taylor",
@@ -1364,6 +1364,12 @@
     }
   },
   "nym @ cin": {
+    "2": {
+      "player": "juan soto",
+      "pitcher": "brady singer",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "1": {
       "player": "francisco lindor",
       "pitcher": "brady singer",
@@ -1371,7 +1377,14 @@
       "pitch": "Sinker"
     }
   },
-  "mil @ pit": {},
+  "mil @ pit": {
+    "1": {
+      "player": "sal frelick",
+      "pitcher": "mitch keller",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "lad @ bal": {},
   "cle @ tb": {},
   "sf @ stl": {},
