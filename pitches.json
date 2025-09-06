@@ -467,8 +467,8 @@
     "62": {
       "player": "noelvi marte",
       "pitcher": "brooks raley",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "61": {
       "player": "tj friedl",
@@ -1203,8 +1203,8 @@
     "66": {
       "player": "isaac collins",
       "pitcher": "yohan ramirez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "65": {
       "player": "brice turang",
@@ -2124,6 +2124,18 @@
     }
   },
   "phi @ mia": {
+    "52": {
+      "player": "heriberto hernandez",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "51": {
+      "player": "jakob marsee",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "50": {
       "player": "bryce harper",
       "pitcher": "josh simpson",
@@ -3180,7 +3192,7 @@
       "player": "wyatt langford",
       "pitcher": "colton gordon",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "23": {
       "player": "cody freeman",
@@ -3322,10 +3334,16 @@
     }
   },
   "sf @ stl": {
+    "21": {
+      "player": "matt chapman",
+      "pitcher": "michael mcgreevy",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "20": {
       "player": "dominic smith",
       "pitcher": "michael mcgreevy",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "19": {
@@ -3447,8 +3465,8 @@
     "9": {
       "player": "gavin sheets",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "8": {
       "player": "brenton doyle",
