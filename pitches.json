@@ -1260,6 +1260,12 @@
     }
   },
   "chw @ det": {
+    "48": {
+      "player": "lenyn sosa",
+      "pitcher": "tarik skubal",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "47": {
       "player": "javier baez",
       "pitcher": "wikelman gonzalez",
@@ -1771,8 +1777,8 @@
     "35": {
       "player": "nick yorke",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "34": {
       "player": "oneil cruz",
@@ -1980,11 +1986,17 @@
     }
   },
   "lad @ bal": {
+    "12": {
+      "player": "emmanuel rivera",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "colton cowser",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "ryan mountcastle",
@@ -2176,6 +2188,12 @@
     }
   },
   "sf @ stl": {
+    "16": {
+      "player": "patrick bailey",
+      "pitcher": "andre pallante",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "luis matos",
       "pitcher": "andre pallante",
@@ -2271,7 +2289,7 @@
     "15": {
       "player": "ezequiel duran",
       "pitcher": "hunter brown",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "14": {
@@ -2363,8 +2381,8 @@
     "19": {
       "player": "maikel garcia",
       "pitcher": "joe ryan",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "mike yastrzemski",
@@ -2480,7 +2498,7 @@
       "player": "cal raleigh",
       "pitcher": "hurston waldrep",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "17": {
       "player": "randy arozarena",
