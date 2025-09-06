@@ -467,8 +467,8 @@
     "67": {
       "player": "francisco lindor",
       "pitcher": "nick martinez",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "66": {
       "player": "luisangel acuna",
@@ -1254,6 +1254,12 @@
     }
   },
   "mil @ pit": {
+    "70": {
+      "player": "jackson chourio",
+      "pitcher": "colin holderman",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "69": {
       "player": "tommy pham",
       "pitcher": "jared koenig",
@@ -1671,10 +1677,10 @@
   },
   "lad @ bal": {
     "48": {
-      "player": "dalton rushing",
+      "player": "alex call",
       "pitcher": "kade strowd",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "enrique hernandez",
@@ -2268,6 +2274,12 @@
     }
   },
   "phi @ mia": {
+    "59": {
+      "player": "bryson stott",
+      "pitcher": "george soriano",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "58": {
       "player": "alec bohm",
       "pitcher": "george soriano",
@@ -2621,7 +2633,7 @@
     "53": {
       "player": "marcell ozuna",
       "pitcher": "matt brash",
-      "result": "Foul Tip",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "52": {
@@ -3192,12 +3204,6 @@
     }
   },
   "min @ kc": {
-    "45": {
-      "player": "matt wallner",
-      "pitcher": "angel zerpa",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "44": {
       "player": "austin martin",
       "pitcher": "michael wacha",
@@ -3464,12 +3470,6 @@
     }
   },
   "hou @ tex": {
-    "31": {
-      "player": "victor caratini",
-      "pitcher": "merrill kelly",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "30": {
       "player": "christian walker",
       "pitcher": "merrill kelly",
@@ -3652,6 +3652,12 @@
     }
   },
   "sf @ stl": {
+    "28": {
+      "player": "patrick bailey",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "27": {
       "player": "drew gilbert",
       "pitcher": "michael mcgreevy",
@@ -3819,8 +3825,8 @@
     "15": {
       "player": "ryan ritter",
       "pitcher": "nick pivetta",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "14": {
       "player": "warming bernabel",
