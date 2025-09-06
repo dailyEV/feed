@@ -464,11 +464,17 @@
     }
   },
   "nym @ cin": {
+    "62": {
+      "player": "noelvi marte",
+      "pitcher": "brooks raley",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "61": {
       "player": "tj friedl",
       "pitcher": "brooks raley",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "starling marte",
@@ -1179,7 +1185,7 @@
     "64": {
       "player": "joey ortiz",
       "pitcher": "yohan ramirez",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "63": {
@@ -2378,6 +2384,12 @@
     }
   },
   "sea @ atl": {
+    "49": {
+      "player": "mitch garver",
+      "pitcher": "chris sale",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "48": {
       "player": "jorge polanco",
       "pitcher": "chris sale",
@@ -2671,8 +2683,8 @@
     "34": {
       "player": "david fry",
       "pitcher": "ian seymour",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "33": {
       "player": "jose ramirez",
@@ -2877,8 +2889,8 @@
     "38": {
       "player": "kyle isbel",
       "pitcher": "pablo lopez",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "37": {
       "player": "trevor larnach",
@@ -3238,6 +3250,12 @@
     }
   },
   "sf @ stl": {
+    "20": {
+      "player": "dominic smith",
+      "pitcher": "michael mcgreevy",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "willy adames",
       "pitcher": "michael mcgreevy",
@@ -3354,6 +3372,18 @@
     }
   },
   "sd @ col": {
+    "8": {
+      "player": "brenton doyle",
+      "pitcher": "nick pivetta",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
+    "7": {
+      "player": "jordan beck",
+      "pitcher": "nick pivetta",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "hunter goodman",
       "pitcher": "nick pivetta",
