@@ -1901,8 +1901,8 @@
     "68": {
       "player": "miguel rojas",
       "pitcher": "yennier cano",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "67": {
       "player": "ben rortvedt",
@@ -2311,8 +2311,8 @@
     "72": {
       "player": "aaron judge",
       "pitcher": "braydon fisher",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "71": {
       "player": "alejandro kirk",
@@ -4062,6 +4062,12 @@
     }
   },
   "min @ kc": {
+    "67": {
+      "player": "brooks lee",
+      "pitcher": "carlos estevez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "66": {
       "player": "royce lewis",
       "pitcher": "carlos estevez",
@@ -4463,8 +4469,8 @@
     "53": {
       "player": "taylor trammell",
       "pitcher": "merrill kelly",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "victor caratini",
@@ -4783,7 +4789,7 @@
     "54": {
       "player": "masyn winn",
       "pitcher": "matt gage",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -5106,6 +5112,12 @@
     }
   },
   "sd @ col": {
+    "40": {
+      "player": "jake cronenworth",
+      "pitcher": "kyle freeland",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "39": {
       "player": "brenton doyle",
       "pitcher": "nick pivetta",
@@ -5404,6 +5416,12 @@
     }
   },
   "bos @ ari": {
+    "10": {
+      "player": "romy gonzalez",
+      "pitcher": "eduardo rodriguez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "ildemaro vargas",
       "pitcher": "payton tolle",
