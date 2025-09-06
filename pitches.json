@@ -1517,7 +1517,7 @@
     "41": {
       "player": "gunnar henderson",
       "pitcher": "ben casparius",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "40": {
@@ -1765,7 +1765,7 @@
     "39": {
       "player": "giancarlo stanton",
       "pitcher": "kevin gausman",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -1998,12 +1998,6 @@
     }
   },
   "phi @ mia": {
-    "48": {
-      "player": "trea turner",
-      "pitcher": "josh simpson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "47": {
       "player": "bryson stott",
       "pitcher": "josh simpson",
@@ -3082,6 +3076,12 @@
     }
   },
   "sf @ stl": {
+    "17": {
+      "player": "thomas saggese",
+      "pitcher": "carson seymour",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "jimmy crooks",
       "pitcher": "carson seymour",
@@ -3180,11 +3180,23 @@
     }
   },
   "sd @ col": {
+    "6": {
+      "player": "hunter goodman",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "5": {
+      "player": "mickey moniak",
+      "pitcher": "nick pivetta",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "tyler freeman",
       "pitcher": "nick pivetta",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "manny machado",
