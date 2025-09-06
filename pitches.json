@@ -467,8 +467,8 @@
     "63": {
       "player": "elly de la cruz",
       "pitcher": "brooks raley",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "62": {
       "player": "noelvi marte",
@@ -844,6 +844,12 @@
     }
   },
   "chw @ det": {
+    "61": {
+      "player": "colt keith",
+      "pitcher": "tyler gilbert",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "justyn henry malloy",
       "pitcher": "tyler gilbert",
@@ -1604,6 +1610,12 @@
     }
   },
   "lad @ bal": {
+    "45": {
+      "player": "michael conforto",
+      "pitcher": "kade strowd",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "44": {
       "player": "teoscar hernandez",
       "pitcher": "kade strowd",
@@ -2456,12 +2468,6 @@
     }
   },
   "sea @ atl": {
-    "50": {
-      "player": "dominic canzone",
-      "pitcher": "dylan lee",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
     "49": {
       "player": "mitch garver",
       "pitcher": "chris sale",
@@ -2758,12 +2764,6 @@
     }
   },
   "cle @ tb": {
-    "37": {
-      "player": "jake mangum",
-      "pitcher": "gavin williams",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "36": {
       "player": "josh lowe",
       "pitcher": "gavin williams",
@@ -2985,7 +2985,7 @@
     "41": {
       "player": "vinnie pasquantino",
       "pitcher": "pablo lopez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "40": {
@@ -3388,12 +3388,6 @@
     }
   },
   "sf @ stl": {
-    "22": {
-      "player": "victor scott",
-      "pitcher": "carson seymour",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "21": {
       "player": "matt chapman",
       "pitcher": "michael mcgreevy",
