@@ -464,6 +464,12 @@
     }
   },
   "nym @ cin": {
+    "61": {
+      "player": "tj friedl",
+      "pitcher": "brooks raley",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "60": {
       "player": "starling marte",
       "pitcher": "nick martinez",
@@ -1170,6 +1176,12 @@
     }
   },
   "mil @ pit": {
+    "64": {
+      "player": "joey ortiz",
+      "pitcher": "yohan ramirez",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "63": {
       "player": "caleb durbin",
       "pitcher": "yohan ramirez",
@@ -2055,8 +2067,8 @@
     "50": {
       "player": "bryce harper",
       "pitcher": "josh simpson",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "49": {
       "player": "kyle schwarber",
@@ -2357,7 +2369,7 @@
     "48": {
       "player": "jorge polanco",
       "pitcher": "chris sale",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -2648,7 +2660,7 @@
       "player": "david fry",
       "pitcher": "ian seymour",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "33": {
       "player": "jose ramirez",
@@ -2853,8 +2865,8 @@
     "38": {
       "player": "kyle isbel",
       "pitcher": "pablo lopez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "trevor larnach",
@@ -3217,8 +3229,8 @@
     "19": {
       "player": "willy adames",
       "pitcher": "michael mcgreevy",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "18": {
       "player": "jordan walker",
@@ -3330,12 +3342,6 @@
     }
   },
   "sd @ col": {
-    "7": {
-      "player": "jordan beck",
-      "pitcher": "nick pivetta",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "6": {
       "player": "hunter goodman",
       "pitcher": "nick pivetta",
