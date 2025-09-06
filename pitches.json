@@ -1529,8 +1529,8 @@
     "32": {
       "player": "gavin lux",
       "pitcher": "jonah tong",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "austin hays",
@@ -1720,6 +1720,18 @@
     }
   },
   "mil @ pit": {
+    "32": {
+      "player": "sal frelick",
+      "pitcher": "mitch keller",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
+    "31": {
+      "player": "joey ortiz",
+      "pitcher": "mitch keller",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "30": {
       "player": "blake perkins",
       "pitcher": "mitch keller",
@@ -1906,7 +1918,7 @@
       "player": "alex call",
       "pitcher": "trevor rogers",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "freddie freeman",
@@ -2133,7 +2145,7 @@
     "11": {
       "player": "dustin harris",
       "pitcher": "hunter brown",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -2296,12 +2308,6 @@
     }
   },
   "sea @ atl": {
-    "15": {
-      "player": "ronald acuna",
-      "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "14": {
       "player": "ha seong kim",
       "pitcher": "bryce miller",
