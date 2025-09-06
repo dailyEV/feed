@@ -468,7 +468,7 @@
       "player": "matt mclain",
       "pitcher": "ryne stanek",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "56": {
       "player": "kebryan hayes",
@@ -808,11 +808,17 @@
     }
   },
   "chw @ det": {
+    "56": {
+      "player": "chase meidroth",
+      "pitcher": "keider montero",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "colson montgomery",
       "pitcher": "keider montero",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "54": {
       "player": "curtis mead",
@@ -1508,11 +1514,17 @@
     }
   },
   "lad @ bal": {
-    "40": {
-      "player": "jeremiah jackson",
+    "41": {
+      "player": "gunnar henderson",
       "pitcher": "ben casparius",
       "result": "Ball",
       "pitch": "Cutter"
+    },
+    "40": {
+      "player": "jeremiah jackson",
+      "pitcher": "ben casparius",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "jackson holliday",
@@ -1750,6 +1762,12 @@
     }
   },
   "tor @ nyy": {
+    "39": {
+      "player": "giancarlo stanton",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "nathan lukes",
       "pitcher": "ryan yarbrough",
@@ -1980,11 +1998,17 @@
     }
   },
   "phi @ mia": {
+    "47": {
+      "player": "bryson stott",
+      "pitcher": "josh simpson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "alec bohm",
       "pitcher": "josh simpson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "45": {
       "player": "max kepler",
@@ -2524,6 +2548,12 @@
     }
   },
   "cle @ tb": {
+    "32": {
+      "player": "angel martinez",
+      "pitcher": "ian seymour",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "31": {
       "player": "steven kwan",
       "pitcher": "ian seymour",
