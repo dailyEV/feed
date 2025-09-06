@@ -1298,6 +1298,12 @@
     }
   },
   "lad @ bal": {
+    "30": {
+      "player": "ryan mountcastle",
+      "pitcher": "shohei ohtani",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "dalton rushing",
       "pitcher": "dietrich enns",
@@ -1835,8 +1841,8 @@
     "31": {
       "player": "michael harris",
       "pitcher": "logan gilbert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "30": {
       "player": "mitch garver",
@@ -2130,11 +2136,17 @@
     }
   },
   "min @ kc": {
+    "21": {
+      "player": "luke keaschall",
+      "pitcher": "michael wacha",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "20": {
       "player": "trevor larnach",
       "pitcher": "michael wacha",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "byron buxton",
@@ -2252,6 +2264,12 @@
     }
   },
   "hou @ tex": {
+    "5": {
+      "player": "cody freeman",
+      "pitcher": "colton gordon",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "4": {
       "player": "michael helman",
       "pitcher": "colton gordon",
