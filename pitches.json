@@ -1197,7 +1197,7 @@
     "65": {
       "player": "brice turang",
       "pitcher": "yohan ramirez",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Curveball"
     },
     "64": {
@@ -1849,7 +1849,7 @@
     "44": {
       "player": "george springer",
       "pitcher": "ryan yarbrough",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "43": {
@@ -2112,6 +2112,18 @@
     }
   },
   "phi @ mia": {
+    "52": {
+      "player": "heriberto hernandez",
+      "pitcher": "cristopher sanchez",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "51": {
+      "player": "jakob marsee",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "50": {
       "player": "bryce harper",
       "pitcher": "josh simpson",
@@ -2710,6 +2722,12 @@
     }
   },
   "cle @ tb": {
+    "35": {
+      "player": "junior caminero",
+      "pitcher": "gavin williams",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "34": {
       "player": "david fry",
       "pitcher": "ian seymour",
@@ -3152,6 +3170,12 @@
     }
   },
   "hou @ tex": {
+    "24": {
+      "player": "wyatt langford",
+      "pitcher": "colton gordon",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "23": {
       "player": "cody freeman",
       "pitcher": "colton gordon",
@@ -3295,7 +3319,7 @@
     "20": {
       "player": "dominic smith",
       "pitcher": "michael mcgreevy",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "19": {
