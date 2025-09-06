@@ -3529,7 +3529,7 @@
     "61": {
       "player": "brayan rocchio",
       "pitcher": "brian van belle",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "60": {
@@ -4250,6 +4250,12 @@
     }
   },
   "hou @ tex": {
+    "48": {
+      "player": "josh jung",
+      "pitcher": "aj blubaugh",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "kyle higashioka",
       "pitcher": "aj blubaugh",
@@ -4806,11 +4812,17 @@
     }
   },
   "sd @ col": {
+    "31": {
+      "player": "ramon laureano",
+      "pitcher": "kyle freeland",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "gavin sheets",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "29": {
       "player": "warming bernabel",
@@ -4988,6 +5000,12 @@
     }
   },
   "ath @ laa": {
+    "3": {
+      "player": "brent rooker",
+      "pitcher": "jose soriano",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "2": {
       "player": "shea langeliers",
       "pitcher": "jose soriano",
