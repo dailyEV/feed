@@ -464,17 +464,11 @@
     }
   },
   "nym @ cin": {
-    "67": {
-      "player": "francisco lindor",
-      "pitcher": "nick martinez",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "66": {
       "player": "luisangel acuna",
       "pitcher": "nick martinez",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "65": {
       "player": "francisco alvarez",
@@ -2244,6 +2238,12 @@
     }
   },
   "phi @ mia": {
+    "58": {
+      "player": "alec bohm",
+      "pitcher": "george soriano",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "57": {
       "player": "max kepler",
       "pitcher": "george soriano",
@@ -2902,6 +2902,12 @@
     }
   },
   "cle @ tb": {
+    "41": {
+      "player": "gabriel arias",
+      "pitcher": "ian seymour",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "40": {
       "player": "nolan jones",
       "pitcher": "ian seymour",
@@ -3410,6 +3416,12 @@
     }
   },
   "hou @ tex": {
+    "30": {
+      "player": "christian walker",
+      "pitcher": "merrill kelly",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "29": {
       "player": "jesus sanchez",
       "pitcher": "merrill kelly",
@@ -3747,7 +3759,7 @@
     "15": {
       "player": "ryan ritter",
       "pitcher": "nick pivetta",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "14": {
