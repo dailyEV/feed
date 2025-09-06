@@ -1886,6 +1886,12 @@
     }
   },
   "lad @ bal": {
+    "60": {
+      "player": "teoscar hernandez",
+      "pitcher": "rico garcia",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "59": {
       "player": "jeremiah jackson",
       "pitcher": "blake treinen",
@@ -2242,11 +2248,17 @@
     }
   },
   "tor @ nyy": {
+    "63": {
+      "player": "jose caballero",
+      "pitcher": "kevin gausman",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "62": {
       "player": "ryan mcmahon",
       "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "61": {
       "player": "andres gimenez",
@@ -3493,8 +3505,8 @@
     "60": {
       "player": "jhonkensy noel",
       "pitcher": "brian van belle",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "59": {
       "player": "carson williams",
@@ -4489,7 +4501,7 @@
     "45": {
       "player": "jose fermin",
       "pitcher": "carson seymour",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -4944,7 +4956,7 @@
       "player": "shea langeliers",
       "pitcher": "jose soriano",
       "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "pitch": "Sinker"
     },
     "1": {
       "player": "nick kurtz",
@@ -4953,5 +4965,12 @@
       "pitch": "Sinker"
     }
   },
-  "bos @ ari": {}
+  "bos @ ari": {
+    "1": {
+      "player": "jarren duran",
+      "pitcher": "eduardo rodriguez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  }
 }
