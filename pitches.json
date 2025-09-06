@@ -1608,12 +1608,6 @@
     }
   },
   "phi @ mia": {
-    "33": {
-      "player": "joey wiemer",
-      "pitcher": "cristopher sanchez",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "32": {
       "player": "eric wagaman",
       "pitcher": "cristopher sanchez",
@@ -1811,8 +1805,8 @@
     "30": {
       "player": "mitch garver",
       "pitcher": "chris sale",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "29": {
       "player": "jorge polanco",
@@ -1990,12 +1984,6 @@
     }
   },
   "cle @ tb": {
-    "18": {
-      "player": "nolan jones",
-      "pitcher": "ian seymour",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "17": {
       "player": "david fry",
       "pitcher": "ian seymour",
@@ -2213,8 +2201,8 @@
     "4": {
       "player": "michael helman",
       "pitcher": "colton gordon",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "3": {
       "player": "jose altuve",
@@ -2235,7 +2223,14 @@
       "pitch": "Changeup"
     }
   },
-  "sf @ stl": {},
+  "sf @ stl": {
+    "1": {
+      "player": "heliot ramos",
+      "pitcher": "michael mcgreevy",
+      "result": "Foul",
+      "pitch": "Sinker"
+    }
+  },
   "sd @ col": {},
   "ath @ laa": {},
   "bos @ ari": {}
