@@ -1549,7 +1549,7 @@
     "28": {
       "player": "andres gimenez",
       "pitcher": "ryan yarbrough",
-      "result": "Foul Bunt",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "27": {
@@ -1719,8 +1719,8 @@
     "37": {
       "player": "kyle schwarber",
       "pitcher": "josh simpson",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "36": {
       "player": "trea turner",
@@ -1940,10 +1940,16 @@
     }
   },
   "sea @ atl": {
+    "35": {
+      "player": "leo rivas",
+      "pitcher": "chris sale",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "34": {
       "player": "dominic canzone",
       "pitcher": "chris sale",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "33": {
@@ -2283,8 +2289,8 @@
     "24": {
       "player": "vinnie pasquantino",
       "pitcher": "pablo lopez",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "bobby witt",
