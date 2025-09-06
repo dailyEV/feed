@@ -850,6 +850,12 @@
     }
   },
   "chw @ det": {
+    "62": {
+      "player": "gleyber torres",
+      "pitcher": "dan altavilla",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "61": {
       "player": "colt keith",
       "pitcher": "tyler gilbert",
@@ -1622,12 +1628,6 @@
     }
   },
   "lad @ bal": {
-    "47": {
-      "player": "enrique hernandez",
-      "pitcher": "kade strowd",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "46": {
       "player": "andy pages",
       "pitcher": "kade strowd",
@@ -2196,10 +2196,16 @@
     }
   },
   "phi @ mia": {
+    "56": {
+      "player": "harrison bader",
+      "pitcher": "george soriano",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "55": {
       "player": "brandon marsh",
       "pitcher": "george soriano",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "54": {
@@ -3645,8 +3651,8 @@
     "12": {
       "player": "ezequiel tovar",
       "pitcher": "nick pivetta",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "jackson merrill",
