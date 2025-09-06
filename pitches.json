@@ -769,7 +769,7 @@
     "47": {
       "player": "dominic fletcher",
       "pitcher": "keider montero",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "46": {
@@ -1053,8 +1053,8 @@
     "50": {
       "player": "brice turang",
       "pitcher": "carmen mlodzinski",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "49": {
       "player": "joey ortiz",
@@ -1549,8 +1549,8 @@
     "28": {
       "player": "andres gimenez",
       "pitcher": "ryan yarbrough",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "27": {
       "player": "trent grisham",
@@ -1720,7 +1720,7 @@
       "player": "kyle schwarber",
       "pitcher": "josh simpson",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "36": {
       "player": "trea turner",
@@ -2155,7 +2155,7 @@
     "22": {
       "player": "carson williams",
       "pitcher": "gavin williams",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "21": {
@@ -2432,6 +2432,12 @@
     }
   },
   "hou @ tex": {
+    "8": {
+      "player": "carlos correa",
+      "pitcher": "merrill kelly",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "7": {
       "player": "jake burger",
       "pitcher": "colton gordon",
