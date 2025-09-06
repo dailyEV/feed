@@ -464,6 +464,12 @@
     }
   },
   "nym @ cin": {
+    "79": {
+      "player": "noelvi marte",
+      "pitcher": "edwin diaz",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "78": {
       "player": "tj friedl",
       "pitcher": "edwin diaz",
@@ -1865,8 +1871,8 @@
     "58": {
       "player": "jackson holliday",
       "pitcher": "blake treinen",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "coby mayo",
@@ -2216,7 +2222,7 @@
       "player": "andres gimenez",
       "pitcher": "mark leiter",
       "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "pitch": "Curveball"
     },
     "60": {
       "player": "ernie clement",
@@ -3020,17 +3026,11 @@
     }
   },
   "sea @ atl": {
-    "68": {
-      "player": "jorge polanco",
-      "pitcher": "raisel iglesias",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "67": {
       "player": "eugenio suarez",
       "pitcher": "raisel iglesias",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "66": {
       "player": "jake fraley",
@@ -3430,11 +3430,23 @@
     }
   },
   "cle @ tb": {
+    "59": {
+      "player": "carson williams",
+      "pitcher": "gavin williams",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
+    "58": {
+      "player": "hunter feduccia",
+      "pitcher": "gavin williams",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "57": {
       "player": "jake mangum",
       "pitcher": "gavin williams",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "josh lowe",
@@ -4375,7 +4387,7 @@
     "43": {
       "player": "jordan walker",
       "pitcher": "carson seymour",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "42": {
