@@ -467,8 +467,8 @@
     "67": {
       "player": "francisco lindor",
       "pitcher": "nick martinez",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "luisangel acuna",
@@ -868,11 +868,17 @@
     }
   },
   "chw @ det": {
+    "64": {
+      "player": "michael a taylor",
+      "pitcher": "keider montero",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "63": {
       "player": "andrew benintendi",
       "pitcher": "keider montero",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "62": {
       "player": "gleyber torres",
@@ -2265,8 +2271,8 @@
     "58": {
       "player": "alec bohm",
       "pitcher": "george soriano",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "max kepler",
@@ -2612,6 +2618,12 @@
     }
   },
   "sea @ atl": {
+    "53": {
+      "player": "marcell ozuna",
+      "pitcher": "matt brash",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "52": {
       "player": "harry ford",
       "pitcher": "dylan lee",
@@ -2926,6 +2938,12 @@
     }
   },
   "cle @ tb": {
+    "42": {
+      "player": "jhonkensy noel",
+      "pitcher": "ian seymour",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "gabriel arias",
       "pitcher": "ian seymour",
@@ -3174,6 +3192,12 @@
     }
   },
   "min @ kc": {
+    "45": {
+      "player": "matt wallner",
+      "pitcher": "angel zerpa",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "austin martin",
       "pitcher": "michael wacha",
@@ -3795,8 +3819,8 @@
     "15": {
       "player": "ryan ritter",
       "pitcher": "nick pivetta",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "warming bernabel",
