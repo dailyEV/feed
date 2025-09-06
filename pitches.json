@@ -1263,7 +1263,7 @@
     "34": {
       "player": "colson montgomery",
       "pitcher": "tarik skubal",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -1735,11 +1735,17 @@
   },
   "lad @ bal": {},
   "cle @ tb": {
+    "11": {
+      "player": "gabriel arias",
+      "pitcher": "shane baz",
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
+    },
     "10": {
       "player": "daniel schneemann",
       "pitcher": "shane baz",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "9": {
       "player": "nolan jones",
@@ -1872,8 +1878,8 @@
     "4": {
       "player": "josh naylor",
       "pitcher": "hurston waldrep",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "julio rodriguez",
