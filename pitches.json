@@ -1260,11 +1260,17 @@
     }
   },
   "chw @ det": {
+    "40": {
+      "player": "andy ibanez",
+      "pitcher": "wikelman gonzalez",
+      "result": "In play, out(s)",
+      "pitch": "Slurve"
+    },
     "39": {
       "player": "riley greene",
       "pitcher": "wikelman gonzalez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slurve"
     },
     "38": {
       "player": "spencer torkelson",
@@ -1660,6 +1666,18 @@
     }
   },
   "mil @ pit": {
+    "29": {
+      "player": "tommy pham",
+      "pitcher": "brandon woodruff",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
+    "28": {
+      "player": "bryan reynolds",
+      "pitcher": "brandon woodruff",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "27": {
       "player": "spencer horwitz",
       "pitcher": "brandon woodruff",
@@ -1824,11 +1842,17 @@
     }
   },
   "lad @ bal": {
-    "5": {
-      "player": "jeremiah jackson",
+    "6": {
+      "player": "gunnar henderson",
       "pitcher": "yoshinobu yamamoto",
       "result": "Ball",
       "pitch": "Splitter"
+    },
+    "5": {
+      "player": "jeremiah jackson",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "jackson holliday",
@@ -2057,7 +2081,7 @@
     "12": {
       "player": "kyle isbel",
       "pitcher": "joe ryan",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "11": {
@@ -2131,8 +2155,8 @@
     "12": {
       "player": "victor robles",
       "pitcher": "hurston waldrep",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "11": {
       "player": "jp crawford",
