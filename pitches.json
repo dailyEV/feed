@@ -1397,7 +1397,7 @@
     "34": {
       "player": "samuel basallo",
       "pitcher": "anthony banda",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "33": {
@@ -1603,8 +1603,8 @@
     "31": {
       "player": "ben rice",
       "pitcher": "kevin gausman",
-      "result": "Called Strike",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "addison barger",
@@ -1788,11 +1788,17 @@
     }
   },
   "phi @ mia": {
+    "39": {
+      "player": "jt realmuto",
+      "pitcher": "josh simpson",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "bryce harper",
       "pitcher": "josh simpson",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "kyle schwarber",
@@ -2236,12 +2242,6 @@
     }
   },
   "cle @ tb": {
-    "24": {
-      "player": "gabriel arias",
-      "pitcher": "ian seymour",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "23": {
       "player": "bob seymour",
       "pitcher": "gavin williams",
@@ -2385,7 +2385,7 @@
     "27": {
       "player": "kody clemens",
       "pitcher": "michael wacha",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "26": {
