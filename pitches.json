@@ -464,6 +464,12 @@
     }
   },
   "nym @ cin": {
+    "74": {
+      "player": "brett baty",
+      "pitcher": "emilio pagan",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "73": {
       "player": "pete alonso",
       "pitcher": "emilio pagan",
@@ -1335,7 +1341,7 @@
     "78": {
       "player": "oneil cruz",
       "pitcher": "abner uribe",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "77": {
@@ -1802,12 +1808,6 @@
     }
   },
   "lad @ bal": {
-    "55": {
-      "player": "mookie betts",
-      "pitcher": "grant wolfram",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "54": {
       "player": "shohei ohtani",
       "pitcher": "grant wolfram",
@@ -3256,11 +3256,17 @@
     }
   },
   "cle @ tb": {
+    "52": {
+      "player": "george valera",
+      "pitcher": "brian van belle",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "51": {
       "player": "jose ramirez",
       "pitcher": "brian van belle",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "angel martinez",
