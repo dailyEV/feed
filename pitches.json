@@ -847,7 +847,7 @@
     "61": {
       "player": "colt keith",
       "pitcher": "tyler gilbert",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Sweeper"
     },
     "60": {
@@ -1885,7 +1885,7 @@
     "45": {
       "player": "ryan mcmahon",
       "pitcher": "kevin gausman",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -3015,8 +3015,8 @@
     "41": {
       "player": "vinnie pasquantino",
       "pitcher": "pablo lopez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "40": {
       "player": "bobby witt",
@@ -3421,8 +3421,8 @@
     "23": {
       "player": "jose fermin",
       "pitcher": "carson seymour",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "22": {
       "player": "victor scott",
@@ -3558,12 +3558,6 @@
     }
   },
   "sd @ col": {
-    "11": {
-      "player": "jackson merrill",
-      "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
-    },
     "10": {
       "player": "ramon laureano",
       "pitcher": "kyle freeland",
