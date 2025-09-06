@@ -1041,8 +1041,8 @@
     "48": {
       "player": "caleb durbin",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "47": {
       "player": "jake bauers",
@@ -2217,8 +2217,8 @@
     "21": {
       "player": "luke keaschall",
       "pitcher": "michael wacha",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "20": {
       "player": "trevor larnach",
@@ -2342,11 +2342,17 @@
     }
   },
   "hou @ tex": {
+    "7": {
+      "player": "jake burger",
+      "pitcher": "colton gordon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "wyatt langford",
       "pitcher": "colton gordon",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "5": {
       "player": "cody freeman",
@@ -2383,8 +2389,8 @@
     "4": {
       "player": "dominic smith",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "3": {
       "player": "willy adames",
