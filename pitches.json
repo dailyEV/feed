@@ -1901,7 +1901,7 @@
     "62": {
       "player": "andy pages",
       "pitcher": "rico garcia",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "61": {
@@ -2275,8 +2275,8 @@
     "65": {
       "player": "ben rice",
       "pitcher": "kevin gausman",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "trent grisham",
@@ -2667,8 +2667,8 @@
     "78": {
       "player": "edmundo sosa",
       "pitcher": "michael petersen",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "77": {
       "player": "bryson stott",
@@ -4576,10 +4576,16 @@
     }
   },
   "sf @ stl": {
+    "48": {
+      "player": "rafael devers",
+      "pitcher": "gordon graceffo",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "heliot ramos",
       "pitcher": "gordon graceffo",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "46": {
@@ -4863,8 +4869,8 @@
     "33": {
       "player": "jose iglesias",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "32": {
       "player": "jackson merrill",
