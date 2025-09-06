@@ -901,8 +901,8 @@
     "70": {
       "player": "zach mckinstry",
       "pitcher": "jordan leasure",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "69": {
       "player": "wenceel perez",
@@ -1775,7 +1775,7 @@
     "52": {
       "player": "samuel basallo",
       "pitcher": "jack dreyer",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "51": {
@@ -2804,12 +2804,6 @@
     }
   },
   "sea @ atl": {
-    "59": {
-      "player": "jurickson profar",
-      "pitcher": "gabe speier",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "58": {
       "player": "julio rodriguez",
       "pitcher": "tyler kinley",
@@ -3755,8 +3749,8 @@
     "37": {
       "player": "jeremy pena",
       "pitcher": "merrill kelly",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "36": {
       "player": "cam smith",
@@ -3976,11 +3970,17 @@
     }
   },
   "sf @ stl": {
+    "34": {
+      "player": "nolan gorman",
+      "pitcher": "carson seymour",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "ivan herrera",
       "pitcher": "carson seymour",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "32": {
       "player": "dominic smith",
@@ -4179,8 +4179,8 @@
     "21": {
       "player": "hunter goodman",
       "pitcher": "nick pivetta",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "mickey moniak",
