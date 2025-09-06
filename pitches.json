@@ -467,8 +467,8 @@
     "44": {
       "player": "francisco alvarez",
       "pitcher": "connor phillips",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "43": {
       "player": "jeff mcneil",
@@ -1230,7 +1230,7 @@
       "player": "michael conforto",
       "pitcher": "dietrich enns",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "25": {
       "player": "teoscar hernandez",
@@ -1387,8 +1387,8 @@
     "22": {
       "player": "alejandro kirk",
       "pitcher": "ryan yarbrough",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "21": {
       "player": "paul goldschmidt",
@@ -1518,6 +1518,18 @@
     }
   },
   "phi @ mia": {
+    "30": {
+      "player": "bryson stott",
+      "pitcher": "lake bachar",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
+    "29": {
+      "player": "alec bohm",
+      "pitcher": "lake bachar",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "28": {
       "player": "max kepler",
       "pitcher": "lake bachar",
@@ -1856,7 +1868,7 @@
       "player": "austin hedges",
       "pitcher": "ian seymour",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "brayan rocchio",
@@ -2023,7 +2035,14 @@
       "pitch": "Cutter"
     }
   },
-  "hou @ tex": {},
+  "hou @ tex": {
+    "1": {
+      "player": "jeremy pena",
+      "pitcher": "merrill kelly",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    }
+  },
   "sf @ stl": {},
   "sd @ col": {},
   "ath @ laa": {},
