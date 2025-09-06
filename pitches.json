@@ -1898,6 +1898,12 @@
     }
   },
   "lad @ bal": {
+    "65": {
+      "player": "colton cowser",
+      "pitcher": "michael kopech",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "64": {
       "player": "ryan mountcastle",
       "pitcher": "michael kopech",
@@ -2284,6 +2290,12 @@
     }
   },
   "tor @ nyy": {
+    "68": {
+      "player": "vladimir guerrero",
+      "pitcher": "camilo doval",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "67": {
       "player": "addison barger",
       "pitcher": "camilo doval",
@@ -2691,8 +2703,8 @@
     "80": {
       "player": "maximo acosta",
       "pitcher": "tim mayza",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "79": {
       "player": "joey wiemer",
@@ -3586,12 +3598,6 @@
     }
   },
   "cle @ tb": {
-    "65": {
-      "player": "yandy diaz",
-      "pitcher": "gavin williams",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
     "64": {
       "player": "richie palacios",
       "pitcher": "gavin williams",
@@ -4654,11 +4660,17 @@
     }
   },
   "sf @ stl": {
+    "50": {
+      "player": "dominic smith",
+      "pitcher": "gordon graceffo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "willy adames",
       "pitcher": "gordon graceffo",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "rafael devers",
@@ -5203,7 +5215,7 @@
     "5": {
       "player": "geraldo perdomo",
       "pitcher": "payton tolle",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "4": {
