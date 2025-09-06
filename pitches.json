@@ -826,12 +826,6 @@
     }
   },
   "chw @ det": {
-    "58": {
-      "player": "zach mckinstry",
-      "pitcher": "tyler gilbert",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "57": {
       "player": "andrew benintendi",
       "pitcher": "keider montero",
@@ -1810,6 +1804,12 @@
     }
   },
   "tor @ nyy": {
+    "42": {
+      "player": "ernie clement",
+      "pitcher": "ryan yarbrough",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "paul goldschmidt",
       "pitcher": "kevin gausman",
@@ -2357,7 +2357,7 @@
     "48": {
       "player": "jorge polanco",
       "pitcher": "chris sale",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -3074,6 +3074,12 @@
     }
   },
   "hou @ tex": {
+    "22": {
+      "player": "jose altuve",
+      "pitcher": "merrill kelly",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "yordan alvarez",
       "pitcher": "merrill kelly",
@@ -3205,8 +3211,8 @@
     "19": {
       "player": "willy adames",
       "pitcher": "michael mcgreevy",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "18": {
       "player": "jordan walker",
