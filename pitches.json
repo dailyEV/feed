@@ -838,6 +838,12 @@
     }
   },
   "chw @ det": {
+    "60": {
+      "player": "justyn henry malloy",
+      "pitcher": "tyler gilbert",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "dillon dingler",
       "pitcher": "tyler gilbert",
@@ -1194,6 +1200,12 @@
     }
   },
   "mil @ pit": {
+    "66": {
+      "player": "isaac collins",
+      "pitcher": "yohan ramirez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "65": {
       "player": "brice turang",
       "pitcher": "yohan ramirez",
@@ -1849,8 +1861,8 @@
     "44": {
       "player": "george springer",
       "pitcher": "ryan yarbrough",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "43": {
       "player": "andres gimenez",
@@ -2112,18 +2124,6 @@
     }
   },
   "phi @ mia": {
-    "52": {
-      "player": "heriberto hernandez",
-      "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
-    "51": {
-      "player": "jakob marsee",
-      "pitcher": "cristopher sanchez",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "50": {
       "player": "bryce harper",
       "pitcher": "josh simpson",
@@ -2722,12 +2722,6 @@
     }
   },
   "cle @ tb": {
-    "35": {
-      "player": "junior caminero",
-      "pitcher": "gavin williams",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
     "34": {
       "player": "david fry",
       "pitcher": "ian seymour",
@@ -2934,6 +2928,12 @@
     }
   },
   "min @ kc": {
+    "40": {
+      "player": "bobby witt",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "39": {
       "player": "mike yastrzemski",
       "pitcher": "pablo lopez",
@@ -3441,7 +3441,7 @@
     "9": {
       "player": "gavin sheets",
       "pitcher": "kyle freeland",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "8": {
