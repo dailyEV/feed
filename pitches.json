@@ -1260,12 +1260,6 @@
     }
   },
   "chw @ det": {
-    "47": {
-      "player": "javier baez",
-      "pitcher": "wikelman gonzalez",
-      "result": "Ball",
-      "pitch": "Slurve"
-    },
     "46": {
       "player": "zach mckinstry",
       "pitcher": "wikelman gonzalez",
@@ -1756,11 +1750,17 @@
     }
   },
   "mil @ pit": {
+    "34": {
+      "player": "oneil cruz",
+      "pitcher": "brandon woodruff",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "33": {
       "player": "nick gonzales",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "sal frelick",
@@ -1956,6 +1956,12 @@
     }
   },
   "lad @ bal": {
+    "10": {
+      "player": "ryan mountcastle",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "andy pages",
       "pitcher": "trevor rogers",
@@ -2016,7 +2022,7 @@
       "player": "tristan gray",
       "pitcher": "tanner bibee",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "hunter feduccia",
@@ -2404,12 +2410,6 @@
     }
   },
   "sea @ atl": {
-    "17": {
-      "player": "randy arozarena",
-      "pitcher": "hurston waldrep",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "16": {
       "player": "michael harris",
       "pitcher": "bryce miller",
