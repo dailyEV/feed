@@ -847,8 +847,8 @@
     "61": {
       "player": "colt keith",
       "pitcher": "tyler gilbert",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "60": {
       "player": "justyn henry malloy",
@@ -1613,7 +1613,7 @@
     "45": {
       "player": "michael conforto",
       "pitcher": "kade strowd",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -2474,6 +2474,18 @@
     }
   },
   "sea @ atl": {
+    "51": {
+      "player": "leo rivas",
+      "pitcher": "dylan lee",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
+    "50": {
+      "player": "dominic canzone",
+      "pitcher": "dylan lee",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "49": {
       "player": "mitch garver",
       "pitcher": "chris sale",
@@ -3003,7 +3015,7 @@
     "41": {
       "player": "vinnie pasquantino",
       "pitcher": "pablo lopez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "40": {
@@ -3409,8 +3421,8 @@
     "23": {
       "player": "jose fermin",
       "pitcher": "carson seymour",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "22": {
       "player": "victor scott",
@@ -3546,6 +3558,12 @@
     }
   },
   "sd @ col": {
+    "11": {
+      "player": "jackson merrill",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "10": {
       "player": "ramon laureano",
       "pitcher": "kyle freeland",
