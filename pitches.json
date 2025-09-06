@@ -1898,12 +1898,6 @@
     }
   },
   "lad @ bal": {
-    "69": {
-      "player": "emmanuel rivera",
-      "pitcher": "tanner scott",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "68": {
       "player": "miguel rojas",
       "pitcher": "yennier cano",
@@ -2314,6 +2308,12 @@
     }
   },
   "tor @ nyy": {
+    "73": {
+      "player": "cody bellinger",
+      "pitcher": "braydon fisher",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "72": {
       "player": "aaron judge",
       "pitcher": "braydon fisher",
@@ -4481,8 +4481,8 @@
     "54": {
       "player": "cam smith",
       "pitcher": "merrill kelly",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "53": {
       "player": "taylor trammell",
@@ -5130,11 +5130,17 @@
     }
   },
   "sd @ col": {
+    "41": {
+      "player": "elias diaz",
+      "pitcher": "kyle freeland",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "jake cronenworth",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "brenton doyle",
