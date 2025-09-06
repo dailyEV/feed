@@ -3805,7 +3805,7 @@
     "33": {
       "player": "jose ramirez",
       "pitcher": "ian seymour",
-      "result": "Foul Tip",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "32": {
@@ -5001,8 +5001,8 @@
     "36": {
       "player": "mickey moniak",
       "pitcher": "nick pivetta",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "tyler freeman",
@@ -5219,8 +5219,8 @@
     "7": {
       "player": "zach neto",
       "pitcher": "mason barnett",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Hit By Pitch",
+      "pitch": "Curveball"
     },
     "6": {
       "player": "lawrence butler",
@@ -5260,6 +5260,12 @@
     }
   },
   "bos @ ari": {
+    "8": {
+      "player": "blaze alexander",
+      "pitcher": "payton tolle",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "7": {
       "player": "gabriel moreno",
       "pitcher": "payton tolle",
