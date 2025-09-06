@@ -1530,7 +1530,7 @@
       "player": "spencer steer",
       "pitcher": "jonah tong",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "32": {
       "player": "gavin lux",
@@ -1729,8 +1729,8 @@
     "32": {
       "player": "sal frelick",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "joey ortiz",
@@ -2151,7 +2151,7 @@
     "12": {
       "player": "josh jung",
       "pitcher": "hunter brown",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "11": {
@@ -2222,6 +2222,12 @@
     }
   },
   "min @ kc": {
+    "17": {
+      "player": "brooks lee",
+      "pitcher": "stephen kolek",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "mickey gasper",
       "pitcher": "stephen kolek",
