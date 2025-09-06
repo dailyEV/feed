@@ -464,6 +464,12 @@
     }
   },
   "nym @ cin": {
+    "74": {
+      "player": "brett baty",
+      "pitcher": "emilio pagan",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "73": {
       "player": "pete alonso",
       "pitcher": "emilio pagan",
@@ -2120,7 +2126,7 @@
       "player": "paul goldschmidt",
       "pitcher": "kevin gausman",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "jazz chisholm",
@@ -2858,11 +2864,23 @@
     }
   },
   "sea @ atl": {
+    "62": {
+      "player": "drake baldwin",
+      "pitcher": "gabe speier",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "61": {
+      "player": "ozzie albies",
+      "pitcher": "gabe speier",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "60": {
       "player": "matt olson",
       "pitcher": "gabe speier",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "59": {
       "player": "jurickson profar",
@@ -3223,7 +3241,7 @@
     "50": {
       "player": "angel martinez",
       "pitcher": "brian van belle",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "49": {
