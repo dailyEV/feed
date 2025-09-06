@@ -799,8 +799,8 @@
     "52": {
       "player": "edgar quero",
       "pitcher": "keider montero",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "wenceel perez",
@@ -1693,8 +1693,8 @@
     "36": {
       "player": "daulton varsho",
       "pitcher": "ryan yarbrough",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "35": {
       "player": "bo bichette",
@@ -2174,6 +2174,12 @@
     }
   },
   "sea @ atl": {
+    "41": {
+      "player": "randy arozarena",
+      "pitcher": "chris sale",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "ozzie albies",
       "pitcher": "logan gilbert",
@@ -2595,8 +2601,8 @@
     "32": {
       "player": "jac caglianone",
       "pitcher": "pablo lopez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "michael massey",
@@ -2789,8 +2795,8 @@
     "17": {
       "player": "dylan moore",
       "pitcher": "colton gordon",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "ezequiel duran",
@@ -2893,8 +2899,8 @@
     "14": {
       "player": "rafael devers",
       "pitcher": "michael mcgreevy",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "13": {
       "player": "heliot ramos",
@@ -2975,7 +2981,20 @@
       "pitch": "Sweeper"
     }
   },
-  "sd @ col": {},
+  "sd @ col": {
+    "2": {
+      "player": "ryan ohearn",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "1": {
+      "player": "fernando tatis",
+      "pitcher": "kyle freeland",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    }
+  },
   "ath @ laa": {},
   "bos @ ari": {}
 }
