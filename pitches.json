@@ -1901,7 +1901,7 @@
     "67": {
       "player": "ben rortvedt",
       "pitcher": "yennier cano",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "66": {
@@ -2302,6 +2302,12 @@
     }
   },
   "tor @ nyy": {
+    "72": {
+      "player": "aaron judge",
+      "pitcher": "braydon fisher",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "71": {
       "player": "alejandro kirk",
       "pitcher": "camilo doval",
@@ -4050,11 +4056,17 @@
     }
   },
   "min @ kc": {
-    "65": {
-      "player": "matt wallner",
+    "66": {
+      "player": "royce lewis",
       "pitcher": "carlos estevez",
       "result": "Foul",
       "pitch": "4-Seam Fastball"
+    },
+    "65": {
+      "player": "matt wallner",
+      "pitcher": "carlos estevez",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "64": {
       "player": "salvador perez",
@@ -5322,7 +5334,7 @@
       "player": "taylor ward",
       "pitcher": "mason barnett",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "9": {
       "player": "yoan moncada",
