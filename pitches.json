@@ -467,7 +467,7 @@
     "42": {
       "player": "starling marte",
       "pitcher": "andrew abbott",
-      "result": "Called Strike",
+      "result": "Ball In Dirt",
       "pitch": "Changeup"
     },
     "41": {
@@ -721,8 +721,8 @@
     "38": {
       "player": "curtis mead",
       "pitcher": "jack flaherty",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Hit By Pitch",
+      "pitch": "Changeup"
     },
     "37": {
       "player": "kyle teel",
@@ -1327,7 +1327,7 @@
     "20": {
       "player": "jazz chisholm",
       "pitcher": "kevin gausman",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "19": {
@@ -1601,7 +1601,7 @@
     "23": {
       "player": "matt olson",
       "pitcher": "logan gilbert",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "22": {
@@ -1794,6 +1794,12 @@
     }
   },
   "min @ kc": {
+    "13": {
+      "player": "jhonny pereda",
+      "pitcher": "michael wacha",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "brooks lee",
       "pitcher": "michael wacha",
