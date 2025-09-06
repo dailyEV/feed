@@ -464,11 +464,17 @@
     }
   },
   "nym @ cin": {
+    "67": {
+      "player": "francisco lindor",
+      "pitcher": "nick martinez",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "66": {
       "player": "luisangel acuna",
       "pitcher": "nick martinez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "65": {
       "player": "francisco alvarez",
@@ -1239,7 +1245,7 @@
     "69": {
       "player": "tommy pham",
       "pitcher": "jared koenig",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "68": {
@@ -2899,8 +2905,8 @@
     "40": {
       "player": "nolan jones",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "39": {
       "player": "carson williams",
@@ -3738,6 +3744,12 @@
     }
   },
   "sd @ col": {
+    "15": {
+      "player": "ryan ritter",
+      "pitcher": "nick pivetta",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "warming bernabel",
       "pitcher": "nick pivetta",
