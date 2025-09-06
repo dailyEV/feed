@@ -2242,17 +2242,11 @@
     }
   },
   "tor @ nyy": {
-    "63": {
-      "player": "jose caballero",
-      "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "62": {
       "player": "ryan mcmahon",
       "pitcher": "kevin gausman",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "andres gimenez",
@@ -2622,6 +2616,12 @@
     }
   },
   "phi @ mia": {
+    "76": {
+      "player": "alec bohm",
+      "pitcher": "michael petersen",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "75": {
       "player": "max kepler",
       "pitcher": "michael petersen",
@@ -3493,7 +3493,7 @@
     "60": {
       "player": "jhonkensy noel",
       "pitcher": "brian van belle",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "59": {
@@ -3852,6 +3852,12 @@
     }
   },
   "min @ kc": {
+    "59": {
+      "player": "kody clemens",
+      "pitcher": "daniel lynch",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "58": {
       "player": "luke keaschall",
       "pitcher": "daniel lynch",
@@ -4752,6 +4758,12 @@
     }
   },
   "sd @ col": {
+    "30": {
+      "player": "gavin sheets",
+      "pitcher": "kyle freeland",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "warming bernabel",
       "pitcher": "nick pivetta",
