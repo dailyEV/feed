@@ -1161,7 +1161,7 @@
     "62": {
       "player": "jake bauers",
       "pitcher": "yohan ramirez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -1780,6 +1780,12 @@
     }
   },
   "tor @ nyy": {
+    "41": {
+      "player": "paul goldschmidt",
+      "pitcher": "kevin gausman",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "jazz chisholm",
       "pitcher": "kevin gausman",
@@ -2022,6 +2028,12 @@
     }
   },
   "phi @ mia": {
+    "49": {
+      "player": "kyle schwarber",
+      "pitcher": "josh simpson",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "48": {
       "player": "trea turner",
       "pitcher": "josh simpson",
@@ -3002,11 +3014,17 @@
     }
   },
   "hou @ tex": {
+    "21": {
+      "player": "yordan alvarez",
+      "pitcher": "merrill kelly",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "20": {
       "player": "jeremy pena",
       "pitcher": "merrill kelly",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "19": {
       "player": "michael helman",
@@ -3237,8 +3255,8 @@
     "6": {
       "player": "hunter goodman",
       "pitcher": "nick pivetta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "5": {
       "player": "mickey moniak",
