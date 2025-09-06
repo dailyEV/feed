@@ -1263,7 +1263,7 @@
     "32": {
       "player": "gleyber torres",
       "pitcher": "martin perez",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "31": {
@@ -1570,6 +1570,12 @@
     }
   },
   "mil @ pit": {
+    "18": {
+      "player": "henry davis",
+      "pitcher": "brandon woodruff",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "17": {
       "player": "sal frelick",
       "pitcher": "mitch keller",
@@ -1739,19 +1745,25 @@
     }
   },
   "hou @ tex": {
+    "2": {
+      "player": "yordan alvarez",
+      "pitcher": "jacob degrom",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "1": {
       "player": "jeremy pena",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     }
   },
   "min @ kc": {
     "2": {
       "player": "trevor larnach",
       "pitcher": "stephen kolek",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "1": {
       "player": "byron buxton",
@@ -1765,7 +1777,7 @@
       "player": "cal raleigh",
       "pitcher": "hurston waldrep",
       "result": "Called Strike",
-      "pitch": "Curveball"
+      "pitch": "Cutter"
     },
     "1": {
       "player": "randy arozarena",
