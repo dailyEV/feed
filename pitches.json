@@ -467,8 +467,8 @@
     "75": {
       "player": "brandon nimmo",
       "pitcher": "emilio pagan",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "74": {
       "player": "brett baty",
@@ -916,12 +916,6 @@
     }
   },
   "chw @ det": {
-    "72": {
-      "player": "dominic fletcher",
-      "pitcher": "keider montero",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
-    },
     "71": {
       "player": "dillon dingler",
       "pitcher": "jordan leasure",
@@ -2496,6 +2490,12 @@
     }
   },
   "phi @ mia": {
+    "68": {
+      "player": "brandon marsh",
+      "pitcher": "seth martinez",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "67": {
       "player": "rafael marchan",
       "pitcher": "seth martinez",
@@ -3588,6 +3588,12 @@
     }
   },
   "min @ kc": {
+    "53": {
+      "player": "byron buxton",
+      "pitcher": "john schreiber",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "52": {
       "player": "jhonny pereda",
       "pitcher": "angel zerpa",
@@ -4144,6 +4150,12 @@
     }
   },
   "sf @ stl": {
+    "38": {
+      "player": "casey schmitt",
+      "pitcher": "gordon graceffo",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "37": {
       "player": "jung hoo lee",
       "pitcher": "gordon graceffo",
@@ -4368,11 +4380,17 @@
     }
   },
   "sd @ col": {
+    "24": {
+      "player": "ryan ohearn",
+      "pitcher": "kyle freeland",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    },
     "23": {
       "player": "fernando tatis",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "jordan beck",
