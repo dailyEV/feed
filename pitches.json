@@ -464,6 +464,12 @@
     }
   },
   "nym @ cin": {
+    "58": {
+      "player": "mark vientos",
+      "pitcher": "nick martinez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "matt mclain",
       "pitcher": "ryne stanek",
@@ -808,17 +814,11 @@
     }
   },
   "chw @ det": {
-    "57": {
-      "player": "andrew benintendi",
-      "pitcher": "keider montero",
-      "result": "Called Strike",
-      "pitch": "Changeup"
-    },
     "56": {
       "player": "chase meidroth",
       "pitcher": "keider montero",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "55": {
       "player": "colson montgomery",
@@ -2004,12 +2004,6 @@
     }
   },
   "phi @ mia": {
-    "48": {
-      "player": "trea turner",
-      "pitcher": "josh simpson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "47": {
       "player": "bryson stott",
       "pitcher": "josh simpson",
@@ -2566,11 +2560,17 @@
     }
   },
   "cle @ tb": {
+    "33": {
+      "player": "jose ramirez",
+      "pitcher": "ian seymour",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "32": {
       "player": "angel martinez",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "steven kwan",
@@ -2972,6 +2972,12 @@
     }
   },
   "hou @ tex": {
+    "20": {
+      "player": "jeremy pena",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "19": {
       "player": "michael helman",
       "pitcher": "colton gordon",
@@ -3092,7 +3098,7 @@
       "player": "thomas saggese",
       "pitcher": "carson seymour",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "16": {
       "player": "jimmy crooks",
