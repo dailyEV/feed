@@ -1308,10 +1308,16 @@
     }
   },
   "mil @ pit": {
+    "74": {
+      "player": "jake bauers",
+      "pitcher": "colin holderman",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "73": {
       "player": "andrew vaughn",
       "pitcher": "colin holderman",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "72": {
@@ -1751,8 +1757,8 @@
     "51": {
       "player": "dylan beavers",
       "pitcher": "jack dreyer",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "emmanuel rivera",
@@ -3387,8 +3393,8 @@
     "48": {
       "player": "adam frazier",
       "pitcher": "pablo lopez",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "47": {
       "player": "salvador perez",
@@ -3886,6 +3892,12 @@
     }
   },
   "sf @ stl": {
+    "32": {
+      "player": "dominic smith",
+      "pitcher": "michael mcgreevy",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "31": {
       "player": "willy adames",
       "pitcher": "michael mcgreevy",
@@ -4077,8 +4089,8 @@
     "19": {
       "player": "tyler freeman",
       "pitcher": "nick pivetta",
-      "result": "Foul Tip",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "18": {
       "player": "elias diaz",
