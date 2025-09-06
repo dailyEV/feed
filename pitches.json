@@ -3586,10 +3586,16 @@
     }
   },
   "cle @ tb": {
+    "65": {
+      "player": "yandy diaz",
+      "pitcher": "gavin williams",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "64": {
       "player": "richie palacios",
       "pitcher": "gavin williams",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "63": {
@@ -3975,8 +3981,8 @@
     "62": {
       "player": "vinnie pasquantino",
       "pitcher": "justin topa",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "61": {
       "player": "nick loftin",
@@ -4350,7 +4356,7 @@
       "player": "joc pederson",
       "pitcher": "aj blubaugh",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "ezequiel duran",
@@ -4651,8 +4657,8 @@
     "49": {
       "player": "willy adames",
       "pitcher": "gordon graceffo",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "48": {
       "player": "rafael devers",
@@ -4944,10 +4950,16 @@
     }
   },
   "sd @ col": {
+    "35": {
+      "player": "tyler freeman",
+      "pitcher": "nick pivetta",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "34": {
       "player": "ryan ritter",
       "pitcher": "nick pivetta",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "33": {
@@ -5153,8 +5165,8 @@
     "6": {
       "player": "lawrence butler",
       "pitcher": "jose soriano",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "jacob wilson",
