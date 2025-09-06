@@ -1901,7 +1901,7 @@
     "66": {
       "player": "enrique hernandez",
       "pitcher": "yennier cano",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "65": {
@@ -2299,8 +2299,8 @@
     "70": {
       "player": "daulton varsho",
       "pitcher": "camilo doval",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "69": {
       "player": "bo bichette",
@@ -3625,7 +3625,7 @@
     "68": {
       "player": "jose ramirez",
       "pitcher": "mason montgomery",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -4424,6 +4424,12 @@
     }
   },
   "hou @ tex": {
+    "52": {
+      "player": "victor caratini",
+      "pitcher": "merrill kelly",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "51": {
       "player": "josh smith",
       "pitcher": "aj blubaugh",
@@ -4732,6 +4738,12 @@
     }
   },
   "sf @ stl": {
+    "52": {
+      "player": "ivan herrera",
+      "pitcher": "matt gage",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "51": {
       "player": "lars nootbaar",
       "pitcher": "matt gage",
@@ -5043,8 +5055,8 @@
     "37": {
       "player": "hunter goodman",
       "pitcher": "nick pivetta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "36": {
       "player": "mickey moniak",
