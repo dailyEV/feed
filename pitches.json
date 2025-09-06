@@ -1317,7 +1317,7 @@
     "75": {
       "player": "caleb durbin",
       "pitcher": "colin holderman",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "74": {
@@ -1769,7 +1769,7 @@
     "52": {
       "player": "samuel basallo",
       "pitcher": "jack dreyer",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "51": {
@@ -2083,8 +2083,8 @@
     "55": {
       "player": "giancarlo stanton",
       "pitcher": "kevin gausman",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "54": {
       "player": "cody bellinger",
@@ -3722,6 +3722,12 @@
     }
   },
   "hou @ tex": {
+    "36": {
+      "player": "cam smith",
+      "pitcher": "merrill kelly",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "josh smith",
       "pitcher": "colton gordon",
