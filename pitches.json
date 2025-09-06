@@ -790,12 +790,6 @@
     }
   },
   "chw @ det": {
-    "52": {
-      "player": "edgar quero",
-      "pitcher": "keider montero",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
-    },
     "51": {
       "player": "wenceel perez",
       "pitcher": "tyler gilbert",
@@ -1451,8 +1445,8 @@
     "38": {
       "player": "coby mayo",
       "pitcher": "anthony banda",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "37": {
       "player": "mookie betts",
@@ -1890,10 +1884,16 @@
     }
   },
   "phi @ mia": {
+    "43": {
+      "player": "otto lopez",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "42": {
       "player": "javier sanoja",
       "pitcher": "cristopher sanchez",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "41": {
@@ -2738,6 +2738,18 @@
     }
   },
   "hou @ tex": {
+    "16": {
+      "player": "ezequiel duran",
+      "pitcher": "colton gordon",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
+    "15": {
+      "player": "josh jung",
+      "pitcher": "colton gordon",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "14": {
       "player": "kyle higashioka",
       "pitcher": "colton gordon",
@@ -2824,6 +2836,18 @@
     }
   },
   "sf @ stl": {
+    "14": {
+      "player": "rafael devers",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "13": {
+      "player": "heliot ramos",
+      "pitcher": "michael mcgreevy",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "12": {
       "player": "patrick bailey",
       "pitcher": "michael mcgreevy",
