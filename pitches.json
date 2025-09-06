@@ -877,8 +877,8 @@
     "66": {
       "player": "jahmai jones",
       "pitcher": "dan altavilla",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "65": {
       "player": "bryan ramos",
@@ -1272,17 +1272,11 @@
     }
   },
   "mil @ pit": {
-    "72": {
-      "player": "sal frelick",
-      "pitcher": "colin holderman",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "71": {
       "player": "william contreras",
       "pitcher": "colin holderman",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "70": {
       "player": "jackson chourio",
@@ -1706,6 +1700,12 @@
     }
   },
   "lad @ bal": {
+    "49": {
+      "player": "colton cowser",
+      "pitcher": "jack dreyer",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "48": {
       "player": "alex call",
       "pitcher": "kade strowd",
@@ -2310,6 +2310,12 @@
     }
   },
   "phi @ mia": {
+    "61": {
+      "player": "kyle schwarber",
+      "pitcher": "george soriano",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "60": {
       "player": "trea turner",
       "pitcher": "george soriano",
@@ -3748,6 +3754,12 @@
     }
   },
   "sf @ stl": {
+    "30": {
+      "player": "rafael devers",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "29": {
       "player": "heliot ramos",
       "pitcher": "michael mcgreevy",
@@ -3928,7 +3940,7 @@
       "player": "jose iglesias",
       "pitcher": "kyle freeland",
       "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "ryan ritter",
