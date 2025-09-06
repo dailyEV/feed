@@ -1038,6 +1038,12 @@
     }
   },
   "mil @ pit": {
+    "48": {
+      "player": "caleb durbin",
+      "pitcher": "carmen mlodzinski",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "47": {
       "player": "jake bauers",
       "pitcher": "carmen mlodzinski",
@@ -1510,6 +1516,12 @@
     }
   },
   "tor @ nyy": {
+    "27": {
+      "player": "trent grisham",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "26": {
       "player": "jose caballero",
       "pitcher": "kevin gausman",
@@ -1880,11 +1892,17 @@
     }
   },
   "sea @ atl": {
+    "33": {
+      "player": "jake fraley",
+      "pitcher": "logan gilbert",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "marcell ozuna",
       "pitcher": "logan gilbert",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "31": {
       "player": "michael harris",
@@ -2199,8 +2217,8 @@
     "21": {
       "player": "luke keaschall",
       "pitcher": "michael wacha",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "20": {
       "player": "trevor larnach",
@@ -2327,8 +2345,8 @@
     "6": {
       "player": "wyatt langford",
       "pitcher": "colton gordon",
-      "result": "In play, no out",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "5": {
       "player": "cody freeman",
@@ -2365,8 +2383,8 @@
     "4": {
       "player": "dominic smith",
       "pitcher": "michael mcgreevy",
-      "result": "In play, no out",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "3": {
       "player": "willy adames",
