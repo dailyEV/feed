@@ -1272,11 +1272,17 @@
     }
   },
   "mil @ pit": {
+    "72": {
+      "player": "sal frelick",
+      "pitcher": "colin holderman",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "71": {
       "player": "william contreras",
       "pitcher": "colin holderman",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "70": {
       "player": "jackson chourio",
@@ -2998,6 +3004,12 @@
     }
   },
   "cle @ tb": {
+    "44": {
+      "player": "bob seymour",
+      "pitcher": "gavin williams",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "43": {
       "player": "brayan rocchio",
       "pitcher": "ian seymour",
@@ -3261,8 +3273,8 @@
     "47": {
       "player": "salvador perez",
       "pitcher": "pablo lopez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "46": {
       "player": "maikel garcia",
@@ -3739,8 +3751,8 @@
     "29": {
       "player": "heliot ramos",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "patrick bailey",
@@ -3916,7 +3928,7 @@
       "player": "jose iglesias",
       "pitcher": "kyle freeland",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Knuckle Curve"
     },
     "15": {
       "player": "ryan ritter",
