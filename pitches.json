@@ -949,7 +949,7 @@
     "79": {
       "player": "gleyber torres",
       "pitcher": "jordan leasure",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "78": {
@@ -1892,6 +1892,12 @@
     }
   },
   "lad @ bal": {
+    "61": {
+      "player": "michael conforto",
+      "pitcher": "rico garcia",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "60": {
       "player": "teoscar hernandez",
       "pitcher": "rico garcia",
@@ -2254,6 +2260,12 @@
     }
   },
   "tor @ nyy": {
+    "64": {
+      "player": "trent grisham",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "jose caballero",
       "pitcher": "kevin gausman",
@@ -2637,8 +2649,8 @@
     "77": {
       "player": "bryson stott",
       "pitcher": "michael petersen",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
     },
     "76": {
       "player": "alec bohm",
@@ -3517,8 +3529,8 @@
     "61": {
       "player": "brayan rocchio",
       "pitcher": "brian van belle",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "60": {
       "player": "jhonkensy noel",
@@ -4238,6 +4250,12 @@
     }
   },
   "hou @ tex": {
+    "47": {
+      "player": "kyle higashioka",
+      "pitcher": "aj blubaugh",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "christian walker",
       "pitcher": "merrill kelly",
@@ -4791,8 +4809,8 @@
     "30": {
       "player": "gavin sheets",
       "pitcher": "kyle freeland",
-      "result": "In play, out(s)",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "warming bernabel",
@@ -4984,12 +5002,6 @@
     }
   },
   "bos @ ari": {
-    "2": {
-      "player": "alex bregman",
-      "pitcher": "eduardo rodriguez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "1": {
       "player": "jarren duran",
       "pitcher": "eduardo rodriguez",
