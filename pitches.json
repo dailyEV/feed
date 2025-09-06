@@ -464,12 +464,6 @@
     }
   },
   "nym @ cin": {
-    "63": {
-      "player": "elly de la cruz",
-      "pitcher": "brooks raley",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "62": {
       "player": "noelvi marte",
       "pitcher": "brooks raley",
@@ -1209,7 +1203,7 @@
     "66": {
       "player": "isaac collins",
       "pitcher": "yohan ramirez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -1607,8 +1601,8 @@
     "44": {
       "player": "teoscar hernandez",
       "pitcher": "kade strowd",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "freddie freeman",
@@ -2746,6 +2740,12 @@
     }
   },
   "cle @ tb": {
+    "36": {
+      "player": "josh lowe",
+      "pitcher": "gavin williams",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "junior caminero",
       "pitcher": "gavin williams",
@@ -2961,7 +2961,7 @@
     "40": {
       "player": "bobby witt",
       "pitcher": "pablo lopez",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -3474,11 +3474,17 @@
     }
   },
   "sd @ col": {
+    "10": {
+      "player": "ramon laureano",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "gavin sheets",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "8": {
       "player": "brenton doyle",
