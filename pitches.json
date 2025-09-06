@@ -464,11 +464,17 @@
     }
   },
   "nym @ cin": {
+    "80": {
+      "player": "elly de la cruz",
+      "pitcher": "edwin diaz",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "79": {
       "player": "noelvi marte",
       "pitcher": "edwin diaz",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "78": {
       "player": "tj friedl",
@@ -943,7 +949,7 @@
     "78": {
       "player": "colt keith",
       "pitcher": "jordan leasure",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "77": {
@@ -1883,8 +1889,8 @@
     "59": {
       "player": "jeremiah jackson",
       "pitcher": "blake treinen",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "58": {
       "player": "jackson holliday",
@@ -2604,10 +2610,16 @@
     }
   },
   "phi @ mia": {
+    "75": {
+      "player": "max kepler",
+      "pitcher": "michael petersen",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "74": {
       "player": "harrison bader",
       "pitcher": "michael petersen",
-      "result": "Called Strike",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "73": {
@@ -3053,8 +3065,8 @@
     "69": {
       "player": "cole young",
       "pitcher": "raisel iglesias",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "jorge polanco",
@@ -3822,12 +3834,6 @@
     }
   },
   "min @ kc": {
-    "57": {
-      "player": "trevor larnach",
-      "pitcher": "daniel lynch",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
     "56": {
       "player": "mike yastrzemski",
       "pitcher": "kody funderburk",
@@ -4169,8 +4175,8 @@
     "46": {
       "player": "christian walker",
       "pitcher": "merrill kelly",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "jesus sanchez",
@@ -4719,7 +4725,7 @@
     "29": {
       "player": "warming bernabel",
       "pitcher": "nick pivetta",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "28": {
