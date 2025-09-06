@@ -467,7 +467,7 @@
     "50": {
       "player": "juan soto",
       "pitcher": "connor phillips",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "49": {
@@ -766,6 +766,18 @@
     }
   },
   "chw @ det": {
+    "47": {
+      "player": "dominic fletcher",
+      "pitcher": "keider montero",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "46": {
+      "player": "bryan ramos",
+      "pitcher": "keider montero",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "michael a taylor",
       "pitcher": "bailey horn",
@@ -1041,7 +1053,7 @@
     "50": {
       "player": "brice turang",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -1537,7 +1549,7 @@
     "28": {
       "player": "andres gimenez",
       "pitcher": "ryan yarbrough",
-      "result": "Ball",
+      "result": "Foul Bunt",
       "pitch": "Sinker"
     },
     "27": {
@@ -1704,6 +1716,12 @@
     }
   },
   "phi @ mia": {
+    "37": {
+      "player": "kyle schwarber",
+      "pitcher": "josh simpson",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "trea turner",
       "pitcher": "josh simpson",
@@ -1922,16 +1940,10 @@
     }
   },
   "sea @ atl": {
-    "35": {
-      "player": "leo rivas",
-      "pitcher": "chris sale",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "34": {
       "player": "dominic canzone",
       "pitcher": "chris sale",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "33": {
@@ -2271,7 +2283,7 @@
     "24": {
       "player": "vinnie pasquantino",
       "pitcher": "pablo lopez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sweeper"
     },
     "23": {
