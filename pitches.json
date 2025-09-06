@@ -1615,8 +1615,8 @@
     "23": {
       "player": "william contreras",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "brice turang",
@@ -1751,13 +1751,20 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "lad @ bal": {},
+  "lad @ bal": {
+    "1": {
+      "player": "shohei ohtani",
+      "pitcher": "trevor rogers",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "cle @ tb": {
     "12": {
       "player": "bo naylor",
       "pitcher": "shane baz",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "gabriel arias",
@@ -1932,8 +1939,8 @@
     "6": {
       "player": "jorge polanco",
       "pitcher": "hurston waldrep",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "eugenio suarez",
