@@ -467,8 +467,8 @@
     "62": {
       "player": "noelvi marte",
       "pitcher": "brooks raley",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "61": {
       "player": "tj friedl",
@@ -838,6 +838,18 @@
     }
   },
   "chw @ det": {
+    "59": {
+      "player": "dillon dingler",
+      "pitcher": "tyler gilbert",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
+    "58": {
+      "player": "zach mckinstry",
+      "pitcher": "tyler gilbert",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "andrew benintendi",
       "pitcher": "keider montero",
@@ -1568,6 +1580,12 @@
     }
   },
   "lad @ bal": {
+    "43": {
+      "player": "freddie freeman",
+      "pitcher": "dietrich enns",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "ryan mountcastle",
       "pitcher": "ben casparius",
@@ -1822,18 +1840,6 @@
     }
   },
   "tor @ nyy": {
-    "43": {
-      "player": "andres gimenez",
-      "pitcher": "ryan yarbrough",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "42": {
-      "player": "ernie clement",
-      "pitcher": "ryan yarbrough",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "41": {
       "player": "paul goldschmidt",
       "pitcher": "kevin gausman",
@@ -2387,8 +2393,8 @@
     "49": {
       "player": "mitch garver",
       "pitcher": "chris sale",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "48": {
       "player": "jorge polanco",
@@ -3116,6 +3122,12 @@
     }
   },
   "hou @ tex": {
+    "23": {
+      "player": "cody freeman",
+      "pitcher": "colton gordon",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "22": {
       "player": "jose altuve",
       "pitcher": "merrill kelly",
