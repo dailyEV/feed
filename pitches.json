@@ -962,7 +962,7 @@
       "player": "gunnar henderson",
       "pitcher": "justin wrobleski",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "64": {
       "player": "enrique hernandez",
@@ -1353,8 +1353,8 @@
     "64": {
       "player": "ben rice",
       "pitcher": "jeff hoffman",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "63": {
       "player": "cody bellinger",
@@ -2900,6 +2900,12 @@
     }
   },
   "phi @ mia": {
+    "66": {
+      "player": "nick castellanos",
+      "pitcher": "ronny henriquez",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "65": {
       "player": "brandon marsh",
       "pitcher": "ronny henriquez",
@@ -3615,8 +3621,8 @@
     "48": {
       "player": "casey schmitt",
       "pitcher": "matt svanson",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "47": {
       "player": "jung hoo lee",
@@ -3905,8 +3911,8 @@
     "51": {
       "player": "kevin alcantara",
       "pitcher": "jackson rutledge",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "50": {
       "player": "matt shaw",
@@ -4446,6 +4452,12 @@
     }
   },
   "sd @ col": {
+    "25": {
+      "player": "mickey moniak",
+      "pitcher": "dylan cease",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "24": {
       "player": "ezequiel tovar",
       "pitcher": "dylan cease",
