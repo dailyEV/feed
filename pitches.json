@@ -1790,6 +1790,12 @@
     }
   },
   "mil @ pit": {
+    "73": {
+      "player": "caleb durbin",
+      "pitcher": "dennis santana",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "72": {
       "player": "alexander canario",
       "pitcher": "joel payamps",
@@ -2604,11 +2610,17 @@
     }
   },
   "chw @ det": {
+    "70": {
+      "player": "andrew benintendi",
+      "pitcher": "will vest",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "69": {
       "player": "colson montgomery",
       "pitcher": "will vest",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "68": {
       "player": "lenyn sosa",
@@ -3023,7 +3035,7 @@
     "70": {
       "player": "xavier edwards",
       "pitcher": "tim mayza",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "69": {
@@ -3442,6 +3454,12 @@
     }
   },
   "min @ kc": {
+    "58": {
+      "player": "kody clemens",
+      "pitcher": "sam long",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "57": {
       "player": "nick loftin",
       "pitcher": "cole sands",
@@ -4898,11 +4916,17 @@
     }
   },
   "ath @ laa": {
+    "5": {
+      "player": "yoan moncada",
+      "pitcher": "luis severino",
+      "result": "Hit By Pitch",
+      "pitch": "Cutter"
+    },
     "4": {
       "player": "mike trout",
       "pitcher": "luis severino",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "colby thomas",
@@ -4927,8 +4951,8 @@
     "3": {
       "player": "jarren duran",
       "pitcher": "ryne nelson",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "alex bregman",
