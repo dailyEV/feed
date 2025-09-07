@@ -1,10 +1,16 @@
 {
   "sea @ atl": {
+    "45": {
+      "player": "ronald acuna",
+      "pitcher": "luis castillo",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "michael harris",
       "pitcher": "luis castillo",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "ha seong kim",
@@ -541,8 +547,8 @@
     "2": {
       "player": "mookie betts",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "1": {
       "player": "shohei ohtani",
@@ -556,7 +562,7 @@
       "player": "davis schneider",
       "pitcher": "max fried",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "1": {
       "player": "george springer",
@@ -566,6 +572,12 @@
     }
   },
   "mil @ pit": {
+    "3": {
+      "player": "william contreras",
+      "pitcher": "bubba chandler",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "isaac collins",
       "pitcher": "bubba chandler",
