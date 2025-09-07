@@ -958,6 +958,12 @@
     }
   },
   "lad @ bal": {
+    "57": {
+      "player": "coby mayo",
+      "pitcher": "justin wrobleski",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "56": {
       "player": "alex call",
       "pitcher": "keegan akin",
@@ -1299,7 +1305,7 @@
     "57": {
       "player": "addison barger",
       "pitcher": "devin williams",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -1993,7 +1999,7 @@
     "61": {
       "player": "pete alonso",
       "pitcher": "tony santillan",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slurve"
     },
     "60": {
@@ -2361,7 +2367,7 @@
     "58": {
       "player": "curtis mead",
       "pitcher": "tommy kahnle",
-      "result": "Ball In Dirt",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "57": {
@@ -3052,12 +3058,6 @@
     }
   },
   "min @ kc": {
-    "45": {
-      "player": "maikel garcia",
-      "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "44": {
       "player": "mike yastrzemski",
       "pitcher": "bailey ober",
@@ -3563,8 +3563,8 @@
     "43": {
       "player": "james wood",
       "pitcher": "colin rea",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Splitter"
     },
     "42": {
       "player": "cj abrams",
