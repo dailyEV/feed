@@ -1643,7 +1643,7 @@
     "58": {
       "player": "matt mclain",
       "pitcher": "ryne stanek",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -2328,6 +2328,12 @@
     }
   },
   "lad @ bal": {
+    "33": {
+      "player": "mookie betts",
+      "pitcher": "trevor rogers",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
+    },
     "32": {
       "player": "shohei ohtani",
       "pitcher": "trevor rogers",
@@ -3003,8 +3009,8 @@
     "38": {
       "player": "yordan alvarez",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "jeremy pena",
@@ -3230,6 +3236,12 @@
     }
   },
   "min @ kc": {
+    "42": {
+      "player": "carter jensen",
+      "pitcher": "thomas hatch",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "nick loftin",
       "pitcher": "thomas hatch",
@@ -3478,11 +3490,17 @@
     }
   },
   "sea @ atl": {
+    "41": {
+      "player": "jurickson profar",
+      "pitcher": "bryce miller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "nacho alvarez",
       "pitcher": "bryce miller",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "sean murphy",
