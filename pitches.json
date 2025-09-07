@@ -293,7 +293,7 @@
     "48": {
       "player": "brandon lowe",
       "pitcher": "parker messick",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "47": {
@@ -621,8 +621,8 @@
     "7": {
       "player": "ben rice",
       "pitcher": "max scherzer",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "cody bellinger",
@@ -665,8 +665,8 @@
     "7": {
       "player": "blake perkins",
       "pitcher": "bubba chandler",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "caleb durbin",
@@ -741,8 +741,8 @@
     "5": {
       "player": "andrew benintendi",
       "pitcher": "charlie morton",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "colson montgomery",
@@ -770,6 +770,12 @@
     }
   },
   "phi @ mia": {
+    "5": {
+      "player": "jakob marsee",
+      "pitcher": "taijuan walker",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "xavier edwards",
       "pitcher": "taijuan walker",
