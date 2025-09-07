@@ -2514,6 +2514,12 @@
     }
   },
   "lad @ bal": {
+    "48": {
+      "player": "mookie betts",
+      "pitcher": "albert suarez",
+      "result": "Ball",
+      "pitch": "Slurve"
+    },
     "47": {
       "player": "shohei ohtani",
       "pitcher": "albert suarez",
@@ -2798,6 +2804,12 @@
     }
   },
   "cle @ tb": {
+    "56": {
+      "player": "carson williams",
+      "pitcher": "erik sabrowski",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "55": {
       "player": "nick fortes",
       "pitcher": "erik sabrowski",
@@ -3133,8 +3145,8 @@
     "52": {
       "player": "thomas saggese",
       "pitcher": "joey lucchesi",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "51": {
       "player": "jimmy crooks",
@@ -3758,6 +3770,12 @@
     }
   },
   "min @ kc": {
+    "59": {
+      "player": "kyle isbel",
+      "pitcher": "brooks kriske",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "carter jensen",
       "pitcher": "brooks kriske",
@@ -4108,12 +4126,6 @@
     }
   },
   "sea @ atl": {
-    "56": {
-      "player": "julio rodriguez",
-      "pitcher": "daysbel hernandez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "55": {
       "player": "cal raleigh",
       "pitcher": "daysbel hernandez",
@@ -4449,8 +4461,8 @@
     "30": {
       "player": "carlos narvaez",
       "pitcher": "brandon pfaadt",
-      "result": "Foul Tip",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "29": {
       "player": "romy gonzalez",
@@ -4628,16 +4640,10 @@
     }
   },
   "sd @ col": {
-    "33": {
-      "player": "manny machado",
-      "pitcher": "angel chivilli",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
     "32": {
       "player": "luis arraez",
       "pitcher": "angel chivilli",
-      "result": "In play, no out",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "31": {
