@@ -958,11 +958,17 @@
     }
   },
   "lad @ bal": {
+    "56": {
+      "player": "alex call",
+      "pitcher": "keegan akin",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "michael conforto",
       "pitcher": "keegan akin",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "54": {
       "player": "freddie freeman",
@@ -1625,8 +1631,8 @@
     "57": {
       "player": "danny jansen",
       "pitcher": "yohan ramirez",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "blake perkins",
@@ -1969,8 +1975,8 @@
     "58": {
       "player": "austin hays",
       "pitcher": "tyler rogers",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "57": {
       "player": "elly de la cruz",
@@ -2320,7 +2326,7 @@
       "player": "andrew benintendi",
       "pitcher": "troy melton",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "colson montgomery",
@@ -3258,6 +3264,18 @@
     }
   },
   "sf @ stl": {
+    "37": {
+      "player": "nolan gorman",
+      "pitcher": "jose butto",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "36": {
+      "player": "ivan herrera",
+      "pitcher": "jose butto",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "35": {
       "player": "lars nootbaar",
       "pitcher": "kai wei teng",
@@ -3715,7 +3733,7 @@
     "29": {
       "player": "jake meyers",
       "pitcher": "patrick corbin",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "28": {
