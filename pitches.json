@@ -2517,8 +2517,8 @@
     "66": {
       "player": "jackson holliday",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "65": {
       "player": "coby mayo",
@@ -2906,6 +2906,12 @@
     }
   },
   "cle @ tb": {
+    "72": {
+      "player": "josh lowe",
+      "pitcher": "cade smith",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "71": {
       "player": "junior caminero",
       "pitcher": "cade smith",
@@ -3753,8 +3759,8 @@
     "65": {
       "player": "jake meyers",
       "pitcher": "luis curvelo",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "yainer diaz",
@@ -4598,7 +4604,7 @@
       "player": "jp crawford",
       "pitcher": "john brebbia",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "jorge polanco",
@@ -5318,10 +5324,16 @@
     }
   },
   "sd @ col": {
+    "50": {
+      "player": "mickey moniak",
+      "pitcher": "randy vasquez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "49": {
       "player": "tyler freeman",
       "pitcher": "randy vasquez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "48": {
