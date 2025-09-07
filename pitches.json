@@ -4,7 +4,7 @@
       "player": "cal raleigh",
       "pitcher": "rolddy munoz",
       "result": "Called Strike",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "62": {
       "player": "randy arozarena",
@@ -903,8 +903,8 @@
     "22": {
       "player": "alejandro kirk",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "vladimir guerrero",
@@ -1588,11 +1588,17 @@
     }
   },
   "min @ kc": {
+    "9": {
+      "player": "royce lewis",
+      "pitcher": "michael lorenzen",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "8": {
       "player": "kody clemens",
       "pitcher": "michael lorenzen",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "7": {
       "player": "vinnie pasquantino",
