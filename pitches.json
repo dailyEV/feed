@@ -1,5 +1,11 @@
 {
   "sea @ atl": {
+    "80": {
+      "player": "cole young",
+      "pitcher": "vidal brujan",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "79": {
       "player": "eugenio suarez",
       "pitcher": "vidal brujan",
@@ -1122,12 +1128,6 @@
     }
   },
   "tor @ nyy": {
-    "35": {
-      "player": "austin wells",
-      "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "34": {
       "player": "jazz chisholm",
       "pitcher": "max scherzer",
@@ -1337,8 +1337,8 @@
     "37": {
       "player": "caleb durbin",
       "pitcher": "colin holderman",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "andrew vaughn",
@@ -1791,8 +1791,8 @@
     "36": {
       "player": "jake rogers",
       "pitcher": "davis martin",
-      "result": "Foul Tip",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "35": {
       "player": "zach mckinstry",
@@ -2006,6 +2006,12 @@
     }
   },
   "phi @ mia": {
+    "40": {
+      "player": "otto lopez",
+      "pitcher": "taijuan walker",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "39": {
       "player": "bryson stott",
       "pitcher": "cade gibson",
@@ -2495,8 +2501,8 @@
     "17": {
       "player": "dylan crews",
       "pitcher": "colin rea",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "brady house",
@@ -2596,6 +2602,18 @@
     }
   },
   "hou @ tex": {
+    "9": {
+      "player": "jake meyers",
+      "pitcher": "patrick corbin",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "8": {
+      "player": "christian walker",
+      "pitcher": "patrick corbin",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "7": {
       "player": "josh jung",
       "pitcher": "framber valdez",
