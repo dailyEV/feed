@@ -2891,7 +2891,7 @@
     "70": {
       "player": "brandon lowe",
       "pitcher": "cade smith",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "69": {
@@ -3313,7 +3313,7 @@
     "68": {
       "player": "jimmy crooks",
       "pitcher": "ryan walker",
-      "result": "Foul",
+      "result": "Hit By Pitch",
       "pitch": "Sinker"
     },
     "67": {
@@ -4100,6 +4100,12 @@
     }
   },
   "min @ kc": {
+    "75": {
+      "player": "nick loftin",
+      "pitcher": "michael tonkin",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "74": {
       "player": "jac caglianone",
       "pitcher": "michael tonkin",
@@ -4977,8 +4983,8 @@
     "48": {
       "player": "james mccann",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "47": {
       "player": "adrian del castillo",
@@ -5264,6 +5270,12 @@
     }
   },
   "sd @ col": {
+    "49": {
+      "player": "tyler freeman",
+      "pitcher": "randy vasquez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "ryan ritter",
       "pitcher": "randy vasquez",
