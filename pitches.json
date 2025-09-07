@@ -914,10 +914,16 @@
     }
   },
   "mil @ pit": {
+    "18": {
+      "player": "oneil cruz",
+      "pitcher": "jacob misiorowski",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "17": {
       "player": "andrew mccutchen",
       "pitcher": "jacob misiorowski",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "16": {
@@ -1021,8 +1027,8 @@
     "18": {
       "player": "kebryan hayes",
       "pitcher": "brandon sproat",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "tyler stephenson",
@@ -1128,6 +1134,12 @@
     }
   },
   "chw @ det": {
+    "16": {
+      "player": "mike tauchman",
+      "pitcher": "charlie morton",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "15": {
       "player": "chase meidroth",
       "pitcher": "charlie morton",
@@ -1220,6 +1232,12 @@
     }
   },
   "phi @ mia": {
+    "19": {
+      "player": "jakob marsee",
+      "pitcher": "taijuan walker",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "rafael marchan",
       "pitcher": "tyler phillips",
@@ -1330,11 +1348,17 @@
     }
   },
   "min @ kc": {
+    "2": {
+      "player": "austin martin",
+      "pitcher": "michael lorenzen",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "byron buxton",
       "pitcher": "michael lorenzen",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     }
   },
   "sf @ stl": {},
