@@ -1,10 +1,16 @@
 {
   "sea @ atl": {
+    "75": {
+      "player": "victor robles",
+      "pitcher": "rolddy munoz",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "74": {
       "player": "leo rivas",
       "pitcher": "rolddy munoz",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "73": {
       "player": "harry ford",
@@ -1059,8 +1065,8 @@
     "31": {
       "player": "nathan lukes",
       "pitcher": "max fried",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "isiah kiner falefa",
@@ -1247,7 +1253,7 @@
     "32": {
       "player": "bryan reynolds",
       "pitcher": "jacob misiorowski",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -1441,7 +1447,7 @@
     "35": {
       "player": "matt mclain",
       "pitcher": "brandon sproat",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "34": {
@@ -2044,6 +2050,12 @@
     }
   },
   "min @ kc": {
+    "19": {
+      "player": "luke maile",
+      "pitcher": "bailey ober",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "18": {
       "player": "kyle isbel",
       "pitcher": "bailey ober",
@@ -2157,8 +2169,8 @@
     "15": {
       "player": "andrew knizner",
       "pitcher": "sonny gray",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "14": {
       "player": "drew gilbert",
@@ -2249,8 +2261,8 @@
     "14": {
       "player": "matt shaw",
       "pitcher": "andrew alvarez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "justin turner",
