@@ -1263,8 +1263,8 @@
     "54": {
       "player": "spencer torkelson",
       "pitcher": "steven wilson",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "53": {
       "player": "wenceel perez",
@@ -2085,8 +2085,8 @@
     "19": {
       "player": "samuel basallo",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "18": {
       "player": "dylan beavers",
@@ -2201,8 +2201,8 @@
     "27": {
       "player": "bo naylor",
       "pitcher": "shane baz",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "gabriel arias",
@@ -2365,8 +2365,8 @@
     "21": {
       "player": "jose fermin",
       "pitcher": "justin verlander",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "victor scott",
@@ -2490,6 +2490,12 @@
     }
   },
   "hou @ tex": {
+    "22": {
+      "player": "jose altuve",
+      "pitcher": "jacob degrom",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "21": {
       "player": "yordan alvarez",
       "pitcher": "jacob degrom",
@@ -2618,12 +2624,6 @@
     }
   },
   "min @ kc": {
-    "23": {
-      "player": "james outman",
-      "pitcher": "stephen kolek",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "22": {
       "player": "adam frazier",
       "pitcher": "joe ryan",
