@@ -961,8 +961,8 @@
     "56": {
       "player": "alex call",
       "pitcher": "keegan akin",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "55": {
       "player": "michael conforto",
@@ -1299,8 +1299,8 @@
     "56": {
       "player": "trent grisham",
       "pitcher": "braydon fisher",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "55": {
       "player": "ryan mcmahon",
@@ -1637,8 +1637,8 @@
     "58": {
       "player": "joey ortiz",
       "pitcher": "yohan ramirez",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "danny jansen",
@@ -1984,6 +1984,12 @@
     }
   },
   "nym @ cin": {
+    "59": {
+      "player": "francisco lindor",
+      "pitcher": "tony santillan",
+      "result": "In play, out(s)",
+      "pitch": "Slurve"
+    },
     "58": {
       "player": "austin hays",
       "pitcher": "tyler rogers",
@@ -3022,12 +3028,6 @@
     }
   },
   "min @ kc": {
-    "44": {
-      "player": "mike yastrzemski",
-      "pitcher": "bailey ober",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "43": {
       "player": "edouard julien",
       "pitcher": "angel zerpa",
@@ -3288,11 +3288,17 @@
     }
   },
   "sf @ stl": {
+    "39": {
+      "player": "thomas saggese",
+      "pitcher": "jose butto",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "masyn winn",
       "pitcher": "jose butto",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "37": {
       "player": "nolan gorman",
