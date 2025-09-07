@@ -3,7 +3,7 @@
     "51": {
       "player": "nacho alvarez",
       "pitcher": "luis castillo",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -311,8 +311,8 @@
     "53": {
       "player": "steven kwan",
       "pitcher": "griffin jax",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "52": {
       "player": "austin hedges",
@@ -628,11 +628,17 @@
     }
   },
   "lad @ bal": {
+    "12": {
+      "player": "ben rortvedt",
+      "pitcher": "tomoyuki sugano",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "enrique hernandez",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "10": {
       "player": "hyeseong kim",
@@ -696,12 +702,6 @@
     }
   },
   "tor @ nyy": {
-    "11": {
-      "player": "ernie clement",
-      "pitcher": "max fried",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "10": {
       "player": "alejandro kirk",
       "pitcher": "max fried",
@@ -820,6 +820,12 @@
     }
   },
   "nym @ cin": {
+    "10": {
+      "player": "austin hays",
+      "pitcher": "brandon sproat",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "9": {
       "player": "jeff mcneil",
       "pitcher": "hunter greene",
