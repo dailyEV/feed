@@ -958,6 +958,12 @@
     }
   },
   "lad @ bal": {
+    "56": {
+      "player": "alex call",
+      "pitcher": "keegan akin",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "michael conforto",
       "pitcher": "keegan akin",
@@ -2663,8 +2669,8 @@
     "57": {
       "player": "kyle schwarber",
       "pitcher": "ronny henriquez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "56": {
       "player": "trea turner",
@@ -3730,11 +3736,17 @@
     }
   },
   "hou @ tex": {
+    "30": {
+      "player": "yainer diaz",
+      "pitcher": "patrick corbin",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "29": {
       "player": "jake meyers",
       "pitcher": "patrick corbin",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "28": {
       "player": "christian walker",
