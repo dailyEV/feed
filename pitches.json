@@ -1260,12 +1260,6 @@
     }
   },
   "chw @ det": {
-    "56": {
-      "player": "michael a taylor",
-      "pitcher": "tommy kahnle",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
     "55": {
       "player": "bryan ramos",
       "pitcher": "tommy kahnle",
@@ -1861,8 +1855,8 @@
     "44": {
       "player": "andrew vaughn",
       "pitcher": "mitch keller",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "jake bauers",
@@ -2252,6 +2246,12 @@
     }
   },
   "cle @ tb": {
+    "29": {
+      "player": "yandy diaz",
+      "pitcher": "tanner bibee",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "cj kayfus",
       "pitcher": "shane baz",
@@ -2560,7 +2560,7 @@
       "player": "wyatt langford",
       "pitcher": "hunter brown",
       "result": "Called Strike",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "jose altuve",
