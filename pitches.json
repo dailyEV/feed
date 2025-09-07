@@ -3590,7 +3590,7 @@
       "player": "maikel garcia",
       "pitcher": "kody funderburk",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Sweeper"
     },
     "63": {
       "player": "mike yastrzemski",
@@ -4325,8 +4325,8 @@
     "64": {
       "player": "james wood",
       "pitcher": "daniel palencia",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "63": {
       "player": "cj abrams",
@@ -5004,11 +5004,17 @@
     }
   },
   "sd @ col": {
+    "36": {
+      "player": "brenton doyle",
+      "pitcher": "dylan cease",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "jordan beck",
       "pitcher": "dylan cease",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "34": {
       "player": "ryan ohearn",
@@ -5293,7 +5299,7 @@
     "8": {
       "player": "nathaniel lowe",
       "pitcher": "ryne nelson",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "7": {
