@@ -961,7 +961,7 @@
     "70": {
       "player": "mookie betts",
       "pitcher": "rico garcia",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "69": {
@@ -1793,7 +1793,7 @@
     "73": {
       "player": "caleb durbin",
       "pitcher": "dennis santana",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "72": {
@@ -2613,8 +2613,8 @@
     "70": {
       "player": "andrew benintendi",
       "pitcher": "will vest",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "69": {
       "player": "colson montgomery",
@@ -3032,6 +3032,12 @@
     }
   },
   "phi @ mia": {
+    "71": {
+      "player": "jakob marsee",
+      "pitcher": "tim mayza",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "70": {
       "player": "xavier edwards",
       "pitcher": "tim mayza",
@@ -3454,12 +3460,6 @@
     }
   },
   "min @ kc": {
-    "58": {
-      "player": "kody clemens",
-      "pitcher": "sam long",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "57": {
       "player": "nick loftin",
       "pitcher": "cole sands",
@@ -4474,6 +4474,12 @@
     }
   },
   "hou @ tex": {
+    "45": {
+      "player": "kyle higashioka",
+      "pitcher": "framber valdez",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "44": {
       "player": "jake burger",
       "pitcher": "framber valdez",
@@ -4963,8 +4969,8 @@
     "3": {
       "player": "jarren duran",
       "pitcher": "ryne nelson",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "alex bregman",
