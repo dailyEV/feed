@@ -1966,12 +1966,6 @@
     }
   },
   "mil @ pit": {
-    "53": {
-      "player": "sal frelick",
-      "pitcher": "evan sisk",
-      "result": "Foul",
-      "pitch": "Sweeper"
-    },
     "52": {
       "player": "joey ortiz",
       "pitcher": "kyle nicolas",
@@ -2710,6 +2704,12 @@
     }
   },
   "sf @ stl": {
+    "34": {
+      "player": "jung hoo lee",
+      "pitcher": "andre pallante",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "thomas saggese",
       "pitcher": "justin verlander",
@@ -3125,7 +3125,7 @@
     "39": {
       "player": "adam frazier",
       "pitcher": "thomas hatch",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "38": {
@@ -3361,7 +3361,7 @@
     "38": {
       "player": "josh naylor",
       "pitcher": "hurston waldrep",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "37": {
@@ -3591,7 +3591,7 @@
     "12": {
       "player": "james mccann",
       "pitcher": "lucas giolito",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "11": {
@@ -3662,6 +3662,12 @@
     }
   },
   "sd @ col": {
+    "16": {
+      "player": "ryan ohearn",
+      "pitcher": "mccade brown",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "15": {
       "player": "manny machado",
       "pitcher": "mccade brown",
