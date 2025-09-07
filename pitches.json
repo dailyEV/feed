@@ -609,7 +609,7 @@
     "6": {
       "player": "cody bellinger",
       "pitcher": "max scherzer",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "5": {
@@ -711,7 +711,7 @@
     "4": {
       "player": "colson montgomery",
       "pitcher": "charlie morton",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "3": {
@@ -734,6 +734,12 @@
     }
   },
   "phi @ mia": {
+    "4": {
+      "player": "xavier edwards",
+      "pitcher": "taijuan walker",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "3": {
       "player": "bryce harper",
       "pitcher": "tyler phillips",
