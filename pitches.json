@@ -1263,7 +1263,7 @@
     "62": {
       "player": "chase meidroth",
       "pitcher": "rafael montero",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -1930,6 +1930,12 @@
     }
   },
   "mil @ pit": {
+    "50": {
+      "player": "oneil cruz",
+      "pitcher": "rob zastryzny",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "49": {
       "player": "nick gonzales",
       "pitcher": "erick fedde",
@@ -2399,8 +2405,8 @@
     "35": {
       "player": "kyle manzardo",
       "pitcher": "shane baz",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "jose ramirez",
@@ -2966,12 +2972,6 @@
     }
   },
   "min @ kc": {
-    "34": {
-      "player": "vinnie pasquantino",
-      "pitcher": "thomas hatch",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "33": {
       "player": "maikel garcia",
       "pitcher": "thomas hatch",
