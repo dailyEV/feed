@@ -2649,7 +2649,7 @@
     "73": {
       "player": "spencer torkelson",
       "pitcher": "jordan leasure",
-      "result": "Foul Tip",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -3089,8 +3089,8 @@
     "73": {
       "player": "max kepler",
       "pitcher": "lake bachar",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "72": {
       "player": "agustin ramirez",
@@ -3526,17 +3526,11 @@
     }
   },
   "min @ kc": {
-    "62": {
-      "player": "luke maile",
-      "pitcher": "kody funderburk",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "61": {
       "player": "kyle isbel",
       "pitcher": "kody funderburk",
-      "result": "Hit By Pitch",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "60": {
       "player": "edouard julien",
@@ -3900,6 +3894,12 @@
     }
   },
   "sf @ stl": {
+    "57": {
+      "player": "ivan herrera",
+      "pitcher": "matt gage",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "56": {
       "player": "heliot ramos",
       "pitcher": "matt svanson",
@@ -4606,6 +4606,12 @@
     }
   },
   "hou @ tex": {
+    "48": {
+      "player": "yainer diaz",
+      "pitcher": "phil maton",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "47": {
       "player": "jake meyers",
       "pitcher": "phil maton",
@@ -5096,6 +5102,12 @@
     }
   },
   "ath @ laa": {
+    "10": {
+      "player": "jacob wilson",
+      "pitcher": "mitch farris",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "tyler soderstrom",
       "pitcher": "mitch farris",
@@ -5156,7 +5168,7 @@
       "player": "corbin carroll",
       "pitcher": "brayan bello",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "5": {
       "player": "ketel marte",
