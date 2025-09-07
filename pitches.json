@@ -617,7 +617,7 @@
     "4": {
       "player": "jake bauers",
       "pitcher": "bubba chandler",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -640,11 +640,17 @@
     }
   },
   "nym @ cin": {
-    "2": {
-      "player": "juan soto",
+    "3": {
+      "player": "pete alonso",
       "pitcher": "hunter greene",
       "result": "Called Strike",
       "pitch": "Slider"
+    },
+    "2": {
+      "player": "juan soto",
+      "pitcher": "hunter greene",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "francisco lindor",
@@ -657,8 +663,8 @@
     "2": {
       "player": "kyle teel",
       "pitcher": "charlie morton",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "1": {
       "player": "mike tauchman",
@@ -672,7 +678,7 @@
       "player": "kyle schwarber",
       "pitcher": "tyler phillips",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Curveball"
     },
     "1": {
       "player": "trea turner",
