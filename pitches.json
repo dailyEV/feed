@@ -299,8 +299,8 @@
     "50": {
       "player": "everson pereira",
       "pitcher": "parker messick",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "49": {
       "player": "christopher morel",
@@ -654,17 +654,11 @@
     }
   },
   "tor @ nyy": {
-    "9": {
-      "player": "jazz chisholm",
-      "pitcher": "max scherzer",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "8": {
       "player": "giancarlo stanton",
       "pitcher": "max scherzer",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "ben rice",
@@ -710,11 +704,17 @@
     }
   },
   "mil @ pit": {
+    "9": {
+      "player": "spencer horwitz",
+      "pitcher": "jacob misiorowski",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "jared triolo",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "7": {
       "player": "blake perkins",
@@ -763,8 +763,8 @@
     "7": {
       "player": "brandon nimmo",
       "pitcher": "hunter greene",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "elly de la cruz",
@@ -807,8 +807,8 @@
     "6": {
       "player": "curtis mead",
       "pitcher": "charlie morton",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "andrew benintendi",
