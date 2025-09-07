@@ -4061,8 +4061,8 @@
     "55": {
       "player": "brady house",
       "pitcher": "brad keller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "54": {
       "player": "luis garcia",
@@ -4644,6 +4644,18 @@
     }
   },
   "sd @ col": {
+    "29": {
+      "player": "jake cronenworth",
+      "pitcher": "tanner gordon",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
+    "28": {
+      "player": "jackson merrill",
+      "pitcher": "tanner gordon",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "27": {
       "player": "gavin sheets",
       "pitcher": "tanner gordon",
@@ -4811,7 +4823,7 @@
     "3": {
       "player": "colby thomas",
       "pitcher": "mitch farris",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "2": {
@@ -4831,7 +4843,7 @@
     "1": {
       "player": "masataka yoshida",
       "pitcher": "ryne nelson",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     }
   }
