@@ -958,12 +958,6 @@
     }
   },
   "lad @ bal": {
-    "64": {
-      "player": "enrique hernandez",
-      "pitcher": "yennier cano",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "63": {
       "player": "hyeseong kim",
       "pitcher": "yennier cano",
@@ -1715,7 +1709,7 @@
     "63": {
       "player": "isaac collins",
       "pitcher": "isaac mattson",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -2849,8 +2843,8 @@
     "62": {
       "player": "heriberto hernandez",
       "pitcher": "orion kerkering",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "61": {
       "player": "liam hicks",
@@ -3522,6 +3516,12 @@
     }
   },
   "sf @ stl": {
+    "45": {
+      "player": "dominic smith",
+      "pitcher": "sonny gray",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "willy adames",
       "pitcher": "sonny gray",
@@ -3788,6 +3788,12 @@
     }
   },
   "wsh @ chc": {
+    "48": {
+      "player": "daylen lile",
+      "pitcher": "caleb thielbar",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "47": {
       "player": "riley adams",
       "pitcher": "colin rea",
@@ -4075,8 +4081,8 @@
     "38": {
       "player": "jose altuve",
       "pitcher": "patrick corbin",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "37": {
       "player": "yordan alvarez",
