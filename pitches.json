@@ -1622,10 +1622,16 @@
     }
   },
   "nym @ cin": {
+    "49": {
+      "player": "gavin lux",
+      "pitcher": "jonah tong",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "48": {
       "player": "austin hays",
       "pitcher": "jonah tong",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -1912,6 +1918,18 @@
     }
   },
   "mil @ pit": {
+    "49": {
+      "player": "nick gonzales",
+      "pitcher": "erick fedde",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
+    "48": {
+      "player": "tommy pham",
+      "pitcher": "erick fedde",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "47": {
       "player": "bryan reynolds",
       "pitcher": "erick fedde",
@@ -2196,11 +2214,17 @@
     }
   },
   "lad @ bal": {
+    "27": {
+      "player": "gunnar henderson",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "26": {
       "player": "jeremiah jackson",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "25": {
       "player": "andy pages",
@@ -2560,6 +2584,12 @@
     }
   },
   "sf @ stl": {
+    "28": {
+      "player": "patrick bailey",
+      "pitcher": "andre pallante",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "27": {
       "player": "luis matos",
       "pitcher": "andre pallante",
@@ -2727,8 +2757,8 @@
     "29": {
       "player": "victor caratini",
       "pitcher": "jacob degrom",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "jesus sanchez",
@@ -3094,6 +3124,12 @@
     }
   },
   "sea @ atl": {
+    "31": {
+      "player": "drake baldwin",
+      "pitcher": "bryce miller",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "30": {
       "player": "ozzie albies",
       "pitcher": "bryce miller",
@@ -3314,6 +3350,12 @@
     }
   },
   "sd @ col": {
+    "7": {
+      "player": "ryan ohearn",
+      "pitcher": "mccade brown",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "hunter goodman",
       "pitcher": "randy vasquez",
