@@ -961,8 +961,8 @@
     "72": {
       "player": "michael conforto",
       "pitcher": "rico garcia",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "freddie freeman",
@@ -1802,10 +1802,16 @@
     }
   },
   "mil @ pit": {
+    "75": {
+      "player": "danny jansen",
+      "pitcher": "dennis santana",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "74": {
       "player": "blake perkins",
       "pitcher": "dennis santana",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "73": {
@@ -4824,6 +4830,12 @@
     }
   },
   "sd @ col": {
+    "32": {
+      "player": "luis arraez",
+      "pitcher": "luis peralta",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "fernando tatis",
       "pitcher": "luis peralta",
@@ -5012,6 +5024,12 @@
     }
   },
   "ath @ laa": {
+    "8": {
+      "player": "chris taylor",
+      "pitcher": "luis severino",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "jo adell",
       "pitcher": "luis severino",
@@ -5056,6 +5074,12 @@
     }
   },
   "bos @ ari": {
+    "4": {
+      "player": "geraldo perdomo",
+      "pitcher": "brayan bello",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "jarren duran",
       "pitcher": "ryne nelson",
