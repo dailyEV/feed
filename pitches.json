@@ -961,8 +961,8 @@
     "74": {
       "player": "coby mayo",
       "pitcher": "jack dreyer",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "73": {
       "player": "dylan carlson",
@@ -2661,8 +2661,8 @@
     "74": {
       "player": "wenceel perez",
       "pitcher": "jordan leasure",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "73": {
       "player": "spencer torkelson",
@@ -3108,7 +3108,7 @@
       "player": "max kepler",
       "pitcher": "lake bachar",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "72": {
       "player": "agustin ramirez",
@@ -3544,11 +3544,17 @@
     }
   },
   "min @ kc": {
+    "63": {
+      "player": "mike yastrzemski",
+      "pitcher": "kody funderburk",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "62": {
       "player": "luke maile",
       "pitcher": "kody funderburk",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "61": {
       "player": "kyle isbel",
@@ -3921,8 +3927,8 @@
     "57": {
       "player": "ivan herrera",
       "pitcher": "matt gage",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "heliot ramos",
@@ -4265,8 +4271,8 @@
     "62": {
       "player": "robert hassell",
       "pitcher": "daniel palencia",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "justin turner",
@@ -4929,7 +4935,7 @@
     "34": {
       "player": "ryan ohearn",
       "pitcher": "luis peralta",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -5203,8 +5209,8 @@
     "6": {
       "player": "corbin carroll",
       "pitcher": "brayan bello",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "5": {
       "player": "ketel marte",
