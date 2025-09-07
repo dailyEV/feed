@@ -1,5 +1,11 @@
 {
   "sea @ atl": {
+    "49": {
+      "player": "jorge polanco",
+      "pitcher": "hayden harris",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "eugenio suarez",
       "pitcher": "dylan dodd",
@@ -645,7 +651,7 @@
     "7": {
       "player": "ben rice",
       "pitcher": "max scherzer",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -686,12 +692,6 @@
     }
   },
   "mil @ pit": {
-    "8": {
-      "player": "jared triolo",
-      "pitcher": "jacob misiorowski",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "7": {
       "player": "blake perkins",
       "pitcher": "bubba chandler",
@@ -739,8 +739,8 @@
     "6": {
       "player": "elly de la cruz",
       "pitcher": "brandon sproat",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "5": {
       "player": "noelvi marte",
@@ -812,11 +812,17 @@
     }
   },
   "phi @ mia": {
+    "8": {
+      "player": "liam hicks",
+      "pitcher": "taijuan walker",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "7": {
       "player": "otto lopez",
       "pitcher": "taijuan walker",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "6": {
       "player": "agustin ramirez",
