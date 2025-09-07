@@ -958,6 +958,12 @@
     }
   },
   "lad @ bal": {
+    "51": {
+      "player": "dylan carlson",
+      "pitcher": "edgardo henriquez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "50": {
       "player": "alex jackson",
       "pitcher": "edgardo henriquez",
@@ -1260,10 +1266,16 @@
     }
   },
   "tor @ nyy": {
+    "52": {
+      "player": "myles straw",
+      "pitcher": "max fried",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "51": {
       "player": "nathan lukes",
       "pitcher": "max fried",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "50": {
@@ -2220,6 +2232,12 @@
     }
   },
   "chw @ det": {
+    "52": {
+      "player": "wenceel perez",
+      "pitcher": "brandon eisert",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "51": {
       "player": "spencer torkelson",
       "pitcher": "davis martin",
@@ -3105,8 +3123,8 @@
     "33": {
       "player": "nathan church",
       "pitcher": "kai wei teng",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "32": {
       "player": "jordan walker",
@@ -3302,6 +3320,12 @@
     }
   },
   "wsh @ chc": {
+    "38": {
+      "player": "ian happ",
+      "pitcher": "andrew alvarez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "37": {
       "player": "nico hoerner",
       "pitcher": "andrew alvarez",
@@ -3526,11 +3550,17 @@
     }
   },
   "hou @ tex": {
+    "26": {
+      "player": "jake burger",
+      "pitcher": "framber valdez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "25": {
       "player": "josh jung",
       "pitcher": "framber valdez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "24": {
       "player": "carlos correa",
@@ -3681,8 +3711,8 @@
     "9": {
       "player": "gavin sheets",
       "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "mickey moniak",
