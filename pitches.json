@@ -1643,8 +1643,8 @@
     "53": {
       "player": "juan soto",
       "pitcher": "scott barlow",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "52": {
       "player": "francisco lindor",
@@ -2456,12 +2456,6 @@
     }
   },
   "cle @ tb": {
-    "39": {
-      "player": "hunter feduccia",
-      "pitcher": "tanner bibee",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
     "38": {
       "player": "richie palacios",
       "pitcher": "tanner bibee",
@@ -2889,8 +2883,8 @@
     "33": {
       "player": "alejandro osuna",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "32": {
       "player": "josh jung",
@@ -3089,8 +3083,8 @@
     "38": {
       "player": "mickey gasper",
       "pitcher": "stephen kolek",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "37": {
       "player": "edouard julien",
@@ -3534,6 +3528,12 @@
     }
   },
   "bos @ ari": {
+    "11": {
+      "player": "adrian del castillo",
+      "pitcher": "lucas giolito",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "romy gonzalez",
       "pitcher": "brandon pfaadt",
@@ -3596,6 +3596,12 @@
     }
   },
   "sd @ col": {
+    "14": {
+      "player": "luis arraez",
+      "pitcher": "mccade brown",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "13": {
       "player": "fernando tatis",
       "pitcher": "mccade brown",
