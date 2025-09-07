@@ -1987,7 +1987,7 @@
     "60": {
       "player": "juan soto",
       "pitcher": "tony santillan",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -2346,6 +2346,12 @@
     }
   },
   "chw @ det": {
+    "58": {
+      "player": "curtis mead",
+      "pitcher": "tommy kahnle",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "57": {
       "player": "andrew benintendi",
       "pitcher": "troy melton",
@@ -3799,8 +3805,8 @@
     "31": {
       "player": "cam smith",
       "pitcher": "patrick corbin",
-      "result": "Foul Tip",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "yainer diaz",
@@ -3984,10 +3990,16 @@
     }
   },
   "sd @ col": {
+    "16": {
+      "player": "warming bernabel",
+      "pitcher": "dylan cease",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "brenton doyle",
       "pitcher": "dylan cease",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "14": {
