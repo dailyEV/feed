@@ -1263,7 +1263,7 @@
     "54": {
       "player": "spencer torkelson",
       "pitcher": "steven wilson",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "53": {
@@ -1589,7 +1589,7 @@
     "40": {
       "player": "tj friedl",
       "pitcher": "jonah tong",
-      "result": "Ball In Dirt",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "39": {
@@ -1828,6 +1828,12 @@
     }
   },
   "mil @ pit": {
+    "42": {
+      "player": "spencer horwitz",
+      "pitcher": "brandon woodruff",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "41": {
       "player": "jared triolo",
       "pitcher": "brandon woodruff",
@@ -2076,11 +2082,17 @@
     }
   },
   "lad @ bal": {
+    "19": {
+      "player": "samuel basallo",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "18": {
       "player": "dylan beavers",
       "pitcher": "yoshinobu yamamoto",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "mookie betts",
@@ -2469,8 +2481,8 @@
     "21": {
       "player": "yordan alvarez",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "jeremy pena",
