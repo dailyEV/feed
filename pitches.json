@@ -3,8 +3,8 @@
     "60": {
       "player": "ha seong kim",
       "pitcher": "jose castillo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "59": {
       "player": "drake baldwin",
@@ -362,6 +362,12 @@
     }
   },
   "cle @ tb": {
+    "60": {
+      "player": "kyle manzardo",
+      "pitcher": "mason montgomery",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "yandy diaz",
       "pitcher": "hunter gaddis",
@@ -721,8 +727,8 @@
     "21": {
       "player": "alex call",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "michael conforto",
@@ -846,11 +852,17 @@
     }
   },
   "tor @ nyy": {
+    "21": {
+      "player": "vladimir guerrero",
+      "pitcher": "max fried",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "davis schneider",
       "pitcher": "max fried",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "19": {
       "player": "george springer",
@@ -1087,8 +1099,8 @@
     "20": {
       "player": "tj friedl",
       "pitcher": "brandon sproat",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "19": {
       "player": "matt mclain",
