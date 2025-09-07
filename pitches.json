@@ -961,8 +961,8 @@
     "44": {
       "player": "enrique hernandez",
       "pitcher": "kade strowd",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "hyeseong kim",
@@ -1224,12 +1224,6 @@
     }
   },
   "tor @ nyy": {
-    "45": {
-      "player": "ernie clement",
-      "pitcher": "max fried",
-      "result": "Foul",
-      "pitch": "Curveball"
-    },
     "44": {
       "player": "ben rice",
       "pitcher": "ryan borucki",
@@ -1496,17 +1490,11 @@
     }
   },
   "mil @ pit": {
-    "48": {
-      "player": "isaac collins",
-      "pitcher": "dauri moreta",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "47": {
       "player": "brice turang",
       "pitcher": "dauri moreta",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "46": {
       "player": "jared triolo",
@@ -2079,7 +2067,7 @@
     "45": {
       "player": "kerry carpenter",
       "pitcher": "davis martin",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "44": {
@@ -2351,8 +2339,8 @@
     "51": {
       "player": "victor mesa",
       "pitcher": "taijuan walker",
-      "result": "Called Strike",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "50": {
       "player": "maximo acosta",
@@ -2656,6 +2644,12 @@
     }
   },
   "min @ kc": {
+    "33": {
+      "player": "austin martin",
+      "pitcher": "michael lorenzen",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "byron buxton",
       "pitcher": "michael lorenzen",
@@ -2853,8 +2847,8 @@
     "28": {
       "player": "pedro pages",
       "pitcher": "kai wei teng",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "thomas saggese",
@@ -3306,12 +3300,6 @@
     }
   },
   "sd @ col": {
-    "4": {
-      "player": "ryan ohearn",
-      "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "3": {
       "player": "manny machado",
       "pitcher": "tanner gordon",
