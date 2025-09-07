@@ -2783,7 +2783,7 @@
     "54": {
       "player": "christopher morel",
       "pitcher": "erik sabrowski",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -3110,7 +3110,7 @@
       "player": "patrick bailey",
       "pitcher": "kyle leahy",
       "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "luis matos",
@@ -3408,6 +3408,12 @@
     }
   },
   "hou @ tex": {
+    "50": {
+      "player": "dustin harris",
+      "pitcher": "hunter brown",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "jake meyers",
       "pitcher": "cole winn",
@@ -3704,12 +3710,6 @@
     }
   },
   "min @ kc": {
-    "55": {
-      "player": "adam frazier",
-      "pitcher": "brooks kriske",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "54": {
       "player": "salvador perez",
       "pitcher": "brooks kriske",
@@ -4039,7 +4039,7 @@
     "53": {
       "player": "sean murphy",
       "pitcher": "gabe speier",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -4356,6 +4356,12 @@
     }
   },
   "bos @ ari": {
+    "29": {
+      "player": "romy gonzalez",
+      "pitcher": "brandon pfaadt",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "28": {
       "player": "nathaniel lowe",
       "pitcher": "brandon pfaadt",
@@ -4530,7 +4536,7 @@
       "player": "mason mccoy",
       "pitcher": "angel chivilli",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "29": {
       "player": "hunter goodman",
