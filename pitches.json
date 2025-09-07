@@ -739,8 +739,8 @@
     "22": {
       "player": "jorge mateo",
       "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "21": {
       "player": "alex call",
@@ -873,8 +873,8 @@
     "21": {
       "player": "vladimir guerrero",
       "pitcher": "max fried",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "20": {
       "player": "davis schneider",
@@ -1001,7 +1001,7 @@
     "21": {
       "player": "ji hwan bae",
       "pitcher": "jacob misiorowski",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -1129,7 +1129,7 @@
     "21": {
       "player": "juan soto",
       "pitcher": "hunter greene",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -1254,6 +1254,12 @@
     }
   },
   "chw @ det": {
+    "20": {
+      "player": "parker meadows",
+      "pitcher": "davis martin",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "19": {
       "player": "jake rogers",
       "pitcher": "davis martin",
@@ -1370,6 +1376,12 @@
     }
   },
   "phi @ mia": {
+    "23": {
+      "player": "bryson stott",
+      "pitcher": "tyler phillips",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "22": {
       "player": "liam hicks",
       "pitcher": "taijuan walker",
@@ -1504,12 +1516,6 @@
     }
   },
   "min @ kc": {
-    "7": {
-      "player": "vinnie pasquantino",
-      "pitcher": "bailey ober",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "6": {
       "player": "maikel garcia",
       "pitcher": "bailey ober",
@@ -1571,8 +1577,8 @@
     "1": {
       "player": "cj abrams",
       "pitcher": "drew pomeranz",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     }
   },
   "hou @ tex": {},
