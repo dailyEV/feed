@@ -1790,11 +1790,17 @@
     }
   },
   "mil @ pit": {
+    "74": {
+      "player": "blake perkins",
+      "pitcher": "dennis santana",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "73": {
       "player": "caleb durbin",
       "pitcher": "dennis santana",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "72": {
       "player": "alexander canario",
@@ -3457,8 +3463,8 @@
     "58": {
       "player": "kody clemens",
       "pitcher": "sam long",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "nick loftin",
@@ -3808,7 +3814,7 @@
       "player": "drew gilbert",
       "pitcher": "matt svanson",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "53": {
       "player": "lars nootbaar",
@@ -4133,7 +4139,7 @@
     "57": {
       "player": "seiya suzuki",
       "pitcher": "mason thompson",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "56": {
@@ -4477,8 +4483,8 @@
     "45": {
       "player": "kyle higashioka",
       "pitcher": "framber valdez",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "44": {
       "player": "jake burger",
@@ -4746,6 +4752,12 @@
     }
   },
   "sd @ col": {
+    "31": {
+      "player": "fernando tatis",
+      "pitcher": "luis peralta",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "30": {
       "player": "freddy fermin",
       "pitcher": "tanner gordon",
