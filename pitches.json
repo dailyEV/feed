@@ -961,8 +961,8 @@
     "58": {
       "player": "jorge mateo",
       "pitcher": "justin wrobleski",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "coby mayo",
@@ -1311,7 +1311,7 @@
     "58": {
       "player": "vladimir guerrero",
       "pitcher": "devin williams",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Changeup"
     },
     "57": {
@@ -1661,8 +1661,8 @@
     "60": {
       "player": "oneil cruz",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "59": {
       "player": "andrew mccutchen",
@@ -2023,8 +2023,8 @@
     "62": {
       "player": "brandon nimmo",
       "pitcher": "tony santillan",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slurve"
     },
     "61": {
       "player": "pete alonso",
@@ -2397,7 +2397,7 @@
     "60": {
       "player": "brooks baldwin",
       "pitcher": "tommy kahnle",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "59": {
@@ -3390,10 +3390,16 @@
     }
   },
   "sf @ stl": {
+    "41": {
+      "player": "andrew knizner",
+      "pitcher": "sonny gray",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "40": {
       "player": "drew gilbert",
       "pitcher": "sonny gray",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -4101,8 +4107,8 @@
     "17": {
       "player": "yanquiel fernandez",
       "pitcher": "dylan cease",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "16": {
       "player": "warming bernabel",
