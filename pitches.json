@@ -1643,8 +1643,8 @@
     "50": {
       "player": "jared young",
       "pitcher": "scott barlow",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "49": {
       "player": "gavin lux",
@@ -1942,6 +1942,12 @@
     }
   },
   "mil @ pit": {
+    "51": {
+      "player": "nick yorke",
+      "pitcher": "rob zastryzny",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "50": {
       "player": "oneil cruz",
       "pitcher": "rob zastryzny",
@@ -2420,12 +2426,6 @@
     }
   },
   "cle @ tb": {
-    "36": {
-      "player": "josh lowe",
-      "pitcher": "tanner bibee",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "35": {
       "player": "kyle manzardo",
       "pitcher": "shane baz",
@@ -2823,7 +2823,7 @@
     "32": {
       "player": "josh jung",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -3491,7 +3491,7 @@
     "10": {
       "player": "jake cronenworth",
       "pitcher": "mccade brown",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "9": {
