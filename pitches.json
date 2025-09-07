@@ -2518,7 +2518,7 @@
       "player": "dylan beavers",
       "pitcher": "yoshinobu yamamoto",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "59": {
       "player": "emmanuel rivera",
@@ -4010,10 +4010,16 @@
     }
   },
   "min @ kc": {
+    "69": {
+      "player": "luke keaschall",
+      "pitcher": "luinder avila",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "68": {
       "player": "trevor larnach",
       "pitcher": "luinder avila",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "67": {
@@ -4420,18 +4426,6 @@
     }
   },
   "sea @ atl": {
-    "67": {
-      "player": "cal raleigh",
-      "pitcher": "john brebbia",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
-    "66": {
-      "player": "randy arozarena",
-      "pitcher": "john brebbia",
-      "result": "Hit By Pitch",
-      "pitch": "Slider"
-    },
     "65": {
       "player": "matt olson",
       "pitcher": "eduard bazardo",
@@ -4827,7 +4821,7 @@
     "43": {
       "player": "jarren duran",
       "pitcher": "brandon pfaadt",
-      "result": "In play, no out",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "42": {
@@ -5347,8 +5341,8 @@
     "1": {
       "player": "shea langeliers",
       "pitcher": "yusei kikuchi",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     }
   }
 }
