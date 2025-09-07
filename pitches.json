@@ -2682,11 +2682,17 @@
     }
   },
   "chw @ det": {
-    "78": {
-      "player": "chase meidroth",
+    "79": {
+      "player": "michael a taylor",
       "pitcher": "rafael montero",
       "result": "Ball",
       "pitch": "Slider"
+    },
+    "78": {
+      "player": "chase meidroth",
+      "pitcher": "rafael montero",
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "77": {
       "player": "dominic fletcher",
@@ -3625,8 +3631,8 @@
     "66": {
       "player": "salvador perez",
       "pitcher": "justin topa",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "65": {
       "player": "vinnie pasquantino",
@@ -5106,12 +5112,6 @@
     }
   },
   "sd @ col": {
-    "39": {
-      "player": "gavin sheets",
-      "pitcher": "luis peralta",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "38": {
       "player": "ramon laureano",
       "pitcher": "luis peralta",
@@ -5342,10 +5342,16 @@
     }
   },
   "ath @ laa": {
+    "18": {
+      "player": "nick kurtz",
+      "pitcher": "mitch farris",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "17": {
       "player": "willie maciver",
       "pitcher": "mitch farris",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "16": {
