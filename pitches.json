@@ -3,8 +3,8 @@
     "60": {
       "player": "ha seong kim",
       "pitcher": "jose castillo",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "drake baldwin",
@@ -849,8 +849,8 @@
     "20": {
       "player": "davis schneider",
       "pitcher": "max fried",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "19": {
       "player": "george springer",
@@ -971,7 +971,7 @@
     "19": {
       "player": "joey bart",
       "pitcher": "jacob misiorowski",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "18": {
@@ -1438,6 +1438,12 @@
     }
   },
   "min @ kc": {
+    "5": {
+      "player": "mike yastrzemski",
+      "pitcher": "bailey ober",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "luke keaschall",
       "pitcher": "michael lorenzen",
