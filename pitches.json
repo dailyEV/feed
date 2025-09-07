@@ -1260,10 +1260,16 @@
     }
   },
   "chw @ det": {
+    "60": {
+      "player": "dillon dingler",
+      "pitcher": "dan altavilla",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "andy ibanez",
       "pitcher": "dan altavilla",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "58": {
@@ -1620,7 +1626,7 @@
       "player": "brett baty",
       "pitcher": "brady singer",
       "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "45": {
       "player": "mark vientos",
@@ -2682,6 +2688,12 @@
     }
   },
   "hou @ tex": {
+    "27": {
+      "player": "carlos correa",
+      "pitcher": "jacob degrom",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "dustin harris",
       "pitcher": "hunter brown",
@@ -3200,11 +3212,17 @@
     }
   },
   "sd @ col": {
-    "4": {
-      "player": "tyler freeman",
+    "5": {
+      "player": "mickey moniak",
       "pitcher": "randy vasquez",
       "result": "Foul",
       "pitch": "Slider"
+    },
+    "4": {
+      "player": "tyler freeman",
+      "pitcher": "randy vasquez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "manny machado",
