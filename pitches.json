@@ -3,7 +3,7 @@
     "56": {
       "player": "leo rivas",
       "pitcher": "hayden harris",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -341,7 +341,7 @@
     "57": {
       "player": "carson williams",
       "pitcher": "matt festa",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "56": {
@@ -685,8 +685,8 @@
     "16": {
       "player": "coby mayo",
       "pitcher": "clayton kershaw",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "15": {
       "player": "dylan carlson",
@@ -988,11 +988,17 @@
     }
   },
   "nym @ cin": {
+    "16": {
+      "player": "francisco lindor",
+      "pitcher": "hunter greene",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "15": {
       "player": "cedric mullins",
       "pitcher": "hunter greene",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "14": {
       "player": "brett baty",
@@ -1160,6 +1166,12 @@
     }
   },
   "phi @ mia": {
+    "17": {
+      "player": "max kepler",
+      "pitcher": "tyler phillips",
+      "result": "Foul Tip",
+      "pitch": "Curveball"
+    },
     "16": {
       "player": "nick castellanos",
       "pitcher": "tyler phillips",
