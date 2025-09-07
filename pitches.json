@@ -4083,8 +4083,8 @@
     "68": {
       "player": "nathan church",
       "pitcher": "joel peguero",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "jordan walker",
@@ -4927,7 +4927,7 @@
     "58": {
       "player": "wyatt langford",
       "pitcher": "craig kimbrel",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -5546,11 +5546,17 @@
     }
   },
   "ath @ laa": {
+    "26": {
+      "player": "tyler soderstrom",
+      "pitcher": "mitch farris",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "colby thomas",
       "pitcher": "mitch farris",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "jo adell",
@@ -5698,6 +5704,12 @@
     }
   },
   "bos @ ari": {
+    "16": {
+      "player": "ceddanne rafaela",
+      "pitcher": "ryne nelson",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "tyler locklear",
       "pitcher": "brayan bello",
