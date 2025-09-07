@@ -966,12 +966,6 @@
     }
   },
   "tor @ nyy": {
-    "27": {
-      "player": "cody bellinger",
-      "pitcher": "max scherzer",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "26": {
       "player": "aaron judge",
       "pitcher": "max scherzer",
@@ -1130,10 +1124,16 @@
     }
   },
   "mil @ pit": {
+    "28": {
+      "player": "brice turang",
+      "pitcher": "bubba chandler",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "27": {
       "player": "joey ortiz",
       "pitcher": "bubba chandler",
-      "result": "In play, out(s)",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "26": {
@@ -1294,12 +1294,6 @@
     }
   },
   "nym @ cin": {
-    "28": {
-      "player": "gavin lux",
-      "pitcher": "brandon sproat",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "27": {
       "player": "austin hays",
       "pitcher": "brandon sproat",
@@ -1464,17 +1458,11 @@
     }
   },
   "chw @ det": {
-    "25": {
-      "player": "curtis mead",
-      "pitcher": "charlie morton",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "24": {
       "player": "andrew benintendi",
       "pitcher": "charlie morton",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "colson montgomery",
@@ -1783,8 +1771,8 @@
     "13": {
       "player": "michael massey",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "12": {
       "player": "randal grichuk",
@@ -1916,6 +1904,12 @@
     }
   },
   "wsh @ chc": {
+    "8": {
+      "player": "andres chaparro",
+      "pitcher": "colin rea",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "7": {
       "player": "daylen lile",
       "pitcher": "colin rea",
