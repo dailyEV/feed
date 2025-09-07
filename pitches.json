@@ -2873,7 +2873,7 @@
     "66": {
       "player": "bo naylor",
       "pitcher": "pete fairbanks",
-      "result": "Foul Bunt",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -3271,8 +3271,8 @@
     "63": {
       "player": "casey schmitt",
       "pitcher": "riley obrien",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "62": {
       "player": "ivan herrera",
@@ -4013,8 +4013,8 @@
     "68": {
       "player": "trevor larnach",
       "pitcher": "luinder avila",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "67": {
       "player": "vinnie pasquantino",
@@ -4420,6 +4420,18 @@
     }
   },
   "sea @ atl": {
+    "67": {
+      "player": "cal raleigh",
+      "pitcher": "john brebbia",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "66": {
+      "player": "randy arozarena",
+      "pitcher": "john brebbia",
+      "result": "Hit By Pitch",
+      "pitch": "Slider"
+    },
     "65": {
       "player": "matt olson",
       "pitcher": "eduard bazardo",
@@ -4815,7 +4827,7 @@
     "43": {
       "player": "jarren duran",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "42": {
