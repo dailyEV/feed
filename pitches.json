@@ -1644,7 +1644,7 @@
       "player": "juan soto",
       "pitcher": "scott barlow",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Curveball"
     },
     "52": {
       "player": "francisco lindor",
@@ -2274,6 +2274,12 @@
     }
   },
   "lad @ bal": {
+    "31": {
+      "player": "ben rortvedt",
+      "pitcher": "trevor rogers",
+      "result": "Foul Bunt",
+      "pitch": "Sinker"
+    },
     "30": {
       "player": "enrique hernandez",
       "pitcher": "trevor rogers",
@@ -2695,8 +2701,8 @@
     "33": {
       "player": "thomas saggese",
       "pitcher": "justin verlander",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "32": {
       "player": "jimmy crooks",
@@ -2892,6 +2898,12 @@
     }
   },
   "hou @ tex": {
+    "34": {
+      "player": "jonah heim",
+      "pitcher": "hunter brown",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "alejandro osuna",
       "pitcher": "hunter brown",
@@ -3322,17 +3334,11 @@
     }
   },
   "sea @ atl": {
-    "37": {
-      "player": "julio rodriguez",
-      "pitcher": "hurston waldrep",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
-    },
     "36": {
       "player": "cal raleigh",
       "pitcher": "hurston waldrep",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "35": {
       "player": "randy arozarena",
@@ -3546,12 +3552,6 @@
     }
   },
   "bos @ ari": {
-    "11": {
-      "player": "adrian del castillo",
-      "pitcher": "lucas giolito",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "10": {
       "player": "romy gonzalez",
       "pitcher": "brandon pfaadt",
