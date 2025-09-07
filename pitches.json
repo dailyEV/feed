@@ -1,11 +1,5 @@
 {
   "sea @ atl": {
-    "55": {
-      "player": "mitch garver",
-      "pitcher": "hayden harris",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "54": {
       "player": "luke raley",
       "pitcher": "hayden harris",
@@ -667,8 +661,8 @@
     "14": {
       "player": "alex jackson",
       "pitcher": "clayton kershaw",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "13": {
       "player": "emmanuel rivera",
@@ -842,11 +836,17 @@
     }
   },
   "mil @ pit": {
+    "15": {
+      "player": "isaac collins",
+      "pitcher": "bubba chandler",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "14": {
       "player": "brice turang",
       "pitcher": "bubba chandler",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Foul Tip",
+      "pitch": "Changeup"
     },
     "13": {
       "player": "joey ortiz",
@@ -1005,8 +1005,8 @@
     "11": {
       "player": "wenceel perez",
       "pitcher": "davis martin",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "spencer torkelson",
