@@ -3,7 +3,7 @@
     "77": {
       "player": "cal raleigh",
       "pitcher": "rolddy munoz",
-      "result": "Swinging Strike",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "76": {
@@ -1101,8 +1101,8 @@
     "33": {
       "player": "george springer",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "32": {
       "player": "myles straw",
@@ -1298,6 +1298,12 @@
     }
   },
   "mil @ pit": {
+    "35": {
+      "player": "jake bauers",
+      "pitcher": "colin holderman",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "34": {
       "player": "william contreras",
       "pitcher": "colin holderman",
@@ -1716,6 +1722,12 @@
     }
   },
   "chw @ det": {
+    "33": {
+      "player": "wenceel perez",
+      "pitcher": "davis martin",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "32": {
       "player": "mike tauchman",
       "pitcher": "tyler holton",
@@ -1913,8 +1925,8 @@
     "38": {
       "player": "rafael marchan",
       "pitcher": "cade gibson",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "37": {
       "player": "max kepler",
@@ -2265,8 +2277,8 @@
     "16": {
       "player": "jordan walker",
       "pitcher": "kai wei teng",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "andrew knizner",
