@@ -1,11 +1,5 @@
 {
   "sea @ atl": {
-    "70": {
-      "player": "jurickson profar",
-      "pitcher": "emerson hancock",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "69": {
       "player": "nacho alvarez",
       "pitcher": "emerson hancock",
@@ -422,11 +416,17 @@
     }
   },
   "cle @ tb": {
+    "69": {
+      "player": "steven kwan",
+      "pitcher": "edwin uceta",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "68": {
       "player": "austin hedges",
       "pitcher": "edwin uceta",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "67": {
       "player": "brayan rocchio",
@@ -835,8 +835,8 @@
     "27": {
       "player": "enrique hernandez",
       "pitcher": "grant wolfram",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "hyeseong kim",
@@ -996,6 +996,12 @@
     }
   },
   "tor @ nyy": {
+    "28": {
+      "player": "ben rice",
+      "pitcher": "max scherzer",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "27": {
       "player": "cody bellinger",
       "pitcher": "max scherzer",
@@ -1163,8 +1169,8 @@
     "29": {
       "player": "isaac collins",
       "pitcher": "colin holderman",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "28": {
       "player": "brice turang",
@@ -1336,11 +1342,17 @@
     }
   },
   "nym @ cin": {
+    "30": {
+      "player": "francisco alvarez",
+      "pitcher": "hunter greene",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "29": {
       "player": "jeff mcneil",
       "pitcher": "hunter greene",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "28": {
       "player": "gavin lux",
@@ -1512,6 +1524,12 @@
     }
   },
   "chw @ det": {
+    "26": {
+      "player": "kerry carpenter",
+      "pitcher": "davis martin",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "25": {
       "player": "curtis mead",
       "pitcher": "charlie morton",
@@ -1667,8 +1685,8 @@
     "30": {
       "player": "bryce harper",
       "pitcher": "cade gibson",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "29": {
       "player": "victor mesa",
@@ -1846,6 +1864,18 @@
     }
   },
   "min @ kc": {
+    "15": {
+      "player": "jhonny pereda",
+      "pitcher": "michael lorenzen",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "14": {
+      "player": "brooks lee",
+      "pitcher": "michael lorenzen",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "michael massey",
       "pitcher": "bailey ober",
@@ -1926,6 +1956,12 @@
     }
   },
   "sf @ stl": {
+    "11": {
+      "player": "thomas saggese",
+      "pitcher": "kai wei teng",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "masyn winn",
       "pitcher": "kai wei teng",
