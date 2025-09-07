@@ -961,8 +961,8 @@
     "72": {
       "player": "michael conforto",
       "pitcher": "rico garcia",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "freddie freeman",
@@ -2631,7 +2631,7 @@
     "71": {
       "player": "curtis mead",
       "pitcher": "will vest",
-      "result": "Ball In Dirt",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "70": {
@@ -3846,11 +3846,17 @@
     }
   },
   "sf @ stl": {
+    "56": {
+      "player": "heliot ramos",
+      "pitcher": "matt svanson",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "55": {
       "player": "patrick bailey",
       "pitcher": "matt svanson",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "54": {
       "player": "drew gilbert",
@@ -4178,11 +4184,17 @@
     }
   },
   "wsh @ chc": {
+    "60": {
+      "player": "dansby swanson",
+      "pitcher": "mason thompson",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "59": {
       "player": "carlos santana",
       "pitcher": "mason thompson",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "carson kelly",
