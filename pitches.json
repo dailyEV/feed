@@ -1179,8 +1179,8 @@
     "38": {
       "player": "davis schneider",
       "pitcher": "max fried",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "37": {
       "player": "ryan mcmahon",
@@ -1651,8 +1651,8 @@
     "42": {
       "player": "austin hays",
       "pitcher": "brandon sproat",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "elly de la cruz",
@@ -1902,6 +1902,12 @@
     }
   },
   "chw @ det": {
+    "38": {
+      "player": "lenyn sosa",
+      "pitcher": "troy melton",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "kyle teel",
       "pitcher": "tyler holton",
@@ -2386,12 +2392,6 @@
     }
   },
   "min @ kc": {
-    "25": {
-      "player": "mike yastrzemski",
-      "pitcher": "bailey ober",
-      "result": "In play, no out",
-      "pitch": "Sweeper"
-    },
     "24": {
       "player": "royce lewis",
       "pitcher": "michael lorenzen",
@@ -2541,8 +2541,8 @@
     "21": {
       "player": "rafael devers",
       "pitcher": "sonny gray",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "20": {
       "player": "heliot ramos",
@@ -2666,6 +2666,12 @@
     }
   },
   "wsh @ chc": {
+    "21": {
+      "player": "ian happ",
+      "pitcher": "andrew alvarez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "nico hoerner",
       "pitcher": "andrew alvarez",
