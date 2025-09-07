@@ -371,8 +371,8 @@
     "60": {
       "player": "kyle manzardo",
       "pitcher": "mason montgomery",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "yandy diaz",
@@ -1230,6 +1230,18 @@
     }
   },
   "chw @ det": {
+    "19": {
+      "player": "jake rogers",
+      "pitcher": "davis martin",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "18": {
+      "player": "zach mckinstry",
+      "pitcher": "davis martin",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "kyle teel",
       "pitcher": "charlie morton",
@@ -1468,12 +1480,6 @@
     }
   },
   "min @ kc": {
-    "6": {
-      "player": "maikel garcia",
-      "pitcher": "bailey ober",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "5": {
       "player": "mike yastrzemski",
       "pitcher": "bailey ober",
@@ -1506,6 +1512,12 @@
     }
   },
   "sf @ stl": {
+    "3": {
+      "player": "willy adames",
+      "pitcher": "sonny gray",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "rafael devers",
       "pitcher": "sonny gray",
