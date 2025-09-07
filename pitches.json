@@ -547,8 +547,8 @@
     "3": {
       "player": "freddie freeman",
       "pitcher": "tomoyuki sugano",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "2": {
       "player": "mookie betts",
@@ -567,8 +567,8 @@
     "2": {
       "player": "davis schneider",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "1": {
       "player": "george springer",
@@ -606,7 +606,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "phi @ mia": {},
+  "phi @ mia": {
+    "1": {
+      "player": "trea turner",
+      "pitcher": "tyler phillips",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    }
+  },
   "min @ kc": {},
   "sf @ stl": {},
   "wsh @ chc": {},
