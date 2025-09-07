@@ -2685,8 +2685,8 @@
     "81": {
       "player": "jake rogers",
       "pitcher": "mike vasil",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "80": {
       "player": "zach mckinstry",
@@ -4445,7 +4445,7 @@
     "71": {
       "player": "kevin alcantara",
       "pitcher": "jose a ferrer",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "70": {
@@ -5208,6 +5208,12 @@
     }
   },
   "sd @ col": {
+    "44": {
+      "player": "luis arraez",
+      "pitcher": "antonio senzatela",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "fernando tatis",
       "pitcher": "antonio senzatela",
@@ -5468,11 +5474,17 @@
     }
   },
   "ath @ laa": {
+    "24": {
+      "player": "jo adell",
+      "pitcher": "luis severino",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "taylor ward",
       "pitcher": "luis severino",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "yoan moncada",
