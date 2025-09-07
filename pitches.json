@@ -1260,6 +1260,12 @@
     }
   },
   "chw @ det": {
+    "52": {
+      "player": "gleyber torres",
+      "pitcher": "steven wilson",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "51": {
       "player": "colt keith",
       "pitcher": "steven wilson",
@@ -2046,11 +2052,23 @@
     }
   },
   "lad @ bal": {
-    "15": {
-      "player": "ben rortvedt",
+    "17": {
+      "player": "mookie betts",
       "pitcher": "trevor rogers",
       "result": "Ball",
       "pitch": "4-Seam Fastball"
+    },
+    "16": {
+      "player": "shohei ohtani",
+      "pitcher": "trevor rogers",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
+    "15": {
+      "player": "ben rortvedt",
+      "pitcher": "trevor rogers",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "enrique hernandez",
@@ -2141,8 +2159,8 @@
     "24": {
       "player": "nolan jones",
       "pitcher": "shane baz",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
     },
     "23": {
       "player": "kyle manzardo",
@@ -2287,8 +2305,8 @@
     "19": {
       "player": "willy adames",
       "pitcher": "andre pallante",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "18": {
       "player": "rafael devers",
@@ -2403,8 +2421,8 @@
     "19": {
       "player": "jake meyers",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "18": {
       "player": "yainer diaz",
