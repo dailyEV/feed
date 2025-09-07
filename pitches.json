@@ -1,10 +1,16 @@
 {
   "sea @ atl": {
+    "48": {
+      "player": "eugenio suarez",
+      "pitcher": "dylan dodd",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "47": {
       "player": "julio rodriguez",
       "pitcher": "dylan dodd",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "cal raleigh",
@@ -284,12 +290,6 @@
     }
   },
   "cle @ tb": {
-    "48": {
-      "player": "brandon lowe",
-      "pitcher": "parker messick",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "47": {
       "player": "brayan rocchio",
       "pitcher": "kevin kelly",
@@ -659,8 +659,8 @@
     "7": {
       "player": "blake perkins",
       "pitcher": "bubba chandler",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "6": {
       "player": "caleb durbin",
@@ -700,6 +700,12 @@
     }
   },
   "nym @ cin": {
+    "5": {
+      "player": "noelvi marte",
+      "pitcher": "brandon sproat",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "4": {
       "player": "tj friedl",
       "pitcher": "brandon sproat",
