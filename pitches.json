@@ -951,8 +951,8 @@
     "25": {
       "player": "trent grisham",
       "pitcher": "max scherzer",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "24": {
       "player": "ty france",
@@ -1103,8 +1103,8 @@
     "27": {
       "player": "joey ortiz",
       "pitcher": "bubba chandler",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "26": {
       "player": "danny jansen",
@@ -1419,8 +1419,8 @@
     "23": {
       "player": "colson montgomery",
       "pitcher": "charlie morton",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "22": {
       "player": "lenyn sosa",
@@ -1559,7 +1559,7 @@
     "26": {
       "player": "heriberto hernandez",
       "pitcher": "taijuan walker",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "25": {
@@ -1788,6 +1788,12 @@
     }
   },
   "sf @ stl": {
+    "8": {
+      "player": "matt chapman",
+      "pitcher": "sonny gray",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "7": {
       "player": "dominic smith",
       "pitcher": "sonny gray",
