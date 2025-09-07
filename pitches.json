@@ -2870,10 +2870,16 @@
     }
   },
   "cle @ tb": {
+    "68": {
+      "player": "steven kwan",
+      "pitcher": "pete fairbanks",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "67": {
       "player": "cj kayfus",
       "pitcher": "pete fairbanks",
-      "result": "Ball In Dirt",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "66": {
@@ -4465,8 +4471,8 @@
     "67": {
       "player": "cal raleigh",
       "pitcher": "john brebbia",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "randy arozarena",
@@ -4866,11 +4872,17 @@
     }
   },
   "bos @ ari": {
+    "45": {
+      "player": "nathaniel lowe",
+      "pitcher": "brandon pfaadt",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "44": {
       "player": "trevor story",
       "pitcher": "brandon pfaadt",
-      "result": "Foul Tip",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "43": {
       "player": "jarren duran",
@@ -5132,6 +5144,18 @@
     }
   },
   "sd @ col": {
+    "45": {
+      "player": "luis arraez",
+      "pitcher": "jaden hill",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "44": {
+      "player": "fernando tatis",
+      "pitcher": "jaden hill",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "43": {
       "player": "mason mccoy",
       "pitcher": "roansy contreras",
@@ -5392,6 +5416,12 @@
     }
   },
   "ath @ laa": {
+    "2": {
+      "player": "brent rooker",
+      "pitcher": "yusei kikuchi",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "shea langeliers",
       "pitcher": "yusei kikuchi",
