@@ -1233,8 +1233,8 @@
     "47": {
       "player": "isiah kiner falefa",
       "pitcher": "max fried",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "46": {
       "player": "ty france",
@@ -1810,6 +1810,12 @@
     }
   },
   "nym @ cin": {
+    "50": {
+      "player": "kebryan hayes",
+      "pitcher": "reed garrett",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "49": {
       "player": "tyler stephenson",
       "pitcher": "reed garrett",
@@ -2106,6 +2112,12 @@
     }
   },
   "chw @ det": {
+    "47": {
+      "player": "brooks baldwin",
+      "pitcher": "troy melton",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "46": {
       "player": "riley greene",
       "pitcher": "davis martin",
@@ -2701,8 +2713,8 @@
     "35": {
       "player": "michael massey",
       "pitcher": "bailey ober",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "34": {
       "player": "randal grichuk",
@@ -2910,12 +2922,6 @@
     }
   },
   "sf @ stl": {
-    "30": {
-      "player": "jung hoo lee",
-      "pitcher": "sonny gray",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "29": {
       "player": "matt chapman",
       "pitcher": "sonny gray",
@@ -3280,11 +3286,17 @@
     }
   },
   "hou @ tex": {
+    "21": {
+      "player": "cody freeman",
+      "pitcher": "framber valdez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "20": {
       "player": "wyatt langford",
       "pitcher": "framber valdez",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "ezequiel duran",
