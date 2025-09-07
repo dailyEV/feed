@@ -1955,7 +1955,7 @@
     "39": {
       "player": "bryson stott",
       "pitcher": "cade gibson",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "38": {
@@ -2188,11 +2188,17 @@
     }
   },
   "min @ kc": {
+    "21": {
+      "player": "matt wallner",
+      "pitcher": "michael lorenzen",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "20": {
       "player": "austin martin",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "19": {
       "player": "luke maile",
@@ -2310,16 +2316,10 @@
     }
   },
   "sf @ stl": {
-    "18": {
-      "player": "jose fermin",
-      "pitcher": "kai wei teng",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "17": {
       "player": "nathan church",
       "pitcher": "kai wei teng",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Sweeper"
     },
     "16": {
@@ -2420,6 +2420,12 @@
     }
   },
   "wsh @ chc": {
+    "16": {
+      "player": "brady house",
+      "pitcher": "colin rea",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "kevin alcantara",
       "pitcher": "andrew alvarez",
