@@ -2089,8 +2089,8 @@
     "70": {
       "player": "nick yorke",
       "pitcher": "aaron ashby",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "69": {
       "player": "oneil cruz",
@@ -2512,7 +2512,7 @@
       "player": "jackson holliday",
       "pitcher": "yoshinobu yamamoto",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "44": {
       "player": "coby mayo",
@@ -3106,6 +3106,18 @@
     }
   },
   "sf @ stl": {
+    "50": {
+      "player": "patrick bailey",
+      "pitcher": "kyle leahy",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "49": {
+      "player": "luis matos",
+      "pitcher": "kyle leahy",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "48": {
       "player": "drew gilbert",
       "pitcher": "kyle leahy",
@@ -3692,6 +3704,12 @@
     }
   },
   "min @ kc": {
+    "55": {
+      "player": "adam frazier",
+      "pitcher": "brooks kriske",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "54": {
       "player": "salvador perez",
       "pitcher": "brooks kriske",
@@ -4326,11 +4344,17 @@
     }
   },
   "bos @ ari": {
+    "28": {
+      "player": "nathaniel lowe",
+      "pitcher": "brandon pfaadt",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "trevor story",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "jarren duran",
