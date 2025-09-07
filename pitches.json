@@ -1966,6 +1966,12 @@
     }
   },
   "mil @ pit": {
+    "53": {
+      "player": "sal frelick",
+      "pitcher": "evan sisk",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "52": {
       "player": "joey ortiz",
       "pitcher": "kyle nicolas",
@@ -2707,8 +2713,8 @@
     "33": {
       "player": "thomas saggese",
       "pitcher": "justin verlander",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "32": {
       "player": "jimmy crooks",
@@ -2907,7 +2913,7 @@
     "34": {
       "player": "jonah heim",
       "pitcher": "hunter brown",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -3340,23 +3346,11 @@
     }
   },
   "sea @ atl": {
-    "38": {
-      "player": "josh naylor",
-      "pitcher": "hurston waldrep",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
-    },
-    "37": {
-      "player": "julio rodriguez",
-      "pitcher": "hurston waldrep",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
     "36": {
       "player": "cal raleigh",
       "pitcher": "hurston waldrep",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "35": {
       "player": "randy arozarena",
@@ -3570,6 +3564,12 @@
     }
   },
   "bos @ ari": {
+    "11": {
+      "player": "adrian del castillo",
+      "pitcher": "lucas giolito",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "10": {
       "player": "romy gonzalez",
       "pitcher": "brandon pfaadt",
@@ -3635,7 +3635,7 @@
     "15": {
       "player": "manny machado",
       "pitcher": "mccade brown",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "14": {
