@@ -1466,6 +1466,12 @@
     }
   },
   "mil @ pit": {
+    "44": {
+      "player": "liover peguero",
+      "pitcher": "jacob misiorowski",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "joey ortiz",
       "pitcher": "dauri moreta",
@@ -1729,8 +1735,8 @@
     "46": {
       "player": "brandon nimmo",
       "pitcher": "hunter greene",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Splitter"
     },
     "45": {
       "player": "pete alonso",
@@ -2551,8 +2557,8 @@
     "29": {
       "player": "edouard julien",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "28": {
       "player": "salvador perez",
@@ -2727,7 +2733,7 @@
     "24": {
       "player": "ivan herrera",
       "pitcher": "kai wei teng",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "23": {
@@ -2873,8 +2879,8 @@
     "26": {
       "player": "riley adams",
       "pitcher": "colin rea",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "25": {
       "player": "james wood",
@@ -3028,11 +3034,17 @@
     }
   },
   "hou @ tex": {
+    "17": {
+      "player": "mauricio dubon",
+      "pitcher": "patrick corbin",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "16": {
       "player": "cam smith",
       "pitcher": "patrick corbin",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "15": {
       "player": "michael helman",
