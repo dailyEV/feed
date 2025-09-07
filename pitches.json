@@ -1347,8 +1347,8 @@
     "63": {
       "player": "cody bellinger",
       "pitcher": "jeff hoffman",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "62": {
       "player": "aaron judge",
@@ -1724,12 +1724,6 @@
     }
   },
   "mil @ pit": {
-    "66": {
-      "player": "andrew vaughn",
-      "pitcher": "isaac mattson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "65": {
       "player": "jake bauers",
       "pitcher": "isaac mattson",
@@ -2882,6 +2876,12 @@
     }
   },
   "phi @ mia": {
+    "64": {
+      "player": "alec bohm",
+      "pitcher": "ronny henriquez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "bryce harper",
       "pitcher": "ronny henriquez",
@@ -3576,6 +3576,18 @@
     }
   },
   "sf @ stl": {
+    "47": {
+      "player": "jung hoo lee",
+      "pitcher": "matt svanson",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "46": {
+      "player": "matt chapman",
+      "pitcher": "matt svanson",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "45": {
       "player": "dominic smith",
       "pitcher": "sonny gray",
@@ -4374,12 +4386,6 @@
     }
   },
   "sd @ col": {
-    "23": {
-      "player": "tyler freeman",
-      "pitcher": "dylan cease",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "22": {
       "player": "orlando arcia",
       "pitcher": "dylan cease",
