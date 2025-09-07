@@ -3,7 +3,7 @@
     "64": {
       "player": "dominic canzone",
       "pitcher": "rolddy munoz",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "63": {
@@ -389,8 +389,8 @@
     "64": {
       "player": "brandon lowe",
       "pitcher": "hunter gaddis",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "63": {
       "player": "junior caminero",
@@ -775,8 +775,8 @@
     "25": {
       "player": "miguel rojas",
       "pitcher": "tomoyuki sugano",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "24": {
       "player": "jeremiah jackson",
@@ -1070,11 +1070,17 @@
     }
   },
   "mil @ pit": {
+    "26": {
+      "player": "danny jansen",
+      "pitcher": "bubba chandler",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "25": {
       "player": "blake perkins",
       "pitcher": "bubba chandler",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "caleb durbin",
@@ -1225,7 +1231,7 @@
     "24": {
       "player": "starling marte",
       "pitcher": "hunter greene",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "23": {
@@ -1368,6 +1374,12 @@
     }
   },
   "chw @ det": {
+    "22": {
+      "player": "lenyn sosa",
+      "pitcher": "charlie morton",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "gleyber torres",
       "pitcher": "davis martin",
@@ -1651,8 +1663,8 @@
     "10": {
       "player": "edouard julien",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "royce lewis",
@@ -1751,8 +1763,8 @@
     "5": {
       "player": "ian happ",
       "pitcher": "andrew alvarez",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "nico hoerner",
