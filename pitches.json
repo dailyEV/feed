@@ -961,8 +961,8 @@
     "72": {
       "player": "michael conforto",
       "pitcher": "rico garcia",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "71": {
       "player": "freddie freeman",
@@ -1802,6 +1802,12 @@
     }
   },
   "mil @ pit": {
+    "76": {
+      "player": "joey ortiz",
+      "pitcher": "dennis santana",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "75": {
       "player": "danny jansen",
       "pitcher": "dennis santana",
@@ -3493,8 +3499,8 @@
     "60": {
       "player": "edouard julien",
       "pitcher": "sam long",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "59": {
       "player": "royce lewis",
@@ -3855,7 +3861,7 @@
     "56": {
       "player": "heliot ramos",
       "pitcher": "matt svanson",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "55": {
@@ -4555,7 +4561,7 @@
     "46": {
       "player": "christian walker",
       "pitcher": "phil maton",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "45": {
@@ -5074,10 +5080,16 @@
     }
   },
   "bos @ ari": {
+    "5": {
+      "player": "ketel marte",
+      "pitcher": "brayan bello",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "4": {
       "player": "geraldo perdomo",
       "pitcher": "brayan bello",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "3": {
