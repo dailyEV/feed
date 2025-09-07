@@ -961,7 +961,7 @@
     "66": {
       "player": "emmanuel rivera",
       "pitcher": "justin wrobleski",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "65": {
@@ -1359,8 +1359,8 @@
     "65": {
       "player": "giancarlo stanton",
       "pitcher": "jeff hoffman",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "64": {
       "player": "ben rice",
@@ -1751,7 +1751,7 @@
     "68": {
       "player": "ji hwan bae",
       "pitcher": "joel payamps",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -2538,11 +2538,17 @@
     }
   },
   "chw @ det": {
+    "66": {
+      "player": "mike tauchman",
+      "pitcher": "tommy kahnle",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "65": {
       "player": "chase meidroth",
       "pitcher": "tommy kahnle",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "kerry carpenter",
@@ -3657,8 +3663,8 @@
     "49": {
       "player": "pedro pages",
       "pitcher": "spencer bivens",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "casey schmitt",
