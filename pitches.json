@@ -958,11 +958,17 @@
     }
   },
   "lad @ bal": {
+    "48": {
+      "player": "gunnar henderson",
+      "pitcher": "clayton kershaw",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "ryan mountcastle",
       "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "46": {
       "player": "jeremiah jackson",
@@ -1245,7 +1251,7 @@
     "48": {
       "player": "giancarlo stanton",
       "pitcher": "ryan borucki",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "47": {
@@ -1532,6 +1538,12 @@
     }
   },
   "mil @ pit": {
+    "50": {
+      "player": "spencer horwitz",
+      "pitcher": "jacob misiorowski",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "william contreras",
       "pitcher": "dauri moreta",
@@ -1828,6 +1840,12 @@
     }
   },
   "nym @ cin": {
+    "52": {
+      "player": "tj friedl",
+      "pitcher": "reed garrett",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "51": {
       "player": "matt mclain",
       "pitcher": "reed garrett",
@@ -2136,6 +2154,12 @@
     }
   },
   "chw @ det": {
+    "49": {
+      "player": "mike tauchman",
+      "pitcher": "troy melton",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "48": {
       "player": "chase meidroth",
       "pitcher": "troy melton",
@@ -2429,7 +2453,7 @@
     "54": {
       "player": "rafael marchan",
       "pitcher": "michael petersen",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -2982,10 +3006,16 @@
     }
   },
   "sf @ stl": {
+    "31": {
+      "player": "casey schmitt",
+      "pitcher": "sonny gray",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "30": {
       "player": "jung hoo lee",
       "pitcher": "sonny gray",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "29": {
@@ -3370,6 +3400,12 @@
     }
   },
   "hou @ tex": {
+    "22": {
+      "player": "yordan alvarez",
+      "pitcher": "patrick corbin",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "21": {
       "player": "cody freeman",
       "pitcher": "framber valdez",
@@ -3501,8 +3537,8 @@
     "6": {
       "player": "tyler freeman",
       "pitcher": "dylan cease",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "5": {
       "player": "ramon laureano",
