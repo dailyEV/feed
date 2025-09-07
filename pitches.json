@@ -1,15 +1,9 @@
 {
   "sea @ atl": {
-    "77": {
-      "player": "cal raleigh",
-      "pitcher": "rolddy munoz",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "76": {
       "player": "randy arozarena",
       "pitcher": "rolddy munoz",
-      "result": "In play, run(s)",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "75": {
@@ -467,7 +461,7 @@
     "73": {
       "player": "hunter feduccia",
       "pitcher": "cade smith",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -904,6 +898,12 @@
     }
   },
   "lad @ bal": {
+    "32": {
+      "player": "gunnar henderson",
+      "pitcher": "clayton kershaw",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "ryan mountcastle",
       "pitcher": "clayton kershaw",
@@ -1707,8 +1707,8 @@
     "32": {
       "player": "mike tauchman",
       "pitcher": "tyler holton",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "chase meidroth",
@@ -1898,6 +1898,12 @@
     }
   },
   "phi @ mia": {
+    "37": {
+      "player": "max kepler",
+      "pitcher": "cade gibson",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "agustin ramirez",
       "pitcher": "taijuan walker",
@@ -2232,6 +2238,12 @@
     }
   },
   "sf @ stl": {
+    "16": {
+      "player": "jordan walker",
+      "pitcher": "kai wei teng",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "andrew knizner",
       "pitcher": "sonny gray",
@@ -2327,8 +2339,8 @@
     "15": {
       "player": "kevin alcantara",
       "pitcher": "andrew alvarez",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "matt shaw",
