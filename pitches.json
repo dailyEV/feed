@@ -2357,8 +2357,8 @@
     "34": {
       "player": "jose ramirez",
       "pitcher": "shane baz",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "33": {
       "player": "george valera",
@@ -2724,6 +2724,12 @@
     }
   },
   "hou @ tex": {
+    "29": {
+      "player": "victor caratini",
+      "pitcher": "jacob degrom",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "28": {
       "player": "jesus sanchez",
       "pitcher": "jacob degrom",
@@ -2894,11 +2900,23 @@
     }
   },
   "min @ kc": {
+    "32": {
+      "player": "mike yastrzemski",
+      "pitcher": "thomas hatch",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "31": {
+      "player": "kyle isbel",
+      "pitcher": "thomas hatch",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "carter jensen",
       "pitcher": "thomas hatch",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "29": {
       "player": "nick loftin",
@@ -3262,7 +3280,7 @@
       "player": "ketel marte",
       "pitcher": "lucas giolito",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "4": {
       "player": "geraldo perdomo",
