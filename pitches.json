@@ -287,8 +287,8 @@
     "47": {
       "player": "brayan rocchio",
       "pitcher": "kevin kelly",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "46": {
       "player": "gabriel arias",
@@ -571,8 +571,8 @@
     "6": {
       "player": "miguel rojas",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "5": {
       "player": "alex call",
@@ -606,10 +606,16 @@
     }
   },
   "tor @ nyy": {
+    "5": {
+      "player": "aaron judge",
+      "pitcher": "max scherzer",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "trent grisham",
       "pitcher": "max scherzer",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -681,8 +687,8 @@
     "3": {
       "player": "lenyn sosa",
       "pitcher": "charlie morton",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "kyle teel",
