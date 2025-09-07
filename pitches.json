@@ -404,12 +404,6 @@
     }
   },
   "cle @ tb": {
-    "67": {
-      "player": "brayan rocchio",
-      "pitcher": "edwin uceta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "66": {
       "player": "gabriel arias",
       "pitcher": "edwin uceta",
@@ -966,6 +960,12 @@
     }
   },
   "tor @ nyy": {
+    "27": {
+      "player": "cody bellinger",
+      "pitcher": "max scherzer",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "aaron judge",
       "pitcher": "max scherzer",
@@ -1127,8 +1127,8 @@
     "28": {
       "player": "brice turang",
       "pitcher": "bubba chandler",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "27": {
       "player": "joey ortiz",
@@ -1458,11 +1458,17 @@
     }
   },
   "chw @ det": {
+    "25": {
+      "player": "curtis mead",
+      "pitcher": "charlie morton",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "24": {
       "player": "andrew benintendi",
       "pitcher": "charlie morton",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "23": {
       "player": "colson montgomery",
@@ -1604,11 +1610,17 @@
     }
   },
   "phi @ mia": {
+    "28": {
+      "player": "maximo acosta",
+      "pitcher": "taijuan walker",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "27": {
       "player": "troy johnston",
       "pitcher": "taijuan walker",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "heriberto hernandez",
@@ -1771,8 +1783,8 @@
     "13": {
       "player": "michael massey",
       "pitcher": "bailey ober",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "randal grichuk",
