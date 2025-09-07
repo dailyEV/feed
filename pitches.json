@@ -3031,7 +3031,7 @@
     "46": {
       "player": "nolan gorman",
       "pitcher": "justin verlander",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -3584,6 +3584,12 @@
     }
   },
   "min @ kc": {
+    "52": {
+      "player": "matt wallner",
+      "pitcher": "stephen kolek",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "luke keaschall",
       "pitcher": "stephen kolek",
@@ -3892,11 +3898,17 @@
     }
   },
   "sea @ atl": {
+    "51": {
+      "player": "ronald acuna",
+      "pitcher": "bryce miller",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "50": {
       "player": "ha seong kim",
       "pitcher": "bryce miller",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "drake baldwin",
@@ -4349,8 +4361,8 @@
     "26": {
       "player": "freddy fermin",
       "pitcher": "angel chivilli",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "jake cronenworth",
