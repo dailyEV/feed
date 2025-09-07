@@ -931,7 +931,7 @@
     "35": {
       "player": "freddie freeman",
       "pitcher": "grant wolfram",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -1143,7 +1143,7 @@
     "36": {
       "player": "anthony volpe",
       "pitcher": "max scherzer",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "35": {
@@ -2048,12 +2048,6 @@
     }
   },
   "phi @ mia": {
-    "42": {
-      "player": "heriberto hernandez",
-      "pitcher": "taijuan walker",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "41": {
       "player": "liam hicks",
       "pitcher": "taijuan walker",
@@ -2561,8 +2555,8 @@
     "19": {
       "player": "cj abrams",
       "pitcher": "colin rea",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "18": {
       "player": "robert hassell",
@@ -2674,6 +2668,12 @@
     }
   },
   "hou @ tex": {
+    "10": {
+      "player": "yainer diaz",
+      "pitcher": "patrick corbin",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "jake meyers",
       "pitcher": "patrick corbin",
