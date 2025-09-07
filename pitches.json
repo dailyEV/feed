@@ -1966,12 +1966,6 @@
     }
   },
   "mil @ pit": {
-    "53": {
-      "player": "sal frelick",
-      "pitcher": "evan sisk",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "52": {
       "player": "joey ortiz",
       "pitcher": "kyle nicolas",
@@ -3346,11 +3340,17 @@
     }
   },
   "sea @ atl": {
+    "37": {
+      "player": "julio rodriguez",
+      "pitcher": "hurston waldrep",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "36": {
       "player": "cal raleigh",
       "pitcher": "hurston waldrep",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "35": {
       "player": "randy arozarena",
@@ -3567,8 +3567,8 @@
     "11": {
       "player": "adrian del castillo",
       "pitcher": "lucas giolito",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "romy gonzalez",
