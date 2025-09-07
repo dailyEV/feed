@@ -1,5 +1,11 @@
 {
   "sea @ atl": {
+    "62": {
+      "player": "randy arozarena",
+      "pitcher": "rolddy munoz",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
     "61": {
       "player": "michael harris",
       "pitcher": "jose castillo",
@@ -371,8 +377,8 @@
     "62": {
       "player": "daniel schneemann",
       "pitcher": "mason montgomery",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "61": {
       "player": "jhonkensy noel",
@@ -746,7 +752,7 @@
       "player": "jeremiah jackson",
       "pitcher": "clayton kershaw",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "23": {
       "player": "luis vazquez",
@@ -891,7 +897,7 @@
     "22": {
       "player": "alejandro kirk",
       "pitcher": "max fried",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "21": {
@@ -1022,6 +1028,12 @@
     }
   },
   "mil @ pit": {
+    "22": {
+      "player": "jake bauers",
+      "pitcher": "bubba chandler",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "ji hwan bae",
       "pitcher": "jacob misiorowski",
@@ -1415,7 +1427,7 @@
     "24": {
       "player": "trea turner",
       "pitcher": "tyler phillips",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "23": {
@@ -1561,8 +1573,8 @@
     "8": {
       "player": "kody clemens",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "vinnie pasquantino",
@@ -1608,6 +1620,12 @@
     }
   },
   "sf @ stl": {
+    "4": {
+      "player": "lars nootbaar",
+      "pitcher": "kai wei teng",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "willy adames",
       "pitcher": "sonny gray",
