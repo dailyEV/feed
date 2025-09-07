@@ -958,11 +958,17 @@
     }
   },
   "lad @ bal": {
+    "66": {
+      "player": "emmanuel rivera",
+      "pitcher": "justin wrobleski",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "65": {
       "player": "gunnar henderson",
       "pitcher": "justin wrobleski",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "64": {
       "player": "enrique hernandez",
@@ -1353,8 +1359,8 @@
     "65": {
       "player": "giancarlo stanton",
       "pitcher": "jeff hoffman",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "64": {
       "player": "ben rice",
@@ -3304,12 +3310,6 @@
     }
   },
   "min @ kc": {
-    "54": {
-      "player": "luke keaschall",
-      "pitcher": "taylor clarke",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "53": {
       "player": "matt wallner",
       "pitcher": "daniel lynch",
@@ -4234,6 +4234,12 @@
     }
   },
   "hou @ tex": {
+    "40": {
+      "player": "ezequiel duran",
+      "pitcher": "framber valdez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "39": {
       "player": "carlos correa",
       "pitcher": "phil maton",
@@ -4473,7 +4479,7 @@
     "25": {
       "player": "mickey moniak",
       "pitcher": "dylan cease",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "24": {
