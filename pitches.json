@@ -961,7 +961,7 @@
     "70": {
       "player": "mookie betts",
       "pitcher": "rico garcia",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "69": {
@@ -3035,7 +3035,7 @@
     "70": {
       "player": "xavier edwards",
       "pitcher": "tim mayza",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "69": {
@@ -3804,6 +3804,12 @@
     }
   },
   "sf @ stl": {
+    "54": {
+      "player": "drew gilbert",
+      "pitcher": "matt svanson",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "53": {
       "player": "lars nootbaar",
       "pitcher": "matt gage",
@@ -4127,8 +4133,8 @@
     "57": {
       "player": "seiya suzuki",
       "pitcher": "mason thompson",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "dylan crews",
@@ -4951,8 +4957,8 @@
     "3": {
       "player": "jarren duran",
       "pitcher": "ryne nelson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "2": {
       "player": "alex bregman",
