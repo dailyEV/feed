@@ -1733,7 +1733,7 @@
     "66": {
       "player": "andrew vaughn",
       "pitcher": "isaac mattson",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -2508,17 +2508,11 @@
     }
   },
   "chw @ det": {
-    "64": {
-      "player": "kerry carpenter",
-      "pitcher": "grant taylor",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "63": {
       "player": "gleyber torres",
       "pitcher": "grant taylor",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "62": {
       "player": "parker meadows",
@@ -2894,12 +2888,6 @@
     }
   },
   "phi @ mia": {
-    "65": {
-      "player": "brandon marsh",
-      "pitcher": "ronny henriquez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "64": {
       "player": "alec bohm",
       "pitcher": "ronny henriquez",
@@ -3286,6 +3274,12 @@
     }
   },
   "min @ kc": {
+    "53": {
+      "player": "matt wallner",
+      "pitcher": "daniel lynch",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "52": {
       "player": "austin martin",
       "pitcher": "daniel lynch",
@@ -4419,7 +4413,7 @@
     "23": {
       "player": "tyler freeman",
       "pitcher": "dylan cease",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "22": {
