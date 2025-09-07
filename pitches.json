@@ -2517,8 +2517,8 @@
     "60": {
       "player": "dylan beavers",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "59": {
       "player": "emmanuel rivera",
@@ -2870,6 +2870,12 @@
     }
   },
   "cle @ tb": {
+    "67": {
+      "player": "cj kayfus",
+      "pitcher": "pete fairbanks",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "66": {
       "player": "bo naylor",
       "pitcher": "pete fairbanks",
@@ -3648,6 +3654,12 @@
     }
   },
   "hou @ tex": {
+    "61": {
+      "player": "cam smith",
+      "pitcher": "hoby milner",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "60": {
       "player": "wyatt langford",
       "pitcher": "enyel de los santos",
@@ -4010,10 +4022,16 @@
     }
   },
   "min @ kc": {
+    "70": {
+      "player": "matt wallner",
+      "pitcher": "luinder avila",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "69": {
       "player": "luke keaschall",
       "pitcher": "luinder avila",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "68": {
@@ -5078,6 +5096,12 @@
     }
   },
   "sd @ col": {
+    "44": {
+      "player": "fernando tatis",
+      "pitcher": "jaden hill",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "43": {
       "player": "mason mccoy",
       "pitcher": "roansy contreras",
@@ -5341,8 +5365,8 @@
     "1": {
       "player": "shea langeliers",
       "pitcher": "yusei kikuchi",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     }
   }
 }
