@@ -958,6 +958,12 @@
     }
   },
   "lad @ bal": {
+    "68": {
+      "player": "ben rortvedt",
+      "pitcher": "rico garcia",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "67": {
       "player": "alex jackson",
       "pitcher": "justin wrobleski",
@@ -4055,8 +4061,8 @@
     "55": {
       "player": "brady house",
       "pitcher": "brad keller",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "luis garcia",
@@ -4387,7 +4393,7 @@
     "42": {
       "player": "cody freeman",
       "pitcher": "framber valdez",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "41": {
@@ -4802,6 +4808,12 @@
     }
   },
   "ath @ laa": {
+    "3": {
+      "player": "colby thomas",
+      "pitcher": "mitch farris",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "brent rooker",
       "pitcher": "mitch farris",
@@ -4815,5 +4827,12 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "bos @ ari": {}
+  "bos @ ari": {
+    "1": {
+      "player": "masataka yoshida",
+      "pitcher": "ryne nelson",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  }
 }
