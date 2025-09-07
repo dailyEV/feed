@@ -1,9 +1,15 @@
 {
   "sea @ atl": {
+    "77": {
+      "player": "cal raleigh",
+      "pitcher": "rolddy munoz",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "76": {
       "player": "randy arozarena",
       "pitcher": "rolddy munoz",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "75": {
@@ -901,8 +907,8 @@
     "32": {
       "player": "gunnar henderson",
       "pitcher": "clayton kershaw",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "ryan mountcastle",
@@ -1898,12 +1904,6 @@
     }
   },
   "phi @ mia": {
-    "37": {
-      "player": "max kepler",
-      "pitcher": "cade gibson",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "36": {
       "player": "agustin ramirez",
       "pitcher": "taijuan walker",
@@ -2339,8 +2339,8 @@
     "15": {
       "player": "kevin alcantara",
       "pitcher": "andrew alvarez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "matt shaw",
@@ -2428,6 +2428,12 @@
     }
   },
   "hou @ tex": {
+    "5": {
+      "player": "wyatt langford",
+      "pitcher": "framber valdez",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "4": {
       "player": "carlos correa",
       "pitcher": "patrick corbin",
