@@ -904,10 +904,22 @@
     }
   },
   "lad @ bal": {
+    "34": {
+      "player": "alex jackson",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
+    "33": {
+      "player": "emmanuel rivera",
+      "pitcher": "clayton kershaw",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "gunnar henderson",
       "pitcher": "clayton kershaw",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "31": {
@@ -1302,7 +1314,7 @@
       "player": "jake bauers",
       "pitcher": "colin holderman",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "34": {
       "player": "william contreras",
@@ -1510,6 +1522,12 @@
     }
   },
   "nym @ cin": {
+    "36": {
+      "player": "cedric mullins",
+      "pitcher": "hunter greene",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "matt mclain",
       "pitcher": "brandon sproat",
@@ -2152,12 +2170,6 @@
     }
   },
   "min @ kc": {
-    "20": {
-      "player": "austin martin",
-      "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "19": {
       "player": "luke maile",
       "pitcher": "bailey ober",
@@ -2274,6 +2286,12 @@
     }
   },
   "sf @ stl": {
+    "17": {
+      "player": "nathan church",
+      "pitcher": "kai wei teng",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "16": {
       "player": "jordan walker",
       "pitcher": "kai wei teng",
@@ -2464,6 +2482,18 @@
     }
   },
   "hou @ tex": {
+    "7": {
+      "player": "josh jung",
+      "pitcher": "framber valdez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
+    "6": {
+      "player": "cody freeman",
+      "pitcher": "framber valdez",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "wyatt langford",
       "pitcher": "framber valdez",
