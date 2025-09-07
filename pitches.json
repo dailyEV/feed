@@ -1299,7 +1299,7 @@
     "56": {
       "player": "trent grisham",
       "pitcher": "braydon fisher",
-      "result": "Foul Tip",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -1637,7 +1637,7 @@
     "58": {
       "player": "joey ortiz",
       "pitcher": "yohan ramirez",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "57": {
@@ -1984,6 +1984,12 @@
     }
   },
   "nym @ cin": {
+    "59": {
+      "player": "francisco lindor",
+      "pitcher": "tony santillan",
+      "result": "Called Strike",
+      "pitch": "Slurve"
+    },
     "58": {
       "player": "austin hays",
       "pitcher": "tyler rogers",
@@ -2681,7 +2687,7 @@
     "57": {
       "player": "kyle schwarber",
       "pitcher": "ronny henriquez",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "56": {
@@ -3282,11 +3288,17 @@
     }
   },
   "sf @ stl": {
+    "38": {
+      "player": "masyn winn",
+      "pitcher": "jose butto",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "nolan gorman",
       "pitcher": "jose butto",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "ivan herrera",
@@ -3754,6 +3766,12 @@
     }
   },
   "hou @ tex": {
+    "31": {
+      "player": "cam smith",
+      "pitcher": "patrick corbin",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "30": {
       "player": "yainer diaz",
       "pitcher": "patrick corbin",
@@ -3936,12 +3954,6 @@
     }
   },
   "sd @ col": {
-    "14": {
-      "player": "jordan beck",
-      "pitcher": "dylan cease",
-      "result": "Foul Bunt",
-      "pitch": "Slider"
-    },
     "13": {
       "player": "fernando tatis",
       "pitcher": "tanner gordon",
