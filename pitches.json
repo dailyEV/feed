@@ -1643,8 +1643,8 @@
     "69": {
       "player": "spencer steer",
       "pitcher": "kevin herget",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "68": {
       "player": "gavin lux",
@@ -2059,8 +2059,8 @@
     "65": {
       "player": "joey ortiz",
       "pitcher": "evan sisk",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "64": {
       "player": "blake perkins",
@@ -2390,7 +2390,7 @@
       "player": "andrew vaughn",
       "pitcher": "mitch keller",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Sweeper"
     },
     "9": {
       "player": "jake bauers",
@@ -2998,6 +2998,12 @@
     }
   },
   "sf @ stl": {
+    "46": {
+      "player": "nolan gorman",
+      "pitcher": "justin verlander",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "ivan herrera",
       "pitcher": "justin verlander",
@@ -3853,7 +3859,7 @@
     "49": {
       "player": "drake baldwin",
       "pitcher": "bryce miller",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "48": {
@@ -4146,6 +4152,12 @@
     }
   },
   "bos @ ari": {
+    "25": {
+      "player": "adrian del castillo",
+      "pitcher": "lucas giolito",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "blaze alexander",
       "pitcher": "lucas giolito",
@@ -4292,6 +4304,12 @@
     }
   },
   "sd @ col": {
+    "26": {
+      "player": "freddy fermin",
+      "pitcher": "angel chivilli",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "jake cronenworth",
       "pitcher": "angel chivilli",
