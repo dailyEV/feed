@@ -1921,7 +1921,7 @@
     "55": {
       "player": "mark vientos",
       "pitcher": "nick martinez",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "54": {
@@ -2253,7 +2253,7 @@
     "54": {
       "player": "zach mckinstry",
       "pitcher": "brandon eisert",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -2579,8 +2579,8 @@
     "56": {
       "player": "trea turner",
       "pitcher": "ronny henriquez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "55": {
       "player": "bryson stott",
@@ -2914,16 +2914,10 @@
     }
   },
   "min @ kc": {
-    "42": {
-      "player": "royce lewis",
-      "pitcher": "angel zerpa",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
-    },
     "41": {
       "player": "kody clemens",
       "pitcher": "angel zerpa",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "40": {
