@@ -3,8 +3,8 @@
     "52": {
       "player": "jurickson profar",
       "pitcher": "luis castillo",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "51": {
       "player": "nacho alvarez",
@@ -314,12 +314,6 @@
     }
   },
   "cle @ tb": {
-    "55": {
-      "player": "jose ramirez",
-      "pitcher": "griffin jax",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "54": {
       "player": "angel martinez",
       "pitcher": "griffin jax",
@@ -649,8 +643,8 @@
     "12": {
       "player": "ben rortvedt",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "enrique hernandez",
@@ -720,12 +714,6 @@
     }
   },
   "tor @ nyy": {
-    "12": {
-      "player": "ty france",
-      "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "11": {
       "player": "ernie clement",
       "pitcher": "max fried",
@@ -939,7 +927,7 @@
     "9": {
       "player": "riley greene",
       "pitcher": "davis martin",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "8": {
@@ -992,6 +980,12 @@
     }
   },
   "phi @ mia": {
+    "13": {
+      "player": "xavier edwards",
+      "pitcher": "taijuan walker",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "12": {
       "player": "victor mesa",
       "pitcher": "taijuan walker",
