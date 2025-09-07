@@ -1,9 +1,15 @@
 {
   "sea @ atl": {
+    "76": {
+      "player": "randy arozarena",
+      "pitcher": "rolddy munoz",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "75": {
       "player": "victor robles",
       "pitcher": "rolddy munoz",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "74": {
@@ -455,8 +461,8 @@
     "72": {
       "player": "josh lowe",
       "pitcher": "cade smith",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "everson pereira",
@@ -1262,6 +1268,12 @@
     }
   },
   "mil @ pit": {
+    "33": {
+      "player": "nick gonzales",
+      "pitcher": "jacob misiorowski",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "32": {
       "player": "bryan reynolds",
       "pitcher": "jacob misiorowski",
@@ -1668,11 +1680,23 @@
     }
   },
   "chw @ det": {
+    "31": {
+      "player": "chase meidroth",
+      "pitcher": "tyler holton",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "30": {
+      "player": "brooks baldwin",
+      "pitcher": "tyler holton",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "29": {
       "player": "will robertson",
       "pitcher": "tyler holton",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "spencer torkelson",
@@ -2181,7 +2205,7 @@
     "15": {
       "player": "andrew knizner",
       "pitcher": "sonny gray",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "14": {
@@ -2356,6 +2380,12 @@
     }
   },
   "hou @ tex": {
+    "5": {
+      "player": "wyatt langford",
+      "pitcher": "framber valdez",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "4": {
       "player": "carlos correa",
       "pitcher": "patrick corbin",
