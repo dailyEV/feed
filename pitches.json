@@ -1772,7 +1772,7 @@
       "player": "jeff mcneil",
       "pitcher": "hunter greene",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "47": {
       "player": "starling marte",
@@ -2058,11 +2058,23 @@
     }
   },
   "chw @ det": {
+    "45": {
+      "player": "kerry carpenter",
+      "pitcher": "davis martin",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "44": {
+      "player": "gleyber torres",
+      "pitcher": "davis martin",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "43": {
       "player": "parker meadows",
       "pitcher": "davis martin",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "will robertson",
@@ -2321,8 +2333,8 @@
     "50": {
       "player": "maximo acosta",
       "pitcher": "taijuan walker",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "49": {
       "player": "troy johnston",
@@ -2982,7 +2994,7 @@
       "player": "justin turner",
       "pitcher": "andrew alvarez",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "28": {
       "player": "dansby swanson",
@@ -3154,11 +3166,17 @@
     }
   },
   "hou @ tex": {
+    "18": {
+      "player": "jeremy pena",
+      "pitcher": "patrick corbin",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "17": {
       "player": "mauricio dubon",
       "pitcher": "patrick corbin",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "cam smith",
@@ -3261,7 +3279,7 @@
     "3": {
       "player": "manny machado",
       "pitcher": "tanner gordon",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "2": {
