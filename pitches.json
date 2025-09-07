@@ -718,6 +718,18 @@
     }
   },
   "lad @ bal": {
+    "21": {
+      "player": "alex call",
+      "pitcher": "tomoyuki sugano",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "20": {
+      "player": "michael conforto",
+      "pitcher": "tomoyuki sugano",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "19": {
       "player": "freddie freeman",
       "pitcher": "tomoyuki sugano",
@@ -959,7 +971,7 @@
     "19": {
       "player": "joey bart",
       "pitcher": "jacob misiorowski",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "18": {
@@ -1301,7 +1313,7 @@
     "21": {
       "player": "otto lopez",
       "pitcher": "taijuan walker",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Splitter"
     },
     "20": {
@@ -1451,7 +1463,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "sf @ stl": {},
+  "sf @ stl": {
+    "1": {
+      "player": "heliot ramos",
+      "pitcher": "sonny gray",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "wsh @ chc": {},
   "hou @ tex": {},
   "sd @ col": {},
