@@ -1978,11 +1978,17 @@
     }
   },
   "mil @ pit": {
+    "55": {
+      "player": "brice turang",
+      "pitcher": "evan sisk",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "54": {
       "player": "jackson chourio",
       "pitcher": "evan sisk",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "53": {
       "player": "sal frelick",
@@ -2496,7 +2502,7 @@
       "player": "daniel schneemann",
       "pitcher": "garrett cleavinger",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Slider"
     },
     "40": {
       "player": "nolan jones",
@@ -2743,8 +2749,8 @@
     "35": {
       "player": "rafael devers",
       "pitcher": "andre pallante",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "34": {
       "player": "jung hoo lee",
@@ -2955,8 +2961,8 @@
     "36": {
       "player": "jake meyers",
       "pitcher": "jacob degrom",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "35": {
       "player": "ezequiel duran",
@@ -3418,12 +3424,6 @@
     }
   },
   "sea @ atl": {
-    "39": {
-      "player": "sean murphy",
-      "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "38": {
       "player": "josh naylor",
       "pitcher": "hurston waldrep",
@@ -3657,8 +3657,8 @@
     "13": {
       "player": "alek thomas",
       "pitcher": "lucas giolito",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "12": {
       "player": "james mccann",
