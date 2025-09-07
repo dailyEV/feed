@@ -3,7 +3,7 @@
     "66": {
       "player": "cole young",
       "pitcher": "rolddy munoz",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "65": {
@@ -951,8 +951,8 @@
     "25": {
       "player": "trent grisham",
       "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "24": {
       "player": "ty france",
@@ -1100,6 +1100,12 @@
     }
   },
   "mil @ pit": {
+    "27": {
+      "player": "joey ortiz",
+      "pitcher": "bubba chandler",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "26": {
       "player": "danny jansen",
       "pitcher": "bubba chandler",
@@ -1413,8 +1419,8 @@
     "23": {
       "player": "colson montgomery",
       "pitcher": "charlie morton",
-      "result": "In play, no out",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "22": {
       "player": "lenyn sosa",
@@ -1708,11 +1714,17 @@
     }
   },
   "min @ kc": {
+    "12": {
+      "player": "randal grichuk",
+      "pitcher": "bailey ober",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "11": {
       "player": "salvador perez",
       "pitcher": "bailey ober",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "edouard julien",
@@ -1779,8 +1791,8 @@
     "7": {
       "player": "dominic smith",
       "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "6": {
       "player": "nolan gorman",
