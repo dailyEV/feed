@@ -2055,8 +2055,8 @@
     "43": {
       "player": "parker meadows",
       "pitcher": "davis martin",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "will robertson",
@@ -2614,18 +2614,6 @@
     }
   },
   "min @ kc": {
-    "32": {
-      "player": "byron buxton",
-      "pitcher": "michael lorenzen",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
-    "31": {
-      "player": "jhonny pereda",
-      "pitcher": "michael lorenzen",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
     "30": {
       "player": "brooks lee",
       "pitcher": "michael lorenzen",
@@ -2808,11 +2796,17 @@
     }
   },
   "sf @ stl": {
+    "27": {
+      "player": "thomas saggese",
+      "pitcher": "kai wei teng",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "26": {
       "player": "masyn winn",
       "pitcher": "kai wei teng",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "nolan gorman",
@@ -2966,6 +2960,12 @@
     }
   },
   "wsh @ chc": {
+    "29": {
+      "player": "justin turner",
+      "pitcher": "andrew alvarez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "dansby swanson",
       "pitcher": "andrew alvarez",
@@ -3139,8 +3139,8 @@
     "17": {
       "player": "mauricio dubon",
       "pitcher": "patrick corbin",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "16": {
       "player": "cam smith",
@@ -3244,7 +3244,7 @@
       "player": "luis arraez",
       "pitcher": "tanner gordon",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "1": {
       "player": "fernando tatis",
