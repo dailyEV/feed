@@ -2376,6 +2376,12 @@
     }
   },
   "lad @ bal": {
+    "36": {
+      "player": "emmanuel rivera",
+      "pitcher": "yoshinobu yamamoto",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "colton cowser",
       "pitcher": "yoshinobu yamamoto",
@@ -2588,11 +2594,17 @@
     }
   },
   "cle @ tb": {
+    "48": {
+      "player": "cj kayfus",
+      "pitcher": "bryan baker",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "47": {
       "player": "bo naylor",
       "pitcher": "bryan baker",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "46": {
       "player": "brandon lowe",
@@ -3117,8 +3129,8 @@
     "42": {
       "player": "joc pederson",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "41": {
       "player": "wyatt langford",
@@ -3371,7 +3383,7 @@
     "46": {
       "player": "byron buxton",
       "pitcher": "stephen kolek",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "Cutter"
     },
     "45": {
@@ -3915,7 +3927,7 @@
     "20": {
       "player": "nate eaton",
       "pitcher": "brandon pfaadt",
-      "result": "In play, no out",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "19": {
@@ -4034,12 +4046,6 @@
     }
   },
   "sd @ col": {
-    "21": {
-      "player": "kyle karros",
-      "pitcher": "randy vasquez",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "20": {
       "player": "ezequiel tovar",
       "pitcher": "randy vasquez",
