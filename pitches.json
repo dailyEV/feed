@@ -2517,7 +2517,7 @@
     "61": {
       "player": "ben rortvedt",
       "pitcher": "albert suarez",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "60": {
@@ -3678,6 +3678,12 @@
     }
   },
   "hou @ tex": {
+    "62": {
+      "player": "victor caratini",
+      "pitcher": "hoby milner",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "61": {
       "player": "cam smith",
       "pitcher": "hoby milner",
@@ -4887,8 +4893,8 @@
     "45": {
       "player": "nathaniel lowe",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "44": {
       "player": "trevor story",
@@ -5156,10 +5162,16 @@
     }
   },
   "sd @ col": {
+    "46": {
+      "player": "manny machado",
+      "pitcher": "jaden hill",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "45": {
       "player": "luis arraez",
       "pitcher": "jaden hill",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -5431,7 +5443,7 @@
     "2": {
       "player": "brent rooker",
       "pitcher": "yusei kikuchi",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "1": {
