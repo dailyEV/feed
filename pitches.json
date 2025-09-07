@@ -961,8 +961,8 @@
     "72": {
       "player": "michael conforto",
       "pitcher": "rico garcia",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "71": {
       "player": "freddie freeman",
@@ -1805,7 +1805,7 @@
     "74": {
       "player": "blake perkins",
       "pitcher": "dennis santana",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "73": {
@@ -3487,7 +3487,7 @@
     "60": {
       "player": "edouard julien",
       "pitcher": "sam long",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "59": {
@@ -3850,7 +3850,7 @@
       "player": "heliot ramos",
       "pitcher": "matt svanson",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sinker"
     },
     "55": {
       "player": "patrick bailey",
@@ -4187,7 +4187,7 @@
     "60": {
       "player": "dansby swanson",
       "pitcher": "mason thompson",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "59": {
@@ -4546,6 +4546,12 @@
     }
   },
   "hou @ tex": {
+    "46": {
+      "player": "christian walker",
+      "pitcher": "phil maton",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "45": {
       "player": "kyle higashioka",
       "pitcher": "framber valdez",
@@ -5006,6 +5012,12 @@
     }
   },
   "ath @ laa": {
+    "7": {
+      "player": "jo adell",
+      "pitcher": "luis severino",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "taylor ward",
       "pitcher": "luis severino",
@@ -5044,12 +5056,6 @@
     }
   },
   "bos @ ari": {
-    "4": {
-      "player": "geraldo perdomo",
-      "pitcher": "brayan bello",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "3": {
       "player": "jarren duran",
       "pitcher": "ryne nelson",
