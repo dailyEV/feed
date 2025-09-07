@@ -1,5 +1,11 @@
 {
   "sea @ atl": {
+    "50": {
+      "player": "marcell ozuna",
+      "pitcher": "luis castillo",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "jorge polanco",
       "pitcher": "hayden harris",
@@ -607,7 +613,7 @@
     "10": {
       "player": "hyeseong kim",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "9": {
@@ -666,6 +672,12 @@
     }
   },
   "tor @ nyy": {
+    "10": {
+      "player": "alejandro kirk",
+      "pitcher": "max fried",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "9": {
       "player": "jazz chisholm",
       "pitcher": "max scherzer",
@@ -725,8 +737,8 @@
     "9": {
       "player": "spencer horwitz",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "jared triolo",
@@ -876,7 +888,7 @@
       "player": "troy johnston",
       "pitcher": "taijuan walker",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sinker"
     },
     "9": {
       "player": "heriberto hernandez",
