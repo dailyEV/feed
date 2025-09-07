@@ -1,5 +1,11 @@
 {
   "sea @ atl": {
+    "65": {
+      "player": "eugenio suarez",
+      "pitcher": "rolddy munoz",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "dominic canzone",
       "pitcher": "rolddy munoz",
@@ -775,8 +781,8 @@
     "25": {
       "player": "miguel rojas",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "24": {
       "player": "jeremiah jackson",
@@ -1231,7 +1237,7 @@
     "24": {
       "player": "starling marte",
       "pitcher": "hunter greene",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "23": {
@@ -1760,6 +1766,12 @@
     }
   },
   "wsh @ chc": {
+    "6": {
+      "player": "seiya suzuki",
+      "pitcher": "andrew alvarez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "ian happ",
       "pitcher": "andrew alvarez",
