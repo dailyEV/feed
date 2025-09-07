@@ -1987,7 +1987,7 @@
     "60": {
       "player": "juan soto",
       "pitcher": "tony santillan",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -3037,7 +3037,7 @@
     "44": {
       "player": "mike yastrzemski",
       "pitcher": "bailey ober",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -3303,7 +3303,7 @@
     "39": {
       "player": "thomas saggese",
       "pitcher": "jose butto",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -3536,6 +3536,12 @@
     }
   },
   "wsh @ chc": {
+    "43": {
+      "player": "james wood",
+      "pitcher": "colin rea",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "42": {
       "player": "cj abrams",
       "pitcher": "colin rea",
@@ -3981,8 +3987,8 @@
     "15": {
       "player": "brenton doyle",
       "pitcher": "dylan cease",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "14": {
       "player": "jordan beck",
