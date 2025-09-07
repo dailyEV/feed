@@ -1260,17 +1260,11 @@
     }
   },
   "chw @ det": {
-    "62": {
-      "player": "chase meidroth",
-      "pitcher": "rafael montero",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "61": {
       "player": "dominic fletcher",
       "pitcher": "rafael montero",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "dillon dingler",
@@ -2229,7 +2223,7 @@
     "28": {
       "player": "ryan mountcastle",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "27": {
@@ -2781,7 +2775,7 @@
     "30": {
       "player": "christian walker",
       "pitcher": "jacob degrom",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -3163,8 +3157,8 @@
     "32": {
       "player": "ha seong kim",
       "pitcher": "bryce miller",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "drake baldwin",
@@ -3398,6 +3392,12 @@
     }
   },
   "sd @ col": {
+    "9": {
+      "player": "jackson merrill",
+      "pitcher": "mccade brown",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "ramon laureano",
       "pitcher": "mccade brown",
