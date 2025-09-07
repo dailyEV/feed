@@ -961,8 +961,8 @@
     "48": {
       "player": "gunnar henderson",
       "pitcher": "clayton kershaw",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "47": {
       "player": "ryan mountcastle",
@@ -1538,6 +1538,12 @@
     }
   },
   "mil @ pit": {
+    "51": {
+      "player": "bryan reynolds",
+      "pitcher": "jacob misiorowski",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "50": {
       "player": "spencer horwitz",
       "pitcher": "jacob misiorowski",
@@ -1843,7 +1849,7 @@
     "52": {
       "player": "tj friedl",
       "pitcher": "reed garrett",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "51": {
@@ -3006,16 +3012,10 @@
     }
   },
   "sf @ stl": {
-    "31": {
-      "player": "casey schmitt",
-      "pitcher": "sonny gray",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "30": {
       "player": "jung hoo lee",
       "pitcher": "sonny gray",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "29": {
@@ -3403,8 +3403,8 @@
     "22": {
       "player": "yordan alvarez",
       "pitcher": "patrick corbin",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "cody freeman",
