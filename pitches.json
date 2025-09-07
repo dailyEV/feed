@@ -3,8 +3,8 @@
     "63": {
       "player": "cal raleigh",
       "pitcher": "rolddy munoz",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "randy arozarena",
@@ -1178,7 +1178,7 @@
       "player": "starling marte",
       "pitcher": "hunter greene",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "23": {
       "player": "brandon nimmo",
@@ -1323,8 +1323,8 @@
     "21": {
       "player": "gleyber torres",
       "pitcher": "davis martin",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Foul Tip",
+      "pitch": "Sinker"
     },
     "20": {
       "player": "parker meadows",
@@ -1594,6 +1594,18 @@
     }
   },
   "min @ kc": {
+    "10": {
+      "player": "edouard julien",
+      "pitcher": "michael lorenzen",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "9": {
+      "player": "royce lewis",
+      "pitcher": "michael lorenzen",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "8": {
       "player": "kody clemens",
       "pitcher": "michael lorenzen",
@@ -1676,6 +1688,12 @@
     }
   },
   "wsh @ chc": {
+    "4": {
+      "player": "nico hoerner",
+      "pitcher": "andrew alvarez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "riley adams",
       "pitcher": "drew pomeranz",
