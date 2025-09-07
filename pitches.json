@@ -1999,8 +1999,8 @@
     "58": {
       "player": "andrew vaughn",
       "pitcher": "evan sisk",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "57": {
       "player": "danny jansen",
@@ -2349,8 +2349,8 @@
     "34": {
       "player": "teoscar hernandez",
       "pitcher": "trevor rogers",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "mookie betts",
@@ -2821,8 +2821,8 @@
     "38": {
       "player": "victor scott",
       "pitcher": "justin verlander",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "jordan walker",
@@ -3547,7 +3547,7 @@
     "41": {
       "player": "jurickson profar",
       "pitcher": "bryce miller",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -3792,6 +3792,12 @@
     }
   },
   "bos @ ari": {
+    "17": {
+      "player": "ketel marte",
+      "pitcher": "lucas giolito",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "geraldo perdomo",
       "pitcher": "lucas giolito",
