@@ -1034,6 +1034,12 @@
     }
   },
   "mil @ pit": {
+    "24": {
+      "player": "caleb durbin",
+      "pitcher": "bubba chandler",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "andrew vaughn",
       "pitcher": "bubba chandler",
@@ -1177,8 +1183,8 @@
     "24": {
       "player": "starling marte",
       "pitcher": "hunter greene",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "brandon nimmo",
@@ -1656,11 +1662,17 @@
     }
   },
   "sf @ stl": {
-    "5": {
-      "player": "ivan herrera",
+    "6": {
+      "player": "nolan gorman",
       "pitcher": "kai wei teng",
       "result": "Called Strike",
       "pitch": "Sweeper"
+    },
+    "5": {
+      "player": "ivan herrera",
+      "pitcher": "kai wei teng",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "lars nootbaar",
@@ -1688,12 +1700,6 @@
     }
   },
   "wsh @ chc": {
-    "4": {
-      "player": "nico hoerner",
-      "pitcher": "andrew alvarez",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "3": {
       "player": "riley adams",
       "pitcher": "drew pomeranz",
