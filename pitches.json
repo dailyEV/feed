@@ -565,7 +565,7 @@
     "5": {
       "player": "alex call",
       "pitcher": "tomoyuki sugano",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "4": {
@@ -597,7 +597,7 @@
     "4": {
       "player": "trent grisham",
       "pitcher": "max scherzer",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -623,8 +623,8 @@
     "4": {
       "player": "jake bauers",
       "pitcher": "bubba chandler",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "3": {
       "player": "william contreras",
@@ -646,6 +646,12 @@
     }
   },
   "nym @ cin": {
+    "3": {
+      "player": "pete alonso",
+      "pitcher": "hunter greene",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "juan soto",
       "pitcher": "hunter greene",
@@ -660,6 +666,12 @@
     }
   },
   "chw @ det": {
+    "3": {
+      "player": "lenyn sosa",
+      "pitcher": "charlie morton",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "kyle teel",
       "pitcher": "charlie morton",
@@ -678,7 +690,7 @@
       "player": "kyle schwarber",
       "pitcher": "tyler phillips",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Sweeper"
     },
     "1": {
       "player": "trea turner",
