@@ -1,11 +1,5 @@
 {
   "sea @ atl": {
-    "57": {
-      "player": "victor robles",
-      "pitcher": "hayden harris",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "56": {
       "player": "leo rivas",
       "pitcher": "hayden harris",
@@ -347,8 +341,8 @@
     "57": {
       "player": "carson williams",
       "pitcher": "matt festa",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "richie palacios",
@@ -789,8 +783,8 @@
     "18": {
       "player": "ryan mcmahon",
       "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "17": {
       "player": "anthony volpe",
@@ -1092,11 +1086,17 @@
     }
   },
   "chw @ det": {
+    "15": {
+      "player": "chase meidroth",
+      "pitcher": "charlie morton",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "brooks baldwin",
       "pitcher": "charlie morton",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "13": {
       "player": "will robertson",
@@ -1178,11 +1178,17 @@
     }
   },
   "phi @ mia": {
+    "18": {
+      "player": "rafael marchan",
+      "pitcher": "tyler phillips",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "17": {
       "player": "max kepler",
       "pitcher": "tyler phillips",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "16": {
       "player": "nick castellanos",
