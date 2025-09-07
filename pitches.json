@@ -1,10 +1,16 @@
 {
   "sea @ atl": {
-    "73": {
-      "player": "harry ford",
+    "74": {
+      "player": "leo rivas",
       "pitcher": "rolddy munoz",
       "result": "Ball",
       "pitch": "Slider"
+    },
+    "73": {
+      "player": "harry ford",
+      "pitcher": "rolddy munoz",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
     },
     "72": {
       "player": "luke raley",
@@ -871,8 +877,8 @@
     "30": {
       "player": "mookie betts",
       "pitcher": "grant wolfram",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "29": {
       "player": "shohei ohtani",
@@ -1050,6 +1056,12 @@
     }
   },
   "tor @ nyy": {
+    "31": {
+      "player": "nathan lukes",
+      "pitcher": "max fried",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "30": {
       "player": "isiah kiner falefa",
       "pitcher": "max fried",
@@ -1426,6 +1438,12 @@
     }
   },
   "nym @ cin": {
+    "34": {
+      "player": "kebryan hayes",
+      "pitcher": "brandon sproat",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "tyler stephenson",
       "pitcher": "brandon sproat",
@@ -1626,6 +1644,12 @@
     }
   },
   "chw @ det": {
+    "29": {
+      "player": "will robertson",
+      "pitcher": "tyler holton",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "spencer torkelson",
       "pitcher": "davis martin",
@@ -1999,8 +2023,8 @@
     "18": {
       "player": "kyle isbel",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "17": {
       "player": "nick loftin",
@@ -2106,6 +2130,12 @@
     }
   },
   "sf @ stl": {
+    "14": {
+      "player": "drew gilbert",
+      "pitcher": "sonny gray",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "13": {
       "player": "casey schmitt",
       "pitcher": "sonny gray",
@@ -2190,7 +2220,7 @@
       "player": "justin turner",
       "pitcher": "andrew alvarez",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Curveball"
     },
     "12": {
       "player": "dansby swanson",
@@ -2266,6 +2296,12 @@
     }
   },
   "hou @ tex": {
+    "4": {
+      "player": "carlos correa",
+      "pitcher": "patrick corbin",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "3": {
       "player": "jose altuve",
       "pitcher": "patrick corbin",
