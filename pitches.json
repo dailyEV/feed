@@ -958,12 +958,6 @@
     }
   },
   "lad @ bal": {
-    "40": {
-      "player": "coby mayo",
-      "pitcher": "clayton kershaw",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "39": {
       "player": "dylan carlson",
       "pitcher": "clayton kershaw",
@@ -1699,8 +1693,8 @@
     "44": {
       "player": "sal stewart",
       "pitcher": "brandon sproat",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "gavin lux",
@@ -1962,11 +1956,17 @@
     }
   },
   "chw @ det": {
+    "41": {
+      "player": "curtis mead",
+      "pitcher": "troy melton",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "40": {
       "player": "andrew benintendi",
       "pitcher": "troy melton",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "39": {
       "player": "colson montgomery",
@@ -2207,7 +2207,7 @@
     "44": {
       "player": "kyle schwarber",
       "pitcher": "calvin faucher",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "43": {
@@ -2473,8 +2473,8 @@
     "28": {
       "player": "salvador perez",
       "pitcher": "bailey ober",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "27": {
       "player": "vinnie pasquantino",
@@ -2923,8 +2923,8 @@
     "14": {
       "player": "jonah heim",
       "pitcher": "framber valdez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "13": {
       "player": "dylan moore",
