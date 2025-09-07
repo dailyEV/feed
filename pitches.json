@@ -961,8 +961,8 @@
     "68": {
       "player": "ben rortvedt",
       "pitcher": "rico garcia",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "67": {
       "player": "alex jackson",
@@ -1371,7 +1371,7 @@
     "68": {
       "player": "myles straw",
       "pitcher": "david bednar",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -2999,8 +2999,8 @@
     "69": {
       "player": "javier sanoja",
       "pitcher": "tim mayza",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
     },
     "68": {
       "player": "maximo acosta",
@@ -3412,6 +3412,12 @@
     }
   },
   "min @ kc": {
+    "57": {
+      "player": "nick loftin",
+      "pitcher": "cole sands",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "56": {
       "player": "michael massey",
       "pitcher": "cole sands",
@@ -4405,8 +4411,8 @@
     "43": {
       "player": "josh jung",
       "pitcher": "framber valdez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "cody freeman",
@@ -4662,11 +4668,17 @@
     }
   },
   "sd @ col": {
+    "30": {
+      "player": "freddy fermin",
+      "pitcher": "tanner gordon",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "29": {
       "player": "jake cronenworth",
       "pitcher": "tanner gordon",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "jackson merrill",
@@ -4841,8 +4853,8 @@
     "3": {
       "player": "colby thomas",
       "pitcher": "mitch farris",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "brent rooker",
