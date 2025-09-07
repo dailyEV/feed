@@ -1620,7 +1620,7 @@
       "player": "brett baty",
       "pitcher": "brady singer",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "45": {
       "player": "mark vientos",
@@ -2175,8 +2175,8 @@
     "25": {
       "player": "andy pages",
       "pitcher": "trevor rogers",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "24": {
       "player": "alex call",
@@ -2324,10 +2324,16 @@
     }
   },
   "cle @ tb": {
+    "33": {
+      "player": "george valera",
+      "pitcher": "shane baz",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "steven kwan",
       "pitcher": "shane baz",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Cutter"
     },
     "31": {
@@ -2518,11 +2524,17 @@
     }
   },
   "sf @ stl": {
+    "26": {
+      "player": "drew gilbert",
+      "pitcher": "andre pallante",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "25": {
       "player": "casey schmitt",
       "pitcher": "andre pallante",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "24": {
       "player": "matt chapman",
@@ -2670,12 +2682,6 @@
     }
   },
   "hou @ tex": {
-    "27": {
-      "player": "carlos correa",
-      "pitcher": "jacob degrom",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "26": {
       "player": "dustin harris",
       "pitcher": "hunter brown",
@@ -3171,8 +3177,8 @@
     "4": {
       "player": "geraldo perdomo",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "3": {
       "player": "jarren duran",
