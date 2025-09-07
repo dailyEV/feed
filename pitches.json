@@ -1329,7 +1329,7 @@
     "60": {
       "player": "ernie clement",
       "pitcher": "devin williams",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "59": {
@@ -1691,7 +1691,7 @@
     "61": {
       "player": "joey bart",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "60": {
@@ -2798,6 +2798,12 @@
     }
   },
   "phi @ mia": {
+    "61": {
+      "player": "liam hicks",
+      "pitcher": "jose alvarado",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
     "60": {
       "player": "otto lopez",
       "pitcher": "jose alvarado",
@@ -3447,8 +3453,8 @@
     "43": {
       "player": "rafael devers",
       "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "heliot ramos",
@@ -3982,6 +3988,12 @@
     }
   },
   "hou @ tex": {
+    "36": {
+      "player": "jeremy pena",
+      "pitcher": "patrick corbin",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "35": {
       "player": "mauricio dubon",
       "pitcher": "patrick corbin",
