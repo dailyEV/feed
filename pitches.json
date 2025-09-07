@@ -1517,8 +1517,8 @@
     "49": {
       "player": "william contreras",
       "pitcher": "dauri moreta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "48": {
       "player": "isaac collins",
@@ -2910,6 +2910,12 @@
     }
   },
   "sf @ stl": {
+    "30": {
+      "player": "jung hoo lee",
+      "pitcher": "sonny gray",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "29": {
       "player": "matt chapman",
       "pitcher": "sonny gray",
@@ -3274,17 +3280,11 @@
     }
   },
   "hou @ tex": {
-    "21": {
-      "player": "cody freeman",
-      "pitcher": "framber valdez",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "20": {
       "player": "wyatt langford",
       "pitcher": "framber valdez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "19": {
       "player": "ezequiel duran",
@@ -3402,6 +3402,12 @@
     }
   },
   "sd @ col": {
+    "5": {
+      "player": "ramon laureano",
+      "pitcher": "tanner gordon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "ryan ohearn",
       "pitcher": "tanner gordon",
