@@ -697,8 +697,8 @@
     "18": {
       "player": "mookie betts",
       "pitcher": "tomoyuki sugano",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "shohei ohtani",
@@ -807,7 +807,7 @@
     "19": {
       "player": "george springer",
       "pitcher": "max fried",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -923,7 +923,7 @@
     "18": {
       "player": "oneil cruz",
       "pitcher": "jacob misiorowski",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "17": {
@@ -1238,6 +1238,12 @@
     }
   },
   "phi @ mia": {
+    "20": {
+      "player": "agustin ramirez",
+      "pitcher": "taijuan walker",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "19": {
       "player": "jakob marsee",
       "pitcher": "taijuan walker",
@@ -1354,6 +1360,12 @@
     }
   },
   "min @ kc": {
+    "3": {
+      "player": "matt wallner",
+      "pitcher": "michael lorenzen",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "austin martin",
       "pitcher": "michael lorenzen",
