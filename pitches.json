@@ -958,12 +958,6 @@
     }
   },
   "lad @ bal": {
-    "39": {
-      "player": "dylan carlson",
-      "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "38": {
       "player": "miguel rojas",
       "pitcher": "grant wolfram",
@@ -1197,8 +1191,8 @@
     "39": {
       "player": "vladimir guerrero",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "38": {
       "player": "davis schneider",
@@ -1430,6 +1424,12 @@
     }
   },
   "mil @ pit": {
+    "41": {
+      "player": "blake perkins",
+      "pitcher": "dauri moreta",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "40": {
       "player": "joey bart",
       "pitcher": "jacob misiorowski",
@@ -1936,7 +1936,7 @@
       "player": "andrew benintendi",
       "pitcher": "troy melton",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Cutter"
     },
     "39": {
       "player": "colson montgomery",
@@ -2604,6 +2604,12 @@
     }
   },
   "sf @ stl": {
+    "23": {
+      "player": "dominic smith",
+      "pitcher": "sonny gray",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "22": {
       "player": "willy adames",
       "pitcher": "sonny gray",
@@ -2738,6 +2744,12 @@
     }
   },
   "wsh @ chc": {
+    "23": {
+      "player": "carson kelly",
+      "pitcher": "andrew alvarez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "22": {
       "player": "seiya suzuki",
       "pitcher": "andrew alvarez",
@@ -2875,7 +2887,7 @@
     "13": {
       "player": "dylan moore",
       "pitcher": "framber valdez",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "12": {
