@@ -2659,8 +2659,8 @@
     "30": {
       "player": "nolan gorman",
       "pitcher": "justin verlander",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "29": {
       "player": "ivan herrera",
@@ -2841,8 +2841,8 @@
     "32": {
       "player": "josh jung",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
     },
     "31": {
       "player": "yainer diaz",
@@ -3453,7 +3453,7 @@
     "9": {
       "player": "nathaniel lowe",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "8": {
@@ -3506,6 +3506,12 @@
     }
   },
   "sd @ col": {
+    "12": {
+      "player": "mason mccoy",
+      "pitcher": "mccade brown",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "freddy fermin",
       "pitcher": "mccade brown",
