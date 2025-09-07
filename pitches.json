@@ -961,7 +961,7 @@
     "56": {
       "player": "alex call",
       "pitcher": "keegan akin",
-      "result": "Foul Tip",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -1299,8 +1299,8 @@
     "55": {
       "player": "ryan mcmahon",
       "pitcher": "braydon fisher",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "54": {
       "player": "anthony volpe",
@@ -1628,6 +1628,12 @@
     }
   },
   "mil @ pit": {
+    "58": {
+      "player": "joey ortiz",
+      "pitcher": "yohan ramirez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "57": {
       "player": "danny jansen",
       "pitcher": "yohan ramirez",
@@ -3736,12 +3742,6 @@
     }
   },
   "hou @ tex": {
-    "30": {
-      "player": "yainer diaz",
-      "pitcher": "patrick corbin",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
     "29": {
       "player": "jake meyers",
       "pitcher": "patrick corbin",
