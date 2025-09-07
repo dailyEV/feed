@@ -1970,7 +1970,7 @@
       "player": "sal frelick",
       "pitcher": "evan sisk",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "52": {
       "player": "joey ortiz",
@@ -3125,8 +3125,8 @@
     "39": {
       "player": "adam frazier",
       "pitcher": "thomas hatch",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "38": {
       "player": "mickey gasper",
@@ -3361,7 +3361,7 @@
     "38": {
       "player": "josh naylor",
       "pitcher": "hurston waldrep",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "37": {
@@ -3588,6 +3588,12 @@
     }
   },
   "bos @ ari": {
+    "12": {
+      "player": "james mccann",
+      "pitcher": "lucas giolito",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "11": {
       "player": "adrian del castillo",
       "pitcher": "lucas giolito",
@@ -3659,8 +3665,8 @@
     "15": {
       "player": "manny machado",
       "pitcher": "mccade brown",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "14": {
       "player": "luis arraez",
