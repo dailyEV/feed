@@ -931,7 +931,7 @@
     "35": {
       "player": "freddie freeman",
       "pitcher": "grant wolfram",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -1143,7 +1143,7 @@
     "36": {
       "player": "anthony volpe",
       "pitcher": "max scherzer",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "35": {
@@ -2048,6 +2048,12 @@
     }
   },
   "phi @ mia": {
+    "42": {
+      "player": "heriberto hernandez",
+      "pitcher": "taijuan walker",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "liam hicks",
       "pitcher": "taijuan walker",
@@ -2296,11 +2302,17 @@
     }
   },
   "min @ kc": {
+    "24": {
+      "player": "royce lewis",
+      "pitcher": "michael lorenzen",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "kody clemens",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "22": {
       "player": "luke keaschall",
