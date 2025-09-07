@@ -1365,7 +1365,7 @@
     "67": {
       "player": "nathan lukes",
       "pitcher": "david bednar",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -2975,7 +2975,7 @@
     "68": {
       "player": "maximo acosta",
       "pitcher": "tim mayza",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "67": {
@@ -3711,8 +3711,8 @@
     "52": {
       "player": "jose fermin",
       "pitcher": "spencer bivens",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "51": {
       "player": "nathan church",
@@ -4022,6 +4022,12 @@
     }
   },
   "wsh @ chc": {
+    "55": {
+      "player": "brady house",
+      "pitcher": "brad keller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "54": {
       "player": "luis garcia",
       "pitcher": "brad keller",
@@ -4348,6 +4354,12 @@
     }
   },
   "hou @ tex": {
+    "42": {
+      "player": "cody freeman",
+      "pitcher": "framber valdez",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "wyatt langford",
       "pitcher": "framber valdez",
@@ -4596,6 +4608,12 @@
     }
   },
   "sd @ col": {
+    "27": {
+      "player": "gavin sheets",
+      "pitcher": "tanner gordon",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
+    },
     "26": {
       "player": "ramon laureano",
       "pitcher": "tanner gordon",
@@ -4757,8 +4775,8 @@
     "2": {
       "player": "brent rooker",
       "pitcher": "mitch farris",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "1": {
       "player": "nick kurtz",
