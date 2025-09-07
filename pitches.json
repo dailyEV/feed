@@ -1371,8 +1371,8 @@
     "68": {
       "player": "myles straw",
       "pitcher": "david bednar",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "nathan lukes",
@@ -1781,7 +1781,7 @@
     "71": {
       "player": "nick yorke",
       "pitcher": "joel payamps",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "70": {
@@ -2586,6 +2586,12 @@
     }
   },
   "chw @ det": {
+    "68": {
+      "player": "lenyn sosa",
+      "pitcher": "will vest",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "67": {
       "player": "kyle teel",
       "pitcher": "tommy kahnle",
@@ -2993,8 +2999,8 @@
     "69": {
       "player": "javier sanoja",
       "pitcher": "tim mayza",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "68": {
       "player": "maximo acosta",
@@ -3410,7 +3416,7 @@
       "player": "michael massey",
       "pitcher": "cole sands",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "55": {
       "player": "randal grichuk",
@@ -4058,6 +4064,12 @@
     }
   },
   "wsh @ chc": {
+    "56": {
+      "player": "dylan crews",
+      "pitcher": "brad keller",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "55": {
       "player": "brady house",
       "pitcher": "brad keller",
@@ -4390,6 +4402,12 @@
     }
   },
   "hou @ tex": {
+    "43": {
+      "player": "josh jung",
+      "pitcher": "framber valdez",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "42": {
       "player": "cody freeman",
       "pitcher": "framber valdez",
@@ -4823,7 +4841,7 @@
     "3": {
       "player": "colby thomas",
       "pitcher": "mitch farris",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "2": {
