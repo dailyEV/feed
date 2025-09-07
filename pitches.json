@@ -1260,16 +1260,10 @@
     }
   },
   "tor @ nyy": {
-    "52": {
-      "player": "myles straw",
-      "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "51": {
       "player": "nathan lukes",
       "pitcher": "max fried",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Sweeper"
     },
     "50": {
@@ -1900,6 +1894,18 @@
     }
   },
   "nym @ cin": {
+    "54": {
+      "player": "brett baty",
+      "pitcher": "nick martinez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "53": {
+      "player": "francisco alvarez",
+      "pitcher": "nick martinez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "tj friedl",
       "pitcher": "reed garrett",
@@ -3099,7 +3105,7 @@
     "33": {
       "player": "nathan church",
       "pitcher": "kai wei teng",
-      "result": "Foul Bunt",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "32": {
@@ -3523,8 +3529,8 @@
     "25": {
       "player": "josh jung",
       "pitcher": "framber valdez",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "24": {
       "player": "carlos correa",
@@ -3675,8 +3681,8 @@
     "9": {
       "player": "gavin sheets",
       "pitcher": "tanner gordon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "8": {
       "player": "mickey moniak",
