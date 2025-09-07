@@ -3134,11 +3134,17 @@
     }
   },
   "phi @ mia": {
+    "77": {
+      "player": "kyle schwarber",
+      "pitcher": "lake bachar",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "76": {
       "player": "harrison bader",
       "pitcher": "lake bachar",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "75": {
       "player": "bryson stott",
@@ -3595,8 +3601,8 @@
     "64": {
       "player": "maikel garcia",
       "pitcher": "kody funderburk",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
     },
     "63": {
       "player": "mike yastrzemski",
@@ -3981,8 +3987,8 @@
     "60": {
       "player": "thomas saggese",
       "pitcher": "joel peguero",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "59": {
       "player": "masyn winn",
@@ -4340,6 +4346,12 @@
     }
   },
   "wsh @ chc": {
+    "66": {
+      "player": "daylen lile",
+      "pitcher": "daniel palencia",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "65": {
       "player": "josh bell",
       "pitcher": "daniel palencia",
@@ -4732,6 +4744,12 @@
     }
   },
   "hou @ tex": {
+    "51": {
+      "player": "jonah heim",
+      "pitcher": "framber valdez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "50": {
       "player": "dylan moore",
       "pitcher": "framber valdez",
@@ -5034,6 +5052,12 @@
     }
   },
   "sd @ col": {
+    "37": {
+      "player": "warming bernabel",
+      "pitcher": "dylan cease",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "36": {
       "player": "brenton doyle",
       "pitcher": "dylan cease",
@@ -5347,7 +5371,7 @@
     "9": {
       "player": "rob refsnyder",
       "pitcher": "ryne nelson",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "8": {
