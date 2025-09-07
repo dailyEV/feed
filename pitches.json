@@ -571,8 +571,8 @@
     "6": {
       "player": "miguel rojas",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "5": {
       "player": "alex call",
@@ -606,6 +606,12 @@
     }
   },
   "tor @ nyy": {
+    "6": {
+      "player": "cody bellinger",
+      "pitcher": "max scherzer",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "aaron judge",
       "pitcher": "max scherzer",
@@ -638,12 +644,6 @@
     }
   },
   "mil @ pit": {
-    "6": {
-      "player": "caleb durbin",
-      "pitcher": "bubba chandler",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "5": {
       "player": "andrew vaughn",
       "pitcher": "bubba chandler",
@@ -696,11 +696,17 @@
     }
   },
   "chw @ det": {
+    "4": {
+      "player": "colson montgomery",
+      "pitcher": "charlie morton",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "3": {
       "player": "lenyn sosa",
       "pitcher": "charlie morton",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "2": {
       "player": "kyle teel",
