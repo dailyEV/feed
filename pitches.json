@@ -1643,7 +1643,7 @@
     "63": {
       "player": "pete alonso",
       "pitcher": "tony santillan",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -2391,8 +2391,8 @@
     "37": {
       "player": "dylan beavers",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "36": {
       "player": "emmanuel rivera",
@@ -2905,8 +2905,8 @@
     "41": {
       "player": "dominic smith",
       "pitcher": "andre pallante",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "40": {
       "player": "lars nootbaar",
@@ -3410,6 +3410,12 @@
     }
   },
   "min @ kc": {
+    "47": {
+      "player": "mike yastrzemski",
+      "pitcher": "thomas hatch",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "46": {
       "player": "byron buxton",
       "pitcher": "stephen kolek",
@@ -3688,11 +3694,17 @@
     }
   },
   "sea @ atl": {
+    "45": {
+      "player": "jp crawford",
+      "pitcher": "rolddy munoz",
+      "result": "Foul Tip",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "jorge polanco",
       "pitcher": "rolddy munoz",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "43": {
       "player": "eugenio suarez",
@@ -3954,11 +3966,17 @@
     }
   },
   "bos @ ari": {
+    "22": {
+      "player": "alex bregman",
+      "pitcher": "brandon pfaadt",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "masataka yoshida",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "nate eaton",
@@ -4085,8 +4103,8 @@
     "22": {
       "player": "warming bernabel",
       "pitcher": "randy vasquez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "kyle karros",
