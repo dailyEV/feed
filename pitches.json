@@ -1,5 +1,11 @@
 {
   "sea @ atl": {
+    "86": {
+      "player": "jake fraley",
+      "pitcher": "luke jackson",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "85": {
       "player": "michael harris",
       "pitcher": "luke jackson",
@@ -952,12 +958,6 @@
     }
   },
   "lad @ bal": {
-    "38": {
-      "player": "miguel rojas",
-      "pitcher": "grant wolfram",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "37": {
       "player": "alex call",
       "pitcher": "grant wolfram",
@@ -1185,8 +1185,8 @@
     "38": {
       "player": "davis schneider",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "37": {
       "player": "ryan mcmahon",
@@ -2705,8 +2705,8 @@
     "21": {
       "player": "ian happ",
       "pitcher": "andrew alvarez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "20": {
       "player": "nico hoerner",
