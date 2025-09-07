@@ -416,16 +416,10 @@
     }
   },
   "cle @ tb": {
-    "69": {
-      "player": "steven kwan",
-      "pitcher": "edwin uceta",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
     "68": {
       "player": "austin hedges",
       "pitcher": "edwin uceta",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "67": {
@@ -835,8 +829,8 @@
     "27": {
       "player": "enrique hernandez",
       "pitcher": "grant wolfram",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "hyeseong kim",
@@ -999,8 +993,8 @@
     "28": {
       "player": "ben rice",
       "pitcher": "max scherzer",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "27": {
       "player": "cody bellinger",
@@ -1342,17 +1336,11 @@
     }
   },
   "nym @ cin": {
-    "30": {
-      "player": "francisco alvarez",
-      "pitcher": "hunter greene",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "29": {
       "player": "jeff mcneil",
       "pitcher": "hunter greene",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "gavin lux",
@@ -1527,8 +1515,8 @@
     "26": {
       "player": "kerry carpenter",
       "pitcher": "davis martin",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "curtis mead",
@@ -1682,6 +1670,12 @@
     }
   },
   "phi @ mia": {
+    "31": {
+      "player": "alec bohm",
+      "pitcher": "cade gibson",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "30": {
       "player": "bryce harper",
       "pitcher": "cade gibson",
@@ -1868,7 +1862,7 @@
       "player": "jhonny pereda",
       "pitcher": "michael lorenzen",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "14": {
       "player": "brooks lee",
@@ -1956,6 +1950,12 @@
     }
   },
   "sf @ stl": {
+    "12": {
+      "player": "pedro pages",
+      "pitcher": "kai wei teng",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "11": {
       "player": "thomas saggese",
       "pitcher": "kai wei teng",
