@@ -730,6 +730,12 @@
     }
   },
   "lad @ bal": {
+    "22": {
+      "player": "jorge mateo",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "alex call",
       "pitcher": "tomoyuki sugano",
@@ -1117,8 +1123,8 @@
     "21": {
       "player": "juan soto",
       "pitcher": "hunter greene",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "tj friedl",
@@ -1492,6 +1498,12 @@
     }
   },
   "min @ kc": {
+    "7": {
+      "player": "vinnie pasquantino",
+      "pitcher": "bailey ober",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "6": {
       "player": "maikel garcia",
       "pitcher": "bailey ober",
@@ -1549,7 +1561,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "wsh @ chc": {},
+  "wsh @ chc": {
+    "1": {
+      "player": "cj abrams",
+      "pitcher": "drew pomeranz",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    }
+  },
   "hou @ tex": {},
   "sd @ col": {},
   "ath @ laa": {},
