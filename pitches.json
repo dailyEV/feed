@@ -928,12 +928,6 @@
     }
   },
   "lad @ bal": {
-    "35": {
-      "player": "freddie freeman",
-      "pitcher": "grant wolfram",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "34": {
       "player": "alex jackson",
       "pitcher": "clayton kershaw",
@@ -1143,8 +1137,8 @@
     "35": {
       "player": "austin wells",
       "pitcher": "max scherzer",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "34": {
       "player": "jazz chisholm",
@@ -1355,8 +1349,8 @@
     "37": {
       "player": "caleb durbin",
       "pitcher": "colin holderman",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "andrew vaughn",
@@ -1576,6 +1570,12 @@
     }
   },
   "nym @ cin": {
+    "39": {
+      "player": "tj friedl",
+      "pitcher": "brandon sproat",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "juan soto",
       "pitcher": "hunter greene",
@@ -1809,8 +1809,8 @@
     "36": {
       "player": "jake rogers",
       "pitcher": "davis martin",
-      "result": "Foul Tip",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "35": {
       "player": "zach mckinstry",
@@ -2275,7 +2275,7 @@
     "23": {
       "player": "kody clemens",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "22": {
