@@ -1592,6 +1592,12 @@
     }
   },
   "mil @ pit": {
+    "56": {
+      "player": "blake perkins",
+      "pitcher": "yohan ramirez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "55": {
       "player": "caleb durbin",
       "pitcher": "yohan ramirez",
@@ -1924,12 +1930,6 @@
     }
   },
   "nym @ cin": {
-    "56": {
-      "player": "noelvi marte",
-      "pitcher": "tyler rogers",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "55": {
       "player": "mark vientos",
       "pitcher": "nick martinez",
@@ -2929,8 +2929,8 @@
     "42": {
       "player": "royce lewis",
       "pitcher": "angel zerpa",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "41": {
       "player": "kody clemens",
@@ -3780,17 +3780,11 @@
     }
   },
   "sd @ col": {
-    "12": {
-      "player": "freddy fermin",
-      "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "11": {
       "player": "jake cronenworth",
       "pitcher": "tanner gordon",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "jackson merrill",
