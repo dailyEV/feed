@@ -961,7 +961,7 @@
     "48": {
       "player": "gunnar henderson",
       "pitcher": "clayton kershaw",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "47": {
@@ -1849,8 +1849,8 @@
     "52": {
       "player": "tj friedl",
       "pitcher": "reed garrett",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "51": {
       "player": "matt mclain",
@@ -2462,6 +2462,12 @@
     }
   },
   "phi @ mia": {
+    "55": {
+      "player": "bryson stott",
+      "pitcher": "michael petersen",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "54": {
       "player": "rafael marchan",
       "pitcher": "michael petersen",
@@ -3021,8 +3027,8 @@
     "31": {
       "player": "casey schmitt",
       "pitcher": "sonny gray",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "30": {
       "player": "jung hoo lee",
@@ -3415,8 +3421,8 @@
     "22": {
       "player": "yordan alvarez",
       "pitcher": "patrick corbin",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "cody freeman",
