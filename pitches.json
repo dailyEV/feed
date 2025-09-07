@@ -1,5 +1,11 @@
 {
   "sea @ atl": {
+    "70": {
+      "player": "jurickson profar",
+      "pitcher": "emerson hancock",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "69": {
       "player": "nacho alvarez",
       "pitcher": "emerson hancock",
@@ -829,8 +835,8 @@
     "27": {
       "player": "enrique hernandez",
       "pitcher": "grant wolfram",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "hyeseong kim",
@@ -1157,8 +1163,8 @@
     "29": {
       "player": "isaac collins",
       "pitcher": "colin holderman",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "28": {
       "player": "brice turang",
@@ -1333,8 +1339,8 @@
     "29": {
       "player": "jeff mcneil",
       "pitcher": "hunter greene",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "gavin lux",
@@ -1840,12 +1846,6 @@
     }
   },
   "min @ kc": {
-    "14": {
-      "player": "brooks lee",
-      "pitcher": "michael lorenzen",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "13": {
       "player": "michael massey",
       "pitcher": "bailey ober",
@@ -1926,6 +1926,12 @@
     }
   },
   "sf @ stl": {
+    "10": {
+      "player": "masyn winn",
+      "pitcher": "kai wei teng",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "jung hoo lee",
       "pitcher": "sonny gray",
