@@ -3649,8 +3649,8 @@
     "73": {
       "player": "kyle isbel",
       "pitcher": "justin topa",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "72": {
       "player": "jac caglianone",
@@ -4089,7 +4089,7 @@
     "70": {
       "player": "casey schmitt",
       "pitcher": "riley obrien",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "69": {
@@ -5307,7 +5307,7 @@
     "48": {
       "player": "tyler freeman",
       "pitcher": "dylan cease",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "47": {
@@ -5594,6 +5594,12 @@
     }
   },
   "ath @ laa": {
+    "29": {
+      "player": "chris taylor",
+      "pitcher": "luis severino",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "zack gelof",
       "pitcher": "mitch farris",
@@ -5764,6 +5770,12 @@
     }
   },
   "bos @ ari": {
+    "18": {
+      "player": "masataka yoshida",
+      "pitcher": "ryne nelson",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "connor wong",
       "pitcher": "ryne nelson",
