@@ -1206,6 +1206,12 @@
     }
   },
   "tor @ nyy": {
+    "42": {
+      "player": "aaron judge",
+      "pitcher": "max scherzer",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "trent grisham",
       "pitcher": "max scherzer",
@@ -1714,6 +1720,12 @@
     }
   },
   "nym @ cin": {
+    "45": {
+      "player": "pete alonso",
+      "pitcher": "hunter greene",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "sal stewart",
       "pitcher": "brandon sproat",
@@ -2237,8 +2249,8 @@
     "47": {
       "player": "brandon marsh",
       "pitcher": "calvin faucher",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "46": {
       "player": "alec bohm",
@@ -2828,11 +2840,17 @@
     }
   },
   "wsh @ chc": {
+    "26": {
+      "player": "riley adams",
+      "pitcher": "colin rea",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "25": {
       "player": "james wood",
       "pitcher": "colin rea",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "24": {
       "player": "cj abrams",
