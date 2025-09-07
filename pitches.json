@@ -1586,11 +1586,17 @@
     }
   },
   "nym @ cin": {
+    "41": {
+      "player": "noelvi marte",
+      "pitcher": "jonah tong",
+      "result": "Foul Tip",
+      "pitch": "Curveball"
+    },
     "40": {
       "player": "tj friedl",
       "pitcher": "jonah tong",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "matt mclain",
@@ -1831,8 +1837,8 @@
     "42": {
       "player": "spencer horwitz",
       "pitcher": "brandon woodruff",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "41": {
       "player": "jared triolo",
@@ -2086,7 +2092,7 @@
       "player": "samuel basallo",
       "pitcher": "yoshinobu yamamoto",
       "result": "Ball",
-      "pitch": "Splitter"
+      "pitch": "Cutter"
     },
     "18": {
       "player": "dylan beavers",
@@ -2201,8 +2207,8 @@
     "27": {
       "player": "bo naylor",
       "pitcher": "shane baz",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "gabriel arias",
@@ -2365,8 +2371,8 @@
     "21": {
       "player": "jose fermin",
       "pitcher": "justin verlander",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "20": {
       "player": "victor scott",
@@ -2490,12 +2496,6 @@
     }
   },
   "hou @ tex": {
-    "22": {
-      "player": "jose altuve",
-      "pitcher": "jacob degrom",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "21": {
       "player": "yordan alvarez",
       "pitcher": "jacob degrom",
@@ -2624,6 +2624,12 @@
     }
   },
   "min @ kc": {
+    "23": {
+      "player": "james outman",
+      "pitcher": "stephen kolek",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "22": {
       "player": "adam frazier",
       "pitcher": "joe ryan",
