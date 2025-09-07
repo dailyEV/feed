@@ -2517,7 +2517,7 @@
     "51": {
       "player": "alex call",
       "pitcher": "albert suarez",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "49": {
@@ -2816,16 +2816,10 @@
     }
   },
   "cle @ tb": {
-    "58": {
-      "player": "kyle manzardo",
-      "pitcher": "edwin uceta",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "57": {
       "player": "jose ramirez",
       "pitcher": "edwin uceta",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -3489,8 +3483,8 @@
     "54": {
       "player": "yordan alvarez",
       "pitcher": "cole winn",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "53": {
       "player": "jeremy pena",
@@ -4171,7 +4165,7 @@
     "58": {
       "player": "eugenio suarez",
       "pitcher": "daysbel hernandez",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "57": {
@@ -4518,11 +4512,17 @@
     }
   },
   "bos @ ari": {
+    "33": {
+      "player": "tyler locklear",
+      "pitcher": "lucas giolito",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "alek thomas",
       "pitcher": "lucas giolito",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "31": {
       "player": "james mccann",
