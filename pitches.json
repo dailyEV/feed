@@ -1873,8 +1873,8 @@
     "45": {
       "player": "caleb durbin",
       "pitcher": "kyle nicolas",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "44": {
       "player": "andrew vaughn",
@@ -2145,7 +2145,7 @@
     "22": {
       "player": "teoscar hernandez",
       "pitcher": "trevor rogers",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "21": {
@@ -2461,8 +2461,8 @@
     "25": {
       "player": "casey schmitt",
       "pitcher": "andre pallante",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Knuckle Curve"
     },
     "24": {
       "player": "matt chapman",
@@ -2610,6 +2610,18 @@
     }
   },
   "hou @ tex": {
+    "26": {
+      "player": "dustin harris",
+      "pitcher": "hunter brown",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "25": {
+      "player": "jake burger",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "joc pederson",
       "pitcher": "hunter brown",
@@ -2756,6 +2768,18 @@
     }
   },
   "min @ kc": {
+    "27": {
+      "player": "matt wallner",
+      "pitcher": "stephen kolek",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "26": {
+      "player": "luke keaschall",
+      "pitcher": "stephen kolek",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "25": {
       "player": "trevor larnach",
       "pitcher": "stephen kolek",
@@ -3083,7 +3107,7 @@
     "2": {
       "player": "luis arraez",
       "pitcher": "mccade brown",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "1": {
