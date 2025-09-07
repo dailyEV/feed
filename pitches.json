@@ -1643,8 +1643,8 @@
     "57": {
       "player": "jose trevino",
       "pitcher": "ryne stanek",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "sal stewart",
@@ -2767,7 +2767,7 @@
     "36": {
       "player": "willy adames",
       "pitcher": "andre pallante",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Knuckle Curve"
     },
     "35": {
@@ -3206,6 +3206,12 @@
     }
   },
   "min @ kc": {
+    "41": {
+      "player": "nick loftin",
+      "pitcher": "thomas hatch",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "40": {
       "player": "jac caglianone",
       "pitcher": "thomas hatch",
@@ -3687,7 +3693,7 @@
     "13": {
       "player": "alek thomas",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "12": {
