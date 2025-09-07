@@ -452,11 +452,17 @@
     }
   },
   "cle @ tb": {
+    "72": {
+      "player": "josh lowe",
+      "pitcher": "cade smith",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "71": {
       "player": "everson pereira",
       "pitcher": "cade smith",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "70": {
       "player": "angel martinez",
@@ -1062,6 +1068,12 @@
     }
   },
   "tor @ nyy": {
+    "32": {
+      "player": "myles straw",
+      "pitcher": "max fried",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "31": {
       "player": "nathan lukes",
       "pitcher": "max fried",
@@ -1253,7 +1265,7 @@
     "32": {
       "player": "bryan reynolds",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -1448,7 +1460,7 @@
       "player": "matt mclain",
       "pitcher": "brandon sproat",
       "result": "Called Strike",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "34": {
       "player": "kebryan hayes",
@@ -1656,23 +1668,11 @@
     }
   },
   "chw @ det": {
-    "31": {
-      "player": "chase meidroth",
-      "pitcher": "tyler holton",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
-    "30": {
-      "player": "brooks baldwin",
-      "pitcher": "tyler holton",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "29": {
       "player": "will robertson",
       "pitcher": "tyler holton",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "28": {
       "player": "spencer torkelson",
@@ -1844,6 +1844,12 @@
     }
   },
   "phi @ mia": {
+    "36": {
+      "player": "agustin ramirez",
+      "pitcher": "taijuan walker",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "jakob marsee",
       "pitcher": "taijuan walker",
@@ -2059,7 +2065,7 @@
     "19": {
       "player": "luke maile",
       "pitcher": "bailey ober",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "Changeup"
     },
     "18": {
@@ -2175,7 +2181,7 @@
     "15": {
       "player": "andrew knizner",
       "pitcher": "sonny gray",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "14": {
@@ -2267,7 +2273,7 @@
     "14": {
       "player": "matt shaw",
       "pitcher": "andrew alvarez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "13": {
