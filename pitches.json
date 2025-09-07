@@ -904,22 +904,10 @@
     }
   },
   "lad @ bal": {
-    "34": {
-      "player": "alex jackson",
-      "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
-    "33": {
-      "player": "emmanuel rivera",
-      "pitcher": "clayton kershaw",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
     "32": {
       "player": "gunnar henderson",
       "pitcher": "clayton kershaw",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "31": {
@@ -1313,8 +1301,8 @@
     "35": {
       "player": "jake bauers",
       "pitcher": "colin holderman",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "34": {
       "player": "william contreras",
@@ -1522,11 +1510,17 @@
     }
   },
   "nym @ cin": {
+    "37": {
+      "player": "francisco lindor",
+      "pitcher": "hunter greene",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "cedric mullins",
       "pitcher": "hunter greene",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "35": {
       "player": "matt mclain",
@@ -1744,7 +1738,7 @@
       "player": "wenceel perez",
       "pitcher": "davis martin",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Changeup"
     },
     "32": {
       "player": "mike tauchman",
@@ -2176,6 +2170,18 @@
     }
   },
   "min @ kc": {
+    "21": {
+      "player": "matt wallner",
+      "pitcher": "michael lorenzen",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "20": {
+      "player": "austin martin",
+      "pitcher": "michael lorenzen",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "19": {
       "player": "luke maile",
       "pitcher": "bailey ober",
@@ -2295,8 +2301,8 @@
     "17": {
       "player": "nathan church",
       "pitcher": "kai wei teng",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "16": {
       "player": "jordan walker",
@@ -2396,6 +2402,12 @@
     }
   },
   "wsh @ chc": {
+    "16": {
+      "player": "brady house",
+      "pitcher": "colin rea",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "kevin alcantara",
       "pitcher": "andrew alvarez",
