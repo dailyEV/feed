@@ -958,6 +958,12 @@
     }
   },
   "lad @ bal": {
+    "44": {
+      "player": "enrique hernandez",
+      "pitcher": "kade strowd",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "hyeseong kim",
       "pitcher": "kade strowd",
@@ -2049,8 +2055,8 @@
     "43": {
       "player": "parker meadows",
       "pitcher": "davis martin",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "will robertson",
@@ -2306,10 +2312,16 @@
     }
   },
   "phi @ mia": {
+    "50": {
+      "player": "maximo acosta",
+      "pitcher": "taijuan walker",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "troy johnston",
       "pitcher": "taijuan walker",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Splitter"
     },
     "48": {
@@ -2602,6 +2614,18 @@
     }
   },
   "min @ kc": {
+    "32": {
+      "player": "byron buxton",
+      "pitcher": "michael lorenzen",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "31": {
+      "player": "jhonny pereda",
+      "pitcher": "michael lorenzen",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "30": {
       "player": "brooks lee",
       "pitcher": "michael lorenzen",
@@ -2945,8 +2969,8 @@
     "28": {
       "player": "dansby swanson",
       "pitcher": "andrew alvarez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "carlos santana",
