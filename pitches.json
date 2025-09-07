@@ -2690,6 +2690,12 @@
     }
   },
   "cle @ tb": {
+    "51": {
+      "player": "junior caminero",
+      "pitcher": "tanner bibee",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "50": {
       "player": "george valera",
       "pitcher": "bryan baker",
@@ -2995,7 +3001,7 @@
     "45": {
       "player": "ivan herrera",
       "pitcher": "justin verlander",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -3268,7 +3274,7 @@
       "player": "victor caratini",
       "pitcher": "jacob degrom",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Slider"
     },
     "45": {
       "player": "jesus sanchez",
@@ -3838,6 +3844,18 @@
     }
   },
   "sea @ atl": {
+    "49": {
+      "player": "drake baldwin",
+      "pitcher": "bryce miller",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "48": {
+      "player": "ozzie albies",
+      "pitcher": "bryce miller",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "leo rivas",
       "pitcher": "pierce johnson",
@@ -4125,8 +4143,8 @@
     "24": {
       "player": "blaze alexander",
       "pitcher": "lucas giolito",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "corbin carroll",
