@@ -601,8 +601,8 @@
     "9": {
       "player": "gunnar henderson",
       "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "8": {
       "player": "ryan mountcastle",
@@ -654,6 +654,12 @@
     }
   },
   "tor @ nyy": {
+    "8": {
+      "player": "giancarlo stanton",
+      "pitcher": "max scherzer",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "ben rice",
       "pitcher": "max scherzer",
@@ -701,7 +707,7 @@
     "8": {
       "player": "jared triolo",
       "pitcher": "jacob misiorowski",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "7": {
@@ -748,12 +754,6 @@
     }
   },
   "nym @ cin": {
-    "7": {
-      "player": "brandon nimmo",
-      "pitcher": "hunter greene",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "6": {
       "player": "elly de la cruz",
       "pitcher": "brandon sproat",
@@ -795,8 +795,8 @@
     "6": {
       "player": "curtis mead",
       "pitcher": "charlie morton",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "5": {
       "player": "andrew benintendi",
@@ -830,12 +830,6 @@
     }
   },
   "phi @ mia": {
-    "8": {
-      "player": "liam hicks",
-      "pitcher": "taijuan walker",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "7": {
       "player": "otto lopez",
       "pitcher": "taijuan walker",
