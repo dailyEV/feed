@@ -1640,6 +1640,12 @@
     }
   },
   "nym @ cin": {
+    "63": {
+      "player": "pete alonso",
+      "pitcher": "tony santillan",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "austin hays",
       "pitcher": "kevin herget",
@@ -2385,8 +2391,8 @@
     "37": {
       "player": "dylan beavers",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "emmanuel rivera",
@@ -2609,7 +2615,7 @@
     "48": {
       "player": "cj kayfus",
       "pitcher": "bryan baker",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "Changeup"
     },
     "47": {
@@ -3686,7 +3692,7 @@
       "player": "jorge polanco",
       "pitcher": "rolddy munoz",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "43": {
       "player": "eugenio suarez",
@@ -3952,7 +3958,7 @@
       "player": "masataka yoshida",
       "pitcher": "brandon pfaadt",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "20": {
       "player": "nate eaton",
@@ -4076,11 +4082,17 @@
     }
   },
   "sd @ col": {
+    "22": {
+      "player": "warming bernabel",
+      "pitcher": "randy vasquez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "21": {
       "player": "kyle karros",
       "pitcher": "randy vasquez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "20": {
       "player": "ezequiel tovar",
