@@ -269,8 +269,8 @@
     "45": {
       "player": "daniel schneemann",
       "pitcher": "garrett cleavinger",
-      "result": "Foul Bunt",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "44": {
       "player": "david fry",
@@ -541,7 +541,7 @@
     "2": {
       "player": "mookie betts",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "1": {
@@ -552,6 +552,12 @@
     }
   },
   "tor @ nyy": {
+    "2": {
+      "player": "davis schneider",
+      "pitcher": "max fried",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "george springer",
       "pitcher": "max fried",
@@ -563,8 +569,8 @@
     "2": {
       "player": "isaac collins",
       "pitcher": "bubba chandler",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "brice turang",
@@ -574,7 +580,14 @@
     }
   },
   "nym @ cin": {},
-  "chw @ det": {},
+  "chw @ det": {
+    "1": {
+      "player": "mike tauchman",
+      "pitcher": "charlie morton",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  },
   "phi @ mia": {},
   "min @ kc": {},
   "sf @ stl": {},
