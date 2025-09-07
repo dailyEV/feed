@@ -3,7 +3,7 @@
     "61": {
       "player": "michael harris",
       "pitcher": "jose castillo",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "60": {
@@ -371,7 +371,7 @@
     "60": {
       "player": "kyle manzardo",
       "pitcher": "mason montgomery",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -989,8 +989,8 @@
     "20": {
       "player": "liover peguero",
       "pitcher": "jacob misiorowski",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "19": {
       "player": "joey bart",
@@ -1230,6 +1230,12 @@
     }
   },
   "chw @ det": {
+    "19": {
+      "player": "jake rogers",
+      "pitcher": "davis martin",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "zach mckinstry",
       "pitcher": "davis martin",
@@ -1477,8 +1483,8 @@
     "6": {
       "player": "maikel garcia",
       "pitcher": "bailey ober",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "5": {
       "player": "mike yastrzemski",
