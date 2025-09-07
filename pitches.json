@@ -2428,6 +2428,18 @@
     }
   },
   "sf @ stl": {
+    "24": {
+      "player": "matt chapman",
+      "pitcher": "andre pallante",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
+    "23": {
+      "player": "dominic smith",
+      "pitcher": "andre pallante",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "lars nootbaar",
       "pitcher": "justin verlander",
@@ -2857,8 +2869,8 @@
     "25": {
       "player": "jorge polanco",
       "pitcher": "hurston waldrep",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "24": {
       "player": "jurickson profar",
@@ -3005,7 +3017,14 @@
       "pitch": "Sinker"
     }
   },
-  "bos @ ari": {},
+  "bos @ ari": {
+    "1": {
+      "player": "masataka yoshida",
+      "pitcher": "brandon pfaadt",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "sd @ col": {},
   "ath @ laa": {}
 }
