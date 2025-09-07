@@ -419,7 +419,7 @@
     "68": {
       "player": "austin hedges",
       "pitcher": "edwin uceta",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "67": {
@@ -1336,11 +1336,17 @@
     }
   },
   "nym @ cin": {
+    "30": {
+      "player": "francisco alvarez",
+      "pitcher": "hunter greene",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "29": {
       "player": "jeff mcneil",
       "pitcher": "hunter greene",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "28": {
       "player": "gavin lux",
@@ -1673,7 +1679,7 @@
     "31": {
       "player": "alec bohm",
       "pitcher": "cade gibson",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "30": {
@@ -2024,6 +2030,12 @@
     }
   },
   "wsh @ chc": {
+    "10": {
+      "player": "carson kelly",
+      "pitcher": "andrew alvarez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "luis garcia",
       "pitcher": "colin rea",
