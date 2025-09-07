@@ -1038,12 +1038,6 @@
     }
   },
   "tor @ nyy": {
-    "30": {
-      "player": "isiah kiner falefa",
-      "pitcher": "max fried",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "29": {
       "player": "giancarlo stanton",
       "pitcher": "max scherzer",
@@ -1220,10 +1214,16 @@
     }
   },
   "mil @ pit": {
+    "31": {
+      "player": "spencer horwitz",
+      "pitcher": "jacob misiorowski",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "30": {
       "player": "jared triolo",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -1975,8 +1975,8 @@
     "17": {
       "player": "nick loftin",
       "pitcher": "bailey ober",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "16": {
       "player": "byron buxton",
@@ -2076,6 +2076,12 @@
     }
   },
   "sf @ stl": {
+    "13": {
+      "player": "casey schmitt",
+      "pitcher": "sonny gray",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "pedro pages",
       "pitcher": "kai wei teng",
@@ -2150,6 +2156,12 @@
     }
   },
   "wsh @ chc": {
+    "13": {
+      "player": "justin turner",
+      "pitcher": "andrew alvarez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "12": {
       "player": "dansby swanson",
       "pitcher": "andrew alvarez",
@@ -2224,6 +2236,12 @@
     }
   },
   "hou @ tex": {
+    "3": {
+      "player": "jose altuve",
+      "pitcher": "patrick corbin",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "yordan alvarez",
       "pitcher": "patrick corbin",
