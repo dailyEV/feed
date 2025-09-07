@@ -1,10 +1,16 @@
 {
   "sea @ atl": {
+    "52": {
+      "player": "jurickson profar",
+      "pitcher": "luis castillo",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "nacho alvarez",
       "pitcher": "luis castillo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "50": {
       "player": "marcell ozuna",
@@ -312,7 +318,7 @@
       "player": "steven kwan",
       "pitcher": "griffin jax",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Changeup"
     },
     "52": {
       "player": "austin hedges",
@@ -770,6 +776,12 @@
     }
   },
   "mil @ pit": {
+    "10": {
+      "player": "bryan reynolds",
+      "pitcher": "jacob misiorowski",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "9": {
       "player": "spencer horwitz",
       "pitcher": "jacob misiorowski",
@@ -891,8 +903,8 @@
     "8": {
       "player": "kerry carpenter",
       "pitcher": "davis martin",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "7": {
       "player": "gleyber torres",
