@@ -1814,6 +1814,18 @@
     }
   },
   "mil @ pit": {
+    "79": {
+      "player": "joey bart",
+      "pitcher": "craig yoho",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "78": {
+      "player": "oneil cruz",
+      "pitcher": "craig yoho",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "77": {
       "player": "henry davis",
       "pitcher": "craig yoho",
@@ -3108,7 +3120,7 @@
       "player": "max kepler",
       "pitcher": "lake bachar",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "72": {
       "player": "agustin ramirez",
@@ -3544,17 +3556,11 @@
     }
   },
   "min @ kc": {
-    "63": {
-      "player": "mike yastrzemski",
-      "pitcher": "kody funderburk",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "62": {
       "player": "luke maile",
       "pitcher": "kody funderburk",
-      "result": "In play, no out",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "61": {
       "player": "kyle isbel",
@@ -3927,7 +3933,7 @@
     "57": {
       "player": "ivan herrera",
       "pitcher": "matt gage",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -4271,8 +4277,8 @@
     "62": {
       "player": "robert hassell",
       "pitcher": "daniel palencia",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "61": {
       "player": "justin turner",
@@ -4642,10 +4648,16 @@
     }
   },
   "hou @ tex": {
+    "49": {
+      "player": "cam smith",
+      "pitcher": "phil maton",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "48": {
       "player": "yainer diaz",
       "pitcher": "phil maton",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Curveball"
     },
     "47": {
@@ -5141,7 +5153,7 @@
     "12": {
       "player": "lawrence butler",
       "pitcher": "mitch farris",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "11": {
