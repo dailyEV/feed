@@ -4648,11 +4648,17 @@
     }
   },
   "sea @ atl": {
+    "75": {
+      "player": "drake baldwin",
+      "pitcher": "caleb ferguson",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "74": {
       "player": "ozzie albies",
       "pitcher": "caleb ferguson",
-      "result": "Ball",
-      "pitch": "Slurve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "73": {
       "player": "victor robles",
@@ -5097,7 +5103,7 @@
     "51": {
       "player": "jordan lawlar",
       "pitcher": "justin wilson",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "50": {
@@ -5402,12 +5408,6 @@
     }
   },
   "sd @ col": {
-    "54": {
-      "player": "jake cronenworth",
-      "pitcher": "jaden hill",
-      "result": "Called Strike",
-      "pitch": "Changeup"
-    },
     "53": {
       "player": "jackson merrill",
       "pitcher": "jaden hill",
@@ -5731,8 +5731,8 @@
     "10": {
       "player": "yoan moncada",
       "pitcher": "jt ginn",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "9": {
       "player": "mike trout",
