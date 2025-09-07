@@ -1,5 +1,11 @@
 {
   "sea @ atl": {
+    "78": {
+      "player": "dominic canzone",
+      "pitcher": "vidal brujan",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "77": {
       "player": "cal raleigh",
       "pitcher": "rolddy munoz",
@@ -907,8 +913,8 @@
     "34": {
       "player": "alex jackson",
       "pitcher": "clayton kershaw",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "33": {
       "player": "emmanuel rivera",
@@ -1114,7 +1120,7 @@
       "player": "jazz chisholm",
       "pitcher": "max scherzer",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "george springer",
@@ -1316,6 +1322,18 @@
     }
   },
   "mil @ pit": {
+    "37": {
+      "player": "caleb durbin",
+      "pitcher": "colin holderman",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
+    "36": {
+      "player": "andrew vaughn",
+      "pitcher": "colin holderman",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "35": {
       "player": "jake bauers",
       "pitcher": "colin holderman",
@@ -1531,8 +1549,8 @@
     "38": {
       "player": "juan soto",
       "pitcher": "hunter greene",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "37": {
       "player": "francisco lindor",
@@ -1758,6 +1776,18 @@
     }
   },
   "chw @ det": {
+    "36": {
+      "player": "jake rogers",
+      "pitcher": "davis martin",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "35": {
+      "player": "zach mckinstry",
+      "pitcher": "davis martin",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "34": {
       "player": "colt keith",
       "pitcher": "davis martin",
@@ -2441,8 +2471,8 @@
     "16": {
       "player": "brady house",
       "pitcher": "colin rea",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "kevin alcantara",
@@ -2536,12 +2566,6 @@
     }
   },
   "hou @ tex": {
-    "8": {
-      "player": "christian walker",
-      "pitcher": "patrick corbin",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "7": {
       "player": "josh jung",
       "pitcher": "framber valdez",
