@@ -958,6 +958,12 @@
     }
   },
   "lad @ bal": {
+    "39": {
+      "player": "dylan carlson",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "38": {
       "player": "miguel rojas",
       "pitcher": "grant wolfram",
@@ -1428,7 +1434,7 @@
       "player": "blake perkins",
       "pitcher": "dauri moreta",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "40": {
       "player": "joey bart",
@@ -1935,8 +1941,8 @@
     "40": {
       "player": "andrew benintendi",
       "pitcher": "troy melton",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "colson montgomery",
@@ -2440,11 +2446,17 @@
     }
   },
   "min @ kc": {
+    "28": {
+      "player": "salvador perez",
+      "pitcher": "bailey ober",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "vinnie pasquantino",
       "pitcher": "bailey ober",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "maikel garcia",
@@ -2747,8 +2759,8 @@
     "23": {
       "player": "carson kelly",
       "pitcher": "andrew alvarez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "22": {
       "player": "seiya suzuki",
