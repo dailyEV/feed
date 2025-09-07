@@ -1643,8 +1643,8 @@
     "60": {
       "player": "noelvi marte",
       "pitcher": "kevin herget",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "59": {
       "player": "tj friedl",
@@ -2002,6 +2002,12 @@
     }
   },
   "mil @ pit": {
+    "59": {
+      "player": "henry davis",
+      "pitcher": "tobias myers",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "58": {
       "player": "andrew vaughn",
       "pitcher": "evan sisk",
@@ -2840,7 +2846,7 @@
       "player": "lars nootbaar",
       "pitcher": "justin verlander",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "39": {
       "player": "jose fermin",
@@ -3081,8 +3087,8 @@
     "41": {
       "player": "wyatt langford",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "40": {
       "player": "josh smith",
@@ -3329,8 +3335,8 @@
     "44": {
       "player": "brooks lee",
       "pitcher": "stephen kolek",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "43": {
       "player": "kyle isbel",
@@ -3846,12 +3852,6 @@
     }
   },
   "bos @ ari": {
-    "18": {
-      "player": "carlos narvaez",
-      "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "17": {
       "player": "ketel marte",
       "pitcher": "lucas giolito",
@@ -3956,6 +3956,12 @@
     }
   },
   "sd @ col": {
+    "20": {
+      "player": "ezequiel tovar",
+      "pitcher": "randy vasquez",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "19": {
       "player": "brenton doyle",
       "pitcher": "randy vasquez",
