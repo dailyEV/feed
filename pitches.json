@@ -961,8 +961,8 @@
     "71": {
       "player": "freddie freeman",
       "pitcher": "rico garcia",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "70": {
       "player": "mookie betts",
@@ -1799,8 +1799,8 @@
     "74": {
       "player": "blake perkins",
       "pitcher": "dennis santana",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "73": {
       "player": "caleb durbin",
@@ -3478,16 +3478,10 @@
     }
   },
   "min @ kc": {
-    "59": {
-      "player": "royce lewis",
-      "pitcher": "sam long",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
     "58": {
       "player": "kody clemens",
       "pitcher": "sam long",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -3834,6 +3828,12 @@
     }
   },
   "sf @ stl": {
+    "55": {
+      "player": "patrick bailey",
+      "pitcher": "matt svanson",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "54": {
       "player": "drew gilbert",
       "pitcher": "matt svanson",
@@ -4160,10 +4160,22 @@
     }
   },
   "wsh @ chc": {
+    "59": {
+      "player": "carlos santana",
+      "pitcher": "mason thompson",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
+    "58": {
+      "player": "carson kelly",
+      "pitcher": "mason thompson",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "seiya suzuki",
       "pitcher": "mason thompson",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "56": {
