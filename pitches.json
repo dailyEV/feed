@@ -383,8 +383,8 @@
     "63": {
       "player": "junior caminero",
       "pitcher": "hunter gaddis",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "daniel schneemann",
@@ -760,6 +760,12 @@
     }
   },
   "lad @ bal": {
+    "25": {
+      "player": "miguel rojas",
+      "pitcher": "tomoyuki sugano",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "24": {
       "player": "jeremiah jackson",
       "pitcher": "clayton kershaw",
@@ -906,6 +912,12 @@
     }
   },
   "tor @ nyy": {
+    "23": {
+      "player": "ernie clement",
+      "pitcher": "max fried",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "22": {
       "player": "alejandro kirk",
       "pitcher": "max fried",
@@ -1043,7 +1055,7 @@
     "24": {
       "player": "caleb durbin",
       "pitcher": "bubba chandler",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "23": {
@@ -1609,8 +1621,8 @@
     "10": {
       "player": "edouard julien",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "royce lewis",
@@ -1706,11 +1718,17 @@
     }
   },
   "wsh @ chc": {
+    "5": {
+      "player": "ian happ",
+      "pitcher": "andrew alvarez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "nico hoerner",
       "pitcher": "andrew alvarez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "riley adams",
