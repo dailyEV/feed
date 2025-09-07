@@ -1643,7 +1643,7 @@
     "67": {
       "player": "francisco alvarez",
       "pitcher": "tony santillan",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Slurve"
     },
     "66": {
@@ -2669,7 +2669,7 @@
     "50": {
       "player": "george valera",
       "pitcher": "bryan baker",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "49": {
@@ -4080,6 +4080,12 @@
     }
   },
   "bos @ ari": {
+    "23": {
+      "player": "corbin carroll",
+      "pitcher": "lucas giolito",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "22": {
       "player": "alex bregman",
       "pitcher": "brandon pfaadt",
@@ -4214,12 +4220,6 @@
     }
   },
   "sd @ col": {
-    "24": {
-      "player": "jackson merrill",
-      "pitcher": "angel chivilli",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "23": {
       "player": "ryan ritter",
       "pitcher": "randy vasquez",
