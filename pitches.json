@@ -1626,7 +1626,7 @@
       "player": "brett baty",
       "pitcher": "brady singer",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "45": {
       "player": "mark vientos",
@@ -2333,8 +2333,8 @@
     "33": {
       "player": "george valera",
       "pitcher": "shane baz",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "32": {
       "player": "steven kwan",
@@ -2691,8 +2691,8 @@
     "27": {
       "player": "carlos correa",
       "pitcher": "jacob degrom",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "26": {
       "player": "dustin harris",
@@ -2852,6 +2852,24 @@
     }
   },
   "min @ kc": {
+    "30": {
+      "player": "carter jensen",
+      "pitcher": "thomas hatch",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
+    "29": {
+      "player": "nick loftin",
+      "pitcher": "thomas hatch",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
+    "28": {
+      "player": "jac caglianone",
+      "pitcher": "thomas hatch",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "matt wallner",
       "pitcher": "stephen kolek",
@@ -3189,8 +3207,8 @@
     "4": {
       "player": "geraldo perdomo",
       "pitcher": "lucas giolito",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "jarren duran",
