@@ -958,6 +958,12 @@
     }
   },
   "lad @ bal": {
+    "65": {
+      "player": "gunnar henderson",
+      "pitcher": "justin wrobleski",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "64": {
       "player": "enrique hernandez",
       "pitcher": "yennier cano",
@@ -1724,12 +1730,6 @@
     }
   },
   "mil @ pit": {
-    "66": {
-      "player": "andrew vaughn",
-      "pitcher": "isaac mattson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "65": {
       "player": "jake bauers",
       "pitcher": "isaac mattson",
@@ -2885,8 +2885,8 @@
     "64": {
       "player": "alec bohm",
       "pitcher": "ronny henriquez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "63": {
       "player": "bryce harper",
@@ -3271,8 +3271,8 @@
     "52": {
       "player": "austin martin",
       "pitcher": "daniel lynch",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
     },
     "51": {
       "player": "james outman",
@@ -3585,7 +3585,7 @@
     "47": {
       "player": "jung hoo lee",
       "pitcher": "matt svanson",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Cutter"
     },
     "46": {
@@ -3866,6 +3866,12 @@
     }
   },
   "wsh @ chc": {
+    "50": {
+      "player": "matt shaw",
+      "pitcher": "jackson rutledge",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "andres chaparro",
       "pitcher": "caleb thielbar",
@@ -4392,6 +4398,12 @@
     }
   },
   "sd @ col": {
+    "23": {
+      "player": "tyler freeman",
+      "pitcher": "dylan cease",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "orlando arcia",
       "pitcher": "dylan cease",
