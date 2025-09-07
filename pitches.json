@@ -961,8 +961,8 @@
     "58": {
       "player": "jorge mateo",
       "pitcher": "justin wrobleski",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "57": {
       "player": "coby mayo",
@@ -1311,8 +1311,8 @@
     "58": {
       "player": "vladimir guerrero",
       "pitcher": "devin williams",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "57": {
       "player": "addison barger",
@@ -1658,10 +1658,16 @@
     }
   },
   "mil @ pit": {
+    "60": {
+      "player": "oneil cruz",
+      "pitcher": "jacob misiorowski",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "andrew mccutchen",
       "pitcher": "jacob misiorowski",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -2388,6 +2394,12 @@
     }
   },
   "chw @ det": {
+    "60": {
+      "player": "brooks baldwin",
+      "pitcher": "tommy kahnle",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "59": {
       "player": "will robertson",
       "pitcher": "tommy kahnle",
@@ -3103,7 +3115,7 @@
     "46": {
       "player": "vinnie pasquantino",
       "pitcher": "bailey ober",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -3381,7 +3393,7 @@
     "40": {
       "player": "drew gilbert",
       "pitcher": "sonny gray",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -3620,6 +3632,12 @@
     }
   },
   "wsh @ chc": {
+    "44": {
+      "player": "carlos santana",
+      "pitcher": "clayton beeter",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "43": {
       "player": "james wood",
       "pitcher": "colin rea",
@@ -4080,11 +4098,17 @@
     }
   },
   "sd @ col": {
+    "17": {
+      "player": "yanquiel fernandez",
+      "pitcher": "dylan cease",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "16": {
       "player": "warming bernabel",
       "pitcher": "dylan cease",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "15": {
       "player": "brenton doyle",
