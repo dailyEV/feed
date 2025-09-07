@@ -962,7 +962,7 @@
       "player": "shohei ohtani",
       "pitcher": "rico garcia",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "ben rortvedt",
@@ -2601,8 +2601,8 @@
     "69": {
       "player": "colson montgomery",
       "pitcher": "will vest",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "68": {
       "player": "lenyn sosa",
@@ -4441,8 +4441,8 @@
     "44": {
       "player": "jake burger",
       "pitcher": "framber valdez",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "43": {
       "player": "josh jung",
@@ -4707,7 +4707,7 @@
     "30": {
       "player": "freddy fermin",
       "pitcher": "tanner gordon",
-      "result": "Ball In Dirt",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "29": {
@@ -4886,12 +4886,6 @@
     }
   },
   "ath @ laa": {
-    "4": {
-      "player": "mike trout",
-      "pitcher": "luis severino",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "3": {
       "player": "colby thomas",
       "pitcher": "mitch farris",
@@ -4912,11 +4906,17 @@
     }
   },
   "bos @ ari": {
+    "3": {
+      "player": "jarren duran",
+      "pitcher": "ryne nelson",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "2": {
       "player": "alex bregman",
       "pitcher": "ryne nelson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "1": {
       "player": "masataka yoshida",
