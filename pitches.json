@@ -1263,8 +1263,8 @@
     "51": {
       "player": "colt keith",
       "pitcher": "steven wilson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "50": {
       "player": "curtis mead",
@@ -1571,8 +1571,8 @@
     "39": {
       "player": "matt mclain",
       "pitcher": "jonah tong",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "38": {
       "player": "juan soto",
@@ -1804,6 +1804,12 @@
     }
   },
   "mil @ pit": {
+    "40": {
+      "player": "cam devanney",
+      "pitcher": "brandon woodruff",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "henry davis",
       "pitcher": "brandon woodruff",
@@ -2132,6 +2138,12 @@
     }
   },
   "cle @ tb": {
+    "24": {
+      "player": "nolan jones",
+      "pitcher": "shane baz",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "kyle manzardo",
       "pitcher": "shane baz",
@@ -2272,11 +2284,17 @@
     }
   },
   "sf @ stl": {
+    "19": {
+      "player": "willy adames",
+      "pitcher": "andre pallante",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "18": {
       "player": "rafael devers",
       "pitcher": "andre pallante",
       "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "jung hoo lee",
@@ -2382,6 +2400,12 @@
     }
   },
   "hou @ tex": {
+    "19": {
+      "player": "jake meyers",
+      "pitcher": "jacob degrom",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "yainer diaz",
       "pitcher": "jacob degrom",
@@ -2492,11 +2516,17 @@
     }
   },
   "min @ kc": {
+    "21": {
+      "player": "salvador perez",
+      "pitcher": "joe ryan",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "20": {
       "player": "vinnie pasquantino",
       "pitcher": "joe ryan",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "maikel garcia",
