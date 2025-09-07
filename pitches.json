@@ -1589,8 +1589,8 @@
     "55": {
       "player": "caleb durbin",
       "pitcher": "yohan ramirez",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "andrew vaughn",
@@ -2914,10 +2914,16 @@
     }
   },
   "min @ kc": {
+    "42": {
+      "player": "royce lewis",
+      "pitcher": "angel zerpa",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "41": {
       "player": "kody clemens",
       "pitcher": "angel zerpa",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "40": {
@@ -3166,7 +3172,7 @@
       "player": "jose fermin",
       "pitcher": "kai wei teng",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "nathan church",
@@ -3762,6 +3768,12 @@
     }
   },
   "sd @ col": {
+    "11": {
+      "player": "jake cronenworth",
+      "pitcher": "tanner gordon",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "10": {
       "player": "jackson merrill",
       "pitcher": "tanner gordon",
