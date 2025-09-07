@@ -901,8 +901,8 @@
     "31": {
       "player": "ryan mountcastle",
       "pitcher": "clayton kershaw",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "30": {
       "player": "mookie betts",
@@ -1086,11 +1086,17 @@
     }
   },
   "tor @ nyy": {
-    "32": {
-      "player": "myles straw",
+    "33": {
+      "player": "george springer",
       "pitcher": "max fried",
       "result": "Ball",
       "pitch": "Changeup"
+    },
+    "32": {
+      "player": "myles straw",
+      "pitcher": "max fried",
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "nathan lukes",
@@ -2306,6 +2312,12 @@
     }
   },
   "wsh @ chc": {
+    "15": {
+      "player": "kevin alcantara",
+      "pitcher": "andrew alvarez",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "14": {
       "player": "matt shaw",
       "pitcher": "andrew alvarez",
