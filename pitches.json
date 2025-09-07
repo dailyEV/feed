@@ -431,8 +431,8 @@
     "70": {
       "player": "angel martinez",
       "pitcher": "edwin uceta",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "69": {
       "player": "steven kwan",
@@ -853,8 +853,8 @@
     "28": {
       "player": "ben rortvedt",
       "pitcher": "grant wolfram",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "27": {
       "player": "enrique hernandez",
@@ -1023,8 +1023,8 @@
     "29": {
       "player": "giancarlo stanton",
       "pitcher": "max scherzer",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "ben rice",
@@ -1372,6 +1372,12 @@
     }
   },
   "nym @ cin": {
+    "31": {
+      "player": "brett baty",
+      "pitcher": "hunter greene",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "francisco alvarez",
       "pitcher": "hunter greene",
@@ -1557,8 +1563,8 @@
     "28": {
       "player": "spencer torkelson",
       "pitcher": "davis martin",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "27": {
       "player": "riley greene",
@@ -1724,6 +1730,12 @@
     }
   },
   "phi @ mia": {
+    "33": {
+      "player": "nick castellanos",
+      "pitcher": "cade gibson",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "32": {
       "player": "brandon marsh",
       "pitcher": "cade gibson",
@@ -1921,8 +1933,8 @@
     "16": {
       "player": "byron buxton",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "15": {
       "player": "jhonny pereda",
@@ -2156,7 +2168,7 @@
       "player": "jeremy pena",
       "pitcher": "patrick corbin",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Cutter"
     }
   },
   "sd @ col": {},
