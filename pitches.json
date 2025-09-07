@@ -1,11 +1,5 @@
 {
   "sea @ atl": {
-    "59": {
-      "player": "drake baldwin",
-      "pitcher": "jose castillo",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "58": {
       "player": "ozzie albies",
       "pitcher": "jose castillo",
@@ -832,7 +826,7 @@
       "player": "davis schneider",
       "pitcher": "max fried",
       "result": "Foul",
-      "pitch": "Cutter"
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "george springer",
@@ -1066,6 +1060,12 @@
     }
   },
   "nym @ cin": {
+    "20": {
+      "player": "tj friedl",
+      "pitcher": "brandon sproat",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "19": {
       "player": "matt mclain",
       "pitcher": "brandon sproat",
@@ -1289,8 +1289,8 @@
     "20": {
       "player": "agustin ramirez",
       "pitcher": "taijuan walker",
-      "result": "Foul Tip",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "jakob marsee",
