@@ -1224,6 +1224,12 @@
     }
   },
   "tor @ nyy": {
+    "44": {
+      "player": "ben rice",
+      "pitcher": "ryan borucki",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "43": {
       "player": "cody bellinger",
       "pitcher": "ryan borucki",
@@ -1487,8 +1493,8 @@
     "46": {
       "player": "jared triolo",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "45": {
       "player": "ji hwan bae",
@@ -1765,7 +1771,7 @@
     "48": {
       "player": "jeff mcneil",
       "pitcher": "hunter greene",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -2052,17 +2058,11 @@
     }
   },
   "chw @ det": {
-    "44": {
-      "player": "gleyber torres",
-      "pitcher": "davis martin",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "43": {
       "player": "parker meadows",
       "pitcher": "davis martin",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "will robertson",
@@ -2623,8 +2623,8 @@
     "32": {
       "player": "byron buxton",
       "pitcher": "michael lorenzen",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "jhonny pereda",
@@ -2981,8 +2981,8 @@
     "29": {
       "player": "justin turner",
       "pitcher": "andrew alvarez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "dansby swanson",
@@ -3261,7 +3261,7 @@
     "3": {
       "player": "manny machado",
       "pitcher": "tanner gordon",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "2": {
