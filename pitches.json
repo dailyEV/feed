@@ -1257,8 +1257,8 @@
     "50": {
       "player": "austin wells",
       "pitcher": "ryan borucki",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "49": {
       "player": "jazz chisholm",
@@ -1559,8 +1559,8 @@
     "52": {
       "player": "nick gonzales",
       "pitcher": "jacob misiorowski",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "bryan reynolds",
@@ -2184,6 +2184,12 @@
     }
   },
   "chw @ det": {
+    "51": {
+      "player": "spencer torkelson",
+      "pitcher": "davis martin",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "50": {
       "player": "kyle teel",
       "pitcher": "troy melton",
@@ -3236,12 +3242,6 @@
     }
   },
   "wsh @ chc": {
-    "35": {
-      "player": "matt shaw",
-      "pitcher": "andrew alvarez",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "34": {
       "player": "dylan crews",
       "pitcher": "colin rea",
@@ -3591,7 +3591,7 @@
     "8": {
       "player": "mickey moniak",
       "pitcher": "dylan cease",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "7": {
