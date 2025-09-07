@@ -1263,7 +1263,7 @@
     "60": {
       "player": "dillon dingler",
       "pitcher": "dan altavilla",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -1626,7 +1626,7 @@
       "player": "elly de la cruz",
       "pitcher": "jonah tong",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "46": {
       "player": "brett baty",
@@ -1909,8 +1909,8 @@
     "47": {
       "player": "bryan reynolds",
       "pitcher": "erick fedde",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "46": {
       "player": "blake perkins",
@@ -2348,11 +2348,17 @@
     }
   },
   "cle @ tb": {
+    "34": {
+      "player": "jose ramirez",
+      "pitcher": "shane baz",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "33": {
       "player": "george valera",
       "pitcher": "shane baz",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "32": {
       "player": "steven kwan",
@@ -3064,11 +3070,17 @@
     }
   },
   "sea @ atl": {
+    "30": {
+      "player": "ozzie albies",
+      "pitcher": "bryce miller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "matt olson",
       "pitcher": "bryce miller",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Splitter"
     },
     "28": {
       "player": "leo rivas",
