@@ -449,7 +449,7 @@
     "71": {
       "player": "everson pereira",
       "pitcher": "cade smith",
-      "result": "Foul Tip",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "70": {
@@ -1248,7 +1248,7 @@
       "player": "bryan reynolds",
       "pitcher": "jacob misiorowski",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "spencer horwitz",
@@ -1441,8 +1441,8 @@
     "34": {
       "player": "kebryan hayes",
       "pitcher": "brandon sproat",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "33": {
       "player": "tyler stephenson",
@@ -1820,6 +1820,12 @@
     }
   },
   "phi @ mia": {
+    "35": {
+      "player": "jakob marsee",
+      "pitcher": "taijuan walker",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "34": {
       "player": "xavier edwards",
       "pitcher": "taijuan walker",
@@ -2029,8 +2035,8 @@
     "18": {
       "player": "kyle isbel",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "17": {
       "player": "nick loftin",
@@ -2136,6 +2142,12 @@
     }
   },
   "sf @ stl": {
+    "15": {
+      "player": "andrew knizner",
+      "pitcher": "sonny gray",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "drew gilbert",
       "pitcher": "sonny gray",
@@ -2222,6 +2234,12 @@
     }
   },
   "wsh @ chc": {
+    "14": {
+      "player": "matt shaw",
+      "pitcher": "andrew alvarez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "justin turner",
       "pitcher": "andrew alvarez",
@@ -2305,7 +2323,7 @@
     "4": {
       "player": "carlos correa",
       "pitcher": "patrick corbin",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "3": {
