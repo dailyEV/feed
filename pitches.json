@@ -961,8 +961,8 @@
     "67": {
       "player": "alex jackson",
       "pitcher": "justin wrobleski",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "emmanuel rivera",
@@ -1757,8 +1757,8 @@
     "69": {
       "player": "cam devanney",
       "pitcher": "joel payamps",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "68": {
       "player": "ji hwan bae",
@@ -2550,10 +2550,16 @@
     }
   },
   "chw @ det": {
+    "67": {
+      "player": "kyle teel",
+      "pitcher": "tommy kahnle",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "66": {
       "player": "mike tauchman",
       "pitcher": "tommy kahnle",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "65": {
@@ -3678,6 +3684,12 @@
     }
   },
   "sf @ stl": {
+    "51": {
+      "player": "nathan church",
+      "pitcher": "spencer bivens",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "50": {
       "player": "jordan walker",
       "pitcher": "spencer bivens",
@@ -4300,10 +4312,16 @@
     }
   },
   "hou @ tex": {
+    "41": {
+      "player": "wyatt langford",
+      "pitcher": "framber valdez",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "40": {
       "player": "ezequiel duran",
       "pitcher": "framber valdez",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "39": {
@@ -4699,6 +4717,13 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "ath @ laa": {},
+  "ath @ laa": {
+    "1": {
+      "player": "nick kurtz",
+      "pitcher": "mitch farris",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "bos @ ari": {}
 }
