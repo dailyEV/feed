@@ -1819,8 +1819,8 @@
     "50": {
       "player": "kebryan hayes",
       "pitcher": "reed garrett",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "49": {
       "player": "tyler stephenson",
@@ -2118,12 +2118,6 @@
     }
   },
   "chw @ det": {
-    "48": {
-      "player": "chase meidroth",
-      "pitcher": "troy melton",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "47": {
       "player": "brooks baldwin",
       "pitcher": "troy melton",
@@ -2408,6 +2402,12 @@
     }
   },
   "phi @ mia": {
+    "53": {
+      "player": "max kepler",
+      "pitcher": "michael petersen",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "xavier edwards",
       "pitcher": "taijuan walker",
@@ -2722,11 +2722,23 @@
     }
   },
   "min @ kc": {
+    "37": {
+      "player": "kyle isbel",
+      "pitcher": "bailey ober",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "36": {
+      "player": "nick loftin",
+      "pitcher": "bailey ober",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "35": {
       "player": "michael massey",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "randal grichuk",
@@ -3116,6 +3128,12 @@
     }
   },
   "wsh @ chc": {
+    "32": {
+      "player": "luis garcia",
+      "pitcher": "colin rea",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "andres chaparro",
       "pitcher": "colin rea",
@@ -3432,6 +3450,12 @@
     }
   },
   "sd @ col": {
+    "6": {
+      "player": "tyler freeman",
+      "pitcher": "dylan cease",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "ramon laureano",
       "pitcher": "tanner gordon",
