@@ -2517,8 +2517,8 @@
     "67": {
       "player": "jeremiah jackson",
       "pitcher": "blake treinen",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "66": {
       "player": "jackson holliday",
@@ -4645,8 +4645,8 @@
     "74": {
       "player": "ozzie albies",
       "pitcher": "caleb ferguson",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Slurve"
     },
     "73": {
       "player": "victor robles",
@@ -5088,6 +5088,12 @@
     }
   },
   "bos @ ari": {
+    "51": {
+      "player": "jordan lawlar",
+      "pitcher": "justin wilson",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "tyler locklear",
       "pitcher": "justin wilson",
@@ -5393,8 +5399,8 @@
     "53": {
       "player": "jackson merrill",
       "pitcher": "jaden hill",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "52": {
       "player": "ramon laureano",
@@ -5710,11 +5716,17 @@
     }
   },
   "ath @ laa": {
+    "10": {
+      "player": "yoan moncada",
+      "pitcher": "jt ginn",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "mike trout",
       "pitcher": "jt ginn",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "8": {
       "player": "zach neto",
