@@ -1353,8 +1353,8 @@
     "65": {
       "player": "giancarlo stanton",
       "pitcher": "jeff hoffman",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "64": {
       "player": "ben rice",
@@ -2909,7 +2909,7 @@
     "66": {
       "player": "nick castellanos",
       "pitcher": "ronny henriquez",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "65": {
@@ -3304,6 +3304,12 @@
     }
   },
   "min @ kc": {
+    "54": {
+      "player": "luke keaschall",
+      "pitcher": "taylor clarke",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "53": {
       "player": "matt wallner",
       "pitcher": "daniel lynch",
@@ -3914,6 +3920,12 @@
     }
   },
   "wsh @ chc": {
+    "52": {
+      "player": "nico hoerner",
+      "pitcher": "jackson rutledge",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "51": {
       "player": "kevin alcantara",
       "pitcher": "jackson rutledge",
@@ -4461,7 +4473,7 @@
     "25": {
       "player": "mickey moniak",
       "pitcher": "dylan cease",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "24": {
