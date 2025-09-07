@@ -2517,7 +2517,7 @@
     "63": {
       "player": "mookie betts",
       "pitcher": "albert suarez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "62": {
@@ -4103,8 +4103,8 @@
     "74": {
       "player": "jac caglianone",
       "pitcher": "michael tonkin",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "73": {
       "player": "adam frazier",
@@ -4546,6 +4546,12 @@
     }
   },
   "sea @ atl": {
+    "70": {
+      "player": "eugenio suarez",
+      "pitcher": "john brebbia",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "69": {
       "player": "josh naylor",
       "pitcher": "john brebbia",
@@ -5240,6 +5246,12 @@
     }
   },
   "sd @ col": {
+    "47": {
+      "player": "warming bernabel",
+      "pitcher": "randy vasquez",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "46": {
       "player": "manny machado",
       "pitcher": "jaden hill",
@@ -5521,8 +5533,8 @@
     "5": {
       "player": "jacob wilson",
       "pitcher": "yusei kikuchi",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "4": {
       "player": "colby thomas",
