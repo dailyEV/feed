@@ -958,10 +958,16 @@
     }
   },
   "lad @ bal": {
+    "47": {
+      "player": "ryan mountcastle",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "jeremiah jackson",
       "pitcher": "clayton kershaw",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "45": {
@@ -2726,7 +2732,7 @@
       "player": "kyle isbel",
       "pitcher": "bailey ober",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "36": {
       "player": "nick loftin",
@@ -3128,6 +3134,12 @@
     }
   },
   "wsh @ chc": {
+    "33": {
+      "player": "brady house",
+      "pitcher": "colin rea",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "luis garcia",
       "pitcher": "colin rea",
@@ -3450,12 +3462,6 @@
     }
   },
   "sd @ col": {
-    "6": {
-      "player": "tyler freeman",
-      "pitcher": "dylan cease",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "5": {
       "player": "ramon laureano",
       "pitcher": "tanner gordon",
