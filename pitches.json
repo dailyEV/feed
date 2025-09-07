@@ -931,7 +931,7 @@
     "35": {
       "player": "freddie freeman",
       "pitcher": "grant wolfram",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -1140,11 +1140,17 @@
     }
   },
   "tor @ nyy": {
+    "36": {
+      "player": "anthony volpe",
+      "pitcher": "max scherzer",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "35": {
       "player": "austin wells",
       "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "jazz chisholm",
@@ -1576,6 +1582,18 @@
     }
   },
   "nym @ cin": {
+    "40": {
+      "player": "noelvi marte",
+      "pitcher": "brandon sproat",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
+    "39": {
+      "player": "tj friedl",
+      "pitcher": "brandon sproat",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "juan soto",
       "pitcher": "hunter greene",
@@ -2027,8 +2045,8 @@
     "41": {
       "player": "liam hicks",
       "pitcher": "taijuan walker",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "40": {
       "player": "otto lopez",
@@ -2532,7 +2550,7 @@
       "player": "robert hassell",
       "pitcher": "colin rea",
       "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "dylan crews",
