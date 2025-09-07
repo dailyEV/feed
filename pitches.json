@@ -1202,16 +1202,10 @@
     }
   },
   "mil @ pit": {
-    "31": {
-      "player": "spencer horwitz",
-      "pitcher": "jacob misiorowski",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "30": {
       "player": "jared triolo",
       "pitcher": "jacob misiorowski",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -1390,6 +1384,12 @@
     }
   },
   "nym @ cin": {
+    "32": {
+      "player": "sal stewart",
+      "pitcher": "brandon sproat",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "31": {
       "player": "brett baty",
       "pitcher": "hunter greene",
@@ -1751,8 +1751,8 @@
     "33": {
       "player": "nick castellanos",
       "pitcher": "cade gibson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "32": {
       "player": "brandon marsh",
@@ -1948,6 +1948,12 @@
     }
   },
   "min @ kc": {
+    "17": {
+      "player": "nick loftin",
+      "pitcher": "bailey ober",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "16": {
       "player": "byron buxton",
       "pitcher": "michael lorenzen",
@@ -2123,7 +2129,7 @@
     "12": {
       "player": "dansby swanson",
       "pitcher": "andrew alvarez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "11": {
@@ -2194,17 +2200,11 @@
     }
   },
   "hou @ tex": {
-    "3": {
-      "player": "jose altuve",
-      "pitcher": "patrick corbin",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "2": {
       "player": "yordan alvarez",
       "pitcher": "patrick corbin",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "1": {
       "player": "jeremy pena",
