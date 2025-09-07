@@ -1508,12 +1508,6 @@
     }
   },
   "mil @ pit": {
-    "49": {
-      "player": "william contreras",
-      "pitcher": "dauri moreta",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "48": {
       "player": "isaac collins",
       "pitcher": "dauri moreta",
@@ -2372,11 +2366,17 @@
     }
   },
   "phi @ mia": {
+    "52": {
+      "player": "xavier edwards",
+      "pitcher": "taijuan walker",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "victor mesa",
       "pitcher": "taijuan walker",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "50": {
       "player": "maximo acosta",
@@ -3053,8 +3053,8 @@
     "30": {
       "player": "daylen lile",
       "pitcher": "colin rea",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "29": {
       "player": "justin turner",
@@ -3357,7 +3357,7 @@
     "4": {
       "player": "ryan ohearn",
       "pitcher": "tanner gordon",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "3": {
