@@ -2517,8 +2517,8 @@
     "51": {
       "player": "alex call",
       "pitcher": "albert suarez",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Slurve"
     },
     "49": {
       "player": "teoscar hernandez",
@@ -2819,8 +2819,8 @@
     "59": {
       "player": "nolan jones",
       "pitcher": "edwin uceta",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "kyle manzardo",
@@ -3818,6 +3818,18 @@
     }
   },
   "min @ kc": {
+    "61": {
+      "player": "mickey gasper",
+      "pitcher": "stephen kolek",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
+    "60": {
+      "player": "edouard julien",
+      "pitcher": "stephen kolek",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "59": {
       "player": "kyle isbel",
       "pitcher": "brooks kriske",
@@ -4724,17 +4736,11 @@
     }
   },
   "sd @ col": {
-    "37": {
-      "player": "kyle karros",
-      "pitcher": "randy vasquez",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "36": {
       "player": "ezequiel tovar",
       "pitcher": "randy vasquez",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "35": {
       "player": "brenton doyle",
