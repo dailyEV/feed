@@ -961,8 +961,8 @@
     "72": {
       "player": "michael conforto",
       "pitcher": "rico garcia",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "freddie freeman",
@@ -3071,8 +3071,8 @@
     "72": {
       "player": "agustin ramirez",
       "pitcher": "lou trivino",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "71": {
       "player": "jakob marsee",
@@ -4567,8 +4567,8 @@
     "46": {
       "player": "christian walker",
       "pitcher": "phil maton",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "45": {
       "player": "kyle higashioka",
@@ -4842,10 +4842,16 @@
     }
   },
   "sd @ col": {
+    "33": {
+      "player": "manny machado",
+      "pitcher": "luis peralta",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "luis arraez",
       "pitcher": "luis peralta",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -5089,7 +5095,7 @@
     "5": {
       "player": "ketel marte",
       "pitcher": "brayan bello",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "4": {
