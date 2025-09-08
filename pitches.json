@@ -131,7 +131,7 @@
     "20": {
       "player": "james wood",
       "pitcher": "janson junk",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "19": {
@@ -250,10 +250,16 @@
     }
   },
   "nym @ phi": {
+    "15": {
+      "player": "nick castellanos",
+      "pitcher": "nolan mclean",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
     "14": {
       "player": "harrison bader",
       "pitcher": "nolan mclean",
-      "result": "In play, no out",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "13": {
@@ -340,7 +346,7 @@
       "player": "jurickson profar",
       "pitcher": "shota imanaga",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "3": {
       "player": "seiya suzuki",
