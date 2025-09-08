@@ -3,7 +3,7 @@
     "11": {
       "player": "jac caglianone",
       "pitcher": "slade cecconi",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -68,17 +68,11 @@
     }
   },
   "wsh @ mia": {
-    "10": {
-      "player": "paul dejong",
-      "pitcher": "janson junk",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "9": {
       "player": "riley adams",
       "pitcher": "janson junk",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "8": {
       "player": "luis garcia",
@@ -130,6 +124,12 @@
     }
   },
   "nym @ phi": {
+    "5": {
+      "player": "bryce harper",
+      "pitcher": "nolan mclean",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "brandon nimmo",
       "pitcher": "aaron nola",
