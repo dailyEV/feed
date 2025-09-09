@@ -4,7 +4,7 @@
       "player": "daniel schneemann",
       "pitcher": "taylor clarke",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "61": {
       "player": "steven kwan",
@@ -371,8 +371,8 @@
     "59": {
       "player": "heriberto hernandez",
       "pitcher": "orlando ribalta",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "58": {
       "player": "liam hicks",
@@ -727,8 +727,8 @@
     "51": {
       "player": "jeff mcneil",
       "pitcher": "david robertson",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "50": {
       "player": "mark vientos",
@@ -1032,6 +1032,12 @@
     }
   },
   "chc @ atl": {
+    "46": {
+      "player": "nico hoerner",
+      "pitcher": "bryce elder",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "45": {
       "player": "drake baldwin",
       "pitcher": "shota imanaga",
@@ -1304,12 +1310,6 @@
     }
   },
   "mil @ tex": {
-    "17": {
-      "player": "michael helman",
-      "pitcher": "jose quintana",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "16": {
       "player": "jonah heim",
       "pitcher": "jose quintana",
