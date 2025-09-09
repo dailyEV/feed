@@ -233,7 +233,7 @@
     "41": {
       "player": "jose ramirez",
       "pitcher": "noah cameron",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Cutter"
     },
     "40": {
@@ -675,8 +675,8 @@
     "30": {
       "player": "bryson stott",
       "pitcher": "sean manaea",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "29": {
       "player": "weston wilson",
@@ -964,6 +964,12 @@
     }
   },
   "hou @ tor": {
+    "17": {
+      "player": "joey loperfido",
+      "pitcher": "aj blubaugh",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "16": {
       "player": "ernie clement",
       "pitcher": "aj blubaugh",
@@ -1065,8 +1071,8 @@
     "18": {
       "player": "seiya suzuki",
       "pitcher": "spencer strider",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "17": {
       "player": "ian happ",
