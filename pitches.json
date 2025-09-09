@@ -2173,8 +2173,8 @@
     "16": {
       "player": "matthew lugo",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "15": {
       "player": "oswald peraza",
@@ -2354,6 +2354,12 @@
     }
   },
   "stl @ sea": {
+    "13": {
+      "player": "thomas saggese",
+      "pitcher": "bryan woo",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "eugenio suarez",
       "pitcher": "miles mikolas",
@@ -2428,6 +2434,12 @@
     }
   },
   "ari @ sf": {
+    "16": {
+      "player": "drew gilbert",
+      "pitcher": "nabil crismatt",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "15": {
       "player": "matt chapman",
       "pitcher": "nabil crismatt",
@@ -2550,7 +2562,7 @@
       "player": "tyler freeman",
       "pitcher": "tyler glasnow",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     }
   }
 }
