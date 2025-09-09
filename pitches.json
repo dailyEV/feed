@@ -2215,8 +2215,8 @@
     "27": {
       "player": "zach neto",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Hit By Pitch",
+      "pitch": "Splitter"
     },
     "26": {
       "player": "kody clemens",
@@ -2534,6 +2534,12 @@
     }
   },
   "stl @ sea": {
+    "27": {
+      "player": "josh naylor",
+      "pitcher": "miles mikolas",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "26": {
       "player": "julio rodriguez",
       "pitcher": "miles mikolas",
@@ -2692,11 +2698,17 @@
     }
   },
   "ari @ sf": {
+    "33": {
+      "player": "jake mccarthy",
+      "pitcher": "logan webb",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "32": {
       "player": "ildemaro vargas",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "drew gilbert",
@@ -2889,7 +2901,7 @@
     "17": {
       "player": "darell hernaiz",
       "pitcher": "garrett crochet",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "16": {
