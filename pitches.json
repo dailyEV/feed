@@ -3,7 +3,7 @@
     "48": {
       "player": "jose ramirez",
       "pitcher": "daniel lynch",
-      "result": "In play, no out",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "47": {
@@ -287,8 +287,8 @@
     "47": {
       "player": "jakob marsee",
       "pitcher": "cade cavalli",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "46": {
       "player": "xavier edwards",
@@ -813,8 +813,8 @@
     "31": {
       "player": "nico hoerner",
       "pitcher": "bryce elder",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "30": {
       "player": "marcell ozuna",
@@ -998,6 +998,12 @@
     }
   },
   "mil @ tex": {
+    "4": {
+      "player": "wyatt langford",
+      "pitcher": "jose quintana",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "william contreras",
       "pitcher": "jacob latz",
