@@ -1823,8 +1823,8 @@
     "54": {
       "player": "sal frelick",
       "pitcher": "jacob webb",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "53": {
       "player": "isaac collins",
@@ -2150,7 +2150,7 @@
       "player": "james outman",
       "pitcher": "caden dana",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "12": {
       "player": "mickey gasper",
@@ -2226,6 +2226,12 @@
     }
   },
   "cin @ sd": {
+    "11": {
+      "player": "jose trevino",
+      "pitcher": "yu darvish",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "kebryan hayes",
       "pitcher": "yu darvish",
@@ -2291,8 +2297,8 @@
     "9": {
       "player": "jimmy crooks",
       "pitcher": "bryan woo",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "masyn winn",
@@ -2344,10 +2350,16 @@
     }
   },
   "ari @ sf": {
+    "12": {
+      "player": "ildemaro vargas",
+      "pitcher": "logan webb",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "alek thomas",
       "pitcher": "logan webb",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "10": {
