@@ -1823,8 +1823,8 @@
     "63": {
       "player": "jackson chourio",
       "pitcher": "chris martin",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "62": {
       "player": "joc pederson",
@@ -2325,7 +2325,7 @@
     "18": {
       "player": "noelvi marte",
       "pitcher": "yu darvish",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "17": {
@@ -2436,7 +2436,7 @@
       "player": "jp crawford",
       "pitcher": "miles mikolas",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "victor scott",
@@ -2708,11 +2708,17 @@
     }
   },
   "col @ lad": {
+    "5": {
+      "player": "mookie betts",
+      "pitcher": "chase dollander",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "shohei ohtani",
       "pitcher": "chase dollander",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "3": {
       "player": "hunter goodman",
