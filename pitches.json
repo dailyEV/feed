@@ -323,8 +323,8 @@
     "52": {
       "player": "daylen lile",
       "pitcher": "josh simpson",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "51": {
       "player": "josh bell",
@@ -634,11 +634,17 @@
     }
   },
   "nym @ phi": {
+    "45": {
+      "player": "brandon nimmo",
+      "pitcher": "aaron nola",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "pete alonso",
       "pitcher": "aaron nola",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "juan soto",
@@ -903,7 +909,7 @@
     "37": {
       "player": "matt shaw",
       "pitcher": "bryce elder",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "36": {
