@@ -215,8 +215,8 @@
     "38": {
       "player": "bobby witt",
       "pitcher": "joey cantillo",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "maikel garcia",
@@ -446,7 +446,7 @@
       "player": "dylan crews",
       "pitcher": "adam mazur",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "brady house",
@@ -960,6 +960,12 @@
     }
   },
   "chc @ atl": {
+    "15": {
+      "player": "michael harris",
+      "pitcher": "cade horton",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "ha seong kim",
       "pitcher": "cade horton",
@@ -1046,11 +1052,17 @@
     }
   },
   "tb @ chw": {
+    "3": {
+      "player": "brandon lowe",
+      "pitcher": "yoendrys gomez",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "2": {
       "player": "yandy diaz",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "chandler simpson",
