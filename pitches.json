@@ -2164,12 +2164,6 @@
     }
   },
   "min @ laa": {
-    "16": {
-      "player": "matthew lugo",
-      "pitcher": "simeon woods richardson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "15": {
       "player": "oswald peraza",
       "pitcher": "simeon woods richardson",
@@ -2416,6 +2410,12 @@
     }
   },
   "ari @ sf": {
+    "15": {
+      "player": "matt chapman",
+      "pitcher": "nabil crismatt",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "geraldo perdomo",
       "pitcher": "logan webb",
@@ -2521,5 +2521,12 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "col @ lad": {}
+  "col @ lad": {
+    "1": {
+      "player": "tyler freeman",
+      "pitcher": "tyler glasnow",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    }
+  }
 }
