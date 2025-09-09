@@ -1820,10 +1820,16 @@
     }
   },
   "mil @ tex": {
+    "65": {
+      "player": "christian yelich",
+      "pitcher": "chris martin",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "64": {
       "player": "william contreras",
       "pitcher": "chris martin",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "63": {
@@ -2206,6 +2212,12 @@
     }
   },
   "min @ laa": {
+    "22": {
+      "player": "matt wallner",
+      "pitcher": "caden dana",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "austin martin",
       "pitcher": "caden dana",
@@ -2456,6 +2468,12 @@
     }
   },
   "stl @ sea": {
+    "19": {
+      "player": "lars nootbaar",
+      "pitcher": "bryan woo",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "18": {
       "player": "leo rivas",
       "pitcher": "miles mikolas",
@@ -2789,7 +2807,7 @@
     "5": {
       "player": "mookie betts",
       "pitcher": "chase dollander",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "4": {
