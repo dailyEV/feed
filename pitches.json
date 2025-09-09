@@ -1823,8 +1823,8 @@
     "55": {
       "player": "blake perkins",
       "pitcher": "jacob webb",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "54": {
       "player": "sal frelick",
@@ -2155,8 +2155,8 @@
     "13": {
       "player": "james outman",
       "pitcher": "caden dana",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "12": {
       "player": "mickey gasper",
@@ -2235,8 +2235,8 @@
     "11": {
       "player": "jose trevino",
       "pitcher": "yu darvish",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "10": {
       "player": "kebryan hayes",
@@ -2303,8 +2303,8 @@
     "9": {
       "player": "jimmy crooks",
       "pitcher": "bryan woo",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "masyn winn",
@@ -2356,11 +2356,17 @@
     }
   },
   "ari @ sf": {
+    "13": {
+      "player": "jake mccarthy",
+      "pitcher": "logan webb",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
+    },
     "12": {
       "player": "ildemaro vargas",
       "pitcher": "logan webb",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "11": {
       "player": "alek thomas",
