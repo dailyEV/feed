@@ -239,8 +239,8 @@
     "42": {
       "player": "david fry",
       "pitcher": "noah cameron",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "jose ramirez",
@@ -493,8 +493,8 @@
     "34": {
       "player": "otto lopez",
       "pitcher": "mitchell parker",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "33": {
       "player": "jakob marsee",
@@ -1104,6 +1104,12 @@
     }
   },
   "chc @ atl": {
+    "20": {
+      "player": "nico hoerner",
+      "pitcher": "spencer strider",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "pete crow armstrong",
       "pitcher": "spencer strider",
@@ -1220,6 +1226,12 @@
     }
   },
   "tb @ chw": {
+    "8": {
+      "player": "edgar quero",
+      "pitcher": "adrian houser",
+      "result": "Foul Tip",
+      "pitch": "Sinker"
+    },
     "7": {
       "player": "colson montgomery",
       "pitcher": "adrian houser",
