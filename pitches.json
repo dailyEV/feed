@@ -2352,11 +2352,17 @@
     }
   },
   "cin @ sd": {
+    "23": {
+      "player": "fernando tatis",
+      "pitcher": "nick lodolo",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "22": {
       "player": "freddy fermin",
       "pitcher": "nick lodolo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "21": {
       "player": "jake cronenworth",
@@ -2489,8 +2495,8 @@
     "22": {
       "player": "nolan gorman",
       "pitcher": "bryan woo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "21": {
       "player": "alec burleson",
@@ -2778,6 +2784,12 @@
     }
   },
   "bos @ ath": {
+    "13": {
+      "player": "jarren duran",
+      "pitcher": "luis morales",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "carlos narvaez",
       "pitcher": "luis morales",
@@ -2855,8 +2867,8 @@
     "7": {
       "player": "jordan beck",
       "pitcher": "tyler glasnow",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "6": {
       "player": "freddie freeman",
