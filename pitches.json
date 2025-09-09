@@ -1,11 +1,5 @@
 {
   "pit @ bal": {
-    "30": {
-      "player": "ryan mountcastle",
-      "pitcher": "mike burrows",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "29": {
       "player": "gunnar henderson",
       "pitcher": "mike burrows",
@@ -370,6 +364,12 @@
     }
   },
   "wsh @ mia": {
+    "24": {
+      "player": "xavier edwards",
+      "pitcher": "mitchell parker",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "javier sanoja",
       "pitcher": "mitchell parker",
@@ -638,11 +638,17 @@
     }
   },
   "det @ nyy": {
-    "9": {
-      "player": "spencer torkelson",
+    "10": {
+      "player": "wenceel perez",
       "pitcher": "will warren",
       "result": "Ball",
       "pitch": "Sweeper"
+    },
+    "9": {
+      "player": "spencer torkelson",
+      "pitcher": "will warren",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "ben rice",
@@ -697,8 +703,8 @@
     "13": {
       "player": "daulton varsho",
       "pitcher": "luis garcia",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "mauricio dubon",
