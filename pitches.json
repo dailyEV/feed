@@ -884,11 +884,17 @@
     }
   },
   "det @ nyy": {
+    "20": {
+      "player": "trent grisham",
+      "pitcher": "casey mize",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "19": {
       "player": "ryan mcmahon",
       "pitcher": "casey mize",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "18": {
       "player": "anthony volpe",
@@ -1107,7 +1113,7 @@
     "20": {
       "player": "nico hoerner",
       "pitcher": "spencer strider",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -1229,8 +1235,8 @@
     "8": {
       "player": "edgar quero",
       "pitcher": "adrian houser",
-      "result": "Foul Tip",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "7": {
       "player": "colson montgomery",
