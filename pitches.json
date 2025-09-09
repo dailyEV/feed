@@ -1823,7 +1823,7 @@
     "46": {
       "player": "andrew vaughn",
       "pitcher": "cole winn",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "45": {
@@ -2101,7 +2101,7 @@
     "4": {
       "player": "mike trout",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -2127,8 +2127,8 @@
     "2": {
       "player": "noelvi marte",
       "pitcher": "yu darvish",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "1": {
       "player": "tj friedl",
@@ -2138,12 +2138,6 @@
     }
   },
   "stl @ sea": {
-    "3": {
-      "player": "alec burleson",
-      "pitcher": "bryan woo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "2": {
       "player": "ivan herrera",
       "pitcher": "bryan woo",
@@ -2161,8 +2155,8 @@
     "2": {
       "player": "ketel marte",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "1": {
       "player": "geraldo perdomo",
