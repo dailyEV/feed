@@ -3,8 +3,8 @@
     "39": {
       "player": "jackson holliday",
       "pitcher": "braxton ashcraft",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "38": {
       "player": "coby mayo",
@@ -493,7 +493,7 @@
     "33": {
       "player": "jakob marsee",
       "pitcher": "mitchell parker",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "32": {
@@ -876,7 +876,7 @@
       "player": "ryan mcmahon",
       "pitcher": "casey mize",
       "result": "Foul",
-      "pitch": "Splitter"
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "anthony volpe",
@@ -1208,11 +1208,17 @@
     }
   },
   "tb @ chw": {
+    "8": {
+      "player": "edgar quero",
+      "pitcher": "adrian houser",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "7": {
       "player": "colson montgomery",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "6": {
       "player": "lenyn sosa",
