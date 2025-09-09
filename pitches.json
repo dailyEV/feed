@@ -3,8 +3,8 @@
     "70": {
       "player": "angel martinez",
       "pitcher": "luke maile",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "69": {
       "player": "bo naylor",
@@ -416,12 +416,6 @@
     }
   },
   "wsh @ mia": {
-    "68": {
-      "player": "xavier edwards",
-      "pitcher": "orlando ribalta",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
-    },
     "67": {
       "player": "victor mesa",
       "pitcher": "orlando ribalta",
@@ -1182,11 +1176,17 @@
     }
   },
   "chc @ atl": {
+    "53": {
+      "player": "marcell ozuna",
+      "pitcher": "aaron civale",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "52": {
       "player": "michael harris",
       "pitcher": "aaron civale",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "51": {
       "player": "ronald acuna",
@@ -1496,6 +1496,12 @@
     }
   },
   "mil @ tex": {
+    "25": {
+      "player": "christian yelich",
+      "pitcher": "jacob latz",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "24": {
       "player": "josh jung",
       "pitcher": "jose quintana",
