@@ -473,8 +473,8 @@
     "90": {
       "player": "jack winkler",
       "pitcher": "shinnosuke ogasawara",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "89": {
       "player": "brian navarreto",
@@ -1808,6 +1808,12 @@
     }
   },
   "mil @ tex": {
+    "44": {
+      "player": "william contreras",
+      "pitcher": "cole winn",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "jake burger",
       "pitcher": "jose quintana",
@@ -2085,11 +2091,18 @@
     "1": {
       "player": "tj friedl",
       "pitcher": "yu darvish",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     }
   },
-  "stl @ sea": {},
+  "stl @ sea": {
+    "1": {
+      "player": "lars nootbaar",
+      "pitcher": "bryan woo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "ari @ sf": {},
   "bos @ ath": {},
   "col @ lad": {}
