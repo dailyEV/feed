@@ -1820,6 +1820,12 @@
     }
   },
   "mil @ tex": {
+    "62": {
+      "player": "joc pederson",
+      "pitcher": "carlos rodriguez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "61": {
       "player": "dylan moore",
       "pitcher": "carlos rodriguez",
@@ -2393,7 +2399,7 @@
     "14": {
       "player": "jordan walker",
       "pitcher": "bryan woo",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "13": {
@@ -2592,11 +2598,17 @@
     }
   },
   "bos @ ath": {
+    "6": {
+      "player": "brent rooker",
+      "pitcher": "garrett crochet",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "5": {
       "player": "shea langeliers",
       "pitcher": "garrett crochet",
       "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "nathaniel lowe",
