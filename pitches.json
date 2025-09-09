@@ -1,11 +1,5 @@
 {
   "kc @ cle": {
-    "76": {
-      "player": "luke maile",
-      "pitcher": "zak kent",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "75": {
       "player": "tyler tolbert",
       "pitcher": "zak kent",
@@ -455,8 +449,8 @@
     "71": {
       "player": "luis garcia",
       "pitcher": "george soriano",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "70": {
       "player": "brian navarreto",
@@ -1257,8 +1251,8 @@
     "57": {
       "player": "seiya suzuki",
       "pitcher": "tyler kinley",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "56": {
       "player": "ian happ",
@@ -1598,10 +1592,16 @@
     }
   },
   "mil @ tex": {
+    "30": {
+      "player": "dylan moore",
+      "pitcher": "jose quintana",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "jake burger",
       "pitcher": "jose quintana",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "28": {
