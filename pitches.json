@@ -3,7 +3,7 @@
     "32": {
       "player": "samuel basallo",
       "pitcher": "mike burrows",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "31": {
@@ -558,12 +558,6 @@
     }
   },
   "nym @ phi": {
-    "24": {
-      "player": "nick castellanos",
-      "pitcher": "sean manaea",
-      "result": "Foul",
-      "pitch": "Sweeper"
-    },
     "23": {
       "player": "jt realmuto",
       "pitcher": "sean manaea",
@@ -707,8 +701,8 @@
     "11": {
       "player": "parker meadows",
       "pitcher": "will warren",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "wenceel perez",
@@ -772,6 +766,18 @@
     }
   },
   "hou @ tor": {
+    "16": {
+      "player": "ernie clement",
+      "pitcher": "luis garcia",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
+    "15": {
+      "player": "addison barger",
+      "pitcher": "luis garcia",
+      "result": "Hit By Pitch",
+      "pitch": "Curveball"
+    },
     "14": {
       "player": "alejandro kirk",
       "pitcher": "luis garcia",
@@ -858,6 +864,12 @@
     }
   },
   "chc @ atl": {
+    "11": {
+      "player": "dansby swanson",
+      "pitcher": "spencer strider",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "10": {
       "player": "willi castro",
       "pitcher": "spencer strider",
