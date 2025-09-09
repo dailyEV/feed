@@ -4,7 +4,7 @@
       "player": "jose ramirez",
       "pitcher": "taylor clarke",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "62": {
       "player": "daniel schneemann",
@@ -377,8 +377,8 @@
     "61": {
       "player": "cj abrams",
       "pitcher": "george soriano",
-      "result": "Foul Tip",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "60": {
       "player": "robert hassell",
@@ -1056,11 +1056,17 @@
     }
   },
   "chc @ atl": {
+    "48": {
+      "player": "dansby swanson",
+      "pitcher": "bryce elder",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "willi castro",
       "pitcher": "bryce elder",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "46": {
       "player": "nico hoerner",
