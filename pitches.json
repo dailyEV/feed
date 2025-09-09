@@ -3,8 +3,8 @@
     "38": {
       "player": "coby mayo",
       "pitcher": "braxton ashcraft",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "37": {
       "player": "dylan beavers",
@@ -230,11 +230,17 @@
     }
   },
   "kc @ cle": {
+    "41": {
+      "player": "jose ramirez",
+      "pitcher": "noah cameron",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "40": {
       "player": "angel martinez",
       "pitcher": "noah cameron",
-      "result": "Foul Bunt",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "39": {
       "player": "steven kwan",
@@ -669,7 +675,7 @@
     "30": {
       "player": "bryson stott",
       "pitcher": "sean manaea",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "29": {
@@ -848,6 +854,12 @@
     }
   },
   "det @ nyy": {
+    "18": {
+      "player": "anthony volpe",
+      "pitcher": "casey mize",
+      "result": "Called Strike",
+      "pitch": "Slurve"
+    },
     "17": {
       "player": "colt keith",
       "pitcher": "will warren",
@@ -1157,7 +1169,7 @@
     "5": {
       "player": "kyle teel",
       "pitcher": "adrian houser",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "4": {
