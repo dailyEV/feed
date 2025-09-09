@@ -206,6 +206,12 @@
     }
   },
   "kc @ cle": {
+    "36": {
+      "player": "kyle isbel",
+      "pitcher": "joey cantillo",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "austin hedges",
       "pitcher": "noah cameron",
@@ -421,8 +427,8 @@
     "27": {
       "player": "brady house",
       "pitcher": "adam mazur",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "26": {
       "player": "jorge alfaro",
@@ -734,6 +740,12 @@
     }
   },
   "det @ nyy": {
+    "13": {
+      "player": "jazz chisholm",
+      "pitcher": "casey mize",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "12": {
       "player": "giancarlo stanton",
       "pitcher": "casey mize",
@@ -810,7 +822,7 @@
   "hou @ tor": {
     "16": {
       "player": "ernie clement",
-      "pitcher": "luis garcia",
+      "pitcher": "aj blubaugh",
       "result": "Ball",
       "pitch": "Changeup"
     },
@@ -910,7 +922,7 @@
       "player": "drake baldwin",
       "pitcher": "cade horton",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "12": {
       "player": "matt shaw",
@@ -985,7 +997,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "tb @ chw": {},
+  "tb @ chw": {
+    "1": {
+      "player": "chandler simpson",
+      "pitcher": "yoendrys gomez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    }
+  },
   "mil @ tex": {},
   "min @ laa": {},
   "cin @ sd": {},
