@@ -2215,7 +2215,7 @@
     "57": {
       "player": "oswald peraza",
       "pitcher": "travis adams",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "56": {
@@ -2559,7 +2559,7 @@
     "56": {
       "player": "fernando tatis",
       "pitcher": "connor phillips",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "55": {
@@ -3902,11 +3902,17 @@
     }
   },
   "col @ lad": {
+    "40": {
+      "player": "mookie betts",
+      "pitcher": "juan mejia",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "shohei ohtani",
       "pitcher": "juan mejia",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "38": {
       "player": "ben rortvedt",
