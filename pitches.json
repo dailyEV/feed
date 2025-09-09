@@ -2397,8 +2397,8 @@
     "30": {
       "player": "gavin sheets",
       "pitcher": "nick lodolo",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "manny machado",
@@ -2576,11 +2576,17 @@
     }
   },
   "stl @ sea": {
+    "30": {
+      "player": "jordan walker",
+      "pitcher": "bryan woo",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "thomas saggese",
       "pitcher": "bryan woo",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "28": {
       "player": "jimmy crooks",
@@ -3110,12 +3116,6 @@
     }
   },
   "col @ lad": {
-    "14": {
-      "player": "yanquiel fernandez",
-      "pitcher": "tyler glasnow",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "13": {
       "player": "michael conforto",
       "pitcher": "chase dollander",
