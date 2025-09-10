@@ -1167,8 +1167,8 @@
     "61": {
       "player": "pete alonso",
       "pitcher": "tanner banks",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "juan soto",
@@ -1825,8 +1825,8 @@
     "49": {
       "player": "daulton varsho",
       "pitcher": "steven okert",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "vladimir guerrero",
@@ -2438,11 +2438,17 @@
     }
   },
   "tb @ chw": {
+    "37": {
+      "player": "curtis mead",
+      "pitcher": "adrian houser",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "andrew benintendi",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "35": {
       "player": "brandon lowe",
@@ -2656,11 +2662,17 @@
     }
   },
   "mil @ tex": {
+    "22": {
+      "player": "josh smith",
+      "pitcher": "chad patrick",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "michael helman",
       "pitcher": "chad patrick",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sinker"
     },
     "20": {
       "player": "christian yelich",
