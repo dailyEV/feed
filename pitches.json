@@ -2019,7 +2019,7 @@
     "16": {
       "player": "cj abrams",
       "pitcher": "eury perez",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "15": {
@@ -2117,8 +2117,8 @@
     "15": {
       "player": "francisco alvarez",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "brandon nimmo",
@@ -2226,6 +2226,12 @@
     }
   },
   "hou @ tor": {
+    "5": {
+      "player": "george springer",
+      "pitcher": "jason alexander",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "4": {
       "player": "christian walker",
       "pitcher": "jose berrios",
