@@ -865,7 +865,7 @@
     "80": {
       "player": "agustin ramirez",
       "pitcher": "jose a ferrer",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "79": {
@@ -1796,6 +1796,12 @@
     }
   },
   "det @ nyy": {
+    "70": {
+      "player": "wenceel perez",
+      "pitcher": "paul blackburn",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "69": {
       "player": "trent grisham",
       "pitcher": "chris paddack",
@@ -2206,6 +2212,12 @@
     }
   },
   "hou @ tor": {
+    "71": {
+      "player": "jose altuve",
+      "pitcher": "seranthony dominguez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "70": {
       "player": "carlos correa",
       "pitcher": "seranthony dominguez",
@@ -3418,6 +3430,12 @@
     }
   },
   "mil @ tex": {
+    "46": {
+      "player": "josh jung",
+      "pitcher": "aaron ashby",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "45": {
       "player": "jake burger",
       "pitcher": "aaron ashby",
@@ -3690,6 +3708,12 @@
     }
   },
   "min @ laa": {
+    "6": {
+      "player": "yoan moncada",
+      "pitcher": "zebby matthews",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "5": {
       "player": "mike trout",
       "pitcher": "zebby matthews",
@@ -3725,8 +3749,8 @@
     "5": {
       "player": "gavin lux",
       "pitcher": "michael king",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "4": {
       "player": "austin hays",
@@ -3757,8 +3781,8 @@
     "3": {
       "player": "alec burleson",
       "pitcher": "george kirby",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "ivan herrera",
