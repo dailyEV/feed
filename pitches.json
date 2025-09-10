@@ -1799,8 +1799,8 @@
     "15": {
       "player": "henry davis",
       "pitcher": "tyler wells",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "14": {
       "player": "ji hwan bae",
@@ -1888,6 +1888,12 @@
     }
   },
   "kc @ cle": {
+    "12": {
+      "player": "randal grichuk",
+      "pitcher": "logan allen",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "angel martinez",
       "pitcher": "jonathan bowlan",
@@ -2092,7 +2098,14 @@
     }
   },
   "det @ nyy": {},
-  "hou @ tor": {},
+  "hou @ tor": {
+    "1": {
+      "player": "jeremy pena",
+      "pitcher": "jose berrios",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  },
   "chc @ atl": {},
   "tb @ chw": {},
   "cin @ sd": {},
