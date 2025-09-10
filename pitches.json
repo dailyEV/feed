@@ -4250,12 +4250,6 @@
     }
   },
   "cin @ sd": {
-    "33": {
-      "player": "ramon laureano",
-      "pitcher": "zack littell",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "32": {
       "player": "tj friedl",
       "pitcher": "michael king",
@@ -4450,11 +4444,17 @@
     }
   },
   "stl @ sea": {
+    "33": {
+      "player": "ivan herrera",
+      "pitcher": "george kirby",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "lars nootbaar",
       "pitcher": "george kirby",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Knuckle Curve"
     },
     "31": {
       "player": "jose fermin",
@@ -4939,8 +4939,8 @@
     "19": {
       "player": "shohei ohtani",
       "pitcher": "german marquez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "18": {
       "player": "miguel rojas",
