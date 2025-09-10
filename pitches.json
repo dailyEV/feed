@@ -865,7 +865,7 @@
     "79": {
       "player": "xavier edwards",
       "pitcher": "jose a ferrer",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "78": {
@@ -3385,8 +3385,8 @@
     "43": {
       "player": "wyatt langford",
       "pitcher": "aaron ashby",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "josh smith",
@@ -3668,11 +3668,17 @@
     }
   },
   "cin @ sd": {
+    "4": {
+      "player": "austin hays",
+      "pitcher": "michael king",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "elly de la cruz",
       "pitcher": "michael king",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "2": {
       "player": "sal stewart",
@@ -3688,6 +3694,12 @@
     }
   },
   "stl @ sea": {
+    "3": {
+      "player": "alec burleson",
+      "pitcher": "george kirby",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "ivan herrera",
       "pitcher": "george kirby",
