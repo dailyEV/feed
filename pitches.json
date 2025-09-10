@@ -3,8 +3,8 @@
     "60": {
       "player": "gunnar henderson",
       "pitcher": "kyle nicolas",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "jeremiah jackson",
@@ -362,6 +362,12 @@
     }
   },
   "kc @ cle": {
+    "61": {
+      "player": "salvador perez",
+      "pitcher": "cade smith",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "vinnie pasquantino",
       "pitcher": "cade smith",
@@ -1056,12 +1062,6 @@
     }
   },
   "nym @ phi": {
-    "50": {
-      "player": "weston wilson",
-      "pitcher": "justin hagenman",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "49": {
       "player": "francisco alvarez",
       "pitcher": "david robertson",
@@ -1600,11 +1600,17 @@
     }
   },
   "hou @ tor": {
+    "41": {
+      "player": "jesus sanchez",
+      "pitcher": "shane bieber",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "40": {
       "player": "jose altuve",
       "pitcher": "shane bieber",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "39": {
       "player": "andres gimenez",
@@ -2275,7 +2281,7 @@
     "12": {
       "player": "joey ortiz",
       "pitcher": "jack leiter",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "11": {
