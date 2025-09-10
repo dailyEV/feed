@@ -3,7 +3,7 @@
     "61": {
       "player": "ryan mountcastle",
       "pitcher": "kyle nicolas",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "60": {
@@ -1077,8 +1077,8 @@
     "51": {
       "player": "bryson stott",
       "pitcher": "justin hagenman",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "50": {
       "player": "weston wilson",
@@ -2150,6 +2150,12 @@
     }
   },
   "tb @ chw": {
+    "30": {
+      "player": "lenyn sosa",
+      "pitcher": "adrian houser",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "29": {
       "player": "hunter feduccia",
       "pitcher": "yoendrys gomez",
@@ -2326,6 +2332,12 @@
     }
   },
   "mil @ tex": {
+    "13": {
+      "player": "jake burger",
+      "pitcher": "chad patrick",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "12": {
       "player": "joey ortiz",
       "pitcher": "jack leiter",
