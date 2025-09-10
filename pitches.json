@@ -1796,11 +1796,17 @@
     }
   },
   "pit @ bal": {
+    "32": {
+      "player": "dylan carlson",
+      "pitcher": "paul skenes",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "31": {
       "player": "colton cowser",
       "pitcher": "paul skenes",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "samuel basallo",
@@ -2336,6 +2342,12 @@
     }
   },
   "nym @ phi": {
+    "27": {
+      "player": "bryson stott",
+      "pitcher": "clay holmes",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "otto kemp",
       "pitcher": "clay holmes",
@@ -2497,8 +2509,8 @@
     "13": {
       "player": "jazz chisholm",
       "pitcher": "jack flaherty",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "giancarlo stanton",
@@ -2672,6 +2684,12 @@
     }
   },
   "chc @ atl": {
+    "12": {
+      "player": "drake baldwin",
+      "pitcher": "jameson taillon",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "willi castro",
       "pitcher": "chris sale",
@@ -2739,7 +2757,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "tb @ chw": {},
+  "tb @ chw": {
+    "1": {
+      "player": "chandler simpson",
+      "pitcher": "sean burke",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    }
+  },
   "cin @ sd": {},
   "stl @ sea": {},
   "col @ lad": {}
