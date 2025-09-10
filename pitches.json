@@ -3616,6 +3616,12 @@
     }
   },
   "mil @ tex": {
+    "63": {
+      "player": "sal frelick",
+      "pitcher": "phil maton",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "62": {
       "player": "jake burger",
       "pitcher": "grant anderson",
@@ -4163,8 +4169,8 @@
     "27": {
       "player": "ryan ohearn",
       "pitcher": "zack littell",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "26": {
       "player": "will benson",
@@ -4482,11 +4488,17 @@
     }
   },
   "ari @ sf": {
+    "23": {
+      "player": "dominic smith",
+      "pitcher": "zac gallen",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "willy adames",
       "pitcher": "zac gallen",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "rafael devers",
@@ -4705,8 +4717,8 @@
     "12": {
       "player": "teoscar hernandez",
       "pitcher": "german marquez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "11": {
       "player": "max muncy",
