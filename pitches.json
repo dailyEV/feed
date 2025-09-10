@@ -347,13 +347,13 @@
     "34": {
       "player": "alex bregman",
       "pitcher": "mason barnett",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "jarren duran",
       "pitcher": "mason barnett",
-      "result": "In play, out(s)",
+      "result": "In play, run(s)",
       "pitch": "Sweeper"
     },
     "32": {
@@ -550,6 +550,12 @@
     }
   },
   "ari @ sf": {
+    "30": {
+      "player": "ketel marte",
+      "pitcher": "spencer bivens",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "29": {
       "player": "geraldo perdomo",
       "pitcher": "spencer bivens",
