@@ -3,8 +3,8 @@
     "49": {
       "player": "henry davis",
       "pitcher": "kyle bradish",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "oneil cruz",
@@ -296,12 +296,6 @@
     }
   },
   "kc @ cle": {
-    "50": {
-      "player": "jac caglianone",
-      "pitcher": "joey cantillo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "49": {
       "player": "daniel schneemann",
       "pitcher": "noah cameron",
@@ -849,7 +843,7 @@
     "38": {
       "player": "kyle schwarber",
       "pitcher": "sean manaea",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "37": {
@@ -1574,11 +1568,17 @@
     }
   },
   "tb @ chw": {
+    "16": {
+      "player": "yandy diaz",
+      "pitcher": "yoendrys gomez",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "15": {
       "player": "chandler simpson",
       "pitcher": "yoendrys gomez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "14": {
       "player": "hunter feduccia",
