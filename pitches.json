@@ -3619,8 +3619,8 @@
     "59": {
       "player": "josh smith",
       "pitcher": "grant anderson",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "william contreras",
@@ -4255,7 +4255,7 @@
     "21": {
       "player": "victor robles",
       "pitcher": "matthew liberatore",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -4380,10 +4380,16 @@
     }
   },
   "ari @ sf": {
+    "19": {
+      "player": "jorge barrosa",
+      "pitcher": "robbie ray",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "james mccann",
       "pitcher": "robbie ray",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "17": {
@@ -4490,6 +4496,12 @@
     }
   },
   "bos @ ath": {
+    "10": {
+      "player": "nick kurtz",
+      "pitcher": "connelly early",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "brent rooker",
       "pitcher": "connelly early",
@@ -4546,10 +4558,16 @@
     }
   },
   "col @ lad": {
+    "9": {
+      "player": "brenton doyle",
+      "pitcher": "emmet sheehan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "ezequiel tovar",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "7": {
