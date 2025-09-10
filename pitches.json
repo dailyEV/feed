@@ -3059,7 +3059,7 @@
     "58": {
       "player": "brandon lowe",
       "pitcher": "fraser ellard",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "57": {
@@ -3409,8 +3409,8 @@
     "44": {
       "player": "kyle higashioka",
       "pitcher": "aaron ashby",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "43": {
       "player": "wyatt langford",
@@ -3675,7 +3675,7 @@
     "5": {
       "player": "mike trout",
       "pitcher": "zebby matthews",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "4": {
@@ -3704,6 +3704,12 @@
     }
   },
   "cin @ sd": {
+    "5": {
+      "player": "gavin lux",
+      "pitcher": "michael king",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "4": {
       "player": "austin hays",
       "pitcher": "michael king",
@@ -3750,10 +3756,16 @@
     }
   },
   "ari @ sf": {
+    "2": {
+      "player": "geraldo perdomo",
+      "pitcher": "robbie ray",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "ketel marte",
       "pitcher": "robbie ray",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     }
   },
