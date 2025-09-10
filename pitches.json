@@ -3619,8 +3619,8 @@
     "69": {
       "player": "caleb durbin",
       "pitcher": "shawn armstrong",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "68": {
       "player": "cody freeman",
@@ -4035,7 +4035,7 @@
     "35": {
       "player": "edouard julien",
       "pitcher": "kyle hendricks",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "34": {
@@ -4796,11 +4796,17 @@
     }
   },
   "bos @ ath": {
+    "21": {
+      "player": "carlos narvaez",
+      "pitcher": "jeffrey springs",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "jarren duran",
       "pitcher": "jeffrey springs",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "rob refsnyder",
