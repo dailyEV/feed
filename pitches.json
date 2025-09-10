@@ -2251,8 +2251,8 @@
     "81": {
       "player": "jake meyers",
       "pitcher": "jeff hoffman",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "80": {
       "player": "christian walker",
@@ -3173,7 +3173,7 @@
     "70": {
       "player": "brooks baldwin",
       "pitcher": "pete fairbanks",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "69": {
@@ -3595,8 +3595,8 @@
     "55": {
       "player": "brice turang",
       "pitcher": "robert garcia",
-      "result": "Foul Bunt",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "michael helman",
@@ -3924,6 +3924,12 @@
     }
   },
   "min @ laa": {
+    "19": {
+      "player": "jhonny pereda",
+      "pitcher": "kyle hendricks",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "18": {
       "player": "edouard julien",
       "pitcher": "kyle hendricks",
@@ -4037,8 +4043,8 @@
     "18": {
       "player": "sal stewart",
       "pitcher": "michael king",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "17": {
       "player": "tj friedl",
@@ -4245,8 +4251,8 @@
     "14": {
       "player": "casey schmitt",
       "pitcher": "zac gallen",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "13": {
       "player": "jordan lawlar",
@@ -4328,6 +4334,12 @@
     }
   },
   "bos @ ath": {
+    "5": {
+      "player": "jarren duran",
+      "pitcher": "jeffrey springs",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "rob refsnyder",
       "pitcher": "jeffrey springs",
