@@ -3,7 +3,7 @@
     "44": {
       "player": "gunnar henderson",
       "pitcher": "braxton ashcraft",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "43": {
@@ -269,7 +269,7 @@
     "45": {
       "player": "salvador perez",
       "pitcher": "joey cantillo",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -1117,8 +1117,8 @@
     "21": {
       "player": "andres gimenez",
       "pitcher": "aj blubaugh",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "carlos correa",
@@ -1376,6 +1376,12 @@
     }
   },
   "tb @ chw": {
+    "12": {
+      "player": "richie palacios",
+      "pitcher": "yoendrys gomez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "jake mangum",
       "pitcher": "yoendrys gomez",
