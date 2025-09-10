@@ -3,8 +3,8 @@
     "44": {
       "player": "jake burger",
       "pitcher": "freddy peralta",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "43": {
       "player": "joc pederson",
@@ -269,8 +269,8 @@
     "18": {
       "player": "willie maciver",
       "pitcher": "payton tolle",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "17": {
       "player": "zack gelof",
@@ -376,6 +376,18 @@
     }
   },
   "ari @ sf": {
+    "14": {
+      "player": "geraldo perdomo",
+      "pitcher": "carson seymour",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "13": {
+      "player": "jake mccarthy",
+      "pitcher": "carson seymour",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "12": {
       "player": "tim tawa",
       "pitcher": "carson seymour",
@@ -453,8 +465,8 @@
     "1": {
       "player": "byron buxton",
       "pitcher": "jose urena",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     }
   },
   "pit @ bal": {},
