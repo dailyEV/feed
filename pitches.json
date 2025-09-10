@@ -1,10 +1,16 @@
 {
   "pit @ bal": {
+    "70": {
+      "player": "emmanuel rivera",
+      "pitcher": "dennis santana",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "69": {
       "player": "samuel basallo",
       "pitcher": "dennis santana",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "68": {
       "player": "colton cowser",
@@ -787,8 +793,8 @@
     "67": {
       "player": "xavier edwards",
       "pitcher": "mitchell parker",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "66": {
       "player": "javier sanoja",
@@ -1188,11 +1194,17 @@
     }
   },
   "nym @ phi": {
+    "64": {
+      "player": "edmundo sosa",
+      "pitcher": "justin hagenman",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "63": {
       "player": "nick castellanos",
       "pitcher": "justin hagenman",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "62": {
       "player": "mark vientos",
