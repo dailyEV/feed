@@ -2017,7 +2017,7 @@
     "37": {
       "player": "steven kwan",
       "pitcher": "sam long",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "36": {
@@ -2238,11 +2238,17 @@
     }
   },
   "wsh @ mia": {
+    "34": {
+      "player": "joey wiemer",
+      "pitcher": "jake irvin",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "heriberto hernandez",
       "pitcher": "jake irvin",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "32": {
       "player": "troy johnston",
@@ -2441,7 +2447,7 @@
     "31": {
       "player": "starling marte",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "30": {
@@ -2629,8 +2635,8 @@
     "18": {
       "player": "gleyber torres",
       "pitcher": "carlos rodon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "17": {
       "player": "jahmai jones",
@@ -2870,6 +2876,12 @@
     }
   },
   "chc @ atl": {
+    "18": {
+      "player": "ian happ",
+      "pitcher": "chris sale",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "nico hoerner",
       "pitcher": "chris sale",
@@ -2974,6 +2986,12 @@
     }
   },
   "tb @ chw": {
+    "8": {
+      "player": "lenyn sosa",
+      "pitcher": "griffin jax",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "7": {
       "player": "kyle teel",
       "pitcher": "griffin jax",
