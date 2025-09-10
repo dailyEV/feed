@@ -1796,11 +1796,17 @@
     }
   },
   "det @ nyy": {
+    "75": {
+      "player": "cody bellinger",
+      "pitcher": "chris paddack",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "74": {
       "player": "austin slater",
       "pitcher": "chris paddack",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "73": {
       "player": "trey sweeney",
@@ -2236,6 +2242,12 @@
     }
   },
   "hou @ tor": {
+    "74": {
+      "player": "ernie clement",
+      "pitcher": "bryan abreu",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "73": {
       "player": "addison barger",
       "pitcher": "bryan abreu",
@@ -3113,8 +3125,8 @@
     "64": {
       "player": "josh lowe",
       "pitcher": "fraser ellard",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "edgar quero",
@@ -3499,8 +3511,8 @@
     "49": {
       "player": "caleb durbin",
       "pitcher": "hoby milner",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "isaac collins",
@@ -3792,6 +3804,12 @@
     }
   },
   "min @ laa": {
+    "10": {
+      "player": "luis rengifo",
+      "pitcher": "zebby matthews",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "9": {
       "player": "chris taylor",
       "pitcher": "zebby matthews",
@@ -3904,6 +3922,12 @@
     }
   },
   "stl @ sea": {
+    "8": {
+      "player": "nolan gorman",
+      "pitcher": "george kirby",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "willson contreras",
       "pitcher": "george kirby",
@@ -3951,8 +3975,8 @@
     "5": {
       "player": "rafael devers",
       "pitcher": "zac gallen",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "heliot ramos",
