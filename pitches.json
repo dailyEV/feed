@@ -359,8 +359,8 @@
     "58": {
       "player": "maikel garcia",
       "pitcher": "cade smith",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "57": {
       "player": "kyle isbel",
@@ -709,8 +709,8 @@
     "54": {
       "player": "brady house",
       "pitcher": "valente bellozo",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "53": {
       "player": "jorge alfaro",
@@ -1325,7 +1325,7 @@
     "39": {
       "player": "gleyber torres",
       "pitcher": "will warren",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -1558,6 +1558,12 @@
     }
   },
   "hou @ tor": {
+    "39": {
+      "player": "andres gimenez",
+      "pitcher": "aj blubaugh",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "joey loperfido",
       "pitcher": "aj blubaugh",
