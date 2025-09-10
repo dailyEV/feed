@@ -3,8 +3,8 @@
     "64": {
       "player": "nick gonzales",
       "pitcher": "yennier cano",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "63": {
       "player": "andrew mccutchen",
@@ -754,11 +754,17 @@
     }
   },
   "wsh @ mia": {
+    "60": {
+      "player": "cj abrams",
+      "pitcher": "valente bellozo",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "59": {
       "player": "jacob young",
       "pitcher": "valente bellozo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "58": {
       "player": "heriberto hernandez",
@@ -1113,8 +1119,8 @@
     "56": {
       "player": "jt realmuto",
       "pitcher": "justin hagenman",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "55": {
       "player": "bryce harper",
@@ -1451,7 +1457,7 @@
     "45": {
       "player": "spencer torkelson",
       "pitcher": "fernando cruz",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Splitter"
     },
     "44": {
@@ -1720,6 +1726,12 @@
     }
   },
   "hou @ tor": {
+    "45": {
+      "player": "mauricio dubon",
+      "pitcher": "yariel rodriguez",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "yainer diaz",
       "pitcher": "shane bieber",
