@@ -3,8 +3,8 @@
     "50": {
       "player": "cam devanney",
       "pitcher": "kyle bradish",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "49": {
       "player": "henry davis",
@@ -305,8 +305,8 @@
     "51": {
       "player": "jonathan india",
       "pitcher": "joey cantillo",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "50": {
       "player": "jac caglianone",
@@ -610,6 +610,12 @@
     }
   },
   "wsh @ mia": {
+    "43": {
+      "player": "joey wiemer",
+      "pitcher": "mitchell parker",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "eric wagaman",
       "pitcher": "mitchell parker",
@@ -1103,8 +1109,8 @@
     "28": {
       "player": "spencer torkelson",
       "pitcher": "will warren",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "27": {
       "player": "giancarlo stanton",
@@ -1270,6 +1276,12 @@
     }
   },
   "hou @ tor": {
+    "28": {
+      "player": "yainer diaz",
+      "pitcher": "shane bieber",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "jake meyers",
       "pitcher": "shane bieber",
@@ -1437,8 +1449,8 @@
     "28": {
       "player": "dansby swanson",
       "pitcher": "spencer strider",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "27": {
       "player": "matt olson",
@@ -1604,6 +1616,12 @@
     }
   },
   "tb @ chw": {
+    "17": {
+      "player": "andrew benintendi",
+      "pitcher": "adrian houser",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "16": {
       "player": "yandy diaz",
       "pitcher": "yoendrys gomez",
@@ -1705,8 +1723,8 @@
     "2": {
       "player": "jackson chourio",
       "pitcher": "jack leiter",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "1": {
       "player": "brice turang",
