@@ -1796,6 +1796,12 @@
     }
   },
   "pit @ bal": {
+    "16": {
+      "player": "dylan carlson",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "henry davis",
       "pitcher": "tyler wells",
@@ -1974,11 +1980,17 @@
     }
   },
   "wsh @ mia": {
-    "13": {
-      "player": "brady house",
+    "14": {
+      "player": "dylan crews",
       "pitcher": "eury perez",
       "result": "Ball",
       "pitch": "Slider"
+    },
+    "13": {
+      "player": "brady house",
+      "pitcher": "eury perez",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "heriberto hernandez",
@@ -2132,7 +2144,7 @@
     "2": {
       "player": "yordan alvarez",
       "pitcher": "jose berrios",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Slurve"
     },
     "1": {
