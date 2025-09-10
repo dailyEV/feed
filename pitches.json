@@ -3,8 +3,8 @@
     "50": {
       "player": "cam devanney",
       "pitcher": "kyle bradish",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "49": {
       "player": "henry davis",
@@ -305,7 +305,7 @@
     "51": {
       "player": "jonathan india",
       "pitcher": "joey cantillo",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "50": {
@@ -1273,8 +1273,8 @@
     "27": {
       "player": "jake meyers",
       "pitcher": "shane bieber",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "26": {
       "player": "christian walker",
@@ -1434,6 +1434,12 @@
     }
   },
   "chc @ atl": {
+    "28": {
+      "player": "dansby swanson",
+      "pitcher": "spencer strider",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "matt olson",
       "pitcher": "cade horton",
@@ -1696,11 +1702,17 @@
     }
   },
   "mil @ tex": {
+    "2": {
+      "player": "jackson chourio",
+      "pitcher": "jack leiter",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "brice turang",
       "pitcher": "jack leiter",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     }
   },
   "min @ laa": {},
