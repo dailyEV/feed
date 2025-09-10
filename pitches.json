@@ -3942,10 +3942,16 @@
     }
   },
   "min @ laa": {
+    "21": {
+      "player": "austin martin",
+      "pitcher": "kyle hendricks",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "byron buxton",
       "pitcher": "kyle hendricks",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "19": {
@@ -4189,8 +4195,8 @@
     "18": {
       "player": "ivan herrera",
       "pitcher": "george kirby",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "17": {
       "player": "lars nootbaar",
@@ -4394,6 +4400,12 @@
     }
   },
   "bos @ ath": {
+    "7": {
+      "player": "nate eaton",
+      "pitcher": "jeffrey springs",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "6": {
       "player": "carlos narvaez",
       "pitcher": "jeffrey springs",
@@ -4435,7 +4447,7 @@
     "5": {
       "player": "mookie betts",
       "pitcher": "german marquez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "4": {
