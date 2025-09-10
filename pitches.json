@@ -1799,7 +1799,7 @@
     "18": {
       "player": "coby mayo",
       "pitcher": "paul skenes",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "17": {
@@ -2001,8 +2001,8 @@
     "15": {
       "player": "robert hassell",
       "pitcher": "eury perez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "14": {
       "player": "dylan crews",
@@ -2093,7 +2093,7 @@
     "13": {
       "player": "starling marte",
       "pitcher": "cristopher sanchez",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "12": {
@@ -2170,6 +2170,12 @@
     }
   },
   "det @ nyy": {
+    "3": {
+      "player": "wenceel perez",
+      "pitcher": "carlos rodon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "gleyber torres",
       "pitcher": "carlos rodon",
@@ -2188,7 +2194,7 @@
       "player": "christian walker",
       "pitcher": "jose berrios",
       "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "pitch": "Slurve"
     },
     "3": {
       "player": "carlos correa",
