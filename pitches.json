@@ -3,7 +3,7 @@
     "78": {
       "player": "gunnar henderson",
       "pitcher": "isaac mattson",
-      "result": "Foul Tip",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "77": {
@@ -835,8 +835,8 @@
     "72": {
       "player": "jorge alfaro",
       "pitcher": "josh simpson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "71": {
       "player": "luis garcia",
@@ -1269,8 +1269,8 @@
     "72": {
       "player": "francisco alvarez",
       "pitcher": "max lazar",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
     },
     "71": {
       "player": "starling marte",
@@ -2047,7 +2047,7 @@
     "58": {
       "player": "ernie clement",
       "pitcher": "steven okert",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "57": {
@@ -2397,8 +2397,8 @@
     "63": {
       "player": "michael busch",
       "pitcher": "connor seabold",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "matt shaw",
@@ -3070,6 +3070,12 @@
     }
   },
   "mil @ tex": {
+    "35": {
+      "player": "jackson chourio",
+      "pitcher": "jack leiter",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "brice turang",
       "pitcher": "jack leiter",
