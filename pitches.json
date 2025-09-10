@@ -330,7 +330,7 @@
       "player": "austin hedges",
       "pitcher": "angel zerpa",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "52": {
       "player": "nick loftin",
@@ -649,8 +649,8 @@
     "46": {
       "player": "james wood",
       "pitcher": "seth martinez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "cj abrams",
@@ -1181,7 +1181,7 @@
     "31": {
       "player": "dillon dingler",
       "pitcher": "will warren",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "30": {
@@ -1548,6 +1548,18 @@
     }
   },
   "chc @ atl": {
+    "32": {
+      "player": "drake baldwin",
+      "pitcher": "cade horton",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "31": {
+      "player": "ozzie albies",
+      "pitcher": "cade horton",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "30": {
       "player": "michael busch",
       "pitcher": "spencer strider",
@@ -1730,6 +1742,12 @@
     }
   },
   "tb @ chw": {
+    "21": {
+      "player": "junior caminero",
+      "pitcher": "yoendrys gomez",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "20": {
       "player": "brandon lowe",
       "pitcher": "yoendrys gomez",
