@@ -847,7 +847,7 @@
     "74": {
       "player": "heriberto hernandez",
       "pitcher": "cole henry",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "73": {
@@ -1742,6 +1742,12 @@
     }
   },
   "det @ nyy": {
+    "61": {
+      "player": "trey sweeney",
+      "pitcher": "paul blackburn",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "60": {
       "player": "austin wells",
       "pitcher": "chris paddack",
@@ -2098,6 +2104,12 @@
     }
   },
   "hou @ tor": {
+    "60": {
+      "player": "isiah kiner falefa",
+      "pitcher": "bryan king",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "ty france",
       "pitcher": "bryan king",
@@ -2457,8 +2469,8 @@
     "66": {
       "player": "matt olson",
       "pitcher": "caleb thielbar",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "65": {
       "player": "jurickson profar",
@@ -3163,8 +3175,8 @@
     "37": {
       "player": "william contreras",
       "pitcher": "jack leiter",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "36": {
       "player": "christian yelich",
