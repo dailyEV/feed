@@ -1796,11 +1796,17 @@
     }
   },
   "pit @ bal": {
+    "31": {
+      "player": "colton cowser",
+      "pitcher": "paul skenes",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "30": {
       "player": "samuel basallo",
       "pitcher": "paul skenes",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "cam devanney",
@@ -1978,6 +1984,12 @@
     }
   },
   "kc @ cle": {
+    "31": {
+      "player": "kyle isbel",
+      "pitcher": "logan allen",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "30": {
       "player": "jac caglianone",
       "pitcher": "logan allen",
@@ -2485,8 +2497,8 @@
     "12": {
       "player": "giancarlo stanton",
       "pitcher": "jack flaherty",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "11": {
       "player": "dillon dingler",
