@@ -305,7 +305,7 @@
     "52": {
       "player": "nick loftin",
       "pitcher": "joey cantillo",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "51": {
@@ -1297,8 +1297,8 @@
     "28": {
       "player": "yainer diaz",
       "pitcher": "shane bieber",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "jake meyers",
@@ -1640,11 +1640,17 @@
     }
   },
   "tb @ chw": {
+    "18": {
+      "player": "curtis mead",
+      "pitcher": "adrian houser",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "17": {
       "player": "andrew benintendi",
       "pitcher": "adrian houser",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "yandy diaz",
@@ -1744,6 +1750,12 @@
     }
   },
   "mil @ tex": {
+    "3": {
+      "player": "christian yelich",
+      "pitcher": "jack leiter",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "jackson chourio",
       "pitcher": "jack leiter",
