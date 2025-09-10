@@ -780,7 +780,7 @@
       "player": "nolan jones",
       "pitcher": "noah cameron",
       "result": "In play, out(s)",
-      "pitch": "Slider"
+      "pitch": "Cutter"
     },
     "13": {
       "player": "jhonkensy noel",
@@ -896,7 +896,7 @@
       "player": "liam hicks",
       "pitcher": "cole henry",
       "result": "Hit By Pitch",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "74": {
       "player": "heriberto hernandez",
@@ -1208,7 +1208,7 @@
       "player": "javier sanoja",
       "pitcher": "mitchell parker",
       "result": "In play, out(s)",
-      "pitch": "Slider"
+      "pitch": "Splitter"
     },
     "22": {
       "player": "luis garcia",
@@ -1304,7 +1304,7 @@
       "player": "xavier edwards",
       "pitcher": "mitchell parker",
       "result": "In play, out(s)",
-      "pitch": "Slider"
+      "pitch": "Splitter"
     },
     "6": {
       "player": "riley adams",
@@ -1348,7 +1348,7 @@
       "player": "francisco lindor",
       "pitcher": "max lazar",
       "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "pitch": "Splitter"
     },
     "74": {
       "player": "jose siri",
@@ -1444,7 +1444,7 @@
       "player": "francisco lindor",
       "pitcher": "tanner banks",
       "result": "In play, out(s)",
-      "pitch": "Slider"
+      "pitch": "Sweeper"
     },
     "58": {
       "player": "jose siri",
@@ -1528,7 +1528,7 @@
       "player": "edmundo sosa",
       "pitcher": "justin hagenman",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Cutter"
     },
     "44": {
       "player": "nick castellanos",
@@ -1594,7 +1594,7 @@
       "player": "jeff mcneil",
       "pitcher": "ranger suarez",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Slider"
     },
     "33": {
       "player": "francisco alvarez",
@@ -2793,7 +2793,7 @@
     "66": {
       "player": "matt olson",
       "pitcher": "caleb thielbar",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -4056,10 +4056,16 @@
     }
   },
   "min @ laa": {
+    "41": {
+      "player": "luis rengifo",
+      "pitcher": "pierson ohl",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
+    },
     "40": {
       "player": "chris taylor",
       "pitcher": "zebby matthews",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -4298,6 +4304,18 @@
     }
   },
   "cin @ sd": {
+    "38": {
+      "player": "fernando tatis",
+      "pitcher": "zack littell",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
+    "37": {
+      "player": "freddy fermin",
+      "pitcher": "zack littell",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "jake cronenworth",
       "pitcher": "zack littell",
@@ -4516,6 +4534,12 @@
     }
   },
   "stl @ sea": {
+    "38": {
+      "player": "jp crawford",
+      "pitcher": "matthew liberatore",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "victor robles",
       "pitcher": "matthew liberatore",
@@ -4740,11 +4764,17 @@
     }
   },
   "ari @ sf": {
+    "33": {
+      "player": "jordan lawlar",
+      "pitcher": "robbie ray",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "tim tawa",
       "pitcher": "robbie ray",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "31": {
       "player": "drew gilbert",
@@ -4934,6 +4964,18 @@
     }
   },
   "bos @ ath": {
+    "28": {
+      "player": "nick sogard",
+      "pitcher": "jeffrey springs",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "27": {
+      "player": "nate eaton",
+      "pitcher": "jeffrey springs",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "26": {
       "player": "brent rooker",
       "pitcher": "connelly early",
@@ -5092,11 +5134,17 @@
     }
   },
   "col @ lad": {
+    "25": {
+      "player": "will smith",
+      "pitcher": "german marquez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "hunter goodman",
       "pitcher": "emmet sheehan",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "23": {
       "player": "mickey moniak",
