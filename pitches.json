@@ -745,7 +745,7 @@
     "57": {
       "player": "otto lopez",
       "pitcher": "mitchell parker",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -1409,8 +1409,8 @@
     "43": {
       "player": "ben rice",
       "pitcher": "casey mize",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "42": {
       "player": "cody bellinger",
@@ -2201,8 +2201,8 @@
     "31": {
       "player": "colson montgomery",
       "pitcher": "adrian houser",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "lenyn sosa",
@@ -2386,6 +2386,12 @@
     }
   },
   "mil @ tex": {
+    "15": {
+      "player": "alejandro osuna",
+      "pitcher": "chad patrick",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "14": {
       "player": "josh jung",
       "pitcher": "chad patrick",
