@@ -733,8 +733,8 @@
     "55": {
       "player": "dylan crews",
       "pitcher": "valente bellozo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "54": {
       "player": "brady house",
@@ -1062,10 +1062,16 @@
     }
   },
   "nym @ phi": {
+    "51": {
+      "player": "bryson stott",
+      "pitcher": "justin hagenman",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "weston wilson",
       "pitcher": "justin hagenman",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "49": {
@@ -1609,7 +1615,7 @@
     "41": {
       "player": "jesus sanchez",
       "pitcher": "shane bieber",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "40": {
@@ -1854,6 +1860,12 @@
     }
   },
   "chc @ atl": {
+    "43": {
+      "player": "carson kelly",
+      "pitcher": "spencer strider",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "jurickson profar",
       "pitcher": "cade horton",
