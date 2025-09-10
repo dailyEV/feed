@@ -1,10 +1,16 @@
 {
   "pit @ bal": {
+    "50": {
+      "player": "cam devanney",
+      "pitcher": "kyle bradish",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "henry davis",
       "pitcher": "kyle bradish",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "oneil cruz",
@@ -299,7 +305,7 @@
     "51": {
       "player": "jonathan india",
       "pitcher": "joey cantillo",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "50": {
@@ -607,7 +613,7 @@
     "42": {
       "player": "eric wagaman",
       "pitcher": "mitchell parker",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "41": {
@@ -861,8 +867,8 @@
     "39": {
       "player": "bryce harper",
       "pitcher": "sean manaea",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "kyle schwarber",
@@ -1267,8 +1273,8 @@
     "27": {
       "player": "jake meyers",
       "pitcher": "shane bieber",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "26": {
       "player": "christian walker",
@@ -1693,8 +1699,8 @@
     "1": {
       "player": "brice turang",
       "pitcher": "jack leiter",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     }
   },
   "min @ laa": {},
