@@ -694,12 +694,6 @@
     }
   },
   "wsh @ mia": {
-    "54": {
-      "player": "brady house",
-      "pitcher": "valente bellozo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "53": {
       "player": "jorge alfaro",
       "pitcher": "valente bellozo",
@@ -1023,8 +1017,8 @@
     "47": {
       "player": "brandon nimmo",
       "pitcher": "david robertson",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "46": {
       "player": "mark vientos",
@@ -1304,6 +1298,12 @@
     }
   },
   "det @ nyy": {
+    "39": {
+      "player": "gleyber torres",
+      "pitcher": "will warren",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "38": {
       "player": "colt keith",
       "pitcher": "will warren",
@@ -1534,6 +1534,12 @@
     }
   },
   "hou @ tor": {
+    "37": {
+      "player": "ernie clement",
+      "pitcher": "aj blubaugh",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "36": {
       "player": "addison barger",
       "pitcher": "aj blubaugh",
@@ -1755,8 +1761,8 @@
     "40": {
       "player": "jake fraley",
       "pitcher": "cade horton",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "39": {
       "player": "ronald acuna",
@@ -1997,8 +2003,8 @@
     "26": {
       "player": "jake mangum",
       "pitcher": "yoendrys gomez",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "kyle teel",
