@@ -834,12 +834,6 @@
     }
   },
   "nym @ phi": {
-    "38": {
-      "player": "kyle schwarber",
-      "pitcher": "sean manaea",
-      "result": "Foul",
-      "pitch": "Sweeper"
-    },
     "37": {
       "player": "harrison bader",
       "pitcher": "sean manaea",
@@ -1228,11 +1222,17 @@
     }
   },
   "hou @ tor": {
+    "26": {
+      "player": "christian walker",
+      "pitcher": "shane bieber",
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
+    },
     "25": {
       "player": "jesus sanchez",
       "pitcher": "shane bieber",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "24": {
       "player": "jose altuve",
@@ -1383,7 +1383,7 @@
     "27": {
       "player": "matt olson",
       "pitcher": "cade horton",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "26": {
