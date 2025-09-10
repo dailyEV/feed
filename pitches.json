@@ -1,9 +1,15 @@
 {
   "pit @ bal": {
+    "64": {
+      "player": "nick gonzales",
+      "pitcher": "yennier cano",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "63": {
       "player": "andrew mccutchen",
       "pitcher": "yennier cano",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "62": {
@@ -748,12 +754,6 @@
     }
   },
   "wsh @ mia": {
-    "59": {
-      "player": "jacob young",
-      "pitcher": "valente bellozo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "58": {
       "player": "heriberto hernandez",
       "pitcher": "mitchell parker",
@@ -1430,6 +1430,12 @@
     }
   },
   "det @ nyy": {
+    "45": {
+      "player": "spencer torkelson",
+      "pitcher": "fernando cruz",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "44": {
       "player": "riley greene",
       "pitcher": "fernando cruz",
@@ -2255,8 +2261,8 @@
     "32": {
       "player": "edgar quero",
       "pitcher": "adrian houser",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "colson montgomery",
