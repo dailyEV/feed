@@ -305,7 +305,7 @@
     "52": {
       "player": "nick loftin",
       "pitcher": "joey cantillo",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "51": {
@@ -1118,11 +1118,17 @@
     }
   },
   "det @ nyy": {
+    "29": {
+      "player": "wenceel perez",
+      "pitcher": "will warren",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "spencer torkelson",
       "pitcher": "will warren",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "27": {
       "player": "giancarlo stanton",
@@ -1291,7 +1297,7 @@
     "28": {
       "player": "yainer diaz",
       "pitcher": "shane bieber",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "27": {
@@ -1458,10 +1464,16 @@
     }
   },
   "chc @ atl": {
+    "29": {
+      "player": "matt shaw",
+      "pitcher": "spencer strider",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "28": {
       "player": "dansby swanson",
       "pitcher": "spencer strider",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "27": {
@@ -1628,6 +1640,12 @@
     }
   },
   "tb @ chw": {
+    "17": {
+      "player": "andrew benintendi",
+      "pitcher": "adrian houser",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "16": {
       "player": "yandy diaz",
       "pitcher": "yoendrys gomez",
@@ -1729,8 +1747,8 @@
     "2": {
       "player": "jackson chourio",
       "pitcher": "jack leiter",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "1": {
       "player": "brice turang",
