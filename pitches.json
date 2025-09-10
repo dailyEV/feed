@@ -1915,7 +1915,7 @@
     "17": {
       "player": "brayan rocchio",
       "pitcher": "jonathan bowlan",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "16": {
@@ -2016,6 +2016,12 @@
     }
   },
   "wsh @ mia": {
+    "17": {
+      "player": "james wood",
+      "pitcher": "eury perez",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "16": {
       "player": "cj abrams",
       "pitcher": "eury perez",
@@ -2230,7 +2236,7 @@
       "player": "george springer",
       "pitcher": "jason alexander",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "4": {
       "player": "christian walker",
@@ -2257,7 +2263,14 @@
       "pitch": "Sinker"
     }
   },
-  "chc @ atl": {},
+  "chc @ atl": {
+    "1": {
+      "player": "nico hoerner",
+      "pitcher": "chris sale",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "tb @ chw": {},
   "cin @ sd": {},
   "stl @ sea": {},
