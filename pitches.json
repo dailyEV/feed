@@ -1799,7 +1799,7 @@
     "27": {
       "player": "oneil cruz",
       "pitcher": "tyler wells",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "26": {
@@ -1960,6 +1960,12 @@
     }
   },
   "kc @ cle": {
+    "26": {
+      "player": "george valera",
+      "pitcher": "angel zerpa",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "25": {
       "player": "steven kwan",
       "pitcher": "angel zerpa",
@@ -2112,10 +2118,16 @@
     }
   },
   "wsh @ mia": {
+    "23": {
+      "player": "luis garcia",
+      "pitcher": "eury perez",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "daylen lile",
       "pitcher": "eury perez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "21": {
@@ -2250,7 +2262,7 @@
       "player": "jose siri",
       "pitcher": "cristopher sanchez",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Slider"
     },
     "20": {
       "player": "jt realmuto",
@@ -2427,8 +2439,8 @@
     "11": {
       "player": "yainer diaz",
       "pitcher": "jose berrios",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "10": {
       "player": "victor caratini",
@@ -2495,7 +2507,7 @@
     "7": {
       "player": "matt olson",
       "pitcher": "jameson taillon",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "6": {
