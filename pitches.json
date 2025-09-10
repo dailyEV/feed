@@ -1,11 +1,5 @@
 {
   "pit @ bal": {
-    "57": {
-      "player": "bryan reynolds",
-      "pitcher": "rico garcia",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "56": {
       "player": "spencer horwitz",
       "pitcher": "rico garcia",
@@ -344,6 +338,12 @@
     }
   },
   "kc @ cle": {
+    "56": {
+      "player": "jose ramirez",
+      "pitcher": "john schreiber",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "55": {
       "player": "angel martinez",
       "pitcher": "angel zerpa",
@@ -679,7 +679,7 @@
     "50": {
       "player": "xavier edwards",
       "pitcher": "mitchell parker",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "49": {
@@ -981,8 +981,8 @@
     "45": {
       "player": "edmundo sosa",
       "pitcher": "justin hagenman",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "44": {
       "player": "nick castellanos",
@@ -1895,8 +1895,8 @@
     "24": {
       "player": "mike tauchman",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "chase meidroth",
@@ -2041,8 +2041,8 @@
     "8": {
       "player": "joc pederson",
       "pitcher": "chad patrick",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "wyatt langford",
