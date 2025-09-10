@@ -1,11 +1,5 @@
 {
   "pit @ bal": {
-    "68": {
-      "player": "colton cowser",
-      "pitcher": "dennis santana",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "67": {
       "player": "cam devanney",
       "pitcher": "keegan akin",
@@ -1179,8 +1173,8 @@
     "62": {
       "player": "mark vientos",
       "pitcher": "tanner banks",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "pete alonso",
@@ -1849,7 +1843,7 @@
     "50": {
       "player": "alejandro kirk",
       "pitcher": "steven okert",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "49": {
@@ -2468,11 +2462,17 @@
     }
   },
   "tb @ chw": {
+    "39": {
+      "player": "chase meidroth",
+      "pitcher": "adrian houser",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "38": {
       "player": "brooks baldwin",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "37": {
       "player": "curtis mead",
