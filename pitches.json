@@ -4059,7 +4059,7 @@
     "55": {
       "player": "luis rengifo",
       "pitcher": "pierson ohl",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "54": {
@@ -4391,8 +4391,8 @@
     "50": {
       "player": "jackson merrill",
       "pitcher": "zach maxwell",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "ramon laureano",
@@ -5294,11 +5294,17 @@
     }
   },
   "bos @ ath": {
+    "41": {
+      "player": "brent rooker",
+      "pitcher": "connelly early",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "40": {
       "player": "shea langeliers",
       "pitcher": "connelly early",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Foul Tip",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "zack gelof",
@@ -5539,7 +5545,7 @@
     "41": {
       "player": "tyler freeman",
       "pitcher": "emmet sheehan",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "40": {
