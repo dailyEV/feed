@@ -1,11 +1,5 @@
 {
   "pit @ bal": {
-    "72": {
-      "player": "spencer horwitz",
-      "pitcher": "dietrich enns",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "71": {
       "player": "jared triolo",
       "pitcher": "dietrich enns",
@@ -1215,8 +1209,8 @@
     "65": {
       "player": "weston wilson",
       "pitcher": "justin hagenman",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "64": {
       "player": "edmundo sosa",
@@ -1918,6 +1912,12 @@
     }
   },
   "hou @ tor": {
+    "54": {
+      "player": "jose altuve",
+      "pitcher": "yariel rodriguez",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "53": {
       "player": "carlos correa",
       "pitcher": "yariel rodriguez",
@@ -2582,6 +2582,12 @@
     }
   },
   "tb @ chw": {
+    "43": {
+      "player": "jake mangum",
+      "pitcher": "tyler alexander",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "42": {
       "player": "josh lowe",
       "pitcher": "tyler alexander",
@@ -2839,8 +2845,8 @@
     "26": {
       "player": "sal frelick",
       "pitcher": "jack leiter",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "25": {
       "player": "william contreras",
