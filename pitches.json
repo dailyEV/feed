@@ -3152,6 +3152,12 @@
     }
   },
   "tb @ chw": {
+    "68": {
+      "player": "andrew benintendi",
+      "pitcher": "pete fairbanks",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "67": {
       "player": "tristan gray",
       "pitcher": "dan altavilla",
@@ -3880,7 +3886,7 @@
       "player": "bryce teodosio",
       "pitcher": "zebby matthews",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "15": {
       "player": "sebastian  rivero",
@@ -4072,6 +4078,12 @@
     }
   },
   "stl @ sea": {
+    "14": {
+      "player": "jorge polanco",
+      "pitcher": "matthew liberatore",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "eugenio suarez",
       "pitcher": "matthew liberatore",
@@ -4152,11 +4164,17 @@
     }
   },
   "ari @ sf": {
+    "12": {
+      "player": "tim tawa",
+      "pitcher": "robbie ray",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "ildemaro vargas",
       "pitcher": "robbie ray",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "blaze alexander",
@@ -4223,8 +4241,8 @@
     "3": {
       "player": "trevor story",
       "pitcher": "jeffrey springs",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "2": {
       "player": "alex bregman",
