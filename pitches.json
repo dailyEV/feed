@@ -5331,8 +5331,8 @@
     "65": {
       "player": "adrian del castillo",
       "pitcher": "ryan walker",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "64": {
       "player": "jake mccarthy",
@@ -5720,6 +5720,18 @@
     }
   },
   "bos @ ath": {
+    "62": {
+      "player": "carlos narvaez",
+      "pitcher": "michael kelly",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "61": {
+      "player": "jarren duran",
+      "pitcher": "michael kelly",
+      "result": "Hit By Pitch",
+      "pitch": "Cutter"
+    },
     "60": {
       "player": "rob refsnyder",
       "pitcher": "michael kelly",
@@ -6082,6 +6094,12 @@
     }
   },
   "col @ lad": {
+    "59": {
+      "player": "max muncy",
+      "pitcher": "roansy contreras",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "will smith",
       "pitcher": "roansy contreras",
