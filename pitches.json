@@ -3370,11 +3370,17 @@
     }
   },
   "mil @ tex": {
+    "43": {
+      "player": "wyatt langford",
+      "pitcher": "aaron ashby",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "42": {
       "player": "josh smith",
       "pitcher": "aaron ashby",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "41": {
       "player": "michael helman",
@@ -3627,8 +3633,8 @@
     "3": {
       "player": "trevor larnach",
       "pitcher": "kyle hendricks",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "2": {
       "player": "austin martin",
@@ -3644,6 +3650,12 @@
     }
   },
   "cin @ sd": {
+    "2": {
+      "player": "sal stewart",
+      "pitcher": "michael king",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "tj friedl",
       "pitcher": "michael king",
@@ -3655,8 +3667,8 @@
     "2": {
       "player": "ivan herrera",
       "pitcher": "george kirby",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "lars nootbaar",
