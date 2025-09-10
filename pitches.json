@@ -775,7 +775,7 @@
     "66": {
       "player": "javier sanoja",
       "pitcher": "mitchell parker",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "65": {
@@ -1544,6 +1544,12 @@
     }
   },
   "det @ nyy": {
+    "49": {
+      "player": "trey sweeney",
+      "pitcher": "mark leiter",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "dillon dingler",
       "pitcher": "fernando cruz",
@@ -1834,11 +1840,17 @@
     }
   },
   "hou @ tor": {
+    "50": {
+      "player": "alejandro kirk",
+      "pitcher": "steven okert",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "49": {
       "player": "daulton varsho",
       "pitcher": "steven okert",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "48": {
       "player": "vladimir guerrero",
@@ -2450,6 +2462,12 @@
     }
   },
   "tb @ chw": {
+    "38": {
+      "player": "brooks baldwin",
+      "pitcher": "adrian houser",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "curtis mead",
       "pitcher": "adrian houser",
@@ -2677,8 +2695,8 @@
     "22": {
       "player": "josh smith",
       "pitcher": "chad patrick",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "michael helman",
