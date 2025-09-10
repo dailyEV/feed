@@ -592,6 +592,12 @@
     }
   },
   "wsh @ mia": {
+    "42": {
+      "player": "eric wagaman",
+      "pitcher": "mitchell parker",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "jacob young",
       "pitcher": "seth martinez",
@@ -1073,7 +1079,7 @@
     "28": {
       "player": "spencer torkelson",
       "pitcher": "will warren",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "27": {
@@ -1243,8 +1249,8 @@
     "27": {
       "player": "jake meyers",
       "pitcher": "shane bieber",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "26": {
       "player": "christian walker",
@@ -1665,7 +1671,14 @@
       "pitch": "Curveball"
     }
   },
-  "mil @ tex": {},
+  "mil @ tex": {
+    "1": {
+      "player": "brice turang",
+      "pitcher": "jack leiter",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "min @ laa": {},
   "cin @ sd": {},
   "stl @ sea": {},
