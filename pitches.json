@@ -2251,7 +2251,7 @@
     "83": {
       "player": "daulton varsho",
       "pitcher": "craig kimbrel",
-      "result": "Foul Tip",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "82": {
@@ -3613,8 +3613,8 @@
     "58": {
       "player": "william contreras",
       "pitcher": "robert garcia",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "christian yelich",
@@ -3963,8 +3963,8 @@
     "22": {
       "player": "yoan moncada",
       "pitcher": "zebby matthews",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "austin martin",
@@ -4097,8 +4097,8 @@
     "20": {
       "player": "jake cronenworth",
       "pitcher": "zack littell",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "elly de la cruz",
@@ -4219,8 +4219,8 @@
     "20": {
       "player": "willson contreras",
       "pitcher": "george kirby",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "19": {
       "player": "alec burleson",
@@ -4442,6 +4442,12 @@
     }
   },
   "bos @ ath": {
+    "8": {
+      "player": "shea langeliers",
+      "pitcher": "connelly early",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "nate eaton",
       "pitcher": "jeffrey springs",
