@@ -3559,8 +3559,8 @@
     "52": {
       "player": "cody freeman",
       "pitcher": "aaron ashby",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "51": {
       "player": "alejandro osuna",
@@ -4054,6 +4054,12 @@
     }
   },
   "stl @ sea": {
+    "13": {
+      "player": "eugenio suarez",
+      "pitcher": "matthew liberatore",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "12": {
       "player": "jose fermin",
       "pitcher": "george kirby",
@@ -4131,7 +4137,7 @@
     "10": {
       "player": "blaze alexander",
       "pitcher": "robbie ray",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "9": {
@@ -4193,8 +4199,8 @@
     "1": {
       "player": "romy gonzalez",
       "pitcher": "jeffrey springs",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     }
   },
   "col @ lad": {}
