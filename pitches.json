@@ -359,8 +359,8 @@
     "59": {
       "player": "bobby witt",
       "pitcher": "cade smith",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Splitter"
     },
     "58": {
       "player": "maikel garcia",
@@ -1048,7 +1048,7 @@
       "player": "francisco alvarez",
       "pitcher": "david robertson",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Knuckle Curve"
     },
     "48": {
       "player": "starling marte",
@@ -1343,8 +1343,8 @@
     "40": {
       "player": "kerry carpenter",
       "pitcher": "will warren",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "39": {
       "player": "gleyber torres",
@@ -1818,6 +1818,12 @@
     }
   },
   "chc @ atl": {
+    "42": {
+      "player": "jurickson profar",
+      "pitcher": "cade horton",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "41": {
       "player": "nacho alvarez",
       "pitcher": "cade horton",
