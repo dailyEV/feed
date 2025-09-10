@@ -865,8 +865,8 @@
     "78": {
       "player": "javier sanoja",
       "pitcher": "jose a ferrer",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "77": {
       "player": "victor mesa",
@@ -2179,8 +2179,8 @@
     "66": {
       "player": "vladimir guerrero",
       "pitcher": "bryan king",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "65": {
       "player": "myles straw",
@@ -2577,8 +2577,8 @@
     "72": {
       "player": "ha seong kim",
       "pitcher": "ben brown",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "drake baldwin",
@@ -3597,11 +3597,18 @@
     "1": {
       "player": "byron buxton",
       "pitcher": "kyle hendricks",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     }
   },
-  "cin @ sd": {},
+  "cin @ sd": {
+    "1": {
+      "player": "tj friedl",
+      "pitcher": "michael king",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "stl @ sea": {},
   "ari @ sf": {},
   "bos @ ath": {},
