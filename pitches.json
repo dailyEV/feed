@@ -1796,11 +1796,17 @@
     }
   },
   "pit @ bal": {
-    "38": {
-      "player": "coby mayo",
+    "39": {
+      "player": "jackson holliday",
       "pitcher": "carmen mlodzinski",
       "result": "Ball",
       "pitch": "Changeup"
+    },
+    "38": {
+      "player": "coby mayo",
+      "pitcher": "carmen mlodzinski",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "dylan beavers",
@@ -2029,8 +2035,8 @@
     "40": {
       "player": "vinnie pasquantino",
       "pitcher": "logan allen",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "39": {
       "player": "bobby witt",
@@ -2271,8 +2277,8 @@
     "35": {
       "player": "victor mesa",
       "pitcher": "jake irvin",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "joey wiemer",
@@ -2480,6 +2486,12 @@
     }
   },
   "nym @ phi": {
+    "33": {
+      "player": "donovan walton",
+      "pitcher": "clay holmes",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "brandon nimmo",
       "pitcher": "cristopher sanchez",
@@ -2674,12 +2686,6 @@
     }
   },
   "det @ nyy": {
-    "20": {
-      "player": "ryan mcmahon",
-      "pitcher": "jack flaherty",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "19": {
       "player": "jose caballero",
       "pitcher": "jack flaherty",
@@ -2796,10 +2802,16 @@
     }
   },
   "hou @ tor": {
+    "25": {
+      "player": "jesus sanchez",
+      "pitcher": "jose berrios",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "christian walker",
       "pitcher": "jose berrios",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "23": {
