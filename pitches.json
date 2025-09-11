@@ -4963,8 +4963,8 @@
     "75": {
       "player": "brandon lowe",
       "pitcher": "tyler gilbert",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "74": {
       "player": "yandy diaz",
@@ -5415,8 +5415,8 @@
     "55": {
       "player": "tj friedl",
       "pitcher": "kyle hart",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "54": {
       "player": "matt mclain",
@@ -5747,7 +5747,7 @@
     "21": {
       "player": "willson contreras",
       "pitcher": "logan gilbert",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -5872,11 +5872,17 @@
     }
   },
   "col @ lad": {
+    "10": {
+      "player": "kyle karros",
+      "pitcher": "blake snell",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "ezequiel tovar",
       "pitcher": "blake snell",
       "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "pitch": "Curveball"
     },
     "8": {
       "player": "freddie freeman",
