@@ -3619,7 +3619,7 @@
     "71": {
       "player": "dillon dingler",
       "pitcher": "austin slater",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "70": {
@@ -4912,6 +4912,12 @@
     }
   },
   "tb @ chw": {
+    "68": {
+      "player": "andrew benintendi",
+      "pitcher": "cole sulser",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "67": {
       "player": "christopher morel",
       "pitcher": "fraser ellard",
@@ -5316,11 +5322,17 @@
     }
   },
   "cin @ sd": {
+    "42": {
+      "player": "elly de la cruz",
+      "pitcher": "nick pivetta",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "noelvi marte",
       "pitcher": "nick pivetta",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "40": {
       "player": "tj friedl",
@@ -5568,7 +5580,7 @@
       "player": "pedro pages",
       "pitcher": "logan gilbert",
       "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "pitch": "Slider"
     },
     "9": {
       "player": "thomas saggese",
