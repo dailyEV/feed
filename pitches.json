@@ -2185,8 +2185,8 @@
     "72": {
       "player": "bo naylor",
       "pitcher": "carlos estevez",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "brayan rocchio",
@@ -3005,8 +3005,8 @@
     "67": {
       "player": "jt realmuto",
       "pitcher": "ryne stanek",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "66": {
       "player": "bryce harper",
@@ -3696,11 +3696,17 @@
     }
   },
   "hou @ tor": {
+    "56": {
+      "player": "jake meyers",
+      "pitcher": "brendon little",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "55": {
       "player": "cam smith",
       "pitcher": "brendon little",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
     },
     "54": {
       "player": "christian walker",
@@ -4028,6 +4034,12 @@
     }
   },
   "chc @ atl": {
+    "53": {
+      "player": "ian happ",
+      "pitcher": "tyler kinley",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "ozzie albies",
       "pitcher": "porter hodge",
@@ -4638,6 +4650,12 @@
     }
   },
   "cin @ sd": {
+    "18": {
+      "player": "noelvi marte",
+      "pitcher": "nick pivetta",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "tj friedl",
       "pitcher": "nick pivetta",
