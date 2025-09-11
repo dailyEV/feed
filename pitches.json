@@ -2283,8 +2283,8 @@
     "37": {
       "player": "james wood",
       "pitcher": "eury perez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "cj abrams",
@@ -2507,8 +2507,8 @@
     "35": {
       "player": "kyle schwarber",
       "pitcher": "clay holmes",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul Tip",
+      "pitch": "Sinker"
     },
     "34": {
       "player": "harrison bader",
@@ -2720,7 +2720,7 @@
       "player": "trent grisham",
       "pitcher": "jack flaherty",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "ryan mcmahon",
@@ -2844,6 +2844,12 @@
     }
   },
   "hou @ tor": {
+    "26": {
+      "player": "jake meyers",
+      "pitcher": "jose berrios",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "25": {
       "player": "jesus sanchez",
       "pitcher": "jose berrios",
@@ -2996,6 +3002,18 @@
     }
   },
   "chc @ atl": {
+    "22": {
+      "player": "jurickson profar",
+      "pitcher": "jameson taillon",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "21": {
+      "player": "nacho alvarez",
+      "pitcher": "jameson taillon",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "20": {
       "player": "marcell ozuna",
       "pitcher": "jameson taillon",
