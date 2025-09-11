@@ -2801,7 +2801,7 @@
     "56": {
       "player": "otto kemp",
       "pitcher": "ryne stanek",
-      "result": "In play, run(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -3139,8 +3139,8 @@
     "38": {
       "player": "jose caballero",
       "pitcher": "jack flaherty",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "austin wells",
@@ -3632,11 +3632,17 @@
     }
   },
   "chc @ atl": {
+    "41": {
+      "player": "nacho alvarez",
+      "pitcher": "jameson taillon",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "marcell ozuna",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "39": {
       "player": "carlos santana",
@@ -3874,6 +3880,12 @@
     }
   },
   "tb @ chw": {
+    "35": {
+      "player": "michael a taylor",
+      "pitcher": "joe rock",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "nick fortes",
       "pitcher": "sean burke",
