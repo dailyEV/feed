@@ -1796,6 +1796,12 @@
     }
   },
   "pit @ bal": {
+    "70": {
+      "player": "dylan beavers",
+      "pitcher": "kyle nicolas",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "69": {
       "player": "daniel johnson",
       "pitcher": "kyle nicolas",
@@ -2655,7 +2661,7 @@
     "71": {
       "player": "jakob marsee",
       "pitcher": "mason thompson",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "70": {
@@ -3083,7 +3089,7 @@
     "77": {
       "player": "harrison bader",
       "pitcher": "ryan helsley",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "76": {
@@ -4627,8 +4633,8 @@
     "55": {
       "player": "michael a taylor",
       "pitcher": "joe rock",
-      "result": "Foul Tip",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "chandler simpson",
@@ -4956,11 +4962,17 @@
     }
   },
   "cin @ sd": {
+    "28": {
+      "player": "ramon laureano",
+      "pitcher": "andrew abbott",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "27": {
       "player": "gavin sheets",
       "pitcher": "andrew abbott",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "gavin lux",
