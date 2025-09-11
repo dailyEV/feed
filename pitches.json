@@ -3619,7 +3619,7 @@
     "67": {
       "player": "wenceel perez",
       "pitcher": "luke weaver",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -4445,8 +4445,8 @@
     "70": {
       "player": "seiya suzuki",
       "pitcher": "raisel iglesias",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "69": {
       "player": "ian happ",
@@ -4864,10 +4864,16 @@
     }
   },
   "tb @ chw": {
+    "63": {
+      "player": "edgar quero",
+      "pitcher": "cole sulser",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "colson montgomery",
       "pitcher": "cole sulser",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "61": {
@@ -5241,8 +5247,8 @@
     "37": {
       "player": "fernando tatis",
       "pitcher": "andrew abbott",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "36": {
       "player": "elias diaz",
