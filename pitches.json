@@ -2289,8 +2289,8 @@
     "37": {
       "player": "james wood",
       "pitcher": "eury perez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "36": {
       "player": "cj abrams",
@@ -2510,10 +2510,16 @@
     }
   },
   "nym @ phi": {
+    "36": {
+      "player": "bryce harper",
+      "pitcher": "clay holmes",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "kyle schwarber",
       "pitcher": "clay holmes",
-      "result": "Foul Tip",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "34": {
@@ -2725,7 +2731,7 @@
     "21": {
       "player": "trent grisham",
       "pitcher": "jack flaherty",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -2854,7 +2860,7 @@
       "player": "jake meyers",
       "pitcher": "jose berrios",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Slurve"
     },
     "25": {
       "player": "jesus sanchez",
@@ -3008,6 +3014,12 @@
     }
   },
   "chc @ atl": {
+    "23": {
+      "player": "matt olson",
+      "pitcher": "jameson taillon",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "22": {
       "player": "jurickson profar",
       "pitcher": "jameson taillon",
@@ -3145,7 +3157,7 @@
     "13": {
       "player": "carson williams",
       "pitcher": "sean burke",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "12": {
