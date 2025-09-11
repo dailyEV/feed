@@ -1799,8 +1799,8 @@
     "48": {
       "player": "cam devanney",
       "pitcher": "shawn dubin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "47": {
       "player": "nick yorke",
@@ -2684,10 +2684,16 @@
     }
   },
   "nym @ phi": {
+    "47": {
+      "player": "juan soto",
+      "pitcher": "cristopher sanchez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "francisco lindor",
       "pitcher": "cristopher sanchez",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "45": {
@@ -3150,11 +3156,17 @@
     }
   },
   "hou @ tor": {
+    "38": {
+      "player": "carlos correa",
+      "pitcher": "jose berrios",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "37": {
       "player": "yordan alvarez",
       "pitcher": "jose berrios",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "joey loperfido",
@@ -3583,7 +3595,7 @@
     "24": {
       "player": "yandy diaz",
       "pitcher": "sean burke",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "23": {
