@@ -2053,7 +2053,7 @@
     "45": {
       "player": "salvador perez",
       "pitcher": "matt festa",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -2573,8 +2573,8 @@
     "39": {
       "player": "luisangel acuna",
       "pitcher": "cristopher sanchez",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "38": {
       "player": "jose siri",
@@ -2809,8 +2809,8 @@
     "25": {
       "player": "riley greene",
       "pitcher": "carlos rodon",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "24": {
       "player": "spencer torkelson",
@@ -3140,6 +3140,12 @@
     }
   },
   "chc @ atl": {
+    "27": {
+      "player": "carlos santana",
+      "pitcher": "chris sale",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "carson kelly",
       "pitcher": "chris sale",
