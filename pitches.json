@@ -1799,8 +1799,8 @@
     "45": {
       "player": "ryan mountcastle",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "44": {
       "player": "gunnar henderson",
@@ -2068,6 +2068,12 @@
     }
   },
   "kc @ cle": {
+    "49": {
+      "player": "cj kayfus",
+      "pitcher": "luinder avila",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "48": {
       "player": "daniel schneemann",
       "pitcher": "luinder avila",
@@ -2361,8 +2367,8 @@
     "45": {
       "player": "jakob marsee",
       "pitcher": "jake irvin",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "44": {
       "player": "xavier edwards",
@@ -2893,8 +2899,8 @@
     "27": {
       "player": "ben rice",
       "pitcher": "jack flaherty",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "cody bellinger",
@@ -3054,11 +3060,17 @@
     }
   },
   "hou @ tor": {
+    "35": {
+      "player": "ernie clement",
+      "pitcher": "jason alexander",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "34": {
       "player": "addison barger",
       "pitcher": "jason alexander",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "33": {
       "player": "jeremy pena",
@@ -3451,8 +3463,8 @@
     "22": {
       "player": "lenyn sosa",
       "pitcher": "mason montgomery",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "kyle teel",
