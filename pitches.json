@@ -2597,7 +2597,7 @@
     "41": {
       "player": "brandon marsh",
       "pitcher": "clay holmes",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "40": {
@@ -2994,6 +2994,12 @@
     }
   },
   "hou @ tor": {
+    "33": {
+      "player": "jeremy pena",
+      "pitcher": "jose berrios",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "ramon urias",
       "pitcher": "jose berrios",
@@ -3364,11 +3370,17 @@
     }
   },
   "tb @ chw": {
+    "21": {
+      "player": "kyle teel",
+      "pitcher": "mason montgomery",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "mike tauchman",
       "pitcher": "mason montgomery",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "19": {
       "player": "michael a taylor",
