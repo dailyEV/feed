@@ -1796,12 +1796,6 @@
     }
   },
   "pit @ bal": {
-    "65": {
-      "player": "nick yorke",
-      "pitcher": "albert suarez",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
     "64": {
       "player": "samuel basallo",
       "pitcher": "dennis santana",
@@ -3741,8 +3735,8 @@
     "57": {
       "player": "isiah kiner falefa",
       "pitcher": "steven okert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "56": {
       "player": "jake meyers",
@@ -4082,6 +4076,12 @@
     }
   },
   "chc @ atl": {
+    "56": {
+      "player": "carlos santana",
+      "pitcher": "tyler kinley",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "55": {
       "player": "carson kelly",
       "pitcher": "tyler kinley",
@@ -4414,11 +4414,17 @@
     }
   },
   "tb @ chw": {
+    "51": {
+      "player": "richie palacios",
+      "pitcher": "brandon eisert",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "jake mangum",
       "pitcher": "brandon eisert",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "49": {
       "player": "chase meidroth",
@@ -4719,7 +4725,7 @@
     "19": {
       "player": "jake cronenworth",
       "pitcher": "andrew abbott",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "18": {
