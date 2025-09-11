@@ -4457,7 +4457,7 @@
     "71": {
       "player": "carson kelly",
       "pitcher": "raisel iglesias",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "70": {
@@ -4882,10 +4882,16 @@
     }
   },
   "tb @ chw": {
+    "64": {
+      "player": "miguel vargas",
+      "pitcher": "cole sulser",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "edgar quero",
       "pitcher": "cole sulser",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "62": {
@@ -5262,6 +5268,12 @@
     }
   },
   "cin @ sd": {
+    "38": {
+      "player": "luis arraez",
+      "pitcher": "andrew abbott",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "37": {
       "player": "fernando tatis",
       "pitcher": "andrew abbott",
@@ -5489,8 +5501,8 @@
     "6": {
       "player": "cal raleigh",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "5": {
       "player": "randy arozarena",
