@@ -2107,8 +2107,8 @@
     "59": {
       "player": "george valera",
       "pitcher": "lucas erceg",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "steven kwan",
@@ -2771,7 +2771,7 @@
     "53": {
       "player": "jt realmuto",
       "pitcher": "gregory soto",
-      "result": "Hit By Pitch",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "52": {
@@ -3560,6 +3560,12 @@
     }
   },
   "chc @ atl": {
+    "39": {
+      "player": "carlos santana",
+      "pitcher": "chris sale",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "carson kelly",
       "pitcher": "chris sale",
@@ -3790,6 +3796,18 @@
     }
   },
   "tb @ chw": {
+    "33": {
+      "player": "richie palacios",
+      "pitcher": "sean burke",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
+    "32": {
+      "player": "jake mangum",
+      "pitcher": "sean burke",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "josh lowe",
       "pitcher": "sean burke",
