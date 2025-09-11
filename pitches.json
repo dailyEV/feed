@@ -1799,7 +1799,7 @@
     "61": {
       "player": "oneil cruz",
       "pitcher": "rico garcia",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "60": {
@@ -2589,8 +2589,8 @@
     "62": {
       "player": "josh bell",
       "pitcher": "ronny henriquez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "61": {
       "player": "james wood",
@@ -2964,7 +2964,7 @@
       "player": "kyle schwarber",
       "pitcher": "ryne stanek",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Slider"
     },
     "64": {
       "player": "harrison bader",
@@ -4270,6 +4270,12 @@
     }
   },
   "tb @ chw": {
+    "47": {
+      "player": "miguel vargas",
+      "pitcher": "joe rock",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "edgar quero",
       "pitcher": "joe rock",
