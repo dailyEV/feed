@@ -1796,6 +1796,12 @@
     }
   },
   "pit @ bal": {
+    "68": {
+      "player": "colton cowser",
+      "pitcher": "kyle nicolas",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "67": {
       "player": "ji hwan bae",
       "pitcher": "albert suarez",
@@ -3514,6 +3520,18 @@
     }
   },
   "det @ nyy": {
+    "55": {
+      "player": "riley greene",
+      "pitcher": "camilo doval",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "54": {
+      "player": "spencer torkelson",
+      "pitcher": "camilo doval",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "53": {
       "player": "giancarlo stanton",
       "pitcher": "troy melton",
@@ -4561,8 +4579,8 @@
     "54": {
       "player": "chandler simpson",
       "pitcher": "mike vasil",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "53": {
       "player": "carson williams",
@@ -4884,12 +4902,6 @@
     }
   },
   "cin @ sd": {
-    "26": {
-      "player": "gavin lux",
-      "pitcher": "nick pivetta",
-      "result": "Foul",
-      "pitch": "Curveball"
-    },
     "25": {
       "player": "austin hays",
       "pitcher": "nick pivetta",
