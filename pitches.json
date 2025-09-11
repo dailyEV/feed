@@ -2421,7 +2421,7 @@
     "48": {
       "player": "eric wagaman",
       "pitcher": "pj poulin",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -2711,8 +2711,8 @@
     "49": {
       "player": "pete alonso",
       "pitcher": "cristopher sanchez",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "48": {
       "player": "mark vientos",
@@ -3004,6 +3004,12 @@
     }
   },
   "det @ nyy": {
+    "34": {
+      "player": "gleyber torres",
+      "pitcher": "carlos rodon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "jahmai jones",
       "pitcher": "carlos rodon",
@@ -3207,8 +3213,8 @@
     "39": {
       "player": "christian walker",
       "pitcher": "braydon fisher",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "38": {
       "player": "carlos correa",
