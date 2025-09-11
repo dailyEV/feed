@@ -1799,8 +1799,8 @@
     "40": {
       "player": "jeremiah jackson",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "jackson holliday",
@@ -2280,11 +2280,17 @@
     }
   },
   "wsh @ mia": {
+    "37": {
+      "player": "james wood",
+      "pitcher": "eury perez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "36": {
       "player": "cj abrams",
       "pitcher": "eury perez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "35": {
       "player": "victor mesa",
@@ -2498,11 +2504,17 @@
     }
   },
   "nym @ phi": {
+    "35": {
+      "player": "kyle schwarber",
+      "pitcher": "clay holmes",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "34": {
       "player": "harrison bader",
       "pitcher": "clay holmes",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "33": {
       "player": "donovan walton",
@@ -2704,6 +2716,12 @@
     }
   },
   "det @ nyy": {
+    "21": {
+      "player": "trent grisham",
+      "pitcher": "jack flaherty",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "20": {
       "player": "ryan mcmahon",
       "pitcher": "jack flaherty",
@@ -2826,12 +2844,6 @@
     }
   },
   "hou @ tor": {
-    "26": {
-      "player": "jake meyers",
-      "pitcher": "jose berrios",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
-    },
     "25": {
       "player": "jesus sanchez",
       "pitcher": "jose berrios",
@@ -2987,8 +2999,8 @@
     "20": {
       "player": "marcell ozuna",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "seiya suzuki",
@@ -3106,6 +3118,12 @@
     }
   },
   "tb @ chw": {
+    "12": {
+      "player": "nick fortes",
+      "pitcher": "sean burke",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "11": {
       "player": "richie palacios",
       "pitcher": "sean burke",
