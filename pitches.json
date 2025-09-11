@@ -2643,8 +2643,8 @@
     "70": {
       "player": "xavier edwards",
       "pitcher": "jackson rutledge",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "69": {
       "player": "maximo acosta",
@@ -3837,7 +3837,7 @@
     "61": {
       "player": "george springer",
       "pitcher": "enyel de los santos",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "60": {
@@ -4205,8 +4205,8 @@
     "59": {
       "player": "eli white",
       "pitcher": "caleb thielbar",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "58": {
       "player": "marcell ozuna",
@@ -4561,7 +4561,7 @@
     "54": {
       "player": "chandler simpson",
       "pitcher": "mike vasil",
-      "result": "Ball In Dirt",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "53": {
@@ -4884,11 +4884,17 @@
     }
   },
   "cin @ sd": {
+    "26": {
+      "player": "gavin lux",
+      "pitcher": "nick pivetta",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "25": {
       "player": "austin hays",
       "pitcher": "nick pivetta",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "24": {
       "player": "elly de la cruz",
