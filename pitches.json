@@ -2798,6 +2798,12 @@
     }
   },
   "nym @ phi": {
+    "56": {
+      "player": "otto kemp",
+      "pitcher": "ryne stanek",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "55": {
       "player": "max kepler",
       "pitcher": "gregory soto",
@@ -3133,7 +3139,7 @@
     "38": {
       "player": "jose caballero",
       "pitcher": "jack flaherty",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Knuckle Curve"
     },
     "37": {
@@ -3360,12 +3366,6 @@
     }
   },
   "hou @ tor": {
-    "44": {
-      "player": "nathan lukes",
-      "pitcher": "jason alexander",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "43": {
       "player": "george springer",
       "pitcher": "jason alexander",
@@ -3629,8 +3629,8 @@
     "40": {
       "player": "marcell ozuna",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "39": {
       "player": "carlos santana",
@@ -4077,7 +4077,7 @@
     "3": {
       "player": "elly de la cruz",
       "pitcher": "nick pivetta",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "2": {
