@@ -1799,7 +1799,7 @@
     "60": {
       "player": "tommy pham",
       "pitcher": "rico garcia",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "59": {
@@ -2158,10 +2158,16 @@
     }
   },
   "kc @ cle": {
+    "70": {
+      "player": "nick loftin",
+      "pitcher": "erik sabrowski",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "69": {
       "player": "tyler tolbert",
       "pitcher": "erik sabrowski",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -3594,10 +3600,16 @@
     }
   },
   "hou @ tor": {
+    "54": {
+      "player": "christian walker",
+      "pitcher": "louis varland",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "53": {
       "player": "carlos correa",
       "pitcher": "louis varland",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "52": {
@@ -3914,12 +3926,6 @@
     }
   },
   "chc @ atl": {
-    "50": {
-      "player": "drake baldwin",
-      "pitcher": "taylor rogers",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "49": {
       "player": "nico hoerner",
       "pitcher": "pierce johnson",
@@ -4220,7 +4226,7 @@
       "player": "colson montgomery",
       "pitcher": "joe rock",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "44": {
       "player": "josh lowe",
@@ -4488,6 +4494,12 @@
     }
   },
   "cin @ sd": {
+    "14": {
+      "player": "tyler stephenson",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "13": {
       "player": "ryan ohearn",
       "pitcher": "andrew abbott",
