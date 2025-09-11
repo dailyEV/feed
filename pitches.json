@@ -2637,7 +2637,7 @@
     "68": {
       "player": "victor mesa",
       "pitcher": "jackson rutledge",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "67": {
@@ -2649,7 +2649,7 @@
     "66": {
       "player": "heriberto hernandez",
       "pitcher": "jackson rutledge",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "Slider"
     },
     "65": {
@@ -3047,7 +3047,7 @@
     "73": {
       "player": "max kepler",
       "pitcher": "ryan helsley",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -3792,6 +3792,12 @@
     }
   },
   "hou @ tor": {
+    "60": {
+      "player": "andres gimenez",
+      "pitcher": "steven okert",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "59": {
       "player": "ty france",
       "pitcher": "steven okert",
@@ -4148,6 +4154,12 @@
     }
   },
   "chc @ atl": {
+    "58": {
+      "player": "marcell ozuna",
+      "pitcher": "caleb thielbar",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "57": {
       "player": "michael harris",
       "pitcher": "caleb thielbar",
@@ -4495,8 +4507,8 @@
     "52": {
       "player": "hunter feduccia",
       "pitcher": "mike vasil",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "51": {
       "player": "richie palacios",
