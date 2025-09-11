@@ -1800,7 +1800,7 @@
       "player": "oneil cruz",
       "pitcher": "shawn dubin",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "42": {
       "player": "tommy pham",
@@ -2059,8 +2059,8 @@
     "46": {
       "player": "jonathan india",
       "pitcher": "matt festa",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "salvador perez",
@@ -2334,6 +2334,12 @@
     }
   },
   "wsh @ mia": {
+    "42": {
+      "player": "brady house",
+      "pitcher": "lake bachar",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "jorge alfaro",
       "pitcher": "lake bachar",
@@ -2585,8 +2591,8 @@
     "39": {
       "player": "luisangel acuna",
       "pitcher": "cristopher sanchez",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "38": {
       "player": "jose siri",
@@ -3155,8 +3161,8 @@
     "28": {
       "player": "dansby swanson",
       "pitcher": "chris sale",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "carlos santana",
@@ -3322,17 +3328,11 @@
     }
   },
   "tb @ chw": {
-    "19": {
-      "player": "michael a taylor",
-      "pitcher": "mason montgomery",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
-    },
     "18": {
       "player": "chase meidroth",
       "pitcher": "mason montgomery",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "17": {
       "player": "andrew benintendi",
