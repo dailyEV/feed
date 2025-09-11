@@ -1796,6 +1796,12 @@
     }
   },
   "pit @ bal": {
+    "60": {
+      "player": "tommy pham",
+      "pitcher": "rico garcia",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "59": {
       "player": "bryan reynolds",
       "pitcher": "rico garcia",
@@ -2559,7 +2565,7 @@
     "59": {
       "player": "agustin ramirez",
       "pitcher": "jackson rutledge",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -3881,7 +3887,7 @@
     "49": {
       "player": "nico hoerner",
       "pitcher": "pierce johnson",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "48": {
@@ -4440,10 +4446,16 @@
     }
   },
   "cin @ sd": {
+    "13": {
+      "player": "ryan ohearn",
+      "pitcher": "andrew abbott",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "12": {
       "player": "jackson merrill",
       "pitcher": "andrew abbott",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "11": {
