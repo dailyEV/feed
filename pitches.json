@@ -3619,8 +3619,8 @@
     "69": {
       "player": "riley greene",
       "pitcher": "luke weaver",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "68": {
       "player": "spencer torkelson",
@@ -4885,8 +4885,8 @@
     "64": {
       "player": "miguel vargas",
       "pitcher": "cole sulser",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "edgar quero",
@@ -5268,11 +5268,17 @@
     }
   },
   "cin @ sd": {
+    "39": {
+      "player": "manny machado",
+      "pitcher": "andrew abbott",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "38": {
       "player": "luis arraez",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "fernando tatis",
