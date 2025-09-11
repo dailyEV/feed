@@ -1799,8 +1799,8 @@
     "51": {
       "player": "jared triolo",
       "pitcher": "kade strowd",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "50": {
       "player": "henry davis",
@@ -2747,8 +2747,8 @@
     "51": {
       "player": "kyle schwarber",
       "pitcher": "gregory soto",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "50": {
       "player": "harrison bader",
@@ -3264,6 +3264,12 @@
     }
   },
   "hou @ tor": {
+    "41": {
+      "player": "jake meyers",
+      "pitcher": "braydon fisher",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "40": {
       "player": "jesus sanchez",
       "pitcher": "braydon fisher",
@@ -3509,7 +3515,7 @@
     "37": {
       "player": "seiya suzuki",
       "pitcher": "chris sale",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "36": {
@@ -3730,12 +3736,6 @@
     }
   },
   "tb @ chw": {
-    "30": {
-      "player": "chase meidroth",
-      "pitcher": "kevin kelly",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "29": {
       "player": "andrew benintendi",
       "pitcher": "kevin kelly",
