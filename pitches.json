@@ -1245,8 +1245,8 @@
     "21": {
       "player": "riley adams",
       "pitcher": "ryan weathers",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "dylan crews",
@@ -1373,11 +1373,18 @@
     "1": {
       "player": "gleyber torres",
       "pitcher": "cam schlittler",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     }
   },
-  "kc @ cle": {},
+  "kc @ cle": {
+    "1": {
+      "player": "mike yastrzemski",
+      "pitcher": "gavin williams",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "nym @ phi": {},
   "col @ sd": {},
   "laa @ sea": {}
