@@ -5397,7 +5397,7 @@
     "51": {
       "player": "ryan ohearn",
       "pitcher": "andrew abbott",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -5702,11 +5702,17 @@
     }
   },
   "stl @ sea": {
+    "18": {
+      "player": "jp crawford",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "17": {
       "player": "dominic canzone",
       "pitcher": "michael mcgreevy",
-      "result": "Foul Tip",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "eugenio suarez",
@@ -5806,6 +5812,12 @@
     }
   },
   "col @ lad": {
+    "7": {
+      "player": "teoscar hernandez",
+      "pitcher": "kyle freeland",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "6": {
       "player": "mookie betts",
       "pitcher": "kyle freeland",
