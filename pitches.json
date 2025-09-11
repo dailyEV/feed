@@ -2089,7 +2089,7 @@
     "53": {
       "player": "jac caglianone",
       "pitcher": "tim herrin",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "52": {
@@ -2687,8 +2687,8 @@
     "46": {
       "player": "francisco lindor",
       "pitcher": "cristopher sanchez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "donovan walton",
@@ -2962,11 +2962,17 @@
     }
   },
   "det @ nyy": {
+    "31": {
+      "player": "parker meadows",
+      "pitcher": "carlos rodon",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "30": {
       "player": "dillon dingler",
       "pitcher": "carlos rodon",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "29": {
       "player": "andy ibanez",
@@ -3148,7 +3154,7 @@
       "player": "yordan alvarez",
       "pitcher": "jose berrios",
       "result": "Ball",
-      "pitch": "Slurve"
+      "pitch": "Changeup"
     },
     "36": {
       "player": "joey loperfido",
