@@ -2134,11 +2134,17 @@
     }
   },
   "kc @ cle": {
+    "64": {
+      "player": "adam frazier",
+      "pitcher": "jakob junis",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "63": {
       "player": "jonathan india",
       "pitcher": "jakob junis",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "62": {
       "player": "salvador perez",
@@ -2849,7 +2855,7 @@
     "60": {
       "player": "brandon nimmo",
       "pitcher": "orion kerkering",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -3211,8 +3217,8 @@
     "42": {
       "player": "dillon dingler",
       "pitcher": "carlos rodon",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "andy ibanez",
