@@ -1796,6 +1796,12 @@
     }
   },
   "pit @ bal": {
+    "62": {
+      "player": "gunnar henderson",
+      "pitcher": "dennis santana",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "oneil cruz",
       "pitcher": "rico garcia",
@@ -2167,7 +2173,7 @@
     "72": {
       "player": "bo naylor",
       "pitcher": "carlos estevez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "71": {
@@ -2598,12 +2604,6 @@
     }
   },
   "wsh @ mia": {
-    "64": {
-      "player": "luis garcia",
-      "pitcher": "ronny henriquez",
-      "result": "Foul Tip",
-      "pitch": "Slider"
-    },
     "63": {
       "player": "daylen lile",
       "pitcher": "ronny henriquez",
@@ -4013,8 +4013,8 @@
     "52": {
       "player": "ozzie albies",
       "pitcher": "porter hodge",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "51": {
       "player": "ha seong kim",
@@ -4327,8 +4327,8 @@
     "48": {
       "player": "andrew benintendi",
       "pitcher": "joe rock",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "miguel vargas",
