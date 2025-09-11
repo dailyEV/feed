@@ -1796,11 +1796,17 @@
     }
   },
   "pit @ bal": {
-    "56": {
-      "player": "jackson holliday",
+    "57": {
+      "player": "jeremiah jackson",
       "pitcher": "isaac mattson",
       "result": "Ball",
       "pitch": "4-Seam Fastball"
+    },
+    "56": {
+      "player": "jackson holliday",
+      "pitcher": "isaac mattson",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "55": {
       "player": "coby mayo",
@@ -2137,8 +2143,8 @@
     "64": {
       "player": "adam frazier",
       "pitcher": "jakob junis",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "63": {
       "player": "jonathan india",
@@ -3474,6 +3480,12 @@
     }
   },
   "hou @ tor": {
+    "48": {
+      "player": "vladimir guerrero",
+      "pitcher": "jason alexander",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "ramon urias",
       "pitcher": "louis varland",
@@ -3758,6 +3770,12 @@
     }
   },
   "chc @ atl": {
+    "45": {
+      "player": "dansby swanson",
+      "pitcher": "pierce johnson",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "44": {
       "player": "ronald acuna",
       "pitcher": "taylor rogers",
