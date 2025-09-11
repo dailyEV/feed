@@ -4928,7 +4928,7 @@
       "player": "hunter feduccia",
       "pitcher": "grant taylor",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Cutter"
     },
     "70": {
       "player": "michael a taylor",
@@ -5352,11 +5352,17 @@
     }
   },
   "cin @ sd": {
+    "47": {
+      "player": "jackson merrill",
+      "pitcher": "andrew abbott",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "46": {
       "player": "ramon laureano",
       "pitcher": "andrew abbott",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "45": {
       "player": "gavin sheets",
@@ -5709,5 +5715,18 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "col @ lad": {}
+  "col @ lad": {
+    "2": {
+      "player": "hunter goodman",
+      "pitcher": "blake snell",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "1": {
+      "player": "tyler freeman",
+      "pitcher": "blake snell",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    }
+  }
 }
