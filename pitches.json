@@ -1796,6 +1796,12 @@
     }
   },
   "pit @ bal": {
+    "41": {
+      "player": "bryan reynolds",
+      "pitcher": "tyler wells",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "40": {
       "player": "jeremiah jackson",
       "pitcher": "carmen mlodzinski",
@@ -2295,7 +2301,7 @@
     "38": {
       "player": "josh bell",
       "pitcher": "eury perez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "37": {
@@ -2744,7 +2750,7 @@
       "player": "trent grisham",
       "pitcher": "jack flaherty",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "20": {
       "player": "ryan mcmahon",
@@ -2868,6 +2874,12 @@
     }
   },
   "hou @ tor": {
+    "27": {
+      "player": "victor caratini",
+      "pitcher": "jose berrios",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "jake meyers",
       "pitcher": "jose berrios",
@@ -3029,7 +3041,7 @@
     "23": {
       "player": "matt olson",
       "pitcher": "jameson taillon",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "22": {
@@ -3166,11 +3178,17 @@
     }
   },
   "tb @ chw": {
+    "14": {
+      "player": "chandler simpson",
+      "pitcher": "sean burke",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "carson williams",
       "pitcher": "sean burke",
       "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "nick fortes",
