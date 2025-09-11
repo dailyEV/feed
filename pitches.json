@@ -3,7 +3,7 @@
     "60": {
       "player": "dylan beavers",
       "pitcher": "evan sisk",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "59": {
@@ -359,8 +359,8 @@
     "28": {
       "player": "bob seymour",
       "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "jake mangum",
@@ -526,6 +526,12 @@
     }
   },
   "hou @ tor": {
+    "6": {
+      "player": "vladimir guerrero",
+      "pitcher": "cristian javier",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "nathan lukes",
       "pitcher": "cristian javier",
