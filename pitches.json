@@ -2113,8 +2113,8 @@
     "60": {
       "player": "jose ramirez",
       "pitcher": "lucas erceg",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "59": {
       "player": "george valera",
@@ -2780,6 +2780,12 @@
     }
   },
   "nym @ phi": {
+    "55": {
+      "player": "max kepler",
+      "pitcher": "gregory soto",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "54": {
       "player": "brandon marsh",
       "pitcher": "gregory soto",
@@ -3587,7 +3593,7 @@
     "39": {
       "player": "carlos santana",
       "pitcher": "chris sale",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -4025,7 +4031,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "cin @ sd": {},
+  "cin @ sd": {
+    "1": {
+      "player": "tj friedl",
+      "pitcher": "nick pivetta",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    }
+  },
   "stl @ sea": {},
   "col @ lad": {}
 }
