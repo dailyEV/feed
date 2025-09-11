@@ -3607,7 +3607,7 @@
     "62": {
       "player": "jazz chisholm",
       "pitcher": "troy melton",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "61": {
@@ -3981,7 +3981,7 @@
     "67": {
       "player": "jeremy pena",
       "pitcher": "jeff hoffman",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "66": {
@@ -5323,6 +5323,13 @@
       "pitch": "Curveball"
     }
   },
-  "stl @ sea": {},
+  "stl @ sea": {
+    "1": {
+      "player": "lars nootbaar",
+      "pitcher": "logan gilbert",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "col @ lad": {}
 }
