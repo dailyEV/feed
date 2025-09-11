@@ -2126,7 +2126,7 @@
       "player": "salvador perez",
       "pitcher": "jakob junis",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Slider"
     },
     "61": {
       "player": "kyle manzardo",
@@ -2499,7 +2499,7 @@
     "53": {
       "player": "robert hassell",
       "pitcher": "cade gibson",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "52": {
@@ -2816,6 +2816,12 @@
     }
   },
   "nym @ phi": {
+    "58": {
+      "player": "donovan walton",
+      "pitcher": "ryne stanek",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "57": {
       "player": "bryson stott",
       "pitcher": "ryne stanek",
@@ -3390,6 +3396,12 @@
     }
   },
   "hou @ tor": {
+    "45": {
+      "player": "victor caratini",
+      "pitcher": "braydon fisher",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "nathan lukes",
       "pitcher": "jason alexander",
@@ -3659,8 +3671,8 @@
     "42": {
       "player": "jurickson profar",
       "pitcher": "jameson taillon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "41": {
       "player": "nacho alvarez",
@@ -3910,6 +3922,12 @@
     }
   },
   "tb @ chw": {
+    "36": {
+      "player": "mike tauchman",
+      "pitcher": "joe rock",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "michael a taylor",
       "pitcher": "joe rock",
@@ -4122,6 +4140,12 @@
     }
   },
   "cin @ sd": {
+    "4": {
+      "player": "fernando tatis",
+      "pitcher": "andrew abbott",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "elly de la cruz",
       "pitcher": "nick pivetta",
