@@ -1796,6 +1796,12 @@
     }
   },
   "pit @ bal": {
+    "52": {
+      "player": "colton cowser",
+      "pitcher": "isaac mattson",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "jared triolo",
       "pitcher": "kade strowd",
@@ -2104,11 +2110,17 @@
     }
   },
   "kc @ cle": {
+    "60": {
+      "player": "jose ramirez",
+      "pitcher": "lucas erceg",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "59": {
       "player": "george valera",
       "pitcher": "lucas erceg",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "steven kwan",
@@ -2463,8 +2475,8 @@
     "51": {
       "player": "victor mesa",
       "pitcher": "clayton beeter",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "50": {
       "player": "joey wiemer",
@@ -2771,7 +2783,7 @@
     "54": {
       "player": "brandon marsh",
       "pitcher": "gregory soto",
-      "result": "In play, run(s)",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "53": {
@@ -3812,7 +3824,7 @@
       "player": "nick fortes",
       "pitcher": "sean burke",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "33": {
       "player": "richie palacios",
