@@ -5412,6 +5412,12 @@
     }
   },
   "cin @ sd": {
+    "67": {
+      "player": "tj friedl",
+      "pitcher": "yuki matsui",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "66": {
       "player": "matt mclain",
       "pitcher": "adrian morejon",
@@ -5488,7 +5494,7 @@
       "player": "matt mclain",
       "pitcher": "kyle hart",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Splitter"
     },
     "53": {
       "player": "elias diaz",
@@ -5813,8 +5819,8 @@
     "35": {
       "player": "dominic canzone",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "34": {
       "player": "eugenio suarez",
@@ -6022,11 +6028,17 @@
     }
   },
   "col @ lad": {
-    "24": {
-      "player": "freddie freeman",
+    "25": {
+      "player": "tommy edman",
       "pitcher": "kyle freeland",
       "result": "Ball",
       "pitch": "4-Seam Fastball"
+    },
+    "24": {
+      "player": "freddie freeman",
+      "pitcher": "kyle freeland",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "23": {
       "player": "hunter goodman",
