@@ -449,8 +449,8 @@
     "17": {
       "player": "spencer horwitz",
       "pitcher": "brad lord",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "16": {
       "player": "jared triolo",
@@ -633,8 +633,8 @@
     "2": {
       "player": "jeremiah jackson",
       "pitcher": "chris bassitt",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "1": {
       "player": "jackson holliday",
@@ -663,8 +663,8 @@
     "2": {
       "player": "gleyber torres",
       "pitcher": "sandy alcantara",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "1": {
       "player": "parker meadows",
@@ -673,7 +673,14 @@
       "pitch": "Sinker"
     }
   },
-  "nyy @ bos": {},
+  "nyy @ bos": {
+    "1": {
+      "player": "trent grisham",
+      "pitcher": "lucas giolito",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    }
+  },
   "hou @ atl": {},
   "ari @ min": {},
   "stl @ mil": {},
