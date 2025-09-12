@@ -446,12 +446,6 @@
     }
   },
   "pit @ wsh": {
-    "21": {
-      "player": "dylan crews",
-      "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "20": {
       "player": "nick gonzales",
       "pitcher": "brad lord",
@@ -687,7 +681,7 @@
     "7": {
       "player": "alejandro kirk",
       "pitcher": "trevor rogers",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -770,7 +764,7 @@
       "player": "steven kwan",
       "pitcher": "martin perez",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Sinker"
     },
     "3": {
       "player": "lenyn sosa",
@@ -795,8 +789,8 @@
     "8": {
       "player": "otto lopez",
       "pitcher": "tarik skubal",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "7": {
       "player": "jakob marsee",
@@ -842,6 +836,18 @@
     }
   },
   "nyy @ bos": {
+    "7": {
+      "player": "alex bregman",
+      "pitcher": "luis gil",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "6": {
+      "player": "jarren duran",
+      "pitcher": "luis gil",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "giancarlo stanton",
       "pitcher": "lucas giolito",
@@ -874,6 +880,12 @@
     }
   },
   "hou @ atl": {
+    "4": {
+      "player": "jurickson profar",
+      "pitcher": "jayden murray",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "jose altuve",
       "pitcher": "hurston waldrep",
