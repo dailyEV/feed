@@ -449,8 +449,8 @@
     "33": {
       "player": "spencer horwitz",
       "pitcher": "brad lord",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "32": {
       "player": "jared triolo",
@@ -649,8 +649,8 @@
     "26": {
       "player": "otto kemp",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "25": {
       "player": "brandon marsh",
@@ -807,7 +807,7 @@
     "16": {
       "player": "emmanuel rivera",
       "pitcher": "chris bassitt",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "15": {
@@ -905,7 +905,7 @@
     "14": {
       "player": "wyatt langford",
       "pitcher": "huascar brazoban",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "13": {
@@ -988,6 +988,12 @@
     }
   },
   "chw @ cle": {
+    "12": {
+      "player": "gabriel arias",
+      "pitcher": "martin perez",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "kyle manzardo",
       "pitcher": "martin perez",
@@ -1056,6 +1062,12 @@
     }
   },
   "det @ mia": {
+    "16": {
+      "player": "javier sanoja",
+      "pitcher": "tarik skubal",
+      "result": "Foul Bunt",
+      "pitch": "Changeup"
+    },
     "15": {
       "player": "maximo acosta",
       "pitcher": "tarik skubal",
