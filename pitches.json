@@ -613,8 +613,8 @@
     "21": {
       "player": "bobby witt",
       "pitcher": "walker buehler",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "mike yastrzemski",
@@ -741,8 +741,8 @@
     "11": {
       "player": "colton cowser",
       "pitcher": "chris bassitt",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "10": {
       "player": "tyler oneill",
@@ -809,7 +809,7 @@
     "9": {
       "player": "michael helman",
       "pitcher": "jonah tong",
-      "result": "In play, run(s)",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "8": {
@@ -865,7 +865,7 @@
     "7": {
       "player": "david fry",
       "pitcher": "martin perez",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "6": {
@@ -907,7 +907,7 @@
   },
   "det @ mia": {
     "11": {
-      "player": "javier baez",
+      "player": "trey sweeney",
       "pitcher": "sandy alcantara",
       "result": "Foul",
       "pitch": "Changeup"
@@ -977,8 +977,8 @@
     "10": {
       "player": "austin wells",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "9": {
       "player": "jazz chisholm",
@@ -1036,6 +1036,12 @@
     }
   },
   "hou @ atl": {
+    "7": {
+      "player": "jesus sanchez",
+      "pitcher": "hurston waldrep",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "6": {
       "player": "ronald acuna",
       "pitcher": "jayden murray",
