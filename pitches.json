@@ -449,8 +449,8 @@
     "17": {
       "player": "spencer horwitz",
       "pitcher": "brad lord",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "jared triolo",
@@ -627,13 +627,27 @@
     "1": {
       "player": "jackson holliday",
       "pitcher": "chris bassitt",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     }
   },
   "tex @ nym": {},
-  "chw @ cle": {},
-  "det @ mia": {},
+  "chw @ cle": {
+    "1": {
+      "player": "mike tauchman",
+      "pitcher": "tanner bibee",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
+  "det @ mia": {
+    "1": {
+      "player": "parker meadows",
+      "pitcher": "sandy alcantara",
+      "result": "Foul",
+      "pitch": "Sinker"
+    }
+  },
   "nyy @ bos": {},
   "hou @ atl": {},
   "ari @ min": {},
