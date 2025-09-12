@@ -598,11 +598,17 @@
     }
   },
   "kc @ phi": {
+    "21": {
+      "player": "bobby witt",
+      "pitcher": "walker buehler",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "20": {
       "player": "mike yastrzemski",
       "pitcher": "walker buehler",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "harrison bader",
@@ -723,7 +729,7 @@
     "10": {
       "player": "tyler oneill",
       "pitcher": "chris bassitt",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "9": {
@@ -841,8 +847,8 @@
     "6": {
       "player": "jose ramirez",
       "pitcher": "martin perez",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "angel martinez",
@@ -938,6 +944,12 @@
     }
   },
   "nyy @ bos": {
+    "10": {
+      "player": "austin wells",
+      "pitcher": "lucas giolito",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "jazz chisholm",
       "pitcher": "lucas giolito",
