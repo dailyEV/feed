@@ -595,8 +595,8 @@
     "20": {
       "player": "mike yastrzemski",
       "pitcher": "walker buehler",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "19": {
       "player": "harrison bader",
@@ -714,11 +714,17 @@
     }
   },
   "bal @ tor": {
+    "10": {
+      "player": "tyler oneill",
+      "pitcher": "chris bassitt",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "dylan beavers",
       "pitcher": "chris bassitt",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "8": {
       "player": "ryan mountcastle",
@@ -823,8 +829,8 @@
     "5": {
       "player": "angel martinez",
       "pitcher": "martin perez",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "4": {
       "player": "steven kwan",
