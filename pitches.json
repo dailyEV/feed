@@ -450,7 +450,7 @@
       "player": "brady house",
       "pitcher": "mitch keller",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "dylan crews",
@@ -746,11 +746,17 @@
     }
   },
   "tex @ nym": {
+    "8": {
+      "player": "cody freeman",
+      "pitcher": "jonah tong",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "7": {
       "player": "jonah heim",
       "pitcher": "jonah tong",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "6": {
       "player": "alejandro osuna",
@@ -822,6 +828,12 @@
     }
   },
   "det @ mia": {
+    "9": {
+      "player": "spencer torkelson",
+      "pitcher": "sandy alcantara",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "otto lopez",
       "pitcher": "tarik skubal",
@@ -875,7 +887,7 @@
     "8": {
       "player": "trevor story",
       "pitcher": "luis gil",
-      "result": "Foul Tip",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "7": {
