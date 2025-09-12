@@ -637,20 +637,27 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "tex @ nym": {},
+  "tex @ nym": {
+    "1": {
+      "player": "josh smith",
+      "pitcher": "jonah tong",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "chw @ cle": {
     "1": {
       "player": "mike tauchman",
       "pitcher": "tanner bibee",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     }
   },
   "det @ mia": {
     "1": {
       "player": "parker meadows",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     }
   },
