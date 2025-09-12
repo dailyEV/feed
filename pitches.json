@@ -595,7 +595,7 @@
     "20": {
       "player": "mike yastrzemski",
       "pitcher": "walker buehler",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -717,7 +717,7 @@
     "10": {
       "player": "tyler oneill",
       "pitcher": "chris bassitt",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "9": {
@@ -929,8 +929,8 @@
     "9": {
       "player": "jazz chisholm",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "8": {
       "player": "trevor story",
@@ -982,12 +982,6 @@
     }
   },
   "hou @ atl": {
-    "6": {
-      "player": "ronald acuna",
-      "pitcher": "jayden murray",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "5": {
       "player": "matt olson",
       "pitcher": "jayden murray",
