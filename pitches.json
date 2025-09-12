@@ -450,7 +450,7 @@
       "player": "andrew mccutchen",
       "pitcher": "brad lord",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "18": {
       "player": "bryan reynolds",
@@ -562,12 +562,6 @@
     }
   },
   "kc @ phi": {
-    "17": {
-      "player": "bryson stott",
-      "pitcher": "michael lorenzen",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "16": {
       "player": "edmundo sosa",
       "pitcher": "michael lorenzen",
@@ -669,8 +663,8 @@
     "4": {
       "player": "george springer",
       "pitcher": "trevor rogers",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "gunnar henderson",
@@ -715,8 +709,8 @@
     "3": {
       "player": "lenyn sosa",
       "pitcher": "tanner bibee",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "2": {
       "player": "kyle teel",
@@ -789,7 +783,14 @@
       "pitch": "Changeup"
     }
   },
-  "hou @ atl": {},
+  "hou @ atl": {
+    "1": {
+      "player": "carlos correa",
+      "pitcher": "hurston waldrep",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    }
+  },
   "ari @ min": {},
   "stl @ mil": {},
   "col @ sd": {},
