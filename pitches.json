@@ -628,6 +628,12 @@
     }
   },
   "kc @ phi": {
+    "24": {
+      "player": "bryce harper",
+      "pitcher": "michael lorenzen",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "kyle schwarber",
       "pitcher": "michael lorenzen",
@@ -916,6 +922,12 @@
     }
   },
   "chw @ cle": {
+    "10": {
+      "player": "andrew benintendi",
+      "pitcher": "tanner bibee",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "9": {
       "player": "miguel vargas",
       "pitcher": "tanner bibee",
@@ -972,10 +984,16 @@
     }
   },
   "det @ mia": {
+    "13": {
+      "player": "eric wagaman",
+      "pitcher": "tarik skubal",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "heriberto hernandez",
       "pitcher": "tarik skubal",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "11": {
@@ -1049,8 +1067,8 @@
     "12": {
       "player": "nathaniel lowe",
       "pitcher": "luis gil",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "jose caballero",
@@ -1123,8 +1141,8 @@
     "10": {
       "player": "drake baldwin",
       "pitcher": "jayden murray",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "christian walker",
