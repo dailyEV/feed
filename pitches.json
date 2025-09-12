@@ -1245,7 +1245,7 @@
     "53": {
       "player": "javier sanoja",
       "pitcher": "cole henry",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -1565,8 +1565,8 @@
     "34": {
       "player": "austin slater",
       "pitcher": "sawyer gipson long",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "ryan mcmahon",
@@ -1771,8 +1771,8 @@
     "33": {
       "player": "mike yastrzemski",
       "pitcher": "gavin williams",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "luke maile",
@@ -1968,11 +1968,17 @@
     }
   },
   "nym @ phi": {
+    "38": {
+      "player": "harrison bader",
+      "pitcher": "david peterson",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "37": {
       "player": "weston wilson",
       "pitcher": "david peterson",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "francisco lindor",
