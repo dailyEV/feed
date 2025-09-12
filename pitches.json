@@ -613,8 +613,8 @@
     "21": {
       "player": "bobby witt",
       "pitcher": "walker buehler",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "20": {
       "player": "mike yastrzemski",
@@ -741,7 +741,7 @@
     "11": {
       "player": "colton cowser",
       "pitcher": "chris bassitt",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "10": {
@@ -809,7 +809,7 @@
     "9": {
       "player": "michael helman",
       "pitcher": "jonah tong",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "8": {
@@ -862,6 +862,12 @@
     }
   },
   "chw @ cle": {
+    "7": {
+      "player": "david fry",
+      "pitcher": "martin perez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "jose ramirez",
       "pitcher": "martin perez",
@@ -971,8 +977,8 @@
     "10": {
       "player": "austin wells",
       "pitcher": "lucas giolito",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "jazz chisholm",
