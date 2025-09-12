@@ -449,7 +449,7 @@
     "34": {
       "player": "bryan reynolds",
       "pitcher": "brad lord",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -655,8 +655,8 @@
     "29": {
       "player": "bryson stott",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "28": {
       "player": "edmundo sosa",
@@ -832,7 +832,7 @@
       "player": "jeremiah jackson",
       "pitcher": "chris bassitt",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "17": {
       "player": "jackson holliday",
@@ -938,6 +938,18 @@
     }
   },
   "tex @ nym": {
+    "17": {
+      "player": "josh jung",
+      "pitcher": "huascar brazoban",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "16": {
+      "player": "jake burger",
+      "pitcher": "huascar brazoban",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "15": {
       "player": "joc pederson",
       "pitcher": "huascar brazoban",
@@ -1113,7 +1125,7 @@
     "17": {
       "player": "xavier edwards",
       "pitcher": "tarik skubal",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "16": {
@@ -1309,8 +1321,8 @@
     "13": {
       "player": "jake meyers",
       "pitcher": "hurston waldrep",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "12": {
       "player": "ha seong kim",
