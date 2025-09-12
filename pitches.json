@@ -449,7 +449,7 @@
     "20": {
       "player": "nick gonzales",
       "pitcher": "brad lord",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "19": {
@@ -571,8 +571,8 @@
     "17": {
       "player": "bryson stott",
       "pitcher": "michael lorenzen",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "16": {
       "player": "edmundo sosa",
@@ -750,6 +750,12 @@
     }
   },
   "det @ mia": {
+    "7": {
+      "player": "jakob marsee",
+      "pitcher": "tarik skubal",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "agustin ramirez",
       "pitcher": "tarik skubal",
@@ -820,6 +826,12 @@
     }
   },
   "hou @ atl": {
+    "3": {
+      "player": "jose altuve",
+      "pitcher": "hurston waldrep",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "2": {
       "player": "yordan alvarez",
       "pitcher": "hurston waldrep",
