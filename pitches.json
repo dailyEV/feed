@@ -673,7 +673,7 @@
     "31": {
       "player": "salvador perez",
       "pitcher": "walker buehler",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "30": {
@@ -858,6 +858,12 @@
     }
   },
   "bal @ tor": {
+    "20": {
+      "player": "myles straw",
+      "pitcher": "trevor rogers",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "19": {
       "player": "gunnar henderson",
       "pitcher": "chris bassitt",
@@ -1194,12 +1200,6 @@
     }
   },
   "det @ mia": {
-    "19": {
-      "player": "jake rogers",
-      "pitcher": "sandy alcantara",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "18": {
       "player": "zach mckinstry",
       "pitcher": "sandy alcantara",
@@ -1314,7 +1314,7 @@
       "player": "aaron judge",
       "pitcher": "lucas giolito",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "17": {
       "player": "trent grisham",
@@ -1423,8 +1423,8 @@
     "17": {
       "player": "yordan alvarez",
       "pitcher": "hurston waldrep",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "16": {
       "player": "carlos correa",
