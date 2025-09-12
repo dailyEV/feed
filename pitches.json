@@ -676,11 +676,17 @@
     }
   },
   "kc @ phi": {
+    "32": {
+      "player": "adam frazier",
+      "pitcher": "walker buehler",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "31": {
       "player": "salvador perez",
       "pitcher": "walker buehler",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "30": {
       "player": "maikel garcia",
@@ -995,8 +1001,8 @@
     "21": {
       "player": "brett baty",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "jeff mcneil",
@@ -1349,7 +1355,7 @@
     "19": {
       "player": "ben rice",
       "pitcher": "lucas giolito",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "18": {
