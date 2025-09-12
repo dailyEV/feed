@@ -902,6 +902,12 @@
     }
   },
   "tex @ nym": {
+    "14": {
+      "player": "wyatt langford",
+      "pitcher": "huascar brazoban",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "13": {
       "player": "pete alonso",
       "pitcher": "jacob degrom",
@@ -985,7 +991,7 @@
     "11": {
       "player": "kyle manzardo",
       "pitcher": "martin perez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "10": {
@@ -1053,7 +1059,7 @@
     "15": {
       "player": "maximo acosta",
       "pitcher": "tarik skubal",
-      "result": "Ball",
+      "result": "Hit By Pitch",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -1142,12 +1148,6 @@
     }
   },
   "nyy @ bos": {
-    "15": {
-      "player": "david hamilton",
-      "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "14": {
       "player": "carlos narvaez",
       "pitcher": "luis gil",
@@ -1237,8 +1237,8 @@
     "12": {
       "player": "ha seong kim",
       "pitcher": "jayden murray",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "11": {
       "player": "ozzie albies",
