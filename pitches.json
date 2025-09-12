@@ -449,7 +449,7 @@
     "19": {
       "player": "andrew mccutchen",
       "pitcher": "brad lord",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "18": {
@@ -738,6 +738,12 @@
     }
   },
   "det @ mia": {
+    "5": {
+      "player": "xavier edwards",
+      "pitcher": "tarik skubal",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "4": {
       "player": "riley greene",
       "pitcher": "sandy alcantara",
@@ -767,7 +773,7 @@
     "5": {
       "player": "giancarlo stanton",
       "pitcher": "lucas giolito",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "4": {
@@ -796,11 +802,17 @@
     }
   },
   "hou @ atl": {
+    "2": {
+      "player": "yordan alvarez",
+      "pitcher": "hurston waldrep",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "carlos correa",
       "pitcher": "hurston waldrep",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     }
   },
   "ari @ min": {},
