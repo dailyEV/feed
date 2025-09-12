@@ -449,8 +449,8 @@
     "18": {
       "player": "bryan reynolds",
       "pitcher": "brad lord",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "spencer horwitz",
@@ -556,11 +556,17 @@
     }
   },
   "kc @ phi": {
+    "15": {
+      "player": "max kepler",
+      "pitcher": "michael lorenzen",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "14": {
       "player": "otto kemp",
       "pitcher": "michael lorenzen",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "13": {
       "player": "kyle isbel",
@@ -662,6 +668,12 @@
     }
   },
   "tex @ nym": {
+    "3": {
+      "player": "joc pederson",
+      "pitcher": "jonah tong",
+      "result": "Ball In Dirt",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "wyatt langford",
       "pitcher": "jonah tong",
