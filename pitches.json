@@ -1029,7 +1029,7 @@
     "33": {
       "player": "colton cowser",
       "pitcher": "chris bassitt",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "32": {
@@ -1626,6 +1626,12 @@
     }
   },
   "det @ mia": {
+    "34": {
+      "player": "colt keith",
+      "pitcher": "sandy alcantara",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "33": {
       "player": "xavier edwards",
       "pitcher": "rafael montero",
@@ -2018,7 +2024,7 @@
       "player": "carlos correa",
       "pitcher": "hurston waldrep",
       "result": "Called Strike",
-      "pitch": "Cutter"
+      "pitch": "Sinker"
     },
     "32": {
       "player": "ozzie albies",
@@ -2214,12 +2220,6 @@
     }
   },
   "ari @ min": {
-    "5": {
-      "player": "blaze alexander",
-      "pitcher": "pablo lopez",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "4": {
       "player": "gabriel moreno",
       "pitcher": "pablo lopez",
@@ -2249,8 +2249,8 @@
     "6": {
       "player": "jackson chourio",
       "pitcher": "andre pallante",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "sal frelick",
