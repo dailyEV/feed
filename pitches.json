@@ -945,7 +945,7 @@
     "26": {
       "player": "ryan mountcastle",
       "pitcher": "chris bassitt",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "25": {
@@ -1264,6 +1264,12 @@
     }
   },
   "chw @ cle": {
+    "24": {
+      "player": "angel martinez",
+      "pitcher": "martin perez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "colson montgomery",
       "pitcher": "tanner bibee",
@@ -1407,7 +1413,7 @@
     "27": {
       "player": "spencer torkelson",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "26": {
@@ -1720,11 +1726,17 @@
     }
   },
   "hou @ atl": {
+    "26": {
+      "player": "jake meyers",
+      "pitcher": "hurston waldrep",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "25": {
       "player": "christian walker",
       "pitcher": "hurston waldrep",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "victor caratini",
