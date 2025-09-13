@@ -793,8 +793,8 @@
     "49": {
       "player": "salvador perez",
       "pitcher": "tanner banks",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "48": {
       "player": "bryson stott",
@@ -1089,8 +1089,8 @@
     "40": {
       "player": "alejandro kirk",
       "pitcher": "trevor rogers",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "39": {
       "player": "vladimir guerrero",
@@ -1328,10 +1328,16 @@
     }
   },
   "tex @ nym": {
+    "40": {
+      "player": "alejandro osuna",
+      "pitcher": "ryne stanek",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "josh jung",
       "pitcher": "ryne stanek",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -1567,8 +1573,8 @@
     "39": {
       "player": "kyle teel",
       "pitcher": "tanner bibee",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "38": {
       "player": "mike tauchman",
@@ -1800,6 +1806,12 @@
     }
   },
   "det @ mia": {
+    "39": {
+      "player": "otto lopez",
+      "pitcher": "rafael montero",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "38": {
       "player": "jakob marsee",
       "pitcher": "rafael montero",
@@ -2030,12 +2042,6 @@
     }
   },
   "nyy @ bos": {
-    "36": {
-      "player": "david hamilton",
-      "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "35": {
       "player": "carlos narvaez",
       "pitcher": "luis gil",
