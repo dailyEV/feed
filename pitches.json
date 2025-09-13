@@ -449,8 +449,8 @@
     "65": {
       "player": "dylan crews",
       "pitcher": "dauri moreta",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "64": {
       "player": "jorge alfaro",
@@ -841,8 +841,8 @@
     "56": {
       "player": "brandon marsh",
       "pitcher": "sam long",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "55": {
       "player": "bryce harper",
@@ -1176,6 +1176,12 @@
     }
   },
   "bal @ tor": {
+    "46": {
+      "player": "ernie clement",
+      "pitcher": "dietrich enns",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "dylan beavers",
       "pitcher": "braydon fisher",
@@ -1448,12 +1454,6 @@
     }
   },
   "tex @ nym": {
-    "47": {
-      "player": "josh smith",
-      "pitcher": "gregory soto",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "46": {
       "player": "michael helman",
       "pitcher": "ryne stanek",
@@ -2297,8 +2297,8 @@
     "41": {
       "player": "cody bellinger",
       "pitcher": "lucas giolito",
-      "result": "Foul Bunt",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "40": {
       "player": "ben rice",
@@ -2542,6 +2542,12 @@
     }
   },
   "hou @ atl": {
+    "45": {
+      "player": "marcell ozuna",
+      "pitcher": "nick hernandez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "michael harris",
       "pitcher": "nick hernandez",
@@ -2808,11 +2814,17 @@
     }
   },
   "ari @ min": {
+    "19": {
+      "player": "corbin carroll",
+      "pitcher": "pablo lopez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "ildemaro vargas",
       "pitcher": "pablo lopez",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "geraldo perdomo",
