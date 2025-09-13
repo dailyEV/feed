@@ -799,8 +799,8 @@
     "50": {
       "player": "adam frazier",
       "pitcher": "tanner banks",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "49": {
       "player": "salvador perez",
@@ -2281,8 +2281,8 @@
     "40": {
       "player": "zach cole",
       "pitcher": "dane dunning",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "jake meyers",
@@ -2588,11 +2588,17 @@
     }
   },
   "stl @ mil": {
+    "13": {
+      "player": "isaac collins",
+      "pitcher": "andre pallante",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "christian yelich",
       "pitcher": "andre pallante",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "william contreras",
