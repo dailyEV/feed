@@ -446,6 +446,12 @@
     }
   },
   "pit @ wsh": {
+    "62": {
+      "player": "andrew mccutchen",
+      "pitcher": "clayton beeter",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "bryan reynolds",
       "pitcher": "clayton beeter",
@@ -817,8 +823,8 @@
     "53": {
       "player": "harrison bader",
       "pitcher": "sam long",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "52": {
       "player": "rafael marchan",
@@ -1914,6 +1920,12 @@
     }
   },
   "det @ mia": {
+    "44": {
+      "player": "eric wagaman",
+      "pitcher": "chris paddack",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "heriberto hernandez",
       "pitcher": "chris paddack",
@@ -2174,11 +2186,17 @@
     }
   },
   "nyy @ bos": {
+    "39": {
+      "player": "jarren duran",
+      "pitcher": "luis gil",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "ceddanne rafaela",
       "pitcher": "luis gil",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "37": {
       "player": "nate eaton",
@@ -2661,7 +2679,7 @@
     "15": {
       "player": "royce lewis",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "14": {
@@ -2750,10 +2768,16 @@
     }
   },
   "stl @ mil": {
+    "16": {
+      "player": "brendan donovan",
+      "pitcher": "quinn priester",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "15": {
       "player": "jimmy crooks",
       "pitcher": "quinn priester",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "14": {
