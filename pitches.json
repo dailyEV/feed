@@ -446,6 +446,12 @@
     }
   },
   "pit @ wsh": {
+    "71": {
+      "player": "jared triolo",
+      "pitcher": "jose a ferrer",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "70": {
       "player": "joey bart",
       "pitcher": "jose a ferrer",
@@ -868,6 +874,12 @@
     }
   },
   "kc @ phi": {
+    "62": {
+      "player": "otto kemp",
+      "pitcher": "taylor clarke",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "61": {
       "player": "vinnie pasquantino",
       "pitcher": "tim mayza",
@@ -1236,6 +1248,12 @@
     }
   },
   "bal @ tor": {
+    "52": {
+      "player": "colton cowser",
+      "pitcher": "louis varland",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "tyler oneill",
       "pitcher": "braydon fisher",
@@ -1544,6 +1562,12 @@
     }
   },
   "tex @ nym": {
+    "53": {
+      "player": "jake burger",
+      "pitcher": "gregory soto",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "52": {
       "player": "dylan moore",
       "pitcher": "gregory soto",
@@ -1858,6 +1882,18 @@
     }
   },
   "chw @ cle": {
+    "52": {
+      "player": "michael a taylor",
+      "pitcher": "tanner bibee",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
+    "51": {
+      "player": "andrew benintendi",
+      "pitcher": "tanner bibee",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "50": {
       "player": "brayan rocchio",
       "pitcher": "steven wilson",
@@ -2498,16 +2534,10 @@
     }
   },
   "nyy @ bos": {
-    "47": {
-      "player": "masataka yoshida",
-      "pitcher": "luis gil",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "46": {
       "player": "nathaniel lowe",
       "pitcher": "luis gil",
-      "result": "Foul Tip",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -2782,12 +2812,6 @@
     }
   },
   "hou @ atl": {
-    "51": {
-      "player": "jurickson profar",
-      "pitcher": "colton gordon",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "50": {
       "player": "victor caratini",
       "pitcher": "dane dunning",
@@ -3090,11 +3114,17 @@
     }
   },
   "ari @ min": {
+    "25": {
+      "player": "austin martin",
+      "pitcher": "brandon pfaadt",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "byron buxton",
       "pitcher": "brandon pfaadt",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "23": {
       "player": "jhonny pereda",
@@ -3239,7 +3269,7 @@
     "26": {
       "player": "willson contreras",
       "pitcher": "quinn priester",
-      "result": "Ball In Dirt",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "25": {
