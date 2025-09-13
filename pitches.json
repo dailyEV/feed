@@ -5289,7 +5289,7 @@
     "64": {
       "player": "shea langeliers",
       "pitcher": "chase burns",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -5675,8 +5675,8 @@
     "55": {
       "player": "chris taylor",
       "pitcher": "gabe speier",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "luke raley",
@@ -6004,6 +6004,12 @@
     }
   },
   "lad @ sf": {
+    "60": {
+      "player": "andy pages",
+      "pitcher": "ryan walker",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "patrick bailey",
       "pitcher": "jack dreyer",
