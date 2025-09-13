@@ -877,8 +877,8 @@
     "63": {
       "player": "max kepler",
       "pitcher": "taylor clarke",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "62": {
       "player": "otto kemp",
@@ -1257,8 +1257,8 @@
     "53": {
       "player": "samuel basallo",
       "pitcher": "louis varland",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "52": {
       "player": "colton cowser",
@@ -1577,7 +1577,7 @@
     "54": {
       "player": "josh jung",
       "pitcher": "gregory soto",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "53": {
@@ -2220,12 +2220,6 @@
     }
   },
   "det @ mia": {
-    "58": {
-      "player": "jake rogers",
-      "pitcher": "cade gibson",
-      "result": "Hit By Pitch",
-      "pitch": "Curveball"
-    },
     "57": {
       "player": "andy ibanez",
       "pitcher": "cade gibson",
@@ -2854,6 +2848,12 @@
     }
   },
   "hou @ atl": {
+    "53": {
+      "player": "ronald acuna",
+      "pitcher": "colton gordon",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "matt olson",
       "pitcher": "colton gordon",
@@ -3168,6 +3168,12 @@
     }
   },
   "ari @ min": {
+    "26": {
+      "player": "trevor larnach",
+      "pitcher": "brandon pfaadt",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "25": {
       "player": "austin martin",
       "pitcher": "brandon pfaadt",
@@ -3324,7 +3330,7 @@
       "player": "lars nootbaar",
       "pitcher": "quinn priester",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "26": {
       "player": "willson contreras",
