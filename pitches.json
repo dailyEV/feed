@@ -742,6 +742,12 @@
     }
   },
   "kc @ phi": {
+    "42": {
+      "player": "mike yastrzemski",
+      "pitcher": "walker buehler",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "kyle isbel",
       "pitcher": "walker buehler",
@@ -993,8 +999,8 @@
     "30": {
       "player": "ty france",
       "pitcher": "trevor rogers",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "29": {
       "player": "ernie clement",
@@ -1172,6 +1178,12 @@
     }
   },
   "tex @ nym": {
+    "33": {
+      "player": "wyatt langford",
+      "pitcher": "huascar brazoban",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "32": {
       "player": "josh smith",
       "pitcher": "huascar brazoban",
@@ -1534,7 +1546,7 @@
       "player": "joey wiemer",
       "pitcher": "rafael montero",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "29": {
       "player": "eric wagaman",
@@ -1885,7 +1897,7 @@
     "30": {
       "player": "ronald acuna",
       "pitcher": "aj blubaugh",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -2067,7 +2079,7 @@
     "1": {
       "player": "geraldo perdomo",
       "pitcher": "pablo lopez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     }
   },
