@@ -754,11 +754,17 @@
     }
   },
   "kc @ phi": {
+    "45": {
+      "player": "maikel garcia",
+      "pitcher": "walker buehler",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "vinnie pasquantino",
       "pitcher": "walker buehler",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
     },
     "43": {
       "player": "bobby witt",
@@ -1020,12 +1026,6 @@
     }
   },
   "bal @ tor": {
-    "33": {
-      "player": "colton cowser",
-      "pitcher": "chris bassitt",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "32": {
       "player": "myles straw",
       "pitcher": "trevor rogers",
@@ -2196,11 +2196,17 @@
     }
   },
   "ari @ min": {
+    "4": {
+      "player": "gabriel moreno",
+      "pitcher": "pablo lopez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "corbin carroll",
       "pitcher": "pablo lopez",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "ildemaro vargas",
