@@ -1481,7 +1481,7 @@
     "49": {
       "player": "pete alonso",
       "pitcher": "jacob degrom",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "48": {
@@ -2064,11 +2064,17 @@
     }
   },
   "det @ mia": {
+    "51": {
+      "player": "spencer torkelson",
+      "pitcher": "sandy alcantara",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "riley greene",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "49": {
       "player": "kerry carpenter",
@@ -2902,7 +2908,7 @@
       "player": "blaze alexander",
       "pitcher": "pablo lopez",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "20": {
       "player": "gabriel moreno",
@@ -3026,6 +3032,12 @@
     }
   },
   "stl @ mil": {
+    "21": {
+      "player": "jackson chourio",
+      "pitcher": "andre pallante",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "sal frelick",
       "pitcher": "andre pallante",
