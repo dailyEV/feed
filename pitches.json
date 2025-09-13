@@ -757,8 +757,8 @@
     "44": {
       "player": "vinnie pasquantino",
       "pitcher": "walker buehler",
-      "result": "In play, no out",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "43": {
       "player": "bobby witt",
@@ -1605,7 +1605,7 @@
     "33": {
       "player": "xavier edwards",
       "pitcher": "rafael montero",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "32": {
@@ -1802,6 +1802,12 @@
     }
   },
   "nyy @ bos": {
+    "31": {
+      "player": "masataka yoshida",
+      "pitcher": "luis gil",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "30": {
       "player": "nathaniel lowe",
       "pitcher": "luis gil",
@@ -1984,10 +1990,16 @@
     }
   },
   "hou @ atl": {
+    "32": {
+      "player": "ozzie albies",
+      "pitcher": "aj blubaugh",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "drake baldwin",
       "pitcher": "aj blubaugh",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "30": {
@@ -2175,8 +2187,8 @@
     "3": {
       "player": "corbin carroll",
       "pitcher": "pablo lopez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "2": {
       "player": "ildemaro vargas",
