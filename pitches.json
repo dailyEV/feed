@@ -1272,12 +1272,6 @@
     }
   },
   "bal @ tor": {
-    "59": {
-      "player": "ty france",
-      "pitcher": "shawn dubin",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "58": {
       "player": "ernie clement",
       "pitcher": "shawn dubin",
@@ -1981,8 +1975,8 @@
     "59": {
       "player": "mike tauchman",
       "pitcher": "tanner bibee",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "will robertson",
@@ -3405,7 +3399,7 @@
     "30": {
       "player": "luke keaschall",
       "pitcher": "brandon pfaadt",
-      "result": "Foul Tip",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "29": {
@@ -3584,11 +3578,17 @@
     }
   },
   "stl @ mil": {
+    "34": {
+      "player": "jordan walker",
+      "pitcher": "quinn priester",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "33": {
       "player": "nolan gorman",
       "pitcher": "quinn priester",
-      "result": "Foul Tip",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "32": {
       "player": "caleb durbin",
