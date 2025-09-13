@@ -3888,12 +3888,6 @@
     }
   },
   "ari @ min": {
-    "60": {
-      "player": "austin martin",
-      "pitcher": "brandyn garcia",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "59": {
       "player": "gabriel moreno",
       "pitcher": "michael tonkin",
@@ -4627,8 +4621,8 @@
     "17": {
       "player": "tyler freeman",
       "pitcher": "jp sears",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "orlando arcia",
@@ -4760,6 +4754,12 @@
     }
   },
   "laa @ sea": {
+    "4": {
+      "player": "randy arozarena",
+      "pitcher": "yusei kikuchi",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "yoan moncada",
       "pitcher": "luis castillo",
@@ -4783,8 +4783,8 @@
     "1": {
       "player": "shohei ohtani",
       "pitcher": "justin verlander",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     }
   }
 }
