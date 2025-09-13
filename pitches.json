@@ -1595,8 +1595,8 @@
     "56": {
       "player": "jonah heim",
       "pitcher": "gregory soto",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "55": {
       "player": "alejandro osuna",
@@ -2265,8 +2265,8 @@
     "60": {
       "player": "gleyber torres",
       "pitcher": "cade gibson",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "59": {
       "player": "parker meadows",
@@ -2627,7 +2627,7 @@
     "50": {
       "player": "ryan mcmahon",
       "pitcher": "justin wilson",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -2926,6 +2926,12 @@
     }
   },
   "hou @ atl": {
+    "55": {
+      "player": "christian walker",
+      "pitcher": "dane dunning",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "54": {
       "player": "drake baldwin",
       "pitcher": "colton gordon",
@@ -3416,6 +3422,12 @@
     }
   },
   "stl @ mil": {
+    "29": {
+      "player": "christian yelich",
+      "pitcher": "andre pallante",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "28": {
       "player": "thomas saggese",
       "pitcher": "quinn priester",
