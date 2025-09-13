@@ -449,7 +449,7 @@
     "61": {
       "player": "bryan reynolds",
       "pitcher": "clayton beeter",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "60": {
@@ -1663,8 +1663,8 @@
     "42": {
       "player": "jose ramirez",
       "pitcher": "martin perez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "41": {
       "player": "angel martinez",
@@ -2171,8 +2171,8 @@
     "38": {
       "player": "ceddanne rafaela",
       "pitcher": "luis gil",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "nate eaton",
@@ -2652,6 +2652,12 @@
     }
   },
   "ari @ min": {
+    "15": {
+      "player": "royce lewis",
+      "pitcher": "brandon pfaadt",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "matt wallner",
       "pitcher": "brandon pfaadt",
@@ -2738,6 +2744,12 @@
     }
   },
   "stl @ mil": {
+    "16": {
+      "player": "brendan donovan",
+      "pitcher": "quinn priester",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "15": {
       "player": "jimmy crooks",
       "pitcher": "quinn priester",
