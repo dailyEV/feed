@@ -972,12 +972,6 @@
     }
   },
   "bal @ tor": {
-    "28": {
-      "player": "tyler oneill",
-      "pitcher": "chris bassitt",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "27": {
       "player": "dylan beavers",
       "pitcher": "chris bassitt",
@@ -1142,11 +1136,17 @@
     }
   },
   "tex @ nym": {
+    "30": {
+      "player": "brandon nimmo",
+      "pitcher": "jacob degrom",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "29": {
       "player": "pete alonso",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "28": {
       "player": "juan soto",
@@ -1819,7 +1819,7 @@
     "28": {
       "player": "mauricio dubon",
       "pitcher": "hurston waldrep",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "27": {
