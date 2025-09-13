@@ -1187,8 +1187,8 @@
     "33": {
       "player": "wyatt langford",
       "pitcher": "huascar brazoban",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "32": {
       "player": "josh smith",
@@ -1557,8 +1557,8 @@
     "30": {
       "player": "joey wiemer",
       "pitcher": "rafael montero",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "29": {
       "player": "eric wagaman",
@@ -1736,6 +1736,12 @@
     }
   },
   "nyy @ bos": {
+    "29": {
+      "player": "trevor story",
+      "pitcher": "luis gil",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "jose caballero",
       "pitcher": "lucas giolito",
@@ -1906,6 +1912,12 @@
     }
   },
   "hou @ atl": {
+    "31": {
+      "player": "drake baldwin",
+      "pitcher": "aj blubaugh",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "30": {
       "player": "ronald acuna",
       "pitcher": "aj blubaugh",
@@ -2088,11 +2100,17 @@
     }
   },
   "ari @ min": {
+    "3": {
+      "player": "corbin carroll",
+      "pitcher": "pablo lopez",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "ildemaro vargas",
       "pitcher": "pablo lopez",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "1": {
       "player": "geraldo perdomo",
@@ -2102,6 +2120,12 @@
     }
   },
   "stl @ mil": {
+    "4": {
+      "player": "willson contreras",
+      "pitcher": "quinn priester",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "alec burleson",
       "pitcher": "quinn priester",
