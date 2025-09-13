@@ -449,8 +449,8 @@
     "44": {
       "player": "cj abrams",
       "pitcher": "mitch keller",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "robert hassell",
@@ -712,6 +712,12 @@
     }
   },
   "kc @ phi": {
+    "37": {
+      "player": "kyle schwarber",
+      "pitcher": "michael lorenzen",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "harrison bader",
       "pitcher": "michael lorenzen",
@@ -1383,8 +1389,8 @@
     "26": {
       "player": "riley greene",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "25": {
       "player": "kerry carpenter",
@@ -1538,11 +1544,17 @@
     }
   },
   "nyy @ bos": {
+    "24": {
+      "player": "jarren duran",
+      "pitcher": "luis gil",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "ceddanne rafaela",
       "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "nate eaton",
@@ -1565,7 +1577,7 @@
     "19": {
       "player": "ben rice",
       "pitcher": "lucas giolito",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "18": {
