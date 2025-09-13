@@ -1547,7 +1547,7 @@
     "52": {
       "player": "dylan moore",
       "pitcher": "gregory soto",
-      "result": "Swinging Strike",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "51": {
@@ -1858,12 +1858,6 @@
     }
   },
   "chw @ cle": {
-    "51": {
-      "player": "andrew benintendi",
-      "pitcher": "tanner bibee",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "50": {
       "player": "brayan rocchio",
       "pitcher": "steven wilson",
@@ -2504,10 +2498,16 @@
     }
   },
   "nyy @ bos": {
+    "47": {
+      "player": "masataka yoshida",
+      "pitcher": "luis gil",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "46": {
       "player": "nathaniel lowe",
       "pitcher": "luis gil",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -2782,6 +2782,12 @@
     }
   },
   "hou @ atl": {
+    "51": {
+      "player": "jurickson profar",
+      "pitcher": "colton gordon",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "50": {
       "player": "victor caratini",
       "pitcher": "dane dunning",
