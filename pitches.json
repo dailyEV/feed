@@ -859,8 +859,8 @@
     "59": {
       "player": "randal grichuk",
       "pitcher": "tim mayza",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "tyler tolbert",
@@ -1517,8 +1517,8 @@
     "50": {
       "player": "brandon nimmo",
       "pitcher": "jacob degrom",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "pete alonso",
@@ -1816,6 +1816,12 @@
     }
   },
   "chw @ cle": {
+    "49": {
+      "player": "nolan jones",
+      "pitcher": "steven wilson",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "gabriel arias",
       "pitcher": "martin perez",
@@ -2680,6 +2686,12 @@
     }
   },
   "hou @ atl": {
+    "48": {
+      "player": "jose altuve",
+      "pitcher": "dane dunning",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "yordan alvarez",
       "pitcher": "dane dunning",
@@ -3092,12 +3104,6 @@
     }
   },
   "stl @ mil": {
-    "23": {
-      "player": "william contreras",
-      "pitcher": "andre pallante",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "22": {
       "player": "brice turang",
       "pitcher": "andre pallante",
