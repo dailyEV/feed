@@ -981,8 +981,8 @@
     "28": {
       "player": "tyler oneill",
       "pitcher": "chris bassitt",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "27": {
       "player": "dylan beavers",
@@ -1333,8 +1333,8 @@
     "27": {
       "player": "kyle manzardo",
       "pitcher": "martin perez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "david fry",
@@ -2016,7 +2016,14 @@
     }
   },
   "ari @ min": {},
-  "stl @ mil": {},
+  "stl @ mil": {
+    "1": {
+      "player": "brendan donovan",
+      "pitcher": "quinn priester",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    }
+  },
   "col @ sd": {},
   "cin @ ath": {},
   "laa @ sea": {},
