@@ -4858,11 +4858,17 @@
     }
   },
   "col @ sd": {
-    "60": {
-      "player": "will wagner",
+    "61": {
+      "player": "fernando tatis",
       "pitcher": "jimmy herget",
       "result": "Foul",
       "pitch": "Sinker"
+    },
+    "60": {
+      "player": "will wagner",
+      "pitcher": "jimmy herget",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "59": {
       "player": "jake cronenworth",
@@ -5220,6 +5226,12 @@
     }
   },
   "cin @ ath": {
+    "47": {
+      "player": "shea langeliers",
+      "pitcher": "brady singer",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "46": {
       "player": "matt mclain",
       "pitcher": "tyler ferguson",
@@ -5761,8 +5773,8 @@
     "44": {
       "player": "michael conforto",
       "pitcher": "justin verlander",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "rafael devers",
