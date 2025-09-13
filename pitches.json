@@ -742,12 +742,6 @@
     }
   },
   "kc @ phi": {
-    "42": {
-      "player": "mike yastrzemski",
-      "pitcher": "walker buehler",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "41": {
       "player": "kyle isbel",
       "pitcher": "walker buehler",
@@ -996,6 +990,12 @@
     }
   },
   "bal @ tor": {
+    "30": {
+      "player": "ty france",
+      "pitcher": "trevor rogers",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "ernie clement",
       "pitcher": "trevor rogers",
@@ -1175,8 +1175,8 @@
     "32": {
       "player": "josh smith",
       "pitcher": "huascar brazoban",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "michael helman",
@@ -1885,8 +1885,8 @@
     "30": {
       "player": "ronald acuna",
       "pitcher": "aj blubaugh",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "matt olson",
@@ -2072,6 +2072,12 @@
     }
   },
   "stl @ mil": {
+    "3": {
+      "player": "alec burleson",
+      "pitcher": "quinn priester",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "2": {
       "player": "ivan herrera",
       "pitcher": "quinn priester",
