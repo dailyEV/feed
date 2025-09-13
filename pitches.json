@@ -449,8 +449,8 @@
     "49": {
       "player": "alexander canario",
       "pitcher": "pj poulin",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "48": {
       "player": "luis garcia",
@@ -742,6 +742,12 @@
     }
   },
   "kc @ phi": {
+    "43": {
+      "player": "bobby witt",
+      "pitcher": "walker buehler",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "42": {
       "player": "mike yastrzemski",
       "pitcher": "walker buehler",
@@ -1384,11 +1390,17 @@
     }
   },
   "chw @ cle": {
+    "29": {
+      "player": "andrew benintendi",
+      "pitcher": "tanner bibee",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "28": {
       "player": "miguel vargas",
       "pitcher": "tanner bibee",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "27": {
       "player": "kyle manzardo",
@@ -1557,7 +1569,7 @@
     "30": {
       "player": "joey wiemer",
       "pitcher": "rafael montero",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Splitter"
     },
     "29": {
@@ -1915,7 +1927,7 @@
     "31": {
       "player": "drake baldwin",
       "pitcher": "aj blubaugh",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "30": {
@@ -2123,8 +2135,8 @@
     "4": {
       "player": "willson contreras",
       "pitcher": "quinn priester",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "alec burleson",
