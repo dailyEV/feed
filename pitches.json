@@ -754,12 +754,6 @@
     }
   },
   "kc @ phi": {
-    "44": {
-      "player": "vinnie pasquantino",
-      "pitcher": "walker buehler",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "43": {
       "player": "bobby witt",
       "pitcher": "walker buehler",
@@ -1217,7 +1211,7 @@
     "34": {
       "player": "joc pederson",
       "pitcher": "huascar brazoban",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "33": {
@@ -1420,12 +1414,6 @@
     }
   },
   "chw @ cle": {
-    "30": {
-      "player": "brooks baldwin",
-      "pitcher": "tanner bibee",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "29": {
       "player": "andrew benintendi",
       "pitcher": "tanner bibee",
@@ -1605,8 +1593,8 @@
     "31": {
       "player": "maximo acosta",
       "pitcher": "rafael montero",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Splitter"
     },
     "30": {
       "player": "joey wiemer",
@@ -1790,6 +1778,12 @@
     }
   },
   "nyy @ bos": {
+    "30": {
+      "player": "nathaniel lowe",
+      "pitcher": "luis gil",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "29": {
       "player": "trevor story",
       "pitcher": "luis gil",
@@ -2157,8 +2151,8 @@
     "3": {
       "player": "corbin carroll",
       "pitcher": "pablo lopez",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "ildemaro vargas",
