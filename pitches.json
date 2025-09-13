@@ -449,8 +449,8 @@
     "66": {
       "player": "nick gonzales",
       "pitcher": "jose a ferrer",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "65": {
       "player": "dylan crews",
@@ -1481,7 +1481,7 @@
     "49": {
       "player": "pete alonso",
       "pitcher": "jacob degrom",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "48": {
@@ -1778,7 +1778,7 @@
       "player": "gabriel arias",
       "pitcher": "martin perez",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Cutter"
     },
     "47": {
       "player": "kyle manzardo",
@@ -2898,6 +2898,12 @@
     }
   },
   "ari @ min": {
+    "21": {
+      "player": "blaze alexander",
+      "pitcher": "pablo lopez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "gabriel moreno",
       "pitcher": "pablo lopez",
