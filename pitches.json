@@ -450,7 +450,7 @@
       "player": "daylen lile",
       "pitcher": "evan sisk",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "josh bell",
@@ -733,8 +733,8 @@
     "38": {
       "player": "bryce harper",
       "pitcher": "daniel lynch",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "kyle schwarber",
@@ -1124,11 +1124,17 @@
     }
   },
   "tex @ nym": {
+    "29": {
+      "player": "pete alonso",
+      "pitcher": "jacob degrom",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "28": {
       "player": "juan soto",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "francisco lindor",
@@ -1294,6 +1300,12 @@
     }
   },
   "chw @ cle": {
+    "25": {
+      "player": "jose ramirez",
+      "pitcher": "martin perez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "angel martinez",
       "pitcher": "martin perez",
