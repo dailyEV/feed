@@ -1290,6 +1290,18 @@
     }
   },
   "bal @ tor": {
+    "62": {
+      "player": "jeremiah jackson",
+      "pitcher": "brendon little",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "61": {
+      "player": "jackson holliday",
+      "pitcher": "brendon little",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "60": {
       "player": "emmanuel rivera",
       "pitcher": "louis varland",
@@ -2400,17 +2412,11 @@
     }
   },
   "det @ mia": {
-    "68": {
-      "player": "trey sweeney",
-      "pitcher": "george soriano",
-      "result": "Called Strike",
-      "pitch": "Changeup"
-    },
     "67": {
       "player": "colt keith",
       "pitcher": "george soriano",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "66": {
       "player": "spencer torkelson",
@@ -2813,8 +2819,8 @@
     "58": {
       "player": "ceddanne rafaela",
       "pitcher": "fernando cruz",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "nate eaton",
@@ -3534,6 +3540,12 @@
     }
   },
   "ari @ min": {
+    "34": {
+      "player": "kody clemens",
+      "pitcher": "brandon pfaadt",
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "brooks lee",
       "pitcher": "brandon pfaadt",
@@ -3734,11 +3746,17 @@
     }
   },
   "stl @ mil": {
+    "38": {
+      "player": "sal frelick",
+      "pitcher": "andre pallante",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "joey ortiz",
       "pitcher": "andre pallante",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "36": {
       "player": "brendan donovan",
