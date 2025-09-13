@@ -877,7 +877,7 @@
     "62": {
       "player": "otto kemp",
       "pitcher": "taylor clarke",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "61": {
@@ -1248,11 +1248,17 @@
     }
   },
   "bal @ tor": {
+    "53": {
+      "player": "samuel basallo",
+      "pitcher": "louis varland",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "52": {
       "player": "colton cowser",
       "pitcher": "louis varland",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "51": {
       "player": "tyler oneill",
@@ -2824,6 +2830,12 @@
     }
   },
   "hou @ atl": {
+    "52": {
+      "player": "matt olson",
+      "pitcher": "colton gordon",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "jurickson profar",
       "pitcher": "colton gordon",
@@ -3132,11 +3144,17 @@
     }
   },
   "ari @ min": {
+    "25": {
+      "player": "austin martin",
+      "pitcher": "brandon pfaadt",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "byron buxton",
       "pitcher": "brandon pfaadt",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "23": {
       "player": "jhonny pereda",
