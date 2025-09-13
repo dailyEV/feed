@@ -449,7 +449,7 @@
     "66": {
       "player": "nick gonzales",
       "pitcher": "jose a ferrer",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "65": {
@@ -847,7 +847,7 @@
     "57": {
       "player": "jac caglianone",
       "pitcher": "tim mayza",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "56": {
@@ -1191,8 +1191,8 @@
     "48": {
       "player": "isiah kiner falefa",
       "pitcher": "dietrich enns",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "47": {
       "player": "ty france",
@@ -1481,8 +1481,8 @@
     "48": {
       "player": "juan soto",
       "pitcher": "jacob degrom",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "josh smith",
@@ -2052,6 +2052,12 @@
     }
   },
   "det @ mia": {
+    "50": {
+      "player": "riley greene",
+      "pitcher": "sandy alcantara",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "49": {
       "player": "kerry carpenter",
       "pitcher": "sandy alcantara",
@@ -2605,8 +2611,8 @@
     "46": {
       "player": "nacho alvarez",
       "pitcher": "nick hernandez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "marcell ozuna",
@@ -2884,7 +2890,7 @@
       "player": "gabriel moreno",
       "pitcher": "pablo lopez",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "19": {
       "player": "corbin carroll",
