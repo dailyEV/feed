@@ -793,8 +793,8 @@
     "50": {
       "player": "adam frazier",
       "pitcher": "tanner banks",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "49": {
       "player": "salvador perez",
@@ -2051,8 +2051,8 @@
     "36": {
       "player": "david hamilton",
       "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "35": {
       "player": "carlos narvaez",
@@ -2496,11 +2496,17 @@
     }
   },
   "ari @ min": {
+    "11": {
+      "player": "jordan lawlar",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "jake mccarthy",
       "pitcher": "pablo lopez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "luke keaschall",
@@ -2561,8 +2567,8 @@
     "12": {
       "player": "christian yelich",
       "pitcher": "andre pallante",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "11": {
       "player": "william contreras",
