@@ -4858,10 +4858,16 @@
     }
   },
   "col @ sd": {
+    "70": {
+      "player": "jackson merrill",
+      "pitcher": "victor vodnik",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "69": {
       "player": "ramon laureano",
       "pitcher": "victor vodnik",
-      "result": "Swinging Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -5274,11 +5280,17 @@
     }
   },
   "cin @ ath": {
-    "53": {
-      "player": "jacob wilson",
+    "54": {
+      "player": "jj bleday",
       "pitcher": "chase burns",
       "result": "Ball",
       "pitch": "Slider"
+    },
+    "53": {
+      "player": "jacob wilson",
+      "pitcher": "chase burns",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "elly de la cruz",
@@ -5594,6 +5606,12 @@
     }
   },
   "laa @ sea": {
+    "48": {
+      "player": "jo adell",
+      "pitcher": "carlos vargas",
+      "result": "Foul Tip",
+      "pitch": "Slider"
+    },
     "47": {
       "player": "logan davidson",
       "pitcher": "carlos vargas",
@@ -5881,8 +5899,8 @@
     "52": {
       "player": "matt chapman",
       "pitcher": "yoshinobu yamamoto",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "wilmer flores",
