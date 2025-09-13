@@ -1329,8 +1329,8 @@
     "68": {
       "player": "vladimir guerrero",
       "pitcher": "shawn dubin",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "67": {
       "player": "daulton varsho",
@@ -3765,8 +3765,8 @@
     "42": {
       "player": "blaze alexander",
       "pitcher": "pablo lopez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "41": {
       "player": "gabriel moreno",
@@ -4019,8 +4019,8 @@
     "47": {
       "player": "christian yelich",
       "pitcher": "john king",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "46": {
       "player": "thomas saggese",
@@ -4299,7 +4299,14 @@
       "pitch": "Sinker"
     }
   },
-  "col @ sd": {},
+  "col @ sd": {
+    "1": {
+      "player": "tyler freeman",
+      "pitcher": "jp sears",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "cin @ ath": {},
   "laa @ sea": {},
   "lad @ sf": {}
