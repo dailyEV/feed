@@ -877,8 +877,8 @@
     "64": {
       "player": "weston wilson",
       "pitcher": "taylor clarke",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "63": {
       "player": "max kepler",
@@ -2938,6 +2938,12 @@
     }
   },
   "hou @ atl": {
+    "57": {
+      "player": "zach cole",
+      "pitcher": "dane dunning",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "56": {
       "player": "jake meyers",
       "pitcher": "dane dunning",
@@ -3279,7 +3285,7 @@
     "27": {
       "player": "jake mccarthy",
       "pitcher": "pablo lopez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "26": {
@@ -3440,10 +3446,16 @@
     }
   },
   "stl @ mil": {
+    "30": {
+      "player": "isaac collins",
+      "pitcher": "andre pallante",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "29": {
       "player": "christian yelich",
       "pitcher": "andre pallante",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "28": {
