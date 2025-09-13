@@ -1263,8 +1263,8 @@
     "55": {
       "player": "davis schneider",
       "pitcher": "dietrich enns",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "54": {
       "player": "george springer",
@@ -1595,7 +1595,7 @@
     "56": {
       "player": "jonah heim",
       "pitcher": "gregory soto",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "55": {
@@ -1930,6 +1930,12 @@
     }
   },
   "chw @ cle": {
+    "55": {
+      "player": "steven kwan",
+      "pitcher": "steven wilson",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "54": {
       "player": "austin hedges",
       "pitcher": "steven wilson",
@@ -2256,6 +2262,12 @@
     }
   },
   "det @ mia": {
+    "60": {
+      "player": "gleyber torres",
+      "pitcher": "cade gibson",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "59": {
       "player": "parker meadows",
       "pitcher": "cade gibson",
@@ -2615,7 +2627,7 @@
     "50": {
       "player": "ryan mcmahon",
       "pitcher": "justin wilson",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -2914,12 +2926,6 @@
     }
   },
   "hou @ atl": {
-    "55": {
-      "player": "christian walker",
-      "pitcher": "dane dunning",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "54": {
       "player": "drake baldwin",
       "pitcher": "colton gordon",
