@@ -3888,6 +3888,12 @@
     }
   },
   "ari @ min": {
+    "60": {
+      "player": "austin martin",
+      "pitcher": "brandyn garcia",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "gabriel moreno",
       "pitcher": "michael tonkin",
@@ -4757,7 +4763,7 @@
     "4": {
       "player": "randy arozarena",
       "pitcher": "yusei kikuchi",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "3": {
@@ -4783,8 +4789,8 @@
     "1": {
       "player": "shohei ohtani",
       "pitcher": "justin verlander",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     }
   }
 }
