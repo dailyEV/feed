@@ -446,6 +446,12 @@
     }
   },
   "pit @ wsh": {
+    "61": {
+      "player": "bryan reynolds",
+      "pitcher": "clayton beeter",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "60": {
       "player": "spencer horwitz",
       "pitcher": "clayton beeter",
@@ -811,8 +817,8 @@
     "53": {
       "player": "harrison bader",
       "pitcher": "sam long",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "rafael marchan",
@@ -1388,10 +1394,16 @@
     }
   },
   "tex @ nym": {
+    "44": {
+      "player": "francisco lindor",
+      "pitcher": "jacob degrom",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "43": {
       "player": "cedric mullins",
       "pitcher": "jacob degrom",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -1648,6 +1660,12 @@
     }
   },
   "chw @ cle": {
+    "42": {
+      "player": "jose ramirez",
+      "pitcher": "martin perez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "angel martinez",
       "pitcher": "martin perez",
@@ -2383,7 +2401,7 @@
     "42": {
       "player": "carlos correa",
       "pitcher": "dane dunning",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "41": {
@@ -2723,7 +2741,7 @@
     "15": {
       "player": "jimmy crooks",
       "pitcher": "quinn priester",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "14": {
