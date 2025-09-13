@@ -724,6 +724,12 @@
     }
   },
   "kc @ phi": {
+    "38": {
+      "player": "bryce harper",
+      "pitcher": "daniel lynch",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "kyle schwarber",
       "pitcher": "michael lorenzen",
@@ -948,11 +954,17 @@
     }
   },
   "bal @ tor": {
+    "27": {
+      "player": "dylan beavers",
+      "pitcher": "chris bassitt",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "26": {
       "player": "ryan mountcastle",
       "pitcher": "chris bassitt",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "25": {
       "player": "alejandro kirk",
@@ -1279,8 +1291,8 @@
     "24": {
       "player": "angel martinez",
       "pitcher": "martin perez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "23": {
       "player": "colson montgomery",
@@ -1422,6 +1434,18 @@
     }
   },
   "det @ mia": {
+    "29": {
+      "player": "eric wagaman",
+      "pitcher": "tarik skubal",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "28": {
+      "player": "heriberto hernandez",
+      "pitcher": "tarik skubal",
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
+    },
     "27": {
       "player": "spencer torkelson",
       "pitcher": "sandy alcantara",
