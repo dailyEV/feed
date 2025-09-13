@@ -446,6 +446,12 @@
     }
   },
   "pit @ wsh": {
+    "49": {
+      "player": "alexander canario",
+      "pitcher": "pj poulin",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "luis garcia",
       "pitcher": "evan sisk",
@@ -736,11 +742,17 @@
     }
   },
   "kc @ phi": {
+    "42": {
+      "player": "mike yastrzemski",
+      "pitcher": "walker buehler",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "kyle isbel",
       "pitcher": "walker buehler",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "40": {
       "player": "otto kemp",
@@ -984,12 +996,6 @@
     }
   },
   "bal @ tor": {
-    "30": {
-      "player": "ty france",
-      "pitcher": "trevor rogers",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "29": {
       "player": "ernie clement",
       "pitcher": "trevor rogers",
@@ -1169,8 +1175,8 @@
     "32": {
       "player": "josh smith",
       "pitcher": "huascar brazoban",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "michael helman",
@@ -2061,8 +2067,8 @@
     "1": {
       "player": "geraldo perdomo",
       "pitcher": "pablo lopez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     }
   },
   "stl @ mil": {
