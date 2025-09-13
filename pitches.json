@@ -1263,8 +1263,8 @@
     "55": {
       "player": "davis schneider",
       "pitcher": "dietrich enns",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "george springer",
@@ -1933,8 +1933,8 @@
     "56": {
       "player": "angel martinez",
       "pitcher": "steven wilson",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "55": {
       "player": "steven kwan",
@@ -2271,8 +2271,8 @@
     "61": {
       "player": "jahmai jones",
       "pitcher": "cade gibson",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "gleyber torres",
@@ -2636,6 +2636,12 @@
     }
   },
   "nyy @ bos": {
+    "51": {
+      "player": "trent grisham",
+      "pitcher": "justin wilson",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "ryan mcmahon",
       "pitcher": "justin wilson",
@@ -2941,7 +2947,7 @@
     "57": {
       "player": "zach cole",
       "pitcher": "dane dunning",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "56": {
@@ -3282,6 +3288,12 @@
     }
   },
   "ari @ min": {
+    "28": {
+      "player": "jordan lawlar",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "27": {
       "player": "jake mccarthy",
       "pitcher": "pablo lopez",
@@ -3446,12 +3458,6 @@
     }
   },
   "stl @ mil": {
-    "30": {
-      "player": "isaac collins",
-      "pitcher": "andre pallante",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "29": {
       "player": "christian yelich",
       "pitcher": "andre pallante",
