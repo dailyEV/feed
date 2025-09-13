@@ -449,7 +449,7 @@
     "68": {
       "player": "cam devanney",
       "pitcher": "jose a ferrer",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "Sinker"
     },
     "67": {
@@ -859,8 +859,8 @@
     "59": {
       "player": "randal grichuk",
       "pitcher": "tim mayza",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "58": {
       "player": "tyler tolbert",
@@ -1517,8 +1517,8 @@
     "50": {
       "player": "brandon nimmo",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "49": {
       "player": "pete alonso",
@@ -3092,6 +3092,12 @@
     }
   },
   "stl @ mil": {
+    "23": {
+      "player": "william contreras",
+      "pitcher": "andre pallante",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "brice turang",
       "pitcher": "andre pallante",
