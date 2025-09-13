@@ -449,7 +449,7 @@
     "62": {
       "player": "andrew mccutchen",
       "pitcher": "clayton beeter",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "61": {
@@ -1143,7 +1143,7 @@
     "44": {
       "player": "ryan mountcastle",
       "pitcher": "braydon fisher",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "43": {
@@ -1406,6 +1406,12 @@
     }
   },
   "tex @ nym": {
+    "45": {
+      "player": "cody freeman",
+      "pitcher": "ryne stanek",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "francisco lindor",
       "pitcher": "jacob degrom",
@@ -1926,6 +1932,12 @@
     }
   },
   "det @ mia": {
+    "45": {
+      "player": "joey wiemer",
+      "pitcher": "chris paddack",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "eric wagaman",
       "pitcher": "chris paddack",
@@ -2428,6 +2440,12 @@
     }
   },
   "hou @ atl": {
+    "43": {
+      "player": "ha seong kim",
+      "pitcher": "nick hernandez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "carlos correa",
       "pitcher": "dane dunning",
@@ -2686,7 +2704,7 @@
       "player": "brooks lee",
       "pitcher": "brandon pfaadt",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "15": {
       "player": "royce lewis",
