@@ -3891,8 +3891,8 @@
     "59": {
       "player": "gabriel moreno",
       "pitcher": "michael tonkin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "58": {
       "player": "corbin carroll",
@@ -4247,7 +4247,7 @@
     "61": {
       "player": "william contreras",
       "pitcher": "jorge alcala",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "60": {
@@ -4612,11 +4612,17 @@
     }
   },
   "col @ sd": {
+    "16": {
+      "player": "orlando arcia",
+      "pitcher": "jp sears",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "15": {
       "player": "kyle karros",
       "pitcher": "jp sears",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "kyle farmer",
@@ -4736,6 +4742,12 @@
     }
   },
   "laa @ sea": {
+    "3": {
+      "player": "yoan moncada",
+      "pitcher": "luis castillo",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "2": {
       "player": "chris taylor",
       "pitcher": "luis castillo",
