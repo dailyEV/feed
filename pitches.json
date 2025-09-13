@@ -865,8 +865,8 @@
     "61": {
       "player": "vinnie pasquantino",
       "pitcher": "tim mayza",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "60": {
       "player": "bobby witt",
@@ -1538,6 +1538,12 @@
     }
   },
   "tex @ nym": {
+    "51": {
+      "player": "wyatt langford",
+      "pitcher": "gregory soto",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "50": {
       "player": "brandon nimmo",
       "pitcher": "jacob degrom",
@@ -1840,6 +1846,12 @@
     }
   },
   "chw @ cle": {
+    "50": {
+      "player": "brayan rocchio",
+      "pitcher": "steven wilson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "nolan jones",
       "pitcher": "steven wilson",
@@ -2732,7 +2744,7 @@
       "player": "victor caratini",
       "pitcher": "dane dunning",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Cutter"
     },
     "49": {
       "player": "jesus sanchez",
@@ -3030,6 +3042,12 @@
     }
   },
   "ari @ min": {
+    "23": {
+      "player": "jhonny pereda",
+      "pitcher": "brandon pfaadt",
+      "result": "Foul Tip",
+      "pitch": "Sinker"
+    },
     "22": {
       "player": "kody clemens",
       "pitcher": "brandon pfaadt",
@@ -3164,11 +3182,17 @@
     }
   },
   "stl @ mil": {
+    "25": {
+      "player": "alec burleson",
+      "pitcher": "quinn priester",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "24": {
       "player": "ivan herrera",
       "pitcher": "quinn priester",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "23": {
       "player": "william contreras",
