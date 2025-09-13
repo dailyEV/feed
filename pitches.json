@@ -1331,7 +1331,7 @@
     "40": {
       "player": "alejandro osuna",
       "pitcher": "ryne stanek",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -1573,7 +1573,7 @@
     "39": {
       "player": "kyle teel",
       "pitcher": "tanner bibee",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "38": {
@@ -1809,8 +1809,8 @@
     "39": {
       "player": "otto lopez",
       "pitcher": "rafael montero",
-      "result": "Called Strike",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "38": {
       "player": "jakob marsee",
@@ -2490,6 +2490,12 @@
     }
   },
   "ari @ min": {
+    "10": {
+      "player": "jake mccarthy",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "9": {
       "player": "luke keaschall",
       "pitcher": "brandon pfaadt",
