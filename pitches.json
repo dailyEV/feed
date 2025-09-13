@@ -2987,7 +2987,7 @@
     "70": {
       "player": "aaron judge",
       "pitcher": "chris murphy",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "69": {
@@ -3864,6 +3864,12 @@
     }
   },
   "ari @ min": {
+    "52": {
+      "player": "kody clemens",
+      "pitcher": "kyle backhus",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "brooks lee",
       "pitcher": "kyle backhus",
@@ -4172,10 +4178,16 @@
     }
   },
   "stl @ mil": {
+    "56": {
+      "player": "brendan donovan",
+      "pitcher": "aaron ashby",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "55": {
       "player": "jimmy crooks",
       "pitcher": "aaron ashby",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "54": {
@@ -4504,12 +4516,6 @@
     }
   },
   "col @ sd": {
-    "9": {
-      "player": "ezequiel tovar",
-      "pitcher": "jp sears",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "8": {
       "player": "brenton doyle",
       "pitcher": "jp sears",
