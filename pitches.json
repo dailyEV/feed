@@ -1329,7 +1329,7 @@
     "70": {
       "player": "ryan mountcastle",
       "pitcher": "yariel rodriguez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "69": {
@@ -4402,11 +4402,17 @@
     }
   },
   "col @ sd": {
+    "5": {
+      "player": "luis arraez",
+      "pitcher": "tanner gordon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "fernando tatis",
       "pitcher": "tanner gordon",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "jordan beck",
