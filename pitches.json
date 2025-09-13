@@ -1326,11 +1326,17 @@
     }
   },
   "bal @ tor": {
+    "66": {
+      "player": "george springer",
+      "pitcher": "shawn dubin",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "65": {
       "player": "andres gimenez",
       "pitcher": "shawn dubin",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "64": {
       "player": "myles straw",
@@ -1715,7 +1721,7 @@
     "68": {
       "player": "francisco lindor",
       "pitcher": "robert garcia",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "67": {
@@ -2900,6 +2906,12 @@
     }
   },
   "nyy @ bos": {
+    "62": {
+      "player": "austin wells",
+      "pitcher": "zack kelly",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "jazz chisholm",
       "pitcher": "zack kelly",
@@ -3687,7 +3699,7 @@
     "38": {
       "player": "geraldo perdomo",
       "pitcher": "pablo lopez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sweeper"
     },
     "37": {
