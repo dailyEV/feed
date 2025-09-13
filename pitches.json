@@ -449,7 +449,7 @@
     "69": {
       "player": "alexander canario",
       "pitcher": "jose a ferrer",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "68": {
@@ -865,7 +865,7 @@
     "61": {
       "player": "vinnie pasquantino",
       "pitcher": "tim mayza",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "60": {
@@ -1230,6 +1230,12 @@
     }
   },
   "bal @ tor": {
+    "51": {
+      "player": "tyler oneill",
+      "pitcher": "braydon fisher",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "andres gimenez",
       "pitcher": "dietrich enns",
@@ -1837,7 +1843,7 @@
     "49": {
       "player": "nolan jones",
       "pitcher": "steven wilson",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "48": {
@@ -2450,10 +2456,16 @@
     }
   },
   "nyy @ bos": {
+    "45": {
+      "player": "trevor story",
+      "pitcher": "luis gil",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "44": {
       "player": "alex bregman",
       "pitcher": "luis gil",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "43": {
@@ -2719,8 +2731,8 @@
     "50": {
       "player": "victor caratini",
       "pitcher": "dane dunning",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "49": {
       "player": "jesus sanchez",
@@ -3021,8 +3033,8 @@
     "22": {
       "player": "kody clemens",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "21": {
       "player": "blaze alexander",
@@ -3152,6 +3164,12 @@
     }
   },
   "stl @ mil": {
+    "24": {
+      "player": "ivan herrera",
+      "pitcher": "quinn priester",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "william contreras",
       "pitcher": "andre pallante",
@@ -3161,7 +3179,7 @@
     "22": {
       "player": "brice turang",
       "pitcher": "andre pallante",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "Knuckle Curve"
     },
     "21": {
