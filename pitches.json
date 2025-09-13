@@ -446,6 +446,12 @@
     }
   },
   "pit @ wsh": {
+    "68": {
+      "player": "cam devanney",
+      "pitcher": "jose a ferrer",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "67": {
       "player": "nick yorke",
       "pitcher": "jose a ferrer",
@@ -853,7 +859,7 @@
     "58": {
       "player": "tyler tolbert",
       "pitcher": "tim mayza",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "57": {
@@ -1200,6 +1206,12 @@
     }
   },
   "bal @ tor": {
+    "50": {
+      "player": "andres gimenez",
+      "pitcher": "dietrich enns",
+      "result": "Foul Tip",
+      "pitch": "Changeup"
+    },
     "49": {
       "player": "myles straw",
       "pitcher": "dietrich enns",
@@ -1499,8 +1511,8 @@
     "49": {
       "player": "pete alonso",
       "pitcher": "jacob degrom",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "juan soto",
@@ -2653,8 +2665,8 @@
     "47": {
       "player": "yordan alvarez",
       "pitcher": "dane dunning",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "46": {
       "player": "nacho alvarez",
