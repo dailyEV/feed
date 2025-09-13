@@ -1592,12 +1592,6 @@
     }
   },
   "tex @ nym": {
-    "58": {
-      "player": "ronny mauricio",
-      "pitcher": "jacob degrom",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "57": {
       "player": "mark vientos",
       "pitcher": "jacob degrom",
@@ -1945,7 +1939,7 @@
     "57": {
       "player": "jose ramirez",
       "pitcher": "steven wilson",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "56": {
@@ -2289,7 +2283,7 @@
     "61": {
       "player": "jahmai jones",
       "pitcher": "cade gibson",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "60": {
@@ -2965,8 +2959,8 @@
     "58": {
       "player": "mauricio dubon",
       "pitcher": "dane dunning",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "57": {
       "player": "zach cole",
@@ -3315,8 +3309,8 @@
     "28": {
       "player": "jordan lawlar",
       "pitcher": "pablo lopez",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "27": {
       "player": "jake mccarthy",
@@ -3482,6 +3476,12 @@
     }
   },
   "stl @ mil": {
+    "31": {
+      "player": "jake bauers",
+      "pitcher": "andre pallante",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "30": {
       "player": "isaac collins",
       "pitcher": "andre pallante",
