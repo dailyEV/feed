@@ -373,8 +373,8 @@
     "7": {
       "player": "junior caminero",
       "pitcher": "trey yesavage",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "6": {
       "player": "brandon lowe",
@@ -414,6 +414,12 @@
     }
   },
   "bal @ chw": {
+    "4": {
+      "player": "mike tauchman",
+      "pitcher": "kyle bradish",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "gunnar henderson",
       "pitcher": "tyler gilbert",
@@ -447,7 +453,14 @@
       "pitch": "Slider"
     }
   },
-  "cin @ stl": {},
+  "cin @ stl": {
+    "1": {
+      "player": "tj friedl",
+      "pitcher": "matthew liberatore",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    }
+  },
   "tex @ hou": {},
   "sf @ ari": {},
   "phi @ lad": {}
