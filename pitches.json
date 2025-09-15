@@ -3,7 +3,7 @@
     "36": {
       "player": "moises ballesteros",
       "pitcher": "cam sanders",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "35": {
@@ -221,7 +221,7 @@
     "34": {
       "player": "nacho alvarez",
       "pitcher": "mitchell parker",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -498,6 +498,12 @@
     }
   },
   "bal @ chw": {
+    "9": {
+      "player": "andrew benintendi",
+      "pitcher": "kyle bradish",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "curtis mead",
       "pitcher": "kyle bradish",
@@ -551,8 +557,8 @@
     "7": {
       "player": "luke keaschall",
       "pitcher": "carlos rodon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "6": {
       "player": "austin martin",
@@ -592,6 +598,12 @@
     }
   },
   "cin @ stl": {
+    "6": {
+      "player": "alec burleson",
+      "pitcher": "zack littell",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "ivan herrera",
       "pitcher": "zack littell",
