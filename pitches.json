@@ -209,7 +209,7 @@
     "32": {
       "player": "marcell ozuna",
       "pitcher": "mitchell parker",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -400,6 +400,12 @@
     }
   },
   "tor @ tb": {
+    "10": {
+      "player": "addison barger",
+      "pitcher": "joe boyle",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "jake mangum",
       "pitcher": "trey yesavage",
@@ -456,6 +462,12 @@
     }
   },
   "bal @ chw": {
+    "7": {
+      "player": "colson montgomery",
+      "pitcher": "kyle bradish",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "6": {
       "player": "lenyn sosa",
       "pitcher": "kyle bradish",
@@ -497,8 +509,8 @@
     "6": {
       "player": "austin martin",
       "pitcher": "carlos rodon",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "5": {
       "player": "byron buxton",
