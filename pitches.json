@@ -215,7 +215,7 @@
     "34": {
       "player": "nacho alvarez",
       "pitcher": "mitchell parker",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -495,7 +495,7 @@
     "8": {
       "player": "curtis mead",
       "pitcher": "kyle bradish",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "Slider"
     },
     "7": {
@@ -586,11 +586,17 @@
     }
   },
   "cin @ stl": {
+    "6": {
+      "player": "alec burleson",
+      "pitcher": "zack littell",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "5": {
       "player": "ivan herrera",
       "pitcher": "zack littell",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "4": {
       "player": "brendan donovan",
