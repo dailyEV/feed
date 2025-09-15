@@ -1,5 +1,11 @@
 {
   "chc @ pit": {
+    "36": {
+      "player": "moises ballesteros",
+      "pitcher": "cam sanders",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "ian happ",
       "pitcher": "cam sanders",
@@ -421,8 +427,8 @@
     "12": {
       "player": "daulton varsho",
       "pitcher": "joe boyle",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "11": {
       "player": "davis schneider",
@@ -495,8 +501,8 @@
     "8": {
       "player": "curtis mead",
       "pitcher": "kyle bradish",
-      "result": "Foul Tip",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "colson montgomery",
@@ -586,17 +592,11 @@
     }
   },
   "cin @ stl": {
-    "6": {
-      "player": "alec burleson",
-      "pitcher": "zack littell",
-      "result": "Called Strike",
-      "pitch": "Splitter"
-    },
     "5": {
       "player": "ivan herrera",
       "pitcher": "zack littell",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "brendan donovan",
