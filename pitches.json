@@ -203,7 +203,7 @@
     "30": {
       "player": "paul dejong",
       "pitcher": "spencer strider",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "29": {
@@ -385,7 +385,7 @@
     "7": {
       "player": "junior caminero",
       "pitcher": "trey yesavage",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -429,8 +429,8 @@
     "4": {
       "player": "mike tauchman",
       "pitcher": "kyle bradish",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "3": {
       "player": "gunnar henderson",
@@ -452,11 +452,17 @@
     }
   },
   "nyy @ min": {
+    "4": {
+      "player": "giancarlo stanton",
+      "pitcher": "simeon woods richardson",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "cody bellinger",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "2": {
       "player": "aaron judge",
