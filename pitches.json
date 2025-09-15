@@ -343,7 +343,7 @@
     "4": {
       "player": "chandler simpson",
       "pitcher": "trey yesavage",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -365,7 +365,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "bal @ chw": {},
+  "bal @ chw": {
+    "1": {
+      "player": "jackson holliday",
+      "pitcher": "tyler gilbert",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    }
+  },
   "nyy @ min": {},
   "cin @ stl": {},
   "tex @ hou": {},
