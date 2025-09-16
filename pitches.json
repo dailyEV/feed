@@ -937,7 +937,7 @@
     "73": {
       "player": "andres gimenez",
       "pitcher": "kevin kelly",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "72": {
@@ -1377,8 +1377,8 @@
     "62": {
       "player": "samuel basallo",
       "pitcher": "mike vasil",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "61": {
       "player": "coby mayo",
@@ -2119,8 +2119,8 @@
     "69": {
       "player": "nolan arenado",
       "pitcher": "connor phillips",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "lars nootbaar",
@@ -2532,6 +2532,12 @@
     }
   },
   "tex @ hou": {
+    "57": {
+      "player": "jeremy pena",
+      "pitcher": "jack leiter",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "56": {
       "player": "jesus sanchez",
       "pitcher": "jack leiter",
@@ -2873,8 +2879,8 @@
     "14": {
       "player": "james mccann",
       "pitcher": "kai wei teng",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "13": {
       "player": "alek thomas",
