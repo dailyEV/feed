@@ -480,8 +480,8 @@
     "6": {
       "player": "gleyber torres",
       "pitcher": "joey cantillo",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "jahmai jones",
@@ -519,7 +519,7 @@
       "player": "dansby swanson",
       "pitcher": "paul skenes",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "6": {
       "player": "pete crow armstrong",
@@ -559,10 +559,16 @@
     }
   },
   "ath @ bos": {
+    "4": {
+      "player": "brent rooker",
+      "pitcher": "connelly early",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "nick kurtz",
       "pitcher": "connelly early",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "2": {
