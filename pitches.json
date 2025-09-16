@@ -329,8 +329,8 @@
     "51": {
       "player": "jurickson profar",
       "pitcher": "shinnosuke ogasawara",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Hit By Pitch",
+      "pitch": "Knuckle Curve"
     },
     "50": {
       "player": "nacho alvarez",
@@ -825,8 +825,8 @@
     "26": {
       "player": "curtis mead",
       "pitcher": "kyle bradish",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "25": {
       "player": "colson montgomery",
@@ -1126,6 +1126,12 @@
     }
   },
   "cin @ stl": {
+    "27": {
+      "player": "ivan herrera",
+      "pitcher": "zack littell",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "26": {
       "player": "elly de la cruz",
       "pitcher": "matthew liberatore",
@@ -1287,7 +1293,7 @@
     "13": {
       "player": "alejandro osuna",
       "pitcher": "jason alexander",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "12": {
