@@ -683,11 +683,17 @@
     }
   },
   "chc @ pit": {
+    "32": {
+      "player": "michael busch",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "31": {
       "player": "matt shaw",
       "pitcher": "paul skenes",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "willi castro",
@@ -1228,8 +1234,8 @@
     "5": {
       "player": "jorge polanco",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "4": {
       "player": "josh naylor",
@@ -1280,8 +1286,8 @@
     "6": {
       "player": "jazz chisholm",
       "pitcher": "zebby matthews",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "giancarlo stanton",
