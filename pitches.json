@@ -2230,6 +2230,12 @@
     }
   },
   "cin @ stl": {
+    "77": {
+      "player": "elly de la cruz",
+      "pitcher": "gordon graceffo",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "76": {
       "player": "tyler stephenson",
       "pitcher": "kyle leahy",
@@ -2691,7 +2697,7 @@
     "64": {
       "player": "christian walker",
       "pitcher": "carl edwards",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "63": {
@@ -3214,11 +3220,17 @@
     }
   },
   "phi @ lad": {
+    "7": {
+      "player": "mookie betts",
+      "pitcher": "ranger suarez",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "6": {
       "player": "shohei ohtani",
       "pitcher": "ranger suarez",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "brandon marsh",
