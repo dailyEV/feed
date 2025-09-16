@@ -305,7 +305,7 @@
     "47": {
       "player": "josh bell",
       "pitcher": "spencer strider",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "46": {
@@ -756,6 +756,12 @@
     }
   },
   "bal @ chw": {
+    "23": {
+      "player": "kyle teel",
+      "pitcher": "kyle bradish",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "22": {
       "player": "mike tauchman",
       "pitcher": "kyle bradish",
@@ -890,10 +896,16 @@
     }
   },
   "nyy @ min": {
+    "22": {
+      "player": "byron buxton",
+      "pitcher": "carlos rodon",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "edouard julien",
       "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "20": {
