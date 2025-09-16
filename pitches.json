@@ -937,8 +937,8 @@
     "74": {
       "player": "george springer",
       "pitcher": "kevin kelly",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "73": {
       "player": "andres gimenez",
@@ -2986,11 +2986,17 @@
     }
   },
   "phi @ lad": {
-    "1": {
-      "player": "harrison bader",
+    "2": {
+      "player": "kyle schwarber",
       "pitcher": "anthony banda",
       "result": "Ball",
       "pitch": "Slider"
+    },
+    "1": {
+      "player": "harrison bader",
+      "pitcher": "anthony banda",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     }
   }
 }
