@@ -3,7 +3,7 @@
     "69": {
       "player": "nico hoerner",
       "pitcher": "dauri moreta",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "68": {
@@ -419,8 +419,8 @@
     "68": {
       "player": "andres chaparro",
       "pitcher": "dylan lee",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "67": {
       "player": "james wood",
@@ -826,6 +826,12 @@
     }
   },
   "tor @ tb": {
+    "49": {
+      "player": "nick fortes",
+      "pitcher": "seranthony dominguez",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "jake mangum",
       "pitcher": "seranthony dominguez",
@@ -1119,8 +1125,8 @@
     "41": {
       "player": "mike tauchman",
       "pitcher": "kyle bradish",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "40": {
       "player": "dominic fletcher",
@@ -1364,6 +1370,12 @@
     }
   },
   "nyy @ min": {
+    "43": {
+      "player": "luke keaschall",
+      "pitcher": "carlos rodon",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "42": {
       "player": "giancarlo stanton",
       "pitcher": "simeon woods richardson",
@@ -1890,12 +1902,6 @@
     }
   },
   "tex @ hou": {
-    "33": {
-      "player": "jonah heim",
-      "pitcher": "jason alexander",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "32": {
       "player": "josh jung",
       "pitcher": "jason alexander",
