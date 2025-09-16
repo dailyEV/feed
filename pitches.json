@@ -245,7 +245,7 @@
     "38": {
       "player": "ozzie albies",
       "pitcher": "mitchell parker",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "37": {
@@ -576,11 +576,17 @@
     }
   },
   "bal @ chw": {
+    "14": {
+      "player": "chase meidroth",
+      "pitcher": "kyle bradish",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "edgar quero",
       "pitcher": "kyle bradish",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "dylan beavers",
