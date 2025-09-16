@@ -716,7 +716,7 @@
     "34": {
       "player": "ian happ",
       "pitcher": "evan sisk",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -919,6 +919,12 @@
     }
   },
   "ath @ bos": {
+    "35": {
+      "player": "brett harris",
+      "pitcher": "connelly early",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "34": {
       "player": "romy gonzalez",
       "pitcher": "jeffrey springs",
@@ -1125,6 +1131,12 @@
     }
   },
   "sd @ nym": {
+    "25": {
+      "player": "luis arraez",
+      "pitcher": "clay holmes",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "fernando tatis",
       "pitcher": "clay holmes",
@@ -1274,8 +1286,8 @@
     "12": {
       "player": "ernie clement",
       "pitcher": "ryan pepiot",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "davis schneider",
@@ -1345,6 +1357,12 @@
     }
   },
   "sea @ kc": {
+    "9": {
+      "player": "vinnie pasquantino",
+      "pitcher": "logan gilbert",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "bobby witt",
       "pitcher": "logan gilbert",
@@ -1445,6 +1463,12 @@
     }
   },
   "nyy @ min": {
+    "11": {
+      "player": "royce lewis",
+      "pitcher": "cam schlittler",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "10": {
       "player": "kody clemens",
       "pitcher": "cam schlittler",
@@ -1510,7 +1534,7 @@
     "8": {
       "player": "william contreras",
       "pitcher": "caden dana",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "7": {
@@ -1560,8 +1584,8 @@
     "7": {
       "player": "alec burleson",
       "pitcher": "andrew abbott",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Missed Bunt",
+      "pitch": "Sweeper"
     },
     "6": {
       "player": "nolan arenado",
