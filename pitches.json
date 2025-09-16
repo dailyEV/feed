@@ -937,8 +937,8 @@
     "78": {
       "player": "junior caminero",
       "pitcher": "braydon fisher",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "77": {
       "player": "brandon lowe",
@@ -1407,7 +1407,7 @@
     "68": {
       "player": "jeremiah jackson",
       "pitcher": "mike vasil",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "67": {
@@ -1818,7 +1818,7 @@
       "player": "giancarlo stanton",
       "pitcher": "pierson ohl",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "64": {
       "player": "brooks lee",
@@ -3038,11 +3038,17 @@
     }
   },
   "sf @ ari": {
+    "21": {
+      "player": "geraldo perdomo",
+      "pitcher": "kai wei teng",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "jake mccarthy",
       "pitcher": "kai wei teng",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "willy adames",
