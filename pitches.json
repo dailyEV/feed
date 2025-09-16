@@ -477,14 +477,27 @@
   },
   "atl-gm2 @ wsh-gm2": {},
   "cle @ det": {
+    "2": {
+      "player": "daniel schneemann",
+      "pitcher": "casey mize",
+      "result": "Called Strike",
+      "pitch": "Slurve"
+    },
     "1": {
       "player": "steven kwan",
       "pitcher": "casey mize",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Splitter"
     }
   },
-  "chc @ pit": {},
+  "chc @ pit": {
+    "1": {
+      "player": "michael busch",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "ath @ bos": {},
   "sd @ nym": {},
   "tor @ tb": {},
