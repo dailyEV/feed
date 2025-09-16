@@ -1413,7 +1413,7 @@
     "72": {
       "player": "miguel vargas",
       "pitcher": "dietrich enns",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "71": {
@@ -2727,8 +2727,8 @@
     "67": {
       "player": "josh jung",
       "pitcher": "bryan abreu",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "michael helman",
@@ -3131,8 +3131,8 @@
     "24": {
       "player": "rafael devers",
       "pitcher": "zac gallen",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "23": {
       "player": "corbin carroll",
@@ -3274,6 +3274,12 @@
     }
   },
   "phi @ lad": {
+    "10": {
+      "player": "max kepler",
+      "pitcher": "emmet sheehan",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "otto kemp",
       "pitcher": "emmet sheehan",
