@@ -480,8 +480,8 @@
     "32": {
       "player": "dillon dingler",
       "pitcher": "joey cantillo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "nolan jones",
@@ -847,6 +847,12 @@
     }
   },
   "ath @ bos": {
+    "28": {
+      "player": "brent rooker",
+      "pitcher": "connelly early",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "27": {
       "player": "nick kurtz",
       "pitcher": "connelly early",
@@ -1153,24 +1159,18 @@
     }
   },
   "sea @ kc": {
-    "2": {
-      "player": "cal raleigh",
-      "pitcher": "michael wacha",
-      "result": "In play, no out",
-      "pitch": "Changeup"
-    },
     "1": {
       "player": "randy arozarena",
       "pitcher": "michael wacha",
-      "result": "Hit By Pitch",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     }
   },
   "bal @ chw": {
     "1": {
       "player": "jackson holliday",
       "pitcher": "shane smith",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     }
   },
@@ -1178,8 +1178,8 @@
     "2": {
       "player": "aaron judge",
       "pitcher": "zebby matthews",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "trent grisham",
@@ -1189,6 +1189,12 @@
     }
   },
   "laa @ mil": {
+    "2": {
+      "player": "mike trout",
+      "pitcher": "freddy peralta",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "1": {
       "player": "oswald peraza",
       "pitcher": "freddy peralta",
