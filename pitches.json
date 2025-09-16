@@ -3,8 +3,8 @@
     "49": {
       "player": "bryan reynolds",
       "pitcher": "jameson taillon",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "48": {
       "player": "spencer horwitz",
@@ -729,8 +729,8 @@
     "21": {
       "player": "gunnar henderson",
       "pitcher": "sean burke",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "jeremiah jackson",
@@ -980,7 +980,7 @@
       "player": "jimmy crooks",
       "pitcher": "zack littell",
       "result": "Ball",
-      "pitch": "Splitter"
+      "pitch": "Sinker"
     },
     "20": {
       "player": "austin hays",
@@ -1104,11 +1104,17 @@
     }
   },
   "tex @ hou": {
+    "8": {
+      "player": "christian walker",
+      "pitcher": "jack leiter",
+      "result": "Hit By Pitch",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "jose altuve",
       "pitcher": "jack leiter",
       "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "pitch": ""
     },
     "6": {
       "player": "carlos correa",
