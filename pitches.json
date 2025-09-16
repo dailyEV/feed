@@ -919,12 +919,6 @@
     }
   },
   "ath @ bos": {
-    "35": {
-      "player": "brett harris",
-      "pitcher": "connelly early",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
     "34": {
       "player": "romy gonzalez",
       "pitcher": "jeffrey springs",
@@ -1357,6 +1351,12 @@
     }
   },
   "sea @ kc": {
+    "10": {
+      "player": "maikel garcia",
+      "pitcher": "logan gilbert",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "vinnie pasquantino",
       "pitcher": "logan gilbert",
@@ -1416,8 +1416,8 @@
     "8": {
       "player": "mike tauchman",
       "pitcher": "dean kremer",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "7": {
       "player": "miguel vargas",
@@ -1534,8 +1534,8 @@
     "8": {
       "player": "william contreras",
       "pitcher": "caden dana",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "christian yelich",
