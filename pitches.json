@@ -1407,8 +1407,8 @@
     "67": {
       "player": "jackson holliday",
       "pitcher": "mike vasil",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "66": {
       "player": "lenyn sosa",
@@ -2655,7 +2655,7 @@
     "62": {
       "player": "adolis garcia",
       "pitcher": "bryan king",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -3029,8 +3029,8 @@
     "20": {
       "player": "jake mccarthy",
       "pitcher": "kai wei teng",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "19": {
       "player": "willy adames",
@@ -3148,11 +3148,17 @@
     }
   },
   "phi @ lad": {
-    "4": {
-      "player": "jt realmuto",
+    "5": {
+      "player": "brandon marsh",
       "pitcher": "emmet sheehan",
       "result": "Ball",
       "pitch": "4-Seam Fastball"
+    },
+    "4": {
+      "player": "jt realmuto",
+      "pitcher": "emmet sheehan",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "3": {
       "player": "bryce harper",
