@@ -1238,8 +1238,8 @@
     "10": {
       "player": "josh lowe",
       "pitcher": "jose berrios",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slurve"
     },
     "9": {
       "player": "junior caminero",
@@ -1301,7 +1301,7 @@
       "player": "mike yastrzemski",
       "pitcher": "logan gilbert",
       "result": "Foul",
-      "pitch": "Splitter"
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "eugenio suarez",
@@ -1341,6 +1341,12 @@
     }
   },
   "bal @ chw": {
+    "6": {
+      "player": "colson montgomery",
+      "pitcher": "dean kremer",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "5": {
       "player": "kyle teel",
       "pitcher": "dean kremer",
@@ -1429,6 +1435,12 @@
     }
   },
   "laa @ mil": {
+    "6": {
+      "player": "jackson chourio",
+      "pitcher": "caden dana",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "sal frelick",
       "pitcher": "caden dana",
@@ -1461,10 +1473,16 @@
     }
   },
   "cin @ stl": {
+    "5": {
+      "player": "ivan herrera",
+      "pitcher": "andrew abbott",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "4": {
       "player": "brendan donovan",
       "pitcher": "andrew abbott",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "3": {
