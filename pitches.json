@@ -1,10 +1,16 @@
 {
   "chc @ pit": {
+    "57": {
+      "player": "jack suwinski",
+      "pitcher": "michael soroka",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "56": {
       "player": "nick gonzales",
       "pitcher": "michael soroka",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slurve"
     },
     "55": {
       "player": "andrew mccutchen",
@@ -341,8 +347,8 @@
     "55": {
       "player": "ha seong kim",
       "pitcher": "shinnosuke ogasawara",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "ozzie albies",
@@ -891,8 +897,8 @@
     "29": {
       "player": "dylan beavers",
       "pitcher": "sean burke",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "ryan mountcastle",
@@ -1228,6 +1234,18 @@
     }
   },
   "cin @ stl": {
+    "31": {
+      "player": "matt mclain",
+      "pitcher": "matthew liberatore",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "30": {
+      "player": "kebryan hayes",
+      "pitcher": "matthew liberatore",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "willson contreras",
       "pitcher": "zack littell",
