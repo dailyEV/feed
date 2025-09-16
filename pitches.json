@@ -1,9 +1,15 @@
 {
   "chc @ pit": {
+    "42": {
+      "player": "dansby swanson",
+      "pitcher": "cam sanders",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "pete crow armstrong",
       "pitcher": "cam sanders",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -597,7 +603,7 @@
     "15": {
       "player": "dominic fletcher",
       "pitcher": "kyle bradish",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -760,6 +766,12 @@
     }
   },
   "cin @ stl": {
+    "14": {
+      "player": "thomas saggese",
+      "pitcher": "zack littell",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "nolan arenado",
       "pitcher": "zack littell",
