@@ -1,5 +1,11 @@
 {
   "chc @ pit": {
+    "65": {
+      "player": "spencer horwitz",
+      "pitcher": "michael soroka",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "jared triolo",
       "pitcher": "michael soroka",
@@ -787,7 +793,7 @@
     "45": {
       "player": "addison barger",
       "pitcher": "garrett cleavinger",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "44": {
@@ -1292,11 +1298,17 @@
     }
   },
   "nyy @ min": {
+    "41": {
+      "player": "cody bellinger",
+      "pitcher": "simeon woods richardson",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "40": {
       "player": "aaron judge",
       "pitcher": "simeon woods richardson",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "39": {
       "player": "trent grisham",
