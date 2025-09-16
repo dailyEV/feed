@@ -477,6 +477,12 @@
   },
   "atl-gm2 @ wsh-gm2": {},
   "cle @ det": {
+    "32": {
+      "player": "dillon dingler",
+      "pitcher": "joey cantillo",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "nolan jones",
       "pitcher": "casey mize",
@@ -668,8 +674,8 @@
     "29": {
       "player": "oneil cruz",
       "pitcher": "cade horton",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "28": {
       "player": "bryan reynolds",
@@ -1005,6 +1011,12 @@
     }
   },
   "sd @ nym": {
+    "18": {
+      "player": "juan soto",
+      "pitcher": "michael king",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "17": {
       "player": "francisco lindor",
       "pitcher": "michael king",
@@ -1141,11 +1153,17 @@
     }
   },
   "sea @ kc": {
+    "2": {
+      "player": "cal raleigh",
+      "pitcher": "michael wacha",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "1": {
       "player": "randy arozarena",
       "pitcher": "michael wacha",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Hit By Pitch",
+      "pitch": "Changeup"
     }
   },
   "bal @ chw": {
@@ -1153,15 +1171,21 @@
       "player": "jackson holliday",
       "pitcher": "shane smith",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     }
   },
   "nyy @ min": {
+    "2": {
+      "player": "aaron judge",
+      "pitcher": "zebby matthews",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "1": {
       "player": "trent grisham",
       "pitcher": "zebby matthews",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     }
   },
   "laa @ mil": {
