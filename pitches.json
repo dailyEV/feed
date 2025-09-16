@@ -257,7 +257,7 @@
     "39": {
       "player": "riley adams",
       "pitcher": "spencer strider",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "38": {
@@ -490,11 +490,17 @@
     }
   },
   "tor @ tb": {
+    "19": {
+      "player": "george springer",
+      "pitcher": "joe boyle",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "andres gimenez",
       "pitcher": "joe boyle",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "17": {
       "player": "tyler heineman",
@@ -603,7 +609,7 @@
     "15": {
       "player": "dominic fletcher",
       "pitcher": "kyle bradish",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -692,6 +698,12 @@
     }
   },
   "nyy @ min": {
+    "13": {
+      "player": "matt wallner",
+      "pitcher": "carlos rodon",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "royce lewis",
       "pitcher": "carlos rodon",
