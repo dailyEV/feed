@@ -511,8 +511,8 @@
     "20": {
       "player": "nathan lukes",
       "pitcher": "joe boyle",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "george springer",
@@ -722,6 +722,12 @@
     }
   },
   "nyy @ min": {
+    "14": {
+      "player": "carson mccusker",
+      "pitcher": "carlos rodon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "matt wallner",
       "pitcher": "carlos rodon",
@@ -805,8 +811,8 @@
     "15": {
       "player": "kebryan hayes",
       "pitcher": "matthew liberatore",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "14": {
       "player": "thomas saggese",
@@ -893,7 +899,14 @@
       "pitch": "Sinker"
     }
   },
-  "tex @ hou": {},
+  "tex @ hou": {
+    "1": {
+      "player": "josh smith",
+      "pitcher": "jason alexander",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    }
+  },
   "sf @ ari": {},
   "phi @ lad": {}
 }
