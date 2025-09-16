@@ -937,8 +937,8 @@
     "76": {
       "player": "yandy diaz",
       "pitcher": "braydon fisher",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "75": {
       "player": "nathan lukes",
@@ -1787,7 +1787,7 @@
     "64": {
       "player": "brooks lee",
       "pitcher": "tim hill",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "63": {
@@ -2170,6 +2170,12 @@
     }
   },
   "cin @ stl": {
+    "73": {
+      "player": "miguel andujar",
+      "pitcher": "kyle leahy",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "72": {
       "player": "noelvi marte",
       "pitcher": "kyle leahy",
@@ -2604,6 +2610,12 @@
     }
   },
   "tex @ hou": {
+    "60": {
+      "player": "kyle higashioka",
+      "pitcher": "bryan king",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "carlos correa",
       "pitcher": "jacob webb",
@@ -2963,7 +2975,7 @@
     "19": {
       "player": "willy adames",
       "pitcher": "zac gallen",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "18": {
