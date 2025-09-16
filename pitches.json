@@ -477,10 +477,16 @@
   },
   "atl-gm2 @ wsh-gm2": {},
   "cle @ det": {
+    "37": {
+      "player": "steven kwan",
+      "pitcher": "casey mize",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "36": {
       "player": "brayan rocchio",
       "pitcher": "casey mize",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "35": {
@@ -698,8 +704,8 @@
     "33": {
       "player": "nico hoerner",
       "pitcher": "paul skenes",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "32": {
       "player": "michael busch",
@@ -895,6 +901,12 @@
     }
   },
   "ath @ bos": {
+    "33": {
+      "player": "ceddanne rafaela",
+      "pitcher": "jeffrey springs",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "32": {
       "player": "jarren duran",
       "pitcher": "jeffrey springs",
@@ -1361,6 +1373,12 @@
     }
   },
   "nyy @ min": {
+    "9": {
+      "player": "trevor larnach",
+      "pitcher": "cam schlittler",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "austin martin",
       "pitcher": "cam schlittler",
@@ -1446,7 +1464,7 @@
     "4": {
       "player": "brendan donovan",
       "pitcher": "andrew abbott",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "3": {
