@@ -124,7 +124,7 @@
       "player": "cj abrams",
       "pitcher": "jose suarez",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "58": {
       "player": "jacob young",
@@ -208,7 +208,7 @@
       "player": "andres chaparro",
       "pitcher": "jose suarez",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "44": {
       "player": "james wood",
@@ -250,7 +250,7 @@
       "player": "brady house",
       "pitcher": "jose suarez",
       "result": "In play, out(s)",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "37": {
       "player": "dylan crews",
@@ -316,13 +316,13 @@
       "player": "jorge alfaro",
       "pitcher": "jose suarez",
       "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "daylen lile",
       "pitcher": "jose suarez",
       "result": "In play, no out",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "25": {
       "player": "andres chaparro",
@@ -376,7 +376,7 @@
       "player": "brady house",
       "pitcher": "jose suarez",
       "result": "In play, no out",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "dylan crews",
@@ -424,19 +424,19 @@
       "player": "jorge alfaro",
       "pitcher": "jose suarez",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "daylen lile",
       "pitcher": "jose suarez",
       "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "andres chaparro",
       "pitcher": "jose suarez",
       "result": "In play, no out",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "james wood",
@@ -476,7 +476,14 @@
     }
   },
   "atl-gm2 @ wsh-gm2": {},
-  "cle @ det": {},
+  "cle @ det": {
+    "1": {
+      "player": "steven kwan",
+      "pitcher": "casey mize",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    }
+  },
   "chc @ pit": {},
   "ath @ bos": {},
   "sd @ nym": {},
