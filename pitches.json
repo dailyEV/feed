@@ -605,11 +605,17 @@
     }
   },
   "chc @ pit": {
+    "20": {
+      "player": "nick yorke",
+      "pitcher": "cade horton",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "jack suwinski",
       "pitcher": "cade horton",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "moises ballesteros",
@@ -721,11 +727,17 @@
     }
   },
   "ath @ bos": {
+    "19": {
+      "player": "max schuemann",
+      "pitcher": "connelly early",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "lawrence butler",
       "pitcher": "connelly early",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "17": {
       "player": "romy gonzalez",
@@ -834,7 +846,7 @@
     "7": {
       "player": "brandon nimmo",
       "pitcher": "michael king",
-      "result": "In play, run(s)",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "6": {
