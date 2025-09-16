@@ -707,6 +707,12 @@
     }
   },
   "chc @ pit": {
+    "34": {
+      "player": "ian happ",
+      "pitcher": "evan sisk",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "nico hoerner",
       "pitcher": "paul skenes",
@@ -1259,11 +1265,17 @@
     }
   },
   "tor @ tb": {
+    "12": {
+      "player": "ernie clement",
+      "pitcher": "ryan pepiot",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "davis schneider",
       "pitcher": "ryan pepiot",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "josh lowe",
@@ -1327,6 +1339,12 @@
     }
   },
   "sea @ kc": {
+    "8": {
+      "player": "bobby witt",
+      "pitcher": "logan gilbert",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "7": {
       "player": "mike yastrzemski",
       "pitcher": "logan gilbert",
@@ -1524,8 +1542,8 @@
     "6": {
       "player": "nolan arenado",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "ivan herrera",
