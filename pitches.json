@@ -665,6 +665,12 @@
     }
   },
   "chc @ pit": {
+    "29": {
+      "player": "oneil cruz",
+      "pitcher": "cade horton",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "28": {
       "player": "bryan reynolds",
       "pitcher": "cade horton",
@@ -1002,8 +1008,8 @@
     "17": {
       "player": "francisco lindor",
       "pitcher": "michael king",
-      "result": "In play, run(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "16": {
       "player": "cedric mullins",
@@ -1106,8 +1112,8 @@
     "5": {
       "player": "alejandro kirk",
       "pitcher": "ryan pepiot",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "addison barger",
@@ -1139,7 +1145,7 @@
       "player": "randy arozarena",
       "pitcher": "michael wacha",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     }
   },
   "bal @ chw": {
@@ -1150,7 +1156,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "nyy @ min": {},
+  "nyy @ min": {
+    "1": {
+      "player": "trent grisham",
+      "pitcher": "zebby matthews",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "laa @ mil": {
     "1": {
       "player": "oswald peraza",
