@@ -477,6 +477,18 @@
   },
   "atl-gm2 @ wsh-gm2": {},
   "cle @ det": {
+    "31": {
+      "player": "nolan jones",
+      "pitcher": "casey mize",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
+    "30": {
+      "player": "gabriel arias",
+      "pitcher": "casey mize",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "bo naylor",
       "pitcher": "casey mize",
@@ -656,8 +668,8 @@
     "28": {
       "player": "bryan reynolds",
       "pitcher": "cade horton",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "27": {
       "player": "spencer horwitz",
@@ -981,12 +993,6 @@
     }
   },
   "sd @ nym": {
-    "16": {
-      "player": "cedric mullins",
-      "pitcher": "michael king",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "15": {
       "player": "ryan ohearn",
       "pitcher": "clay holmes",
@@ -1079,10 +1085,16 @@
     }
   },
   "tor @ tb": {
+    "4": {
+      "player": "addison barger",
+      "pitcher": "ryan pepiot",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "vladimir guerrero",
       "pitcher": "ryan pepiot",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "2": {
