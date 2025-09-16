@@ -751,8 +751,8 @@
     "43": {
       "player": "junior caminero",
       "pitcher": "brendon little",
-      "result": "Ball In Dirt",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "42": {
       "player": "brandon lowe",
@@ -1662,11 +1662,17 @@
     }
   },
   "tex @ hou": {
+    "25": {
+      "player": "joc pederson",
+      "pitcher": "jason alexander",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "24": {
       "player": "wyatt langford",
       "pitcher": "jason alexander",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "23": {
       "player": "josh smith",
