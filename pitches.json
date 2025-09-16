@@ -1607,8 +1607,8 @@
     "53": {
       "player": "byron buxton",
       "pitcher": "luke weaver",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "52": {
       "player": "edouard julien",
@@ -1927,7 +1927,7 @@
     "59": {
       "player": "ivan herrera",
       "pitcher": "tony santillan",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slurve"
     },
     "58": {
@@ -2545,6 +2545,13 @@
       "pitch": "Changeup"
     }
   },
-  "sf @ ari": {},
+  "sf @ ari": {
+    "1": {
+      "player": "jung hoo lee",
+      "pitcher": "zac gallen",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "phi @ lad": {}
 }
