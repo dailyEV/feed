@@ -1655,8 +1655,8 @@
     "55": {
       "player": "luke keaschall",
       "pitcher": "camilo doval",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "54": {
       "player": "austin martin",
@@ -1984,11 +1984,17 @@
     }
   },
   "cin @ stl": {
-    "63": {
-      "player": "sal stewart",
+    "64": {
+      "player": "tyler stephenson",
       "pitcher": "ryan fernandez",
       "result": "Ball",
       "pitch": "4-Seam Fastball"
+    },
+    "63": {
+      "player": "sal stewart",
+      "pitcher": "ryan fernandez",
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "62": {
       "player": "austin hays",
@@ -2657,7 +2663,7 @@
     "6": {
       "player": "corbin carroll",
       "pitcher": "kai wei teng",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "5": {
