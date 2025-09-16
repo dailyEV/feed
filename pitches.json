@@ -233,8 +233,8 @@
     "37": {
       "player": "ronald acuna",
       "pitcher": "mitchell parker",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "36": {
       "player": "matt olson",
@@ -457,7 +457,7 @@
     "15": {
       "player": "tristan gray",
       "pitcher": "trey yesavage",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Splitter"
     },
     "14": {
@@ -546,6 +546,12 @@
     }
   },
   "bal @ chw": {
+    "11": {
+      "player": "ryan mountcastle",
+      "pitcher": "sean burke",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "10": {
       "player": "tyler oneill",
       "pitcher": "sean burke",
@@ -611,8 +617,8 @@
     "10": {
       "player": "ryan mcmahon",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "9": {
       "player": "paul goldschmidt",
@@ -670,11 +676,17 @@
     }
   },
   "cin @ stl": {
+    "10": {
+      "player": "elly de la cruz",
+      "pitcher": "matthew liberatore",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "tyler stephenson",
       "pitcher": "matthew liberatore",
-      "result": "Foul Tip",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "sal stewart",
