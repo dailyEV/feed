@@ -480,8 +480,8 @@
     "31": {
       "player": "nolan jones",
       "pitcher": "casey mize",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "30": {
       "player": "gabriel arias",
@@ -1097,6 +1097,12 @@
     }
   },
   "tor @ tb": {
+    "5": {
+      "player": "alejandro kirk",
+      "pitcher": "ryan pepiot",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "addison barger",
       "pitcher": "ryan pepiot",
@@ -1125,7 +1131,14 @@
   "sea @ kc": {},
   "bal @ chw": {},
   "nyy @ min": {},
-  "laa @ mil": {},
+  "laa @ mil": {
+    "1": {
+      "player": "oswald peraza",
+      "pitcher": "freddy peralta",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "cin @ stl": {},
   "tex @ hou": {},
   "mia @ col": {},
