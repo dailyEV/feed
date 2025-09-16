@@ -1317,8 +1317,8 @@
     "51": {
       "player": "colson montgomery",
       "pitcher": "kade strowd",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "50": {
       "player": "jeremiah jackson",
@@ -1951,7 +1951,7 @@
     "60": {
       "player": "alec burleson",
       "pitcher": "tony santillan",
-      "result": "Hit By Pitch",
+      "result": "Called Strike",
       "pitch": "Slurve"
     },
     "59": {
@@ -2310,6 +2310,12 @@
     }
   },
   "tex @ hou": {
+    "45": {
+      "player": "michael helman",
+      "pitcher": "steven okert",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "adolis garcia",
       "pitcher": "steven okert",
@@ -2579,8 +2585,8 @@
     "3": {
       "player": "rafael devers",
       "pitcher": "zac gallen",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "willy adames",
