@@ -1056,8 +1056,8 @@
     "20": {
       "player": "brandon nimmo",
       "pitcher": "michael king",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "19": {
       "player": "pete alonso",
@@ -1178,8 +1178,8 @@
     "7": {
       "player": "yandy diaz",
       "pitcher": "jose berrios",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slurve"
     },
     "6": {
       "player": "chandler simpson",
@@ -1271,6 +1271,12 @@
     }
   },
   "nyy @ min": {
+    "6": {
+      "player": "jazz chisholm",
+      "pitcher": "zebby matthews",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "5": {
       "player": "giancarlo stanton",
       "pitcher": "zebby matthews",
@@ -1322,7 +1328,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "cin @ stl": {},
+  "cin @ stl": {
+    "1": {
+      "player": "tj friedl",
+      "pitcher": "michael mcgreevy",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    }
+  },
   "tex @ hou": {},
   "mia @ col": {},
   "sf @ ari": {},
