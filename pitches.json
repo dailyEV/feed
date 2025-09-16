@@ -480,8 +480,8 @@
     "17": {
       "player": "parker meadows",
       "pitcher": "joey cantillo",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "dillon dingler",
@@ -581,11 +581,17 @@
     }
   },
   "chc @ pit": {
+    "16": {
+      "player": "nico hoerner",
+      "pitcher": "paul skenes",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "michael busch",
       "pitcher": "paul skenes",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "14": {
       "player": "matt shaw",
@@ -673,12 +679,6 @@
     }
   },
   "ath @ bos": {
-    "15": {
-      "player": "jarren duran",
-      "pitcher": "jeffrey springs",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "14": {
       "player": "nick sogard",
       "pitcher": "jeffrey springs",
