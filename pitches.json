@@ -320,12 +320,6 @@
     }
   },
   "atl @ wsh": {
-    "50": {
-      "player": "nacho alvarez",
-      "pitcher": "shinnosuke ogasawara",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "49": {
       "player": "luis garcia",
       "pitcher": "spencer strider",
@@ -625,8 +619,8 @@
     "31": {
       "player": "nick fortes",
       "pitcher": "trey yesavage",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "30": {
       "player": "jake mangum",
@@ -813,8 +807,8 @@
     "25": {
       "player": "colson montgomery",
       "pitcher": "kyle bradish",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "24": {
       "player": "lenyn sosa",
@@ -965,8 +959,8 @@
     "23": {
       "player": "austin martin",
       "pitcher": "carlos rodon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "22": {
       "player": "byron buxton",
@@ -1102,6 +1096,12 @@
     }
   },
   "cin @ stl": {
+    "26": {
+      "player": "elly de la cruz",
+      "pitcher": "matthew liberatore",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "tyler stephenson",
       "pitcher": "matthew liberatore",
@@ -1257,8 +1257,8 @@
     "12": {
       "player": "adolis garcia",
       "pitcher": "jason alexander",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "jake burger",
