@@ -1,5 +1,11 @@
 {
   "chc @ pit": {
+    "70": {
+      "player": "ian happ",
+      "pitcher": "dauri moreta",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "69": {
       "player": "nico hoerner",
       "pitcher": "dauri moreta",
@@ -419,8 +425,8 @@
     "68": {
       "player": "andres chaparro",
       "pitcher": "dylan lee",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "67": {
       "player": "james wood",
@@ -1122,6 +1128,12 @@
     }
   },
   "bal @ chw": {
+    "42": {
+      "player": "kyle teel",
+      "pitcher": "kyle bradish",
+      "result": "Ball In Dirt",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "mike tauchman",
       "pitcher": "kyle bradish",
@@ -1373,7 +1385,7 @@
     "43": {
       "player": "luke keaschall",
       "pitcher": "carlos rodon",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "42": {
@@ -1630,12 +1642,6 @@
     }
   },
   "cin @ stl": {
-    "46": {
-      "player": "lars nootbaar",
-      "pitcher": "graham ashcraft",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "45": {
       "player": "willson contreras",
       "pitcher": "zack littell",
