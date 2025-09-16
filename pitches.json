@@ -480,8 +480,8 @@
     "34": {
       "player": "javier baez",
       "pitcher": "joey cantillo",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "33": {
       "player": "parker meadows",
@@ -686,8 +686,8 @@
     "31": {
       "player": "matt shaw",
       "pitcher": "paul skenes",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "30": {
       "player": "willi castro",
@@ -1175,6 +1175,12 @@
     }
   },
   "tor @ tb": {
+    "8": {
+      "player": "brandon lowe",
+      "pitcher": "jose berrios",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "yandy diaz",
       "pitcher": "jose berrios",
@@ -1222,8 +1228,8 @@
     "5": {
       "player": "jorge polanco",
       "pitcher": "michael wacha",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "josh naylor",
@@ -1271,6 +1277,12 @@
     }
   },
   "nyy @ min": {
+    "6": {
+      "player": "jazz chisholm",
+      "pitcher": "zebby matthews",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "5": {
       "player": "giancarlo stanton",
       "pitcher": "zebby matthews",
@@ -1306,7 +1318,7 @@
     "4": {
       "player": "jo adell",
       "pitcher": "freddy peralta",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "3": {
@@ -1332,8 +1344,8 @@
     "1": {
       "player": "tj friedl",
       "pitcher": "michael mcgreevy",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     }
   },
   "tex @ hou": {},
