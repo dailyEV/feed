@@ -3,8 +3,8 @@
     "46": {
       "player": "nick yorke",
       "pitcher": "jameson taillon",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "michael busch",
@@ -688,7 +688,7 @@
       "player": "jackson holliday",
       "pitcher": "sean burke",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "18": {
       "player": "colton cowser",
@@ -804,7 +804,7 @@
       "player": "cody bellinger",
       "pitcher": "simeon woods richardson",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "18": {
       "player": "aaron judge",
@@ -1038,10 +1038,16 @@
     }
   },
   "tex @ hou": {
+    "6": {
+      "player": "carlos correa",
+      "pitcher": "jack leiter",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "5": {
       "player": "yordan alvarez",
       "pitcher": "jack leiter",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "4": {
