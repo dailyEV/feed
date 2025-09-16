@@ -3,8 +3,8 @@
     "60": {
       "player": "pete crow armstrong",
       "pitcher": "kyle nicolas",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "59": {
       "player": "nick yorke",
@@ -362,11 +362,17 @@
     }
   },
   "atl @ wsh": {
+    "60": {
+      "player": "dylan crews",
+      "pitcher": "spencer strider",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "paul dejong",
       "pitcher": "spencer strider",
       "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "luis garcia",
@@ -963,8 +969,8 @@
     "32": {
       "player": "andrew benintendi",
       "pitcher": "kyle bradish",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Ball In Dirt",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "samuel basallo",
@@ -1154,6 +1160,12 @@
     }
   },
   "nyy @ min": {
+    "33": {
+      "player": "austin wells",
+      "pitcher": "simeon woods richardson",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "32": {
       "player": "jose caballero",
       "pitcher": "simeon woods richardson",
@@ -1352,7 +1364,7 @@
       "player": "thomas saggese",
       "pitcher": "zack littell",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "nolan arenado",
