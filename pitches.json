@@ -544,6 +544,12 @@
     }
   },
   "cle @ det": {
+    "66": {
+      "player": "jake rogers",
+      "pitcher": "tim herrin",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "65": {
       "player": "riley greene",
       "pitcher": "tim herrin",
@@ -1367,7 +1373,7 @@
     "64": {
       "player": "carlos cortes",
       "pitcher": "steven matz",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "63": {
@@ -1753,8 +1759,8 @@
     "52": {
       "player": "ramon laureano",
       "pitcher": "sean manaea",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "juan soto",
@@ -2067,7 +2073,7 @@
     "45": {
       "player": "yandy diaz",
       "pitcher": "tommy nance",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "44": {
@@ -3176,12 +3182,6 @@
     }
   },
   "laa @ mil": {
-    "41": {
-      "player": "oswald peraza",
-      "pitcher": "freddy peralta",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "40": {
       "player": "bryce teodosio",
       "pitcher": "freddy peralta",
@@ -3666,6 +3666,12 @@
     }
   },
   "tex @ hou": {
+    "30": {
+      "player": "alejandro osuna",
+      "pitcher": "colton gordon",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "josh jung",
       "pitcher": "colton gordon",
@@ -3845,7 +3851,7 @@
     "17": {
       "player": "agustin ramirez",
       "pitcher": "kyle freeland",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "16": {
