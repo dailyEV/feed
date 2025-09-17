@@ -1054,8 +1054,8 @@
     "43": {
       "player": "nate eaton",
       "pitcher": "mitch spence",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "carlos narvaez",
@@ -1314,7 +1314,7 @@
     "35": {
       "player": "juan soto",
       "pitcher": "kyle hart",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "34": {
@@ -1526,8 +1526,8 @@
     "27": {
       "player": "chandler simpson",
       "pitcher": "jose berrios",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "bob seymour",
@@ -1830,8 +1830,8 @@
     "18": {
       "player": "dylan carlson",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "brooks baldwin",
@@ -2086,8 +2086,8 @@
     "19": {
       "player": "sal frelick",
       "pitcher": "caden dana",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "joey ortiz",
@@ -2199,6 +2199,12 @@
     }
   },
   "cin @ stl": {
+    "18": {
+      "player": "brendan donovan",
+      "pitcher": "andrew abbott",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "17": {
       "player": "nathan church",
       "pitcher": "andrew abbott",
