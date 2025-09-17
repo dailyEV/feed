@@ -541,7 +541,7 @@
     "65": {
       "player": "riley greene",
       "pitcher": "tim herrin",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -930,6 +930,12 @@
     }
   },
   "chc @ pit": {
+    "71": {
+      "player": "carson kelly",
+      "pitcher": "carmen mlodzinski",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "70": {
       "player": "spencer horwitz",
       "pitcher": "caleb thielbar",
@@ -1723,8 +1729,8 @@
     "51": {
       "player": "juan soto",
       "pitcher": "yuki matsui",
-      "result": "Foul Tip",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "50": {
       "player": "francisco lindor",
@@ -2826,10 +2832,16 @@
     }
   },
   "nyy @ min": {
+    "48": {
+      "player": "ryan fitzgerald",
+      "pitcher": "cam schlittler",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "47": {
       "player": "mickey gasper",
       "pitcher": "cam schlittler",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "46": {
@@ -3591,8 +3603,8 @@
     "28": {
       "player": "kyle higashioka",
       "pitcher": "colton gordon",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "27": {
       "player": "joc pederson",
@@ -3761,8 +3773,8 @@
     "15": {
       "player": "javier sanoja",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "joey wiemer",
