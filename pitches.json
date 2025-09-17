@@ -592,11 +592,17 @@
     }
   },
   "cle @ det": {
+    "72": {
+      "player": "zach mckinstry",
+      "pitcher": "cade smith",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "71": {
       "player": "parker meadows",
       "pitcher": "cade smith",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "70": {
       "player": "brayan rocchio",
@@ -1909,8 +1915,8 @@
     "59": {
       "player": "freddy fermin",
       "pitcher": "sean manaea",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "58": {
       "player": "jake cronenworth",
@@ -2262,6 +2268,12 @@
     }
   },
   "tor @ tb": {
+    "52": {
+      "player": "jake mangum",
+      "pitcher": "eric lauer",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "george springer",
       "pitcher": "kevin kelly",
@@ -2573,8 +2585,8 @@
     "55": {
       "player": "eugenio suarez",
       "pitcher": "luinder avila",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "54": {
       "player": "jorge polanco",
@@ -2902,6 +2914,12 @@
     }
   },
   "bal @ chw": {
+    "49": {
+      "player": "gunnar henderson",
+      "pitcher": "fraser ellard",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "48": {
       "player": "jeremiah jackson",
       "pitcher": "fraser ellard",
@@ -3490,7 +3508,7 @@
       "player": "cody bellinger",
       "pitcher": "zebby matthews",
       "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "3": {
       "player": "ben rice",
@@ -3515,8 +3533,8 @@
     "47": {
       "player": "jo adell",
       "pitcher": "freddy peralta",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "46": {
       "player": "taylor ward",
