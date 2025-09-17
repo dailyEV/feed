@@ -1181,7 +1181,7 @@
     "50": {
       "player": "lawrence butler",
       "pitcher": "justin wilson",
-      "result": "Ball In Dirt",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "49": {
@@ -1480,6 +1480,12 @@
     }
   },
   "sd @ nym": {
+    "44": {
+      "player": "luis arraez",
+      "pitcher": "sean manaea",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "fernando tatis",
       "pitcher": "sean manaea",
@@ -1740,10 +1746,16 @@
     }
   },
   "tor @ tb": {
+    "34": {
+      "player": "nathan lukes",
+      "pitcher": "joey gerber",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "33": {
       "player": "george springer",
       "pitcher": "joey gerber",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "32": {
@@ -2728,6 +2740,12 @@
     }
   },
   "cin @ stl": {
+    "30": {
+      "player": "tyler stephenson",
+      "pitcher": "michael mcgreevy",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "will benson",
       "pitcher": "michael mcgreevy",
@@ -3017,8 +3035,8 @@
     "4": {
       "player": "tyler freeman",
       "pitcher": "eury perez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "3": {
       "player": "jakob marsee",
