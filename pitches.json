@@ -1242,8 +1242,8 @@
     "32": {
       "player": "jackson merrill",
       "pitcher": "clay holmes",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "31": {
       "player": "ramon laureano",
@@ -1841,7 +1841,7 @@
       "player": "carter kieboom",
       "pitcher": "freddy peralta",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "12": {
       "player": "christian moore",
@@ -1920,7 +1920,7 @@
     "11": {
       "player": "will benson",
       "pitcher": "michael mcgreevy",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -1984,7 +1984,14 @@
       "pitch": "Sweeper"
     }
   },
-  "tex @ hou": {},
+  "tex @ hou": {
+    "1": {
+      "player": "josh smith",
+      "pitcher": "aj blubaugh",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "mia @ col": {},
   "sf @ ari": {},
   "phi @ lad": {}
