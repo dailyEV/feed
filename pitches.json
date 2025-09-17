@@ -2984,6 +2984,12 @@
     }
   },
   "sea @ kc": {
+    "75": {
+      "player": "carter jensen",
+      "pitcher": "luke jackson",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "74": {
       "player": "jonathan india",
       "pitcher": "luke jackson",
@@ -3834,6 +3840,12 @@
     }
   },
   "nyy @ min": {
+    "74": {
+      "player": "cody bellinger",
+      "pitcher": "genesis cabrera",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "73": {
       "player": "paul goldschmidt",
       "pitcher": "genesis cabrera",
@@ -4277,8 +4289,8 @@
     "70": {
       "player": "brice turang",
       "pitcher": "sammy peralta",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "69": {
       "player": "william contreras",
@@ -5665,8 +5677,8 @@
     "16": {
       "player": "gabriel moreno",
       "pitcher": "tristan beck",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "15": {
       "player": "willy adames",
@@ -5759,5 +5771,12 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "phi @ lad": {}
+  "phi @ lad": {
+    "1": {
+      "player": "harrison bader",
+      "pitcher": "shohei ohtani",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  }
 }
