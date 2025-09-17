@@ -2383,8 +2383,8 @@
     "15": {
       "player": "zach mckinstry",
       "pitcher": "gavin williams",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "14": {
       "player": "wenceel perez",
@@ -2559,11 +2559,23 @@
   },
   "tor @ tb": {},
   "sd @ nym": {
+    "5": {
+      "player": "ramon laureano",
+      "pitcher": "david peterson",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
+    "4": {
+      "player": "gavin sheets",
+      "pitcher": "david peterson",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "manny machado",
       "pitcher": "david peterson",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "2": {
       "player": "luis arraez",
