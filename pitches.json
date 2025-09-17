@@ -743,11 +743,17 @@
     }
   },
   "chc @ pit": {
+    "40": {
+      "player": "pete crow armstrong",
+      "pitcher": "evan sisk",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "39": {
       "player": "carson kelly",
       "pitcher": "evan sisk",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "moises ballesteros",
@@ -1498,8 +1504,8 @@
     "16": {
       "player": "jac caglianone",
       "pitcher": "logan gilbert",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "salvador perez",
@@ -1673,6 +1679,12 @@
     }
   },
   "nyy @ min": {
+    "16": {
+      "player": "trent grisham",
+      "pitcher": "zebby matthews",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "15": {
       "player": "austin wells",
       "pitcher": "zebby matthews",
@@ -1842,8 +1854,8 @@
     "10": {
       "player": "sal stewart",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "lars nootbaar",
