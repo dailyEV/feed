@@ -476,6 +476,12 @@
     }
   },
   "atl-gm2 @ wsh-gm2": {
+    "28": {
+      "player": "josh bell",
+      "pitcher": "chris sale",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "27": {
       "player": "dylan crews",
       "pitcher": "chris sale",
@@ -3193,7 +3199,7 @@
     "54": {
       "player": "lenyn sosa",
       "pitcher": "yaramil hiraldo",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "53": {
@@ -3519,8 +3525,8 @@
     "62": {
       "player": "byron buxton",
       "pitcher": "ryan yarbrough",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "61": {
       "player": "james outman",
@@ -3890,12 +3896,6 @@
     }
   },
   "laa @ mil": {
-    "56": {
-      "player": "christian yelich",
-      "pitcher": "sammy peralta",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "55": {
       "player": "denzer guzman",
       "pitcher": "grant anderson",
@@ -4228,6 +4228,12 @@
     }
   },
   "cin @ stl": {
+    "53": {
+      "player": "brendan donovan",
+      "pitcher": "zach maxwell",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "elly de la cruz",
       "pitcher": "michael mcgreevy",
@@ -4805,8 +4811,8 @@
     "35": {
       "player": "jakob marsee",
       "pitcher": "kyle freeland",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "34": {
       "player": "agustin ramirez",
