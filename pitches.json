@@ -475,7 +475,14 @@
       "pitch": "Curveball"
     }
   },
-  "atl-gm2 @ wsh-gm2": {},
+  "atl-gm2 @ wsh-gm2": {
+    "1": {
+      "player": "jurickson profar",
+      "pitcher": "mackenzie gore",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "cle @ det": {
     "58": {
       "player": "gleyber torres",
@@ -1473,6 +1480,12 @@
     }
   },
   "sd @ nym": {
+    "43": {
+      "player": "fernando tatis",
+      "pitcher": "sean manaea",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "jeff mcneil",
       "pitcher": "kyle hart",
@@ -1930,8 +1943,8 @@
     "36": {
       "player": "josh naylor",
       "pitcher": "daniel lynch",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "35": {
       "player": "julio rodriguez",
@@ -2324,8 +2337,8 @@
     "36": {
       "player": "jazz chisholm",
       "pitcher": "cody laweryson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "35": {
       "player": "giancarlo stanton",
@@ -2715,6 +2728,12 @@
     }
   },
   "cin @ stl": {
+    "29": {
+      "player": "will benson",
+      "pitcher": "michael mcgreevy",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "28": {
       "player": "sal stewart",
       "pitcher": "michael mcgreevy",
