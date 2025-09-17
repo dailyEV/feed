@@ -4053,7 +4053,7 @@
     "81": {
       "player": "anthony volpe",
       "pitcher": "michael tonkin",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "80": {
@@ -6010,18 +6010,6 @@
     }
   },
   "sf @ ari": {
-    "29": {
-      "player": "corbin carroll",
-      "pitcher": "tristan beck",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
-    "28": {
-      "player": "ketel marte",
-      "pitcher": "tristan beck",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
     "27": {
       "player": "geraldo perdomo",
       "pitcher": "tristan beck",
@@ -6186,11 +6174,17 @@
     }
   },
   "phi @ lad": {
+    "11": {
+      "player": "weston wilson",
+      "pitcher": "shohei ohtani",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "max kepler",
       "pitcher": "shohei ohtani",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "otto kemp",
