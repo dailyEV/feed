@@ -2380,6 +2380,12 @@
     }
   },
   "cle @ det": {
+    "29": {
+      "player": "spencer torkelson",
+      "pitcher": "gavin williams",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "28": {
       "player": "nolan jones",
       "pitcher": "jack flaherty",
@@ -2856,6 +2862,12 @@
     }
   },
   "sea @ kc": {
+    "4": {
+      "player": "mike yastrzemski",
+      "pitcher": "bryce miller",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "julio rodriguez",
       "pitcher": "cole ragans",
@@ -2876,6 +2888,18 @@
     }
   },
   "nyy @ min": {
+    "4": {
+      "player": "cody bellinger",
+      "pitcher": "taj bradley",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "3": {
+      "player": "aaron judge",
+      "pitcher": "taj bradley",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "ben rice",
       "pitcher": "taj bradley",
@@ -2893,8 +2917,8 @@
     "3": {
       "player": "taylor ward",
       "pitcher": "brandon woodruff",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "mike trout",
