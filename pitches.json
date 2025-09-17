@@ -479,7 +479,7 @@
     "27": {
       "player": "dylan crews",
       "pitcher": "chris sale",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -2047,7 +2047,7 @@
     "66": {
       "player": "cedric mullins",
       "pitcher": "bradgley rodriguez",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -2810,6 +2810,12 @@
     }
   },
   "sea @ kc": {
+    "62": {
+      "player": "dominic canzone",
+      "pitcher": "sam long",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "61": {
       "player": "mike yastrzemski",
       "pitcher": "carlos vargas",
@@ -3507,7 +3513,7 @@
     "62": {
       "player": "byron buxton",
       "pitcher": "ryan yarbrough",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "61": {
@@ -4527,8 +4533,8 @@
     "43": {
       "player": "jake burger",
       "pitcher": "colton gordon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "wyatt langford",
@@ -4996,6 +5002,12 @@
     }
   },
   "sf @ ari": {
+    "2": {
+      "player": "rafael devers",
+      "pitcher": "eduardo rodriguez",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "1": {
       "player": "heliot ramos",
       "pitcher": "eduardo rodriguez",
