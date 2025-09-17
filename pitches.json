@@ -479,15 +479,15 @@
     "1": {
       "player": "jurickson profar",
       "pitcher": "mackenzie gore",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     }
   },
   "cle @ det": {
     "59": {
       "player": "wenceel perez",
       "pitcher": "hunter gaddis",
-      "result": "Foul Tip",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -1958,6 +1958,12 @@
     }
   },
   "sea @ kc": {
+    "37": {
+      "player": "jorge polanco",
+      "pitcher": "daniel lynch",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "josh naylor",
       "pitcher": "daniel lynch",
@@ -2361,7 +2367,7 @@
     "37": {
       "player": "ryan mcmahon",
       "pitcher": "cody laweryson",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "36": {
@@ -2943,8 +2949,8 @@
     "19": {
       "player": "josh smith",
       "pitcher": "aj blubaugh",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "cody freeman",
@@ -3056,12 +3062,6 @@
     }
   },
   "mia @ col": {
-    "5": {
-      "player": "mickey moniak",
-      "pitcher": "eury perez",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "4": {
       "player": "tyler freeman",
       "pitcher": "eury perez",
