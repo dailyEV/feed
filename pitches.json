@@ -1,11 +1,5 @@
 {
   "chc @ pit": {
-    "45": {
-      "player": "moises ballesteros",
-      "pitcher": "johan oviedo",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "44": {
       "player": "joey bart",
       "pitcher": "porter hodge",
@@ -275,8 +269,8 @@
     "28": {
       "player": "jose trevino",
       "pitcher": "andre pallante",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "27": {
       "player": "spencer steer",
@@ -442,11 +436,17 @@
     }
   },
   "bal @ chw": {
+    "4": {
+      "player": "tyler oneill",
+      "pitcher": "martin perez",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "3": {
       "player": "gunnar henderson",
       "pitcher": "martin perez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "2": {
       "player": "jordan westburg",
