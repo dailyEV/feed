@@ -2927,7 +2927,7 @@
     "68": {
       "player": "maikel garcia",
       "pitcher": "caleb ferguson",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "67": {
@@ -4480,10 +4480,16 @@
     }
   },
   "cin @ stl": {
+    "61": {
+      "player": "lars nootbaar",
+      "pitcher": "brent suter",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "60": {
       "player": "thomas saggese",
       "pitcher": "brent suter",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -5126,6 +5132,12 @@
     }
   },
   "mia @ col": {
+    "42": {
+      "player": "dane myers",
+      "pitcher": "kyle freeland",
+      "result": "In play, run(s)",
+      "pitch": "Knuckle Curve"
+    },
     "41": {
       "player": "connor norby",
       "pitcher": "kyle freeland",
