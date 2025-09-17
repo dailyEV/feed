@@ -479,8 +479,8 @@
     "7": {
       "player": "nasim nunez",
       "pitcher": "chris sale",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "michael harris",
@@ -523,8 +523,8 @@
     "63": {
       "player": "gabriel arias",
       "pitcher": "rafael montero",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "62": {
       "player": "bo naylor",
@@ -1295,7 +1295,7 @@
     "58": {
       "player": "alex bregman",
       "pitcher": "mitch spence",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "57": {
@@ -2178,7 +2178,7 @@
       "player": "dominic canzone",
       "pitcher": "daniel lynch",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "43": {
       "player": "eugenio suarez",
@@ -3366,6 +3366,12 @@
     }
   },
   "tex @ hou": {
+    "25": {
+      "player": "christian walker",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "jose altuve",
       "pitcher": "merrill kelly",
