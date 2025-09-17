@@ -785,11 +785,17 @@
     }
   },
   "chc @ pit": {
+    "51": {
+      "player": "carson kelly",
+      "pitcher": "justin lawrence",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "50": {
       "player": "moises ballesteros",
       "pitcher": "justin lawrence",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "48": {
       "player": "nico hoerner",
@@ -1084,8 +1090,8 @@
     "45": {
       "player": "nick kurtz",
       "pitcher": "connelly early",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "44": {
       "player": "jacob wilson",
@@ -1353,6 +1359,12 @@
     }
   },
   "sd @ nym": {
+    "37": {
+      "player": "ryan ohearn",
+      "pitcher": "sean manaea",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "pete alonso",
       "pitcher": "kyle hart",
@@ -1902,8 +1914,8 @@
     "21": {
       "player": "gunnar henderson",
       "pitcher": "shane smith",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "jeremiah jackson",
@@ -2322,8 +2334,8 @@
     "19": {
       "player": "matt mclain",
       "pitcher": "michael mcgreevy",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "18": {
       "player": "brendan donovan",
@@ -2435,6 +2447,12 @@
     }
   },
   "tex @ hou": {
+    "11": {
+      "player": "josh jung",
+      "pitcher": "aj blubaugh",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "kyle higashioka",
       "pitcher": "aj blubaugh",
