@@ -480,8 +480,8 @@
     "53": {
       "player": "brayan rocchio",
       "pitcher": "tyler holton",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "52": {
       "player": "parker meadows",
@@ -1616,8 +1616,8 @@
     "29": {
       "player": "brandon lowe",
       "pitcher": "jose berrios",
-      "result": "Ball In Dirt",
-      "pitch": "Slurve"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "yandy diaz",
@@ -1962,8 +1962,8 @@
     "23": {
       "player": "dylan beavers",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "jordan westburg",
@@ -2099,11 +2099,17 @@
     }
   },
   "nyy @ min": {
+    "30": {
+      "player": "ben rice",
+      "pitcher": "zebby matthews",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "29": {
       "player": "aaron judge",
       "pitcher": "zebby matthews",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "trent grisham",
@@ -2418,7 +2424,7 @@
     "21": {
       "player": "gavin lux",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "20": {
