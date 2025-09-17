@@ -559,7 +559,7 @@
     "67": {
       "player": "dillon dingler",
       "pitcher": "tim herrin",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "66": {
@@ -963,8 +963,8 @@
     "73": {
       "player": "dansby swanson",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "72": {
       "player": "pete crow armstrong",
@@ -2109,8 +2109,8 @@
     "46": {
       "player": "brandon lowe",
       "pitcher": "tommy nance",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "45": {
       "player": "yandy diaz",
@@ -2387,8 +2387,8 @@
     "50": {
       "player": "randy arozarena",
       "pitcher": "luinder avila",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "maikel garcia",
@@ -2943,8 +2943,8 @@
     "50": {
       "player": "byron buxton",
       "pitcher": "cam schlittler",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "james outman",
@@ -3496,6 +3496,12 @@
     }
   },
   "cin @ stl": {
+    "41": {
+      "player": "thomas saggese",
+      "pitcher": "scott barlow",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "alec burleson",
       "pitcher": "andrew abbott",
@@ -3738,6 +3744,12 @@
     }
   },
   "tex @ hou": {
+    "31": {
+      "player": "jake meyers",
+      "pitcher": "merrill kelly",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "30": {
       "player": "alejandro osuna",
       "pitcher": "colton gordon",
