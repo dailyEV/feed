@@ -1277,7 +1277,7 @@
     "55": {
       "player": "shea langeliers",
       "pitcher": "justin slaten",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "54": {
@@ -1899,8 +1899,8 @@
     "38": {
       "player": "hunter feduccia",
       "pitcher": "jose berrios",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "37": {
       "player": "tristan gray",
@@ -3404,6 +3404,12 @@
     }
   },
   "mia @ col": {
+    "10": {
+      "player": "jordan beck",
+      "pitcher": "eury perez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "9": {
       "player": "connor norby",
       "pitcher": "kyle freeland",
