@@ -477,6 +477,12 @@
   },
   "atl-gm2 @ wsh-gm2": {},
   "cle @ det": {
+    "57": {
+      "player": "jahmai jones",
+      "pitcher": "erik sabrowski",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "56": {
       "player": "javier baez",
       "pitcher": "erik sabrowski",
@@ -1429,7 +1435,7 @@
       "player": "mark vientos",
       "pitcher": "kyle hart",
       "result": "Ball",
-      "pitch": "Splitter"
+      "pitch": "Sinker"
     },
     "40": {
       "player": "brandon nimmo",
@@ -1673,11 +1679,17 @@
     }
   },
   "tor @ tb": {
+    "31": {
+      "player": "josh lowe",
+      "pitcher": "jose berrios",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "junior caminero",
       "pitcher": "jose berrios",
-      "result": "Ball",
-      "pitch": "Slurve"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "29": {
       "player": "brandon lowe",
@@ -2043,6 +2055,12 @@
     }
   },
   "bal @ chw": {
+    "27": {
+      "player": "miguel vargas",
+      "pitcher": "dean kremer",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "colson montgomery",
       "pitcher": "dean kremer",
@@ -2201,11 +2219,17 @@
     }
   },
   "nyy @ min": {
+    "33": {
+      "player": "austin martin",
+      "pitcher": "cam schlittler",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "byron buxton",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "31": {
       "player": "cody bellinger",
@@ -2562,8 +2586,8 @@
     "25": {
       "player": "alec burleson",
       "pitcher": "andrew abbott",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "24": {
       "player": "nolan arenado",
