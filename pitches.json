@@ -3023,8 +3023,8 @@
     "78": {
       "player": "bobby witt",
       "pitcher": "luke jackson",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Hit By Pitch",
+      "pitch": "4-Seam Fastball"
     },
     "77": {
       "player": "mike yastrzemski",
@@ -3493,8 +3493,8 @@
     "69": {
       "player": "kyle teel",
       "pitcher": "chayce mcdermott",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "68": {
       "player": "chase meidroth",
@@ -3909,8 +3909,8 @@
     "75": {
       "player": "ryan fitzgerald",
       "pitcher": "devin williams",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "74": {
       "player": "cody bellinger",
@@ -5178,10 +5178,16 @@
     }
   },
   "tex @ hou": {
+    "54": {
+      "player": "jose altuve",
+      "pitcher": "carl edwards",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "53": {
       "player": "carlos correa",
       "pitcher": "carl edwards",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "52": {
@@ -5890,7 +5896,7 @@
       "player": "bryce harper",
       "pitcher": "shohei ohtani",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "2": {
       "player": "kyle schwarber",
