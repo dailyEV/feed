@@ -3862,7 +3862,7 @@
       "player": "cody bellinger",
       "pitcher": "genesis cabrera",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sinker"
     },
     "73": {
       "player": "paul goldschmidt",
@@ -4304,17 +4304,11 @@
     }
   },
   "laa @ mil": {
-    "71": {
-      "player": "andrew vaughn",
-      "pitcher": "sammy peralta",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
     "70": {
       "player": "brice turang",
       "pitcher": "sammy peralta",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "69": {
       "player": "william contreras",
@@ -5707,7 +5701,7 @@
     "16": {
       "player": "gabriel moreno",
       "pitcher": "tristan beck",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sweeper"
     },
     "15": {
@@ -5802,6 +5796,12 @@
     }
   },
   "phi @ lad": {
+    "2": {
+      "player": "kyle schwarber",
+      "pitcher": "shohei ohtani",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "harrison bader",
       "pitcher": "shohei ohtani",
