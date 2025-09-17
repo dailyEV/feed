@@ -480,7 +480,7 @@
     "48": {
       "player": "spencer torkelson",
       "pitcher": "matt festa",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -1036,8 +1036,8 @@
     "42": {
       "player": "carlos narvaez",
       "pitcher": "mitch spence",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "41": {
       "player": "rob refsnyder",
@@ -1496,8 +1496,8 @@
     "25": {
       "player": "andres gimenez",
       "pitcher": "joey gerber",
-      "result": "Foul Tip",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "ernie clement",
@@ -1648,8 +1648,8 @@
     "21": {
       "player": "julio rodriguez",
       "pitcher": "michael wacha",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "20": {
       "player": "cal raleigh",
@@ -1776,8 +1776,8 @@
     "17": {
       "player": "brooks baldwin",
       "pitcher": "dean kremer",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "edgar quero",
@@ -1880,8 +1880,8 @@
     "22": {
       "player": "mickey gasper",
       "pitcher": "cam schlittler",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "21": {
       "player": "jazz chisholm",
@@ -2014,7 +2014,7 @@
     "17": {
       "player": "blake perkins",
       "pitcher": "caden dana",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "16": {
@@ -2115,6 +2115,12 @@
     }
   },
   "cin @ stl": {
+    "16": {
+      "player": "jordan walker",
+      "pitcher": "andrew abbott",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "pedro pages",
       "pitcher": "andrew abbott",
@@ -2210,8 +2216,8 @@
     "5": {
       "player": "carlos correa",
       "pitcher": "merrill kelly",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "4": {
       "player": "jeremy pena",
