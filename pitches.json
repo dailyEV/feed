@@ -479,8 +479,8 @@
     "5": {
       "player": "marcell ozuna",
       "pitcher": "mackenzie gore",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "ozzie albies",
@@ -1573,8 +1573,8 @@
     "47": {
       "player": "brett baty",
       "pitcher": "yuki matsui",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "gavin sheets",
@@ -2772,7 +2772,7 @@
       "player": "sal frelick",
       "pitcher": "caden dana",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "joey ortiz",
@@ -2977,8 +2977,8 @@
     "33": {
       "player": "nathan church",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "32": {
       "player": "jordan walker",
@@ -3302,10 +3302,16 @@
     }
   },
   "mia @ col": {
+    "9": {
+      "player": "connor norby",
+      "pitcher": "kyle freeland",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "8": {
       "player": "eric wagaman",
       "pitcher": "kyle freeland",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "7": {
