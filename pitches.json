@@ -480,7 +480,7 @@
     "48": {
       "player": "spencer torkelson",
       "pitcher": "matt festa",
-      "result": "In play, no out",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -767,10 +767,16 @@
     }
   },
   "chc @ pit": {
+    "44": {
+      "player": "henry davis",
+      "pitcher": "cade horton",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "alexander canario",
       "pitcher": "cade horton",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "Sweeper"
     },
     "42": {
@@ -1030,8 +1036,8 @@
     "42": {
       "player": "carlos narvaez",
       "pitcher": "mitch spence",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "41": {
       "player": "rob refsnyder",
@@ -1281,6 +1287,12 @@
     }
   },
   "sd @ nym": {
+    "34": {
+      "player": "francisco lindor",
+      "pitcher": "kyle hart",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "cedric mullins",
       "pitcher": "michael king",
@@ -1481,6 +1493,18 @@
     }
   },
   "tor @ tb": {
+    "25": {
+      "player": "andres gimenez",
+      "pitcher": "joey gerber",
+      "result": "Foul Tip",
+      "pitch": "Slider"
+    },
+    "24": {
+      "player": "ernie clement",
+      "pitcher": "joey gerber",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "davis schneider",
       "pitcher": "joey gerber",
@@ -1624,8 +1648,8 @@
     "21": {
       "player": "julio rodriguez",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "20": {
       "player": "cal raleigh",
@@ -1749,11 +1773,17 @@
     }
   },
   "bal @ chw": {
+    "17": {
+      "player": "brooks baldwin",
+      "pitcher": "dean kremer",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "16": {
       "player": "edgar quero",
       "pitcher": "dean kremer",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "andrew benintendi",
@@ -1850,7 +1880,7 @@
     "22": {
       "player": "mickey gasper",
       "pitcher": "cam schlittler",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "21": {
@@ -2088,8 +2118,8 @@
     "15": {
       "player": "pedro pages",
       "pitcher": "andrew abbott",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "kebryan hayes",
