@@ -1493,7 +1493,7 @@
     "71": {
       "player": "max schuemann",
       "pitcher": "zack kelly",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sweeper"
     },
     "70": {
@@ -2929,7 +2929,7 @@
     "49": {
       "player": "gunnar henderson",
       "pitcher": "fraser ellard",
-      "result": "Ball In Dirt",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "48": {
@@ -3222,6 +3222,12 @@
     }
   },
   "nyy @ min": {
+    "54": {
+      "player": "royce lewis",
+      "pitcher": "fernando cruz",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "53": {
       "player": "kody clemens",
       "pitcher": "cam schlittler",
@@ -4110,6 +4116,12 @@
     }
   },
   "tex @ hou": {
+    "38": {
+      "player": "christian walker",
+      "pitcher": "cole winn",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "37": {
       "player": "jose altuve",
       "pitcher": "cole winn",
@@ -4337,8 +4349,8 @@
     "24": {
       "player": "eric wagaman",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "tyler freeman",
