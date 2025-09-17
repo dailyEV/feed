@@ -541,8 +541,8 @@
     "65": {
       "player": "riley greene",
       "pitcher": "tim herrin",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "64": {
       "player": "spencer torkelson",
@@ -1355,8 +1355,8 @@
     "64": {
       "player": "carlos cortes",
       "pitcher": "steven matz",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "63": {
       "player": "tyler soderstrom",
@@ -2050,7 +2050,7 @@
       "player": "chandler simpson",
       "pitcher": "tommy nance",
       "result": "Called Strike",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "43": {
       "player": "ernie clement",
@@ -2312,11 +2312,17 @@
     }
   },
   "sea @ kc": {
+    "49": {
+      "player": "maikel garcia",
+      "pitcher": "logan gilbert",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "vinnie pasquantino",
       "pitcher": "logan gilbert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "47": {
       "player": "bobby witt",
@@ -2605,7 +2611,7 @@
     "41": {
       "player": "coby mayo",
       "pitcher": "fraser ellard",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -2850,6 +2856,12 @@
     }
   },
   "nyy @ min": {
+    "49": {
+      "player": "james outman",
+      "pitcher": "cam schlittler",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "ryan fitzgerald",
       "pitcher": "cam schlittler",
@@ -3385,8 +3397,8 @@
     "40": {
       "player": "alec burleson",
       "pitcher": "andrew abbott",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "nolan arenado",
@@ -3627,8 +3639,8 @@
     "29": {
       "player": "josh jung",
       "pitcher": "colton gordon",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "kyle higashioka",
@@ -3800,6 +3812,18 @@
     }
   },
   "mia @ col": {
+    "17": {
+      "player": "agustin ramirez",
+      "pitcher": "kyle freeland",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "16": {
+      "player": "otto lopez",
+      "pitcher": "kyle freeland",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "15": {
       "player": "javier sanoja",
       "pitcher": "kyle freeland",
