@@ -476,6 +476,12 @@
     }
   },
   "atl-gm2 @ wsh-gm2": {
+    "16": {
+      "player": "brady house",
+      "pitcher": "chris sale",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "andres chaparro",
       "pitcher": "chris sale",
@@ -2181,8 +2187,8 @@
     "48": {
       "player": "josh lowe",
       "pitcher": "eric lauer",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "47": {
       "player": "junior caminero",
@@ -2477,8 +2483,8 @@
     "50": {
       "player": "randy arozarena",
       "pitcher": "luinder avila",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Intent Ball",
+      "pitch": "Sinker"
     },
     "49": {
       "player": "maikel garcia",
@@ -2779,8 +2785,8 @@
     "45": {
       "player": "samuel basallo",
       "pitcher": "fraser ellard",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "44": {
       "player": "chase meidroth",
@@ -3631,8 +3637,8 @@
     "43": {
       "player": "gavin lux",
       "pitcher": "michael mcgreevy",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "tj friedl",
@@ -3891,8 +3897,8 @@
     "34": {
       "player": "jesus sanchez",
       "pitcher": "merrill kelly",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "33": {
       "player": "yainer diaz",
@@ -4094,11 +4100,17 @@
     }
   },
   "mia @ col": {
+    "22": {
+      "player": "ryan ritter",
+      "pitcher": "eury perez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "kyle karros",
       "pitcher": "eury perez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "20": {
       "player": "blaine crim",
