@@ -1368,7 +1368,7 @@
     "38": {
       "player": "jake cronenworth",
       "pitcher": "sean manaea",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "37": {
@@ -1938,8 +1938,8 @@
     "23": {
       "player": "dylan beavers",
       "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "22": {
       "player": "jordan westburg",
@@ -2078,7 +2078,7 @@
     "29": {
       "player": "aaron judge",
       "pitcher": "zebby matthews",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "28": {
@@ -2251,6 +2251,12 @@
     }
   },
   "laa @ mil": {
+    "23": {
+      "player": "taylor ward",
+      "pitcher": "freddy peralta",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "22": {
       "player": "mike trout",
       "pitcher": "freddy peralta",
@@ -2388,7 +2394,7 @@
     "20": {
       "player": "tj friedl",
       "pitcher": "michael mcgreevy",
-      "result": "In play, no out",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "19": {
@@ -2510,7 +2516,7 @@
     "12": {
       "player": "alejandro osuna",
       "pitcher": "aj blubaugh",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "11": {
