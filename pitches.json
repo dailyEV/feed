@@ -480,7 +480,7 @@
     "45": {
       "player": "gabriel arias",
       "pitcher": "casey mize",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "44": {
@@ -752,8 +752,8 @@
     "41": {
       "player": "dansby swanson",
       "pitcher": "evan sisk",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "40": {
       "player": "pete crow armstrong",
@@ -997,11 +997,17 @@
     }
   },
   "ath @ bos": {
+    "40": {
+      "player": "trevor story",
+      "pitcher": "mitch spence",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "39": {
       "player": "alex bregman",
       "pitcher": "mitch spence",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "38": {
       "player": "shea langeliers",
@@ -1236,8 +1242,8 @@
     "31": {
       "player": "ramon laureano",
       "pitcher": "clay holmes",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "gavin sheets",
@@ -1424,8 +1430,8 @@
     "18": {
       "player": "addison barger",
       "pitcher": "joey gerber",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "vladimir guerrero",
@@ -1724,8 +1730,8 @@
     "17": {
       "player": "aaron judge",
       "pitcher": "zebby matthews",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "16": {
       "player": "trent grisham",
@@ -1825,10 +1831,16 @@
     }
   },
   "laa @ mil": {
+    "13": {
+      "player": "carter kieboom",
+      "pitcher": "freddy peralta",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "christian moore",
       "pitcher": "freddy peralta",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "11": {
@@ -1902,7 +1914,7 @@
     "11": {
       "player": "will benson",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "10": {
