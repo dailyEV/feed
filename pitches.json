@@ -785,6 +785,12 @@
     }
   },
   "chc @ pit": {
+    "50": {
+      "player": "moises ballesteros",
+      "pitcher": "justin lawrence",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "nico hoerner",
       "pitcher": "justin lawrence",
@@ -1075,6 +1081,12 @@
     }
   },
   "ath @ bos": {
+    "45": {
+      "player": "nick kurtz",
+      "pitcher": "connelly early",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "44": {
       "player": "jacob wilson",
       "pitcher": "connelly early",
@@ -1890,8 +1902,8 @@
     "20": {
       "player": "jeremiah jackson",
       "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "19": {
       "player": "jackson holliday",
@@ -2009,6 +2021,18 @@
     }
   },
   "nyy @ min": {
+    "28": {
+      "player": "trent grisham",
+      "pitcher": "zebby matthews",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
+    "27": {
+      "player": "austin wells",
+      "pitcher": "zebby matthews",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "anthony volpe",
       "pitcher": "zebby matthews",
@@ -2408,7 +2432,7 @@
     "9": {
       "player": "joc pederson",
       "pitcher": "aj blubaugh",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "8": {
