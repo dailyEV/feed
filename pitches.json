@@ -479,8 +479,8 @@
     "9": {
       "player": "josh bell",
       "pitcher": "chris sale",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "8": {
       "player": "dylan crews",
@@ -535,8 +535,8 @@
     "64": {
       "player": "spencer torkelson",
       "pitcher": "hunter gaddis",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "63": {
       "player": "gabriel arias",
@@ -1325,8 +1325,8 @@
     "60": {
       "player": "rob refsnyder",
       "pitcher": "mitch spence",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "59": {
       "player": "trevor story",
@@ -1688,7 +1688,7 @@
       "player": "francisco lindor",
       "pitcher": "yuki matsui",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "49": {
       "player": "cedric mullins",
@@ -1986,12 +1986,6 @@
     }
   },
   "tor @ tb": {
-    "42": {
-      "player": "joey loperfido",
-      "pitcher": "kevin kelly",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "41": {
       "player": "alejandro kirk",
       "pitcher": "kevin kelly",
@@ -2243,8 +2237,8 @@
     "46": {
       "player": "jp crawford",
       "pitcher": "daniel lynch",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "victor robles",
@@ -2757,7 +2751,7 @@
     "45": {
       "player": "ben rice",
       "pitcher": "cody laweryson",
-      "result": "In play, no out",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -3632,11 +3626,17 @@
     }
   },
   "mia @ col": {
+    "14": {
+      "player": "joey wiemer",
+      "pitcher": "kyle freeland",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "13": {
       "player": "dane myers",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "12": {
       "player": "brenton doyle",
