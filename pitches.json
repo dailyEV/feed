@@ -2783,7 +2783,7 @@
     "61": {
       "player": "mike yastrzemski",
       "pitcher": "carlos vargas",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "60": {
@@ -3839,8 +3839,8 @@
     "55": {
       "player": "denzer guzman",
       "pitcher": "grant anderson",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "carter kieboom",
@@ -4172,7 +4172,7 @@
       "player": "elly de la cruz",
       "pitcher": "michael mcgreevy",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Changeup"
     },
     "51": {
       "player": "tyler stephenson",
@@ -4485,7 +4485,7 @@
     "43": {
       "player": "jake burger",
       "pitcher": "colton gordon",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -4745,8 +4745,8 @@
     "32": {
       "player": "javier sanoja",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "ezequiel tovar",
@@ -4935,6 +4935,13 @@
       "pitch": "Changeup"
     }
   },
-  "sf @ ari": {},
+  "sf @ ari": {
+    "1": {
+      "player": "heliot ramos",
+      "pitcher": "eduardo rodriguez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    }
+  },
   "phi @ lad": {}
 }
