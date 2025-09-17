@@ -480,7 +480,7 @@
     "41": {
       "player": "wenceel perez",
       "pitcher": "joey cantillo",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -725,6 +725,12 @@
     }
   },
   "chc @ pit": {
+    "35": {
+      "player": "nick gonzales",
+      "pitcher": "cade horton",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "ian happ",
       "pitcher": "evan sisk",
@@ -931,17 +937,11 @@
     }
   },
   "ath @ bos": {
-    "36": {
-      "player": "lawrence butler",
-      "pitcher": "connelly early",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "35": {
       "player": "brett harris",
       "pitcher": "connelly early",
-      "result": "In play, no out",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "romy gonzalez",
@@ -1149,11 +1149,17 @@
     }
   },
   "sd @ nym": {
+    "27": {
+      "player": "brett baty",
+      "pitcher": "michael king",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "26": {
       "player": "jeff mcneil",
       "pitcher": "michael king",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "luis arraez",
@@ -1310,8 +1316,8 @@
     "13": {
       "player": "andres gimenez",
       "pitcher": "ryan pepiot",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "12": {
       "player": "ernie clement",
@@ -1502,7 +1508,7 @@
     "11": {
       "player": "royce lewis",
       "pitcher": "cam schlittler",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "10": {
@@ -1570,8 +1576,8 @@
     "9": {
       "player": "brice turang",
       "pitcher": "caden dana",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "8": {
       "player": "william contreras",
@@ -1626,8 +1632,8 @@
     "8": {
       "player": "thomas saggese",
       "pitcher": "andrew abbott",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "alec burleson",
