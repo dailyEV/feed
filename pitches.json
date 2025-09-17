@@ -479,7 +479,7 @@
     "43": {
       "player": "dylan crews",
       "pitcher": "chris sale",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -2589,8 +2589,8 @@
     "77": {
       "player": "yandy diaz",
       "pitcher": "seranthony dominguez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "76": {
       "player": "chandler simpson",
@@ -3053,8 +3053,8 @@
     "80": {
       "player": "jorge polanco",
       "pitcher": "jonathan bowlan",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "79": {
       "player": "vinnie pasquantino",
@@ -6018,6 +6018,12 @@
     }
   },
   "phi @ lad": {
+    "7": {
+      "player": "teoscar hernandez",
+      "pitcher": "cristopher sanchez",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "mookie betts",
       "pitcher": "cristopher sanchez",
