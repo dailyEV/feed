@@ -1313,8 +1313,8 @@
     "60": {
       "player": "rob refsnyder",
       "pitcher": "mitch spence",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "59": {
       "player": "trevor story",
@@ -1977,7 +1977,7 @@
     "41": {
       "player": "alejandro kirk",
       "pitcher": "kevin kelly",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "Sweeper"
     },
     "40": {
@@ -2222,6 +2222,12 @@
     }
   },
   "sea @ kc": {
+    "46": {
+      "player": "jp crawford",
+      "pitcher": "daniel lynch",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "45": {
       "player": "victor robles",
       "pitcher": "daniel lynch",
@@ -2494,11 +2500,17 @@
     }
   },
   "bal @ chw": {
+    "39": {
+      "player": "dylan beavers",
+      "pitcher": "shane smith",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "38": {
       "player": "jordan westburg",
       "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "37": {
       "player": "gunnar henderson",
@@ -2727,8 +2739,8 @@
     "44": {
       "player": "aaron judge",
       "pitcher": "cody laweryson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "43": {
       "player": "trent grisham",
@@ -3596,6 +3608,12 @@
     }
   },
   "mia @ col": {
+    "13": {
+      "player": "dane myers",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "brenton doyle",
       "pitcher": "eury perez",
