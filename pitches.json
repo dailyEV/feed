@@ -476,12 +476,6 @@
     }
   },
   "atl-gm2 @ wsh-gm2": {
-    "5": {
-      "player": "marcell ozuna",
-      "pitcher": "mackenzie gore",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "4": {
       "player": "ozzie albies",
       "pitcher": "mackenzie gore",
@@ -873,8 +867,8 @@
     "62": {
       "player": "michael busch",
       "pitcher": "carmen mlodzinski",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "61": {
       "player": "nick yorke",
@@ -1238,6 +1232,12 @@
     }
   },
   "ath @ bos": {
+    "53": {
+      "player": "ceddanne rafaela",
+      "pitcher": "mitch spence",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "52": {
       "player": "jarren duran",
       "pitcher": "mitch spence",
@@ -2738,6 +2738,12 @@
     }
   },
   "laa @ mil": {
+    "33": {
+      "player": "joey ortiz",
+      "pitcher": "caden dana",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "32": {
       "player": "christian moore",
       "pitcher": "freddy peralta",
@@ -2935,8 +2941,8 @@
     "32": {
       "player": "jordan walker",
       "pitcher": "andrew abbott",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "pedro pages",
