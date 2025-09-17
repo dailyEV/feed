@@ -480,7 +480,7 @@
     "58": {
       "player": "gleyber torres",
       "pitcher": "hunter gaddis",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "57": {
@@ -827,11 +827,17 @@
     }
   },
   "chc @ pit": {
+    "58": {
+      "player": "matt shaw",
+      "pitcher": "carmen mlodzinski",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "57": {
       "player": "willi castro",
       "pitcher": "carmen mlodzinski",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "dansby swanson",
@@ -2297,6 +2303,12 @@
     }
   },
   "nyy @ min": {
+    "35": {
+      "player": "giancarlo stanton",
+      "pitcher": "cody laweryson",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "34": {
       "player": "trevor larnach",
       "pitcher": "cam schlittler",
