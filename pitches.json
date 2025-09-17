@@ -1138,8 +1138,8 @@
     "48": {
       "player": "carlos cortes",
       "pitcher": "greg weissert",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "47": {
       "player": "tyler soderstrom",
@@ -1428,8 +1428,8 @@
     "41": {
       "player": "mark vientos",
       "pitcher": "kyle hart",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "40": {
       "player": "brandon nimmo",
@@ -1677,7 +1677,7 @@
       "player": "junior caminero",
       "pitcher": "jose berrios",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Slurve"
     },
     "29": {
       "player": "brandon lowe",
@@ -1855,6 +1855,12 @@
     }
   },
   "sea @ kc": {
+    "32": {
+      "player": "salvador perez",
+      "pitcher": "logan gilbert",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "31": {
       "player": "maikel garcia",
       "pitcher": "logan gilbert",
@@ -2401,6 +2407,12 @@
     }
   },
   "laa @ mil": {
+    "27": {
+      "player": "andrew vaughn",
+      "pitcher": "caden dana",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "brice turang",
       "pitcher": "caden dana",
@@ -2559,11 +2571,17 @@
     }
   },
   "cin @ stl": {
+    "25": {
+      "player": "alec burleson",
+      "pitcher": "andrew abbott",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "24": {
       "player": "nolan arenado",
       "pitcher": "andrew abbott",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "ivan herrera",
@@ -2705,6 +2723,12 @@
     }
   },
   "tex @ hou": {
+    "16": {
+      "player": "yainer diaz",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "15": {
       "player": "victor caratini",
       "pitcher": "merrill kelly",
