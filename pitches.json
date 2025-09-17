@@ -3,7 +3,7 @@
     "84": {
       "player": "matt shaw",
       "pitcher": "dennis santana",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "83": {
@@ -509,8 +509,8 @@
     "70": {
       "player": "will benson",
       "pitcher": "gordon graceffo",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "69": {
       "player": "nolan arenado",
@@ -928,11 +928,17 @@
     }
   },
   "bal @ chw": {
+    "42": {
+      "player": "dominic fletcher",
+      "pitcher": "tyler wells",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "michael a taylor",
       "pitcher": "tyler wells",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "40": {
       "player": "will robertson",
