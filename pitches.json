@@ -523,8 +523,8 @@
     "63": {
       "player": "gabriel arias",
       "pitcher": "rafael montero",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "62": {
       "player": "bo naylor",
@@ -1292,10 +1292,16 @@
     }
   },
   "ath @ bos": {
+    "59": {
+      "player": "trevor story",
+      "pitcher": "mitch spence",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "58": {
       "player": "alex bregman",
       "pitcher": "mitch spence",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "57": {
@@ -1938,12 +1944,6 @@
     }
   },
   "tor @ tb": {
-    "40": {
-      "player": "addison barger",
-      "pitcher": "kevin kelly",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "39": {
       "player": "bob seymour",
       "pitcher": "jose berrios",
@@ -2183,8 +2183,8 @@
     "44": {
       "player": "dominic canzone",
       "pitcher": "daniel lynch",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "eugenio suarez",
@@ -2679,8 +2679,8 @@
     "43": {
       "player": "trent grisham",
       "pitcher": "cody laweryson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "matt wallner",
@@ -3382,7 +3382,7 @@
       "player": "christian walker",
       "pitcher": "merrill kelly",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "24": {
       "player": "jose altuve",
