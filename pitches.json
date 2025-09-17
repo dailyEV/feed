@@ -2373,8 +2373,8 @@
     "58": {
       "player": "vladimir guerrero",
       "pitcher": "cole sulser",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "57": {
       "player": "nathan lukes",
@@ -2720,6 +2720,12 @@
     }
   },
   "sea @ kc": {
+    "59": {
+      "player": "carter jensen",
+      "pitcher": "carlos vargas",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "58": {
       "player": "jonathan india",
       "pitcher": "logan gilbert",
@@ -3384,12 +3390,6 @@
     }
   },
   "nyy @ min": {
-    "58": {
-      "player": "matt wallner",
-      "pitcher": "ryan yarbrough",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
     "57": {
       "player": "ryan mcmahon",
       "pitcher": "thomas hatch",
@@ -3737,7 +3737,7 @@
     "52": {
       "player": "logan ohoppe",
       "pitcher": "grant anderson",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "51": {
@@ -4051,8 +4051,8 @@
     "50": {
       "player": "will benson",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "49": {
       "player": "nathan church",
@@ -4601,7 +4601,7 @@
     "30": {
       "player": "jordan beck",
       "pitcher": "eury perez",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "29": {
