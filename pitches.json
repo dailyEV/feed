@@ -1176,7 +1176,7 @@
     "28": {
       "player": "francisco alvarez",
       "pitcher": "michael king",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "27": {
@@ -1423,6 +1423,18 @@
     }
   },
   "sea @ kc": {
+    "13": {
+      "player": "jp crawford",
+      "pitcher": "michael wacha",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "12": {
+      "player": "victor robles",
+      "pitcher": "michael wacha",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "dominic canzone",
       "pitcher": "michael wacha",
@@ -1495,7 +1507,7 @@
       "player": "dylan beavers",
       "pitcher": "shane smith",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "9": {
       "player": "jordan westburg",
@@ -1630,8 +1642,8 @@
     "10": {
       "player": "andrew vaughn",
       "pitcher": "caden dana",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "brice turang",
@@ -1689,12 +1701,6 @@
     }
   },
   "cin @ stl": {
-    "9": {
-      "player": "lars nootbaar",
-      "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "8": {
       "player": "thomas saggese",
       "pitcher": "andrew abbott",
