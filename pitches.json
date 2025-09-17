@@ -1,10 +1,16 @@
 {
   "chc @ pit": {
-    "86": {
-      "player": "joey bart",
+    "87": {
+      "player": "oneil cruz",
       "pitcher": "taylor rogers",
       "result": "Ball",
       "pitch": "Sweeper"
+    },
+    "86": {
+      "player": "joey bart",
+      "pitcher": "taylor rogers",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "85": {
       "player": "andrew mccutchen",
@@ -518,6 +524,12 @@
     }
   },
   "cin @ stl": {
+    "72": {
+      "player": "santiago espinal",
+      "pitcher": "gordon graceffo",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "71": {
       "player": "austin hays",
       "pitcher": "gordon graceffo",
@@ -950,7 +962,7 @@
       "player": "dylan beavers",
       "pitcher": "grant taylor",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "42": {
       "player": "dominic fletcher",
@@ -1209,8 +1221,8 @@
     "6": {
       "player": "ketel marte",
       "pitcher": "justin verlander",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "geraldo perdomo",
