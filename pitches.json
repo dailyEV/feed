@@ -1440,8 +1440,8 @@
     "42": {
       "player": "jeff mcneil",
       "pitcher": "kyle hart",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "41": {
       "player": "mark vientos",
@@ -1879,6 +1879,12 @@
     }
   },
   "sea @ kc": {
+    "33": {
+      "player": "randy arozarena",
+      "pitcher": "daniel lynch",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "32": {
       "player": "salvador perez",
       "pitcher": "logan gilbert",
@@ -2240,7 +2246,7 @@
     "34": {
       "player": "trevor larnach",
       "pitcher": "cam schlittler",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "33": {
@@ -2446,8 +2452,8 @@
     "27": {
       "player": "andrew vaughn",
       "pitcher": "caden dana",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "26": {
       "player": "brice turang",
@@ -2610,7 +2616,7 @@
     "26": {
       "player": "thomas saggese",
       "pitcher": "andrew abbott",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "25": {
@@ -2768,8 +2774,8 @@
     "17": {
       "player": "jesus sanchez",
       "pitcher": "merrill kelly",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "16": {
       "player": "yainer diaz",
@@ -2868,7 +2874,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "mia @ col": {},
+  "mia @ col": {
+    "1": {
+      "player": "otto lopez",
+      "pitcher": "kyle freeland",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    }
+  },
   "sf @ ari": {},
   "phi @ lad": {}
 }
