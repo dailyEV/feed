@@ -821,6 +821,12 @@
     }
   },
   "chc @ pit": {
+    "56": {
+      "player": "dansby swanson",
+      "pitcher": "carmen mlodzinski",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "pete crow armstrong",
       "pitcher": "carmen mlodzinski",
@@ -1150,8 +1156,8 @@
     "49": {
       "player": "brett harris",
       "pitcher": "greg weissert",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "48": {
       "player": "carlos cortes",
@@ -1700,8 +1706,8 @@
     "31": {
       "player": "josh lowe",
       "pitcher": "jose berrios",
-      "result": "Foul",
-      "pitch": "Slurve"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "junior caminero",
@@ -2881,12 +2887,6 @@
     }
   },
   "mia @ col": {
-    "2": {
-      "player": "agustin ramirez",
-      "pitcher": "kyle freeland",
-      "result": "In play, out(s)",
-      "pitch": "Knuckle Curve"
-    },
     "1": {
       "player": "otto lopez",
       "pitcher": "kyle freeland",
