@@ -479,8 +479,8 @@
     "40": {
       "player": "marcell ozuna",
       "pitcher": "jackson rutledge",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "ozzie albies",
@@ -3020,10 +3020,16 @@
     }
   },
   "sea @ kc": {
+    "78": {
+      "player": "bobby witt",
+      "pitcher": "luke jackson",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "77": {
       "player": "mike yastrzemski",
       "pitcher": "luke jackson",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "76": {
@@ -3488,7 +3494,7 @@
       "player": "kyle teel",
       "pitcher": "chayce mcdermott",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "chase meidroth",
@@ -3904,7 +3910,7 @@
       "player": "ryan fitzgerald",
       "pitcher": "devin williams",
       "result": "Called Strike",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "74": {
       "player": "cody bellinger",
@@ -4355,8 +4361,8 @@
     "72": {
       "player": "taylor ward",
       "pitcher": "joel payamps",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "andrew vaughn",
@@ -5175,7 +5181,7 @@
     "53": {
       "player": "carlos correa",
       "pitcher": "carl edwards",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "52": {
@@ -5767,7 +5773,7 @@
     "19": {
       "player": "alek thomas",
       "pitcher": "tristan beck",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "18": {
@@ -5884,7 +5890,7 @@
       "player": "bryce harper",
       "pitcher": "shohei ohtani",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "kyle schwarber",
