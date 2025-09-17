@@ -2577,8 +2577,8 @@
     "33": {
       "player": "nick kurtz",
       "pitcher": "lucas giolito",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "32": {
       "player": "brett harris",
@@ -2774,11 +2774,17 @@
     }
   },
   "tor @ tb": {
+    "11": {
+      "player": "ernie clement",
+      "pitcher": "ian seymour",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "10": {
       "player": "ty france",
       "pitcher": "ian seymour",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "9": {
       "player": "tristan gray",
@@ -2839,8 +2845,8 @@
     "24": {
       "player": "juan soto",
       "pitcher": "nick pivetta",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "francisco lindor",
@@ -2985,8 +2991,8 @@
     "10": {
       "player": "jorge polanco",
       "pitcher": "cole ragans",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "adam frazier",
@@ -3047,7 +3053,7 @@
     "8": {
       "player": "trevor larnach",
       "pitcher": "luis gil",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "7": {
