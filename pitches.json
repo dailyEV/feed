@@ -2517,8 +2517,8 @@
     "66": {
       "player": "andres gimenez",
       "pitcher": "cole sulser",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "65": {
       "player": "ernie clement",
@@ -2915,8 +2915,8 @@
     "67": {
       "player": "vinnie pasquantino",
       "pitcher": "caleb ferguson",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "66": {
       "player": "bobby witt",
@@ -3319,8 +3319,8 @@
     "58": {
       "player": "coby mayo",
       "pitcher": "wikelman gonzalez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slurve"
     },
     "57": {
       "player": "colton cowser",
@@ -3669,7 +3669,7 @@
     "67": {
       "player": "austin wells",
       "pitcher": "thomas hatch",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "66": {
@@ -4074,7 +4074,7 @@
       "player": "luis rengifo",
       "pitcher": "chad patrick",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "60": {
       "player": "caleb durbin",
@@ -4438,6 +4438,12 @@
     }
   },
   "cin @ stl": {
+    "59": {
+      "player": "alec burleson",
+      "pitcher": "brent suter",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "tj friedl",
       "pitcher": "jojo romero",
@@ -5069,7 +5075,7 @@
     "40": {
       "player": "eric wagaman",
       "pitcher": "kyle freeland",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "39": {
