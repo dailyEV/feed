@@ -532,6 +532,12 @@
     }
   },
   "cle @ det": {
+    "64": {
+      "player": "spencer torkelson",
+      "pitcher": "hunter gaddis",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "gabriel arias",
       "pitcher": "rafael montero",
@@ -912,16 +918,22 @@
     }
   },
   "chc @ pit": {
+    "68": {
+      "player": "henry davis",
+      "pitcher": "caleb thielbar",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "67": {
       "player": "alexander canario",
       "pitcher": "caleb thielbar",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "66": {
       "player": "carson kelly",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "65": {
@@ -1313,8 +1325,8 @@
     "60": {
       "player": "rob refsnyder",
       "pitcher": "mitch spence",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "59": {
       "player": "trevor story",
@@ -1974,6 +1986,12 @@
     }
   },
   "tor @ tb": {
+    "42": {
+      "player": "joey loperfido",
+      "pitcher": "kevin kelly",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "41": {
       "player": "alejandro kirk",
       "pitcher": "kevin kelly",
@@ -2739,7 +2757,7 @@
     "45": {
       "player": "ben rice",
       "pitcher": "cody laweryson",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "44": {
