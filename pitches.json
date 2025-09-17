@@ -2383,8 +2383,8 @@
     "33": {
       "player": "cj kayfus",
       "pitcher": "jack flaherty",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "32": {
       "player": "colt keith",
@@ -2583,8 +2583,8 @@
     "33": {
       "player": "nick kurtz",
       "pitcher": "lucas giolito",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Changeup"
     },
     "32": {
       "player": "brett harris",
@@ -2783,8 +2783,8 @@
     "12": {
       "player": "addison barger",
       "pitcher": "ian seymour",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "ernie clement",
@@ -2854,11 +2854,17 @@
     }
   },
   "sd @ nym": {
-    "24": {
-      "player": "juan soto",
+    "25": {
+      "player": "pete alonso",
       "pitcher": "nick pivetta",
       "result": "Called Strike",
       "pitch": "Curveball"
+    },
+    "24": {
+      "player": "juan soto",
+      "pitcher": "nick pivetta",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "francisco lindor",
@@ -3004,7 +3010,7 @@
       "player": "jorge polanco",
       "pitcher": "cole ragans",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "9": {
       "player": "adam frazier",
@@ -3065,8 +3071,8 @@
     "8": {
       "player": "trevor larnach",
       "pitcher": "luis gil",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "7": {
       "player": "austin martin",
