@@ -2559,8 +2559,8 @@
     "71": {
       "player": "nick fortes",
       "pitcher": "seranthony dominguez",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "70": {
       "player": "christopher morel",
@@ -2984,6 +2984,12 @@
     }
   },
   "sea @ kc": {
+    "74": {
+      "player": "jonathan india",
+      "pitcher": "luke jackson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "73": {
       "player": "jac caglianone",
       "pitcher": "luke jackson",
@@ -3427,7 +3433,7 @@
     "66": {
       "player": "gunnar henderson",
       "pitcher": "tyler alexander",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "65": {
@@ -3825,8 +3831,8 @@
     "73": {
       "player": "paul goldschmidt",
       "pitcher": "genesis cabrera",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
     },
     "72": {
       "player": "aaron judge",
@@ -4262,12 +4268,6 @@
     }
   },
   "laa @ mil": {
-    "69": {
-      "player": "william contreras",
-      "pitcher": "sammy peralta",
-      "result": "In play, run(s)",
-      "pitch": "Changeup"
-    },
     "68": {
       "player": "christian yelich",
       "pitcher": "sammy peralta",
@@ -5068,7 +5068,7 @@
       "player": "cam smith",
       "pitcher": "danny coulombe",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Cutter"
     },
     "50": {
       "player": "josh jung",
