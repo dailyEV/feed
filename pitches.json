@@ -577,7 +577,7 @@
     "69": {
       "player": "cj kayfus",
       "pitcher": "rafael montero",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Splitter"
     },
     "68": {
@@ -994,7 +994,7 @@
       "player": "oneil cruz",
       "pitcher": "brad keller",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "75": {
       "player": "bryan reynolds",
@@ -1442,6 +1442,12 @@
     }
   },
   "ath @ bos": {
+    "68": {
+      "player": "jarren duran",
+      "pitcher": "hogan harris",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "67": {
       "player": "nick sogard",
       "pitcher": "mitch spence",
@@ -2791,8 +2797,8 @@
     "46": {
       "player": "dylan carlson",
       "pitcher": "fraser ellard",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "samuel basallo",
@@ -3383,8 +3389,8 @@
     "44": {
       "player": "caleb durbin",
       "pitcher": "chase silseth",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "43": {
       "player": "andrew vaughn",
@@ -3646,6 +3652,12 @@
     }
   },
   "cin @ stl": {
+    "44": {
+      "player": "noelvi marte",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "43": {
       "player": "gavin lux",
       "pitcher": "michael mcgreevy",
@@ -3906,6 +3918,12 @@
     }
   },
   "tex @ hou": {
+    "35": {
+      "player": "jeremy pena",
+      "pitcher": "merrill kelly",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "34": {
       "player": "jesus sanchez",
       "pitcher": "merrill kelly",
