@@ -479,8 +479,8 @@
     "13": {
       "player": "nick allen",
       "pitcher": "mackenzie gore",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "12": {
       "player": "nacho alvarez",
@@ -559,7 +559,7 @@
     "67": {
       "player": "dillon dingler",
       "pitcher": "tim herrin",
-      "result": "Ball In Dirt",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "66": {
@@ -960,10 +960,16 @@
     }
   },
   "chc @ pit": {
+    "74": {
+      "player": "willi castro",
+      "pitcher": "carmen mlodzinski",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "73": {
       "player": "dansby swanson",
       "pitcher": "carmen mlodzinski",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "72": {
@@ -2393,7 +2399,7 @@
     "50": {
       "player": "randy arozarena",
       "pitcher": "luinder avila",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "49": {
@@ -2692,6 +2698,12 @@
     }
   },
   "bal @ chw": {
+    "44": {
+      "player": "chase meidroth",
+      "pitcher": "dean kremer",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "43": {
       "player": "brooks baldwin",
       "pitcher": "dean kremer",
@@ -3511,7 +3523,7 @@
     "41": {
       "player": "thomas saggese",
       "pitcher": "scott barlow",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "40": {
