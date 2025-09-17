@@ -476,6 +476,12 @@
     }
   },
   "atl-gm2 @ wsh-gm2": {
+    "40": {
+      "player": "marcell ozuna",
+      "pitcher": "jackson rutledge",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "39": {
       "player": "ozzie albies",
       "pitcher": "jackson rutledge",
@@ -3482,7 +3488,7 @@
       "player": "kyle teel",
       "pitcher": "chayce mcdermott",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Cutter"
     },
     "68": {
       "player": "chase meidroth",
@@ -4340,6 +4346,12 @@
     }
   },
   "laa @ mil": {
+    "72": {
+      "player": "taylor ward",
+      "pitcher": "joel payamps",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "71": {
       "player": "andrew vaughn",
       "pitcher": "sammy peralta",
@@ -5746,11 +5758,17 @@
     }
   },
   "sf @ ari": {
+    "19": {
+      "player": "alek thomas",
+      "pitcher": "tristan beck",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "18": {
       "player": "adrian del castillo",
       "pitcher": "tristan beck",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "17": {
       "player": "blaze alexander",
@@ -5856,6 +5874,12 @@
     }
   },
   "phi @ lad": {
+    "3": {
+      "player": "bryce harper",
+      "pitcher": "shohei ohtani",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "kyle schwarber",
       "pitcher": "shohei ohtani",
