@@ -749,10 +749,16 @@
     }
   },
   "chc @ pit": {
+    "41": {
+      "player": "dansby swanson",
+      "pitcher": "evan sisk",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "pete crow armstrong",
       "pitcher": "evan sisk",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sweeper"
     },
     "39": {
@@ -1231,7 +1237,7 @@
       "player": "ramon laureano",
       "pitcher": "clay holmes",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sweeper"
     },
     "30": {
       "player": "gavin sheets",
@@ -1418,8 +1424,8 @@
     "18": {
       "player": "addison barger",
       "pitcher": "joey gerber",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "17": {
       "player": "vladimir guerrero",
@@ -1525,6 +1531,12 @@
     }
   },
   "sea @ kc": {
+    "18": {
+      "player": "carter jensen",
+      "pitcher": "logan gilbert",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "17": {
       "player": "jonathan india",
       "pitcher": "logan gilbert",
@@ -1816,7 +1828,7 @@
     "12": {
       "player": "christian moore",
       "pitcher": "freddy peralta",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "11": {
