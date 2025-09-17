@@ -595,7 +595,7 @@
     "73": {
       "player": "kerry carpenter",
       "pitcher": "cade smith",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "72": {
@@ -2280,6 +2280,18 @@
     }
   },
   "tor @ tb": {
+    "54": {
+      "player": "hunter feduccia",
+      "pitcher": "eric lauer",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
+    "53": {
+      "player": "tristan gray",
+      "pitcher": "eric lauer",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "52": {
       "player": "jake mangum",
       "pitcher": "eric lauer",
@@ -2929,7 +2941,7 @@
     "49": {
       "player": "gunnar henderson",
       "pitcher": "fraser ellard",
-      "result": "In play, out(s)",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "48": {
@@ -3225,8 +3237,8 @@
     "54": {
       "player": "royce lewis",
       "pitcher": "fernando cruz",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "53": {
       "player": "kody clemens",
@@ -4346,6 +4358,12 @@
     }
   },
   "mia @ col": {
+    "25": {
+      "player": "connor norby",
+      "pitcher": "kyle freeland",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "24": {
       "player": "eric wagaman",
       "pitcher": "kyle freeland",
