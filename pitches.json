@@ -476,12 +476,6 @@
     }
   },
   "atl-gm2 @ wsh-gm2": {
-    "8": {
-      "player": "dylan crews",
-      "pitcher": "chris sale",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "7": {
       "player": "nasim nunez",
       "pitcher": "chris sale",
@@ -906,6 +900,12 @@
     }
   },
   "chc @ pit": {
+    "67": {
+      "player": "alexander canario",
+      "pitcher": "caleb thielbar",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "66": {
       "player": "carson kelly",
       "pitcher": "carmen mlodzinski",
@@ -1301,8 +1301,8 @@
     "59": {
       "player": "trevor story",
       "pitcher": "mitch spence",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "58": {
       "player": "alex bregman",
@@ -1657,8 +1657,8 @@
     "50": {
       "player": "francisco lindor",
       "pitcher": "yuki matsui",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "49": {
       "player": "cedric mullins",
@@ -1956,6 +1956,12 @@
     }
   },
   "tor @ tb": {
+    "40": {
+      "player": "addison barger",
+      "pitcher": "kevin kelly",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "bob seymour",
       "pitcher": "jose berrios",
@@ -2195,8 +2201,8 @@
     "45": {
       "player": "victor robles",
       "pitcher": "daniel lynch",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "44": {
       "player": "dominic canzone",
@@ -2697,8 +2703,8 @@
     "43": {
       "player": "trent grisham",
       "pitcher": "cody laweryson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "matt wallner",
@@ -2954,6 +2960,12 @@
     }
   },
   "laa @ mil": {
+    "37": {
+      "player": "william contreras",
+      "pitcher": "chase silseth",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "christian yelich",
       "pitcher": "caden dana",
