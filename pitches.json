@@ -3331,7 +3331,7 @@
     "59": {
       "player": "samuel basallo",
       "pitcher": "wikelman gonzalez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -4091,8 +4091,8 @@
     "61": {
       "player": "luis rengifo",
       "pitcher": "chad patrick",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "caleb durbin",
@@ -4456,11 +4456,17 @@
     }
   },
   "cin @ stl": {
+    "60": {
+      "player": "thomas saggese",
+      "pitcher": "brent suter",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "alec burleson",
       "pitcher": "brent suter",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "tj friedl",
