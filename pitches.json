@@ -476,6 +476,12 @@
     }
   },
   "atl-gm2 @ wsh-gm2": {
+    "30": {
+      "player": "riley adams",
+      "pitcher": "chris sale",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "daylen lile",
       "pitcher": "chris sale",
@@ -652,10 +658,16 @@
     }
   },
   "cle @ det": {
+    "85": {
+      "player": "riley greene",
+      "pitcher": "jakob junis",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "84": {
       "player": "spencer torkelson",
       "pitcher": "jakob junis",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "83": {
@@ -2068,6 +2080,12 @@
     }
   },
   "sd @ nym": {
+    "68": {
+      "player": "ramon laureano",
+      "pitcher": "sean manaea",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "67": {
       "player": "gavin sheets",
       "pitcher": "sean manaea",
@@ -2472,6 +2490,18 @@
     }
   },
   "tor @ tb": {
+    "65": {
+      "player": "ernie clement",
+      "pitcher": "cole sulser",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "64": {
+      "player": "joey loperfido",
+      "pitcher": "cole sulser",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "junior caminero",
       "pitcher": "yariel rodriguez",
@@ -3974,6 +4004,12 @@
     }
   },
   "laa @ mil": {
+    "60": {
+      "player": "caleb durbin",
+      "pitcher": "sammy peralta",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "andrew vaughn",
       "pitcher": "sammy peralta",
@@ -4333,7 +4369,7 @@
     "56": {
       "player": "kebryan hayes",
       "pitcher": "jojo romero",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "55": {
@@ -4943,8 +4979,8 @@
     "38": {
       "player": "kyle karros",
       "pitcher": "eury perez",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "37": {
       "player": "blaine crim",
