@@ -479,8 +479,8 @@
     "3": {
       "player": "ronald acuna",
       "pitcher": "mackenzie gore",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "2": {
       "player": "matt olson",
@@ -499,8 +499,8 @@
     "60": {
       "player": "jose ramirez",
       "pitcher": "bailey horn",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "wenceel perez",
@@ -1223,8 +1223,8 @@
     "51": {
       "player": "nick sogard",
       "pitcher": "mitch spence",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "50": {
       "player": "lawrence butler",
@@ -3081,7 +3081,7 @@
     "20": {
       "player": "wyatt langford",
       "pitcher": "aj blubaugh",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -3200,6 +3200,12 @@
     }
   },
   "mia @ col": {
+    "7": {
+      "player": "heriberto hernandez",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "hunter goodman",
       "pitcher": "eury perez",
