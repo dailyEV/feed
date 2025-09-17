@@ -1532,7 +1532,7 @@
     "27": {
       "player": "chandler simpson",
       "pitcher": "jose berrios",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -1693,12 +1693,6 @@
     }
   },
   "sea @ kc": {
-    "25": {
-      "player": "dominic canzone",
-      "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "24": {
       "player": "eugenio suarez",
       "pitcher": "michael wacha",
@@ -1848,7 +1842,7 @@
     "18": {
       "player": "dylan carlson",
       "pitcher": "shane smith",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "17": {
@@ -1955,6 +1949,12 @@
     }
   },
   "nyy @ min": {
+    "25": {
+      "player": "ryan mcmahon",
+      "pitcher": "zebby matthews",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "24": {
       "player": "james outman",
       "pitcher": "cam schlittler",
@@ -2104,8 +2104,8 @@
     "19": {
       "player": "sal frelick",
       "pitcher": "caden dana",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "joey ortiz",
@@ -2330,8 +2330,8 @@
     "8": {
       "player": "zach cole",
       "pitcher": "merrill kelly",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "7": {
       "player": "christian walker",
