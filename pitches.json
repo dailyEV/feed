@@ -480,14 +480,14 @@
       "player": "jurickson profar",
       "pitcher": "mackenzie gore",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     }
   },
   "cle @ det": {
     "59": {
       "player": "wenceel perez",
       "pitcher": "hunter gaddis",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -1188,7 +1188,7 @@
       "player": "lawrence butler",
       "pitcher": "justin wilson",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "brett harris",
@@ -1486,6 +1486,12 @@
     }
   },
   "sd @ nym": {
+    "44": {
+      "player": "luis arraez",
+      "pitcher": "sean manaea",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "fernando tatis",
       "pitcher": "sean manaea",
@@ -1750,7 +1756,7 @@
       "player": "nathan lukes",
       "pitcher": "joey gerber",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "george springer",
@@ -1952,12 +1958,6 @@
     }
   },
   "sea @ kc": {
-    "37": {
-      "player": "jorge polanco",
-      "pitcher": "daniel lynch",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "36": {
       "player": "josh naylor",
       "pitcher": "daniel lynch",
@@ -2179,7 +2179,7 @@
     "30": {
       "player": "samuel basallo",
       "pitcher": "shane smith",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -2761,8 +2761,8 @@
     "30": {
       "player": "tyler stephenson",
       "pitcher": "michael mcgreevy",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "29": {
       "player": "will benson",
@@ -2943,7 +2943,7 @@
     "19": {
       "player": "josh smith",
       "pitcher": "aj blubaugh",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Changeup"
     },
     "18": {
@@ -3056,6 +3056,12 @@
     }
   },
   "mia @ col": {
+    "5": {
+      "player": "mickey moniak",
+      "pitcher": "eury perez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "tyler freeman",
       "pitcher": "eury perez",
