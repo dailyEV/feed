@@ -2565,7 +2565,7 @@
     "73": {
       "player": "george springer",
       "pitcher": "bryan baker",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "72": {
@@ -3005,7 +3005,7 @@
     "76": {
       "player": "kyle isbel",
       "pitcher": "luke jackson",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "75": {
@@ -5133,8 +5133,8 @@
     "52": {
       "player": "jeremy pena",
       "pitcher": "carl edwards",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "cam smith",
@@ -5716,6 +5716,12 @@
     }
   },
   "sf @ ari": {
+    "18": {
+      "player": "adrian del castillo",
+      "pitcher": "tristan beck",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "blaze alexander",
       "pitcher": "tristan beck",
