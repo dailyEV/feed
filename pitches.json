@@ -479,8 +479,8 @@
     "5": {
       "player": "marcell ozuna",
       "pitcher": "mackenzie gore",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "4": {
       "player": "ozzie albies",
@@ -511,8 +511,8 @@
     "62": {
       "player": "bo naylor",
       "pitcher": "bailey horn",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
     },
     "61": {
       "player": "kyle manzardo",
@@ -1250,12 +1250,6 @@
     }
   },
   "ath @ bos": {
-    "54": {
-      "player": "max schuemann",
-      "pitcher": "justin slaten",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "53": {
       "player": "ceddanne rafaela",
       "pitcher": "mitch spence",
@@ -1580,7 +1574,7 @@
       "player": "francisco alvarez",
       "pitcher": "yuki matsui",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Splitter"
     },
     "47": {
       "player": "brett baty",
@@ -2093,7 +2087,7 @@
     "42": {
       "player": "mike yastrzemski",
       "pitcher": "logan gilbert",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Splitter"
     },
     "41": {
@@ -2807,7 +2801,7 @@
     "35": {
       "player": "jackson chourio",
       "pitcher": "caden dana",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -3222,6 +3216,12 @@
     }
   },
   "tex @ hou": {
+    "22": {
+      "player": "jeremy pena",
+      "pitcher": "merrill kelly",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "21": {
       "player": "jake burger",
       "pitcher": "aj blubaugh",
