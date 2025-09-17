@@ -476,12 +476,6 @@
     }
   },
   "atl-gm2 @ wsh-gm2": {
-    "3": {
-      "player": "ronald acuna",
-      "pitcher": "mackenzie gore",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "2": {
       "player": "matt olson",
       "pitcher": "mackenzie gore",
@@ -499,7 +493,7 @@
     "60": {
       "player": "jose ramirez",
       "pitcher": "bailey horn",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "59": {
@@ -858,10 +852,16 @@
     }
   },
   "chc @ pit": {
+    "61": {
+      "player": "nick yorke",
+      "pitcher": "andrew kittredge",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "60": {
       "player": "jack suwinski",
       "pitcher": "andrew kittredge",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "59": {
@@ -1217,8 +1217,8 @@
     "51": {
       "player": "nick sogard",
       "pitcher": "mitch spence",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "50": {
       "player": "lawrence butler",
@@ -1803,7 +1803,7 @@
     "34": {
       "player": "nathan lukes",
       "pitcher": "joey gerber",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -2675,8 +2675,8 @@
     "32": {
       "player": "christian moore",
       "pitcher": "freddy peralta",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "logan ohoppe",
@@ -3057,7 +3057,7 @@
     "20": {
       "player": "wyatt langford",
       "pitcher": "aj blubaugh",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "19": {
