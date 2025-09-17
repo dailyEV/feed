@@ -824,7 +824,7 @@
     "55": {
       "player": "pete crow armstrong",
       "pitcher": "carmen mlodzinski",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "54": {
@@ -1150,8 +1150,8 @@
     "48": {
       "player": "carlos cortes",
       "pitcher": "greg weissert",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "47": {
       "player": "tyler soderstrom",
@@ -1437,6 +1437,12 @@
     }
   },
   "sd @ nym": {
+    "42": {
+      "player": "jeff mcneil",
+      "pitcher": "kyle hart",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "mark vientos",
       "pitcher": "kyle hart",
@@ -2071,7 +2077,7 @@
       "player": "miguel vargas",
       "pitcher": "dean kremer",
       "result": "In play, out(s)",
-      "pitch": ""
+      "pitch": "Cutter"
     },
     "26": {
       "player": "colson montgomery",
@@ -2231,11 +2237,17 @@
     }
   },
   "nyy @ min": {
+    "34": {
+      "player": "trevor larnach",
+      "pitcher": "cam schlittler",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "33": {
       "player": "austin martin",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "32": {
       "player": "byron buxton",
@@ -2434,8 +2446,8 @@
     "27": {
       "player": "andrew vaughn",
       "pitcher": "caden dana",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "brice turang",
@@ -2753,6 +2765,12 @@
     }
   },
   "tex @ hou": {
+    "17": {
+      "player": "jesus sanchez",
+      "pitcher": "merrill kelly",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "16": {
       "player": "yainer diaz",
       "pitcher": "merrill kelly",
