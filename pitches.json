@@ -2777,7 +2777,7 @@
     "61": {
       "player": "mike yastrzemski",
       "pitcher": "carlos vargas",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "60": {
@@ -3465,8 +3465,8 @@
     "61": {
       "player": "james outman",
       "pitcher": "ryan yarbrough",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "60": {
       "player": "ryan fitzgerald",
@@ -3830,6 +3830,12 @@
     }
   },
   "laa @ mil": {
+    "55": {
+      "player": "denzer guzman",
+      "pitcher": "grant anderson",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "54": {
       "player": "carter kieboom",
       "pitcher": "grant anderson",
@@ -4464,6 +4470,12 @@
     }
   },
   "tex @ hou": {
+    "43": {
+      "player": "jake burger",
+      "pitcher": "colton gordon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "wyatt langford",
       "pitcher": "colton gordon",
@@ -4718,6 +4730,12 @@
     }
   },
   "mia @ col": {
+    "32": {
+      "player": "javier sanoja",
+      "pitcher": "kyle freeland",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "ezequiel tovar",
       "pitcher": "eury perez",
