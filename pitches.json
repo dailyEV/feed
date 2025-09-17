@@ -2383,7 +2383,7 @@
     "28": {
       "player": "nolan jones",
       "pitcher": "jack flaherty",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "27": {
@@ -2550,6 +2550,12 @@
     }
   },
   "ath @ bos": {
+    "27": {
+      "player": "alex bregman",
+      "pitcher": "mason barnett",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "26": {
       "player": "trevor story",
       "pitcher": "mason barnett",
@@ -2737,8 +2743,8 @@
     "17": {
       "player": "francisco alvarez",
       "pitcher": "nick pivetta",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "16": {
       "player": "brett baty",
@@ -2838,6 +2844,12 @@
     }
   },
   "sea @ kc": {
+    "3": {
+      "player": "julio rodriguez",
+      "pitcher": "cole ragans",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "cal raleigh",
       "pitcher": "cole ragans",
@@ -2855,8 +2867,8 @@
     "1": {
       "player": "trent grisham",
       "pitcher": "taj bradley",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     }
   },
   "laa @ mil": {
