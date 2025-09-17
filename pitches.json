@@ -480,8 +480,8 @@
     "42": {
       "player": "jose ramirez",
       "pitcher": "casey mize",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "41": {
       "player": "wenceel perez",
@@ -1349,6 +1349,12 @@
     }
   },
   "tor @ tb": {
+    "15": {
+      "player": "george springer",
+      "pitcher": "ryan pepiot",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "14": {
       "player": "myles straw",
       "pitcher": "ryan pepiot",
@@ -1521,10 +1527,16 @@
     }
   },
   "bal @ chw": {
+    "11": {
+      "player": "colton cowser",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "10": {
       "player": "dylan beavers",
       "pitcher": "shane smith",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "9": {
@@ -1722,7 +1734,7 @@
     "9": {
       "player": "lars nootbaar",
       "pitcher": "andrew abbott",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "8": {
