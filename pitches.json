@@ -729,7 +729,7 @@
       "player": "nick yorke",
       "pitcher": "cade horton",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "jack suwinski",
@@ -953,7 +953,7 @@
       "player": "max schuemann",
       "pitcher": "connelly early",
       "result": "Called Strike",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "lawrence butler",
@@ -1340,7 +1340,7 @@
     "13": {
       "player": "andres gimenez",
       "pitcher": "ryan pepiot",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -1420,8 +1420,8 @@
     "11": {
       "player": "dominic canzone",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "10": {
       "player": "maikel garcia",
@@ -1485,10 +1485,16 @@
     }
   },
   "bal @ chw": {
+    "10": {
+      "player": "dylan beavers",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "jordan westburg",
       "pitcher": "shane smith",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "8": {
@@ -1677,6 +1683,12 @@
     }
   },
   "cin @ stl": {
+    "9": {
+      "player": "lars nootbaar",
+      "pitcher": "andrew abbott",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "thomas saggese",
       "pitcher": "andrew abbott",
