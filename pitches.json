@@ -479,8 +479,8 @@
     "66": {
       "player": "drake baldwin",
       "pitcher": "mason thompson",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "65": {
       "player": "luis garcia",
@@ -5577,7 +5577,7 @@
     "78": {
       "player": "jonah heim",
       "pitcher": "bryan abreu",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "77": {
@@ -6047,7 +6047,7 @@
     "51": {
       "player": "jakob marsee",
       "pitcher": "anthony molina",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -6355,8 +6355,8 @@
     "50": {
       "player": "jordan lawlar",
       "pitcher": "joey lucchesi",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "49": {
       "player": "jung hoo lee",
@@ -6654,6 +6654,12 @@
     }
   },
   "phi @ lad": {
+    "29": {
+      "player": "andy pages",
+      "pitcher": "cristopher sanchez",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "alex call",
       "pitcher": "cristopher sanchez",
