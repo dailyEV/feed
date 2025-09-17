@@ -479,8 +479,8 @@
     "9": {
       "player": "josh bell",
       "pitcher": "chris sale",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "dylan crews",
@@ -1705,8 +1705,8 @@
     "51": {
       "player": "juan soto",
       "pitcher": "yuki matsui",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "50": {
       "player": "francisco lindor",
@@ -3068,10 +3068,16 @@
     }
   },
   "laa @ mil": {
+    "39": {
+      "player": "denzer guzman",
+      "pitcher": "freddy peralta",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "carter kieboom",
       "pitcher": "freddy peralta",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "37": {
@@ -3528,6 +3534,12 @@
     }
   },
   "tex @ hou": {
+    "28": {
+      "player": "kyle higashioka",
+      "pitcher": "colton gordon",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "joc pederson",
       "pitcher": "colton gordon",
