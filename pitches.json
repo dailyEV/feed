@@ -888,11 +888,17 @@
     }
   },
   "chc @ pit": {
+    "66": {
+      "player": "carson kelly",
+      "pitcher": "carmen mlodzinski",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "65": {
       "player": "moises ballesteros",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "64": {
       "player": "ian happ",
@@ -1615,7 +1621,7 @@
     "48": {
       "player": "francisco alvarez",
       "pitcher": "yuki matsui",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "47": {
@@ -1905,8 +1911,8 @@
     "39": {
       "player": "bob seymour",
       "pitcher": "jose berrios",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "38": {
       "player": "hunter feduccia",
@@ -2141,8 +2147,8 @@
     "43": {
       "player": "eugenio suarez",
       "pitcher": "daniel lynch",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "mike yastrzemski",
@@ -2398,6 +2404,12 @@
     }
   },
   "bal @ chw": {
+    "37": {
+      "player": "gunnar henderson",
+      "pitcher": "shane smith",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "jeremiah jackson",
       "pitcher": "shane smith",
@@ -3440,10 +3452,16 @@
     }
   },
   "mia @ col": {
+    "11": {
+      "player": "ezequiel tovar",
+      "pitcher": "eury perez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "jordan beck",
       "pitcher": "eury perez",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "9": {
