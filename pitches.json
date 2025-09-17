@@ -477,6 +477,12 @@
   },
   "atl-gm2 @ wsh-gm2": {},
   "cle @ det": {
+    "49": {
+      "player": "riley greene",
+      "pitcher": "matt festa",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "spencer torkelson",
       "pitcher": "matt festa",
@@ -1042,7 +1048,7 @@
     "42": {
       "player": "carlos narvaez",
       "pitcher": "mitch spence",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "41": {
@@ -1502,8 +1508,8 @@
     "25": {
       "player": "andres gimenez",
       "pitcher": "joey gerber",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Slider"
     },
     "24": {
       "player": "ernie clement",
@@ -1654,8 +1660,8 @@
     "21": {
       "player": "julio rodriguez",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "20": {
       "player": "cal raleigh",
@@ -1886,7 +1892,7 @@
     "22": {
       "player": "mickey gasper",
       "pitcher": "cam schlittler",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "21": {
@@ -2017,10 +2023,16 @@
     }
   },
   "laa @ mil": {
+    "18": {
+      "player": "joey ortiz",
+      "pitcher": "caden dana",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "blake perkins",
       "pitcher": "caden dana",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "16": {
@@ -2219,6 +2231,12 @@
     }
   },
   "tex @ hou": {
+    "6": {
+      "player": "jose altuve",
+      "pitcher": "merrill kelly",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "carlos correa",
       "pitcher": "merrill kelly",
