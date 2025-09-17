@@ -479,8 +479,8 @@
     "19": {
       "player": "ronald acuna",
       "pitcher": "mackenzie gore",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "matt olson",
@@ -592,6 +592,12 @@
     }
   },
   "cle @ det": {
+    "71": {
+      "player": "parker meadows",
+      "pitcher": "cade smith",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "70": {
       "player": "brayan rocchio",
       "pitcher": "rafael montero",
@@ -1472,17 +1478,11 @@
     }
   },
   "ath @ bos": {
-    "71": {
-      "player": "max schuemann",
-      "pitcher": "zack kelly",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "70": {
       "player": "lawrence butler",
       "pitcher": "zack kelly",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "69": {
       "player": "brett harris",
@@ -1903,8 +1903,8 @@
     "58": {
       "player": "jake cronenworth",
       "pitcher": "sean manaea",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "mark vientos",
@@ -2887,7 +2887,7 @@
     "48": {
       "player": "jeremiah jackson",
       "pitcher": "fraser ellard",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -3178,7 +3178,7 @@
       "player": "kody clemens",
       "pitcher": "cam schlittler",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "trevor larnach",
@@ -4054,7 +4054,7 @@
       "player": "carlos correa",
       "pitcher": "cole winn",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "jeremy pena",
