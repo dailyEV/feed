@@ -476,11 +476,17 @@
     }
   },
   "atl-gm2 @ wsh-gm2": {
+    "32": {
+      "player": "nick allen",
+      "pitcher": "mackenzie gore",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "31": {
       "player": "nacho alvarez",
       "pitcher": "mackenzie gore",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "riley adams",
@@ -2916,7 +2922,7 @@
       "player": "maikel garcia",
       "pitcher": "caleb ferguson",
       "result": "Ball",
-      "pitch": "Slurve"
+      "pitch": "Cutter"
     },
     "67": {
       "player": "vinnie pasquantino",
@@ -5093,7 +5099,7 @@
     "40": {
       "player": "eric wagaman",
       "pitcher": "kyle freeland",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -5332,6 +5338,12 @@
     }
   },
   "sf @ ari": {
+    "9": {
+      "player": "geraldo perdomo",
+      "pitcher": "tristan beck",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "jung hoo lee",
       "pitcher": "eduardo rodriguez",
