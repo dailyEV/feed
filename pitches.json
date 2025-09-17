@@ -480,7 +480,7 @@
     "57": {
       "player": "jahmai jones",
       "pitcher": "erik sabrowski",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "56": {
@@ -1145,7 +1145,7 @@
       "player": "carlos cortes",
       "pitcher": "greg weissert",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "47": {
       "player": "tyler soderstrom",
@@ -1434,8 +1434,8 @@
     "41": {
       "player": "mark vientos",
       "pitcher": "kyle hart",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "40": {
       "player": "brandon nimmo",
@@ -1679,11 +1679,17 @@
     }
   },
   "tor @ tb": {
+    "31": {
+      "player": "josh lowe",
+      "pitcher": "jose berrios",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "junior caminero",
       "pitcher": "jose berrios",
-      "result": "Ball",
-      "pitch": "Slurve"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "29": {
       "player": "brandon lowe",
@@ -2222,8 +2228,8 @@
     "33": {
       "player": "austin martin",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "32": {
       "player": "byron buxton",
