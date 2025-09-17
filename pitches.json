@@ -479,8 +479,8 @@
     "5": {
       "player": "marcell ozuna",
       "pitcher": "mackenzie gore",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "ozzie albies",
@@ -511,8 +511,8 @@
     "62": {
       "player": "bo naylor",
       "pitcher": "bailey horn",
-      "result": "Ball In Dirt",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "kyle manzardo",
@@ -1250,6 +1250,12 @@
     }
   },
   "ath @ bos": {
+    "54": {
+      "player": "max schuemann",
+      "pitcher": "justin slaten",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "53": {
       "player": "ceddanne rafaela",
       "pitcher": "mitch spence",
@@ -1863,8 +1869,8 @@
     "37": {
       "player": "tristan gray",
       "pitcher": "jose berrios",
-      "result": "In play, no out",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "jake mangum",
@@ -2550,6 +2556,12 @@
     }
   },
   "nyy @ min": {
+    "41": {
+      "player": "royce lewis",
+      "pitcher": "cam schlittler",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "40": {
       "player": "kody clemens",
       "pitcher": "cam schlittler",
@@ -3004,11 +3016,17 @@
     }
   },
   "cin @ stl": {
+    "34": {
+      "player": "brendan donovan",
+      "pitcher": "andrew abbott",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "33": {
       "player": "nathan church",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "32": {
       "player": "jordan walker",
