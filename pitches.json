@@ -592,12 +592,6 @@
     }
   },
   "cle @ det": {
-    "71": {
-      "player": "parker meadows",
-      "pitcher": "cade smith",
-      "result": "Foul",
-      "pitch": "Splitter"
-    },
     "70": {
       "player": "brayan rocchio",
       "pitcher": "rafael montero",
@@ -1478,11 +1472,17 @@
     }
   },
   "ath @ bos": {
+    "71": {
+      "player": "max schuemann",
+      "pitcher": "zack kelly",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "70": {
       "player": "lawrence butler",
       "pitcher": "zack kelly",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "69": {
       "player": "brett harris",
@@ -1900,6 +1900,12 @@
     }
   },
   "sd @ nym": {
+    "58": {
+      "player": "jake cronenworth",
+      "pitcher": "sean manaea",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "57": {
       "player": "mark vientos",
       "pitcher": "bradgley rodriguez",
@@ -3172,7 +3178,7 @@
       "player": "kody clemens",
       "pitcher": "cam schlittler",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "52": {
       "player": "trevor larnach",
@@ -3488,11 +3494,17 @@
     }
   },
   "laa @ mil": {
+    "47": {
+      "player": "jo adell",
+      "pitcher": "freddy peralta",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "taylor ward",
       "pitcher": "freddy peralta",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "45": {
       "player": "mike trout",
@@ -4259,7 +4271,7 @@
     "23": {
       "player": "tyler freeman",
       "pitcher": "eury perez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "22": {
