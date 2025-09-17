@@ -1223,7 +1223,7 @@
     "51": {
       "player": "nick sogard",
       "pitcher": "mitch spence",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "50": {
@@ -1806,10 +1806,16 @@
     }
   },
   "tor @ tb": {
+    "35": {
+      "player": "vladimir guerrero",
+      "pitcher": "joey gerber",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "nathan lukes",
       "pitcher": "joey gerber",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -2015,7 +2021,7 @@
     "40": {
       "player": "carter jensen",
       "pitcher": "logan gilbert",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "39": {
@@ -2254,6 +2260,12 @@
     }
   },
   "bal @ chw": {
+    "33": {
+      "player": "mike tauchman",
+      "pitcher": "dean kremer",
+      "result": "Foul Bunt",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "jackson holliday",
       "pitcher": "shane smith",
@@ -2451,7 +2463,7 @@
     "39": {
       "player": "austin wells",
       "pitcher": "cody laweryson",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "38": {
@@ -2881,8 +2893,8 @@
     "31": {
       "player": "pedro pages",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "tyler stephenson",
@@ -3069,7 +3081,7 @@
     "20": {
       "player": "wyatt langford",
       "pitcher": "aj blubaugh",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "19": {
