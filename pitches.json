@@ -477,6 +477,12 @@
   },
   "atl-gm2 @ wsh-gm2": {},
   "cle @ det": {
+    "44": {
+      "player": "bo naylor",
+      "pitcher": "casey mize",
+      "result": "In play, run(s)",
+      "pitch": "Splitter"
+    },
     "43": {
       "player": "kyle manzardo",
       "pitcher": "casey mize",
@@ -740,8 +746,8 @@
     "39": {
       "player": "carson kelly",
       "pitcher": "evan sisk",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "38": {
       "player": "moises ballesteros",
@@ -1206,8 +1212,8 @@
     "30": {
       "player": "gavin sheets",
       "pitcher": "clay holmes",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "29": {
       "player": "manny machado",
@@ -1489,6 +1495,18 @@
     }
   },
   "sea @ kc": {
+    "16": {
+      "player": "jac caglianone",
+      "pitcher": "logan gilbert",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
+    "15": {
+      "player": "salvador perez",
+      "pitcher": "logan gilbert",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "14": {
       "player": "randy arozarena",
       "pitcher": "michael wacha",
@@ -1575,6 +1593,12 @@
     }
   },
   "bal @ chw": {
+    "13": {
+      "player": "samuel basallo",
+      "pitcher": "shane smith",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
     "12": {
       "player": "coby mayo",
       "pitcher": "shane smith",
@@ -1818,8 +1842,8 @@
     "10": {
       "player": "sal stewart",
       "pitcher": "michael mcgreevy",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "9": {
       "player": "lars nootbaar",
