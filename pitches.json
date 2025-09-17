@@ -477,12 +477,6 @@
   },
   "atl-gm2 @ wsh-gm2": {},
   "cle @ det": {
-    "58": {
-      "player": "gleyber torres",
-      "pitcher": "hunter gaddis",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "57": {
       "player": "jahmai jones",
       "pitcher": "erik sabrowski",
@@ -1464,7 +1458,7 @@
     "42": {
       "player": "jeff mcneil",
       "pitcher": "kyle hart",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "41": {
@@ -2485,6 +2479,12 @@
     }
   },
   "laa @ mil": {
+    "28": {
+      "player": "caleb durbin",
+      "pitcher": "caden dana",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "27": {
       "player": "andrew vaughn",
       "pitcher": "caden dana",
@@ -2652,7 +2652,7 @@
     "27": {
       "player": "lars nootbaar",
       "pitcher": "andrew abbott",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "26": {
@@ -2920,8 +2920,8 @@
     "3": {
       "player": "jakob marsee",
       "pitcher": "kyle freeland",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "2": {
       "player": "agustin ramirez",
