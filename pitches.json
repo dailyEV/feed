@@ -479,7 +479,7 @@
     "20": {
       "player": "paul dejong",
       "pitcher": "chris sale",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "19": {
@@ -601,8 +601,8 @@
     "73": {
       "player": "kerry carpenter",
       "pitcher": "cade smith",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "72": {
       "player": "zach mckinstry",
@@ -1499,8 +1499,8 @@
     "72": {
       "player": "shea langeliers",
       "pitcher": "zack kelly",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "71": {
       "player": "max schuemann",
@@ -1933,7 +1933,7 @@
     "60": {
       "player": "fernando tatis",
       "pitcher": "sean manaea",
-      "result": "In play, out(s)",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -3255,7 +3255,7 @@
     "54": {
       "player": "royce lewis",
       "pitcher": "fernando cruz",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "53": {
@@ -3862,6 +3862,12 @@
     }
   },
   "cin @ stl": {
+    "48": {
+      "player": "jordan walker",
+      "pitcher": "scott barlow",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "pedro pages",
       "pitcher": "scott barlow",
@@ -4149,7 +4155,7 @@
     "38": {
       "player": "christian walker",
       "pitcher": "cole winn",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "37": {
@@ -4376,6 +4382,12 @@
     }
   },
   "mia @ col": {
+    "26": {
+      "player": "dane myers",
+      "pitcher": "kyle freeland",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "connor norby",
       "pitcher": "kyle freeland",
