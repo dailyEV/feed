@@ -571,8 +571,8 @@
     "68": {
       "player": "jhonkensy noel",
       "pitcher": "rafael montero",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "dillon dingler",
@@ -1825,7 +1825,7 @@
     "56": {
       "player": "brandon nimmo",
       "pitcher": "yuki matsui",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -2447,7 +2447,7 @@
     "50": {
       "player": "randy arozarena",
       "pitcher": "luinder avila",
-      "result": "Ball",
+      "result": "Intent Ball",
       "pitch": "Sinker"
     },
     "49": {
@@ -2746,6 +2746,12 @@
     }
   },
   "bal @ chw": {
+    "45": {
+      "player": "samuel basallo",
+      "pitcher": "fraser ellard",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "chase meidroth",
       "pitcher": "dean kremer",
@@ -3586,11 +3592,17 @@
     }
   },
   "cin @ stl": {
+    "43": {
+      "player": "gavin lux",
+      "pitcher": "michael mcgreevy",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "42": {
       "player": "tj friedl",
       "pitcher": "michael mcgreevy",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "thomas saggese",
