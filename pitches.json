@@ -1809,7 +1809,7 @@
     "35": {
       "player": "vladimir guerrero",
       "pitcher": "joey gerber",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -2260,11 +2260,17 @@
     }
   },
   "bal @ chw": {
+    "34": {
+      "player": "lenyn sosa",
+      "pitcher": "dean kremer",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "mike tauchman",
       "pitcher": "dean kremer",
-      "result": "Foul Bunt",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "32": {
       "player": "jackson holliday",
@@ -2890,6 +2896,12 @@
     }
   },
   "cin @ stl": {
+    "32": {
+      "player": "jordan walker",
+      "pitcher": "andrew abbott",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "pedro pages",
       "pitcher": "andrew abbott",
@@ -3203,7 +3215,7 @@
     "7": {
       "player": "heriberto hernandez",
       "pitcher": "kyle freeland",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "6": {
