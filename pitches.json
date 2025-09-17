@@ -480,7 +480,7 @@
     "50": {
       "player": "colt keith",
       "pitcher": "matt festa",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -782,8 +782,8 @@
     "46": {
       "player": "matt shaw",
       "pitcher": "justin lawrence",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "45": {
       "player": "jared triolo",
@@ -1532,8 +1532,8 @@
     "27": {
       "player": "chandler simpson",
       "pitcher": "jose berrios",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "bob seymour",
@@ -1693,6 +1693,12 @@
     }
   },
   "sea @ kc": {
+    "25": {
+      "player": "dominic canzone",
+      "pitcher": "michael wacha",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "24": {
       "player": "eugenio suarez",
       "pitcher": "michael wacha",
@@ -1949,12 +1955,6 @@
     }
   },
   "nyy @ min": {
-    "25": {
-      "player": "ryan mcmahon",
-      "pitcher": "zebby matthews",
-      "result": "In play, no out",
-      "pitch": "Cutter"
-    },
     "24": {
       "player": "james outman",
       "pitcher": "cam schlittler",
@@ -2220,8 +2220,8 @@
     "18": {
       "player": "brendan donovan",
       "pitcher": "andrew abbott",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "nathan church",
