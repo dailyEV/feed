@@ -2530,7 +2530,7 @@
       "player": "josh lowe",
       "pitcher": "brendon little",
       "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "andres gimenez",
@@ -2933,7 +2933,7 @@
     "69": {
       "player": "salvador perez",
       "pitcher": "caleb ferguson",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -4118,6 +4118,12 @@
     }
   },
   "laa @ mil": {
+    "63": {
+      "player": "mike trout",
+      "pitcher": "chad patrick",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "62": {
       "player": "oswald peraza",
       "pitcher": "chad patrick",
@@ -5147,8 +5153,8 @@
     "43": {
       "player": "joey wiemer",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "42": {
       "player": "dane myers",
@@ -5404,12 +5410,6 @@
     }
   },
   "sf @ ari": {
-    "10": {
-      "player": "ketel marte",
-      "pitcher": "tristan beck",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "9": {
       "player": "geraldo perdomo",
       "pitcher": "tristan beck",
