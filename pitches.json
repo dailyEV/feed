@@ -1000,8 +1000,8 @@
     "41": {
       "player": "rob refsnyder",
       "pitcher": "mitch spence",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "40": {
       "player": "trevor story",
@@ -1442,7 +1442,7 @@
     "19": {
       "player": "jake mangum",
       "pitcher": "jose berrios",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -1555,6 +1555,12 @@
     }
   },
   "sea @ kc": {
+    "19": {
+      "player": "kyle isbel",
+      "pitcher": "logan gilbert",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "18": {
       "player": "carter jensen",
       "pitcher": "logan gilbert",
@@ -1668,7 +1674,7 @@
     "14": {
       "player": "lenyn sosa",
       "pitcher": "dean kremer",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "13": {
@@ -1751,6 +1757,12 @@
     }
   },
   "nyy @ min": {
+    "19": {
+      "player": "cody bellinger",
+      "pitcher": "zebby matthews",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "18": {
       "player": "ben rice",
       "pitcher": "zebby matthews",
@@ -2030,7 +2042,7 @@
     "1": {
       "player": "josh smith",
       "pitcher": "aj blubaugh",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     }
   },
