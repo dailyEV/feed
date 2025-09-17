@@ -476,6 +476,12 @@
     }
   },
   "atl-gm2 @ wsh-gm2": {
+    "41": {
+      "player": "jacob young",
+      "pitcher": "chris sale",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "40": {
       "player": "marcell ozuna",
       "pitcher": "jackson rutledge",
@@ -2571,7 +2577,7 @@
     "76": {
       "player": "chandler simpson",
       "pitcher": "seranthony dominguez",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "75": {
@@ -3918,11 +3924,17 @@
     }
   },
   "nyy @ min": {
+    "77": {
+      "player": "byron buxton",
+      "pitcher": "devin williams",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "76": {
       "player": "james outman",
       "pitcher": "devin williams",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "75": {
       "player": "ryan fitzgerald",
@@ -4376,11 +4388,17 @@
     }
   },
   "laa @ mil": {
-    "73": {
-      "player": "jo adell",
+    "74": {
+      "player": "logan ohoppe",
       "pitcher": "joel payamps",
       "result": "Ball",
       "pitch": "Slider"
+    },
+    "73": {
+      "player": "jo adell",
+      "pitcher": "joel payamps",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "72": {
       "player": "taylor ward",
@@ -5809,7 +5827,7 @@
     "21": {
       "player": "jake mccarthy",
       "pitcher": "tristan beck",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "20": {
