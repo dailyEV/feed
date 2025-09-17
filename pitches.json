@@ -1352,6 +1352,12 @@
     }
   },
   "ath @ bos": {
+    "64": {
+      "player": "carlos cortes",
+      "pitcher": "steven matz",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "63": {
       "player": "tyler soderstrom",
       "pitcher": "steven matz",
@@ -2599,7 +2605,7 @@
     "41": {
       "player": "coby mayo",
       "pitcher": "fraser ellard",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -3137,7 +3143,7 @@
     "40": {
       "player": "bryce teodosio",
       "pitcher": "freddy peralta",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -3376,11 +3382,17 @@
     }
   },
   "cin @ stl": {
+    "40": {
+      "player": "alec burleson",
+      "pitcher": "andrew abbott",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "39": {
       "player": "nolan arenado",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "38": {
       "player": "ivan herrera",
@@ -3615,8 +3627,8 @@
     "29": {
       "player": "josh jung",
       "pitcher": "colton gordon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "28": {
       "player": "kyle higashioka",
