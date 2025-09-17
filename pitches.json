@@ -480,7 +480,7 @@
     "49": {
       "player": "riley greene",
       "pitcher": "matt festa",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Sweeper"
     },
     "48": {
@@ -1666,7 +1666,7 @@
     "22": {
       "player": "josh naylor",
       "pitcher": "michael wacha",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "21": {
@@ -2041,11 +2041,17 @@
     }
   },
   "laa @ mil": {
+    "19": {
+      "player": "sal frelick",
+      "pitcher": "caden dana",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "joey ortiz",
       "pitcher": "caden dana",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "17": {
       "player": "blake perkins",
