@@ -477,12 +477,6 @@
   },
   "atl-gm2 @ wsh-gm2": {},
   "cle @ det": {
-    "52": {
-      "player": "parker meadows",
-      "pitcher": "erik sabrowski",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "51": {
       "player": "dillon dingler",
       "pitcher": "matt festa",
@@ -1368,8 +1362,8 @@
     "37": {
       "player": "ryan ohearn",
       "pitcher": "sean manaea",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "36": {
       "player": "pete alonso",
@@ -1759,6 +1753,12 @@
     }
   },
   "sea @ kc": {
+    "27": {
+      "player": "jp crawford",
+      "pitcher": "daniel lynch",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "26": {
       "player": "victor robles",
       "pitcher": "michael wacha",
@@ -2048,7 +2048,7 @@
     "28": {
       "player": "trent grisham",
       "pitcher": "zebby matthews",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "27": {
@@ -2218,8 +2218,8 @@
     "21": {
       "player": "oswald peraza",
       "pitcher": "freddy peralta",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "20": {
       "player": "jackson chourio",
