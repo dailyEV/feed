@@ -830,7 +830,7 @@
     "58": {
       "player": "matt shaw",
       "pitcher": "carmen mlodzinski",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "57": {
@@ -1171,6 +1171,12 @@
     }
   },
   "ath @ bos": {
+    "50": {
+      "player": "lawrence butler",
+      "pitcher": "justin wilson",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "49": {
       "player": "brett harris",
       "pitcher": "greg weissert",
@@ -1924,8 +1930,8 @@
     "36": {
       "player": "josh naylor",
       "pitcher": "daniel lynch",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "35": {
       "player": "julio rodriguez",
@@ -2142,7 +2148,7 @@
     "29": {
       "player": "coby mayo",
       "pitcher": "shane smith",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "28": {
@@ -2318,7 +2324,7 @@
     "36": {
       "player": "jazz chisholm",
       "pitcher": "cody laweryson",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "35": {
@@ -2712,7 +2718,7 @@
     "28": {
       "player": "sal stewart",
       "pitcher": "michael mcgreevy",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "27": {
@@ -2882,8 +2888,8 @@
     "18": {
       "player": "cody freeman",
       "pitcher": "aj blubaugh",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "17": {
       "player": "jesus sanchez",
