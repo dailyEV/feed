@@ -583,7 +583,7 @@
     "70": {
       "player": "brayan rocchio",
       "pitcher": "rafael montero",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "69": {
@@ -1873,8 +1873,8 @@
     "57": {
       "player": "mark vientos",
       "pitcher": "bradgley rodriguez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "56": {
       "player": "brandon nimmo",
@@ -2217,8 +2217,8 @@
     "49": {
       "player": "andres gimenez",
       "pitcher": "kevin kelly",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "josh lowe",
@@ -2513,8 +2513,8 @@
     "53": {
       "player": "josh naylor",
       "pitcher": "luinder avila",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "julio rodriguez",
@@ -2833,8 +2833,8 @@
     "47": {
       "player": "jackson holliday",
       "pitcher": "fraser ellard",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "dylan carlson",
@@ -3694,6 +3694,12 @@
     }
   },
   "cin @ stl": {
+    "45": {
+      "player": "sal stewart",
+      "pitcher": "michael mcgreevy",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "noelvi marte",
       "pitcher": "michael mcgreevy",
