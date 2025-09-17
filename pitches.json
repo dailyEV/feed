@@ -1084,8 +1084,8 @@
     "45": {
       "player": "nick kurtz",
       "pitcher": "connelly early",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "44": {
       "player": "jacob wilson",
@@ -2030,8 +2030,8 @@
     "28": {
       "player": "trent grisham",
       "pitcher": "zebby matthews",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "austin wells",
@@ -2322,8 +2322,8 @@
     "19": {
       "player": "matt mclain",
       "pitcher": "michael mcgreevy",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "18": {
       "player": "brendan donovan",
@@ -2435,6 +2435,12 @@
     }
   },
   "tex @ hou": {
+    "10": {
+      "player": "kyle higashioka",
+      "pitcher": "aj blubaugh",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "9": {
       "player": "joc pederson",
       "pitcher": "aj blubaugh",
