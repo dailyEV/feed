@@ -3727,7 +3727,7 @@
     "75": {
       "player": "jackson merrill",
       "pitcher": "ryne stanek",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "74": {
@@ -4179,8 +4179,8 @@
     "64": {
       "player": "salvador perez",
       "pitcher": "matt brash",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "63": {
       "player": "eugenio suarez",
@@ -4565,7 +4565,7 @@
     "67": {
       "player": "ryan mcmahon",
       "pitcher": "cole sands",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Splitter"
     },
     "66": {
@@ -4969,8 +4969,8 @@
     "67": {
       "player": "jo adell",
       "pitcher": "abner uribe",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "66": {
       "player": "taylor ward",
@@ -5684,10 +5684,16 @@
     }
   },
   "mia @ col": {
+    "21": {
+      "player": "javier sanoja",
+      "pitcher": "mccade brown",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "20": {
       "player": "troy johnston",
       "pitcher": "mccade brown",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "19": {
