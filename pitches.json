@@ -3,8 +3,8 @@
     "68": {
       "player": "steven kwan",
       "pitcher": "tyler holton",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "67": {
       "player": "riley greene",
@@ -760,11 +760,17 @@
     }
   },
   "tor @ tb": {
-    "61": {
-      "player": "hunter feduccia",
+    "62": {
+      "player": "carson williams",
       "pitcher": "seranthony dominguez",
       "result": "Ball",
       "pitch": "Sweeper"
+    },
+    "61": {
+      "player": "hunter feduccia",
+      "pitcher": "seranthony dominguez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "tyler heineman",
@@ -1128,11 +1134,17 @@
     }
   },
   "ath @ bos": {
+    "57": {
+      "player": "nate eaton",
+      "pitcher": "michael kelly",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "56": {
       "player": "david hamilton",
       "pitcher": "michael kelly",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "55": {
       "player": "tyler soderstrom",
@@ -1729,8 +1741,8 @@
     "13": {
       "player": "javier sanoja",
       "pitcher": "tanner gordon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "12": {
       "player": "dane myers",
