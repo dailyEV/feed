@@ -1,5 +1,11 @@
 {
   "cle @ det": {
+    "64": {
+      "player": "jahmai jones",
+      "pitcher": "kolby allard",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "nolan jones",
       "pitcher": "tyler holton",
@@ -383,8 +389,8 @@
     "54": {
       "player": "pete alonso",
       "pitcher": "ron marinaccio",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "53": {
       "player": "juan soto",
@@ -1349,8 +1355,8 @@
     "37": {
       "player": "randy arozarena",
       "pitcher": "stephen kolek",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "36": {
       "player": "jp crawford",
@@ -1570,10 +1576,16 @@
     }
   },
   "mia @ col": {
+    "7": {
+      "player": "jordan beck",
+      "pitcher": "sandy alcantara",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "hunter goodman",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "5": {
