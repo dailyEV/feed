@@ -3203,7 +3203,7 @@
     "54": {
       "player": "chandler simpson",
       "pitcher": "yariel rodriguez",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -3526,6 +3526,12 @@
     }
   },
   "sd @ nym": {
+    "64": {
+      "player": "juan soto",
+      "pitcher": "mason miller",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "francisco lindor",
       "pitcher": "jeremiah estrada",
@@ -4827,8 +4833,8 @@
     "37": {
       "player": "cody freeman",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "jonah heim",
@@ -5048,12 +5054,6 @@
     }
   },
   "mia @ col": {
-    "7": {
-      "player": "jordan beck",
-      "pitcher": "ryan weathers",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "6": {
       "player": "hunter goodman",
       "pitcher": "ryan weathers",
