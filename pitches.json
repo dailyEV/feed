@@ -2383,7 +2383,7 @@
     "40": {
       "player": "zach mckinstry",
       "pitcher": "gavin williams",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "39": {
@@ -2619,7 +2619,7 @@
     "40": {
       "player": "jacob wilson",
       "pitcher": "lucas giolito",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "39": {
@@ -2861,8 +2861,8 @@
     "18": {
       "player": "george springer",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "17": {
       "player": "myles straw",
@@ -3260,6 +3260,12 @@
     }
   },
   "nyy @ min": {
+    "16": {
+      "player": "edouard julien",
+      "pitcher": "luis gil",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "royce lewis",
       "pitcher": "luis gil",
