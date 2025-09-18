@@ -2383,7 +2383,7 @@
     "67": {
       "player": "riley greene",
       "pitcher": "jakob junis",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "66": {
@@ -2781,7 +2781,7 @@
     "69": {
       "player": "carlos narvaez",
       "pitcher": "justin sterner",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -3191,8 +3191,8 @@
     "51": {
       "player": "nick fortes",
       "pitcher": "yariel rodriguez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "50": {
       "player": "isiah kiner falefa",
@@ -3496,6 +3496,12 @@
     }
   },
   "sd @ nym": {
+    "63": {
+      "player": "francisco lindor",
+      "pitcher": "jeremiah estrada",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "62": {
       "player": "cedric mullins",
       "pitcher": "jeremiah estrada",
@@ -4169,7 +4175,7 @@
     "51": {
       "player": "ryan mcmahon",
       "pitcher": "pierson ohl",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -4477,7 +4483,7 @@
     "51": {
       "player": "denzer guzman",
       "pitcher": "erick fedde",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "50": {
@@ -4994,12 +5000,6 @@
     }
   },
   "mia @ col": {
-    "5": {
-      "player": "tyler freeman",
-      "pitcher": "ryan weathers",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "4": {
       "player": "otto lopez",
       "pitcher": "mccade brown",
