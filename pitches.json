@@ -2383,8 +2383,8 @@
     "38": {
       "player": "kyle manzardo",
       "pitcher": "jack flaherty",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "36": {
       "player": "george valera",
@@ -2604,6 +2604,12 @@
     }
   },
   "ath @ bos": {
+    "38": {
+      "player": "brent rooker",
+      "pitcher": "lucas giolito",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "shea langeliers",
       "pitcher": "lucas giolito",
@@ -2923,7 +2929,7 @@
     "29": {
       "player": "brandon nimmo",
       "pitcher": "nick pivetta",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "28": {
@@ -3096,6 +3102,12 @@
     }
   },
   "sea @ kc": {
+    "15": {
+      "player": "jac caglianone",
+      "pitcher": "bryce miller",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "14": {
       "player": "victor robles",
       "pitcher": "cole ragans",
@@ -3182,6 +3194,12 @@
     }
   },
   "nyy @ min": {
+    "14": {
+      "player": "brooks lee",
+      "pitcher": "luis gil",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "13": {
       "player": "matt wallner",
       "pitcher": "luis gil",
@@ -3262,6 +3280,18 @@
     }
   },
   "laa @ mil": {
+    "14": {
+      "player": "caleb durbin",
+      "pitcher": "jose soriano",
+      "result": "Foul Bunt",
+      "pitch": "Sinker"
+    },
+    "13": {
+      "player": "brice turang",
+      "pitcher": "jose soriano",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "william contreras",
       "pitcher": "jose soriano",
