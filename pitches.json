@@ -3329,7 +3329,7 @@
     "65": {
       "player": "ty france",
       "pitcher": "pete fairbanks",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -4523,7 +4523,7 @@
     "65": {
       "player": "paul goldschmidt",
       "pitcher": "cole sands",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "64": {
@@ -4915,7 +4915,7 @@
     "65": {
       "player": "mike trout",
       "pitcher": "abner uribe",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "64": {
@@ -5304,6 +5304,12 @@
     }
   },
   "tex @ hou": {
+    "51": {
+      "player": "josh jung",
+      "pitcher": "craig kimbrel",
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
+    },
     "50": {
       "player": "alejandro osuna",
       "pitcher": "craig kimbrel",
