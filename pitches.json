@@ -2745,8 +2745,8 @@
     "60": {
       "player": "alex bregman",
       "pitcher": "justin sterner",
-      "result": "Ball In Dirt",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "trevor story",
@@ -3107,7 +3107,7 @@
     "41": {
       "player": "davis schneider",
       "pitcher": "ian seymour",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "40": {
@@ -3352,6 +3352,12 @@
     }
   },
   "sd @ nym": {
+    "55": {
+      "player": "manny machado",
+      "pitcher": "dom hamel",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "54": {
       "player": "brett baty",
       "pitcher": "adrian morejon",
@@ -4168,6 +4174,12 @@
     }
   },
   "laa @ mil": {
+    "42": {
+      "player": "jo adell",
+      "pitcher": "nick mears",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "41": {
       "player": "taylor ward",
       "pitcher": "nick mears",
@@ -4420,7 +4432,7 @@
       "player": "carlos correa",
       "pitcher": "jacob degrom",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "rowdy tellez",
