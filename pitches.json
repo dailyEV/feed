@@ -3,8 +3,8 @@
     "55": {
       "player": "kyle manzardo",
       "pitcher": "troy melton",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "54": {
       "player": "jose ramirez",
@@ -607,8 +607,8 @@
     "48": {
       "player": "chandler simpson",
       "pitcher": "eric lauer",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "47": {
       "player": "bob seymour",
@@ -894,6 +894,12 @@
     }
   },
   "ath @ bos": {
+    "39": {
+      "player": "nick kurtz",
+      "pitcher": "payton tolle",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "38": {
       "player": "brent rooker",
       "pitcher": "payton tolle",
