@@ -2380,11 +2380,17 @@
     }
   },
   "cle @ det": {
+    "76": {
+      "player": "colt keith",
+      "pitcher": "cade smith",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "75": {
       "player": "dillon dingler",
       "pitcher": "cade smith",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "74": {
       "player": "gabriel arias",
@@ -4089,8 +4095,8 @@
     "60": {
       "player": "cal raleigh",
       "pitcher": "lucas erceg",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "59": {
       "player": "randy arozarena",
@@ -4448,6 +4454,12 @@
     }
   },
   "nyy @ min": {
+    "64": {
+      "player": "james outman",
+      "pitcher": "devin williams",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "luke keaschall",
       "pitcher": "devin williams",
@@ -5208,11 +5220,17 @@
     }
   },
   "tex @ hou": {
+    "49": {
+      "player": "jesus sanchez",
+      "pitcher": "robert garcia",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "yainer diaz",
       "pitcher": "robert garcia",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "47": {
       "player": "victor caratini",
@@ -5501,8 +5519,8 @@
     "18": {
       "player": "hunter goodman",
       "pitcher": "ryan weathers",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "tyler freeman",
