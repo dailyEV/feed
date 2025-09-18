@@ -2775,7 +2775,7 @@
     "67": {
       "player": "rob refsnyder",
       "pitcher": "justin sterner",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -3852,6 +3852,12 @@
     }
   },
   "sea @ kc": {
+    "48": {
+      "player": "carter jensen",
+      "pitcher": "caleb ferguson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "jac caglianone",
       "pitcher": "caleb ferguson",
@@ -4728,11 +4734,17 @@
     }
   },
   "tex @ hou": {
+    "35": {
+      "player": "zach cole",
+      "pitcher": "jacob degrom",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "34": {
       "player": "jake meyers",
       "pitcher": "jacob degrom",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "jesus sanchez",
@@ -4937,8 +4949,8 @@
     "4": {
       "player": "otto lopez",
       "pitcher": "mccade brown",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "3": {
       "player": "liam hicks",
