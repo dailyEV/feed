@@ -3173,8 +3173,8 @@
     "49": {
       "player": "addison barger",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "48": {
       "player": "ernie clement",
@@ -4698,10 +4698,16 @@
     }
   },
   "tex @ hou": {
+    "34": {
+      "player": "jake meyers",
+      "pitcher": "jacob degrom",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "33": {
       "player": "jesus sanchez",
       "pitcher": "jacob degrom",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "32": {
@@ -4898,6 +4904,12 @@
     }
   },
   "mia @ col": {
+    "3": {
+      "player": "liam hicks",
+      "pitcher": "mccade brown",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "agustin ramirez",
       "pitcher": "mccade brown",
