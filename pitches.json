@@ -3751,7 +3751,7 @@
     "78": {
       "player": "francisco alvarez",
       "pitcher": "robert suarez",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "77": {
@@ -4218,6 +4218,12 @@
     }
   },
   "sea @ kc": {
+    "70": {
+      "player": "bobby witt",
+      "pitcher": "matt brash",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "69": {
       "player": "mike yastrzemski",
       "pitcher": "matt brash",
@@ -5478,11 +5484,17 @@
     }
   },
   "tex @ hou": {
+    "56": {
+      "player": "carlos correa",
+      "pitcher": "shawn armstrong",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "55": {
       "player": "jeremy pena",
       "pitcher": "shawn armstrong",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "54": {
       "player": "cam smith",
