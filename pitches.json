@@ -3041,7 +3041,7 @@
     "38": {
       "player": "chandler simpson",
       "pitcher": "kevin gausman",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "37": {
@@ -3271,8 +3271,8 @@
     "51": {
       "player": "luis arraez",
       "pitcher": "dom hamel",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "50": {
       "player": "fernando tatis",
@@ -3579,7 +3579,7 @@
     "35": {
       "player": "mike yastrzemski",
       "pitcher": "bryce miller",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "34": {
@@ -4000,6 +4000,12 @@
     }
   },
   "laa @ mil": {
+    "35": {
+      "player": "bryce teodosio",
+      "pitcher": "brandon woodruff",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "34": {
       "player": "sebastian  rivero",
       "pitcher": "brandon woodruff",
