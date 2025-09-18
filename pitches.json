@@ -4712,11 +4712,17 @@
     }
   },
   "nyy @ min": {
+    "80": {
+      "player": "austin martin",
+      "pitcher": "camilo doval",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "79": {
       "player": "byron buxton",
       "pitcher": "camilo doval",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "78": {
       "player": "paul goldschmidt",
@@ -5598,6 +5604,12 @@
     }
   },
   "tex @ hou": {
+    "62": {
+      "player": "jose altuve",
+      "pitcher": "shawn armstrong",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "61": {
       "player": "dylan moore",
       "pitcher": "bryan king",
@@ -5969,7 +5981,7 @@
     "37": {
       "player": "agustin ramirez",
       "pitcher": "mccade brown",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "36": {
