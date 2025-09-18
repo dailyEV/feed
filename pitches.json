@@ -2383,8 +2383,8 @@
     "67": {
       "player": "riley greene",
       "pitcher": "jakob junis",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "66": {
       "player": "spencer torkelson",
@@ -3870,6 +3870,12 @@
     }
   },
   "sea @ kc": {
+    "49": {
+      "player": "tyler tolbert",
+      "pitcher": "caleb ferguson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "carter jensen",
       "pitcher": "caleb ferguson",
@@ -4163,7 +4169,7 @@
     "51": {
       "player": "ryan mcmahon",
       "pitcher": "pierson ohl",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -4468,11 +4474,17 @@
     }
   },
   "laa @ mil": {
+    "51": {
+      "player": "denzer guzman",
+      "pitcher": "erick fedde",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "50": {
       "player": "oswald peraza",
       "pitcher": "erick fedde",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "49": {
       "player": "christian moore",
@@ -4982,6 +4994,12 @@
     }
   },
   "mia @ col": {
+    "5": {
+      "player": "tyler freeman",
+      "pitcher": "ryan weathers",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "otto lopez",
       "pitcher": "mccade brown",
