@@ -607,8 +607,8 @@
     "48": {
       "player": "chandler simpson",
       "pitcher": "eric lauer",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "bob seymour",
@@ -897,8 +897,8 @@
     "38": {
       "player": "brent rooker",
       "pitcher": "payton tolle",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "lawrence butler",
@@ -1124,6 +1124,12 @@
     }
   },
   "sea @ kc": {
+    "24": {
+      "player": "josh naylor",
+      "pitcher": "stephen kolek",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "23": {
       "player": "julio rodriguez",
       "pitcher": "stephen kolek",
