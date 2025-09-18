@@ -2841,7 +2841,7 @@
     "87": {
       "player": "darell hernaiz",
       "pitcher": "zack kelly",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "86": {
@@ -4619,7 +4619,7 @@
     "71": {
       "player": "royce lewis",
       "pitcher": "luke weaver",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "70": {
@@ -5454,12 +5454,6 @@
     }
   },
   "tex @ hou": {
-    "55": {
-      "player": "jeremy pena",
-      "pitcher": "shawn armstrong",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "54": {
       "player": "cam smith",
       "pitcher": "shawn armstrong",
@@ -5786,6 +5780,18 @@
     }
   },
   "mia @ col": {
+    "25": {
+      "player": "otto lopez",
+      "pitcher": "mccade brown",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
+    "24": {
+      "player": "liam hicks",
+      "pitcher": "mccade brown",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "agustin ramirez",
       "pitcher": "mccade brown",
