@@ -2380,12 +2380,6 @@
     }
   },
   "cle @ det": {
-    "34": {
-      "player": "brayan rocchio",
-      "pitcher": "jack flaherty",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "33": {
       "player": "cj kayfus",
       "pitcher": "jack flaherty",
@@ -3021,7 +3015,7 @@
     "11": {
       "player": "eugenio suarez",
       "pitcher": "cole ragans",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -3086,6 +3080,12 @@
     }
   },
   "nyy @ min": {
+    "9": {
+      "player": "paul goldschmidt",
+      "pitcher": "taj bradley",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "trevor larnach",
       "pitcher": "luis gil",
@@ -3139,8 +3139,8 @@
     "9": {
       "player": "oswald peraza",
       "pitcher": "brandon woodruff",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "8": {
       "player": "christian moore",
