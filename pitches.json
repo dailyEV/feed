@@ -3,8 +3,8 @@
     "62": {
       "player": "austin hedges",
       "pitcher": "troy melton",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "brayan rocchio",
@@ -685,7 +685,7 @@
     "53": {
       "player": "joey loperfido",
       "pitcher": "kevin kelly",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "52": {
@@ -1286,12 +1286,6 @@
     }
   },
   "sea @ kc": {
-    "32": {
-      "player": "jac caglianone",
-      "pitcher": "luis castillo",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "31": {
       "player": "adam frazier",
       "pitcher": "luis castillo",
@@ -1480,6 +1474,12 @@
     }
   },
   "mia @ col": {
+    "4": {
+      "player": "tyler freeman",
+      "pitcher": "sandy alcantara",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "3": {
       "player": "liam hicks",
       "pitcher": "tanner gordon",
