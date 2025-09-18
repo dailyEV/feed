@@ -2383,8 +2383,8 @@
     "63": {
       "player": "nolan jones",
       "pitcher": "bailey horn",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "62": {
       "player": "gabriel arias",
@@ -3134,6 +3134,12 @@
     }
   },
   "tor @ tb": {
+    "46": {
+      "player": "tristan gray",
+      "pitcher": "kevin gausman",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "45": {
       "player": "christopher morel",
       "pitcher": "kevin gausman",
@@ -4025,7 +4031,7 @@
     "46": {
       "player": "trevor larnach",
       "pitcher": "luis gil",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -4300,11 +4306,17 @@
     }
   },
   "laa @ mil": {
+    "45": {
+      "player": "brice turang",
+      "pitcher": "jose urena",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "44": {
       "player": "william contreras",
       "pitcher": "jose urena",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "christian yelich",
