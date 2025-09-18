@@ -2383,8 +2383,8 @@
     "64": {
       "player": "angel martinez",
       "pitcher": "jose urquidy",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "63": {
       "player": "nolan jones",
@@ -4647,8 +4647,8 @@
     "32": {
       "player": "josh jung",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "alejandro osuna",
@@ -4837,6 +4837,13 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "mia @ col": {},
+  "mia @ col": {
+    "1": {
+      "player": "jakob marsee",
+      "pitcher": "mccade brown",
+      "result": "Ball",
+      "pitch": "Curveball"
+    }
+  },
   "phi @ lad": {}
 }
