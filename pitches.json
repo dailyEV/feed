@@ -2380,6 +2380,12 @@
     }
   },
   "cle @ det": {
+    "51": {
+      "player": "dillon dingler",
+      "pitcher": "matt festa",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "50": {
       "player": "riley greene",
       "pitcher": "tim herrin",
@@ -2972,6 +2978,12 @@
     }
   },
   "tor @ tb": {
+    "30": {
+      "player": "tristan gray",
+      "pitcher": "kevin gausman",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "christopher morel",
       "pitcher": "kevin gausman",
@@ -3414,11 +3426,17 @@
     }
   },
   "sea @ kc": {
+    "30": {
+      "player": "josh naylor",
+      "pitcher": "jonathan bowlan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "eugenio suarez",
       "pitcher": "jonathan bowlan",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "jorge polanco",
@@ -3757,8 +3775,8 @@
     "28": {
       "player": "christian moore",
       "pitcher": "brandon woodruff",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "jo adell",
@@ -3927,8 +3945,8 @@
     "13": {
       "player": "alejandro osuna",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "12": {
       "player": "adolis garcia",
