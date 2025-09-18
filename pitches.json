@@ -2834,6 +2834,18 @@
     }
   },
   "tor @ tb": {
+    "18": {
+      "player": "george springer",
+      "pitcher": "ian seymour",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
+    "17": {
+      "player": "myles straw",
+      "pitcher": "ian seymour",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "isiah kiner falefa",
       "pitcher": "ian seymour",
@@ -2932,11 +2944,17 @@
     }
   },
   "sd @ nym": {
+    "30": {
+      "player": "starling marte",
+      "pitcher": "nick pivetta",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "29": {
       "player": "brandon nimmo",
       "pitcher": "nick pivetta",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "jose iglesias",
@@ -3383,7 +3401,14 @@
       "pitch": "Changeup"
     }
   },
-  "tex @ hou": {},
+  "tex @ hou": {
+    "1": {
+      "player": "josh smith",
+      "pitcher": "cristian javier",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "mia @ col": {},
   "phi @ lad": {}
 }
