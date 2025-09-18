@@ -3745,7 +3745,7 @@
     "77": {
       "player": "brett baty",
       "pitcher": "robert suarez",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "76": {
@@ -4206,6 +4206,12 @@
     }
   },
   "sea @ kc": {
+    "68": {
+      "player": "tyler tolbert",
+      "pitcher": "matt brash",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "67": {
       "player": "carter jensen",
       "pitcher": "matt brash",
@@ -5448,11 +5454,17 @@
     }
   },
   "tex @ hou": {
+    "55": {
+      "player": "jeremy pena",
+      "pitcher": "shawn armstrong",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "54": {
       "player": "cam smith",
       "pitcher": "shawn armstrong",
-      "result": "Foul Tip",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "53": {
       "player": "jake meyers",
