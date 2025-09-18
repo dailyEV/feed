@@ -2841,7 +2841,7 @@
     "82": {
       "player": "alex bregman",
       "pitcher": "elvis alvarado",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "81": {
@@ -3329,8 +3329,8 @@
     "65": {
       "player": "ty france",
       "pitcher": "pete fairbanks",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "alejandro kirk",
@@ -4149,8 +4149,8 @@
     "62": {
       "player": "jorge polanco",
       "pitcher": "lucas erceg",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "61": {
       "player": "julio rodriguez",
@@ -4523,8 +4523,8 @@
     "65": {
       "player": "paul goldschmidt",
       "pitcher": "cole sands",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "64": {
       "player": "james outman",
@@ -4912,6 +4912,12 @@
     }
   },
   "laa @ mil": {
+    "65": {
+      "player": "mike trout",
+      "pitcher": "abner uribe",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "joey ortiz",
       "pitcher": "jose urena",
@@ -5298,12 +5304,6 @@
     }
   },
   "tex @ hou": {
-    "51": {
-      "player": "josh jung",
-      "pitcher": "craig kimbrel",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
-    },
     "50": {
       "player": "alejandro osuna",
       "pitcher": "craig kimbrel",
@@ -5609,8 +5609,8 @@
     "19": {
       "player": "jordan beck",
       "pitcher": "ryan weathers",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "hunter goodman",
