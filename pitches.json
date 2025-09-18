@@ -2383,8 +2383,8 @@
     "73": {
       "player": "bo naylor",
       "pitcher": "jose urquidy",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "72": {
       "player": "kyle manzardo",
@@ -3266,11 +3266,17 @@
     }
   },
   "tor @ tb": {
+    "59": {
+      "player": "nathan lukes",
+      "pitcher": "edwin uceta",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "george springer",
       "pitcher": "edwin uceta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "57": {
       "player": "joey loperfido",
@@ -3613,7 +3619,7 @@
     "67": {
       "player": "fernando tatis",
       "pitcher": "ryan helsley",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "66": {
@@ -5040,6 +5046,12 @@
     }
   },
   "tex @ hou": {
+    "43": {
+      "player": "wyatt langford",
+      "pitcher": "cristian javier",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "42": {
       "player": "christian walker",
       "pitcher": "jacob degrom",
