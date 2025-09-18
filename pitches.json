@@ -3299,7 +3299,7 @@
     "61": {
       "player": "tristan gray",
       "pitcher": "tommy nance",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "60": {
@@ -3661,8 +3661,8 @@
     "68": {
       "player": "luis arraez",
       "pitcher": "ryan helsley",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "67": {
       "player": "fernando tatis",
@@ -5438,6 +5438,12 @@
     }
   },
   "mia @ col": {
+    "17": {
+      "player": "tyler freeman",
+      "pitcher": "ryan weathers",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "orlando arcia",
       "pitcher": "ryan weathers",
