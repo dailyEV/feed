@@ -3188,18 +3188,6 @@
     }
   },
   "tor @ tb": {
-    "53": {
-      "player": "carson williams",
-      "pitcher": "yariel rodriguez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
-    "52": {
-      "player": "bob seymour",
-      "pitcher": "yariel rodriguez",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "51": {
       "player": "nick fortes",
       "pitcher": "yariel rodriguez",
@@ -3891,8 +3879,8 @@
     "49": {
       "player": "tyler tolbert",
       "pitcher": "caleb ferguson",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "carter jensen",
@@ -4184,10 +4172,16 @@
     }
   },
   "nyy @ min": {
+    "52": {
+      "player": "jose caballero",
+      "pitcher": "pierson ohl",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "ryan mcmahon",
       "pitcher": "pierson ohl",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "50": {
@@ -4495,7 +4489,7 @@
     "51": {
       "player": "denzer guzman",
       "pitcher": "erick fedde",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "50": {
@@ -4800,6 +4794,12 @@
     }
   },
   "tex @ hou": {
+    "37": {
+      "player": "cody freeman",
+      "pitcher": "cristian javier",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "jonah heim",
       "pitcher": "cristian javier",
@@ -5018,6 +5018,12 @@
     }
   },
   "mia @ col": {
+    "6": {
+      "player": "hunter goodman",
+      "pitcher": "ryan weathers",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "5": {
       "player": "tyler freeman",
       "pitcher": "ryan weathers",
