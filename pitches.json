@@ -2380,6 +2380,12 @@
     }
   },
   "cle @ det": {
+    "74": {
+      "player": "gabriel arias",
+      "pitcher": "chris paddack",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "73": {
       "player": "bo naylor",
       "pitcher": "jose urquidy",
@@ -2818,7 +2824,7 @@
       "player": "brent rooker",
       "pitcher": "aroldis chapman",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "77": {
       "player": "shea langeliers",
@@ -3631,8 +3637,8 @@
     "67": {
       "player": "fernando tatis",
       "pitcher": "ryan helsley",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "elias diaz",
@@ -4742,7 +4748,7 @@
       "player": "brice turang",
       "pitcher": "jose urena",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "59": {
       "player": "william contreras",
@@ -5100,11 +5106,17 @@
     }
   },
   "tex @ hou": {
+    "45": {
+      "player": "rowdy tellez",
+      "pitcher": "cristian javier",
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
+    },
     "44": {
       "player": "joc pederson",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "wyatt langford",
@@ -5369,8 +5381,8 @@
     "14": {
       "player": "kyle farmer",
       "pitcher": "ryan weathers",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "13": {
       "player": "blaine crim",
