@@ -2383,8 +2383,8 @@
     "62": {
       "player": "gabriel arias",
       "pitcher": "bailey horn",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "61": {
       "player": "gleyber torres",
@@ -2751,8 +2751,8 @@
     "63": {
       "player": "lawrence butler",
       "pitcher": "steven matz",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "62": {
       "player": "jacob wilson",
@@ -3742,7 +3742,7 @@
       "player": "adam frazier",
       "pitcher": "bryce miller",
       "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "pitch": "Splitter"
     },
     "42": {
       "player": "salvador perez",
@@ -3998,12 +3998,6 @@
     }
   },
   "nyy @ min": {
-    "44": {
-      "player": "byron buxton",
-      "pitcher": "luis gil",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "43": {
       "player": "jhonny pereda",
       "pitcher": "luis gil",
@@ -4264,6 +4258,12 @@
     }
   },
   "laa @ mil": {
+    "44": {
+      "player": "william contreras",
+      "pitcher": "jose urena",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "christian yelich",
       "pitcher": "jose urena",
@@ -4527,7 +4527,7 @@
     "28": {
       "player": "victor caratini",
       "pitcher": "jacob degrom",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "27": {
