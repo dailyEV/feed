@@ -5613,8 +5613,8 @@
     "64": {
       "player": "victor caratini",
       "pitcher": "phil maton",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "63": {
       "player": "christian walker",
@@ -5996,11 +5996,17 @@
     }
   },
   "mia @ col": {
+    "40": {
+      "player": "hunter goodman",
+      "pitcher": "ryan weathers",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "tyler freeman",
       "pitcher": "ryan weathers",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "38": {
       "player": "orlando arcia",
@@ -6232,6 +6238,12 @@
     }
   },
   "phi @ lad": {
+    "15": {
+      "player": "ben rortvedt",
+      "pitcher": "jesus luzardo",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "14": {
       "player": "enrique hernandez",
       "pitcher": "jesus luzardo",
