@@ -2841,8 +2841,8 @@
     "87": {
       "player": "darell hernaiz",
       "pitcher": "zack kelly",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "86": {
       "player": "colby thomas",
@@ -3742,10 +3742,16 @@
     }
   },
   "sd @ nym": {
+    "78": {
+      "player": "francisco alvarez",
+      "pitcher": "robert suarez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "77": {
       "player": "brett baty",
       "pitcher": "robert suarez",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "76": {
@@ -4206,12 +4212,6 @@
     }
   },
   "sea @ kc": {
-    "69": {
-      "player": "mike yastrzemski",
-      "pitcher": "matt brash",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "68": {
       "player": "tyler tolbert",
       "pitcher": "matt brash",
@@ -4622,6 +4622,12 @@
     }
   },
   "nyy @ min": {
+    "72": {
+      "player": "edouard julien",
+      "pitcher": "luke weaver",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "71": {
       "player": "royce lewis",
       "pitcher": "luke weaver",
@@ -5463,8 +5469,8 @@
     "55": {
       "player": "jeremy pena",
       "pitcher": "shawn armstrong",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "54": {
       "player": "cam smith",
@@ -5943,5 +5949,12 @@
       "pitch": "Sinker"
     }
   },
-  "phi @ lad": {}
+  "phi @ lad": {
+    "1": {
+      "player": "harrison bader",
+      "pitcher": "blake snell",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    }
+  }
 }
