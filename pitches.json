@@ -2909,8 +2909,8 @@
     "22": {
       "player": "junior caminero",
       "pitcher": "kevin gausman",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "21": {
       "player": "yandy diaz",
@@ -3040,6 +3040,12 @@
     }
   },
   "sd @ nym": {
+    "37": {
+      "player": "luis arraez",
+      "pitcher": "david peterson",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "36": {
       "player": "fernando tatis",
       "pitcher": "david peterson",
@@ -3258,6 +3264,12 @@
     }
   },
   "sea @ kc": {
+    "23": {
+      "player": "vinnie pasquantino",
+      "pitcher": "bryce miller",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "22": {
       "player": "bobby witt",
       "pitcher": "bryce miller",
@@ -3396,7 +3408,7 @@
       "player": "cody bellinger",
       "pitcher": "taj bradley",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "21": {
       "player": "aaron judge",
@@ -3526,10 +3538,16 @@
     }
   },
   "laa @ mil": {
+    "19": {
+      "player": "jackson chourio",
+      "pitcher": "connor brogdon",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "18": {
       "player": "sal frelick",
       "pitcher": "connor brogdon",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "17": {
@@ -3639,8 +3657,8 @@
     "6": {
       "player": "carlos correa",
       "pitcher": "jacob degrom",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "5": {
       "player": "jeremy pena",
