@@ -2383,8 +2383,8 @@
     "61": {
       "player": "gleyber torres",
       "pitcher": "erik sabrowski",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "60": {
       "player": "andy ibanez",
@@ -3104,6 +3104,12 @@
     }
   },
   "tor @ tb": {
+    "42": {
+      "player": "vladimir guerrero",
+      "pitcher": "ian seymour",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "davis schneider",
       "pitcher": "ian seymour",
@@ -3935,7 +3941,7 @@
     "42": {
       "player": "jasson dominguez",
       "pitcher": "travis adams",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "41": {
@@ -4190,7 +4196,7 @@
       "player": "jo adell",
       "pitcher": "nick mears",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "41": {
       "player": "taylor ward",
@@ -4440,10 +4446,16 @@
     }
   },
   "tex @ hou": {
+    "26": {
+      "player": "jose altuve",
+      "pitcher": "jacob degrom",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "carlos correa",
       "pitcher": "jacob degrom",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "24": {
