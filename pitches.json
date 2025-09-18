@@ -2823,7 +2823,7 @@
     "80": {
       "player": "jacob wilson",
       "pitcher": "aroldis chapman",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "79": {
@@ -3299,8 +3299,8 @@
     "62": {
       "player": "everson pereira",
       "pitcher": "tommy nance",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "61": {
       "player": "tristan gray",
@@ -4433,8 +4433,8 @@
     "63": {
       "player": "luke keaschall",
       "pitcher": "devin williams",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "trevor larnach",
@@ -4810,12 +4810,6 @@
     }
   },
   "laa @ mil": {
-    "62": {
-      "player": "jake bauers",
-      "pitcher": "jose urena",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "61": {
       "player": "caleb durbin",
       "pitcher": "jose urena",
@@ -5184,6 +5178,18 @@
     }
   },
   "tex @ hou": {
+    "48": {
+      "player": "yainer diaz",
+      "pitcher": "robert garcia",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "47": {
+      "player": "victor caratini",
+      "pitcher": "robert garcia",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "adolis garcia",
       "pitcher": "cristian javier",
