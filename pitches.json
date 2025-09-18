@@ -2383,7 +2383,7 @@
     "48": {
       "player": "kerry carpenter",
       "pitcher": "tim herrin",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "47": {
@@ -3792,11 +3792,17 @@
     }
   },
   "tex @ hou": {
+    "10": {
+      "player": "yainer diaz",
+      "pitcher": "jacob degrom",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "9": {
       "player": "victor caratini",
       "pitcher": "jacob degrom",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Curveball"
     },
     "8": {
       "player": "christian walker",
