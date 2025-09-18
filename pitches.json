@@ -365,8 +365,8 @@
     "50": {
       "player": "ramon laureano",
       "pitcher": "brooks raley",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "49": {
       "player": "jackson merrill",
@@ -667,8 +667,8 @@
     "52": {
       "player": "addison barger",
       "pitcher": "kevin kelly",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "51": {
       "player": "vladimir guerrero",
@@ -1438,11 +1438,17 @@
     }
   },
   "mia @ col": {
+    "3": {
+      "player": "liam hicks",
+      "pitcher": "tanner gordon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "agustin ramirez",
       "pitcher": "tanner gordon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "1": {
       "player": "jakob marsee",
