@@ -4221,8 +4221,8 @@
     "70": {
       "player": "bobby witt",
       "pitcher": "matt brash",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "69": {
       "player": "mike yastrzemski",
@@ -4640,6 +4640,12 @@
     }
   },
   "nyy @ min": {
+    "73": {
+      "player": "kody clemens",
+      "pitcher": "luke weaver",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "72": {
       "player": "edouard julien",
       "pitcher": "luke weaver",
@@ -5484,12 +5490,6 @@
     }
   },
   "tex @ hou": {
-    "56": {
-      "player": "carlos correa",
-      "pitcher": "shawn armstrong",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "55": {
       "player": "jeremy pena",
       "pitcher": "shawn armstrong",
@@ -5977,7 +5977,7 @@
     "2": {
       "player": "kyle schwarber",
       "pitcher": "blake snell",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "1": {
