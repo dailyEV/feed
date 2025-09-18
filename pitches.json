@@ -2760,6 +2760,12 @@
     }
   },
   "ath @ bos": {
+    "65": {
+      "player": "masataka yoshida",
+      "pitcher": "justin sterner",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "colby thomas",
       "pitcher": "garrett whitlock",
@@ -3146,11 +3152,17 @@
     }
   },
   "tor @ tb": {
+    "49": {
+      "player": "addison barger",
+      "pitcher": "ian seymour",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "48": {
       "player": "ernie clement",
       "pitcher": "ian seymour",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "47": {
       "player": "everson pereira",
@@ -4079,8 +4091,8 @@
     "48": {
       "player": "james outman",
       "pitcher": "luis gil",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "luke keaschall",
@@ -4847,7 +4859,7 @@
     "1": {
       "player": "jakob marsee",
       "pitcher": "mccade brown",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     }
   },
