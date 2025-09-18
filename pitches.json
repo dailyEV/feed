@@ -4257,7 +4257,7 @@
     "74": {
       "player": "dominic canzone",
       "pitcher": "carlos estevez",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "73": {
@@ -5574,6 +5574,12 @@
     }
   },
   "tex @ hou": {
+    "60": {
+      "player": "kyle higashioka",
+      "pitcher": "steven okert",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "59": {
       "player": "wyatt langford",
       "pitcher": "steven okert",
@@ -5930,6 +5936,12 @@
     }
   },
   "mia @ col": {
+    "33": {
+      "player": "heriberto hernandez",
+      "pitcher": "mccade brown",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "connor norby",
       "pitcher": "mccade brown",
@@ -6124,11 +6136,17 @@
     }
   },
   "phi @ lad": {
+    "9": {
+      "player": "max kepler",
+      "pitcher": "blake snell",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "8": {
       "player": "nick castellanos",
       "pitcher": "blake snell",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "7": {
       "player": "jt realmuto",
