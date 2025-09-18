@@ -2976,7 +2976,7 @@
       "player": "christopher morel",
       "pitcher": "kevin gausman",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "28": {
       "player": "addison barger",
@@ -3151,7 +3151,7 @@
     "44": {
       "player": "juan soto",
       "pitcher": "nick pivetta",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Curveball"
     },
     "43": {
@@ -3414,12 +3414,6 @@
     }
   },
   "sea @ kc": {
-    "29": {
-      "player": "eugenio suarez",
-      "pitcher": "jonathan bowlan",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "28": {
       "player": "jorge polanco",
       "pitcher": "cole ragans",
@@ -3590,6 +3584,12 @@
     }
   },
   "nyy @ min": {
+    "27": {
+      "player": "jazz chisholm",
+      "pitcher": "taj bradley",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "26": {
       "player": "luke keaschall",
       "pitcher": "luis gil",
@@ -3748,11 +3748,17 @@
     }
   },
   "laa @ mil": {
+    "27": {
+      "player": "jo adell",
+      "pitcher": "brandon woodruff",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "26": {
       "player": "taylor ward",
       "pitcher": "brandon woodruff",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "25": {
       "player": "brice turang",
