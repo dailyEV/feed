@@ -3,7 +3,7 @@
     "2": {
       "player": "angel martinez",
       "pitcher": "tarik skubal",
-      "result": "Foul",
+      "result": "Foul Bunt",
       "pitch": "Slider"
     },
     "1": {
@@ -14,6 +14,12 @@
     }
   },
   "sd @ nym": {
+    "2": {
+      "player": "luis arraez",
+      "pitcher": "jonah tong",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "fernando tatis",
       "pitcher": "jonah tong",
@@ -22,11 +28,17 @@
     }
   },
   "tor @ tb": {
+    "2": {
+      "player": "nathan lukes",
+      "pitcher": "shane baz",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "george springer",
       "pitcher": "shane baz",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     }
   },
   "ath @ bos": {},
