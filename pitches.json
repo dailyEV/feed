@@ -3712,11 +3712,17 @@
     }
   },
   "sd @ nym": {
+    "73": {
+      "player": "gavin sheets",
+      "pitcher": "ryne stanek",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "72": {
       "player": "manny machado",
       "pitcher": "ryne stanek",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "71": {
       "player": "jeff mcneil",
@@ -4146,6 +4152,12 @@
     }
   },
   "sea @ kc": {
+    "63": {
+      "player": "eugenio suarez",
+      "pitcher": "lucas erceg",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "jorge polanco",
       "pitcher": "lucas erceg",
@@ -4523,7 +4535,7 @@
     "65": {
       "player": "paul goldschmidt",
       "pitcher": "cole sands",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "64": {
@@ -4912,6 +4924,12 @@
     }
   },
   "laa @ mil": {
+    "66": {
+      "player": "taylor ward",
+      "pitcher": "abner uribe",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "65": {
       "player": "mike trout",
       "pitcher": "abner uribe",
@@ -5307,8 +5325,8 @@
     "51": {
       "player": "josh jung",
       "pitcher": "craig kimbrel",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "50": {
       "player": "alejandro osuna",
