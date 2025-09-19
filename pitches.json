@@ -1,5 +1,11 @@
 {
   "chc @ cin": {
+    "10": {
+      "player": "dansby swanson",
+      "pitcher": "nick lodolo",
+      "result": "Foul Tip",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "justin turner",
       "pitcher": "nick lodolo",
@@ -56,6 +62,18 @@
     }
   },
   "ath @ pit": {
+    "16": {
+      "player": "jared triolo",
+      "pitcher": "luis severino",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
+    "15": {
+      "player": "henry davis",
+      "pitcher": "luis severino",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "nick yorke",
       "pitcher": "luis severino",
@@ -145,8 +163,8 @@
     "13": {
       "player": "nacho alvarez",
       "pitcher": "charlie morton",
-      "result": "In play, no out",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "riley greene",
