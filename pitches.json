@@ -1,11 +1,25 @@
 {
-  "chc @ cin": {},
-  "ath @ pit": {},
+  "chc @ cin": {
+    "1": {
+      "player": "nico hoerner",
+      "pitcher": "nick lodolo",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    }
+  },
+  "ath @ pit": {
+    "1": {
+      "player": "lawrence butler",
+      "pitcher": "mitch keller",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "atl @ det": {
     "2": {
       "player": "matt olson",
       "pitcher": "charlie morton",
-      "result": "Ball",
+      "result": "Hit By Pitch",
       "pitch": "Curveball"
     },
     "1": {
