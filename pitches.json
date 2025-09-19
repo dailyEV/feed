@@ -1,11 +1,5 @@
 {
   "chc @ cin": {
-    "25": {
-      "player": "matt mclain",
-      "pitcher": "shota imanaga",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "24": {
       "player": "jose trevino",
       "pitcher": "shota imanaga",
@@ -149,8 +143,8 @@
     "29": {
       "player": "shea langeliers",
       "pitcher": "mitch keller",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "tyler soderstrom",
@@ -322,6 +316,12 @@
     }
   },
   "atl @ det": {
+    "28": {
+      "player": "parker meadows",
+      "pitcher": "bryce elder",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "27": {
       "player": "jake rogers",
       "pitcher": "bryce elder",
@@ -486,6 +486,12 @@
     }
   },
   "nyy @ bal": {
+    "12": {
+      "player": "jeremiah jackson",
+      "pitcher": "will warren",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "dylan beavers",
       "pitcher": "will warren",
