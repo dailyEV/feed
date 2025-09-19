@@ -1,10 +1,16 @@
 {
   "chc @ cin": {
+    "22": {
+      "player": "carson kelly",
+      "pitcher": "nick lodolo",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "seiya suzuki",
       "pitcher": "nick lodolo",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "20": {
       "player": "ian happ",
@@ -268,10 +274,16 @@
     }
   },
   "atl @ det": {
+    "25": {
+      "player": "nacho alvarez",
+      "pitcher": "rafael montero",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "24": {
       "player": "michael harris",
       "pitcher": "rafael montero",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Splitter"
     },
     "23": {
@@ -467,8 +479,8 @@
     "7": {
       "player": "mark vientos",
       "pitcher": "andrew alvarez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "6": {
       "player": "pete alonso",
