@@ -445,7 +445,7 @@
     "38": {
       "player": "ozzie albies",
       "pitcher": "chris paddack",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "37": {
@@ -925,8 +925,8 @@
     "9": {
       "player": "josh lowe",
       "pitcher": "garrett crochet",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "8": {
       "player": "christopher morel",
@@ -981,7 +981,7 @@
     "6": {
       "player": "bobby witt",
       "pitcher": "max scherzer",
-      "result": "In play, run(s)",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "5": {
@@ -1016,6 +1016,12 @@
     }
   },
   "sd @ chw": {
+    "8": {
+      "player": "mike tauchman",
+      "pitcher": "dylan cease",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "miguel vargas",
       "pitcher": "dylan cease",
