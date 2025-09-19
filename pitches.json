@@ -179,8 +179,8 @@
     "32": {
       "player": "henry davis",
       "pitcher": "luis severino",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "nick yorke",
@@ -370,6 +370,12 @@
     }
   },
   "atl @ det": {
+    "31": {
+      "player": "matt olson",
+      "pitcher": "chris paddack",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "jurickson profar",
       "pitcher": "chris paddack",
@@ -730,11 +736,17 @@
     }
   },
   "bos @ tb": {
+    "4": {
+      "player": "masataka yoshida",
+      "pitcher": "drew rasmussen",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "3": {
       "player": "alex bregman",
       "pitcher": "drew rasmussen",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Cutter"
     },
     "2": {
       "player": "trevor story",
