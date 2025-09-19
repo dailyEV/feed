@@ -3,8 +3,8 @@
     "30": {
       "player": "pete crow armstrong",
       "pitcher": "nick lodolo",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "29": {
       "player": "carlos santana",
@@ -370,11 +370,17 @@
     }
   },
   "atl @ det": {
+    "32": {
+      "player": "ronald acuna",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "31": {
       "player": "matt olson",
       "pitcher": "chris paddack",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "30": {
       "player": "jurickson profar",
@@ -562,7 +568,7 @@
       "player": "jazz chisholm",
       "pitcher": "trevor rogers",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "coby mayo",
