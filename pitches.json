@@ -4,7 +4,7 @@
       "player": "matt shaw",
       "pitcher": "nick lodolo",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "30": {
       "player": "pete crow armstrong",
@@ -385,8 +385,8 @@
     "32": {
       "player": "ronald acuna",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "31": {
       "player": "matt olson",
@@ -757,7 +757,7 @@
     "4": {
       "player": "masataka yoshida",
       "pitcher": "drew rasmussen",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Cutter"
     },
     "3": {
@@ -779,14 +779,15 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "tor @ kc": {},
-  "sd @ chw": {
-    "2": {
-      "player": "luis arraez",
-      "pitcher": "davis martin",
+  "tor @ kc": {
+    "1": {
+      "player": "george springer",
+      "pitcher": "michael lorenzen",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
+      "pitch": "Cutter"
+    }
+  },
+  "sd @ chw": {
     "1": {
       "player": "fernando tatis",
       "pitcher": "davis martin",
