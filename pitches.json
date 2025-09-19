@@ -194,11 +194,17 @@
     }
   },
   "ath @ pit": {
+    "37": {
+      "player": "zack gelof",
+      "pitcher": "mitch keller",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "36": {
       "player": "darell hernaiz",
       "pitcher": "mitch keller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "35": {
       "player": "carlos cortes",
@@ -749,8 +755,8 @@
     "17": {
       "player": "james wood",
       "pitcher": "brandon sproat",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "jacob young",
@@ -850,6 +856,12 @@
     }
   },
   "bos @ tb": {
+    "6": {
+      "player": "everson pereira",
+      "pitcher": "garrett crochet",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "romy gonzalez",
       "pitcher": "drew rasmussen",
@@ -911,8 +923,8 @@
     "4": {
       "player": "chase meidroth",
       "pitcher": "dylan cease",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "3": {
       "player": "manny machado",
