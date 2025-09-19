@@ -188,6 +188,12 @@
     }
   },
   "ath @ pit": {
+    "35": {
+      "player": "carlos cortes",
+      "pitcher": "mitch keller",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "34": {
       "player": "jacob wilson",
       "pitcher": "mitch keller",
@@ -394,11 +400,17 @@
     }
   },
   "atl @ det": {
+    "34": {
+      "player": "riley greene",
+      "pitcher": "bryce elder",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "kerry carpenter",
       "pitcher": "bryce elder",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "32": {
       "player": "ronald acuna",
@@ -597,8 +609,8 @@
     "18": {
       "player": "austin wells",
       "pitcher": "trevor rogers",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "17": {
       "player": "anthony volpe",
@@ -704,6 +716,12 @@
     }
   },
   "wsh @ nym": {
+    "16": {
+      "player": "jacob young",
+      "pitcher": "brandon sproat",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "15": {
       "player": "jorge alfaro",
       "pitcher": "brandon sproat",
@@ -799,8 +817,8 @@
     "5": {
       "player": "romy gonzalez",
       "pitcher": "drew rasmussen",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "4": {
       "player": "masataka yoshida",
@@ -831,8 +849,8 @@
     "3": {
       "player": "vladimir guerrero",
       "pitcher": "michael lorenzen",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "nathan lukes",
