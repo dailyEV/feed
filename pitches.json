@@ -212,6 +212,12 @@
     }
   },
   "ath @ pit": {
+    "40": {
+      "player": "spencer horwitz",
+      "pitcher": "luis severino",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "39": {
       "player": "brent rooker",
       "pitcher": "mitch keller",
@@ -448,11 +454,17 @@
     }
   },
   "atl @ det": {
+    "40": {
+      "player": "marcell ozuna",
+      "pitcher": "chris paddack",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "ha seong kim",
       "pitcher": "chris paddack",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "ozzie albies",
@@ -687,8 +699,8 @@
     "23": {
       "player": "gunnar henderson",
       "pitcher": "will warren",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "jordan westburg",
@@ -952,6 +964,12 @@
     }
   },
   "bos @ tb": {
+    "11": {
+      "player": "tristan gray",
+      "pitcher": "garrett crochet",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "nick fortes",
       "pitcher": "garrett crochet",
@@ -1017,8 +1035,8 @@
     "7": {
       "player": "vinnie pasquantino",
       "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "bobby witt",
@@ -1058,12 +1076,6 @@
     }
   },
   "sd @ chw": {
-    "10": {
-      "player": "ramon laureano",
-      "pitcher": "davis martin",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "9": {
       "player": "jackson merrill",
       "pitcher": "davis martin",
