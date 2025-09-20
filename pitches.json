@@ -2212,11 +2212,17 @@
     }
   },
   "bos @ tb": {
+    "75": {
+      "player": "josh lowe",
+      "pitcher": "zack kelly",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "74": {
       "player": "jake mangum",
       "pitcher": "zack kelly",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "73": {
       "player": "yandy diaz",
@@ -3481,8 +3487,8 @@
     "54": {
       "player": "jonah heim",
       "pitcher": "janson junk",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "53": {
       "player": "adolis garcia",
@@ -4166,6 +4172,12 @@
     }
   },
   "sea @ hou": {
+    "54": {
+      "player": "christian walker",
+      "pitcher": "eduard bazardo",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "53": {
       "player": "zach cole",
       "pitcher": "eduard bazardo",
@@ -4489,7 +4501,7 @@
     "57": {
       "player": "steven kwan",
       "pitcher": "kody funderburk",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "56": {
@@ -5150,11 +5162,17 @@
     }
   },
   "phi @ ari": {
-    "17": {
-      "player": "tim tawa",
+    "18": {
+      "player": "jake mccarthy",
       "pitcher": "taijuan walker",
       "result": "Ball",
       "pitch": "Cutter"
+    },
+    "17": {
+      "player": "tim tawa",
+      "pitcher": "taijuan walker",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "alek thomas",
@@ -5254,6 +5272,12 @@
     }
   },
   "sf @ lad": {
+    "4": {
+      "player": "matt chapman",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "3": {
       "player": "rafael devers",
       "pitcher": "clayton kershaw",
