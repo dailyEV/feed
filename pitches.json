@@ -933,7 +933,7 @@
     "90": {
       "player": "juan soto",
       "pitcher": "pj poulin",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "89": {
@@ -1615,8 +1615,8 @@
     "25": {
       "player": "andrew mccutchen",
       "pitcher": "luis morales",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "spencer horwitz",
@@ -1767,8 +1767,8 @@
     "12": {
       "player": "carlos narvaez",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "11": {
       "player": "nathaniel lowe",
@@ -1898,7 +1898,7 @@
       "player": "gunnar henderson",
       "pitcher": "carlos rodon",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "8": {
       "player": "jordan westburg",
@@ -1953,7 +1953,7 @@
     "9": {
       "player": "jose altuve",
       "pitcher": "george kirby",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "8": {
@@ -2009,8 +2009,8 @@
     "9": {
       "player": "ty france",
       "pitcher": "noah cameron",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "alejandro kirk",
@@ -2062,6 +2062,12 @@
     }
   },
   "sd @ chw": {
+    "11": {
+      "player": "gavin sheets",
+      "pitcher": "yoendrys gomez",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "10": {
       "player": "ramon laureano",
       "pitcher": "yoendrys gomez",
