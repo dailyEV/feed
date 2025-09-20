@@ -3,8 +3,8 @@
     "47": {
       "player": "michael busch",
       "pitcher": "connor phillips",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "noelvi marte",
@@ -281,8 +281,8 @@
     "49": {
       "player": "nick yorke",
       "pitcher": "elvis alvarado",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "jack suwinski",
@@ -1085,7 +1085,7 @@
     "33": {
       "player": "francisco alvarez",
       "pitcher": "andrew alvarez",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Curveball"
     },
     "32": {
@@ -1416,12 +1416,6 @@
     }
   },
   "tor @ kc": {
-    "16": {
-      "player": "alejandro kirk",
-      "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "15": {
       "player": "bobby witt",
       "pitcher": "braydon fisher",
@@ -1517,7 +1511,7 @@
     "23": {
       "player": "kyle teel",
       "pitcher": "dylan cease",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Knuckle Curve"
     },
     "22": {
@@ -1744,6 +1738,12 @@
     }
   },
   "cle @ min": {
+    "3": {
+      "player": "jose ramirez",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "angel martinez",
       "pitcher": "pablo lopez",
