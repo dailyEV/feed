@@ -4,7 +4,7 @@
       "player": "michael busch",
       "pitcher": "tony santillan",
       "result": "Called Strike",
-      "pitch": "Slurve"
+      "pitch": "4-Seam Fastball"
     },
     "65": {
       "player": "dansby swanson",
@@ -799,8 +799,8 @@
     "71": {
       "player": "jace jung",
       "pitcher": "hunter stratton",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Cutter"
     },
     "70": {
       "player": "ha seong kim",
@@ -1228,7 +1228,7 @@
       "player": "anthony volpe",
       "pitcher": "dietrich enns",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "jazz chisholm",
@@ -2554,6 +2554,12 @@
     }
   },
   "mia @ tex": {
+    "25": {
+      "player": "heriberto hernandez",
+      "pitcher": "tyler mahle",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "24": {
       "player": "liam hicks",
       "pitcher": "tyler mahle",
@@ -2992,6 +2998,18 @@
     }
   },
   "cle @ min": {
+    "24": {
+      "player": "austin martin",
+      "pitcher": "parker messick",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "23": {
+      "player": "byron buxton",
+      "pitcher": "parker messick",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "22": {
       "player": "james outman",
       "pitcher": "parker messick",
@@ -3126,11 +3144,17 @@
     }
   },
   "mil @ stl": {
+    "21": {
+      "player": "christian yelich",
+      "pitcher": "sonny gray",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "jackson chourio",
       "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "sal frelick",
