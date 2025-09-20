@@ -685,8 +685,8 @@
     "63": {
       "player": "jake rogers",
       "pitcher": "tyler kinley",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "62": {
       "player": "zach mckinstry",
@@ -1065,8 +1065,8 @@
     "41": {
       "player": "jordan westburg",
       "pitcher": "will warren",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "40": {
       "player": "cody bellinger",
@@ -1310,6 +1310,12 @@
     }
   },
   "wsh @ nym": {
+    "42": {
+      "player": "cj abrams",
+      "pitcher": "huascar brazoban",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "james wood",
       "pitcher": "huascar brazoban",
@@ -1561,8 +1567,8 @@
     "31": {
       "player": "carlos narvaez",
       "pitcher": "cole sulser",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "nathaniel lowe",
@@ -1907,8 +1913,8 @@
     "33": {
       "player": "edgar quero",
       "pitcher": "dylan cease",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Hit By Pitch",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "mike tauchman",
@@ -2104,6 +2110,12 @@
     }
   },
   "mia @ tex": {
+    "16": {
+      "player": "graham pauley",
+      "pitcher": "tyler mahle",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "connor norby",
       "pitcher": "tyler mahle",
@@ -2196,6 +2208,12 @@
     }
   },
   "laa @ col": {
+    "17": {
+      "player": "kyle karros",
+      "pitcher": "mitch farris",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "kyle farmer",
       "pitcher": "mitch farris",
@@ -2297,7 +2315,7 @@
     "14": {
       "player": "christian walker",
       "pitcher": "bryan woo",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "13": {
@@ -2380,12 +2398,6 @@
     }
   },
   "cle @ min": {
-    "13": {
-      "player": "steven kwan",
-      "pitcher": "pablo lopez",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "12": {
       "player": "brayan rocchio",
       "pitcher": "pablo lopez",
