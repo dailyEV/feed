@@ -353,8 +353,8 @@
     "62": {
       "player": "brent rooker",
       "pitcher": "kyle nicolas",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "61": {
       "player": "lawrence butler",
@@ -727,8 +727,8 @@
     "65": {
       "player": "jurickson profar",
       "pitcher": "paul sewald",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "64": {
       "player": "parker meadows",
@@ -1385,8 +1385,8 @@
     "44": {
       "player": "daylen lile",
       "pitcher": "brooks raley",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "43": {
       "player": "josh bell",
@@ -1848,6 +1848,12 @@
     }
   },
   "tor @ kc": {
+    "30": {
+      "player": "carter jensen",
+      "pitcher": "tommy nance",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "john rave",
       "pitcher": "tommy nance",
@@ -2024,6 +2030,12 @@
     }
   },
   "sd @ chw": {
+    "36": {
+      "player": "michael a taylor",
+      "pitcher": "dylan cease",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "35": {
       "player": "will robertson",
       "pitcher": "dylan cease",
@@ -2349,7 +2361,7 @@
     "19": {
       "player": "tyler freeman",
       "pitcher": "mitch farris",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -2465,8 +2477,8 @@
     "17": {
       "player": "cal raleigh",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "randy arozarena",
