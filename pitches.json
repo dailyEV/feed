@@ -2652,29 +2652,17 @@
     }
   },
   "tor @ kc": {
-    "67": {
-      "player": "luke maile",
-      "pitcher": "tyler heineman",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
-    },
-    "66": {
-      "player": "tyler tolbert",
-      "pitcher": "tyler heineman",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
     "65": {
       "player": "randal grichuk",
       "pitcher": "tyler heineman",
       "result": "In play, no out",
-      "pitch": "Eephus"
+      "pitch": "Slider"
     },
     "64": {
       "player": "bobby witt",
       "pitcher": "tyler heineman",
       "result": "In play, no out",
-      "pitch": "Eephus"
+      "pitch": "Slider"
     },
     "63": {
       "player": "andres gimenez",
@@ -4112,6 +4100,12 @@
     }
   },
   "sea @ hou": {
+    "52": {
+      "player": "jose altuve",
+      "pitcher": "eduard bazardo",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "cal raleigh",
       "pitcher": "enyel de los santos",
@@ -4755,8 +4749,8 @@
     "52": {
       "player": "isaac collins",
       "pitcher": "sonny gray",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "brice turang",
@@ -5151,5 +5145,12 @@
       "pitch": "Cutter"
     }
   },
-  "sf @ lad": {}
+  "sf @ lad": {
+    "1": {
+      "player": "heliot ramos",
+      "pitcher": "clayton kershaw",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  }
 }
