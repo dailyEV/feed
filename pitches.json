@@ -869,12 +869,6 @@
   },
   "cle-gm2 @ min-gm2": {},
   "wsh @ nym": {
-    "81": {
-      "player": "luisangel acuna",
-      "pitcher": "sauryn lao",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
     "80": {
       "player": "cj abrams",
       "pitcher": "edwin diaz",
@@ -1431,11 +1425,17 @@
     }
   },
   "ath @ pit": {
+    "14": {
+      "player": "nick gonzales",
+      "pitcher": "luis morales",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "13": {
       "player": "tommy pham",
       "pitcher": "luis morales",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "12": {
       "player": "jj bleday",
@@ -1511,6 +1511,12 @@
     }
   },
   "bos @ tb": {
+    "3": {
+      "player": "alex bregman",
+      "pitcher": "adrian houser",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "trevor story",
       "pitcher": "adrian houser",
@@ -1533,6 +1539,12 @@
     }
   },
   "nyy @ bal": {
+    "2": {
+      "player": "ben rice",
+      "pitcher": "tomoyuki sugano",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "1": {
       "player": "trent grisham",
       "pitcher": "tomoyuki sugano",
