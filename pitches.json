@@ -3589,8 +3589,8 @@
     "57": {
       "player": "dane myers",
       "pitcher": "phil maton",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "56": {
       "player": "xavier edwards",
@@ -4672,6 +4672,12 @@
     }
   },
   "cle @ min": {
+    "61": {
+      "player": "bo naylor",
+      "pitcher": "cole sands",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "59": {
       "player": "jose ramirez",
       "pitcher": "cole sands",
@@ -5022,6 +5028,18 @@
     }
   },
   "mil @ stl": {
+    "60": {
+      "player": "jackson chourio",
+      "pitcher": "gordon graceffo",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "59": {
+      "player": "sal frelick",
+      "pitcher": "gordon graceffo",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "nolan arenado",
       "pitcher": "joel payamps",
@@ -5375,8 +5393,8 @@
     "23": {
       "player": "jt realmuto",
       "pitcher": "ryne nelson",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "bryce harper",
@@ -5515,7 +5533,7 @@
     "8": {
       "player": "mookie betts",
       "pitcher": "robbie ray",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "7": {
