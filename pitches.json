@@ -2161,7 +2161,7 @@
     "61": {
       "player": "nate eaton",
       "pitcher": "cole wilcox",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "60": {
@@ -2529,7 +2529,7 @@
     "59": {
       "player": "carter jensen",
       "pitcher": "brendon little",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "58": {
@@ -3800,12 +3800,6 @@
     }
   },
   "sea @ hou": {
-    "43": {
-      "player": "dominic canzone",
-      "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "42": {
       "player": "eugenio suarez",
       "pitcher": "hunter brown",
@@ -4326,11 +4320,17 @@
     }
   },
   "mil @ stl": {
+    "43": {
+      "player": "alec burleson",
+      "pitcher": "rob zastryzny",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "42": {
       "player": "ivan herrera",
       "pitcher": "rob zastryzny",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "brendan donovan",
