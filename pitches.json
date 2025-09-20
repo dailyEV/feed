@@ -871,8 +871,8 @@
     "4": {
       "player": "byron buxton",
       "pitcher": "logan allen",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "jose ramirez",
@@ -894,6 +894,12 @@
     }
   },
   "wsh @ nym": {
+    "85": {
+      "player": "daylen lile",
+      "pitcher": "tyler rogers",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "84": {
       "player": "andres chaparro",
       "pitcher": "tyler rogers",
@@ -1661,8 +1667,8 @@
     "4": {
       "player": "liam hicks",
       "pitcher": "jack leiter",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "xavier edwards",
@@ -1684,11 +1690,17 @@
     }
   },
   "nyy @ bal": {
+    "5": {
+      "player": "giancarlo stanton",
+      "pitcher": "tomoyuki sugano",
+      "result": "Ball In Dirt",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "cody bellinger",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Splitter"
     },
     "3": {
       "player": "aaron judge",
@@ -1713,8 +1725,8 @@
     "2": {
       "player": "cal raleigh",
       "pitcher": "framber valdez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "1": {
       "player": "randy arozarena",
@@ -1744,6 +1756,12 @@
     }
   },
   "sd @ chw": {
+    "4": {
+      "player": "chase meidroth",
+      "pitcher": "yu darvish",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "3": {
       "player": "manny machado",
       "pitcher": "yoendrys gomez",
@@ -1763,7 +1781,14 @@
       "pitch": "Sweeper"
     }
   },
-  "mil @ stl": {},
+  "mil @ stl": {
+    "1": {
+      "player": "sal frelick",
+      "pitcher": "miles mikolas",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "laa @ col": {},
   "phi @ ari": {},
   "sf @ lad": {}
