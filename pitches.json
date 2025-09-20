@@ -868,6 +868,12 @@
     }
   },
   "cle-gm2 @ min-gm2": {
+    "3": {
+      "player": "jose ramirez",
+      "pitcher": "bailey ober",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "daniel schneemann",
       "pitcher": "bailey ober",
@@ -1613,8 +1619,8 @@
     "3": {
       "player": "xavier edwards",
       "pitcher": "jack leiter",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "agustin ramirez",
@@ -1651,11 +1657,17 @@
   },
   "sea @ hou": {},
   "tor @ kc": {
+    "3": {
+      "player": "vladimir guerrero",
+      "pitcher": "noah cameron",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "2": {
       "player": "davis schneider",
       "pitcher": "noah cameron",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "1": {
       "player": "george springer",
