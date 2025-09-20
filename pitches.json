@@ -3,8 +3,8 @@
     "63": {
       "player": "miguel andujar",
       "pitcher": "taylor rogers",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "62": {
       "player": "noelvi marte",
@@ -766,12 +766,6 @@
     }
   },
   "atl @ det": {
-    "69": {
-      "player": "ozzie albies",
-      "pitcher": "paul sewald",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "68": {
       "player": "drake baldwin",
       "pitcher": "paul sewald",
@@ -1469,7 +1463,7 @@
     "47": {
       "player": "francisco alvarez",
       "pitcher": "sauryn lao",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "46": {
@@ -1968,11 +1962,17 @@
     }
   },
   "tor @ kc": {
+    "35": {
+      "player": "addison barger",
+      "pitcher": "michael lorenzen",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "34": {
       "player": "vladimir guerrero",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "33": {
       "player": "maikel garcia",
