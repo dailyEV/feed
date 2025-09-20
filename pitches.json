@@ -248,6 +248,12 @@
     }
   },
   "ath @ pit": {
+    "45": {
+      "player": "nick kurtz",
+      "pitcher": "evan sisk",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "44": {
       "player": "nick gonzales",
       "pitcher": "luis severino",
@@ -517,7 +523,7 @@
     "47": {
       "player": "parker meadows",
       "pitcher": "bryce elder",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "46": {
@@ -974,12 +980,6 @@
     }
   },
   "wsh @ nym": {
-    "29": {
-      "player": "paul dejong",
-      "pitcher": "brandon sproat",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "28": {
       "player": "dylan crews",
       "pitcher": "brandon sproat",
@@ -1450,11 +1450,17 @@
     }
   },
   "mia @ tex": {
+    "2": {
+      "player": "jakob marsee",
+      "pitcher": "tyler mahle",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "agustin ramirez",
       "pitcher": "tyler mahle",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     }
   },
   "laa @ col": {},
