@@ -272,6 +272,12 @@
     }
   },
   "ath @ pit": {
+    "49": {
+      "player": "nick yorke",
+      "pitcher": "elvis alvarado",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "48": {
       "player": "jack suwinski",
       "pitcher": "elvis alvarado",
@@ -287,7 +293,7 @@
     "46": {
       "player": "tyler soderstrom",
       "pitcher": "evan sisk",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "45": {
@@ -1255,8 +1261,8 @@
     "22": {
       "player": "alex bregman",
       "pitcher": "drew rasmussen",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "21": {
       "player": "trevor story",
@@ -1621,7 +1627,7 @@
     "5": {
       "player": "alejandro osuna",
       "pitcher": "janson junk",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "4": {
@@ -1650,6 +1656,12 @@
     }
   },
   "laa @ col": {
+    "5": {
+      "player": "mickey moniak",
+      "pitcher": "mitch farris",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "tyler freeman",
       "pitcher": "mitch farris",
@@ -1676,6 +1688,12 @@
     }
   },
   "sea @ hou": {
+    "4": {
+      "player": "josh naylor",
+      "pitcher": "hunter brown",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    },
     "3": {
       "player": "julio rodriguez",
       "pitcher": "hunter brown",
@@ -1713,8 +1731,8 @@
     "1": {
       "player": "sal frelick",
       "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     }
   },
   "phi @ ari": {},
