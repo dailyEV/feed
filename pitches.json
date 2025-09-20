@@ -872,7 +872,7 @@
       "player": "austin martin",
       "pitcher": "logan allen",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Sweeper"
     },
     "4": {
       "player": "byron buxton",
@@ -903,7 +903,7 @@
     "85": {
       "player": "daylen lile",
       "pitcher": "tyler rogers",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "84": {
@@ -1525,7 +1525,7 @@
     "20": {
       "player": "brett harris",
       "pitcher": "bubba chandler",
-      "result": "Hit By Pitch",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -1688,6 +1688,12 @@
     }
   },
   "mia @ tex": {
+    "5": {
+      "player": "joc pederson",
+      "pitcher": "adam mazur",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "liam hicks",
       "pitcher": "jack leiter",
@@ -1750,7 +1756,7 @@
       "player": "julio rodriguez",
       "pitcher": "framber valdez",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Sinker"
     },
     "2": {
       "player": "cal raleigh",
@@ -1766,6 +1772,12 @@
     }
   },
   "tor @ kc": {
+    "4": {
+      "player": "carter jensen",
+      "pitcher": "shane bieber",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "vladimir guerrero",
       "pitcher": "noah cameron",
@@ -1789,8 +1801,8 @@
     "5": {
       "player": "kyle teel",
       "pitcher": "yu darvish",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "4": {
       "player": "chase meidroth",
@@ -1818,12 +1830,6 @@
     }
   },
   "mil @ stl": {
-    "2": {
-      "player": "jackson chourio",
-      "pitcher": "miles mikolas",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "1": {
       "player": "sal frelick",
       "pitcher": "miles mikolas",
