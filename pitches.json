@@ -1903,7 +1903,7 @@
     "43": {
       "player": "yandy diaz",
       "pitcher": "garrett crochet",
-      "result": "Called Strike",
+      "result": "Foul Tip",
       "pitch": "Sinker"
     },
     "42": {
@@ -2686,11 +2686,17 @@
     }
   },
   "mia @ tex": {
+    "28": {
+      "player": "joc pederson",
+      "pitcher": "janson junk",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "27": {
       "player": "jake burger",
       "pitcher": "janson junk",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "26": {
       "player": "troy johnston",
@@ -3036,7 +3042,7 @@
       "player": "dominic canzone",
       "pitcher": "hunter brown",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "eugenio suarez",
@@ -3184,6 +3190,18 @@
     }
   },
   "cle @ min": {
+    "28": {
+      "player": "cj kayfus",
+      "pitcher": "pablo lopez",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
+    "27": {
+      "player": "george valera",
+      "pitcher": "pablo lopez",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "26": {
       "player": "gabriel arias",
       "pitcher": "pablo lopez",
@@ -3346,7 +3364,7 @@
       "player": "brendan donovan",
       "pitcher": "jacob misiorowski",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "brice turang",
