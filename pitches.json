@@ -682,6 +682,12 @@
     }
   },
   "atl @ det": {
+    "63": {
+      "player": "jake rogers",
+      "pitcher": "tyler kinley",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "62": {
       "player": "zach mckinstry",
       "pitcher": "tyler kinley",
@@ -1301,8 +1307,8 @@
     "41": {
       "player": "james wood",
       "pitcher": "huascar brazoban",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "40": {
       "player": "jacob young",
@@ -1731,8 +1737,8 @@
     "26": {
       "player": "nathan lukes",
       "pitcher": "michael lorenzen",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "25": {
       "player": "george springer",
@@ -1886,6 +1892,12 @@
     }
   },
   "sd @ chw": {
+    "33": {
+      "player": "edgar quero",
+      "pitcher": "dylan cease",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "32": {
       "player": "mike tauchman",
       "pitcher": "dylan cease",
@@ -2172,11 +2184,17 @@
     }
   },
   "laa @ col": {
+    "16": {
+      "player": "kyle farmer",
+      "pitcher": "mitch farris",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "ezequiel tovar",
       "pitcher": "mitch farris",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "14": {
       "player": "bryce teodosio",
@@ -2347,8 +2365,8 @@
     "11": {
       "player": "cj kayfus",
       "pitcher": "pablo lopez",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Foul Tip",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "george valera",
