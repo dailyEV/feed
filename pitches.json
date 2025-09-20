@@ -3,7 +3,7 @@
     "66": {
       "player": "michael busch",
       "pitcher": "tony santillan",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -1239,7 +1239,7 @@
     "52": {
       "player": "anthony volpe",
       "pitcher": "dietrich enns",
-      "result": "Foul Tip",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "51": {
@@ -2094,6 +2094,12 @@
     }
   },
   "tor @ kc": {
+    "39": {
+      "player": "adam frazier",
+      "pitcher": "tommy nance",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "38": {
       "player": "salvador perez",
       "pitcher": "tommy nance",
@@ -2584,6 +2590,12 @@
     }
   },
   "mia @ tex": {
+    "26": {
+      "player": "troy johnston",
+      "pitcher": "tyler mahle",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "heriberto hernandez",
       "pitcher": "tyler mahle",
@@ -2903,7 +2915,7 @@
     "23": {
       "player": "jorge polanco",
       "pitcher": "hunter brown",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Knuckle Curve"
     },
     "22": {
@@ -3190,7 +3202,7 @@
       "player": "christian yelich",
       "pitcher": "sonny gray",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Sweeper"
     },
     "20": {
       "player": "jackson chourio",
