@@ -805,8 +805,8 @@
     "73": {
       "player": "riley greene",
       "pitcher": "hunter stratton",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "72": {
       "player": "trey sweeney",
@@ -1556,6 +1556,12 @@
     }
   },
   "wsh @ nym": {
+    "50": {
+      "player": "dylan crews",
+      "pitcher": "ryne stanek",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "49": {
       "player": "luis garcia",
       "pitcher": "brooks raley",
@@ -1855,8 +1861,8 @@
     "41": {
       "player": "bob seymour",
       "pitcher": "garrett crochet",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "40": {
       "player": "romy gonzalez",
@@ -2346,7 +2352,7 @@
       "player": "jackson merrill",
       "pitcher": "davis martin",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "42": {
       "player": "colson montgomery",
@@ -2606,7 +2612,7 @@
       "player": "troy johnston",
       "pitcher": "tyler mahle",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "25": {
       "player": "heriberto hernandez",
@@ -3210,10 +3216,16 @@
     }
   },
   "mil @ stl": {
+    "22": {
+      "player": "william contreras",
+      "pitcher": "sonny gray",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "christian yelich",
       "pitcher": "sonny gray",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "20": {
