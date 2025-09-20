@@ -395,8 +395,8 @@
     "68": {
       "player": "tyler soderstrom",
       "pitcher": "isaac mattson",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "jared triolo",
@@ -1858,11 +1858,17 @@
     }
   },
   "bos @ tb": {
+    "42": {
+      "player": "everson pereira",
+      "pitcher": "garrett crochet",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "bob seymour",
       "pitcher": "garrett crochet",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "40": {
       "player": "romy gonzalez",
@@ -2110,7 +2116,7 @@
       "player": "jac caglianone",
       "pitcher": "tommy nance",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "39": {
       "player": "adam frazier",
@@ -2351,8 +2357,8 @@
     "43": {
       "player": "jackson merrill",
       "pitcher": "davis martin",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "colson montgomery",
@@ -2766,6 +2772,12 @@
     }
   },
   "laa @ col": {
+    "28": {
+      "player": "jo adell",
+      "pitcher": "bradley blalock",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "27": {
       "player": "taylor ward",
       "pitcher": "bradley blalock",
@@ -3216,6 +3228,12 @@
     }
   },
   "mil @ stl": {
+    "23": {
+      "player": "brice turang",
+      "pitcher": "sonny gray",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "22": {
       "player": "william contreras",
       "pitcher": "sonny gray",
