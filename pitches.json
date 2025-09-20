@@ -1188,6 +1188,12 @@
     }
   },
   "nyy @ bal": {
+    "48": {
+      "player": "giancarlo stanton",
+      "pitcher": "dietrich enns",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "colton cowser",
       "pitcher": "fernando cruz",
@@ -1984,7 +1990,7 @@
       "player": "alejandro kirk",
       "pitcher": "michael lorenzen",
       "result": "Called Strike",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "addison barger",
@@ -2198,11 +2204,17 @@
     }
   },
   "sd @ chw": {
+    "41": {
+      "player": "kyle teel",
+      "pitcher": "dylan cease",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "40": {
       "player": "chase meidroth",
       "pitcher": "dylan cease",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "39": {
       "player": "manny machado",
@@ -2718,7 +2730,7 @@
       "player": "yainer diaz",
       "pitcher": "bryan woo",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "josh naylor",
@@ -2961,8 +2973,8 @@
     "17": {
       "player": "jordan walker",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "16": {
       "player": "pedro pages",
