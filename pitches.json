@@ -2215,7 +2215,7 @@
     "72": {
       "player": "carlos narvaez",
       "pitcher": "edwin uceta",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "71": {
@@ -3741,8 +3741,8 @@
     "58": {
       "player": "nolan schanuel",
       "pitcher": "juan mejia",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "bryce teodosio",
@@ -4399,7 +4399,7 @@
     "54": {
       "player": "james outman",
       "pitcher": "jakob junis",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -5018,6 +5018,12 @@
     }
   },
   "phi @ ari": {
+    "13": {
+      "player": "max kepler",
+      "pitcher": "ryne nelson",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "12": {
       "player": "alec bohm",
       "pitcher": "ryne nelson",
