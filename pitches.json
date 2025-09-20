@@ -383,7 +383,7 @@
     "66": {
       "player": "henry davis",
       "pitcher": "justin sterner",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -1490,12 +1490,6 @@
     }
   },
   "wsh @ nym": {
-    "48": {
-      "player": "brett baty",
-      "pitcher": "konnor pilkington",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "47": {
       "player": "francisco alvarez",
       "pitcher": "sauryn lao",
@@ -2231,8 +2225,8 @@
     "41": {
       "player": "kyle teel",
       "pitcher": "dylan cease",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "40": {
       "player": "chase meidroth",
@@ -2756,10 +2750,16 @@
     }
   },
   "sea @ hou": {
+    "21": {
+      "player": "jesus sanchez",
+      "pitcher": "bryan woo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "yainer diaz",
       "pitcher": "bryan woo",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "19": {
@@ -2881,8 +2881,8 @@
     "21": {
       "player": "kyle manzardo",
       "pitcher": "pablo lopez",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "20": {
       "player": "jose ramirez",
@@ -3009,8 +3009,8 @@
     "18": {
       "player": "victor scott",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "17": {
       "player": "jordan walker",
