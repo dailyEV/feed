@@ -868,11 +868,17 @@
     }
   },
   "cle-gm2 @ min-gm2": {
+    "22": {
+      "player": "jose ramirez",
+      "pitcher": "bailey ober",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "21": {
       "player": "daniel schneemann",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "james outman",
@@ -1738,11 +1744,17 @@
     }
   },
   "ath @ pit": {
+    "38": {
+      "player": "jared triolo",
+      "pitcher": "luis morales",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "37": {
       "player": "oneil cruz",
       "pitcher": "luis morales",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "36": {
       "player": "darell hernaiz",
@@ -1962,12 +1974,6 @@
     }
   },
   "bos @ tb": {
-    "22": {
-      "player": "chandler simpson",
-      "pitcher": "kyle harrison",
-      "result": "Foul",
-      "pitch": "Slurve"
-    },
     "21": {
       "player": "carson williams",
       "pitcher": "kyle harrison",
@@ -2233,7 +2239,7 @@
     "19": {
       "player": "alex jackson",
       "pitcher": "carlos rodon",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "18": {
