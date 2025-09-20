@@ -868,11 +868,17 @@
     }
   },
   "cle-gm2 @ min-gm2": {
+    "5": {
+      "player": "austin martin",
+      "pitcher": "logan allen",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "4": {
       "player": "byron buxton",
       "pitcher": "logan allen",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "jose ramirez",
@@ -897,7 +903,7 @@
     "85": {
       "player": "daylen lile",
       "pitcher": "tyler rogers",
-      "result": "In play, run(s)",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "84": {
@@ -1519,7 +1525,7 @@
     "20": {
       "player": "brett harris",
       "pitcher": "bubba chandler",
-      "result": "Foul",
+      "result": "Hit By Pitch",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -1682,12 +1688,6 @@
     }
   },
   "mia @ tex": {
-    "5": {
-      "player": "joc pederson",
-      "pitcher": "adam mazur",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "4": {
       "player": "liam hicks",
       "pitcher": "jack leiter",
@@ -1717,7 +1717,7 @@
     "5": {
       "player": "giancarlo stanton",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "4": {
@@ -1749,8 +1749,8 @@
     "3": {
       "player": "julio rodriguez",
       "pitcher": "framber valdez",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "2": {
       "player": "cal raleigh",
@@ -1789,8 +1789,8 @@
     "5": {
       "player": "kyle teel",
       "pitcher": "yu darvish",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "chase meidroth",
@@ -1818,10 +1818,16 @@
     }
   },
   "mil @ stl": {
+    "2": {
+      "player": "jackson chourio",
+      "pitcher": "miles mikolas",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "sal frelick",
       "pitcher": "miles mikolas",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     }
   },
