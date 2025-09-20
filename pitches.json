@@ -1,5 +1,11 @@
 {
   "chc @ cin": {
+    "46": {
+      "player": "noelvi marte",
+      "pitcher": "shota imanaga",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "45": {
       "player": "tj friedl",
       "pitcher": "shota imanaga",
@@ -553,8 +559,8 @@
     "50": {
       "player": "riley greene",
       "pitcher": "bryce elder",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "49": {
       "player": "kerry carpenter",
@@ -855,8 +861,8 @@
     "31": {
       "player": "austin slater",
       "pitcher": "trevor rogers",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "samuel basallo",
@@ -1043,8 +1049,8 @@
     "31": {
       "player": "brandon nimmo",
       "pitcher": "andrew alvarez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "30": {
       "player": "jorge alfaro",
@@ -1353,7 +1359,7 @@
     "15": {
       "player": "bobby witt",
       "pitcher": "braydon fisher",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "14": {
@@ -1596,6 +1602,12 @@
     }
   },
   "laa @ col": {
+    "4": {
+      "player": "tyler freeman",
+      "pitcher": "mitch farris",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "yoan moncada",
       "pitcher": "bradley blalock",
@@ -1620,7 +1632,7 @@
       "player": "julio rodriguez",
       "pitcher": "hunter brown",
       "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "pitch": "Cutter"
     },
     "2": {
       "player": "cal raleigh",
