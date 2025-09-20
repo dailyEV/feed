@@ -2212,6 +2212,12 @@
     }
   },
   "bos @ tb": {
+    "74": {
+      "player": "jake mangum",
+      "pitcher": "zack kelly",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "73": {
       "player": "yandy diaz",
       "pitcher": "zack kelly",
@@ -2652,6 +2658,12 @@
     }
   },
   "tor @ kc": {
+    "70": {
+      "player": "michael massey",
+      "pitcher": "tyler heineman",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "69": {
       "player": "jac caglianone",
       "pitcher": "tyler heineman",
@@ -3463,7 +3475,7 @@
     "52": {
       "player": "joc pederson",
       "pitcher": "janson junk",
-      "result": "Ball",
+      "result": "Hit By Pitch",
       "pitch": "4-Seam Fastball"
     },
     "51": {
@@ -3777,8 +3789,8 @@
     "59": {
       "player": "blaine crim",
       "pitcher": "robert stephenson",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "nolan schanuel",
@@ -4130,11 +4142,17 @@
     }
   },
   "sea @ hou": {
+    "53": {
+      "player": "zach cole",
+      "pitcher": "eduard bazardo",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "52": {
       "player": "jose altuve",
       "pitcher": "eduard bazardo",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "51": {
       "player": "cal raleigh",
@@ -5182,6 +5200,12 @@
     }
   },
   "sf @ lad": {
+    "2": {
+      "player": "willy adames",
+      "pitcher": "clayton kershaw",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "1": {
       "player": "heliot ramos",
       "pitcher": "clayton kershaw",
