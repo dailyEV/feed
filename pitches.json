@@ -1326,6 +1326,12 @@
     }
   },
   "nyy @ bal": {
+    "62": {
+      "player": "giancarlo stanton",
+      "pitcher": "rico garcia",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "cody bellinger",
       "pitcher": "rico garcia",
@@ -2041,8 +2047,8 @@
     "50": {
       "player": "tristan gray",
       "pitcher": "garrett crochet",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "49": {
       "player": "nick fortes",
@@ -2343,8 +2349,8 @@
     "51": {
       "player": "salvador perez",
       "pitcher": "yariel rodriguez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "50": {
       "player": "maikel garcia",
@@ -2971,8 +2977,8 @@
     "34": {
       "player": "jakob marsee",
       "pitcher": "jacob latz",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "agustin ramirez",
@@ -3178,7 +3184,7 @@
       "player": "mike trout",
       "pitcher": "bradley blalock",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "37": {
       "player": "nolan schanuel",
@@ -3598,11 +3604,17 @@
     }
   },
   "cle @ min": {
-    "33": {
-      "player": "brayan rocchio",
+    "34": {
+      "player": "steven kwan",
       "pitcher": "cody laweryson",
       "result": "Called Strike",
       "pitch": "4-Seam Fastball"
+    },
+    "33": {
+      "player": "brayan rocchio",
+      "pitcher": "cody laweryson",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "32": {
       "player": "kody clemens",
