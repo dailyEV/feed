@@ -332,12 +332,6 @@
     }
   },
   "ath @ pit": {
-    "58": {
-      "player": "tommy pham",
-      "pitcher": "brady basso",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "57": {
       "player": "andrew mccutchen",
       "pitcher": "brady basso",
@@ -1053,8 +1047,8 @@
     "40": {
       "player": "cody bellinger",
       "pitcher": "trevor rogers",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "39": {
       "player": "aaron judge",
@@ -1292,12 +1286,6 @@
     }
   },
   "wsh @ nym": {
-    "41": {
-      "player": "james wood",
-      "pitcher": "huascar brazoban",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "40": {
       "player": "jacob young",
       "pitcher": "huascar brazoban",
@@ -1874,6 +1862,12 @@
     }
   },
   "sd @ chw": {
+    "32": {
+      "player": "mike tauchman",
+      "pitcher": "dylan cease",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
     "31": {
       "player": "miguel vargas",
       "pitcher": "dylan cease",
@@ -2151,8 +2145,8 @@
     "15": {
       "player": "ezequiel tovar",
       "pitcher": "mitch farris",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "bryce teodosio",
@@ -2314,6 +2308,12 @@
     }
   },
   "cle @ min": {
+    "11": {
+      "player": "cj kayfus",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "10": {
       "player": "george valera",
       "pitcher": "pablo lopez",
