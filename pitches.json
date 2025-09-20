@@ -1,10 +1,16 @@
 {
   "chc @ cin": {
+    "53": {
+      "player": "elly de la cruz",
+      "pitcher": "porter hodge",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "spencer steer",
       "pitcher": "porter hodge",
-      "result": "Ball In Dirt",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "51": {
       "player": "austin hays",
@@ -311,7 +317,7 @@
     "56": {
       "player": "bryan reynolds",
       "pitcher": "brady basso",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -649,8 +655,8 @@
     "59": {
       "player": "marcell ozuna",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "ha seong kim",
@@ -1002,6 +1008,12 @@
     }
   },
   "nyy @ bal": {
+    "39": {
+      "player": "aaron judge",
+      "pitcher": "trevor rogers",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "paul goldschmidt",
       "pitcher": "trevor rogers",
@@ -1468,12 +1480,6 @@
     }
   },
   "bos @ tb": {
-    "27": {
-      "player": "christopher morel",
-      "pitcher": "garrett crochet",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
-    },
     "26": {
       "player": "yandy diaz",
       "pitcher": "garrett crochet",
@@ -2031,8 +2037,8 @@
     "14": {
       "player": "bryce teodosio",
       "pitcher": "bradley blalock",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "13": {
       "player": "denzer guzman",
@@ -2232,11 +2238,17 @@
     }
   },
   "mil @ stl": {
+    "9": {
+      "player": "nolan arenado",
+      "pitcher": "jacob misiorowski",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "8": {
       "player": "alec burleson",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "ivan herrera",
