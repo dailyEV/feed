@@ -745,7 +745,7 @@
     "67": {
       "player": "ronald acuna",
       "pitcher": "paul sewald",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "66": {
@@ -1149,8 +1149,8 @@
     "45": {
       "player": "jeremiah jackson",
       "pitcher": "fernando cruz",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "dylan beavers",
@@ -1418,6 +1418,12 @@
     }
   },
   "wsh @ nym": {
+    "46": {
+      "player": "starling marte",
+      "pitcher": "sauryn lao",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "45": {
       "player": "brandon nimmo",
       "pitcher": "sauryn lao",
@@ -1693,8 +1699,8 @@
     "35": {
       "player": "richie palacios",
       "pitcher": "garrett crochet",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "34": {
       "player": "tristan gray",
@@ -1905,8 +1911,8 @@
     "32": {
       "player": "vinnie pasquantino",
       "pitcher": "tommy nance",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "31": {
       "player": "bobby witt",
@@ -2099,8 +2105,8 @@
     "37": {
       "player": "fernando tatis",
       "pitcher": "davis martin",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "36": {
       "player": "michael a taylor",
@@ -2320,6 +2326,12 @@
     }
   },
   "mia @ tex": {
+    "20": {
+      "player": "michael helman",
+      "pitcher": "janson junk",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "19": {
       "player": "jakob marsee",
       "pitcher": "tyler mahle",
@@ -2436,6 +2448,12 @@
     }
   },
   "laa @ col": {
+    "21": {
+      "player": "nolan schanuel",
+      "pitcher": "bradley blalock",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "20": {
       "player": "mickey moniak",
       "pitcher": "mitch farris",
@@ -2561,8 +2579,8 @@
     "19": {
       "player": "josh naylor",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "18": {
       "player": "julio rodriguez",
@@ -2677,7 +2695,7 @@
     "17": {
       "player": "carson mccusker",
       "pitcher": "parker messick",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "16": {
@@ -2781,7 +2799,7 @@
     "15": {
       "player": "thomas saggese",
       "pitcher": "jacob misiorowski",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "14": {
