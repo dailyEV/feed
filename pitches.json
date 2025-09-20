@@ -871,7 +871,7 @@
     "16": {
       "player": "austin hedges",
       "pitcher": "bailey ober",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "15": {
@@ -1666,11 +1666,17 @@
     }
   },
   "ath @ pit": {
-    "30": {
-      "player": "nick gonzales",
+    "31": {
+      "player": "nick yorke",
       "pitcher": "luis morales",
       "result": "Foul",
       "pitch": "Slider"
+    },
+    "30": {
+      "player": "nick gonzales",
+      "pitcher": "luis morales",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "29": {
       "player": "shea langeliers",
@@ -1848,6 +1854,12 @@
     }
   },
   "bos @ tb": {
+    "17": {
+      "player": "ceddanne rafaela",
+      "pitcher": "adrian houser",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "nick fortes",
       "pitcher": "kyle harrison",
@@ -1949,8 +1961,8 @@
     "16": {
       "player": "josh jung",
       "pitcher": "adam mazur",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "josh smith",
@@ -2130,17 +2142,11 @@
     }
   },
   "sea @ hou": {
-    "14": {
-      "player": "jp crawford",
-      "pitcher": "framber valdez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "13": {
       "player": "victor robles",
       "pitcher": "framber valdez",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "12": {
       "player": "mitch garver",
