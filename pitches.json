@@ -3,7 +3,7 @@
     "65": {
       "player": "dansby swanson",
       "pitcher": "tony santillan",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -389,8 +389,8 @@
     "67": {
       "player": "jared triolo",
       "pitcher": "justin sterner",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "66": {
       "player": "henry davis",
@@ -790,6 +790,12 @@
     }
   },
   "atl @ det": {
+    "71": {
+      "player": "jace jung",
+      "pitcher": "hunter stratton",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "70": {
       "player": "ha seong kim",
       "pitcher": "zach mckinstry",
@@ -2661,7 +2667,7 @@
     "26": {
       "player": "brenton doyle",
       "pitcher": "mitch farris",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "25": {
@@ -2944,6 +2950,12 @@
     }
   },
   "cle @ min": {
+    "22": {
+      "player": "james outman",
+      "pitcher": "parker messick",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "21": {
       "player": "kyle manzardo",
       "pitcher": "pablo lopez",
