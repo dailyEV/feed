@@ -871,7 +871,7 @@
     "8": {
       "player": "gabriel arias",
       "pitcher": "bailey ober",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "7": {
@@ -1454,6 +1454,12 @@
     }
   },
   "chc @ cin": {
+    "23": {
+      "player": "spencer steer",
+      "pitcher": "javier assad",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "22": {
       "player": "tj friedl",
       "pitcher": "javier assad",
@@ -1591,8 +1597,8 @@
     "24": {
       "player": "spencer horwitz",
       "pitcher": "luis morales",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "bryan reynolds",
@@ -1737,7 +1743,7 @@
     "11": {
       "player": "nathaniel lowe",
       "pitcher": "adrian houser",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -1852,10 +1858,16 @@
     }
   },
   "nyy @ bal": {
+    "8": {
+      "player": "jordan westburg",
+      "pitcher": "carlos rodon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "jackson holliday",
       "pitcher": "carlos rodon",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -1896,6 +1908,12 @@
     }
   },
   "sea @ hou": {
+    "8": {
+      "player": "isaac paredes",
+      "pitcher": "george kirby",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "7": {
       "player": "carlos correa",
       "pitcher": "george kirby",
