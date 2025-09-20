@@ -1681,7 +1681,7 @@
     "31": {
       "player": "nick yorke",
       "pitcher": "luis morales",
-      "result": "Foul Tip",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "30": {
@@ -1869,7 +1869,7 @@
     "17": {
       "player": "ceddanne rafaela",
       "pitcher": "adrian houser",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "16": {
@@ -2154,6 +2154,12 @@
     }
   },
   "sea @ hou": {
+    "14": {
+      "player": "jp crawford",
+      "pitcher": "framber valdez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "victor robles",
       "pitcher": "framber valdez",
@@ -2234,6 +2240,18 @@
     }
   },
   "tor @ kc": {
+    "16": {
+      "player": "myles straw",
+      "pitcher": "noah cameron",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "15": {
+      "player": "isiah kiner falefa",
+      "pitcher": "noah cameron",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "14": {
       "player": "adam frazier",
       "pitcher": "shane bieber",
