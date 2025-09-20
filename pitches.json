@@ -368,6 +368,12 @@
     }
   },
   "ath @ pit": {
+    "65": {
+      "player": "nick yorke",
+      "pitcher": "justin sterner",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "64": {
       "player": "jack suwinski",
       "pitcher": "justin sterner",
@@ -1457,8 +1463,8 @@
     "47": {
       "player": "francisco alvarez",
       "pitcher": "sauryn lao",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "46": {
       "player": "starling marte",
@@ -1956,12 +1962,6 @@
     }
   },
   "tor @ kc": {
-    "34": {
-      "player": "vladimir guerrero",
-      "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "33": {
       "player": "maikel garcia",
       "pitcher": "tommy nance",
@@ -2529,8 +2529,8 @@
     "22": {
       "player": "mike trout",
       "pitcher": "bradley blalock",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "nolan schanuel",
@@ -2663,7 +2663,7 @@
     "19": {
       "player": "josh naylor",
       "pitcher": "hunter brown",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -2889,8 +2889,8 @@
     "16": {
       "player": "pedro pages",
       "pitcher": "jacob misiorowski",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "thomas saggese",
