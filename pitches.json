@@ -511,8 +511,8 @@
     "46": {
       "player": "jurickson profar",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "45": {
       "player": "nacho alvarez",
@@ -786,6 +786,18 @@
     }
   },
   "nyy @ bal": {
+    "29": {
+      "player": "jeremiah jackson",
+      "pitcher": "will warren",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
+    "28": {
+      "player": "dylan beavers",
+      "pitcher": "will warren",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "amed rosario",
       "pitcher": "trevor rogers",
@@ -1280,11 +1292,17 @@
     }
   },
   "sd @ chw": {
+    "16": {
+      "player": "jake cronenworth",
+      "pitcher": "davis martin",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "15": {
       "player": "ryan ohearn",
       "pitcher": "davis martin",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "will robertson",
