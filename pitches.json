@@ -1,5 +1,11 @@
 {
   "chc @ cin": {
+    "43": {
+      "player": "jose trevino",
+      "pitcher": "shota imanaga",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "kebryan hayes",
       "pitcher": "shota imanaga",
@@ -251,7 +257,7 @@
     "45": {
       "player": "nick kurtz",
       "pitcher": "evan sisk",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "44": {
@@ -980,6 +986,12 @@
     }
   },
   "wsh @ nym": {
+    "29": {
+      "player": "paul dejong",
+      "pitcher": "brandon sproat",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "28": {
       "player": "dylan crews",
       "pitcher": "brandon sproat",
@@ -1153,7 +1165,7 @@
     "17": {
       "player": "richie palacios",
       "pitcher": "garrett crochet",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "16": {
@@ -1340,6 +1352,12 @@
     }
   },
   "sd @ chw": {
+    "19": {
+      "player": "luis arraez",
+      "pitcher": "davis martin",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "fernando tatis",
       "pitcher": "davis martin",
@@ -1450,20 +1468,21 @@
     }
   },
   "mia @ tex": {
-    "2": {
-      "player": "jakob marsee",
-      "pitcher": "tyler mahle",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "1": {
       "player": "agustin ramirez",
       "pitcher": "tyler mahle",
-      "result": "Swinging Strike",
+      "result": "Foul",
+      "pitch": "Splitter"
+    }
+  },
+  "laa @ col": {
+    "1": {
+      "player": "nolan schanuel",
+      "pitcher": "bradley blalock",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     }
   },
-  "laa @ col": {},
   "sea @ hou": {},
   "cle @ min": {},
   "mil @ stl": {},
