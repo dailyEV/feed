@@ -760,12 +760,6 @@
     }
   },
   "atl @ det": {
-    "69": {
-      "player": "ozzie albies",
-      "pitcher": "paul sewald",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "68": {
       "player": "drake baldwin",
       "pitcher": "paul sewald",
@@ -1179,8 +1173,8 @@
     "47": {
       "player": "colton cowser",
       "pitcher": "fernando cruz",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "samuel basallo",
@@ -1962,6 +1956,12 @@
     }
   },
   "tor @ kc": {
+    "34": {
+      "player": "vladimir guerrero",
+      "pitcher": "michael lorenzen",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "maikel garcia",
       "pitcher": "tommy nance",
@@ -2401,8 +2401,8 @@
     "21": {
       "player": "josh smith",
       "pitcher": "janson junk",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "20": {
       "player": "michael helman",
