@@ -245,8 +245,8 @@
     "44": {
       "player": "nick gonzales",
       "pitcher": "luis severino",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "oneil cruz",
@@ -511,8 +511,8 @@
     "46": {
       "player": "jurickson profar",
       "pitcher": "chris paddack",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "nacho alvarez",
@@ -789,8 +789,8 @@
     "29": {
       "player": "jeremiah jackson",
       "pitcher": "will warren",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "dylan beavers",
@@ -1126,6 +1126,12 @@
     }
   },
   "bos @ tb": {
+    "16": {
+      "player": "jarren duran",
+      "pitcher": "drew rasmussen",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "15": {
       "player": "ceddanne rafaela",
       "pitcher": "drew rasmussen",
@@ -1292,17 +1298,11 @@
     }
   },
   "sd @ chw": {
-    "16": {
-      "player": "jake cronenworth",
-      "pitcher": "davis martin",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "15": {
       "player": "ryan ohearn",
       "pitcher": "davis martin",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "will robertson",
