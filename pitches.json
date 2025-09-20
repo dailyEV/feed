@@ -529,8 +529,8 @@
     "48": {
       "player": "gleyber torres",
       "pitcher": "bryce elder",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "47": {
       "player": "parker meadows",
@@ -1177,8 +1177,8 @@
     "17": {
       "player": "richie palacios",
       "pitcher": "garrett crochet",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "jarren duran",
@@ -1364,11 +1364,17 @@
     }
   },
   "sd @ chw": {
+    "20": {
+      "player": "manny machado",
+      "pitcher": "davis martin",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "luis arraez",
       "pitcher": "davis martin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "fernando tatis",
@@ -1483,8 +1489,8 @@
     "2": {
       "player": "jakob marsee",
       "pitcher": "tyler mahle",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "1": {
       "player": "agustin ramirez",
@@ -1497,8 +1503,8 @@
     "1": {
       "player": "nolan schanuel",
       "pitcher": "bradley blalock",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "Curveball"
     }
   },
   "sea @ hou": {
