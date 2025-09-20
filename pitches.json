@@ -1487,8 +1487,8 @@
     "24": {
       "player": "gavin lux",
       "pitcher": "javier assad",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "23": {
       "player": "spencer steer",
@@ -1633,8 +1633,8 @@
     "28": {
       "player": "tyler soderstrom",
       "pitcher": "bubba chandler",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "27": {
       "player": "nick kurtz",
@@ -1800,10 +1800,16 @@
     }
   },
   "bos @ tb": {
+    "15": {
+      "player": "josh lowe",
+      "pitcher": "kyle harrison",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "christopher morel",
       "pitcher": "kyle harrison",
-      "result": "Foul Tip",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "13": {
@@ -1889,8 +1895,8 @@
     "12": {
       "player": "connor norby",
       "pitcher": "jack leiter",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "11": {
       "player": "troy johnston",
@@ -1960,6 +1966,12 @@
     }
   },
   "nyy @ bal": {
+    "11": {
+      "player": "paul goldschmidt",
+      "pitcher": "tomoyuki sugano",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "tyler oneill",
       "pitcher": "carlos rodon",
@@ -2155,8 +2167,8 @@
     "13": {
       "player": "jake cronenworth",
       "pitcher": "yoendrys gomez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "12": {
       "player": "ryan ohearn",
