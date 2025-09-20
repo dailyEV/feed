@@ -362,6 +362,12 @@
     }
   },
   "ath @ pit": {
+    "64": {
+      "player": "jack suwinski",
+      "pitcher": "justin sterner",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "63": {
       "player": "nick kurtz",
       "pitcher": "kyle nicolas",
@@ -1421,8 +1427,8 @@
     "46": {
       "player": "starling marte",
       "pitcher": "sauryn lao",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "brandon nimmo",
@@ -1696,10 +1702,16 @@
     }
   },
   "bos @ tb": {
+    "36": {
+      "player": "carson williams",
+      "pitcher": "garrett crochet",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "richie palacios",
       "pitcher": "garrett crochet",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "34": {
@@ -1908,12 +1920,6 @@
     }
   },
   "tor @ kc": {
-    "33": {
-      "player": "maikel garcia",
-      "pitcher": "tommy nance",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "32": {
       "player": "vinnie pasquantino",
       "pitcher": "tommy nance",
@@ -2108,6 +2114,12 @@
     }
   },
   "sd @ chw": {
+    "38": {
+      "player": "luis arraez",
+      "pitcher": "davis martin",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "37": {
       "player": "fernando tatis",
       "pitcher": "davis martin",
@@ -2701,8 +2713,8 @@
     "17": {
       "player": "carson mccusker",
       "pitcher": "parker messick",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "16": {
       "player": "kody clemens",
