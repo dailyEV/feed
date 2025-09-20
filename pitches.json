@@ -2144,7 +2144,7 @@
       "player": "everson pereira",
       "pitcher": "justin slaten",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sweeper"
     },
     "58": {
       "player": "bob seymour",
@@ -2499,7 +2499,7 @@
     "58": {
       "player": "john rave",
       "pitcher": "yariel rodriguez",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "57": {
@@ -2849,7 +2849,7 @@
     "59": {
       "player": "jackson merrill",
       "pitcher": "brandon eisert",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "58": {
@@ -3205,7 +3205,7 @@
     "41": {
       "player": "dane myers",
       "pitcher": "chris martin",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -3728,6 +3728,12 @@
     }
   },
   "sea @ hou": {
+    "40": {
+      "player": "josh naylor",
+      "pitcher": "hunter brown",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "jesus sanchez",
       "pitcher": "bryan woo",
@@ -4463,8 +4469,8 @@
     "1": {
       "player": "harrison bader",
       "pitcher": "ryne nelson",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     }
   },
   "sf @ lad": {}
