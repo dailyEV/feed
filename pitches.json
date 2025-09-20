@@ -871,8 +871,8 @@
     "20": {
       "player": "james outman",
       "pitcher": "logan allen",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "mickey gasper",
@@ -1532,6 +1532,18 @@
     }
   },
   "chc @ cin": {
+    "32": {
+      "player": "kebryan hayes",
+      "pitcher": "javier assad",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "31": {
+      "player": "tyler stephenson",
+      "pitcher": "javier assad",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "30": {
       "player": "pete crow armstrong",
       "pitcher": "zack littell",
@@ -2054,11 +2066,17 @@
     }
   },
   "mia @ tex": {
+    "21": {
+      "player": "otto lopez",
+      "pitcher": "jack leiter",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "liam hicks",
       "pitcher": "jack leiter",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "xavier edwards",
@@ -2381,8 +2399,8 @@
     "20": {
       "player": "michael massey",
       "pitcher": "shane bieber",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "jac caglianone",
