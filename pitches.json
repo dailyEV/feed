@@ -868,11 +868,17 @@
     }
   },
   "cle-gm2 @ min-gm2": {
+    "16": {
+      "player": "austin hedges",
+      "pitcher": "bailey ober",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "petey halpin",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "edouard julien",
@@ -1940,6 +1946,12 @@
     }
   },
   "mia @ tex": {
+    "16": {
+      "player": "josh jung",
+      "pitcher": "adam mazur",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "josh smith",
       "pitcher": "adam mazur",
@@ -2035,8 +2047,8 @@
     "13": {
       "player": "anthony volpe",
       "pitcher": "tomoyuki sugano",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "12": {
       "player": "ryan mcmahon",
@@ -2189,8 +2201,8 @@
     "14": {
       "player": "adam frazier",
       "pitcher": "shane bieber",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "13": {
       "player": "mike yastrzemski",
@@ -2358,12 +2370,6 @@
     }
   },
   "mil @ stl": {
-    "13": {
-      "player": "sal frelick",
-      "pitcher": "miles mikolas",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "12": {
       "player": "joey ortiz",
       "pitcher": "miles mikolas",
