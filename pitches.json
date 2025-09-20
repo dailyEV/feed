@@ -1252,6 +1252,12 @@
     }
   },
   "bos @ tb": {
+    "22": {
+      "player": "alex bregman",
+      "pitcher": "drew rasmussen",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "21": {
       "player": "trevor story",
       "pitcher": "drew rasmussen",
@@ -1615,7 +1621,7 @@
     "5": {
       "player": "alejandro osuna",
       "pitcher": "janson junk",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "4": {
@@ -1647,8 +1653,8 @@
     "4": {
       "player": "tyler freeman",
       "pitcher": "mitch farris",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "yoan moncada",
@@ -1670,12 +1676,6 @@
     }
   },
   "sea @ hou": {
-    "4": {
-      "player": "josh naylor",
-      "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "3": {
       "player": "julio rodriguez",
       "pitcher": "hunter brown",
@@ -1696,6 +1696,12 @@
     }
   },
   "cle @ min": {
+    "2": {
+      "player": "angel martinez",
+      "pitcher": "pablo lopez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "steven kwan",
       "pitcher": "pablo lopez",
