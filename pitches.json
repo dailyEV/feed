@@ -869,12 +869,6 @@
   },
   "cle-gm2 @ min-gm2": {},
   "wsh @ nym": {
-    "81": {
-      "player": "luisangel acuna",
-      "pitcher": "sauryn lao",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
     "80": {
       "player": "cj abrams",
       "pitcher": "edwin diaz",
@@ -1434,7 +1428,7 @@
     "13": {
       "player": "tommy pham",
       "pitcher": "luis morales",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -1524,13 +1518,20 @@
       "pitch": "Changeup"
     }
   },
-  "mia @ tex": {},
+  "mia @ tex": {
+    "1": {
+      "player": "jakob marsee",
+      "pitcher": "jack leiter",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "nyy @ bal": {
     "1": {
       "player": "trent grisham",
       "pitcher": "tomoyuki sugano",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     }
   },
   "sea @ hou": {},
