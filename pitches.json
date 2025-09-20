@@ -374,6 +374,12 @@
     }
   },
   "ath @ pit": {
+    "66": {
+      "player": "henry davis",
+      "pitcher": "justin sterner",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "65": {
       "player": "nick yorke",
       "pitcher": "justin sterner",
@@ -1753,7 +1759,7 @@
     "37": {
       "player": "trevor story",
       "pitcher": "cole sulser",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "36": {
@@ -1978,7 +1984,7 @@
       "player": "alejandro kirk",
       "pitcher": "michael lorenzen",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "35": {
       "player": "addison barger",
@@ -2830,11 +2836,17 @@
     }
   },
   "cle @ min": {
+    "20": {
+      "player": "jose ramirez",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "19": {
       "player": "angel martinez",
       "pitcher": "pablo lopez",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "18": {
       "player": "jhonny pereda",
