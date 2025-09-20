@@ -1745,8 +1745,8 @@
     "72": {
       "player": "brandon nimmo",
       "pitcher": "mason thompson",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "71": {
       "player": "luisangel acuna",
@@ -2179,7 +2179,7 @@
     "63": {
       "player": "carlos narvaez",
       "pitcher": "cole wilcox",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "62": {
@@ -2933,8 +2933,8 @@
     "64": {
       "player": "gavin sheets",
       "pitcher": "grant taylor",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "63": {
       "player": "ramon laureano",
@@ -4144,6 +4144,12 @@
     }
   },
   "cle @ min": {
+    "46": {
+      "player": "royce lewis",
+      "pitcher": "matt festa",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "brooks lee",
       "pitcher": "parker messick",
@@ -4416,6 +4422,12 @@
     }
   },
   "mil @ stl": {
+    "44": {
+      "player": "nolan arenado",
+      "pitcher": "grant anderson",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "43": {
       "player": "alec burleson",
       "pitcher": "rob zastryzny",
