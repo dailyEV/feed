@@ -3,8 +3,8 @@
     "50": {
       "player": "miguel andujar",
       "pitcher": "porter hodge",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "matt shaw",
@@ -1679,8 +1679,8 @@
     "28": {
       "player": "jake cronenworth",
       "pitcher": "davis martin",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Cutter"
     },
     "27": {
       "player": "ryan ohearn",
@@ -1902,11 +1902,17 @@
     }
   },
   "laa @ col": {
+    "11": {
+      "player": "christian moore",
+      "pitcher": "bradley blalock",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "10": {
       "player": "jo adell",
       "pitcher": "bradley blalock",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "taylor ward",
@@ -2017,8 +2023,8 @@
     "7": {
       "player": "byron buxton",
       "pitcher": "parker messick",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "6": {
       "player": "gabriel arias",
@@ -2058,6 +2064,12 @@
     }
   },
   "mil @ stl": {
+    "7": {
+      "player": "ivan herrera",
+      "pitcher": "jacob misiorowski",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "brendan donovan",
       "pitcher": "jacob misiorowski",
