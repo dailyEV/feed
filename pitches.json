@@ -1604,10 +1604,16 @@
     }
   },
   "wsh @ nym": {
+    "53": {
+      "player": "francisco lindor",
+      "pitcher": "konnor pilkington",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "52": {
       "player": "jose siri",
       "pitcher": "konnor pilkington",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "51": {
@@ -2182,7 +2188,7 @@
       "player": "davis schneider",
       "pitcher": "michael lorenzen",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Cutter"
     },
     "41": {
       "player": "michael massey",
@@ -2886,6 +2892,18 @@
     }
   },
   "laa @ col": {
+    "32": {
+      "player": "kyle farmer",
+      "pitcher": "mitch farris",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "31": {
+      "player": "ezequiel tovar",
+      "pitcher": "mitch farris",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "logan ohoppe",
       "pitcher": "bradley blalock",
@@ -3068,6 +3086,12 @@
     }
   },
   "sea @ hou": {
+    "27": {
+      "player": "jp crawford",
+      "pitcher": "hunter brown",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "victor robles",
       "pitcher": "hunter brown",
@@ -3399,8 +3423,8 @@
     "25": {
       "player": "ivan herrera",
       "pitcher": "jacob misiorowski",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "24": {
       "player": "brendan donovan",
