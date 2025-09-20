@@ -1430,11 +1430,17 @@
     }
   },
   "chc @ cin": {
+    "22": {
+      "player": "tj friedl",
+      "pitcher": "javier assad",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "21": {
       "player": "matt mclain",
       "pitcher": "javier assad",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "20": {
       "player": "ian happ",
@@ -1692,6 +1698,12 @@
     }
   },
   "bos @ tb": {
+    "9": {
+      "player": "romy gonzalez",
+      "pitcher": "adrian houser",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "masataka yoshida",
       "pitcher": "adrian houser",
@@ -1742,6 +1754,18 @@
     }
   },
   "mia @ tex": {
+    "8": {
+      "player": "rowdy tellez",
+      "pitcher": "adam mazur",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "7": {
+      "player": "alejandro osuna",
+      "pitcher": "adam mazur",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "6": {
       "player": "cody freeman",
       "pitcher": "adam mazur",
@@ -1850,11 +1874,17 @@
     }
   },
   "tor @ kc": {
+    "7": {
+      "player": "maikel garcia",
+      "pitcher": "shane bieber",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "6": {
       "player": "vinnie pasquantino",
       "pitcher": "shane bieber",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "5": {
       "player": "bobby witt",
@@ -1891,8 +1921,8 @@
     "8": {
       "player": "mike tauchman",
       "pitcher": "yu darvish",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "miguel vargas",
@@ -1938,6 +1968,12 @@
     }
   },
   "mil @ stl": {
+    "4": {
+      "player": "william contreras",
+      "pitcher": "miles mikolas",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "christian yelich",
       "pitcher": "miles mikolas",
