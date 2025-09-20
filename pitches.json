@@ -911,7 +911,7 @@
     "25": {
       "player": "juan soto",
       "pitcher": "andrew alvarez",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "24": {
@@ -1149,7 +1149,7 @@
     "11": {
       "player": "jac caglianone",
       "pitcher": "max scherzer",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "10": {
@@ -1214,6 +1214,12 @@
     }
   },
   "sd @ chw": {
+    "14": {
+      "player": "will robertson",
+      "pitcher": "dylan cease",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "curtis mead",
       "pitcher": "dylan cease",
