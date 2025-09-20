@@ -1,11 +1,5 @@
 {
   "chc @ cin": {
-    "43": {
-      "player": "jose trevino",
-      "pitcher": "shota imanaga",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "42": {
       "player": "kebryan hayes",
       "pitcher": "shota imanaga",
@@ -254,12 +248,6 @@
     }
   },
   "ath @ pit": {
-    "45": {
-      "player": "nick kurtz",
-      "pitcher": "evan sisk",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "44": {
       "player": "nick gonzales",
       "pitcher": "luis severino",
@@ -986,6 +974,12 @@
     }
   },
   "wsh @ nym": {
+    "29": {
+      "player": "paul dejong",
+      "pitcher": "brandon sproat",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "dylan crews",
       "pitcher": "brandon sproat",
@@ -1263,8 +1257,8 @@
     "14": {
       "player": "carter jensen",
       "pitcher": "max scherzer",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "13": {
       "player": "john rave",
@@ -1349,8 +1343,8 @@
     "18": {
       "player": "fernando tatis",
       "pitcher": "davis martin",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "freddy fermin",
@@ -1459,7 +1453,7 @@
     "1": {
       "player": "agustin ramirez",
       "pitcher": "tyler mahle",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Splitter"
     }
   },
