@@ -871,8 +871,8 @@
     "10": {
       "player": "brayan rocchio",
       "pitcher": "bailey ober",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "9": {
       "player": "cj kayfus",
@@ -934,7 +934,7 @@
       "player": "juan soto",
       "pitcher": "pj poulin",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "89": {
       "player": "francisco lindor",
@@ -1615,8 +1615,8 @@
     "25": {
       "player": "andrew mccutchen",
       "pitcher": "luis morales",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "24": {
       "player": "spencer horwitz",
@@ -1835,8 +1835,8 @@
     "9": {
       "player": "otto lopez",
       "pitcher": "jack leiter",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "rowdy tellez",
@@ -1891,8 +1891,8 @@
     "8": {
       "player": "jordan westburg",
       "pitcher": "carlos rodon",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "7": {
       "player": "jackson holliday",
@@ -1938,10 +1938,16 @@
     }
   },
   "sea @ hou": {
+    "9": {
+      "player": "jose altuve",
+      "pitcher": "george kirby",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "isaac paredes",
       "pitcher": "george kirby",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "7": {
@@ -1988,12 +1994,6 @@
     }
   },
   "tor @ kc": {
-    "9": {
-      "player": "ty france",
-      "pitcher": "noah cameron",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "8": {
       "player": "alejandro kirk",
       "pitcher": "noah cameron",
