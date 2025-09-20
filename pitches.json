@@ -1,9 +1,15 @@
 {
   "chc @ cin": {
+    "66": {
+      "player": "michael busch",
+      "pitcher": "tony santillan",
+      "result": "Called Strike",
+      "pitch": "Slurve"
+    },
     "65": {
       "player": "dansby swanson",
       "pitcher": "tony santillan",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -790,11 +796,17 @@
     }
   },
   "atl @ det": {
+    "72": {
+      "player": "trey sweeney",
+      "pitcher": "hunter stratton",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "71": {
       "player": "jace jung",
       "pitcher": "hunter stratton",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Foul Tip",
+      "pitch": "Cutter"
     },
     "70": {
       "player": "ha seong kim",
@@ -1526,6 +1538,12 @@
     }
   },
   "wsh @ nym": {
+    "49": {
+      "player": "luis garcia",
+      "pitcher": "brooks raley",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "brett baty",
       "pitcher": "konnor pilkington",
@@ -2843,8 +2861,8 @@
     "22": {
       "player": "jake meyers",
       "pitcher": "bryan woo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "jesus sanchez",
@@ -2977,8 +2995,8 @@
     "22": {
       "player": "james outman",
       "pitcher": "parker messick",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "21": {
       "player": "kyle manzardo",
