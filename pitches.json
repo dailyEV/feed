@@ -299,7 +299,7 @@
     "53": {
       "player": "carlos cortes",
       "pitcher": "justin lawrence",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "52": {
@@ -619,8 +619,8 @@
     "55": {
       "player": "wenceel perez",
       "pitcher": "bryce elder",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "54": {
       "player": "spencer torkelson",
@@ -1378,6 +1378,12 @@
     }
   },
   "bos @ tb": {
+    "25": {
+      "player": "nate eaton",
+      "pitcher": "drew rasmussen",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "24": {
       "player": "romy gonzalez",
       "pitcher": "drew rasmussen",
@@ -1527,7 +1533,7 @@
     "21": {
       "player": "salvador perez",
       "pitcher": "braydon fisher",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -1656,7 +1662,7 @@
       "player": "gavin sheets",
       "pitcher": "davis martin",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "25": {
       "player": "ramon laureano",
@@ -1860,11 +1866,17 @@
     }
   },
   "laa @ col": {
+    "10": {
+      "player": "jo adell",
+      "pitcher": "bradley blalock",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "taylor ward",
       "pitcher": "bradley blalock",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "8": {
       "player": "brenton doyle",
