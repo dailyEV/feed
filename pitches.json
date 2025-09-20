@@ -1918,12 +1918,6 @@
     }
   },
   "bos @ tb": {
-    "44": {
-      "player": "christopher morel",
-      "pitcher": "garrett crochet",
-      "result": "Foul",
-      "pitch": "Sweeper"
-    },
     "43": {
       "player": "yandy diaz",
       "pitcher": "garrett crochet",
@@ -2184,6 +2178,12 @@
     }
   },
   "tor @ kc": {
+    "42": {
+      "player": "davis schneider",
+      "pitcher": "michael lorenzen",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "41": {
       "player": "michael massey",
       "pitcher": "tommy nance",
@@ -2713,7 +2713,7 @@
     "29": {
       "player": "adolis garcia",
       "pitcher": "janson junk",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "28": {
@@ -2886,12 +2886,6 @@
     }
   },
   "laa @ col": {
-    "31": {
-      "player": "ezequiel tovar",
-      "pitcher": "mitch farris",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "30": {
       "player": "logan ohoppe",
       "pitcher": "bradley blalock",
@@ -3235,8 +3229,8 @@
     "28": {
       "player": "cj kayfus",
       "pitcher": "pablo lopez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "27": {
       "player": "george valera",
@@ -3405,8 +3399,8 @@
     "25": {
       "player": "ivan herrera",
       "pitcher": "jacob misiorowski",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "brendan donovan",
