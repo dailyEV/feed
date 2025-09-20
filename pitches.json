@@ -356,10 +356,16 @@
     }
   },
   "ath @ pit": {
+    "63": {
+      "player": "nick kurtz",
+      "pitcher": "kyle nicolas",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "brent rooker",
       "pitcher": "kyle nicolas",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "Slider"
     },
     "61": {
@@ -1866,10 +1872,16 @@
     }
   },
   "tor @ kc": {
+    "31": {
+      "player": "bobby witt",
+      "pitcher": "tommy nance",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "30": {
       "player": "carter jensen",
       "pitcher": "tommy nance",
-      "result": "Swinging Strike",
+      "result": "In play, run(s)",
       "pitch": "Curveball"
     },
     "29": {
@@ -2266,10 +2278,16 @@
     }
   },
   "mia @ tex": {
+    "19": {
+      "player": "jakob marsee",
+      "pitcher": "tyler mahle",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "18": {
       "player": "agustin ramirez",
       "pitcher": "tyler mahle",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "Splitter"
     },
     "17": {
@@ -2376,6 +2394,12 @@
     }
   },
   "laa @ col": {
+    "20": {
+      "player": "mickey moniak",
+      "pitcher": "mitch farris",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "19": {
       "player": "tyler freeman",
       "pitcher": "mitch farris",
@@ -2495,7 +2519,7 @@
     "17": {
       "player": "cal raleigh",
       "pitcher": "hunter brown",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "16": {
@@ -2599,8 +2623,8 @@
     "15": {
       "player": "royce lewis",
       "pitcher": "parker messick",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "brooks lee",
@@ -2691,8 +2715,8 @@
     "14": {
       "player": "joey ortiz",
       "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "caleb durbin",
