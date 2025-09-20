@@ -871,8 +871,8 @@
     "24": {
       "player": "gabriel arias",
       "pitcher": "bailey ober",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "23": {
       "player": "kyle manzardo",
@@ -1556,11 +1556,17 @@
     }
   },
   "chc @ cin": {
+    "36": {
+      "player": "reese mcguire",
+      "pitcher": "zack littell",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "willi castro",
       "pitcher": "zack littell",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "matt shaw",
@@ -2007,8 +2013,8 @@
     "24": {
       "player": "masataka yoshida",
       "pitcher": "adrian houser",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "yandy diaz",
@@ -2305,7 +2311,7 @@
     "20": {
       "player": "aaron judge",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Sweeper"
     },
     "19": {
@@ -2841,8 +2847,8 @@
     "20": {
       "player": "brice turang",
       "pitcher": "miles mikolas",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "william contreras",
