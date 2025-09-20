@@ -350,6 +350,12 @@
     }
   },
   "ath @ pit": {
+    "61": {
+      "player": "lawrence butler",
+      "pitcher": "kyle nicolas",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "60": {
       "player": "brett harris",
       "pitcher": "kyle nicolas",
@@ -1101,7 +1107,7 @@
     "43": {
       "player": "ryan mountcastle",
       "pitcher": "will warren",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Sweeper"
     },
     "42": {
@@ -1991,8 +1997,8 @@
     "35": {
       "player": "will robertson",
       "pitcher": "dylan cease",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Knuckle Curve"
     },
     "34": {
       "player": "curtis mead",
@@ -2310,12 +2316,6 @@
     }
   },
   "laa @ col": {
-    "19": {
-      "player": "tyler freeman",
-      "pitcher": "mitch farris",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "18": {
       "player": "ryan ritter",
       "pitcher": "mitch farris",
@@ -2429,7 +2429,7 @@
     "16": {
       "player": "randy arozarena",
       "pitcher": "hunter brown",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "15": {
