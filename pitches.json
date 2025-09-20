@@ -344,12 +344,6 @@
     }
   },
   "ath @ pit": {
-    "60": {
-      "player": "brett harris",
-      "pitcher": "kyle nicolas",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "59": {
       "player": "nick gonzales",
       "pitcher": "brady basso",
@@ -1609,8 +1603,8 @@
     "32": {
       "player": "ceddanne rafaela",
       "pitcher": "cole sulser",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "carlos narvaez",
@@ -1803,7 +1797,7 @@
     "27": {
       "player": "jac caglianone",
       "pitcher": "tommy nance",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "26": {
@@ -2286,6 +2280,12 @@
     }
   },
   "laa @ col": {
+    "18": {
+      "player": "ryan ritter",
+      "pitcher": "mitch farris",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "17": {
       "player": "kyle karros",
       "pitcher": "mitch farris",
@@ -2565,7 +2565,7 @@
     "13": {
       "player": "caleb durbin",
       "pitcher": "sonny gray",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "12": {
