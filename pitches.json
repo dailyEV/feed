@@ -317,7 +317,7 @@
     "56": {
       "player": "bryan reynolds",
       "pitcher": "brady basso",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "55": {
@@ -652,6 +652,12 @@
     }
   },
   "atl @ det": {
+    "61": {
+      "player": "nacho alvarez",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "michael harris",
       "pitcher": "chris paddack",
@@ -1790,12 +1796,6 @@
     }
   },
   "sd @ chw": {
-    "30": {
-      "player": "colson montgomery",
-      "pitcher": "dylan cease",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "29": {
       "player": "freddy fermin",
       "pitcher": "davis martin",
@@ -1975,8 +1975,8 @@
     "13": {
       "player": "josh jung",
       "pitcher": "janson junk",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "12": {
       "player": "jonah heim",
@@ -2138,11 +2138,17 @@
     }
   },
   "sea @ hou": {
+    "11": {
+      "player": "victor robles",
+      "pitcher": "hunter brown",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "10": {
       "player": "dominic canzone",
       "pitcher": "hunter brown",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "eugenio suarez",
