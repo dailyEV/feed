@@ -3,8 +3,8 @@
     "48": {
       "player": "pete crow armstrong",
       "pitcher": "connor phillips",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "michael busch",
@@ -287,8 +287,8 @@
     "50": {
       "player": "henry davis",
       "pitcher": "elvis alvarado",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "nick yorke",
@@ -589,8 +589,8 @@
     "53": {
       "player": "drake baldwin",
       "pitcher": "chris paddack",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "52": {
       "player": "ronald acuna",
@@ -1306,12 +1306,6 @@
     }
   },
   "bos @ tb": {
-    "23": {
-      "player": "masataka yoshida",
-      "pitcher": "drew rasmussen",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "22": {
       "player": "alex bregman",
       "pitcher": "drew rasmussen",
@@ -1731,7 +1725,7 @@
     "6": {
       "player": "hunter goodman",
       "pitcher": "mitch farris",
-      "result": "Foul Tip",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "5": {
@@ -1812,6 +1806,12 @@
     }
   },
   "mil @ stl": {
+    "3": {
+      "player": "christian yelich",
+      "pitcher": "sonny gray",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "2": {
       "player": "jackson chourio",
       "pitcher": "sonny gray",
