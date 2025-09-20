@@ -1,10 +1,16 @@
 {
   "chc @ cin": {
+    "38": {
+      "player": "seiya suzuki",
+      "pitcher": "nick lodolo",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "37": {
       "player": "ian happ",
       "pitcher": "nick lodolo",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "elly de la cruz",
@@ -466,12 +472,6 @@
     }
   },
   "atl @ det": {
-    "41": {
-      "player": "javier baez",
-      "pitcher": "bryce elder",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
     "40": {
       "player": "marcell ozuna",
       "pitcher": "chris paddack",
@@ -860,11 +860,17 @@
     }
   },
   "wsh @ nym": {
+    "24": {
+      "player": "francisco lindor",
+      "pitcher": "andrew alvarez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "23": {
       "player": "jose siri",
       "pitcher": "andrew alvarez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "22": {
       "player": "brett baty",
