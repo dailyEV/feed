@@ -909,7 +909,7 @@
     "87": {
       "player": "dylan crews",
       "pitcher": "tyler rogers",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "86": {
@@ -1680,6 +1680,12 @@
     }
   },
   "bos @ tb": {
+    "8": {
+      "player": "masataka yoshida",
+      "pitcher": "adrian houser",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "7": {
       "player": "brandon lowe",
       "pitcher": "kyle harrison",
@@ -1765,7 +1771,7 @@
     "6": {
       "player": "jazz chisholm",
       "pitcher": "tomoyuki sugano",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "5": {
@@ -1800,10 +1806,16 @@
     }
   },
   "sea @ hou": {
+    "5": {
+      "player": "jorge polanco",
+      "pitcher": "framber valdez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "eugenio suarez",
       "pitcher": "framber valdez",
-      "result": "Ball In Dirt",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "3": {
@@ -1829,8 +1841,8 @@
     "5": {
       "player": "bobby witt",
       "pitcher": "shane bieber",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "4": {
       "player": "carter jensen",
@@ -1905,8 +1917,8 @@
     "3": {
       "player": "christian yelich",
       "pitcher": "miles mikolas",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "2": {
       "player": "jackson chourio",
