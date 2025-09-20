@@ -634,11 +634,17 @@
     }
   },
   "atl @ det": {
+    "58": {
+      "player": "ha seong kim",
+      "pitcher": "chris paddack",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "ozzie albies",
       "pitcher": "chris paddack",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "56": {
       "player": "javier baez",
@@ -1718,6 +1724,12 @@
     }
   },
   "sd @ chw": {
+    "29": {
+      "player": "freddy fermin",
+      "pitcher": "davis martin",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "28": {
       "player": "jake cronenworth",
       "pitcher": "davis martin",
@@ -1888,10 +1900,16 @@
     }
   },
   "mia @ tex": {
+    "11": {
+      "player": "adolis garcia",
+      "pitcher": "janson junk",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "joc pederson",
       "pitcher": "janson junk",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "9": {
@@ -1953,8 +1971,8 @@
     "13": {
       "player": "denzer guzman",
       "pitcher": "bradley blalock",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "logan ohoppe",
