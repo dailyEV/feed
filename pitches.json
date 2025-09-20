@@ -2137,7 +2137,7 @@
     "57": {
       "player": "carson williams",
       "pitcher": "justin slaten",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "56": {
@@ -2478,12 +2478,6 @@
     }
   },
   "tor @ kc": {
-    "58": {
-      "player": "john rave",
-      "pitcher": "yariel rodriguez",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "57": {
       "player": "michael massey",
       "pitcher": "yariel rodriguez",
@@ -3178,6 +3172,12 @@
     }
   },
   "mia @ tex": {
+    "41": {
+      "player": "dane myers",
+      "pitcher": "chris martin",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "heriberto hernandez",
       "pitcher": "jacob latz",
@@ -3928,11 +3928,17 @@
     }
   },
   "cle @ min": {
+    "41": {
+      "player": "kyle manzardo",
+      "pitcher": "cody laweryson",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "jose ramirez",
       "pitcher": "cody laweryson",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "byron buxton",
@@ -4173,8 +4179,8 @@
     "38": {
       "player": "jackson chourio",
       "pitcher": "sonny gray",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "sal frelick",
