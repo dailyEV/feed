@@ -1285,8 +1285,8 @@
     "22": {
       "player": "alex bregman",
       "pitcher": "drew rasmussen",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "trevor story",
@@ -1416,6 +1416,12 @@
     }
   },
   "tor @ kc": {
+    "16": {
+      "player": "alejandro kirk",
+      "pitcher": "michael lorenzen",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "15": {
       "player": "bobby witt",
       "pitcher": "braydon fisher",
@@ -1680,11 +1686,17 @@
     }
   },
   "laa @ col": {
+    "6": {
+      "player": "hunter goodman",
+      "pitcher": "mitch farris",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "5": {
       "player": "mickey moniak",
       "pitcher": "mitch farris",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "tyler freeman",
@@ -1742,7 +1754,7 @@
       "player": "jose ramirez",
       "pitcher": "pablo lopez",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sweeper"
     },
     "2": {
       "player": "angel martinez",
