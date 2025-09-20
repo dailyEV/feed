@@ -239,8 +239,8 @@
     "42": {
       "player": "andrew mccutchen",
       "pitcher": "luis severino",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "41": {
       "player": "bryan reynolds",
@@ -490,6 +490,18 @@
     }
   },
   "atl @ det": {
+    "45": {
+      "player": "nacho alvarez",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "44": {
+      "player": "michael harris",
+      "pitcher": "chris paddack",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "43": {
       "player": "jake rogers",
       "pitcher": "bryce elder",
@@ -750,11 +762,17 @@
     }
   },
   "nyy @ bal": {
+    "27": {
+      "player": "amed rosario",
+      "pitcher": "trevor rogers",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "giancarlo stanton",
       "pitcher": "trevor rogers",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "25": {
       "player": "cody bellinger",
@@ -1146,11 +1164,17 @@
     }
   },
   "tor @ kc": {
+    "12": {
+      "player": "michael massey",
+      "pitcher": "max scherzer",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "jac caglianone",
       "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "adam frazier",
