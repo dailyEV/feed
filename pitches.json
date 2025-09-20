@@ -3,8 +3,8 @@
     "68": {
       "player": "spencer steer",
       "pitcher": "taylor rogers",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "67": {
       "player": "austin hays",
@@ -1269,7 +1269,7 @@
     "53": {
       "player": "coby mayo",
       "pitcher": "fernando cruz",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Splitter"
     },
     "52": {
@@ -1589,8 +1589,8 @@
     "51": {
       "player": "paul dejong",
       "pitcher": "ryne stanek",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "dylan crews",
@@ -1898,7 +1898,7 @@
       "player": "everson pereira",
       "pitcher": "garrett crochet",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "bob seymour",
@@ -2151,7 +2151,7 @@
     "41": {
       "player": "michael massey",
       "pitcher": "tommy nance",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "40": {
@@ -2399,7 +2399,7 @@
     "45": {
       "player": "gavin sheets",
       "pitcher": "davis martin",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "44": {
@@ -2826,6 +2826,12 @@
     }
   },
   "laa @ col": {
+    "29": {
+      "player": "christian moore",
+      "pitcher": "bradley blalock",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "28": {
       "player": "jo adell",
       "pitcher": "bradley blalock",
