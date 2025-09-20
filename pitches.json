@@ -293,7 +293,7 @@
     "52": {
       "player": "jacob wilson",
       "pitcher": "justin lawrence",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "51": {
@@ -607,8 +607,8 @@
     "54": {
       "player": "spencer torkelson",
       "pitcher": "bryce elder",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "53": {
       "player": "drake baldwin",
@@ -933,8 +933,8 @@
     "36": {
       "player": "jackson holliday",
       "pitcher": "will warren",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "35": {
       "player": "coby mayo",
@@ -1509,7 +1509,7 @@
     "20": {
       "player": "maikel garcia",
       "pitcher": "braydon fisher",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "19": {
@@ -1632,7 +1632,7 @@
       "player": "gavin sheets",
       "pitcher": "davis martin",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "25": {
       "player": "ramon laureano",
@@ -1789,7 +1789,7 @@
     "8": {
       "player": "heriberto hernandez",
       "pitcher": "tyler mahle",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "7": {
@@ -1968,6 +1968,12 @@
     }
   },
   "mil @ stl": {
+    "6": {
+      "player": "brendan donovan",
+      "pitcher": "jacob misiorowski",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "brice turang",
       "pitcher": "sonny gray",
