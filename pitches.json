@@ -1388,6 +1388,12 @@
     }
   },
   "chc @ cin": {
+    "16": {
+      "player": "kebryan hayes",
+      "pitcher": "javier assad",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "15": {
       "player": "tyler stephenson",
       "pitcher": "javier assad",
@@ -1480,6 +1486,12 @@
     }
   },
   "ath @ pit": {
+    "18": {
+      "player": "jared triolo",
+      "pitcher": "luis morales",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "17": {
       "player": "oneil cruz",
       "pitcher": "luis morales",
@@ -1584,6 +1596,12 @@
     }
   },
   "bos @ tb": {
+    "6": {
+      "player": "junior caminero",
+      "pitcher": "kyle harrison",
+      "result": "Swinging Strike",
+      "pitch": "Slurve"
+    },
     "5": {
       "player": "yandy diaz",
       "pitcher": "kyle harrison",
@@ -1655,14 +1673,15 @@
       "pitch": "Splitter"
     }
   },
-  "sea @ hou": {},
+  "sea @ hou": {
+    "1": {
+      "player": "randy arozarena",
+      "pitcher": "framber valdez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    }
+  },
   "tor @ kc": {
-    "3": {
-      "player": "vladimir guerrero",
-      "pitcher": "noah cameron",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "2": {
       "player": "davis schneider",
       "pitcher": "noah cameron",
@@ -1680,7 +1699,7 @@
     "3": {
       "player": "manny machado",
       "pitcher": "yoendrys gomez",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "2": {
