@@ -868,12 +868,6 @@
     }
   },
   "cle-gm2 @ min-gm2": {
-    "12": {
-      "player": "brooks lee",
-      "pitcher": "logan allen",
-      "result": "Foul",
-      "pitch": "Sweeper"
-    },
     "11": {
       "player": "royce lewis",
       "pitcher": "logan allen",
@@ -1487,8 +1481,8 @@
     "24": {
       "player": "gavin lux",
       "pitcher": "javier assad",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "spencer steer",
@@ -1634,7 +1628,7 @@
       "player": "tyler soderstrom",
       "pitcher": "bubba chandler",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "nick kurtz",
@@ -1886,6 +1880,12 @@
     }
   },
   "mia @ tex": {
+    "12": {
+      "player": "connor norby",
+      "pitcher": "jack leiter",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "11": {
       "player": "troy johnston",
       "pitcher": "jack leiter",
@@ -2149,8 +2149,8 @@
     "13": {
       "player": "jake cronenworth",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "12": {
       "player": "ryan ohearn",
