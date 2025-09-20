@@ -2086,11 +2086,17 @@
     }
   },
   "bos @ tb": {
+    "55": {
+      "player": "alex bregman",
+      "pitcher": "garrett cleavinger",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "54": {
       "player": "trevor story",
       "pitcher": "garrett cleavinger",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Slider"
     },
     "53": {
       "player": "jarren duran",
@@ -2416,7 +2422,7 @@
       "player": "addison barger",
       "pitcher": "michael lorenzen",
       "result": "Foul",
-      "pitch": "Cutter"
+      "pitch": "Slider"
     },
     "53": {
       "player": "vladimir guerrero",
@@ -3303,8 +3309,8 @@
     "42": {
       "player": "mickey moniak",
       "pitcher": "mitch farris",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "tyler freeman",
@@ -3557,8 +3563,8 @@
     "36": {
       "player": "julio rodriguez",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "35": {
       "player": "cal raleigh",
@@ -3776,7 +3782,7 @@
       "player": "james outman",
       "pitcher": "parker messick",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "37": {
       "player": "jhonny pereda",
