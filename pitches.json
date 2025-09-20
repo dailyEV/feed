@@ -871,8 +871,8 @@
     "20": {
       "player": "james outman",
       "pitcher": "logan allen",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "mickey gasper",
@@ -1532,10 +1532,16 @@
     }
   },
   "chc @ cin": {
+    "33": {
+      "player": "matt mclain",
+      "pitcher": "javier assad",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "32": {
       "player": "kebryan hayes",
       "pitcher": "javier assad",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "31": {
@@ -2069,8 +2075,8 @@
     "21": {
       "player": "otto lopez",
       "pitcher": "jack leiter",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "20": {
       "player": "liam hicks",
@@ -2194,6 +2200,12 @@
     }
   },
   "nyy @ bal": {
+    "17": {
+      "player": "jeremiah jackson",
+      "pitcher": "carlos rodon",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "ryan mountcastle",
       "pitcher": "carlos rodon",
@@ -2295,8 +2307,8 @@
     "17": {
       "player": "jake meyers",
       "pitcher": "george kirby",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "16": {
       "player": "jesus sanchez",
@@ -2396,6 +2408,12 @@
     }
   },
   "tor @ kc": {
+    "21": {
+      "player": "carter jensen",
+      "pitcher": "shane bieber",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "20": {
       "player": "michael massey",
       "pitcher": "shane bieber",
@@ -2628,6 +2646,12 @@
     }
   },
   "mil @ stl": {
+    "17": {
+      "player": "jackson chourio",
+      "pitcher": "miles mikolas",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "16": {
       "player": "nolan gorman",
       "pitcher": "chad patrick",
