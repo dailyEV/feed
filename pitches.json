@@ -661,8 +661,8 @@
     "61": {
       "player": "nacho alvarez",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "michael harris",
@@ -1668,11 +1668,17 @@
     }
   },
   "tor @ kc": {
+    "25": {
+      "player": "george springer",
+      "pitcher": "michael lorenzen",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "24": {
       "player": "ernie clement",
       "pitcher": "michael lorenzen",
-      "result": "Foul Tip",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "andres gimenez",
@@ -2002,6 +2008,12 @@
     }
   },
   "mia @ tex": {
+    "14": {
+      "player": "cody freeman",
+      "pitcher": "janson junk",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "josh jung",
       "pitcher": "janson junk",
