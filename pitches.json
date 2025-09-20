@@ -2864,11 +2864,17 @@
     }
   },
   "sd @ chw": {
+    "62": {
+      "player": "miguel vargas",
+      "pitcher": "wandy peralta",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "61": {
       "player": "colson montgomery",
       "pitcher": "wandy peralta",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "kyle teel",
@@ -3486,6 +3492,12 @@
     }
   },
   "laa @ col": {
+    "48": {
+      "player": "kyle karros",
+      "pitcher": "chase silseth",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "yanquiel fernandez",
       "pitcher": "chase silseth",
@@ -4024,12 +4036,6 @@
     }
   },
   "cle @ min": {
-    "44": {
-      "player": "luke keaschall",
-      "pitcher": "parker messick",
-      "result": "Called Strike",
-      "pitch": "Changeup"
-    },
     "43": {
       "player": "austin martin",
       "pitcher": "parker messick",
@@ -4547,7 +4553,7 @@
     "3": {
       "player": "bryce harper",
       "pitcher": "ryne nelson",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "2": {
