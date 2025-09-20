@@ -1409,8 +1409,8 @@
     "18": {
       "player": "michael busch",
       "pitcher": "zack littell",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "17": {
       "player": "reese mcguire",
@@ -1682,6 +1682,12 @@
     }
   },
   "mia @ tex": {
+    "5": {
+      "player": "joc pederson",
+      "pitcher": "adam mazur",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "liam hicks",
       "pitcher": "jack leiter",
@@ -1743,8 +1749,8 @@
     "3": {
       "player": "julio rodriguez",
       "pitcher": "framber valdez",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "2": {
       "player": "cal raleigh",
@@ -1783,8 +1789,8 @@
     "5": {
       "player": "kyle teel",
       "pitcher": "yu darvish",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "4": {
       "player": "chase meidroth",
@@ -1815,7 +1821,7 @@
     "1": {
       "player": "sal frelick",
       "pitcher": "miles mikolas",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     }
   },
