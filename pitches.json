@@ -1,11 +1,5 @@
 {
   "chc @ cin": {
-    "58": {
-      "player": "ian happ",
-      "pitcher": "nick martinez",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "57": {
       "player": "nico hoerner",
       "pitcher": "nick martinez",
@@ -1594,11 +1588,17 @@
     }
   },
   "bos @ tb": {
+    "32": {
+      "player": "ceddanne rafaela",
+      "pitcher": "cole sulser",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "31": {
       "player": "carlos narvaez",
       "pitcher": "cole sulser",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "nathaniel lowe",
@@ -1786,7 +1786,7 @@
       "player": "jac caglianone",
       "pitcher": "tommy nance",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "26": {
       "player": "nathan lukes",
@@ -1946,6 +1946,12 @@
     }
   },
   "sd @ chw": {
+    "34": {
+      "player": "curtis mead",
+      "pitcher": "dylan cease",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
     "33": {
       "player": "edgar quero",
       "pitcher": "dylan cease",
@@ -2146,6 +2152,12 @@
     }
   },
   "mia @ tex": {
+    "18": {
+      "player": "agustin ramirez",
+      "pitcher": "tyler mahle",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "17": {
       "player": "eric wagaman",
       "pitcher": "tyler mahle",
@@ -2520,11 +2532,17 @@
     }
   },
   "mil @ stl": {
+    "12": {
+      "player": "jake bauers",
+      "pitcher": "sonny gray",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "11": {
       "player": "isaac collins",
       "pitcher": "sonny gray",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "10": {
       "player": "lars nootbaar",
