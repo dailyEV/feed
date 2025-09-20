@@ -909,8 +909,8 @@
     "87": {
       "player": "dylan crews",
       "pitcher": "tyler rogers",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "86": {
       "player": "robert hassell",
@@ -1558,10 +1558,16 @@
     }
   },
   "ath @ pit": {
+    "22": {
+      "player": "brent rooker",
+      "pitcher": "bubba chandler",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "lawrence butler",
       "pitcher": "bubba chandler",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -1689,8 +1695,8 @@
     "8": {
       "player": "masataka yoshida",
       "pitcher": "adrian houser",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "7": {
       "player": "brandon lowe",
@@ -1812,6 +1818,12 @@
     }
   },
   "sea @ hou": {
+    "5": {
+      "player": "jorge polanco",
+      "pitcher": "framber valdez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "eugenio suarez",
       "pitcher": "framber valdez",
@@ -1876,6 +1888,12 @@
     }
   },
   "sd @ chw": {
+    "8": {
+      "player": "mike tauchman",
+      "pitcher": "yu darvish",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "7": {
       "player": "miguel vargas",
       "pitcher": "yu darvish",
