@@ -1,5 +1,11 @@
 {
   "chc @ cin": {
+    "41": {
+      "player": "dansby swanson",
+      "pitcher": "connor phillips",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "40": {
       "player": "justin turner",
       "pitcher": "nick lodolo",
@@ -499,8 +505,8 @@
     "45": {
       "player": "nacho alvarez",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "44": {
       "player": "michael harris",
@@ -932,6 +938,12 @@
     }
   },
   "wsh @ nym": {
+    "27": {
+      "player": "mark vientos",
+      "pitcher": "andrew alvarez",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "26": {
       "player": "pete alonso",
       "pitcher": "andrew alvarez",
@@ -1093,8 +1105,8 @@
     "15": {
       "player": "ceddanne rafaela",
       "pitcher": "drew rasmussen",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "carlos narvaez",
@@ -1186,7 +1198,7 @@
       "player": "michael massey",
       "pitcher": "max scherzer",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "11": {
       "player": "jac caglianone",
