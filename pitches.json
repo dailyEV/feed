@@ -3,7 +3,7 @@
     "44": {
       "player": "matt mclain",
       "pitcher": "shota imanaga",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Splitter"
     },
     "43": {
@@ -1317,7 +1317,7 @@
     "15": {
       "player": "bobby witt",
       "pitcher": "braydon fisher",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "14": {
@@ -1528,11 +1528,17 @@
     }
   },
   "mia @ tex": {
+    "3": {
+      "player": "otto lopez",
+      "pitcher": "tyler mahle",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "jakob marsee",
       "pitcher": "tyler mahle",
       "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "agustin ramirez",
@@ -1545,7 +1551,7 @@
     "2": {
       "player": "mike trout",
       "pitcher": "bradley blalock",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "1": {
@@ -1559,8 +1565,8 @@
     "1": {
       "player": "randy arozarena",
       "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     }
   },
   "cle @ min": {},
