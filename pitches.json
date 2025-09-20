@@ -1471,7 +1471,7 @@
     "16": {
       "player": "henry davis",
       "pitcher": "luis morales",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "15": {
@@ -1566,12 +1566,6 @@
     }
   },
   "bos @ tb": {
-    "4": {
-      "player": "chandler simpson",
-      "pitcher": "kyle harrison",
-      "result": "Foul",
-      "pitch": "Slurve"
-    },
     "3": {
       "player": "alex bregman",
       "pitcher": "adrian houser",
@@ -1592,10 +1586,16 @@
     }
   },
   "mia @ tex": {
+    "3": {
+      "player": "xavier edwards",
+      "pitcher": "jack leiter",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "agustin ramirez",
       "pitcher": "jack leiter",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "1": {
@@ -1610,7 +1610,7 @@
       "player": "aaron judge",
       "pitcher": "tomoyuki sugano",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Splitter"
     },
     "2": {
       "player": "ben rice",
@@ -1638,8 +1638,8 @@
     "1": {
       "player": "fernando tatis",
       "pitcher": "yoendrys gomez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     }
   },
   "mil @ stl": {},
