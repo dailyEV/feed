@@ -3,8 +3,8 @@
     "52": {
       "player": "spencer steer",
       "pitcher": "porter hodge",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "austin hays",
@@ -311,8 +311,8 @@
     "56": {
       "player": "bryan reynolds",
       "pitcher": "brady basso",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "55": {
       "player": "rafael flores",
@@ -649,8 +649,8 @@
     "59": {
       "player": "marcell ozuna",
       "pitcher": "chris paddack",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "58": {
       "player": "ha seong kim",
@@ -1468,6 +1468,12 @@
     }
   },
   "bos @ tb": {
+    "27": {
+      "player": "christopher morel",
+      "pitcher": "garrett crochet",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "26": {
       "player": "yandy diaz",
       "pitcher": "garrett crochet",
@@ -1942,6 +1948,12 @@
     }
   },
   "mia @ tex": {
+    "13": {
+      "player": "josh jung",
+      "pitcher": "janson junk",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "12": {
       "player": "jonah heim",
       "pitcher": "janson junk",
@@ -2019,8 +2031,8 @@
     "14": {
       "player": "bryce teodosio",
       "pitcher": "bradley blalock",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "denzer guzman",
@@ -2102,11 +2114,17 @@
     }
   },
   "sea @ hou": {
+    "10": {
+      "player": "dominic canzone",
+      "pitcher": "hunter brown",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "eugenio suarez",
       "pitcher": "hunter brown",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "8": {
       "player": "jorge polanco",
