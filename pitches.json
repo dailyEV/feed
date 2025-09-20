@@ -868,17 +868,11 @@
     }
   },
   "cle-gm2 @ min-gm2": {
-    "6": {
-      "player": "luke keaschall",
-      "pitcher": "logan allen",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "5": {
       "player": "austin martin",
       "pitcher": "logan allen",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "4": {
       "player": "byron buxton",
@@ -1555,7 +1549,7 @@
     "21": {
       "player": "lawrence butler",
       "pitcher": "bubba chandler",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "20": {
@@ -1724,6 +1718,12 @@
     }
   },
   "mia @ tex": {
+    "6": {
+      "player": "cody freeman",
+      "pitcher": "adam mazur",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "5": {
       "player": "joc pederson",
       "pitcher": "adam mazur",
@@ -1756,6 +1756,12 @@
     }
   },
   "nyy @ bal": {
+    "6": {
+      "player": "jazz chisholm",
+      "pitcher": "tomoyuki sugano",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "5": {
       "player": "giancarlo stanton",
       "pitcher": "tomoyuki sugano",
@@ -1817,8 +1823,8 @@
     "5": {
       "player": "bobby witt",
       "pitcher": "shane bieber",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "4": {
       "player": "carter jensen",
@@ -1846,6 +1852,12 @@
     }
   },
   "sd @ chw": {
+    "7": {
+      "player": "miguel vargas",
+      "pitcher": "yu darvish",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "6": {
       "player": "colson montgomery",
       "pitcher": "yu darvish",
@@ -1884,6 +1896,12 @@
     }
   },
   "mil @ stl": {
+    "3": {
+      "player": "christian yelich",
+      "pitcher": "miles mikolas",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "jackson chourio",
       "pitcher": "miles mikolas",
