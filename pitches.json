@@ -287,8 +287,8 @@
     "50": {
       "player": "henry davis",
       "pitcher": "elvis alvarado",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "49": {
       "player": "nick yorke",
@@ -1306,11 +1306,17 @@
     }
   },
   "bos @ tb": {
+    "23": {
+      "player": "masataka yoshida",
+      "pitcher": "drew rasmussen",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "22": {
       "player": "alex bregman",
       "pitcher": "drew rasmussen",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "21": {
       "player": "trevor story",
@@ -1440,6 +1446,12 @@
     }
   },
   "tor @ kc": {
+    "17": {
+      "player": "daulton varsho",
+      "pitcher": "michael lorenzen",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "alejandro kirk",
       "pitcher": "michael lorenzen",
@@ -1784,7 +1796,7 @@
       "player": "jose ramirez",
       "pitcher": "pablo lopez",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "angel martinez",
@@ -1800,12 +1812,6 @@
     }
   },
   "mil @ stl": {
-    "3": {
-      "player": "christian yelich",
-      "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "2": {
       "player": "jackson chourio",
       "pitcher": "sonny gray",
