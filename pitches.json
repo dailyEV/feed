@@ -3,7 +3,7 @@
     "61": {
       "player": "tj friedl",
       "pitcher": "taylor rogers",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "60": {
@@ -1149,7 +1149,7 @@
     "45": {
       "player": "jeremiah jackson",
       "pitcher": "fernando cruz",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "44": {
@@ -1693,7 +1693,7 @@
     "35": {
       "player": "richie palacios",
       "pitcher": "garrett crochet",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "34": {
@@ -2100,7 +2100,7 @@
       "player": "fernando tatis",
       "pitcher": "davis martin",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "36": {
       "player": "michael a taylor",
@@ -2320,12 +2320,6 @@
     }
   },
   "mia @ tex": {
-    "20": {
-      "player": "michael helman",
-      "pitcher": "janson junk",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "19": {
       "player": "jakob marsee",
       "pitcher": "tyler mahle",
@@ -2564,6 +2558,12 @@
     }
   },
   "sea @ hou": {
+    "19": {
+      "player": "josh naylor",
+      "pitcher": "hunter brown",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "julio rodriguez",
       "pitcher": "hunter brown",
@@ -2674,6 +2674,12 @@
     }
   },
   "cle @ min": {
+    "17": {
+      "player": "carson mccusker",
+      "pitcher": "parker messick",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "kody clemens",
       "pitcher": "parker messick",
@@ -2772,6 +2778,12 @@
     }
   },
   "mil @ stl": {
+    "15": {
+      "player": "thomas saggese",
+      "pitcher": "jacob misiorowski",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "joey ortiz",
       "pitcher": "sonny gray",
