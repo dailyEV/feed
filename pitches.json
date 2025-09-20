@@ -3,8 +3,8 @@
     "63": {
       "player": "miguel andujar",
       "pitcher": "taylor rogers",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "62": {
       "player": "noelvi marte",
@@ -377,7 +377,7 @@
     "65": {
       "player": "nick yorke",
       "pitcher": "justin sterner",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -769,8 +769,8 @@
     "69": {
       "player": "ozzie albies",
       "pitcher": "paul sewald",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "drake baldwin",
@@ -2422,6 +2422,12 @@
     }
   },
   "mia @ tex": {
+    "22": {
+      "player": "alejandro osuna",
+      "pitcher": "janson junk",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "josh smith",
       "pitcher": "janson junk",
@@ -2553,8 +2559,8 @@
     "23": {
       "player": "yoan moncada",
       "pitcher": "bradley blalock",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "22": {
       "player": "mike trout",
@@ -2806,6 +2812,12 @@
     }
   },
   "cle @ min": {
+    "19": {
+      "player": "angel martinez",
+      "pitcher": "pablo lopez",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "18": {
       "player": "jhonny pereda",
       "pitcher": "parker messick",
@@ -2916,6 +2928,12 @@
     }
   },
   "mil @ stl": {
+    "17": {
+      "player": "jordan walker",
+      "pitcher": "jacob misiorowski",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "pedro pages",
       "pitcher": "jacob misiorowski",
