@@ -1745,7 +1745,7 @@
     "68": {
       "player": "francisco lindor",
       "pitcher": "mason thompson",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -2152,6 +2152,12 @@
     }
   },
   "bos @ tb": {
+    "60": {
+      "player": "romy gonzalez",
+      "pitcher": "cole wilcox",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "everson pereira",
       "pitcher": "justin slaten",
@@ -2861,8 +2867,8 @@
     "61": {
       "player": "colson montgomery",
       "pitcher": "wandy peralta",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "60": {
       "player": "kyle teel",
@@ -3229,8 +3235,8 @@
     "42": {
       "player": "connor norby",
       "pitcher": "chris martin",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "41": {
       "player": "dane myers",
@@ -3767,7 +3773,7 @@
     "42": {
       "player": "eugenio suarez",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "41": {
@@ -4018,6 +4024,12 @@
     }
   },
   "cle @ min": {
+    "44": {
+      "player": "luke keaschall",
+      "pitcher": "parker messick",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "43": {
       "player": "austin martin",
       "pitcher": "parker messick",
@@ -4278,6 +4290,12 @@
     }
   },
   "mil @ stl": {
+    "42": {
+      "player": "ivan herrera",
+      "pitcher": "rob zastryzny",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "brendan donovan",
       "pitcher": "rob zastryzny",
