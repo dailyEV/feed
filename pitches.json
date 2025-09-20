@@ -354,7 +354,7 @@
       "player": "lawrence butler",
       "pitcher": "kyle nicolas",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "brett harris",
@@ -1367,8 +1367,8 @@
     "43": {
       "player": "josh bell",
       "pitcher": "brooks raley",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "42": {
       "player": "cj abrams",
@@ -1824,11 +1824,17 @@
     }
   },
   "tor @ kc": {
-    "28": {
-      "player": "michael massey",
+    "29": {
+      "player": "john rave",
       "pitcher": "tommy nance",
       "result": "Called Strike",
       "pitch": "Sinker"
+    },
+    "28": {
+      "player": "michael massey",
+      "pitcher": "tommy nance",
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "27": {
       "player": "jac caglianone",
@@ -2316,6 +2322,12 @@
     }
   },
   "laa @ col": {
+    "19": {
+      "player": "tyler freeman",
+      "pitcher": "mitch farris",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "18": {
       "player": "ryan ritter",
       "pitcher": "mitch farris",
@@ -2429,8 +2441,8 @@
     "16": {
       "player": "randy arozarena",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "15": {
       "player": "jp crawford",
@@ -2613,8 +2625,8 @@
     "13": {
       "player": "caleb durbin",
       "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "12": {
       "player": "jake bauers",
