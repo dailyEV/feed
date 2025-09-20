@@ -1,9 +1,15 @@
 {
   "chc @ cin": {
+    "68": {
+      "player": "spencer steer",
+      "pitcher": "taylor rogers",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "67": {
       "player": "austin hays",
       "pitcher": "taylor rogers",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "66": {
@@ -1879,8 +1885,8 @@
     "42": {
       "player": "everson pereira",
       "pitcher": "garrett crochet",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "41": {
       "player": "bob seymour",
@@ -2133,7 +2139,7 @@
     "40": {
       "player": "jac caglianone",
       "pitcher": "tommy nance",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "39": {
@@ -2969,8 +2975,8 @@
     "24": {
       "player": "eugenio suarez",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "23": {
       "player": "jorge polanco",
@@ -3112,12 +3118,6 @@
     }
   },
   "cle @ min": {
-    "25": {
-      "player": "bo naylor",
-      "pitcher": "pablo lopez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
     "24": {
       "player": "austin martin",
       "pitcher": "parker messick",
