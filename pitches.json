@@ -3,8 +3,8 @@
     "52": {
       "player": "spencer steer",
       "pitcher": "porter hodge",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "51": {
       "player": "austin hays",
@@ -359,7 +359,7 @@
     "46": {
       "player": "tyler soderstrom",
       "pitcher": "evan sisk",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "45": {
@@ -634,6 +634,12 @@
     }
   },
   "atl @ det": {
+    "57": {
+      "player": "ozzie albies",
+      "pitcher": "chris paddack",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "56": {
       "player": "javier baez",
       "pitcher": "bryce elder",
@@ -2024,6 +2030,12 @@
     }
   },
   "sea @ hou": {
+    "9": {
+      "player": "eugenio suarez",
+      "pitcher": "hunter brown",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "jorge polanco",
       "pitcher": "hunter brown",
@@ -2078,7 +2090,7 @@
       "player": "austin martin",
       "pitcher": "parker messick",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "byron buxton",
@@ -2127,7 +2139,7 @@
     "7": {
       "player": "ivan herrera",
       "pitcher": "jacob misiorowski",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "6": {
