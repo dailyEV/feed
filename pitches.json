@@ -872,7 +872,7 @@
       "player": "austin hedges",
       "pitcher": "bailey ober",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Sweeper"
     },
     "15": {
       "player": "petey halpin",
@@ -1666,17 +1666,11 @@
     }
   },
   "ath @ pit": {
-    "31": {
-      "player": "nick yorke",
-      "pitcher": "luis morales",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "30": {
       "player": "nick gonzales",
       "pitcher": "luis morales",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "29": {
       "player": "shea langeliers",
@@ -1955,8 +1949,8 @@
     "16": {
       "player": "josh jung",
       "pitcher": "adam mazur",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "15": {
       "player": "josh smith",
@@ -2136,6 +2130,18 @@
     }
   },
   "sea @ hou": {
+    "14": {
+      "player": "jp crawford",
+      "pitcher": "framber valdez",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "13": {
+      "player": "victor robles",
+      "pitcher": "framber valdez",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "12": {
       "player": "mitch garver",
       "pitcher": "framber valdez",
@@ -2296,6 +2302,12 @@
     }
   },
   "sd @ chw": {
+    "15": {
+      "player": "lenyn sosa",
+      "pitcher": "yu darvish",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "edgar quero",
       "pitcher": "yu darvish",
