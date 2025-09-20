@@ -350,12 +350,6 @@
     }
   },
   "ath @ pit": {
-    "60": {
-      "player": "brett harris",
-      "pitcher": "kyle nicolas",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "59": {
       "player": "nick gonzales",
       "pitcher": "brady basso",
@@ -1612,6 +1606,12 @@
     }
   },
   "bos @ tb": {
+    "33": {
+      "player": "jarren duran",
+      "pitcher": "cole sulser",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "32": {
       "player": "ceddanne rafaela",
       "pitcher": "cole sulser",
@@ -2402,11 +2402,17 @@
     }
   },
   "sea @ hou": {
+    "16": {
+      "player": "randy arozarena",
+      "pitcher": "hunter brown",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "jp crawford",
       "pitcher": "hunter brown",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "christian walker",
@@ -2577,8 +2583,8 @@
     "13": {
       "player": "caleb durbin",
       "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "12": {
       "player": "jake bauers",
