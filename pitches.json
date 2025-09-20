@@ -3,7 +3,7 @@
     "44": {
       "player": "matt mclain",
       "pitcher": "shota imanaga",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "43": {
@@ -831,8 +831,8 @@
     "30": {
       "player": "samuel basallo",
       "pitcher": "will warren",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "29": {
       "player": "jeremiah jackson",
@@ -1192,11 +1192,17 @@
     }
   },
   "bos @ tb": {
+    "20": {
+      "player": "everson pereira",
+      "pitcher": "garrett crochet",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "19": {
       "player": "bob seymour",
       "pitcher": "garrett crochet",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "18": {
       "player": "carson williams",
@@ -1526,7 +1532,7 @@
       "player": "jakob marsee",
       "pitcher": "tyler mahle",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "1": {
       "player": "agustin ramirez",
@@ -1536,6 +1542,12 @@
     }
   },
   "laa @ col": {
+    "2": {
+      "player": "mike trout",
+      "pitcher": "bradley blalock",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "nolan schanuel",
       "pitcher": "bradley blalock",
