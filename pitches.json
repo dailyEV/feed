@@ -2143,8 +2143,8 @@
     "59": {
       "player": "everson pereira",
       "pitcher": "justin slaten",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "58": {
       "player": "bob seymour",
@@ -2499,8 +2499,8 @@
     "58": {
       "player": "john rave",
       "pitcher": "yariel rodriguez",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "michael massey",
@@ -2846,6 +2846,12 @@
     }
   },
   "sd @ chw": {
+    "60": {
+      "player": "kyle teel",
+      "pitcher": "wandy peralta",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "jackson merrill",
       "pitcher": "brandon eisert",
@@ -3205,7 +3211,7 @@
     "42": {
       "player": "connor norby",
       "pitcher": "chris martin",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "41": {
@@ -3456,6 +3462,12 @@
     }
   },
   "laa @ col": {
+    "47": {
+      "player": "yanquiel fernandez",
+      "pitcher": "chase silseth",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "46": {
       "player": "ezequiel tovar",
       "pitcher": "chase silseth",
@@ -3734,6 +3746,12 @@
     }
   },
   "sea @ hou": {
+    "41": {
+      "player": "jorge polanco",
+      "pitcher": "hunter brown",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "40": {
       "player": "josh naylor",
       "pitcher": "hunter brown",
@@ -3976,6 +3994,12 @@
     }
   },
   "cle @ min": {
+    "43": {
+      "player": "austin martin",
+      "pitcher": "parker messick",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "42": {
       "player": "bo naylor",
       "pitcher": "cody laweryson",
@@ -4478,11 +4502,17 @@
     }
   },
   "phi @ ari": {
+    "2": {
+      "player": "kyle schwarber",
+      "pitcher": "ryne nelson",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "1": {
       "player": "harrison bader",
       "pitcher": "ryne nelson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     }
   },
   "sf @ lad": {}
