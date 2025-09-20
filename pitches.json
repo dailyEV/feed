@@ -2188,6 +2188,12 @@
     }
   },
   "bos @ tb": {
+    "67": {
+      "player": "alex bregman",
+      "pitcher": "cole wilcox",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "66": {
       "player": "trevor story",
       "pitcher": "cole wilcox",
@@ -3645,7 +3651,7 @@
     "53": {
       "player": "tyler freeman",
       "pitcher": "chase silseth",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -3962,6 +3968,12 @@
     }
   },
   "sea @ hou": {
+    "47": {
+      "player": "isaac paredes",
+      "pitcher": "eduard bazardo",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "carlos correa",
       "pitcher": "eduard bazardo",
@@ -4530,10 +4542,16 @@
     }
   },
   "mil @ stl": {
+    "46": {
+      "player": "thomas saggese",
+      "pitcher": "grant anderson",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "45": {
       "player": "lars nootbaar",
       "pitcher": "grant anderson",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "44": {
