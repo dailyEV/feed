@@ -1565,8 +1565,8 @@
     "36": {
       "player": "reese mcguire",
       "pitcher": "zack littell",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "willi castro",
@@ -2016,11 +2016,17 @@
     }
   },
   "bos @ tb": {
+    "25": {
+      "player": "romy gonzalez",
+      "pitcher": "adrian houser",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "masataka yoshida",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "23": {
       "player": "yandy diaz",
@@ -2314,6 +2320,12 @@
     }
   },
   "nyy @ bal": {
+    "21": {
+      "player": "cody bellinger",
+      "pitcher": "tomoyuki sugano",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "20": {
       "player": "aaron judge",
       "pitcher": "tomoyuki sugano",
@@ -2719,7 +2731,7 @@
     "22": {
       "player": "kyle teel",
       "pitcher": "yu darvish",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "21": {
