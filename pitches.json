@@ -3,7 +3,7 @@
     "37": {
       "player": "ian happ",
       "pitcher": "nick lodolo",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "36": {
@@ -221,8 +221,8 @@
     "41": {
       "player": "bryan reynolds",
       "pitcher": "luis severino",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "40": {
       "player": "spencer horwitz",
@@ -708,6 +708,12 @@
     }
   },
   "nyy @ bal": {
+    "24": {
+      "player": "ryan mountcastle",
+      "pitcher": "will warren",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "gunnar henderson",
       "pitcher": "will warren",
