@@ -1329,7 +1329,7 @@
     "69": {
       "player": "jazz chisholm",
       "pitcher": "keegan akin",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -1745,7 +1745,7 @@
     "64": {
       "player": "josh bell",
       "pitcher": "tyler rogers",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "63": {
@@ -2128,6 +2128,12 @@
     }
   },
   "bos @ tb": {
+    "56": {
+      "player": "masataka yoshida",
+      "pitcher": "cole wilcox",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "55": {
       "player": "alex bregman",
       "pitcher": "garrett cleavinger",
@@ -2801,7 +2807,7 @@
     "58": {
       "player": "manny machado",
       "pitcher": "jordan leasure",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -3665,8 +3671,8 @@
     "38": {
       "player": "yainer diaz",
       "pitcher": "bryan woo",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "37": {
       "player": "christian walker",
@@ -4131,8 +4137,8 @@
     "37": {
       "player": "sal frelick",
       "pitcher": "sonny gray",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "victor scott",
