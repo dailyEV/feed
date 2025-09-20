@@ -897,7 +897,7 @@
     "85": {
       "player": "daylen lile",
       "pitcher": "tyler rogers",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "84": {
@@ -1406,10 +1406,16 @@
     }
   },
   "chc @ cin": {
+    "18": {
+      "player": "michael busch",
+      "pitcher": "zack littell",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "17": {
       "player": "reese mcguire",
       "pitcher": "zack littell",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "16": {
@@ -1635,7 +1641,7 @@
     "7": {
       "player": "brandon lowe",
       "pitcher": "kyle harrison",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -1702,6 +1708,12 @@
     }
   },
   "nyy @ bal": {
+    "5": {
+      "player": "giancarlo stanton",
+      "pitcher": "tomoyuki sugano",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "4": {
       "player": "cody bellinger",
       "pitcher": "tomoyuki sugano",
@@ -1772,7 +1784,7 @@
       "player": "kyle teel",
       "pitcher": "yu darvish",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Sweeper"
     },
     "4": {
       "player": "chase meidroth",
