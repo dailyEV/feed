@@ -3,8 +3,8 @@
     "42": {
       "player": "kebryan hayes",
       "pitcher": "shota imanaga",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "dansby swanson",
@@ -795,7 +795,7 @@
     "29": {
       "player": "jeremiah jackson",
       "pitcher": "will warren",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "28": {
@@ -968,6 +968,12 @@
     }
   },
   "wsh @ nym": {
+    "28": {
+      "player": "dylan crews",
+      "pitcher": "brandon sproat",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "27": {
       "player": "mark vientos",
       "pitcher": "andrew alvarez",
@@ -1230,12 +1236,6 @@
     }
   },
   "tor @ kc": {
-    "14": {
-      "player": "carter jensen",
-      "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "13": {
       "player": "john rave",
       "pitcher": "max scherzer",
@@ -1319,8 +1319,8 @@
     "16": {
       "player": "jake cronenworth",
       "pitcher": "davis martin",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "15": {
       "player": "ryan ohearn",
@@ -1413,7 +1413,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "mia @ tex": {},
+  "mia @ tex": {
+    "1": {
+      "player": "agustin ramirez",
+      "pitcher": "tyler mahle",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "laa @ col": {},
   "sea @ hou": {},
   "cle @ min": {},
