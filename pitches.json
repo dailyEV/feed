@@ -1946,12 +1946,6 @@
     }
   },
   "mia @ tex": {
-    "16": {
-      "player": "josh jung",
-      "pitcher": "adam mazur",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "15": {
       "player": "josh smith",
       "pitcher": "adam mazur",
@@ -2047,8 +2041,8 @@
     "13": {
       "player": "anthony volpe",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "ryan mcmahon",
@@ -2127,7 +2121,7 @@
     "12": {
       "player": "mitch garver",
       "pitcher": "framber valdez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "11": {
@@ -2370,6 +2364,12 @@
     }
   },
   "mil @ stl": {
+    "13": {
+      "player": "sal frelick",
+      "pitcher": "miles mikolas",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "joey ortiz",
       "pitcher": "miles mikolas",
