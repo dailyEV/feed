@@ -634,12 +634,6 @@
     }
   },
   "atl @ det": {
-    "57": {
-      "player": "ozzie albies",
-      "pitcher": "chris paddack",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
-    },
     "56": {
       "player": "javier baez",
       "pitcher": "bryce elder",
@@ -981,8 +975,8 @@
     "38": {
       "player": "paul goldschmidt",
       "pitcher": "trevor rogers",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "37": {
       "player": "austin wells",
@@ -1211,8 +1205,8 @@
     "37": {
       "player": "juan soto",
       "pitcher": "pj poulin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "36": {
       "player": "francisco lindor",
@@ -2080,6 +2074,12 @@
     }
   },
   "cle @ min": {
+    "8": {
+      "player": "austin martin",
+      "pitcher": "parker messick",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "7": {
       "player": "byron buxton",
       "pitcher": "parker messick",
@@ -2127,7 +2127,7 @@
     "7": {
       "player": "ivan herrera",
       "pitcher": "jacob misiorowski",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "6": {
