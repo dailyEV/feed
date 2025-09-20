@@ -652,6 +652,12 @@
     }
   },
   "atl @ det": {
+    "60": {
+      "player": "michael harris",
+      "pitcher": "chris paddack",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "59": {
       "player": "marcell ozuna",
       "pitcher": "chris paddack",
@@ -1011,7 +1017,7 @@
     "39": {
       "player": "aaron judge",
       "pitcher": "trevor rogers",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -1247,8 +1253,8 @@
     "39": {
       "player": "mark vientos",
       "pitcher": "pj poulin",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "38": {
       "player": "pete alonso",
@@ -1480,6 +1486,12 @@
     }
   },
   "bos @ tb": {
+    "27": {
+      "player": "christopher morel",
+      "pitcher": "garrett crochet",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "26": {
       "player": "yandy diaz",
       "pitcher": "garrett crochet",
@@ -1641,8 +1653,8 @@
     "23": {
       "player": "andres gimenez",
       "pitcher": "michael lorenzen",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "22": {
       "player": "adam frazier",
@@ -1778,6 +1790,12 @@
     }
   },
   "sd @ chw": {
+    "30": {
+      "player": "colson montgomery",
+      "pitcher": "dylan cease",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "freddy fermin",
       "pitcher": "davis martin",
@@ -1957,8 +1975,8 @@
     "13": {
       "player": "josh jung",
       "pitcher": "janson junk",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "12": {
       "player": "jonah heim",
@@ -2037,8 +2055,8 @@
     "14": {
       "player": "bryce teodosio",
       "pitcher": "bradley blalock",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "denzer guzman",
