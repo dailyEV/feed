@@ -872,7 +872,7 @@
       "player": "jose ramirez",
       "pitcher": "bailey ober",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Changeup"
     },
     "21": {
       "player": "daniel schneemann",
@@ -1544,6 +1544,12 @@
     }
   },
   "chc @ cin": {
+    "34": {
+      "player": "matt shaw",
+      "pitcher": "zack littell",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "33": {
       "player": "matt mclain",
       "pitcher": "javier assad",
@@ -2108,12 +2114,6 @@
     }
   },
   "mia @ tex": {
-    "23": {
-      "player": "ezequiel duran",
-      "pitcher": "adam mazur",
-      "result": "Ball",
-      "pitch": "Curveball"
-    },
     "22": {
       "player": "heriberto hernandez",
       "pitcher": "jack leiter",
@@ -2364,11 +2364,17 @@
     }
   },
   "sea @ hou": {
+    "19": {
+      "player": "cal raleigh",
+      "pitcher": "framber valdez",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "18": {
       "player": "randy arozarena",
       "pitcher": "framber valdez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "jake meyers",
