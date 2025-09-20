@@ -1,5 +1,11 @@
 {
   "chc @ cin": {
+    "56": {
+      "player": "matt mclain",
+      "pitcher": "porter hodge",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "55": {
       "player": "jose trevino",
       "pitcher": "porter hodge",
@@ -1041,8 +1047,8 @@
     "40": {
       "player": "cody bellinger",
       "pitcher": "trevor rogers",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "39": {
       "player": "aaron judge",
@@ -1701,8 +1707,8 @@
     "26": {
       "player": "nathan lukes",
       "pitcher": "michael lorenzen",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "25": {
       "player": "george springer",
@@ -1856,6 +1862,12 @@
     }
   },
   "sd @ chw": {
+    "32": {
+      "player": "mike tauchman",
+      "pitcher": "dylan cease",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "31": {
       "player": "miguel vargas",
       "pitcher": "dylan cease",
@@ -2047,8 +2059,8 @@
     "14": {
       "player": "cody freeman",
       "pitcher": "janson junk",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "13": {
       "player": "josh jung",
@@ -2133,8 +2145,8 @@
     "15": {
       "player": "ezequiel tovar",
       "pitcher": "mitch farris",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "14": {
       "player": "bryce teodosio",
@@ -2222,6 +2234,12 @@
     }
   },
   "sea @ hou": {
+    "12": {
+      "player": "jose altuve",
+      "pitcher": "bryan woo",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "victor robles",
       "pitcher": "hunter brown",
@@ -2290,6 +2308,12 @@
     }
   },
   "cle @ min": {
+    "11": {
+      "player": "cj kayfus",
+      "pitcher": "pablo lopez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "10": {
       "player": "george valera",
       "pitcher": "pablo lopez",
@@ -2352,6 +2376,12 @@
     }
   },
   "mil @ stl": {
+    "10": {
+      "player": "lars nootbaar",
+      "pitcher": "jacob misiorowski",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "nolan arenado",
       "pitcher": "jacob misiorowski",
