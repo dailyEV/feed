@@ -872,7 +872,7 @@
       "player": "gabriel arias",
       "pitcher": "bailey ober",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Changeup"
     },
     "7": {
       "player": "kyle manzardo",
@@ -1585,8 +1585,8 @@
     "23": {
       "player": "bryan reynolds",
       "pitcher": "luis morales",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "22": {
       "player": "brent rooker",
@@ -1840,6 +1840,12 @@
     }
   },
   "nyy @ bal": {
+    "7": {
+      "player": "jackson holliday",
+      "pitcher": "carlos rodon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "jazz chisholm",
       "pitcher": "tomoyuki sugano",
@@ -1881,7 +1887,7 @@
     "7": {
       "player": "carlos correa",
       "pitcher": "george kirby",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "6": {
@@ -2016,6 +2022,12 @@
     }
   },
   "mil @ stl": {
+    "5": {
+      "player": "brendan donovan",
+      "pitcher": "chad patrick",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "william contreras",
       "pitcher": "miles mikolas",
