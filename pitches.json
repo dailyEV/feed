@@ -868,12 +868,6 @@
     }
   },
   "cle-gm2 @ min-gm2": {
-    "13": {
-      "player": "carson mccusker",
-      "pitcher": "logan allen",
-      "result": "In play, no out",
-      "pitch": "Changeup"
-    },
     "12": {
       "player": "brooks lee",
       "pitcher": "logan allen",
@@ -1490,11 +1484,17 @@
     }
   },
   "chc @ cin": {
+    "25": {
+      "player": "austin hays",
+      "pitcher": "javier assad",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "24": {
       "player": "gavin lux",
       "pitcher": "javier assad",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "23": {
       "player": "spencer steer",
@@ -1981,8 +1981,8 @@
     "11": {
       "player": "paul goldschmidt",
       "pitcher": "tomoyuki sugano",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "10": {
       "player": "tyler oneill",
@@ -2179,8 +2179,8 @@
     "13": {
       "player": "jake cronenworth",
       "pitcher": "yoendrys gomez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "ryan ohearn",
@@ -2260,7 +2260,7 @@
       "player": "jake bauers",
       "pitcher": "miles mikolas",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "9": {
       "player": "caleb durbin",
