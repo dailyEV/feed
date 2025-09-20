@@ -487,7 +487,7 @@
     "43": {
       "player": "jake rogers",
       "pitcher": "bryce elder",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "42": {
@@ -747,8 +747,8 @@
     "26": {
       "player": "giancarlo stanton",
       "pitcher": "trevor rogers",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "cody bellinger",
@@ -902,11 +902,17 @@
     }
   },
   "wsh @ nym": {
+    "25": {
+      "player": "juan soto",
+      "pitcher": "andrew alvarez",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "24": {
       "player": "francisco lindor",
       "pitcher": "andrew alvarez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "23": {
       "player": "jose siri",
