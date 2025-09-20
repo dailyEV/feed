@@ -4023,7 +4023,7 @@
     "69": {
       "player": "christian moore",
       "pitcher": "victor vodnik",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -4804,11 +4804,17 @@
     }
   },
   "cle @ min": {
+    "65": {
+      "player": "royce lewis",
+      "pitcher": "jakob junis",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "brooks lee",
       "pitcher": "jakob junis",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "63": {
       "player": "luke keaschall",
@@ -5178,6 +5184,12 @@
     }
   },
   "mil @ stl": {
+    "64": {
+      "player": "pedro pages",
+      "pitcher": "tobias myers",
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
+    },
     "63": {
       "player": "thomas saggese",
       "pitcher": "tobias myers",
@@ -5561,8 +5573,8 @@
     "27": {
       "player": "gabriel moreno",
       "pitcher": "taijuan walker",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "26": {
       "player": "corbin carroll",
