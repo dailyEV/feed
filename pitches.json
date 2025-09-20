@@ -3,7 +3,7 @@
     "62": {
       "player": "noelvi marte",
       "pitcher": "taylor rogers",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "61": {
@@ -371,8 +371,8 @@
     "64": {
       "player": "jack suwinski",
       "pitcher": "justin sterner",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "nick kurtz",
@@ -1161,8 +1161,8 @@
     "45": {
       "player": "jeremiah jackson",
       "pitcher": "fernando cruz",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Splitter"
     },
     "44": {
       "player": "dylan beavers",
@@ -1433,8 +1433,8 @@
     "46": {
       "player": "starling marte",
       "pitcher": "sauryn lao",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "brandon nimmo",
@@ -1711,8 +1711,8 @@
     "36": {
       "player": "carson williams",
       "pitcher": "garrett crochet",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "35": {
       "player": "richie palacios",
@@ -2129,8 +2129,8 @@
     "38": {
       "player": "luis arraez",
       "pitcher": "davis martin",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "37": {
       "player": "fernando tatis",
@@ -2356,11 +2356,17 @@
     }
   },
   "mia @ tex": {
+    "21": {
+      "player": "josh smith",
+      "pitcher": "janson junk",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "20": {
       "player": "michael helman",
       "pitcher": "janson junk",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "jakob marsee",
@@ -2609,7 +2615,7 @@
     "19": {
       "player": "josh naylor",
       "pitcher": "hunter brown",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "18": {
