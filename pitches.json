@@ -290,6 +290,12 @@
     }
   },
   "ath @ pit": {
+    "52": {
+      "player": "jacob wilson",
+      "pitcher": "justin lawrence",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "jared triolo",
       "pitcher": "elvis alvarado",
@@ -927,7 +933,7 @@
     "35": {
       "player": "coby mayo",
       "pitcher": "will warren",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "34": {
@@ -1351,8 +1357,8 @@
     "24": {
       "player": "romy gonzalez",
       "pitcher": "drew rasmussen",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "23": {
       "player": "masataka yoshida",
@@ -1494,11 +1500,17 @@
     }
   },
   "tor @ kc": {
+    "20": {
+      "player": "maikel garcia",
+      "pitcher": "braydon fisher",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "19": {
       "player": "vinnie pasquantino",
       "pitcher": "braydon fisher",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "18": {
       "player": "davis schneider",
@@ -1610,6 +1622,12 @@
     }
   },
   "sd @ chw": {
+    "26": {
+      "player": "gavin sheets",
+      "pitcher": "davis martin",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "25": {
       "player": "ramon laureano",
       "pitcher": "davis martin",
@@ -1765,8 +1783,8 @@
     "8": {
       "player": "heriberto hernandez",
       "pitcher": "tyler mahle",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "7": {
       "player": "liam hicks",
@@ -1909,8 +1927,8 @@
     "6": {
       "player": "gabriel arias",
       "pitcher": "pablo lopez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "bo naylor",
