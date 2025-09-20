@@ -3673,8 +3673,8 @@
     "69": {
       "player": "otto lopez",
       "pitcher": "hoby milner",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "68": {
       "player": "jakob marsee",
@@ -5382,6 +5382,18 @@
     }
   },
   "mil @ stl": {
+    "74": {
+      "player": "alec burleson",
+      "pitcher": "tobias myers",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
+    "73": {
+      "player": "ivan herrera",
+      "pitcher": "tobias myers",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "72": {
       "player": "brendan donovan",
       "pitcher": "tobias myers",
@@ -6034,6 +6046,12 @@
     }
   },
   "sf @ lad": {
+    "20": {
+      "player": "rafael devers",
+      "pitcher": "clayton kershaw",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "19": {
       "player": "enrique hernandez",
       "pitcher": "robbie ray",
