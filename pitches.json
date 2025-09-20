@@ -2215,8 +2215,8 @@
     "84": {
       "player": "bob seymour",
       "pitcher": "chris murphy",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "83": {
       "player": "carson williams",
@@ -4427,8 +4427,8 @@
     "60": {
       "player": "jesus sanchez",
       "pitcher": "matt brash",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "59": {
       "player": "yainer diaz",
@@ -4789,8 +4789,8 @@
     "63": {
       "player": "luke keaschall",
       "pitcher": "jakob junis",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "62": {
       "player": "gabriel arias",
@@ -5154,6 +5154,12 @@
     }
   },
   "mil @ stl": {
+    "63": {
+      "player": "thomas saggese",
+      "pitcher": "tobias myers",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "lars nootbaar",
       "pitcher": "tobias myers",
@@ -5686,6 +5692,12 @@
     }
   },
   "sf @ lad": {
+    "10": {
+      "player": "jerar encarnacion",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "teoscar hernandez",
       "pitcher": "robbie ray",
