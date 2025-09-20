@@ -3,8 +3,8 @@
     "52": {
       "player": "spencer steer",
       "pitcher": "porter hodge",
-      "result": "Ball In Dirt",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "51": {
       "player": "austin hays",
@@ -649,8 +649,8 @@
     "59": {
       "player": "marcell ozuna",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "ha seong kim",
@@ -1005,8 +1005,8 @@
     "38": {
       "player": "paul goldschmidt",
       "pitcher": "trevor rogers",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "37": {
       "player": "austin wells",
@@ -1232,6 +1232,12 @@
     }
   },
   "wsh @ nym": {
+    "39": {
+      "player": "mark vientos",
+      "pitcher": "pj poulin",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "38": {
       "player": "pete alonso",
       "pitcher": "pj poulin",
@@ -1620,6 +1626,12 @@
     }
   },
   "tor @ kc": {
+    "23": {
+      "player": "andres gimenez",
+      "pitcher": "michael lorenzen",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "22": {
       "player": "adam frazier",
       "pitcher": "braydon fisher",
@@ -2004,10 +2016,16 @@
     }
   },
   "laa @ col": {
+    "14": {
+      "player": "bryce teodosio",
+      "pitcher": "bradley blalock",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "13": {
       "player": "denzer guzman",
       "pitcher": "bradley blalock",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -2087,8 +2105,8 @@
     "9": {
       "player": "eugenio suarez",
       "pitcher": "hunter brown",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "8": {
       "player": "jorge polanco",
@@ -2143,7 +2161,7 @@
     "9": {
       "player": "luke keaschall",
       "pitcher": "parker messick",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "8": {
