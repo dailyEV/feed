@@ -1745,8 +1745,8 @@
     "66": {
       "player": "brett baty",
       "pitcher": "mason thompson",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "65": {
       "player": "daylen lile",
@@ -2140,10 +2140,16 @@
     }
   },
   "bos @ tb": {
+    "59": {
+      "player": "everson pereira",
+      "pitcher": "justin slaten",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "58": {
       "player": "bob seymour",
       "pitcher": "justin slaten",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -2493,7 +2499,7 @@
     "58": {
       "player": "john rave",
       "pitcher": "yariel rodriguez",
-      "result": "Ball In Dirt",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "57": {
@@ -3444,6 +3450,12 @@
     }
   },
   "laa @ col": {
+    "46": {
+      "player": "ezequiel tovar",
+      "pitcher": "chase silseth",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
     "45": {
       "player": "brenton doyle",
       "pitcher": "mitch farris",
@@ -4447,6 +4459,13 @@
       "pitch": "Sinker"
     }
   },
-  "phi @ ari": {},
+  "phi @ ari": {
+    "1": {
+      "player": "harrison bader",
+      "pitcher": "ryne nelson",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    }
+  },
   "sf @ lad": {}
 }
