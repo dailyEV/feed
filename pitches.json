@@ -869,12 +869,6 @@
   },
   "cle-gm2 @ min-gm2": {},
   "wsh @ nym": {
-    "69": {
-      "player": "brady house",
-      "pitcher": "ryan helsley",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "68": {
       "player": "riley adams",
       "pitcher": "ryan helsley",
@@ -1284,12 +1278,19 @@
       "pitch": "Sinker"
     }
   },
-  "chc @ cin": {},
+  "chc @ cin": {
+    "1": {
+      "player": "michael busch",
+      "pitcher": "zack littell",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "ath @ pit": {
     "1": {
       "player": "lawrence butler",
       "pitcher": "bubba chandler",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     }
   },
