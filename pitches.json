@@ -3,8 +3,8 @@
     "43": {
       "player": "jose trevino",
       "pitcher": "shota imanaga",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "42": {
       "player": "kebryan hayes",
@@ -816,6 +816,12 @@
     }
   },
   "nyy @ bal": {
+    "30": {
+      "player": "samuel basallo",
+      "pitcher": "will warren",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "29": {
       "player": "jeremiah jackson",
       "pitcher": "will warren",
@@ -1491,11 +1497,18 @@
     "1": {
       "player": "nolan schanuel",
       "pitcher": "bradley blalock",
-      "result": "Foul",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    }
+  },
+  "sea @ hou": {
+    "1": {
+      "player": "randy arozarena",
+      "pitcher": "hunter brown",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     }
   },
-  "sea @ hou": {},
   "cle @ min": {},
   "mil @ stl": {},
   "phi @ ari": {},
