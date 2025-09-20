@@ -871,8 +871,8 @@
     "8": {
       "player": "gabriel arias",
       "pitcher": "bailey ober",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "7": {
       "player": "kyle manzardo",
@@ -1731,8 +1731,8 @@
     "11": {
       "player": "nathaniel lowe",
       "pitcher": "adrian houser",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "nate eaton",
@@ -1849,7 +1849,7 @@
     "7": {
       "player": "jackson holliday",
       "pitcher": "carlos rodon",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -2028,6 +2028,12 @@
     }
   },
   "mil @ stl": {
+    "6": {
+      "player": "ivan herrera",
+      "pitcher": "chad patrick",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "brendan donovan",
       "pitcher": "chad patrick",
