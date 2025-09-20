@@ -2212,6 +2212,12 @@
     }
   },
   "bos @ tb": {
+    "80": {
+      "player": "nick fortes",
+      "pitcher": "chris murphy",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "79": {
       "player": "nick sogard",
       "pitcher": "edwin uceta",
@@ -4325,8 +4331,8 @@
     "58": {
       "player": "eugenio suarez",
       "pitcher": "craig kimbrel",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "jorge polanco",
@@ -4675,8 +4681,8 @@
     "61": {
       "player": "bo naylor",
       "pitcher": "cole sands",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "59": {
       "player": "jose ramirez",
@@ -5028,12 +5034,6 @@
     }
   },
   "mil @ stl": {
-    "60": {
-      "player": "jackson chourio",
-      "pitcher": "gordon graceffo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "59": {
       "player": "sal frelick",
       "pitcher": "gordon graceffo",
@@ -5393,7 +5393,7 @@
     "23": {
       "player": "jt realmuto",
       "pitcher": "ryne nelson",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "22": {
@@ -5533,7 +5533,7 @@
     "8": {
       "player": "mookie betts",
       "pitcher": "robbie ray",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "7": {
