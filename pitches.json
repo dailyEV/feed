@@ -2613,8 +2613,8 @@
     "63": {
       "player": "nate eaton",
       "pitcher": "jesse scholtens",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "62": {
       "player": "romy gonzalez",
@@ -2990,12 +2990,6 @@
     }
   },
   "mia @ tex": {
-    "61": {
-      "player": "heriberto hernandez",
-      "pitcher": "jacob webb",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "60": {
       "player": "joc pederson",
       "pitcher": "ronny henriquez",
@@ -4022,10 +4016,16 @@
     }
   },
   "tor @ kc": {
+    "60": {
+      "player": "vinnie pasquantino",
+      "pitcher": "jeff hoffman",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "59": {
       "player": "bobby witt",
       "pitcher": "jeff hoffman",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "58": {
@@ -4381,7 +4381,7 @@
     "54": {
       "player": "manny machado",
       "pitcher": "steven wilson",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -4704,6 +4704,12 @@
     }
   },
   "mil @ stl": {
+    "62": {
+      "player": "brice turang",
+      "pitcher": "riley obrien",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "61": {
       "player": "alec burleson",
       "pitcher": "aaron ashby",
@@ -5505,8 +5511,8 @@
     "5": {
       "player": "bryce eldridge",
       "pitcher": "tyler glasnow",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "4": {
       "player": "matt chapman",
