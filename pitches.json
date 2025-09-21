@@ -2083,8 +2083,8 @@
     "67": {
       "player": "ernie clement",
       "pitcher": "john schreiber",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "66": {
       "player": "ty france",
@@ -2487,7 +2487,7 @@
     "64": {
       "player": "james outman",
       "pitcher": "zak kent",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "63": {
@@ -3678,11 +3678,17 @@
     }
   },
   "mia @ tex": {
+    "48": {
+      "player": "josh jung",
+      "pitcher": "lake bachar",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "rowdy tellez",
       "pitcher": "lake bachar",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "46": {
       "player": "alejandro osuna",
@@ -4225,7 +4231,7 @@
     "12": {
       "player": "drew gilbert",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "11": {
