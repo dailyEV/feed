@@ -715,8 +715,8 @@
     "48": {
       "player": "paul goldschmidt",
       "pitcher": "dietrich enns",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "47": {
       "player": "jose caballero",
@@ -1002,11 +1002,17 @@
     }
   },
   "chc @ cin": {
+    "23": {
+      "player": "gavin lux",
+      "pitcher": "jameson taillon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "tj friedl",
       "pitcher": "jameson taillon",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "matt mclain",
@@ -1695,7 +1701,7 @@
     "40": {
       "player": "byron buxton",
       "pitcher": "joey cantillo",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "39": {
