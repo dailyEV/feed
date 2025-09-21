@@ -3427,7 +3427,7 @@
     "63": {
       "player": "jackson holliday",
       "pitcher": "luke weaver",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "62": {
@@ -4881,8 +4881,8 @@
     "65": {
       "player": "nolan arenado",
       "pitcher": "abner uribe",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "64": {
       "player": "jake bauers",
@@ -5778,6 +5778,12 @@
     }
   },
   "sf @ lad": {
+    "10": {
+      "player": "heliot ramos",
+      "pitcher": "tyler glasnow",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "9": {
       "player": "drew gilbert",
       "pitcher": "tyler glasnow",
