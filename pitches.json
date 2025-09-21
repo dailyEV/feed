@@ -377,7 +377,7 @@
     "62": {
       "player": "jack suwinski",
       "pitcher": "osvaldo bido",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "61": {
@@ -751,7 +751,7 @@
     "53": {
       "player": "colton cowser",
       "pitcher": "fernando cruz",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Splitter"
     },
     "52": {
@@ -1238,6 +1238,12 @@
     }
   },
   "wsh @ nym": {
+    "55": {
+      "player": "luis torrens",
+      "pitcher": "mitchell parker",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "54": {
       "player": "brett baty",
       "pitcher": "mitchell parker",
@@ -2129,8 +2135,8 @@
     "48": {
       "player": "curtis mead",
       "pitcher": "adrian morejon",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Foul Tip",
+      "pitch": "Slider"
     },
     "47": {
       "player": "edgar quero",
@@ -2416,6 +2422,18 @@
     }
   },
   "mil @ stl": {
+    "44": {
+      "player": "rhys hoskins",
+      "pitcher": "matt svanson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "43": {
+      "player": "andrew vaughn",
+      "pitcher": "matt svanson",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "42": {
       "player": "lars nootbaar",
       "pitcher": "erick fedde",
@@ -2670,11 +2688,17 @@
     }
   },
   "mia @ tex": {
+    "30": {
+      "player": "rowdy tellez",
+      "pitcher": "eury perez",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "29": {
       "player": "alejandro osuna",
       "pitcher": "eury perez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "graham pauley",
