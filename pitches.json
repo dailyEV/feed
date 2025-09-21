@@ -1,5 +1,11 @@
 {
   "atl @ det": {
+    "69": {
+      "player": "matt olson",
+      "pitcher": "tyler holton",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "68": {
       "player": "jurickson profar",
       "pitcher": "tyler holton",
@@ -850,6 +856,12 @@
     }
   },
   "nyy @ bal": {
+    "64": {
+      "player": "gunnar henderson",
+      "pitcher": "devin williams",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "63": {
       "player": "dylan beavers",
       "pitcher": "devin williams",
@@ -1227,8 +1239,8 @@
     "42": {
       "player": "dansby swanson",
       "pitcher": "nick martinez",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "moises ballesteros",
@@ -1481,7 +1493,7 @@
     "66": {
       "player": "jorge alfaro",
       "pitcher": "edwin diaz",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -2585,7 +2597,7 @@
     "60": {
       "player": "miguel vargas",
       "pitcher": "mason miller",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -3724,10 +3736,16 @@
     }
   },
   "sf @ lad": {
+    "3": {
+      "player": "willy adames",
+      "pitcher": "emmet sheehan",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "rafael devers",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "1": {
@@ -3738,6 +3756,12 @@
     }
   },
   "phi @ ari": {
+    "3": {
+      "player": "bryce harper",
+      "pitcher": "eduardo rodriguez",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "2": {
       "player": "kyle schwarber",
       "pitcher": "eduardo rodriguez",
