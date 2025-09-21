@@ -763,7 +763,7 @@
     "55": {
       "player": "dylan carlson",
       "pitcher": "luke weaver",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "54": {
@@ -1089,8 +1089,8 @@
     "32": {
       "player": "elly de la cruz",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "will benson",
@@ -1959,8 +1959,8 @@
     "48": {
       "player": "edouard julien",
       "pitcher": "erik sabrowski",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "luke keaschall",
@@ -2246,12 +2246,6 @@
     }
   },
   "sd @ chw": {
-    "52": {
-      "player": "jake cronenworth",
-      "pitcher": "mike vasil",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "51": {
       "player": "ryan ohearn",
       "pitcher": "mike vasil",
@@ -2560,11 +2554,17 @@
     }
   },
   "mil @ stl": {
-    "46": {
-      "player": "andruw monasterio",
+    "47": {
+      "player": "danny jansen",
       "pitcher": "matt svanson",
       "result": "Ball",
       "pitch": "Sweeper"
+    },
+    "46": {
+      "player": "andruw monasterio",
+      "pitcher": "matt svanson",
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "caleb durbin",
