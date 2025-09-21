@@ -374,10 +374,16 @@
     }
   },
   "ath @ pit": {
+    "57": {
+      "player": "darell hernaiz",
+      "pitcher": "carmen mlodzinski",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "56": {
       "player": "carlos cortes",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "55": {
@@ -1005,8 +1011,8 @@
     "23": {
       "player": "gavin lux",
       "pitcher": "jameson taillon",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "tj friedl",
@@ -1444,11 +1450,17 @@
     }
   },
   "tor @ kc": {
+    "44": {
+      "player": "bobby witt",
+      "pitcher": "trey yesavage",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "43": {
       "player": "mike yastrzemski",
       "pitcher": "trey yesavage",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Splitter"
     },
     "42": {
       "player": "nathan lukes",
@@ -1707,8 +1719,8 @@
     "40": {
       "player": "byron buxton",
       "pitcher": "joey cantillo",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "39": {
       "player": "ryan fitzgerald",
@@ -1949,8 +1961,8 @@
     "44": {
       "player": "gavin sheets",
       "pitcher": "mike vasil",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "ramon laureano",
@@ -2212,12 +2224,6 @@
     }
   },
   "mil @ stl": {
-    "37": {
-      "player": "joey ortiz",
-      "pitcher": "matthew liberatore",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
     "36": {
       "player": "blake perkins",
       "pitcher": "matthew liberatore",
