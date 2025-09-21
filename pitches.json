@@ -1,11 +1,5 @@
 {
   "atl @ det": {
-    "80": {
-      "player": "michael harris",
-      "pitcher": "paul sewald",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "79": {
       "player": "marcell ozuna",
       "pitcher": "paul sewald",
@@ -944,7 +938,7 @@
       "player": "aaron judge",
       "pitcher": "kade strowd",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sweeper"
     },
     "72": {
       "player": "coby mayo",
@@ -1378,7 +1372,7 @@
       "player": "jose trevino",
       "pitcher": "jameson taillon",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "52": {
       "player": "kebryan hayes",
@@ -2122,6 +2116,12 @@
     }
   },
   "tor @ kc": {
+    "72": {
+      "player": "jac caglianone",
+      "pitcher": "eric lauer",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "71": {
       "player": "carter jensen",
       "pitcher": "eric lauer",
@@ -2957,8 +2957,8 @@
     "70": {
       "player": "gavin sheets",
       "pitcher": "brandon eisert",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "69": {
       "player": "chase meidroth",
@@ -3379,8 +3379,8 @@
     "69": {
       "player": "jimmy crooks",
       "pitcher": "grant anderson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "68": {
       "player": "jose fermin",
@@ -3789,7 +3789,7 @@
     "50": {
       "player": "jonah heim",
       "pitcher": "lake bachar",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "49": {
@@ -4360,12 +4360,6 @@
     }
   },
   "sf @ lad": {
-    "15": {
-      "player": "miguel rojas",
-      "pitcher": "trevor mcdonald",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "14": {
       "player": "michael conforto",
       "pitcher": "trevor mcdonald",
