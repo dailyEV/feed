@@ -416,16 +416,22 @@
     }
   },
   "ath @ pit": {
+    "74": {
+      "player": "carlos cortes",
+      "pitcher": "dauri moreta",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "73": {
       "player": "andrew mccutchen",
       "pitcher": "scott mcgough",
       "result": "Called Strike",
-      "pitch": "Splitter"
+      "pitch": ""
     },
     "72": {
       "player": "spencer horwitz",
       "pitcher": "scott mcgough",
-      "result": "In play, out(s)",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "71": {
@@ -1493,7 +1499,7 @@
     "67": {
       "player": "brady house",
       "pitcher": "edwin diaz",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -2962,6 +2968,12 @@
     }
   },
   "mil @ stl": {
+    "59": {
+      "player": "christian yelich",
+      "pitcher": "ryan fernandez",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "58": {
       "player": "thomas saggese",
       "pitcher": "erick fedde",
@@ -3312,6 +3324,12 @@
     }
   },
   "mia @ tex": {
+    "39": {
+      "player": "ezequiel duran",
+      "pitcher": "lake bachar",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "38": {
       "player": "liam hicks",
       "pitcher": "jacob latz",
@@ -3542,17 +3560,11 @@
     }
   },
   "laa @ col": {
-    "34": {
-      "player": "bryce teodosio",
-      "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "33": {
       "player": "denzer guzman",
       "pitcher": "kyle freeland",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "32": {
       "player": "kyle karros",
