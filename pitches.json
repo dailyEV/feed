@@ -377,7 +377,7 @@
     "67": {
       "player": "jj bleday",
       "pitcher": "yohan ramirez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "66": {
@@ -1325,8 +1325,8 @@
     "61": {
       "player": "paul dejong",
       "pitcher": "gregory soto",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "robert hassell",
@@ -2324,6 +2324,12 @@
     }
   },
   "sd @ chw": {
+    "54": {
+      "player": "fernando tatis",
+      "pitcher": "mike vasil",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "53": {
       "player": "elias diaz",
       "pitcher": "mike vasil",
@@ -2644,10 +2650,16 @@
     }
   },
   "mil @ stl": {
+    "50": {
+      "player": "jose fermin",
+      "pitcher": "erick fedde",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "nolan gorman",
       "pitcher": "erick fedde",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "48": {
