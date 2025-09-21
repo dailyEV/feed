@@ -1032,11 +1032,17 @@
     }
   },
   "chc @ cin": {
+    "26": {
+      "player": "carlos santana",
+      "pitcher": "andrew abbott",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "25": {
       "player": "carson kelly",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "noelvi marte",
@@ -1184,12 +1190,6 @@
     }
   },
   "wsh @ nym": {
-    "53": {
-      "player": "james wood",
-      "pitcher": "brooks raley",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "52": {
       "player": "jacob young",
       "pitcher": "clay holmes",
@@ -1773,7 +1773,7 @@
     "42": {
       "player": "austin martin",
       "pitcher": "erik sabrowski",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "41": {
