@@ -2576,10 +2576,16 @@
     }
   },
   "mia @ tex": {
+    "40": {
+      "player": "liam hicks",
+      "pitcher": "jack leiter",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "39": {
       "player": "xavier edwards",
       "pitcher": "jack leiter",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "38": {
@@ -2812,12 +2818,6 @@
     }
   },
   "nyy @ bal": {
-    "36": {
-      "player": "cody bellinger",
-      "pitcher": "jose castillo",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "35": {
       "player": "ryan mountcastle",
       "pitcher": "carlos rodon",
@@ -3239,8 +3239,8 @@
     "41": {
       "player": "bobby witt",
       "pitcher": "shane bieber",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
     },
     "40": {
       "player": "carter jensen",
