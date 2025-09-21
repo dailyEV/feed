@@ -871,8 +871,8 @@
     "36": {
       "player": "kyle manzardo",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "35": {
       "player": "jose ramirez",
@@ -1631,7 +1631,7 @@
     "49": {
       "player": "matt mclain",
       "pitcher": "aaron civale",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "48": {
@@ -2656,12 +2656,6 @@
     }
   },
   "nyy @ bal": {
-    "32": {
-      "player": "aaron judge",
-      "pitcher": "jose castillo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "31": {
       "player": "ben rice",
       "pitcher": "jose castillo",
@@ -3032,6 +3026,12 @@
     }
   },
   "tor @ kc": {
+    "37": {
+      "player": "george springer",
+      "pitcher": "noah cameron",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "36": {
       "player": "michael massey",
       "pitcher": "shane bieber",
@@ -3635,8 +3635,8 @@
     "5": {
       "player": "mickey moniak",
       "pitcher": "kyle hendricks",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "4": {
       "player": "tyler freeman",
