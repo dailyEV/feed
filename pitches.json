@@ -985,7 +985,7 @@
     "83": {
       "player": "dylan carlson",
       "pitcher": "camilo doval",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "82": {
@@ -1480,7 +1480,7 @@
       "player": "michael busch",
       "pitcher": "tony santillan",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slurve"
     },
     "63": {
       "player": "willi castro",
@@ -4786,11 +4786,17 @@
     }
   },
   "sf @ lad": {
+    "28": {
+      "player": "max muncy",
+      "pitcher": "trevor mcdonald",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "27": {
       "player": "freddie freeman",
       "pitcher": "trevor mcdonald",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "mookie betts",
@@ -4953,8 +4959,8 @@
     "28": {
       "player": "tim tawa",
       "pitcher": "ranger suarez",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "27": {
       "player": "bryce harper",
