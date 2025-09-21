@@ -374,6 +374,12 @@
     }
   },
   "ath @ pit": {
+    "63": {
+      "player": "joey bart",
+      "pitcher": "osvaldo bido",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "62": {
       "player": "jack suwinski",
       "pitcher": "osvaldo bido",
@@ -748,12 +754,6 @@
     }
   },
   "nyy @ bal": {
-    "54": {
-      "player": "coby mayo",
-      "pitcher": "fernando cruz",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
-    },
     "53": {
       "player": "colton cowser",
       "pitcher": "fernando cruz",
@@ -1071,8 +1071,8 @@
     "30": {
       "player": "spencer steer",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "29": {
       "player": "michael busch",
@@ -1253,7 +1253,7 @@
     "55": {
       "player": "luis torrens",
       "pitcher": "mitchell parker",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -1582,6 +1582,12 @@
     }
   },
   "tor @ kc": {
+    "49": {
+      "player": "ernie clement",
+      "pitcher": "steven cruz",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "48": {
       "player": "adam frazier",
       "pitcher": "brendon little",
@@ -2144,6 +2150,12 @@
     }
   },
   "sd @ chw": {
+    "49": {
+      "player": "lenyn sosa",
+      "pitcher": "adrian morejon",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "48": {
       "player": "curtis mead",
       "pitcher": "adrian morejon",
@@ -2434,6 +2446,18 @@
     }
   },
   "mil @ stl": {
+    "44": {
+      "player": "rhys hoskins",
+      "pitcher": "matt svanson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "43": {
+      "player": "andrew vaughn",
+      "pitcher": "matt svanson",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "42": {
       "player": "lars nootbaar",
       "pitcher": "erick fedde",
@@ -2691,8 +2715,8 @@
     "30": {
       "player": "rowdy tellez",
       "pitcher": "eury perez",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "alejandro osuna",
