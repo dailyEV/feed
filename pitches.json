@@ -865,8 +865,8 @@
     "65": {
       "player": "ryan mountcastle",
       "pitcher": "devin williams",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "64": {
       "player": "gunnar henderson",
@@ -1251,8 +1251,8 @@
     "43": {
       "player": "tj friedl",
       "pitcher": "jameson taillon",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "dansby swanson",
@@ -1511,7 +1511,7 @@
     "67": {
       "player": "brady house",
       "pitcher": "edwin diaz",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "66": {
@@ -1915,8 +1915,8 @@
     "62": {
       "player": "maikel garcia",
       "pitcher": "seranthony dominguez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "61": {
       "player": "vinnie pasquantino",
@@ -2289,7 +2289,7 @@
     "58": {
       "player": "royce lewis",
       "pitcher": "hunter gaddis",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "57": {
@@ -2639,8 +2639,8 @@
     "61": {
       "player": "edgar quero",
       "pitcher": "mason miller",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "miguel vargas",
@@ -3606,7 +3606,7 @@
       "player": "bryce teodosio",
       "pitcher": "kyle freeland",
       "result": "Foul",
-      "pitch": "Cutter"
+      "pitch": "Knuckle Curve"
     },
     "33": {
       "player": "denzer guzman",
@@ -3808,12 +3808,6 @@
     }
   },
   "sf @ lad": {
-    "4": {
-      "player": "matt chapman",
-      "pitcher": "emmet sheehan",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "3": {
       "player": "willy adames",
       "pitcher": "emmet sheehan",
@@ -3834,6 +3828,12 @@
     }
   },
   "phi @ ari": {
+    "4": {
+      "player": "jt realmuto",
+      "pitcher": "eduardo rodriguez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "bryce harper",
       "pitcher": "eduardo rodriguez",
