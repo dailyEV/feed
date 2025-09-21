@@ -574,11 +574,17 @@
     }
   },
   "nyy @ bal": {
+    "38": {
+      "player": "aaron judge",
+      "pitcher": "kyle bradish",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "trent grisham",
       "pitcher": "kyle bradish",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "ryan mcmahon",
@@ -1385,7 +1391,7 @@
     "29": {
       "player": "ryan ohearn",
       "pitcher": "sean burke",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "28": {
@@ -1558,6 +1564,12 @@
     }
   },
   "mil @ stl": {
+    "22": {
+      "player": "victor scott",
+      "pitcher": "robert gasser",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "rhys hoskins",
       "pitcher": "matthew liberatore",
