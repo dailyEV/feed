@@ -2481,7 +2481,7 @@
     "52": {
       "player": "jarren duran",
       "pitcher": "jesse scholtens",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "51": {
@@ -3103,8 +3103,8 @@
     "46": {
       "player": "trent grisham",
       "pitcher": "yennier cano",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "anthony volpe",
@@ -3638,6 +3638,12 @@
     }
   },
   "tor @ kc": {
+    "51": {
+      "player": "randal grichuk",
+      "pitcher": "mason fluharty",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "50": {
       "player": "mike yastrzemski",
       "pitcher": "shane bieber",
@@ -3940,11 +3946,17 @@
     }
   },
   "sd @ chw": {
+    "45": {
+      "player": "gavin sheets",
+      "pitcher": "fraser ellard",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "ramon laureano",
       "pitcher": "fraser ellard",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "43": {
       "player": "jackson merrill",
