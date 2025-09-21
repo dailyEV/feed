@@ -871,8 +871,8 @@
     "40": {
       "player": "brooks lee",
       "pitcher": "logan allen",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "brayan rocchio",
@@ -2544,7 +2544,7 @@
       "player": "agustin ramirez",
       "pitcher": "jack leiter",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "37": {
       "player": "michael helman",
@@ -3182,11 +3182,17 @@
     }
   },
   "tor @ kc": {
+    "41": {
+      "player": "bobby witt",
+      "pitcher": "shane bieber",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "carter jensen",
       "pitcher": "shane bieber",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "39": {
       "player": "vladimir guerrero",
@@ -3634,7 +3640,7 @@
       "player": "william contreras",
       "pitcher": "miles mikolas",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "36": {
       "player": "christian yelich",
