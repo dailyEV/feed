@@ -3,7 +3,7 @@
     "49": {
       "player": "michael harris",
       "pitcher": "brant hurter",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "48": {
@@ -764,6 +764,12 @@
     }
   },
   "wsh @ nym": {
+    "33": {
+      "player": "nasim nunez",
+      "pitcher": "clay holmes",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "32": {
       "player": "mark vientos",
       "pitcher": "jake irvin",
@@ -961,7 +967,7 @@
     "22": {
       "player": "jac caglianone",
       "pitcher": "trey yesavage",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "21": {
@@ -1220,10 +1226,16 @@
     }
   },
   "sd @ chw": {
+    "24": {
+      "player": "kyle teel",
+      "pitcher": "michael king",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "chase meidroth",
       "pitcher": "michael king",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "22": {
@@ -1363,8 +1375,8 @@
     "19": {
       "player": "isaac collins",
       "pitcher": "matthew liberatore",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "jackson chourio",
