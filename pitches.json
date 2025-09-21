@@ -919,8 +919,8 @@
     "21": {
       "player": "davis schneider",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "20": {
       "player": "addison barger",
@@ -1044,6 +1044,12 @@
     }
   },
   "cle @ min": {
+    "20": {
+      "player": "kyle manzardo",
+      "pitcher": "simeon woods richardson",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "19": {
       "player": "jose ramirez",
       "pitcher": "simeon woods richardson",
@@ -1163,8 +1169,8 @@
     "22": {
       "player": "jackson merrill",
       "pitcher": "sean burke",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "manny machado",
@@ -1294,6 +1300,12 @@
     }
   },
   "mil @ stl": {
+    "17": {
+      "player": "joey ortiz",
+      "pitcher": "matthew liberatore",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "16": {
       "player": "blake perkins",
       "pitcher": "matthew liberatore",
@@ -1392,12 +1404,6 @@
     }
   },
   "mia @ tex": {
-    "7": {
-      "player": "rowdy tellez",
-      "pitcher": "eury perez",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "6": {
       "player": "alejandro osuna",
       "pitcher": "eury perez",
