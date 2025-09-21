@@ -1,5 +1,11 @@
 {
   "atl @ det": {
+    "38": {
+      "player": "matt olson",
+      "pitcher": "casey mize",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "jurickson profar",
       "pitcher": "casey mize",
@@ -227,7 +233,7 @@
     "25": {
       "player": "tyler soderstrom",
       "pitcher": "mike burrows",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -645,6 +651,12 @@
     }
   },
   "tor @ kc": {
+    "9": {
+      "player": "davis schneider",
+      "pitcher": "michael wacha",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "8": {
       "player": "maikel garcia",
       "pitcher": "trey yesavage",
@@ -736,7 +748,7 @@
     "10": {
       "player": "gavin sheets",
       "pitcher": "sean burke",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "9": {
@@ -798,8 +810,8 @@
     "7": {
       "player": "lars nootbaar",
       "pitcher": "robert gasser",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "alec burleson",
