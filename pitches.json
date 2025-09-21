@@ -871,8 +871,8 @@
     "57": {
       "player": "cj kayfus",
       "pitcher": "mick abel",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "gabriel arias",
@@ -1754,6 +1754,12 @@
     }
   },
   "chc @ cin": {
+    "63": {
+      "player": "noelvi marte",
+      "pitcher": "andrew kittredge",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "62": {
       "player": "moises ballesteros",
       "pitcher": "tony santillan",
@@ -3426,11 +3432,17 @@
     }
   },
   "sea @ hou": {
+    "45": {
+      "player": "randy arozarena",
+      "pitcher": "jayden murray",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "jp crawford",
       "pitcher": "jayden murray",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "jake meyers",
@@ -4009,7 +4021,7 @@
     "46": {
       "player": "ryan ohearn",
       "pitcher": "fraser ellard",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -4284,6 +4296,12 @@
     }
   },
   "mil @ stl": {
+    "50": {
+      "player": "nolan arenado",
+      "pitcher": "aaron ashby",
+      "result": "Foul Tip",
+      "pitch": "Changeup"
+    },
     "49": {
       "player": "alec burleson",
       "pitcher": "aaron ashby",
@@ -4583,8 +4601,8 @@
     "24": {
       "player": "jo adell",
       "pitcher": "german marquez",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "23": {
       "player": "taylor ward",
