@@ -377,8 +377,8 @@
     "55": {
       "player": "andrew mccutchen",
       "pitcher": "osvaldo bido",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "54": {
       "player": "spencer horwitz",
@@ -1110,7 +1110,7 @@
       "player": "mark vientos",
       "pitcher": "mitchell parker",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "jeff mcneil",
@@ -1659,7 +1659,7 @@
     "38": {
       "player": "jhonny pereda",
       "pitcher": "joey cantillo",
-      "result": "In play, no out",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "37": {
@@ -1886,6 +1886,12 @@
     }
   },
   "sd @ chw": {
+    "42": {
+      "player": "jackson merrill",
+      "pitcher": "mike vasil",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "kyle teel",
       "pitcher": "michael king",
@@ -2480,6 +2486,18 @@
     }
   },
   "laa @ col": {
+    "12": {
+      "player": "bryce teodosio",
+      "pitcher": "kyle freeland",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
+    "11": {
+      "player": "denzer guzman",
+      "pitcher": "kyle freeland",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "10": {
       "player": "oswald peraza",
       "pitcher": "kyle freeland",
