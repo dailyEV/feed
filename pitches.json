@@ -1,5 +1,11 @@
 {
   "atl @ det": {
+    "72": {
+      "player": "dillon dingler",
+      "pitcher": "tyler kinley",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "71": {
       "player": "wenceel perez",
       "pitcher": "tyler kinley",
@@ -1275,8 +1281,8 @@
     "46": {
       "player": "spencer steer",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "45": {
       "player": "noelvi marte",
@@ -1553,7 +1559,7 @@
     "69": {
       "player": "francisco alvarez",
       "pitcher": "mitchell parker",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -1966,6 +1972,12 @@
     }
   },
   "tor @ kc": {
+    "64": {
+      "player": "myles straw",
+      "pitcher": "angel zerpa",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "63": {
       "player": "salvador perez",
       "pitcher": "seranthony dominguez",
@@ -3456,6 +3468,12 @@
     }
   },
   "mia @ tex": {
+    "42": {
+      "player": "otto lopez",
+      "pitcher": "jacob latz",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "41": {
       "player": "joc pederson",
       "pitcher": "lake bachar",
@@ -3704,11 +3722,17 @@
     }
   },
   "laa @ col": {
+    "38": {
+      "player": "mickey moniak",
+      "pitcher": "caden dana",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "ryan ritter",
       "pitcher": "caden dana",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "36": {
       "player": "braxton fulford",
@@ -3931,8 +3955,8 @@
     "5": {
       "player": "shohei ohtani",
       "pitcher": "trevor mcdonald",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "4": {
       "player": "matt chapman",
