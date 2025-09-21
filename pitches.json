@@ -1311,8 +1311,8 @@
     "47": {
       "player": "justin turner",
       "pitcher": "nick martinez",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "spencer steer",
@@ -2023,7 +2023,7 @@
     "66": {
       "player": "ty france",
       "pitcher": "angel zerpa",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -2418,11 +2418,17 @@
     }
   },
   "cle @ min": {
+    "63": {
+      "player": "kyle manzardo",
+      "pitcher": "cole sands",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "62": {
       "player": "jose ramirez",
       "pitcher": "cole sands",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Splitter"
     },
     "61": {
       "player": "george valera",
@@ -3830,6 +3836,12 @@
     }
   },
   "laa @ col": {
+    "40": {
+      "player": "taylor ward",
+      "pitcher": "kyle freeland",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "39": {
       "player": "ezequiel tovar",
       "pitcher": "caden dana",
@@ -4119,7 +4131,7 @@
     "8": {
       "player": "gabriel moreno",
       "pitcher": "ranger suarez",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "7": {
