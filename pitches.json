@@ -3042,7 +3042,7 @@
       "player": "jake burger",
       "pitcher": "ronny henriquez",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "65": {
       "player": "alejandro osuna",
@@ -4187,8 +4187,8 @@
     "65": {
       "player": "daulton varsho",
       "pitcher": "carlos estevez",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "ty france",
@@ -4576,6 +4576,12 @@
     }
   },
   "sd @ chw": {
+    "60": {
+      "player": "gavin sheets",
+      "pitcher": "cam booser",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "59": {
       "player": "ramon laureano",
       "pitcher": "cam booser",
@@ -4935,8 +4941,8 @@
     "67": {
       "player": "nolan gorman",
       "pitcher": "abner uribe",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "thomas saggese",
@@ -5339,7 +5345,7 @@
     "45": {
       "player": "christian moore",
       "pitcher": "german marquez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -5608,6 +5614,18 @@
     }
   },
   "phi @ ari": {
+    "44": {
+      "player": "brandon marsh",
+      "pitcher": "zac gallen",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
+    "43": {
+      "player": "jt realmuto",
+      "pitcher": "zac gallen",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "42": {
       "player": "bryce harper",
       "pitcher": "zac gallen",
@@ -5866,7 +5884,7 @@
       "player": "shohei ohtani",
       "pitcher": "kai wei teng",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "10": {
       "player": "heliot ramos",
