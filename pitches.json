@@ -2332,7 +2332,7 @@
       "player": "romy gonzalez",
       "pitcher": "adrian houser",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "Changeup"
     },
     "41": {
       "player": "chandler simpson",
@@ -2582,10 +2582,16 @@
     }
   },
   "mia @ tex": {
+    "40": {
+      "player": "liam hicks",
+      "pitcher": "jack leiter",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "39": {
       "player": "xavier edwards",
       "pitcher": "jack leiter",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "38": {
@@ -3036,6 +3042,12 @@
     }
   },
   "sea @ hou": {
+    "35": {
+      "player": "julio rodriguez",
+      "pitcher": "framber valdez",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "34": {
       "player": "cal raleigh",
       "pitcher": "framber valdez",
@@ -3242,12 +3254,6 @@
     }
   },
   "tor @ kc": {
-    "42": {
-      "player": "vinnie pasquantino",
-      "pitcher": "shane bieber",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "41": {
       "player": "bobby witt",
       "pitcher": "shane bieber",
@@ -4009,8 +4015,8 @@
     "13": {
       "player": "bryson stott",
       "pitcher": "zac gallen",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "12": {
       "player": "otto kemp",
