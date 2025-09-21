@@ -990,11 +990,23 @@
     }
   },
   "chc @ cin": {
+    "22": {
+      "player": "tj friedl",
+      "pitcher": "jameson taillon",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
+    "21": {
+      "player": "matt mclain",
+      "pitcher": "jameson taillon",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "jose trevino",
       "pitcher": "jameson taillon",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "seiya suzuki",
@@ -1408,12 +1420,6 @@
     }
   },
   "tor @ kc": {
-    "43": {
-      "player": "mike yastrzemski",
-      "pitcher": "trey yesavage",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "42": {
       "player": "nathan lukes",
       "pitcher": "michael wacha",
@@ -1671,7 +1677,7 @@
     "39": {
       "player": "ryan fitzgerald",
       "pitcher": "joey cantillo",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -2376,12 +2382,6 @@
     }
   },
   "mia @ tex": {
-    "23": {
-      "player": "xavier edwards",
-      "pitcher": "merrill kelly",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "22": {
       "player": "wyatt langford",
       "pitcher": "eury perez",
@@ -2519,8 +2519,8 @@
     "12": {
       "player": "bryce teodosio",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "11": {
       "player": "denzer guzman",
