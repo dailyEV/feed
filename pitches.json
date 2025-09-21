@@ -2495,8 +2495,8 @@
     "37": {
       "player": "michael helman",
       "pitcher": "adam mazur",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "ezequiel duran",
@@ -3104,6 +3104,12 @@
     }
   },
   "tor @ kc": {
+    "39": {
+      "player": "vladimir guerrero",
+      "pitcher": "noah cameron",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "38": {
       "player": "davis schneider",
       "pitcher": "noah cameron",
@@ -3528,16 +3534,10 @@
     }
   },
   "mil @ stl": {
-    "36": {
-      "player": "christian yelich",
-      "pitcher": "miles mikolas",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "35": {
       "player": "jackson chourio",
       "pitcher": "miles mikolas",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "34": {
@@ -3749,8 +3749,8 @@
     "7": {
       "player": "blaine crim",
       "pitcher": "kyle hendricks",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "6": {
       "player": "hunter goodman",
@@ -3790,6 +3790,12 @@
     }
   },
   "phi @ ari": {
+    "9": {
+      "player": "gabriel moreno",
+      "pitcher": "aaron nola",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "8": {
       "player": "corbin carroll",
       "pitcher": "aaron nola",
