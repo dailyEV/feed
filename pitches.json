@@ -871,8 +871,8 @@
     "35": {
       "player": "jose ramirez",
       "pitcher": "bailey ober",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "daniel schneemann",
@@ -2405,7 +2405,7 @@
     "32": {
       "player": "eric wagaman",
       "pitcher": "jack leiter",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -2775,7 +2775,7 @@
     "29": {
       "player": "jp crawford",
       "pitcher": "framber valdez",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "28": {
@@ -2948,6 +2948,12 @@
     }
   },
   "tor @ kc": {
+    "34": {
+      "player": "adam frazier",
+      "pitcher": "shane bieber",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "33": {
       "player": "myles straw",
       "pitcher": "noah cameron",
@@ -3148,6 +3154,12 @@
     }
   },
   "sd @ chw": {
+    "29": {
+      "player": "edgar quero",
+      "pitcher": "yu darvish",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "mike tauchman",
       "pitcher": "yu darvish",
@@ -3523,8 +3535,8 @@
     "4": {
       "player": "jt realmuto",
       "pitcher": "zac gallen",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "bryce harper",
