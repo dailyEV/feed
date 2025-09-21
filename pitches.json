@@ -374,6 +374,12 @@
     }
   },
   "ath @ pit": {
+    "64": {
+      "player": "nick yorke",
+      "pitcher": "osvaldo bido",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "joey bart",
       "pitcher": "osvaldo bido",
@@ -2509,8 +2515,8 @@
     "45": {
       "player": "caleb durbin",
       "pitcher": "matt svanson",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "44": {
       "player": "rhys hoskins",
@@ -2778,10 +2784,16 @@
     }
   },
   "mia @ tex": {
+    "31": {
+      "player": "josh jung",
+      "pitcher": "eury perez",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "30": {
       "player": "rowdy tellez",
       "pitcher": "eury perez",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -2963,7 +2975,7 @@
     "21": {
       "player": "jo adell",
       "pitcher": "kyle freeland",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Knuckle Curve"
     },
     "20": {
