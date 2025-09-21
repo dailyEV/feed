@@ -1308,11 +1308,17 @@
     }
   },
   "chc @ cin": {
-    "48": {
-      "player": "michael busch",
+    "49": {
+      "player": "pete crow armstrong",
       "pitcher": "nick martinez",
       "result": "Called Strike",
       "pitch": "Cutter"
+    },
+    "48": {
+      "player": "michael busch",
+      "pitcher": "nick martinez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "justin turner",
@@ -2807,8 +2813,8 @@
     "66": {
       "player": "ramon laureano",
       "pitcher": "grant taylor",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "65": {
       "player": "jackson merrill",
@@ -3202,6 +3208,12 @@
     }
   },
   "mil @ stl": {
+    "64": {
+      "player": "alec burleson",
+      "pitcher": "rob zastryzny",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "63": {
       "player": "ivan herrera",
       "pitcher": "erick fedde",
