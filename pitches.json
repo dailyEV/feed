@@ -377,8 +377,8 @@
     "62": {
       "player": "jack suwinski",
       "pitcher": "osvaldo bido",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "61": {
       "player": "nick gonzales",
@@ -751,7 +751,7 @@
     "53": {
       "player": "colton cowser",
       "pitcher": "fernando cruz",
-      "result": "Ball In Dirt",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "52": {
@@ -1062,6 +1062,12 @@
     }
   },
   "chc @ cin": {
+    "30": {
+      "player": "spencer steer",
+      "pitcher": "jameson taillon",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "29": {
       "player": "michael busch",
       "pitcher": "andrew abbott",
@@ -2132,6 +2138,12 @@
     }
   },
   "sd @ chw": {
+    "49": {
+      "player": "lenyn sosa",
+      "pitcher": "adrian morejon",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "48": {
       "player": "curtis mead",
       "pitcher": "adrian morejon",
@@ -2422,18 +2434,6 @@
     }
   },
   "mil @ stl": {
-    "44": {
-      "player": "rhys hoskins",
-      "pitcher": "matt svanson",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
-    "43": {
-      "player": "andrew vaughn",
-      "pitcher": "matt svanson",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "42": {
       "player": "lars nootbaar",
       "pitcher": "erick fedde",
