@@ -377,8 +377,8 @@
     "67": {
       "player": "jj bleday",
       "pitcher": "yohan ramirez",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "brett harris",
@@ -1325,8 +1325,8 @@
     "61": {
       "player": "paul dejong",
       "pitcher": "gregory soto",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "60": {
       "player": "robert hassell",
@@ -1693,8 +1693,8 @@
     "55": {
       "player": "mike yastrzemski",
       "pitcher": "brendon little",
-      "result": "Ball In Dirt",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "54": {
       "player": "randal grichuk",
@@ -2025,7 +2025,7 @@
     "50": {
       "player": "jhonny pereda",
       "pitcher": "matt festa",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "49": {
@@ -2324,11 +2324,17 @@
     }
   },
   "sd @ chw": {
+    "55": {
+      "player": "luis arraez",
+      "pitcher": "mike vasil",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "54": {
       "player": "fernando tatis",
       "pitcher": "mike vasil",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "53": {
       "player": "elias diaz",
