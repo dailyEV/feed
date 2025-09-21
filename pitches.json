@@ -341,7 +341,7 @@
     "48": {
       "player": "oneil cruz",
       "pitcher": "osvaldo bido",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "47": {
@@ -959,8 +959,8 @@
     "43": {
       "player": "jorge alfaro",
       "pitcher": "clay holmes",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "paul dejong",
@@ -1810,6 +1810,12 @@
     }
   },
   "mil @ stl": {
+    "28": {
+      "player": "andruw monasterio",
+      "pitcher": "matthew liberatore",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "caleb durbin",
       "pitcher": "matthew liberatore",
@@ -1974,6 +1980,12 @@
     }
   },
   "mia @ tex": {
+    "16": {
+      "player": "graham pauley",
+      "pitcher": "merrill kelly",
+      "result": "Foul Tip",
+      "pitch": "Curveball"
+    },
     "15": {
       "player": "ezequiel duran",
       "pitcher": "eury perez",
@@ -2069,8 +2081,8 @@
     "5": {
       "player": "logan ohoppe",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "nolan schanuel",
