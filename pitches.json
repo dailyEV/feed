@@ -1691,7 +1691,7 @@
     "58": {
       "player": "reese mcguire",
       "pitcher": "chase burns",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -2400,6 +2400,18 @@
     }
   },
   "bos @ tb": {
+    "47": {
+      "player": "junior caminero",
+      "pitcher": "kyle harrison",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "46": {
+      "player": "yandy diaz",
+      "pitcher": "kyle harrison",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "45": {
       "player": "carlos narvaez",
       "pitcher": "adrian houser",
@@ -2675,8 +2687,8 @@
     "44": {
       "player": "otto lopez",
       "pitcher": "jack leiter",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "43": {
       "player": "alejandro osuna",
@@ -2941,8 +2953,8 @@
     "39": {
       "player": "paul goldschmidt",
       "pitcher": "yennier cano",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "38": {
       "player": "jazz chisholm",
@@ -3408,7 +3420,7 @@
       "player": "ty france",
       "pitcher": "noah cameron",
       "result": "Foul",
-      "pitch": "Cutter"
+      "pitch": "Changeup"
     },
     "44": {
       "player": "alejandro kirk",
@@ -3915,8 +3927,8 @@
     "43": {
       "player": "ivan herrera",
       "pitcher": "aaron ashby",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "42": {
       "player": "brendan donovan",
@@ -4172,6 +4184,12 @@
     }
   },
   "laa @ col": {
+    "15": {
+      "player": "denzer guzman",
+      "pitcher": "german marquez",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "brenton doyle",
       "pitcher": "kyle hendricks",
