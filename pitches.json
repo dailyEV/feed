@@ -4,7 +4,7 @@
       "player": "matt olson",
       "pitcher": "brant hurter",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "56": {
       "player": "jahmai jones",
@@ -347,8 +347,8 @@
     "49": {
       "player": "nick kurtz",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "48": {
       "player": "oneil cruz",
@@ -644,7 +644,7 @@
       "player": "dylan beavers",
       "pitcher": "cam schlittler",
       "result": "Called Strike",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "42": {
       "player": "jackson holliday",
@@ -1455,8 +1455,8 @@
     "33": {
       "player": "brayan rocchio",
       "pitcher": "simeon woods richardson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "32": {
       "player": "cj kayfus",
@@ -1867,8 +1867,8 @@
     "29": {
       "player": "danny jansen",
       "pitcher": "matthew liberatore",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "andruw monasterio",
@@ -2150,6 +2150,12 @@
     }
   },
   "laa @ col": {
+    "6": {
+      "player": "christian moore",
+      "pitcher": "kyle freeland",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "logan ohoppe",
       "pitcher": "kyle freeland",
