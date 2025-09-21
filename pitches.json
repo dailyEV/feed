@@ -2753,8 +2753,8 @@
     "49": {
       "player": "jake burger",
       "pitcher": "cade gibson",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "48": {
       "player": "eric wagaman",
@@ -3049,8 +3049,8 @@
     "44": {
       "player": "ryan mcmahon",
       "pitcher": "yennier cano",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "43": {
       "player": "jorge mateo",
@@ -3312,6 +3312,12 @@
     }
   },
   "sea @ hou": {
+    "42": {
+      "player": "jesus sanchez",
+      "pitcher": "george kirby",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "yainer diaz",
       "pitcher": "george kirby",
@@ -3850,6 +3856,12 @@
     }
   },
   "sd @ chw": {
+    "43": {
+      "player": "jackson merrill",
+      "pitcher": "fraser ellard",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "manny machado",
       "pitcher": "yoendrys gomez",
@@ -4104,11 +4116,17 @@
     }
   },
   "mil @ stl": {
+    "47": {
+      "player": "joey ortiz",
+      "pitcher": "kyle leahy",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "46": {
       "player": "andrew vaughn",
       "pitcher": "kyle leahy",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "45": {
       "player": "jake bauers",
