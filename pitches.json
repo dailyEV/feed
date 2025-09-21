@@ -3089,7 +3089,7 @@
     "71": {
       "player": "kyle higashioka",
       "pitcher": "calvin faucher",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Cutter"
     },
     "70": {
@@ -3939,7 +3939,7 @@
     "69": {
       "player": "jose altuve",
       "pitcher": "eduard bazardo",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "68": {
@@ -5157,8 +5157,8 @@
     "74": {
       "player": "yohel pozo",
       "pitcher": "jared koenig",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "73": {
       "player": "jordan walker",
@@ -5600,6 +5600,12 @@
     }
   },
   "laa @ col": {
+    "54": {
+      "player": "yoan moncada",
+      "pitcher": "jaden hill",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "53": {
       "player": "mike trout",
       "pitcher": "jaden hill",
@@ -5920,6 +5926,12 @@
     }
   },
   "phi @ ari": {
+    "51": {
+      "player": "geraldo perdomo",
+      "pitcher": "tanner banks",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "jake mccarthy",
       "pitcher": "tanner banks",
@@ -6225,7 +6237,7 @@
     "19": {
       "player": "matt chapman",
       "pitcher": "tyler glasnow",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "18": {
