@@ -3,7 +3,7 @@
     "62": {
       "player": "marcell ozuna",
       "pitcher": "tommy kahnle",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "61": {
@@ -1393,8 +1393,8 @@
     "42": {
       "player": "nathan lukes",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "41": {
       "player": "davis schneider",
@@ -1647,7 +1647,7 @@
     "38": {
       "player": "jhonny pereda",
       "pitcher": "joey cantillo",
-      "result": "Ball In Dirt",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "37": {
@@ -2122,6 +2122,12 @@
     }
   },
   "mil @ stl": {
+    "34": {
+      "player": "victor scott",
+      "pitcher": "erick fedde",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "33": {
       "player": "jimmy crooks",
       "pitcher": "erick fedde",
