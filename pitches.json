@@ -2511,7 +2511,7 @@
     "55": {
       "player": "josh lowe",
       "pitcher": "justin wilson",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -2843,7 +2843,7 @@
     "54": {
       "player": "xavier edwards",
       "pitcher": "danny coulombe",
-      "result": "Ball In Dirt",
+      "result": "In play, out(s)",
       "pitch": "Knuckle Curve"
     },
     "53": {
@@ -3169,8 +3169,8 @@
     "49": {
       "player": "jordan westburg",
       "pitcher": "carlos rodon",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "48": {
       "player": "jackson holliday",
@@ -3462,6 +3462,12 @@
     }
   },
   "sea @ hou": {
+    "46": {
+      "player": "cal raleigh",
+      "pitcher": "jayden murray",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "randy arozarena",
       "pitcher": "jayden murray",
@@ -3734,6 +3740,12 @@
     }
   },
   "tor @ kc": {
+    "53": {
+      "player": "tyler tolbert",
+      "pitcher": "mason fluharty",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "52": {
       "player": "jac caglianone",
       "pitcher": "mason fluharty",
@@ -4051,7 +4063,7 @@
     "47": {
       "player": "jake cronenworth",
       "pitcher": "fraser ellard",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "46": {
@@ -4335,7 +4347,7 @@
     "51": {
       "player": "thomas saggese",
       "pitcher": "aaron ashby",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "50": {
