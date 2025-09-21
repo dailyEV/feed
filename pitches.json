@@ -2089,8 +2089,8 @@
     "68": {
       "player": "andres gimenez",
       "pitcher": "john schreiber",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "ernie clement",
@@ -2496,11 +2496,17 @@
     }
   },
   "cle @ min": {
+    "65": {
+      "player": "brooks lee",
+      "pitcher": "zak kent",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "james outman",
       "pitcher": "zak kent",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "kyle manzardo",
@@ -3292,6 +3298,12 @@
     }
   },
   "mil @ stl": {
+    "68": {
+      "player": "jose fermin",
+      "pitcher": "grant anderson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "67": {
       "player": "nolan gorman",
       "pitcher": "rob zastryzny",
