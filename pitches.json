@@ -871,8 +871,8 @@
     "28": {
       "player": "luke keaschall",
       "pitcher": "logan allen",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "27": {
       "player": "austin martin",
@@ -1580,6 +1580,12 @@
     }
   },
   "chc @ cin": {
+    "41": {
+      "player": "austin hays",
+      "pitcher": "drew pomeranz",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "40": {
       "player": "miguel andujar",
       "pitcher": "drew pomeranz",
@@ -2413,8 +2419,8 @@
     "24": {
       "player": "paul goldschmidt",
       "pitcher": "tomoyuki sugano",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Hit By Pitch",
+      "pitch": "Splitter"
     },
     "23": {
       "player": "jazz chisholm",
@@ -2702,11 +2708,17 @@
     }
   },
   "tor @ kc": {
+    "29": {
+      "player": "mike yastrzemski",
+      "pitcher": "shane bieber",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "28": {
       "player": "salvador perez",
       "pitcher": "shane bieber",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "maikel garcia",
@@ -2875,8 +2887,8 @@
     "24": {
       "player": "miguel vargas",
       "pitcher": "yu darvish",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "23": {
       "player": "colson montgomery",
