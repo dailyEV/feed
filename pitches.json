@@ -3433,7 +3433,7 @@
     "64": {
       "player": "jordan westburg",
       "pitcher": "luke weaver",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "63": {
@@ -3816,6 +3816,12 @@
     }
   },
   "sea @ hou": {
+    "60": {
+      "player": "jesus sanchez",
+      "pitcher": "carlos vargas",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "yainer diaz",
       "pitcher": "carlos vargas",
@@ -4172,6 +4178,12 @@
     }
   },
   "tor @ kc": {
+    "65": {
+      "player": "daulton varsho",
+      "pitcher": "carlos estevez",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "ty france",
       "pitcher": "carlos estevez",
@@ -4561,8 +4573,8 @@
     "59": {
       "player": "ramon laureano",
       "pitcher": "cam booser",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "58": {
       "player": "jackson merrill",
@@ -4917,8 +4929,8 @@
     "67": {
       "player": "nolan gorman",
       "pitcher": "abner uribe",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "66": {
       "player": "thomas saggese",
@@ -5318,6 +5330,12 @@
     }
   },
   "laa @ col": {
+    "44": {
+      "player": "jo adell",
+      "pitcher": "german marquez",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "43": {
       "player": "hunter goodman",
       "pitcher": "kyle hendricks",
@@ -5581,8 +5599,8 @@
     "42": {
       "player": "bryce harper",
       "pitcher": "zac gallen",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "41": {
       "player": "corbin carroll",
