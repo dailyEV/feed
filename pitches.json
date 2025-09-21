@@ -868,11 +868,17 @@
     }
   },
   "cle-gm2 @ min-gm2": {
+    "64": {
+      "player": "edouard julien",
+      "pitcher": "logan allen",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "63": {
       "player": "carson mccusker",
       "pitcher": "logan allen",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "62": {
       "player": "daniel schneemann",
@@ -2930,6 +2936,12 @@
     }
   },
   "mia @ tex": {
+    "58": {
+      "player": "ezequiel duran",
+      "pitcher": "tyler phillips",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "57": {
       "player": "josh jung",
       "pitcher": "tyler phillips",
@@ -3277,7 +3289,7 @@
     "54": {
       "player": "tyler oneill",
       "pitcher": "carlos rodon",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -4545,7 +4557,7 @@
     "57": {
       "player": "jordan walker",
       "pitcher": "aaron ashby",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "56": {
