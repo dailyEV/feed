@@ -1574,6 +1574,12 @@
     }
   },
   "chc @ cin": {
+    "38": {
+      "player": "tj friedl",
+      "pitcher": "drew pomeranz",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "michael busch",
       "pitcher": "zack littell",
@@ -1661,7 +1667,7 @@
     "23": {
       "player": "spencer steer",
       "pitcher": "javier assad",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "22": {
@@ -1801,8 +1807,8 @@
     "41": {
       "player": "lawrence butler",
       "pitcher": "braxton ashcraft",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "40": {
       "player": "brett harris",
@@ -2204,12 +2210,6 @@
     }
   },
   "mia @ tex": {
-    "27": {
-      "player": "alejandro osuna",
-      "pitcher": "adam mazur",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "26": {
       "player": "cody freeman",
       "pitcher": "adam mazur",
@@ -2645,8 +2645,8 @@
     "27": {
       "player": "maikel garcia",
       "pitcher": "shane bieber",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "vinnie pasquantino",
@@ -2944,7 +2944,7 @@
       "player": "jordan walker",
       "pitcher": "chad patrick",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Slurve"
     },
     "21": {
       "player": "pedro pages",
