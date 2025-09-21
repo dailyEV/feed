@@ -2631,8 +2631,8 @@
     "66": {
       "player": "brandon lowe",
       "pitcher": "garrett whitlock",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "65": {
       "player": "carlos narvaez",
@@ -3415,8 +3415,8 @@
     "62": {
       "player": "jorge mateo",
       "pitcher": "luke weaver",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "ryan mcmahon",
@@ -3786,6 +3786,12 @@
     }
   },
   "sea @ hou": {
+    "57": {
+      "player": "victor robles",
+      "pitcher": "colton gordon",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "56": {
       "player": "dominic canzone",
       "pitcher": "colton gordon",
@@ -4498,6 +4504,12 @@
     }
   },
   "sd @ chw": {
+    "57": {
+      "player": "michael a taylor",
+      "pitcher": "jeremiah estrada",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "56": {
       "player": "will robertson",
       "pitcher": "jeremiah estrada",
@@ -5470,11 +5482,17 @@
     }
   },
   "phi @ ari": {
+    "41": {
+      "player": "corbin carroll",
+      "pitcher": "aaron nola",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "40": {
       "player": "ketel marte",
       "pitcher": "aaron nola",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "39": {
       "player": "geraldo perdomo",
@@ -5712,6 +5730,12 @@
     }
   },
   "sf @ lad": {
+    "9": {
+      "player": "drew gilbert",
+      "pitcher": "tyler glasnow",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "patrick bailey",
       "pitcher": "tyler glasnow",
