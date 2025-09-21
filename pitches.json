@@ -2592,6 +2592,12 @@
     }
   },
   "bos @ tb": {
+    "60": {
+      "player": "junior caminero",
+      "pitcher": "justin slaten",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "59": {
       "player": "yandy diaz",
       "pitcher": "justin slaten",
@@ -3633,7 +3639,7 @@
     "50": {
       "player": "carlos correa",
       "pitcher": "george kirby",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "49": {
@@ -3935,7 +3941,7 @@
     "57": {
       "player": "andres gimenez",
       "pitcher": "taylor clarke",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "56": {
@@ -4276,6 +4282,12 @@
     }
   },
   "sd @ chw": {
+    "52": {
+      "player": "fernando tatis",
+      "pitcher": "steven wilson",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "edgar quero",
       "pitcher": "adrian morejon",
@@ -4944,7 +4956,7 @@
       "player": "bryce teodosio",
       "pitcher": "german marquez",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Knuckle Curve"
     },
     "31": {
       "player": "denzer guzman",
@@ -5337,8 +5349,8 @@
     "1": {
       "player": "heliot ramos",
       "pitcher": "tyler glasnow",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     }
   }
 }
