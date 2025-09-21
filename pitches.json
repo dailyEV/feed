@@ -3,7 +3,7 @@
     "54": {
       "player": "zach mckinstry",
       "pitcher": "pierce johnson",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -326,6 +326,12 @@
     }
   },
   "ath @ pit": {
+    "44": {
+      "player": "nick gonzales",
+      "pitcher": "osvaldo bido",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "43": {
       "player": "andrew mccutchen",
       "pitcher": "osvaldo bido",
@@ -1108,10 +1114,16 @@
     }
   },
   "tor @ kc": {
+    "29": {
+      "player": "vinnie pasquantino",
+      "pitcher": "trey yesavage",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "28": {
       "player": "bobby witt",
       "pitcher": "trey yesavage",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "27": {
@@ -1627,8 +1639,8 @@
     "24": {
       "player": "ivan herrera",
       "pitcher": "robert gasser",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "23": {
       "player": "thomas saggese",
