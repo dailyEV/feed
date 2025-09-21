@@ -377,8 +377,8 @@
     "63": {
       "player": "joey bart",
       "pitcher": "osvaldo bido",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "62": {
       "player": "jack suwinski",
@@ -1078,7 +1078,7 @@
       "player": "spencer steer",
       "pitcher": "jameson taillon",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "michael busch",
@@ -1256,10 +1256,16 @@
     }
   },
   "wsh @ nym": {
+    "56": {
+      "player": "starling marte",
+      "pitcher": "mitchell parker",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "55": {
       "player": "luis torrens",
       "pitcher": "mitchell parker",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -1588,6 +1594,12 @@
     }
   },
   "tor @ kc": {
+    "50": {
+      "player": "andres gimenez",
+      "pitcher": "steven cruz",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "ernie clement",
       "pitcher": "steven cruz",
