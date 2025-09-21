@@ -871,7 +871,7 @@
     "71": {
       "player": "dashawn keirsey",
       "pitcher": "zak kent",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "70": {
@@ -4480,11 +4480,17 @@
     }
   },
   "sd @ chw": {
+    "56": {
+      "player": "will robertson",
+      "pitcher": "jeremiah estrada",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "lenyn sosa",
       "pitcher": "jeremiah estrada",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "54": {
       "player": "manny machado",
@@ -5670,6 +5676,12 @@
     }
   },
   "sf @ lad": {
+    "8": {
+      "player": "patrick bailey",
+      "pitcher": "tyler glasnow",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "7": {
       "player": "casey schmitt",
       "pitcher": "tyler glasnow",
