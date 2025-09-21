@@ -275,8 +275,8 @@
     "31": {
       "player": "darell hernaiz",
       "pitcher": "mike burrows",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "carlos cortes",
@@ -631,6 +631,12 @@
   },
   "chc @ cin": {},
   "wsh @ nym": {
+    "27": {
+      "player": "jorge alfaro",
+      "pitcher": "clay holmes",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "26": {
       "player": "paul dejong",
       "pitcher": "clay holmes",
@@ -789,6 +795,12 @@
     }
   },
   "tor @ kc": {
+    "16": {
+      "player": "salvador perez",
+      "pitcher": "trey yesavage",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "daulton varsho",
       "pitcher": "michael wacha",
@@ -881,6 +893,12 @@
     }
   },
   "cle @ min": {
+    "14": {
+      "player": "trevor larnach",
+      "pitcher": "joey cantillo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "steven kwan",
       "pitcher": "simeon woods richardson",
@@ -964,7 +982,7 @@
     "15": {
       "player": "brooks baldwin",
       "pitcher": "michael king",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -1127,12 +1145,6 @@
     }
   },
   "mia @ tex": {
-    "2": {
-      "player": "agustin ramirez",
-      "pitcher": "merrill kelly",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "1": {
       "player": "jakob marsee",
       "pitcher": "merrill kelly",
