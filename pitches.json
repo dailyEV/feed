@@ -970,12 +970,6 @@
     }
   },
   "nyy @ bal": {
-    "79": {
-      "player": "paul goldschmidt",
-      "pitcher": "yaramil hiraldo",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "78": {
       "player": "jose caballero",
       "pitcher": "yaramil hiraldo",
@@ -3137,8 +3131,8 @@
     "77": {
       "player": "miguel vargas",
       "pitcher": "robert suarez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "76": {
       "player": "colson montgomery",
@@ -4032,11 +4026,17 @@
     }
   },
   "mia @ tex": {
+    "58": {
+      "player": "wyatt langford",
+      "pitcher": "ronny henriquez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "57": {
       "player": "joc pederson",
       "pitcher": "ronny henriquez",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "56": {
       "player": "michael helman",
@@ -4681,8 +4681,8 @@
     "23": {
       "player": "matt chapman",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "shohei ohtani",
