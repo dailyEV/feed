@@ -2238,6 +2238,12 @@
     }
   },
   "bos @ tb": {
+    "38": {
+      "player": "masataka yoshida",
+      "pitcher": "adrian houser",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "alex bregman",
       "pitcher": "adrian houser",
@@ -2671,7 +2677,7 @@
     "32": {
       "player": "aaron judge",
       "pitcher": "jose castillo",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -2862,12 +2868,6 @@
     }
   },
   "sea @ hou": {
-    "31": {
-      "player": "jose altuve",
-      "pitcher": "george kirby",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "30": {
       "player": "isaac paredes",
       "pitcher": "george kirby",
@@ -3053,8 +3053,8 @@
     "37": {
       "player": "george springer",
       "pitcher": "noah cameron",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "36": {
       "player": "michael massey",
@@ -3277,7 +3277,7 @@
     "31": {
       "player": "gavin sheets",
       "pitcher": "yoendrys gomez",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "30": {
@@ -3672,7 +3672,7 @@
       "player": "hunter goodman",
       "pitcher": "kyle hendricks",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "5": {
       "player": "mickey moniak",
