@@ -871,8 +871,8 @@
     "52": {
       "player": "austin martin",
       "pitcher": "logan allen",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "51": {
       "player": "kyle manzardo",
@@ -2451,8 +2451,8 @@
     "51": {
       "player": "ceddanne rafaela",
       "pitcher": "jesse scholtens",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "50": {
       "player": "christopher morel",
@@ -2756,11 +2756,17 @@
     }
   },
   "mia @ tex": {
+    "50": {
+      "player": "kyle higashioka",
+      "pitcher": "cade gibson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "jake burger",
       "pitcher": "cade gibson",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "48": {
       "player": "eric wagaman",
@@ -3327,8 +3333,8 @@
     "42": {
       "player": "jesus sanchez",
       "pitcher": "george kirby",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "41": {
       "player": "yainer diaz",
@@ -3578,12 +3584,6 @@
     }
   },
   "tor @ kc": {
-    "50": {
-      "player": "mike yastrzemski",
-      "pitcher": "shane bieber",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
-    },
     "49": {
       "player": "salvador perez",
       "pitcher": "shane bieber",
@@ -4143,8 +4143,8 @@
     "47": {
       "player": "joey ortiz",
       "pitcher": "kyle leahy",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "46": {
       "player": "andrew vaughn",
@@ -4549,7 +4549,7 @@
     "22": {
       "player": "geraldo perdomo",
       "pitcher": "aaron nola",
-      "result": "In play, out(s)",
+      "result": "Foul Bunt",
       "pitch": "4-Seam Fastball"
     },
     "21": {
