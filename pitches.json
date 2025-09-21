@@ -763,7 +763,7 @@
     "55": {
       "player": "dylan carlson",
       "pitcher": "luke weaver",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "54": {
@@ -1639,8 +1639,8 @@
     "53": {
       "player": "jac caglianone",
       "pitcher": "brendon little",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "52": {
       "player": "carter jensen",
@@ -2249,7 +2249,7 @@
     "52": {
       "player": "jake cronenworth",
       "pitcher": "mike vasil",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "51": {
@@ -2844,6 +2844,12 @@
     }
   },
   "mia @ tex": {
+    "33": {
+      "player": "jonah heim",
+      "pitcher": "eury perez",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "32": {
       "player": "cody freeman",
       "pitcher": "eury perez",
@@ -3038,6 +3044,12 @@
     }
   },
   "laa @ col": {
+    "23": {
+      "player": "mickey moniak",
+      "pitcher": "caden dana",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "22": {
       "player": "nolan schanuel",
       "pitcher": "kyle freeland",
