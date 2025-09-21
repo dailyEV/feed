@@ -2586,6 +2586,12 @@
     }
   },
   "bos @ tb": {
+    "59": {
+      "player": "yandy diaz",
+      "pitcher": "justin slaten",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "chandler simpson",
       "pitcher": "justin wilson",
@@ -2939,8 +2945,8 @@
     "58": {
       "player": "ezequiel duran",
       "pitcher": "tyler phillips",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "57": {
       "player": "josh jung",
@@ -3923,8 +3929,8 @@
     "57": {
       "player": "andres gimenez",
       "pitcher": "taylor clarke",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "56": {
       "player": "george springer",
@@ -5321,5 +5327,12 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "sf @ lad": {}
+  "sf @ lad": {
+    "1": {
+      "player": "heliot ramos",
+      "pitcher": "tyler glasnow",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    }
+  }
 }
