@@ -272,6 +272,12 @@
     }
   },
   "ath @ pit": {
+    "33": {
+      "player": "jack suwinski",
+      "pitcher": "mitch spence",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "32": {
       "player": "willie maciver",
       "pitcher": "mike burrows",
@@ -646,7 +652,7 @@
     "28": {
       "player": "brady house",
       "pitcher": "clay holmes",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "27": {
@@ -917,6 +923,12 @@
     }
   },
   "cle @ min": {
+    "16": {
+      "player": "edouard julien",
+      "pitcher": "joey cantillo",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "luke keaschall",
       "pitcher": "joey cantillo",
@@ -1009,6 +1021,12 @@
     }
   },
   "sd @ chw": {
+    "17": {
+      "player": "will robertson",
+      "pitcher": "michael king",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "16": {
       "player": "lenyn sosa",
       "pitcher": "michael king",
@@ -1107,6 +1125,12 @@
     }
   },
   "mil @ stl": {
+    "13": {
+      "player": "nolan gorman",
+      "pitcher": "robert gasser",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "danny jansen",
       "pitcher": "matthew liberatore",
@@ -1184,8 +1208,8 @@
     "3": {
       "player": "xavier edwards",
       "pitcher": "merrill kelly",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "2": {
       "player": "agustin ramirez",
