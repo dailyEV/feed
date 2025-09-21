@@ -404,11 +404,17 @@
     }
   },
   "ath @ pit": {
+    "72": {
+      "player": "spencer horwitz",
+      "pitcher": "scott mcgough",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "71": {
       "player": "alexander canario",
       "pitcher": "scott mcgough",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "70": {
       "player": "jared triolo",
@@ -1439,7 +1445,7 @@
     "65": {
       "player": "jeff mcneil",
       "pitcher": "mitchell parker",
-      "result": "Foul Tip",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "64": {
@@ -1828,6 +1834,12 @@
     }
   },
   "tor @ kc": {
+    "59": {
+      "player": "vladimir guerrero",
+      "pitcher": "jonathan bowlan",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "58": {
       "player": "daulton varsho",
       "pitcher": "jonathan bowlan",
@@ -2178,6 +2190,12 @@
     }
   },
   "cle @ min": {
+    "56": {
+      "player": "kody clemens",
+      "pitcher": "tim herrin",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "55": {
       "player": "byron buxton",
       "pitcher": "tim herrin",
@@ -2513,8 +2531,8 @@
     "59": {
       "player": "colson montgomery",
       "pitcher": "kyle hart",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "58": {
       "player": "kyle teel",
@@ -3198,6 +3216,18 @@
     }
   },
   "mia @ tex": {
+    "38": {
+      "player": "liam hicks",
+      "pitcher": "jacob latz",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
+    "37": {
+      "player": "xavier edwards",
+      "pitcher": "jacob latz",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "36": {
       "player": "agustin ramirez",
       "pitcher": "merrill kelly",
@@ -3419,8 +3449,8 @@
     "31": {
       "player": "brenton doyle",
       "pitcher": "caden dana",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "jordan beck",
