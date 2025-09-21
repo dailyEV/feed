@@ -1598,6 +1598,12 @@
     }
   },
   "chc @ cin": {
+    "43": {
+      "player": "nico hoerner",
+      "pitcher": "graham ashcraft",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "42": {
       "player": "noelvi marte",
       "pitcher": "drew pomeranz",
@@ -1852,12 +1858,6 @@
     }
   },
   "ath @ pit": {
-    "46": {
-      "player": "nick kurtz",
-      "pitcher": "braxton ashcraft",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "45": {
       "player": "tommy pham",
       "pitcher": "luis morales",
@@ -2133,7 +2133,7 @@
     "32": {
       "player": "josh lowe",
       "pitcher": "kyle harrison",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -2327,7 +2327,7 @@
     "30": {
       "player": "troy johnston",
       "pitcher": "jack leiter",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -2509,7 +2509,7 @@
     "27": {
       "player": "jackson holliday",
       "pitcher": "carlos rodon",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "26": {
@@ -2674,7 +2674,7 @@
       "player": "mitch garver",
       "pitcher": "framber valdez",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "26": {
       "player": "josh naylor",
@@ -3022,11 +3022,17 @@
     }
   },
   "sd @ chw": {
+    "27": {
+      "player": "ramon laureano",
+      "pitcher": "yoendrys gomez",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "26": {
       "player": "jackson merrill",
       "pitcher": "yoendrys gomez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "25": {
       "player": "manny machado",
