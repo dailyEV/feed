@@ -230,10 +230,16 @@
     }
   },
   "ath @ pit": {
+    "26": {
+      "player": "jacob wilson",
+      "pitcher": "mike burrows",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "25": {
       "player": "tyler soderstrom",
       "pitcher": "mike burrows",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -523,6 +529,12 @@
   },
   "chc @ cin": {},
   "wsh @ nym": {
+    "22": {
+      "player": "francisco lindor",
+      "pitcher": "jake irvin",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "cedric mullins",
       "pitcher": "jake irvin",
@@ -654,8 +666,8 @@
     "9": {
       "player": "davis schneider",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "8": {
       "player": "maikel garcia",
