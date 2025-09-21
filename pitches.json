@@ -1,5 +1,11 @@
 {
   "atl @ det": {
+    "37": {
+      "player": "jurickson profar",
+      "pitcher": "casey mize",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "36": {
       "player": "javier baez",
       "pitcher": "spencer strider",
@@ -221,7 +227,7 @@
     "25": {
       "player": "tyler soderstrom",
       "pitcher": "mike burrows",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -370,12 +376,6 @@
     }
   },
   "nyy @ bal": {
-    "23": {
-      "player": "ben rice",
-      "pitcher": "kyle bradish",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "22": {
       "player": "cody bellinger",
       "pitcher": "kyle bradish",
@@ -580,7 +580,7 @@
     "10": {
       "player": "jorge alfaro",
       "pitcher": "sean manaea",
-      "result": "In play, run(s)",
+      "result": "In play, no out",
       "pitch": "Sweeper"
     },
     "9": {
@@ -727,11 +727,17 @@
     }
   },
   "sd @ chw": {
+    "10": {
+      "player": "gavin sheets",
+      "pitcher": "sean burke",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "ramon laureano",
       "pitcher": "sean burke",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "jackson merrill",
@@ -783,12 +789,6 @@
     }
   },
   "mil @ stl": {
-    "7": {
-      "player": "lars nootbaar",
-      "pitcher": "robert gasser",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "6": {
       "player": "alec burleson",
       "pitcher": "robert gasser",
