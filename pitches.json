@@ -1604,12 +1604,6 @@
     }
   },
   "chc @ cin": {
-    "45": {
-      "player": "moises ballesteros",
-      "pitcher": "graham ashcraft",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
     "44": {
       "player": "ian happ",
       "pitcher": "graham ashcraft",
@@ -1880,7 +1874,7 @@
       "player": "tyler soderstrom",
       "pitcher": "braxton ashcraft",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "46": {
       "player": "nick kurtz",
@@ -2539,8 +2533,8 @@
     "28": {
       "player": "jordan westburg",
       "pitcher": "carlos rodon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "27": {
       "player": "jackson holliday",
@@ -2876,11 +2870,17 @@
     }
   },
   "tor @ kc": {
+    "33": {
+      "player": "myles straw",
+      "pitcher": "noah cameron",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "32": {
       "player": "isiah kiner falefa",
       "pitcher": "noah cameron",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "ernie clement",
@@ -3237,7 +3237,7 @@
     "28": {
       "player": "brendan donovan",
       "pitcher": "chad patrick",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "27": {
