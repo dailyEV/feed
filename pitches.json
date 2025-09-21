@@ -248,12 +248,6 @@
     }
   },
   "ath @ pit": {
-    "28": {
-      "player": "andrew mccutchen",
-      "pitcher": "mitch spence",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "27": {
       "player": "spencer horwitz",
       "pitcher": "mitch spence",
@@ -723,6 +717,12 @@
     }
   },
   "tor @ kc": {
+    "14": {
+      "player": "george springer",
+      "pitcher": "michael wacha",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "13": {
       "player": "tyler heineman",
       "pitcher": "michael wacha",
@@ -803,6 +803,12 @@
     }
   },
   "cle @ min": {
+    "11": {
+      "player": "cj kayfus",
+      "pitcher": "simeon woods richardson",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "10": {
       "player": "angel martinez",
       "pitcher": "simeon woods richardson",
@@ -868,8 +874,8 @@
     "11": {
       "player": "ryan ohearn",
       "pitcher": "sean burke",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "10": {
       "player": "gavin sheets",
@@ -933,11 +939,17 @@
     }
   },
   "mil @ stl": {
+    "11": {
+      "player": "andruw monasterio",
+      "pitcher": "matthew liberatore",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "10": {
       "player": "caleb durbin",
       "pitcher": "matthew liberatore",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "rhys hoskins",
