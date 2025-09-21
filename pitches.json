@@ -3,7 +3,7 @@
     "46": {
       "player": "spencer torkelson",
       "pitcher": "spencer strider",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -278,11 +278,17 @@
     }
   },
   "ath @ pit": {
+    "34": {
+      "player": "joey bart",
+      "pitcher": "mitch spence",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "33": {
       "player": "jack suwinski",
       "pitcher": "mitch spence",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "32": {
       "player": "willie maciver",
@@ -661,6 +667,12 @@
   },
   "chc @ cin": {},
   "wsh @ nym": {
+    "29": {
+      "player": "nasim nunez",
+      "pitcher": "clay holmes",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "28": {
       "player": "brady house",
       "pitcher": "clay holmes",
@@ -834,8 +846,8 @@
     "18": {
       "player": "carter jensen",
       "pitcher": "trey yesavage",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "adam frazier",
