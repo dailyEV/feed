@@ -4125,8 +4125,8 @@
     "66": {
       "player": "dane myers",
       "pitcher": "shawn armstrong",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "65": {
       "player": "cody freeman",
@@ -4888,10 +4888,16 @@
     }
   },
   "sf @ lad": {
+    "34": {
+      "player": "miguel rojas",
+      "pitcher": "trevor mcdonald",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "33": {
       "player": "michael conforto",
       "pitcher": "trevor mcdonald",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "32": {
@@ -5088,6 +5094,12 @@
     }
   },
   "phi @ ari": {
+    "35": {
+      "player": "bryson stott",
+      "pitcher": "eduardo rodriguez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "34": {
       "player": "otto kemp",
       "pitcher": "eduardo rodriguez",
