@@ -2008,6 +2008,12 @@
     }
   },
   "ath @ pit": {
+    "60": {
+      "player": "brent rooker",
+      "pitcher": "dennis santana",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "59": {
       "player": "lawrence butler",
       "pitcher": "dennis santana",
@@ -2887,8 +2893,8 @@
     "38": {
       "player": "jazz chisholm",
       "pitcher": "jose castillo",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "37": {
       "player": "giancarlo stanton",
@@ -3602,7 +3608,7 @@
       "player": "chase meidroth",
       "pitcher": "yu darvish",
       "result": "Called Strike",
-      "pitch": "Cutter"
+      "pitch": "Sinker"
     },
     "36": {
       "player": "michael a taylor",
@@ -3825,7 +3831,7 @@
     "40": {
       "player": "jordan walker",
       "pitcher": "chad patrick",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "39": {
@@ -4067,8 +4073,8 @@
     "12": {
       "player": "jordan beck",
       "pitcher": "kyle hendricks",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "11": {
       "player": "logan ohoppe",
@@ -4141,8 +4147,8 @@
     "15": {
       "player": "james mccann",
       "pitcher": "aaron nola",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "14": {
       "player": "blaze alexander",
