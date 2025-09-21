@@ -1,11 +1,5 @@
 {
   "atl @ det": {
-    "67": {
-      "player": "vidal brujan",
-      "pitcher": "tyler holton",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "66": {
       "player": "michael harris",
       "pitcher": "tyler holton",
@@ -1421,7 +1415,7 @@
     "64": {
       "player": "pete alonso",
       "pitcher": "mitchell parker",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -1807,7 +1801,7 @@
     "58": {
       "player": "daulton varsho",
       "pitcher": "jonathan bowlan",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -2154,6 +2148,12 @@
     }
   },
   "cle @ min": {
+    "54": {
+      "player": "ryan fitzgerald",
+      "pitcher": "tim herrin",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "53": {
       "player": "brayan rocchio",
       "pitcher": "pierson ohl",
@@ -2824,6 +2824,12 @@
     }
   },
   "mil @ stl": {
+    "55": {
+      "player": "andrew vaughn",
+      "pitcher": "matt svanson",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "54": {
       "player": "isaac collins",
       "pitcher": "matt svanson",
