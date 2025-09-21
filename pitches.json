@@ -664,10 +664,16 @@
     }
   },
   "nyy @ bal": {
+    "45": {
+      "player": "ryan mountcastle",
+      "pitcher": "tim hill",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "gunnar henderson",
       "pitcher": "tim hill",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "43": {
@@ -1745,8 +1751,8 @@
     "38": {
       "player": "manny machado",
       "pitcher": "mike vasil",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "37": {
       "player": "luis arraez",
@@ -1975,8 +1981,8 @@
     "31": {
       "player": "nolan gorman",
       "pitcher": "erick fedde",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "jordan walker",
@@ -2160,11 +2166,17 @@
     }
   },
   "mia @ tex": {
+    "20": {
+      "player": "michael helman",
+      "pitcher": "eury perez",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "19": {
       "player": "agustin ramirez",
       "pitcher": "merrill kelly",
       "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "pitch": "Curveball"
     },
     "18": {
       "player": "jakob marsee",
