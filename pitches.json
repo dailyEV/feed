@@ -281,8 +281,8 @@
     "34": {
       "player": "joey bart",
       "pitcher": "mitch spence",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "33": {
       "player": "jack suwinski",
@@ -670,8 +670,8 @@
     "29": {
       "player": "nasim nunez",
       "pitcher": "clay holmes",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "28": {
       "player": "brady house",
@@ -953,6 +953,12 @@
     }
   },
   "cle @ min": {
+    "17": {
+      "player": "brooks lee",
+      "pitcher": "joey cantillo",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "16": {
       "player": "edouard julien",
       "pitcher": "joey cantillo",
