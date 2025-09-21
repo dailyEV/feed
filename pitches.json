@@ -282,7 +282,7 @@
       "player": "jack suwinski",
       "pitcher": "mitch spence",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Curveball"
     },
     "32": {
       "player": "willie maciver",
@@ -834,7 +834,7 @@
     "18": {
       "player": "carter jensen",
       "pitcher": "trey yesavage",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "17": {
@@ -941,12 +941,6 @@
     }
   },
   "cle @ min": {
-    "17": {
-      "player": "brooks lee",
-      "pitcher": "joey cantillo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "16": {
       "player": "edouard julien",
       "pitcher": "joey cantillo",
@@ -1149,6 +1143,12 @@
     }
   },
   "mil @ stl": {
+    "14": {
+      "player": "jose fermin",
+      "pitcher": "robert gasser",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "13": {
       "player": "nolan gorman",
       "pitcher": "robert gasser",
