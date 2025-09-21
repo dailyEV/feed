@@ -1,5 +1,11 @@
 {
   "atl @ det": {
+    "55": {
+      "player": "andy ibanez",
+      "pitcher": "dylan lee",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "54": {
       "player": "zach mckinstry",
       "pitcher": "pierce johnson",
@@ -855,8 +861,8 @@
     "11": {
       "player": "justin turner",
       "pitcher": "andrew abbott",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "dansby swanson",
@@ -923,7 +929,7 @@
     "40": {
       "player": "josh bell",
       "pitcher": "clay holmes",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "39": {
@@ -1165,8 +1171,8 @@
     "31": {
       "player": "salvador perez",
       "pitcher": "trey yesavage",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "30": {
       "player": "maikel garcia",
@@ -1530,7 +1536,7 @@
       "player": "lenyn sosa",
       "pitcher": "michael king",
       "result": "Called Strike",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "32": {
       "player": "brooks baldwin",
@@ -1887,7 +1893,7 @@
     "14": {
       "player": "jonah heim",
       "pitcher": "eury perez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "13": {
@@ -1970,11 +1976,17 @@
     }
   },
   "laa @ col": {
+    "2": {
+      "player": "taylor ward",
+      "pitcher": "kyle freeland",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "mike trout",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Knuckle Curve"
     }
   },
   "sf @ lad": {},
