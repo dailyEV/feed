@@ -2631,7 +2631,7 @@
     "78": {
       "player": "carson williams",
       "pitcher": "aroldis chapman",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "77": {
@@ -3098,6 +3098,12 @@
     }
   },
   "mia @ tex": {
+    "74": {
+      "player": "ezequiel duran",
+      "pitcher": "calvin faucher",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "73": {
       "player": "josh jung",
       "pitcher": "calvin faucher",
@@ -4789,8 +4795,8 @@
     "69": {
       "player": "luis arraez",
       "pitcher": "wikelman gonzalez",
-      "result": "Ball",
-      "pitch": "Slurve"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "fernando tatis",
@@ -5205,7 +5211,7 @@
     "76": {
       "player": "danny jansen",
       "pitcher": "jojo romero",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "75": {
@@ -5660,6 +5666,12 @@
     }
   },
   "laa @ col": {
+    "56": {
+      "player": "jo adell",
+      "pitcher": "jaden hill",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "55": {
       "player": "taylor ward",
       "pitcher": "jaden hill",
@@ -6309,8 +6321,8 @@
     "20": {
       "player": "andy pages",
       "pitcher": "kai wei teng",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "matt chapman",
