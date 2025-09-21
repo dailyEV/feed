@@ -294,7 +294,7 @@
       "player": "bryan reynolds",
       "pitcher": "mitch spence",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Cutter"
     },
     "37": {
       "player": "jared triolo",
@@ -728,11 +728,17 @@
     }
   },
   "wsh @ nym": {
+    "32": {
+      "player": "mark vientos",
+      "pitcher": "jake irvin",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "31": {
       "player": "jeff mcneil",
       "pitcher": "jake irvin",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "pete alonso",
@@ -916,12 +922,6 @@
     }
   },
   "tor @ kc": {
-    "21": {
-      "player": "davis schneider",
-      "pitcher": "michael wacha",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
-    },
     "20": {
       "player": "addison barger",
       "pitcher": "michael wacha",
@@ -1047,8 +1047,8 @@
     "20": {
       "player": "kyle manzardo",
       "pitcher": "simeon woods richardson",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "19": {
       "player": "jose ramirez",
@@ -1169,8 +1169,8 @@
     "22": {
       "player": "jackson merrill",
       "pitcher": "sean burke",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "21": {
       "player": "manny machado",
@@ -1404,6 +1404,12 @@
     }
   },
   "mia @ tex": {
+    "7": {
+      "player": "rowdy tellez",
+      "pitcher": "eury perez",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "alejandro osuna",
       "pitcher": "eury perez",
