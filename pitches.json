@@ -409,8 +409,8 @@
     "25": {
       "player": "dylan beavers",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "24": {
       "player": "jasson dominguez",
@@ -708,7 +708,7 @@
     "12": {
       "player": "andres gimenez",
       "pitcher": "michael wacha",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "11": {
@@ -903,6 +903,12 @@
     }
   },
   "mil @ stl": {
+    "10": {
+      "player": "caleb durbin",
+      "pitcher": "matthew liberatore",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "rhys hoskins",
       "pitcher": "matthew liberatore",
