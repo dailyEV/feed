@@ -1029,8 +1029,8 @@
     "25": {
       "player": "carson kelly",
       "pitcher": "andrew abbott",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "24": {
       "player": "noelvi marte",
@@ -1758,12 +1758,6 @@
     }
   },
   "cle @ min": {
-    "42": {
-      "player": "austin martin",
-      "pitcher": "erik sabrowski",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "41": {
       "player": "kody clemens",
       "pitcher": "erik sabrowski",
@@ -2012,6 +2006,12 @@
     }
   },
   "sd @ chw": {
+    "46": {
+      "player": "miguel vargas",
+      "pitcher": "michael king",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "colson montgomery",
       "pitcher": "michael king",
@@ -2284,6 +2284,12 @@
     }
   },
   "mil @ stl": {
+    "39": {
+      "player": "isaac collins",
+      "pitcher": "matthew liberatore",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "38": {
       "player": "jackson chourio",
       "pitcher": "matthew liberatore",
@@ -2517,8 +2523,8 @@
     "25": {
       "player": "otto lopez",
       "pitcher": "merrill kelly",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "liam hicks",
@@ -2666,10 +2672,16 @@
     }
   },
   "laa @ col": {
+    "15": {
+      "player": "jordan beck",
+      "pitcher": "caden dana",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "14": {
       "player": "blaine crim",
       "pitcher": "caden dana",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "13": {
