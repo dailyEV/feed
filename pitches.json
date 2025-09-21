@@ -865,8 +865,8 @@
     "64": {
       "player": "gunnar henderson",
       "pitcher": "devin williams",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "dylan beavers",
@@ -1499,7 +1499,7 @@
     "67": {
       "player": "brady house",
       "pitcher": "edwin diaz",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "66": {
@@ -2606,6 +2606,12 @@
     }
   },
   "sd @ chw": {
+    "61": {
+      "player": "edgar quero",
+      "pitcher": "mason miller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "miguel vargas",
       "pitcher": "mason miller",
@@ -3560,11 +3566,17 @@
     }
   },
   "laa @ col": {
+    "34": {
+      "player": "bryce teodosio",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "33": {
       "player": "denzer guzman",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "32": {
       "player": "kyle karros",
@@ -3763,8 +3775,8 @@
     "3": {
       "player": "willy adames",
       "pitcher": "emmet sheehan",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "2": {
       "player": "rafael devers",
