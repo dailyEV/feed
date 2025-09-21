@@ -871,7 +871,7 @@
     "51": {
       "player": "kyle manzardo",
       "pitcher": "mick abel",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -1721,8 +1721,8 @@
     "60": {
       "player": "nico hoerner",
       "pitcher": "chase burns",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "michael busch",
@@ -4364,10 +4364,16 @@
     }
   },
   "laa @ col": {
+    "20": {
+      "player": "tyler freeman",
+      "pitcher": "kyle hendricks",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "19": {
       "player": "orlando arcia",
       "pitcher": "kyle hendricks",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "18": {
