@@ -1834,10 +1834,16 @@
     }
   },
   "ath @ pit": {
+    "44": {
+      "player": "andrew mccutchen",
+      "pitcher": "luis morales",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "43": {
       "player": "spencer horwitz",
       "pitcher": "luis morales",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -2097,7 +2103,7 @@
     "29": {
       "player": "brandon lowe",
       "pitcher": "kyle harrison",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "28": {
@@ -2602,7 +2608,7 @@
       "player": "carlos correa",
       "pitcher": "george kirby",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "jeremy pena",
@@ -3072,11 +3078,17 @@
     }
   },
   "mil @ stl": {
-    "24": {
-      "player": "caleb durbin",
+    "25": {
+      "player": "jake bauers",
       "pitcher": "miles mikolas",
       "result": "Foul",
       "pitch": "4-Seam Fastball"
+    },
+    "24": {
+      "player": "caleb durbin",
+      "pitcher": "miles mikolas",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "23": {
       "player": "victor scott",
