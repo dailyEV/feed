@@ -3,7 +3,7 @@
     "59": {
       "player": "drake baldwin",
       "pitcher": "brant hurter",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "58": {
@@ -359,8 +359,8 @@
     "51": {
       "player": "jacob wilson",
       "pitcher": "carmen mlodzinski",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "jj bleday",
@@ -933,8 +933,8 @@
     "17": {
       "player": "nico hoerner",
       "pitcher": "andrew abbott",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "16": {
       "player": "kevin alcantara",
@@ -1034,6 +1034,12 @@
     }
   },
   "wsh @ nym": {
+    "46": {
+      "player": "brandon nimmo",
+      "pitcher": "jake irvin",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "45": {
       "player": "juan soto",
       "pitcher": "jake irvin",
@@ -1524,6 +1530,12 @@
     }
   },
   "cle @ min": {
+    "35": {
+      "player": "george valera",
+      "pitcher": "simeon woods richardson",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "34": {
       "player": "steven kwan",
       "pitcher": "simeon woods richardson",
@@ -1963,8 +1975,8 @@
     "31": {
       "player": "nolan gorman",
       "pitcher": "erick fedde",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "jordan walker",
@@ -2267,8 +2279,8 @@
     "7": {
       "player": "mickey moniak",
       "pitcher": "caden dana",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "6": {
       "player": "christian moore",
