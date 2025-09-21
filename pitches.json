@@ -221,8 +221,8 @@
     "24": {
       "player": "nick kurtz",
       "pitcher": "mike burrows",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "brent rooker",
@@ -367,8 +367,8 @@
     "22": {
       "player": "cody bellinger",
       "pitcher": "kyle bradish",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "jackson holliday",
@@ -630,7 +630,7 @@
     "8": {
       "player": "maikel garcia",
       "pitcher": "trey yesavage",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "7": {
@@ -680,8 +680,8 @@
     "6": {
       "player": "gabriel arias",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "5": {
       "player": "bo naylor",
@@ -718,8 +718,8 @@
     "8": {
       "player": "jackson merrill",
       "pitcher": "sean burke",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "7": {
       "player": "miguel vargas",
@@ -765,6 +765,12 @@
     }
   },
   "mil @ stl": {
+    "6": {
+      "player": "alec burleson",
+      "pitcher": "robert gasser",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "5": {
       "player": "ivan herrera",
       "pitcher": "robert gasser",
