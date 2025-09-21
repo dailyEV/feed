@@ -2628,10 +2628,16 @@
     }
   },
   "bos @ tb": {
+    "77": {
+      "player": "nick fortes",
+      "pitcher": "aroldis chapman",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "76": {
       "player": "josh lowe",
       "pitcher": "aroldis chapman",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "75": {
@@ -4762,6 +4768,12 @@
     }
   },
   "sd @ chw": {
+    "68": {
+      "player": "fernando tatis",
+      "pitcher": "wikelman gonzalez",
+      "result": "Foul",
+      "pitch": "Slurve"
+    },
     "67": {
       "player": "freddy fermin",
       "pitcher": "wikelman gonzalez",
@@ -5941,8 +5953,8 @@
     "51": {
       "player": "geraldo perdomo",
       "pitcher": "tanner banks",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "50": {
       "player": "jake mccarthy",
@@ -6249,7 +6261,7 @@
     "19": {
       "player": "matt chapman",
       "pitcher": "tyler glasnow",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "18": {
