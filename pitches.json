@@ -967,8 +967,8 @@
     "75": {
       "player": "ben rice",
       "pitcher": "keegan akin",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "74": {
       "player": "cody bellinger",
@@ -1413,7 +1413,7 @@
     "56": {
       "player": "seiya suzuki",
       "pitcher": "graham ashcraft",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "55": {
@@ -2176,6 +2176,12 @@
     }
   },
   "tor @ kc": {
+    "75": {
+      "player": "vladimir guerrero",
+      "pitcher": "luinder avila",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "74": {
       "player": "daulton varsho",
       "pitcher": "luinder avila",
@@ -2622,6 +2628,12 @@
     }
   },
   "cle @ min": {
+    "69": {
+      "player": "petey halpin",
+      "pitcher": "travis adams",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "68": {
       "player": "bo naylor",
       "pitcher": "travis adams",
@@ -3466,11 +3478,17 @@
     }
   },
   "mil @ stl": {
+    "72": {
+      "player": "jackson chourio",
+      "pitcher": "riley obrien",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "71": {
       "player": "jake bauers",
       "pitcher": "riley obrien",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Hit By Pitch",
+      "pitch": "Slider"
     },
     "70": {
       "player": "brice turang",
@@ -3888,6 +3906,12 @@
     }
   },
   "mia @ tex": {
+    "53": {
+      "player": "brian navarreto",
+      "pitcher": "cole winn",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "52": {
       "player": "graham pauley",
       "pitcher": "cole winn",
@@ -4602,6 +4626,12 @@
     }
   },
   "phi @ ari": {
+    "19": {
+      "player": "geraldo perdomo",
+      "pitcher": "ranger suarez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "ketel marte",
       "pitcher": "ranger suarez",
