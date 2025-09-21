@@ -2631,7 +2631,7 @@
     "68": {
       "player": "christopher morel",
       "pitcher": "garrett whitlock",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "67": {
@@ -3819,7 +3819,7 @@
     "59": {
       "player": "yainer diaz",
       "pitcher": "carlos vargas",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "58": {
@@ -4172,6 +4172,12 @@
     }
   },
   "tor @ kc": {
+    "64": {
+      "player": "ty france",
+      "pitcher": "carlos estevez",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "63": {
       "player": "alejandro kirk",
       "pitcher": "carlos estevez",
@@ -4902,10 +4908,16 @@
     }
   },
   "mil @ stl": {
+    "67": {
+      "player": "nolan gorman",
+      "pitcher": "abner uribe",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "66": {
       "player": "thomas saggese",
       "pitcher": "abner uribe",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "65": {
