@@ -1,16 +1,10 @@
 {
   "atl @ det": {
-    "65": {
-      "player": "riley greene",
-      "pitcher": "jose suarez",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "64": {
       "player": "kerry carpenter",
       "pitcher": "jose suarez",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "63": {
       "player": "gleyber torres",
@@ -802,6 +796,12 @@
     }
   },
   "nyy @ bal": {
+    "59": {
+      "player": "ben rice",
+      "pitcher": "rico garcia",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "cody bellinger",
       "pitcher": "rico garcia",
@@ -1364,12 +1364,6 @@
     }
   },
   "wsh @ nym": {
-    "63": {
-      "player": "brandon nimmo",
-      "pitcher": "mitchell parker",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "62": {
       "player": "juan soto",
       "pitcher": "mitchell parker",
@@ -1747,8 +1741,8 @@
     "56": {
       "player": "bobby witt",
       "pitcher": "seranthony dominguez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "55": {
       "player": "mike yastrzemski",
@@ -2734,6 +2728,12 @@
     }
   },
   "mil @ stl": {
+    "53": {
+      "player": "jackson chourio",
+      "pitcher": "matt svanson",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "52": {
       "player": "joey ortiz",
       "pitcher": "matt svanson",
@@ -3048,6 +3048,12 @@
     }
   },
   "mia @ tex": {
+    "36": {
+      "player": "agustin ramirez",
+      "pitcher": "merrill kelly",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "35": {
       "player": "jakob marsee",
       "pitcher": "merrill kelly",
@@ -3263,8 +3269,8 @@
     "27": {
       "player": "christian moore",
       "pitcher": "kyle freeland",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "26": {
       "player": "logan ohoppe",
