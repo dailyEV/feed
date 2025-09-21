@@ -853,7 +853,7 @@
     "63": {
       "player": "dylan beavers",
       "pitcher": "devin williams",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -1482,7 +1482,7 @@
       "player": "jorge alfaro",
       "pitcher": "edwin diaz",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "65": {
       "player": "jeff mcneil",
@@ -3527,7 +3527,7 @@
     "33": {
       "player": "denzer guzman",
       "pitcher": "kyle freeland",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "32": {
@@ -3738,6 +3738,12 @@
     }
   },
   "phi @ ari": {
+    "2": {
+      "player": "kyle schwarber",
+      "pitcher": "eduardo rodriguez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "harrison bader",
       "pitcher": "eduardo rodriguez",
