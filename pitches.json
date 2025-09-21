@@ -871,8 +871,8 @@
     "32": {
       "player": "austin hedges",
       "pitcher": "bailey ober",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "31": {
       "player": "petey halpin",
@@ -1604,6 +1604,18 @@
     }
   },
   "chc @ cin": {
+    "45": {
+      "player": "moises ballesteros",
+      "pitcher": "graham ashcraft",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
+    "44": {
+      "player": "ian happ",
+      "pitcher": "graham ashcraft",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "43": {
       "player": "nico hoerner",
       "pitcher": "graham ashcraft",
@@ -2345,7 +2357,7 @@
     "30": {
       "player": "troy johnston",
       "pitcher": "jack leiter",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -2527,7 +2539,7 @@
     "28": {
       "player": "jordan westburg",
       "pitcher": "carlos rodon",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "27": {
@@ -2694,6 +2706,12 @@
     }
   },
   "sea @ hou": {
+    "28": {
+      "player": "victor robles",
+      "pitcher": "framber valdez",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "27": {
       "player": "mitch garver",
       "pitcher": "framber valdez",
@@ -2861,8 +2879,8 @@
     "32": {
       "player": "isiah kiner falefa",
       "pitcher": "noah cameron",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "ernie clement",
@@ -3055,8 +3073,8 @@
     "27": {
       "player": "ramon laureano",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "jackson merrill",
@@ -3219,7 +3237,7 @@
     "28": {
       "player": "brendan donovan",
       "pitcher": "chad patrick",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "27": {
