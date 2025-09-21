@@ -871,8 +871,8 @@
     "29": {
       "player": "royce lewis",
       "pitcher": "logan allen",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul Tip",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "luke keaschall",
@@ -1589,8 +1589,8 @@
     "41": {
       "player": "austin hays",
       "pitcher": "drew pomeranz",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "40": {
       "player": "miguel andujar",
@@ -2088,6 +2088,12 @@
     }
   },
   "bos @ tb": {
+    "28": {
+      "player": "junior caminero",
+      "pitcher": "kyle harrison",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "nathaniel lowe",
       "pitcher": "adrian houser",
@@ -2577,7 +2583,7 @@
     "25": {
       "player": "carlos correa",
       "pitcher": "george kirby",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "24": {
@@ -2729,7 +2735,7 @@
     "29": {
       "player": "mike yastrzemski",
       "pitcher": "shane bieber",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "28": {
