@@ -377,8 +377,8 @@
     "59": {
       "player": "max schuemann",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "willie maciver",
@@ -1758,6 +1758,18 @@
     }
   },
   "cle @ min": {
+    "42": {
+      "player": "austin martin",
+      "pitcher": "erik sabrowski",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "41": {
+      "player": "kody clemens",
+      "pitcher": "erik sabrowski",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "byron buxton",
       "pitcher": "joey cantillo",
@@ -2275,7 +2287,7 @@
     "38": {
       "player": "jackson chourio",
       "pitcher": "matthew liberatore",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Curveball"
     },
     "37": {
@@ -2505,8 +2517,8 @@
     "25": {
       "player": "otto lopez",
       "pitcher": "merrill kelly",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "24": {
       "player": "liam hicks",
