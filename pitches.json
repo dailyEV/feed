@@ -589,8 +589,8 @@
     "39": {
       "player": "cody bellinger",
       "pitcher": "kyle bradish",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "38": {
       "player": "aaron judge",
@@ -826,7 +826,7 @@
       "player": "carson kelly",
       "pitcher": "andrew abbott",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sweeper"
     },
     "7": {
       "player": "spencer steer",
@@ -1111,8 +1111,8 @@
     "28": {
       "player": "bobby witt",
       "pitcher": "trey yesavage",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Splitter"
     },
     "27": {
       "player": "andres gimenez",
@@ -1281,8 +1281,8 @@
     "27": {
       "player": "gabriel arias",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "bo naylor",
@@ -1624,6 +1624,12 @@
     }
   },
   "mil @ stl": {
+    "24": {
+      "player": "ivan herrera",
+      "pitcher": "robert gasser",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "23": {
       "player": "thomas saggese",
       "pitcher": "robert gasser",
