@@ -1,10 +1,16 @@
 {
   "atl @ det": {
+    "40": {
+      "player": "drake baldwin",
+      "pitcher": "casey mize",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "39": {
       "player": "ronald acuna",
       "pitcher": "casey mize",
-      "result": "Foul",
-      "pitch": "Slurve"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "38": {
       "player": "matt olson",
@@ -239,8 +245,8 @@
     "26": {
       "player": "jacob wilson",
       "pitcher": "mike burrows",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "tyler soderstrom",
@@ -797,7 +803,7 @@
       "player": "ryan ohearn",
       "pitcher": "sean burke",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "gavin sheets",
@@ -861,6 +867,12 @@
     }
   },
   "mil @ stl": {
+    "9": {
+      "player": "rhys hoskins",
+      "pitcher": "matthew liberatore",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "jordan walker",
       "pitcher": "robert gasser",
