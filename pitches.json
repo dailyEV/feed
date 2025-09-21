@@ -916,12 +916,6 @@
     }
   },
   "nyy @ bal": {
-    "70": {
-      "player": "jordan westburg",
-      "pitcher": "david bednar",
-      "result": "Foul",
-      "pitch": "Splitter"
-    },
     "69": {
       "player": "samuel basallo",
       "pitcher": "david bednar",
@@ -3238,6 +3232,12 @@
     }
   },
   "mil @ stl": {
+    "67": {
+      "player": "nolan gorman",
+      "pitcher": "rob zastryzny",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "65": {
       "player": "lars nootbaar",
       "pitcher": "rob zastryzny",
@@ -3630,6 +3630,12 @@
     }
   },
   "mia @ tex": {
+    "46": {
+      "player": "alejandro osuna",
+      "pitcher": "lake bachar",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "45": {
       "player": "wyatt langford",
       "pitcher": "lake bachar",
@@ -3906,7 +3912,7 @@
       "player": "nolan schanuel",
       "pitcher": "kyle freeland",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "jo adell",
@@ -4159,8 +4165,8 @@
     "11": {
       "player": "christian koss",
       "pitcher": "emmet sheehan",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "jung hoo lee",
@@ -4227,8 +4233,8 @@
     "10": {
       "player": "ildemaro vargas",
       "pitcher": "ranger suarez",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "9": {
       "player": "blaze alexander",
