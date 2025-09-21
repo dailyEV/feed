@@ -3,7 +3,7 @@
     "53": {
       "player": "dillon dingler",
       "pitcher": "pierce johnson",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Curveball"
     },
     "52": {
@@ -323,8 +323,8 @@
     "42": {
       "player": "brent rooker",
       "pitcher": "carmen mlodzinski",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "41": {
       "player": "lawrence butler",
@@ -801,7 +801,7 @@
     "7": {
       "player": "spencer steer",
       "pitcher": "jameson taillon",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "6": {
@@ -1674,6 +1674,12 @@
     }
   },
   "mia @ tex": {
+    "12": {
+      "player": "heriberto hernandez",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "11": {
       "player": "troy johnston",
       "pitcher": "merrill kelly",
