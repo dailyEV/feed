@@ -408,7 +408,7 @@
       "player": "andrew mccutchen",
       "pitcher": "scott mcgough",
       "result": "Foul",
-      "pitch": "Splitter"
+      "pitch": "4-Seam Fastball"
     },
     "72": {
       "player": "spencer horwitz",
@@ -1212,12 +1212,6 @@
     }
   },
   "chc @ cin": {
-    "41": {
-      "player": "moises ballesteros",
-      "pitcher": "nick martinez",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "40": {
       "player": "carson kelly",
       "pitcher": "nick martinez",
@@ -1855,8 +1849,8 @@
     "60": {
       "player": "addison barger",
       "pitcher": "jonathan bowlan",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "59": {
       "player": "vladimir guerrero",
@@ -2217,7 +2211,7 @@
     "57": {
       "player": "austin martin",
       "pitcher": "tim herrin",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "56": {
@@ -2914,6 +2908,12 @@
     }
   },
   "mil @ stl": {
+    "57": {
+      "player": "victor scott",
+      "pitcher": "erick fedde",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "56": {
       "player": "jimmy crooks",
       "pitcher": "erick fedde",
@@ -3255,8 +3255,8 @@
     "38": {
       "player": "liam hicks",
       "pitcher": "jacob latz",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "37": {
       "player": "xavier edwards",
@@ -3675,7 +3675,14 @@
       "pitch": "Knuckle Curve"
     }
   },
-  "sf @ lad": {},
+  "sf @ lad": {
+    "1": {
+      "player": "heliot ramos",
+      "pitcher": "emmet sheehan",
+      "result": "Ball",
+      "pitch": "Slider"
+    }
+  },
   "phi @ ari": {
     "1": {
       "player": "harrison bader",
