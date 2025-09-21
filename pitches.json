@@ -3,7 +3,7 @@
     "77": {
       "player": "ozzie albies",
       "pitcher": "tanner rainey",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Cutter"
     },
     "76": {
@@ -925,8 +925,8 @@
     "72": {
       "player": "coby mayo",
       "pitcher": "david bednar",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "71": {
       "player": "colton cowser",
@@ -3331,7 +3331,7 @@
     "68": {
       "player": "jose fermin",
       "pitcher": "grant anderson",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -3735,8 +3735,8 @@
     "49": {
       "player": "cody freeman",
       "pitcher": "lake bachar",
-      "result": "In play, run(s)",
-      "pitch": "Sweeper"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "48": {
       "player": "josh jung",
@@ -4294,6 +4294,12 @@
     }
   },
   "sf @ lad": {
+    "13": {
+      "player": "andy pages",
+      "pitcher": "trevor mcdonald",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "12": {
       "player": "drew gilbert",
       "pitcher": "emmet sheehan",
