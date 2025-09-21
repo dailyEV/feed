@@ -745,7 +745,7 @@
     "52": {
       "player": "jeremiah jackson",
       "pitcher": "fernando cruz",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "51": {
@@ -1053,7 +1053,7 @@
     "29": {
       "player": "michael busch",
       "pitcher": "andrew abbott",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "28": {
@@ -1839,8 +1839,8 @@
     "45": {
       "player": "gabriel arias",
       "pitcher": "kody funderburk",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "44": {
       "player": "bo naylor",
@@ -2392,6 +2392,12 @@
     }
   },
   "mil @ stl": {
+    "42": {
+      "player": "lars nootbaar",
+      "pitcher": "erick fedde",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "alec burleson",
       "pitcher": "erick fedde",
@@ -2810,11 +2816,17 @@
     }
   },
   "laa @ col": {
-    "18": {
-      "player": "braxton fulford",
+    "19": {
+      "player": "ryan ritter",
       "pitcher": "caden dana",
       "result": "Called Strike",
       "pitch": "4-Seam Fastball"
+    },
+    "18": {
+      "player": "braxton fulford",
+      "pitcher": "caden dana",
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "17": {
       "player": "kyle karros",
