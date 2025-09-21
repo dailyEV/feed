@@ -218,11 +218,17 @@
     }
   },
   "ath @ pit": {
+    "25": {
+      "player": "tyler soderstrom",
+      "pitcher": "mike burrows",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "24": {
       "player": "nick kurtz",
       "pitcher": "mike burrows",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "23": {
       "player": "brent rooker",
@@ -367,7 +373,7 @@
     "22": {
       "player": "cody bellinger",
       "pitcher": "kyle bradish",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "21": {
@@ -630,8 +636,8 @@
     "8": {
       "player": "maikel garcia",
       "pitcher": "trey yesavage",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "7": {
       "player": "vinnie pasquantino",
@@ -681,7 +687,7 @@
       "player": "gabriel arias",
       "pitcher": "simeon woods richardson",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Splitter"
     },
     "5": {
       "player": "bo naylor",
@@ -769,7 +775,7 @@
       "player": "alec burleson",
       "pitcher": "robert gasser",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "5": {
       "player": "ivan herrera",
