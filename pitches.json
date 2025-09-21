@@ -868,6 +868,12 @@
     }
   },
   "cle-gm2 @ min-gm2": {
+    "42": {
+      "player": "edouard julien",
+      "pitcher": "logan allen",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "carson mccusker",
       "pitcher": "logan allen",
@@ -1975,8 +1981,8 @@
     "57": {
       "player": "bryan reynolds",
       "pitcher": "brady basso",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "56": {
       "player": "jared triolo",
@@ -2316,6 +2322,12 @@
     }
   },
   "bos @ tb": {
+    "42": {
+      "player": "romy gonzalez",
+      "pitcher": "adrian houser",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "41": {
       "player": "chandler simpson",
       "pitcher": "kyle harrison",
@@ -2800,6 +2812,12 @@
     }
   },
   "nyy @ bal": {
+    "36": {
+      "player": "cody bellinger",
+      "pitcher": "jose castillo",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "35": {
       "player": "ryan mountcastle",
       "pitcher": "carlos rodon",
@@ -3016,7 +3034,7 @@
       "player": "cal raleigh",
       "pitcher": "framber valdez",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Changeup"
     },
     "33": {
       "player": "randy arozarena",
@@ -3466,6 +3484,12 @@
     }
   },
   "sd @ chw": {
+    "35": {
+      "player": "will robertson",
+      "pitcher": "yu darvish",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "34": {
       "player": "freddy fermin",
       "pitcher": "yoendrys gomez",
@@ -3902,11 +3926,17 @@
     }
   },
   "laa @ col": {
+    "11": {
+      "player": "logan ohoppe",
+      "pitcher": "german marquez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "christian moore",
       "pitcher": "german marquez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "jo adell",
@@ -3964,11 +3994,17 @@
     }
   },
   "phi @ ari": {
+    "13": {
+      "player": "bryson stott",
+      "pitcher": "zac gallen",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "12": {
       "player": "otto kemp",
       "pitcher": "zac gallen",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "max kepler",
