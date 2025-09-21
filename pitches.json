@@ -239,7 +239,7 @@
     "26": {
       "player": "jacob wilson",
       "pitcher": "mike burrows",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "25": {
@@ -397,8 +397,8 @@
     "24": {
       "player": "jasson dominguez",
       "pitcher": "kyle bradish",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "23": {
       "player": "ben rice",
@@ -544,8 +544,8 @@
     "22": {
       "player": "francisco lindor",
       "pitcher": "jake irvin",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "cedric mullins",
@@ -675,6 +675,12 @@
     }
   },
   "tor @ kc": {
+    "10": {
+      "player": "nathan lukes",
+      "pitcher": "michael wacha",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "davis schneider",
       "pitcher": "michael wacha",
@@ -734,8 +740,8 @@
     "7": {
       "player": "byron buxton",
       "pitcher": "joey cantillo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "6": {
       "player": "gabriel arias",
