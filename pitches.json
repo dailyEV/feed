@@ -805,8 +805,8 @@
     "59": {
       "player": "ben rice",
       "pitcher": "rico garcia",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "cody bellinger",
@@ -1373,7 +1373,7 @@
     "63": {
       "player": "brandon nimmo",
       "pitcher": "mitchell parker",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -2408,6 +2408,12 @@
     }
   },
   "sd @ chw": {
+    "56": {
+      "player": "dominic fletcher",
+      "pitcher": "kyle hart",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "luis arraez",
       "pitcher": "mike vasil",
@@ -2740,12 +2746,6 @@
     }
   },
   "mil @ stl": {
-    "53": {
-      "player": "jackson chourio",
-      "pitcher": "matt svanson",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "52": {
       "player": "joey ortiz",
       "pitcher": "matt svanson",
@@ -3060,12 +3060,6 @@
     }
   },
   "mia @ tex": {
-    "36": {
-      "player": "agustin ramirez",
-      "pitcher": "merrill kelly",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "35": {
       "player": "jakob marsee",
       "pitcher": "merrill kelly",
@@ -3278,6 +3272,12 @@
     }
   },
   "laa @ col": {
+    "28": {
+      "player": "oswald peraza",
+      "pitcher": "kyle freeland",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "27": {
       "player": "christian moore",
       "pitcher": "kyle freeland",
