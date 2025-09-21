@@ -1,5 +1,17 @@
 {
   "atl @ det": {
+    "79": {
+      "player": "marcell ozuna",
+      "pitcher": "paul sewald",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
+    "78": {
+      "player": "ha seong kim",
+      "pitcher": "paul sewald",
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
+    },
     "77": {
       "player": "ozzie albies",
       "pitcher": "tanner rainey",
@@ -2511,8 +2523,8 @@
     "67": {
       "player": "ryan fitzgerald",
       "pitcher": "zak kent",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "jhonny pereda",
@@ -3328,6 +3340,12 @@
     }
   },
   "mil @ stl": {
+    "69": {
+      "player": "jimmy crooks",
+      "pitcher": "grant anderson",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "68": {
       "player": "jose fermin",
       "pitcher": "grant anderson",
@@ -3732,6 +3750,12 @@
     }
   },
   "mia @ tex": {
+    "50": {
+      "player": "jonah heim",
+      "pitcher": "lake bachar",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "cody freeman",
       "pitcher": "lake bachar",
@@ -4294,11 +4318,17 @@
     }
   },
   "sf @ lad": {
+    "14": {
+      "player": "michael conforto",
+      "pitcher": "trevor mcdonald",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "andy pages",
       "pitcher": "trevor mcdonald",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "12": {
       "player": "drew gilbert",
