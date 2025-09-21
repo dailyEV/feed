@@ -374,11 +374,17 @@
     }
   },
   "ath @ pit": {
+    "66": {
+      "player": "brett harris",
+      "pitcher": "yohan ramirez",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "65": {
       "player": "brent rooker",
       "pitcher": "yohan ramirez",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "64": {
       "player": "nick yorke",
@@ -1675,8 +1681,8 @@
     "55": {
       "player": "mike yastrzemski",
       "pitcher": "brendon little",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "54": {
       "player": "randal grichuk",
@@ -2007,8 +2013,8 @@
     "49": {
       "player": "brooks lee",
       "pitcher": "matt festa",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "edouard julien",
@@ -2303,7 +2309,7 @@
     "53": {
       "player": "elias diaz",
       "pitcher": "mike vasil",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "52": {
@@ -2620,6 +2626,12 @@
     }
   },
   "mil @ stl": {
+    "49": {
+      "player": "nolan gorman",
+      "pitcher": "erick fedde",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "48": {
       "player": "jordan walker",
       "pitcher": "erick fedde",
