@@ -344,6 +344,12 @@
     }
   },
   "ath @ pit": {
+    "50": {
+      "player": "jj bleday",
+      "pitcher": "carmen mlodzinski",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "49": {
       "player": "nick kurtz",
       "pitcher": "carmen mlodzinski",
@@ -643,7 +649,7 @@
     "43": {
       "player": "dylan beavers",
       "pitcher": "cam schlittler",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -903,8 +909,8 @@
     "15": {
       "player": "michael busch",
       "pitcher": "andrew abbott",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "14": {
       "player": "kebryan hayes",
@@ -995,7 +1001,7 @@
     "44": {
       "player": "francisco lindor",
       "pitcher": "jake irvin",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -1674,7 +1680,7 @@
       "player": "fernando tatis",
       "pitcher": "mike vasil",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "35": {
       "player": "elias diaz",
