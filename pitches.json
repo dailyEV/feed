@@ -640,7 +640,7 @@
     "28": {
       "player": "brady house",
       "pitcher": "clay holmes",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "27": {
@@ -810,8 +810,8 @@
     "16": {
       "player": "salvador perez",
       "pitcher": "trey yesavage",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "15": {
       "player": "daulton varsho",
@@ -908,7 +908,7 @@
     "15": {
       "player": "luke keaschall",
       "pitcher": "joey cantillo",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -1163,6 +1163,12 @@
     }
   },
   "mia @ tex": {
+    "3": {
+      "player": "xavier edwards",
+      "pitcher": "merrill kelly",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "agustin ramirez",
       "pitcher": "merrill kelly",
