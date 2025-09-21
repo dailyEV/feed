@@ -868,12 +868,6 @@
     }
   },
   "cle-gm2 @ min-gm2": {
-    "35": {
-      "player": "jose ramirez",
-      "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "34": {
       "player": "daniel schneemann",
       "pitcher": "bailey ober",
@@ -1625,8 +1619,8 @@
     "46": {
       "player": "elly de la cruz",
       "pitcher": "aaron civale",
-      "result": "In play, no out",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "moises ballesteros",
@@ -2190,11 +2184,17 @@
     }
   },
   "bos @ tb": {
+    "35": {
+      "player": "jarren duran",
+      "pitcher": "adrian houser",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "34": {
       "player": "ceddanne rafaela",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "33": {
       "player": "carlos narvaez",
@@ -2399,8 +2399,8 @@
     "32": {
       "player": "eric wagaman",
       "pitcher": "jack leiter",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "connor norby",
@@ -2590,6 +2590,12 @@
     }
   },
   "nyy @ bal": {
+    "29": {
+      "player": "anthony volpe",
+      "pitcher": "jose castillo",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "jordan westburg",
       "pitcher": "carlos rodon",
@@ -2936,6 +2942,12 @@
     }
   },
   "tor @ kc": {
+    "34": {
+      "player": "adam frazier",
+      "pitcher": "shane bieber",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "33": {
       "player": "myles straw",
       "pitcher": "noah cameron",
@@ -3309,8 +3321,8 @@
     "31": {
       "player": "nolan arenado",
       "pitcher": "chad patrick",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "alec burleson",
@@ -3508,6 +3520,12 @@
     }
   },
   "phi @ ari": {
+    "4": {
+      "player": "jt realmuto",
+      "pitcher": "zac gallen",
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
+    },
     "3": {
       "player": "bryce harper",
       "pitcher": "zac gallen",
