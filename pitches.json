@@ -1,5 +1,11 @@
 {
   "atl @ det": {
+    "74": {
+      "player": "trey sweeney",
+      "pitcher": "tyler kinley",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "73": {
       "player": "zach mckinstry",
       "pitcher": "tyler kinley",
@@ -1583,8 +1589,8 @@
     "71": {
       "player": "luis torrens",
       "pitcher": "mitchell parker",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "70": {
       "player": "brett baty",
@@ -2400,11 +2406,17 @@
     }
   },
   "cle @ min": {
+    "61": {
+      "player": "george valera",
+      "pitcher": "cole sands",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "steven kwan",
       "pitcher": "cole sands",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "59": {
       "player": "luke keaschall",
@@ -2762,12 +2774,6 @@
     }
   },
   "sd @ chw": {
-    "64": {
-      "player": "manny machado",
-      "pitcher": "grant taylor",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "63": {
       "player": "lenyn sosa",
       "pitcher": "mason miller",
@@ -3528,6 +3534,12 @@
     }
   },
   "mia @ tex": {
+    "43": {
+      "player": "dane myers",
+      "pitcher": "cole winn",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "42": {
       "player": "otto lopez",
       "pitcher": "jacob latz",
@@ -4021,8 +4033,8 @@
     "7": {
       "player": "freddie freeman",
       "pitcher": "trevor mcdonald",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "6": {
       "player": "mookie betts",
@@ -4065,7 +4077,7 @@
     "7": {
       "player": "corbin carroll",
       "pitcher": "ranger suarez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "6": {
