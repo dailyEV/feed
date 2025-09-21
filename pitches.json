@@ -377,8 +377,8 @@
     "64": {
       "player": "nick yorke",
       "pitcher": "osvaldo bido",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "63": {
       "player": "joey bart",
@@ -1083,8 +1083,8 @@
     "32": {
       "player": "elly de la cruz",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "will benson",
@@ -1932,6 +1932,12 @@
     }
   },
   "cle @ min": {
+    "48": {
+      "player": "edouard julien",
+      "pitcher": "erik sabrowski",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "luke keaschall",
       "pitcher": "erik sabrowski",
@@ -2216,6 +2222,12 @@
     }
   },
   "sd @ chw": {
+    "51": {
+      "player": "ryan ohearn",
+      "pitcher": "mike vasil",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "50": {
       "player": "michael a taylor",
       "pitcher": "adrian morejon",
@@ -2793,8 +2805,8 @@
     "32": {
       "player": "cody freeman",
       "pitcher": "eury perez",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "josh jung",
