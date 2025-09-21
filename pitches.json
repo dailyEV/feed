@@ -377,8 +377,8 @@
     "63": {
       "player": "joey bart",
       "pitcher": "osvaldo bido",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "jack suwinski",
@@ -1074,11 +1074,17 @@
     }
   },
   "chc @ cin": {
+    "32": {
+      "player": "elly de la cruz",
+      "pitcher": "jameson taillon",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "31": {
       "player": "will benson",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "30": {
       "player": "spencer steer",
@@ -1606,6 +1612,12 @@
     }
   },
   "tor @ kc": {
+    "51": {
+      "player": "tyler heineman",
+      "pitcher": "steven cruz",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "50": {
       "player": "andres gimenez",
       "pitcher": "steven cruz",
@@ -2757,7 +2769,7 @@
     "30": {
       "player": "rowdy tellez",
       "pitcher": "eury perez",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -2939,8 +2951,8 @@
     "21": {
       "player": "jo adell",
       "pitcher": "kyle freeland",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "20": {
       "player": "taylor ward",
