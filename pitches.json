@@ -341,8 +341,8 @@
     "47": {
       "player": "nick yorke",
       "pitcher": "osvaldo bido",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "46": {
       "player": "joey bart",
@@ -870,6 +870,12 @@
     }
   },
   "chc @ cin": {
+    "12": {
+      "player": "will benson",
+      "pitcher": "jameson taillon",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "11": {
       "player": "justin turner",
       "pitcher": "andrew abbott",
@@ -938,6 +944,12 @@
     }
   },
   "wsh @ nym": {
+    "43": {
+      "player": "jorge alfaro",
+      "pitcher": "clay holmes",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "42": {
       "player": "paul dejong",
       "pitcher": "clay holmes",
@@ -1386,6 +1398,12 @@
     }
   },
   "cle @ min": {
+    "31": {
+      "player": "edouard julien",
+      "pitcher": "joey cantillo",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "luke keaschall",
       "pitcher": "joey cantillo",
@@ -1571,8 +1589,8 @@
     "34": {
       "player": "will robertson",
       "pitcher": "michael king",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "33": {
       "player": "lenyn sosa",
@@ -1777,8 +1795,8 @@
     "27": {
       "player": "caleb durbin",
       "pitcher": "matthew liberatore",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "lars nootbaar",
@@ -2030,11 +2048,17 @@
     }
   },
   "laa @ col": {
+    "5": {
+      "player": "logan ohoppe",
+      "pitcher": "kyle freeland",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "4": {
       "player": "nolan schanuel",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "3": {
       "player": "jo adell",
