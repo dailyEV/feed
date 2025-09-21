@@ -868,6 +868,12 @@
     }
   },
   "cle-gm2 @ min-gm2": {
+    "31": {
+      "player": "petey halpin",
+      "pitcher": "bailey ober",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "30": {
       "player": "brayan rocchio",
       "pitcher": "bailey ober",
@@ -2309,7 +2315,7 @@
     "30": {
       "player": "troy johnston",
       "pitcher": "jack leiter",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -2488,11 +2494,17 @@
     }
   },
   "nyy @ bal": {
+    "27": {
+      "player": "jackson holliday",
+      "pitcher": "carlos rodon",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "26": {
       "player": "jorge mateo",
       "pitcher": "carlos rodon",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "25": {
       "player": "ryan mcmahon",
@@ -2649,8 +2661,8 @@
     "26": {
       "player": "josh naylor",
       "pitcher": "framber valdez",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "25": {
       "player": "carlos correa",
@@ -2996,7 +3008,7 @@
       "player": "jackson merrill",
       "pitcher": "yoendrys gomez",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "25": {
       "player": "manny machado",
