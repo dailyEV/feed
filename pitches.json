@@ -1248,6 +1248,12 @@
     }
   },
   "chc @ cin": {
+    "43": {
+      "player": "tj friedl",
+      "pitcher": "jameson taillon",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "42": {
       "player": "dansby swanson",
       "pitcher": "nick martinez",
@@ -1906,6 +1912,12 @@
     }
   },
   "tor @ kc": {
+    "62": {
+      "player": "maikel garcia",
+      "pitcher": "seranthony dominguez",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "61": {
       "player": "vinnie pasquantino",
       "pitcher": "seranthony dominguez",
@@ -2627,8 +2639,8 @@
     "61": {
       "player": "edgar quero",
       "pitcher": "mason miller",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "60": {
       "player": "miguel vargas",
@@ -2995,8 +3007,8 @@
     "59": {
       "player": "christian yelich",
       "pitcher": "ryan fernandez",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul Tip",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "thomas saggese",
@@ -3348,6 +3360,12 @@
     }
   },
   "mia @ tex": {
+    "40": {
+      "player": "michael helman",
+      "pitcher": "lake bachar",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "39": {
       "player": "ezequiel duran",
       "pitcher": "lake bachar",
@@ -3588,7 +3606,7 @@
       "player": "bryce teodosio",
       "pitcher": "kyle freeland",
       "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "pitch": "Cutter"
     },
     "33": {
       "player": "denzer guzman",
@@ -3790,11 +3808,17 @@
     }
   },
   "sf @ lad": {
+    "4": {
+      "player": "matt chapman",
+      "pitcher": "emmet sheehan",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "willy adames",
       "pitcher": "emmet sheehan",
       "result": "Called Strike",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "rafael devers",
@@ -3813,8 +3837,8 @@
     "3": {
       "player": "bryce harper",
       "pitcher": "eduardo rodriguez",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "kyle schwarber",
