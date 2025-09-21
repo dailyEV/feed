@@ -631,8 +631,8 @@
     "42": {
       "player": "jackson holliday",
       "pitcher": "cam schlittler",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "41": {
       "player": "jasson dominguez",
@@ -1619,7 +1619,7 @@
     "35": {
       "player": "elias diaz",
       "pitcher": "mike vasil",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "34": {
@@ -1828,6 +1828,12 @@
     }
   },
   "mil @ stl": {
+    "29": {
+      "player": "danny jansen",
+      "pitcher": "matthew liberatore",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "28": {
       "player": "andruw monasterio",
       "pitcher": "matthew liberatore",
@@ -2106,7 +2112,7 @@
       "player": "logan ohoppe",
       "pitcher": "kyle freeland",
       "result": "Foul",
-      "pitch": "Cutter"
+      "pitch": "Sweeper"
     },
     "4": {
       "player": "nolan schanuel",
