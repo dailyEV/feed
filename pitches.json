@@ -2957,8 +2957,8 @@
     "59": {
       "player": "michael helman",
       "pitcher": "tyler phillips",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "ezequiel duran",
@@ -3313,7 +3313,7 @@
     "56": {
       "player": "jeremiah jackson",
       "pitcher": "carlos rodon",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "55": {
@@ -3959,8 +3959,8 @@
     "57": {
       "player": "andres gimenez",
       "pitcher": "taylor clarke",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "56": {
       "player": "george springer",
@@ -4303,7 +4303,7 @@
     "52": {
       "player": "fernando tatis",
       "pitcher": "steven wilson",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "51": {
@@ -4614,6 +4614,12 @@
     }
   },
   "mil @ stl": {
+    "60": {
+      "player": "ivan herrera",
+      "pitcher": "aaron ashby",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "brendan donovan",
       "pitcher": "aaron ashby",
@@ -5373,7 +5379,7 @@
     "2": {
       "player": "rafael devers",
       "pitcher": "tyler glasnow",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "1": {
