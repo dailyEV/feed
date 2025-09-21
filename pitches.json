@@ -871,8 +871,8 @@
     "28": {
       "player": "luke keaschall",
       "pitcher": "logan allen",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "austin martin",
@@ -2243,8 +2243,8 @@
     "28": {
       "player": "rowdy tellez",
       "pitcher": "adam mazur",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "alejandro osuna",
@@ -2556,10 +2556,16 @@
     }
   },
   "sea @ hou": {
+    "24": {
+      "player": "jeremy pena",
+      "pitcher": "george kirby",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "cam smith",
       "pitcher": "george kirby",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "22": {
@@ -2700,7 +2706,7 @@
       "player": "salvador perez",
       "pitcher": "shane bieber",
       "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "pitch": "Cutter"
     },
     "27": {
       "player": "maikel garcia",
