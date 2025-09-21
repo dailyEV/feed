@@ -1,5 +1,11 @@
 {
   "atl @ det": {
+    "56": {
+      "player": "jahmai jones",
+      "pitcher": "dylan lee",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "55": {
       "player": "andy ibanez",
       "pitcher": "dylan lee",
@@ -335,8 +341,8 @@
     "47": {
       "player": "nick yorke",
       "pitcher": "osvaldo bido",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "46": {
       "player": "joey bart",
@@ -619,8 +625,8 @@
     "41": {
       "player": "jasson dominguez",
       "pitcher": "kyle bradish",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "40": {
       "player": "ben rice",
@@ -935,8 +941,8 @@
     "41": {
       "player": "robert hassell",
       "pitcher": "clay holmes",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "40": {
       "player": "josh bell",
@@ -1368,6 +1374,12 @@
     }
   },
   "cle @ min": {
+    "30": {
+      "player": "luke keaschall",
+      "pitcher": "joey cantillo",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "trevor larnach",
       "pitcher": "joey cantillo",
@@ -1547,7 +1559,7 @@
     "33": {
       "player": "lenyn sosa",
       "pitcher": "michael king",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "32": {
@@ -1994,6 +2006,12 @@
     }
   },
   "laa @ col": {
+    "3": {
+      "player": "jo adell",
+      "pitcher": "kyle freeland",
+      "result": "In play, run(s)",
+      "pitch": "Knuckle Curve"
+    },
     "2": {
       "player": "taylor ward",
       "pitcher": "kyle freeland",
