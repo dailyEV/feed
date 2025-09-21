@@ -3029,8 +3029,8 @@
     "64": {
       "player": "cody freeman",
       "pitcher": "ronny henriquez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "63": {
       "player": "connor norby",
@@ -3412,10 +3412,16 @@
     }
   },
   "nyy @ bal": {
+    "63": {
+      "player": "jackson holliday",
+      "pitcher": "luke weaver",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "62": {
       "player": "jorge mateo",
       "pitcher": "luke weaver",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -4507,7 +4513,7 @@
     "57": {
       "player": "michael a taylor",
       "pitcher": "jeremiah estrada",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -5243,7 +5249,7 @@
     "41": {
       "player": "tyler freeman",
       "pitcher": "kyle hendricks",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -5739,7 +5745,7 @@
     "9": {
       "player": "drew gilbert",
       "pitcher": "tyler glasnow",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "8": {
