@@ -3,7 +3,7 @@
     "61": {
       "player": "ha seong kim",
       "pitcher": "tommy kahnle",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "60": {
@@ -371,8 +371,8 @@
     "53": {
       "player": "bryan reynolds",
       "pitcher": "osvaldo bido",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "jared triolo",
@@ -691,7 +691,7 @@
     "46": {
       "player": "jazz chisholm",
       "pitcher": "dietrich enns",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -1085,8 +1085,8 @@
     "48": {
       "player": "jeff mcneil",
       "pitcher": "mitchell parker",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "47": {
       "player": "pete alonso",
@@ -1626,6 +1626,12 @@
     }
   },
   "cle @ min": {
+    "37": {
+      "player": "brooks lee",
+      "pitcher": "joey cantillo",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "36": {
       "player": "jose ramirez",
       "pitcher": "simeon woods richardson",
