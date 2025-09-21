@@ -413,8 +413,8 @@
     "73": {
       "player": "andrew mccutchen",
       "pitcher": "scott mcgough",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Splitter"
     },
     "72": {
       "player": "spencer horwitz",
@@ -850,6 +850,12 @@
     }
   },
   "nyy @ bal": {
+    "63": {
+      "player": "dylan beavers",
+      "pitcher": "devin williams",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "jose caballero",
       "pitcher": "rico garcia",
@@ -1472,12 +1478,6 @@
     }
   },
   "wsh @ nym": {
-    "66": {
-      "player": "jorge alfaro",
-      "pitcher": "edwin diaz",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "65": {
       "player": "jeff mcneil",
       "pitcher": "mitchell parker",
@@ -3512,12 +3512,6 @@
     }
   },
   "laa @ col": {
-    "33": {
-      "player": "denzer guzman",
-      "pitcher": "kyle freeland",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "32": {
       "player": "kyle karros",
       "pitcher": "caden dana",
@@ -3724,7 +3718,7 @@
       "player": "harrison bader",
       "pitcher": "eduardo rodriguez",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     }
   },
   "sea @ hou": {},
