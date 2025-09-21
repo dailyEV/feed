@@ -1787,7 +1787,7 @@
     "68": {
       "player": "dansby swanson",
       "pitcher": "emilio pagan",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -2560,7 +2560,7 @@
       "player": "chandler simpson",
       "pitcher": "justin wilson",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "carson williams",
@@ -3564,12 +3564,6 @@
     }
   },
   "sea @ hou": {
-    "48": {
-      "player": "cam smith",
-      "pitcher": "george kirby",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "47": {
       "player": "julio rodriguez",
       "pitcher": "jayden murray",
@@ -3854,6 +3848,12 @@
     }
   },
   "tor @ kc": {
+    "56": {
+      "player": "george springer",
+      "pitcher": "taylor clarke",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "55": {
       "player": "nathan lukes",
       "pitcher": "taylor clarke",
@@ -4186,6 +4186,12 @@
     }
   },
   "sd @ chw": {
+    "49": {
+      "player": "miguel vargas",
+      "pitcher": "adrian morejon",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "freddy fermin",
       "pitcher": "steven wilson",
@@ -4814,12 +4820,6 @@
     }
   },
   "laa @ col": {
-    "30": {
-      "player": "logan ohoppe",
-      "pitcher": "german marquez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "29": {
       "player": "christian moore",
       "pitcher": "german marquez",
