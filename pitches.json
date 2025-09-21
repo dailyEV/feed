@@ -2535,8 +2535,8 @@
     "56": {
       "player": "nick fortes",
       "pitcher": "justin wilson",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "55": {
       "player": "josh lowe",
@@ -2874,7 +2874,7 @@
       "player": "liam hicks",
       "pitcher": "danny coulombe",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sinker"
     },
     "54": {
       "player": "xavier edwards",
@@ -4401,8 +4401,8 @@
     "53": {
       "player": "pedro pages",
       "pitcher": "aaron ashby",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "52": {
       "player": "nolan gorman",
@@ -4718,10 +4718,16 @@
     }
   },
   "laa @ col": {
+    "28": {
+      "player": "jordan beck",
+      "pitcher": "kyle hendricks",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "27": {
       "player": "blaine crim",
       "pitcher": "kyle hendricks",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "26": {
