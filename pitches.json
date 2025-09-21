@@ -1305,8 +1305,8 @@
     "47": {
       "player": "justin turner",
       "pitcher": "nick martinez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "46": {
       "player": "spencer steer",
@@ -2409,7 +2409,7 @@
     "61": {
       "player": "george valera",
       "pitcher": "cole sands",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "60": {
@@ -2774,6 +2774,12 @@
     }
   },
   "sd @ chw": {
+    "64": {
+      "player": "manny machado",
+      "pitcher": "grant taylor",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "63": {
       "player": "lenyn sosa",
       "pitcher": "mason miller",
@@ -4030,6 +4036,12 @@
     }
   },
   "sf @ lad": {
+    "8": {
+      "player": "max muncy",
+      "pitcher": "trevor mcdonald",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "7": {
       "player": "freddie freeman",
       "pitcher": "trevor mcdonald",
@@ -4074,11 +4086,17 @@
     }
   },
   "phi @ ari": {
+    "8": {
+      "player": "gabriel moreno",
+      "pitcher": "ranger suarez",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "7": {
       "player": "corbin carroll",
       "pitcher": "ranger suarez",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "6": {
       "player": "geraldo perdomo",
