@@ -871,8 +871,8 @@
     "31": {
       "player": "petey halpin",
       "pitcher": "bailey ober",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "brayan rocchio",
@@ -1852,6 +1852,12 @@
     }
   },
   "ath @ pit": {
+    "46": {
+      "player": "nick kurtz",
+      "pitcher": "braxton ashcraft",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "45": {
       "player": "tommy pham",
       "pitcher": "luis morales",
@@ -2124,6 +2130,12 @@
     }
   },
   "bos @ tb": {
+    "32": {
+      "player": "josh lowe",
+      "pitcher": "kyle harrison",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "christopher morel",
       "pitcher": "kyle harrison",
@@ -2658,11 +2670,17 @@
     }
   },
   "sea @ hou": {
+    "27": {
+      "player": "mitch garver",
+      "pitcher": "framber valdez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "26": {
       "player": "josh naylor",
       "pitcher": "framber valdez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "25": {
       "player": "carlos correa",
@@ -2819,7 +2837,7 @@
     "31": {
       "player": "ernie clement",
       "pitcher": "noah cameron",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "30": {
@@ -3008,7 +3026,7 @@
       "player": "jackson merrill",
       "pitcher": "yoendrys gomez",
       "result": "Foul",
-      "pitch": "Cutter"
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "manny machado",
