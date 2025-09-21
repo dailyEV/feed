@@ -1,10 +1,16 @@
 {
   "atl @ det": {
+    "58": {
+      "player": "ronald acuna",
+      "pitcher": "brant hurter",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "57": {
       "player": "matt olson",
       "pitcher": "brant hurter",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "jahmai jones",
@@ -347,8 +353,8 @@
     "49": {
       "player": "nick kurtz",
       "pitcher": "carmen mlodzinski",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "48": {
       "player": "oneil cruz",
@@ -900,6 +906,12 @@
     }
   },
   "chc @ cin": {
+    "15": {
+      "player": "michael busch",
+      "pitcher": "andrew abbott",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "kebryan hayes",
       "pitcher": "jameson taillon",
@@ -1246,6 +1258,12 @@
     }
   },
   "tor @ kc": {
+    "35": {
+      "player": "john rave",
+      "pitcher": "trey yesavage",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "34": {
       "player": "jac caglianone",
       "pitcher": "trey yesavage",
@@ -2046,10 +2064,16 @@
     }
   },
   "mia @ tex": {
+    "19": {
+      "player": "agustin ramirez",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "18": {
       "player": "jakob marsee",
       "pitcher": "merrill kelly",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "17": {
@@ -2159,7 +2183,7 @@
     "6": {
       "player": "christian moore",
       "pitcher": "kyle freeland",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "5": {
