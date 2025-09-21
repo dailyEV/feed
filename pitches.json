@@ -868,6 +868,12 @@
     }
   },
   "cle-gm2 @ min-gm2": {
+    "32": {
+      "player": "austin hedges",
+      "pitcher": "bailey ober",
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
+    },
     "31": {
       "player": "petey halpin",
       "pitcher": "bailey ober",
@@ -2512,11 +2518,17 @@
     }
   },
   "nyy @ bal": {
+    "28": {
+      "player": "jordan westburg",
+      "pitcher": "carlos rodon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "jackson holliday",
       "pitcher": "carlos rodon",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "jorge mateo",
@@ -2679,8 +2691,8 @@
     "27": {
       "player": "mitch garver",
       "pitcher": "framber valdez",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "josh naylor",
@@ -2843,7 +2855,7 @@
     "32": {
       "player": "isiah kiner falefa",
       "pitcher": "noah cameron",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "31": {
