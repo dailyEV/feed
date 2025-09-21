@@ -308,6 +308,12 @@
     }
   },
   "ath @ pit": {
+    "40": {
+      "player": "max schuemann",
+      "pitcher": "carmen mlodzinski",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "spencer horwitz",
       "pitcher": "osvaldo bido",
@@ -756,6 +762,12 @@
     }
   },
   "chc @ cin": {
+    "4": {
+      "player": "tj friedl",
+      "pitcher": "jameson taillon",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "3": {
       "player": "seiya suzuki",
       "pitcher": "andrew abbott",
@@ -779,7 +791,7 @@
     "35": {
       "player": "james wood",
       "pitcher": "clay holmes",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "34": {
@@ -1134,11 +1146,17 @@
     }
   },
   "cle @ min": {
+    "24": {
+      "player": "kody clemens",
+      "pitcher": "joey cantillo",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "byron buxton",
       "pitcher": "joey cantillo",
-      "result": "Foul Tip",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "ryan fitzgerald",
@@ -1274,6 +1292,12 @@
     }
   },
   "sd @ chw": {
+    "26": {
+      "player": "miguel vargas",
+      "pitcher": "michael king",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "25": {
       "player": "colson montgomery",
       "pitcher": "michael king",
@@ -1545,8 +1569,8 @@
     "9": {
       "player": "liam hicks",
       "pitcher": "merrill kelly",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "8": {
       "player": "josh jung",
