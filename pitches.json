@@ -967,7 +967,7 @@
     "76": {
       "player": "austin slater",
       "pitcher": "keegan akin",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "75": {
@@ -2646,12 +2646,6 @@
     }
   },
   "cle @ min": {
-    "70": {
-      "player": "daniel schneemann",
-      "pitcher": "travis adams",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "69": {
       "player": "petey halpin",
       "pitcher": "travis adams",
@@ -3071,8 +3065,8 @@
     "73": {
       "player": "will wagner",
       "pitcher": "jordan leasure",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "72": {
       "player": "jake cronenworth",
@@ -3511,8 +3505,8 @@
     "73": {
       "player": "isaac collins",
       "pitcher": "riley obrien",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "72": {
       "player": "jackson chourio",
@@ -3942,6 +3936,12 @@
     }
   },
   "mia @ tex": {
+    "54": {
+      "player": "jakob marsee",
+      "pitcher": "robert garcia",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "53": {
       "player": "brian navarreto",
       "pitcher": "cole winn",
@@ -4262,6 +4262,12 @@
     }
   },
   "laa @ col": {
+    "49": {
+      "player": "oswald peraza",
+      "pitcher": "jimmy herget",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "48": {
       "player": "christian moore",
       "pitcher": "jimmy herget",
@@ -4671,8 +4677,8 @@
     "20": {
       "player": "corbin carroll",
       "pitcher": "ranger suarez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "19": {
       "player": "geraldo perdomo",
