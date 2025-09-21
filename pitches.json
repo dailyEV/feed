@@ -2511,7 +2511,7 @@
     "55": {
       "player": "josh lowe",
       "pitcher": "justin wilson",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -3465,7 +3465,7 @@
     "46": {
       "player": "cal raleigh",
       "pitcher": "jayden murray",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -4063,8 +4063,8 @@
     "47": {
       "player": "jake cronenworth",
       "pitcher": "fraser ellard",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "46": {
       "player": "ryan ohearn",
@@ -4344,6 +4344,12 @@
     }
   },
   "mil @ stl": {
+    "52": {
+      "player": "nolan gorman",
+      "pitcher": "aaron ashby",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "thomas saggese",
       "pitcher": "aaron ashby",
@@ -4652,6 +4658,12 @@
     }
   },
   "laa @ col": {
+    "25": {
+      "player": "mickey moniak",
+      "pitcher": "kyle hendricks",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "jo adell",
       "pitcher": "german marquez",
@@ -4801,8 +4813,8 @@
     "26": {
       "player": "jt realmuto",
       "pitcher": "zac gallen",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "gabriel moreno",
