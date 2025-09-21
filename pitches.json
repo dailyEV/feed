@@ -2,19 +2,19 @@
   "atl @ det": {
     "77": {
       "player": "ozzie albies",
-      "pitcher": "tyler holton",
+      "pitcher": "tanner rainey",
       "result": "Ball",
       "pitch": "Cutter"
     },
     "76": {
       "player": "drake baldwin",
-      "pitcher": "tyler holton",
+      "pitcher": "tanner rainey",
       "result": "Ball",
       "pitch": "Cutter"
     },
     "75": {
       "player": "ronald acuna",
-      "pitcher": "tyler holton",
+      "pitcher": "tanner rainey",
       "result": "Ball",
       "pitch": "Cutter"
     },
@@ -926,7 +926,7 @@
       "player": "colton cowser",
       "pitcher": "david bednar",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "70": {
       "player": "jordan westburg",
@@ -1344,6 +1344,12 @@
     }
   },
   "chc @ cin": {
+    "52": {
+      "player": "kebryan hayes",
+      "pitcher": "jameson taillon",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "51": {
       "player": "elly de la cruz",
       "pitcher": "jameson taillon",
@@ -2080,11 +2086,17 @@
     }
   },
   "tor @ kc": {
+    "68": {
+      "player": "andres gimenez",
+      "pitcher": "john schreiber",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "67": {
       "player": "ernie clement",
       "pitcher": "john schreiber",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "66": {
       "player": "ty france",
@@ -2484,11 +2496,17 @@
     }
   },
   "cle @ min": {
+    "65": {
+      "player": "brooks lee",
+      "pitcher": "zak kent",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "64": {
       "player": "james outman",
       "pitcher": "zak kent",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "kyle manzardo",
@@ -2873,8 +2891,8 @@
     "68": {
       "player": "dominic fletcher",
       "pitcher": "wandy peralta",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "67": {
       "player": "michael a taylor",
@@ -4305,8 +4323,8 @@
     "11": {
       "player": "alec bohm",
       "pitcher": "eduardo rodriguez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "10": {
       "player": "ildemaro vargas",
