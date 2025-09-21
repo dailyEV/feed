@@ -843,8 +843,8 @@
     "9": {
       "player": "carlos santana",
       "pitcher": "andrew abbott",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "carson kelly",
@@ -1142,7 +1142,7 @@
       "player": "vinnie pasquantino",
       "pitcher": "trey yesavage",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "28": {
       "player": "bobby witt",
@@ -1484,11 +1484,17 @@
     }
   },
   "sd @ chw": {
+    "32": {
+      "player": "brooks baldwin",
+      "pitcher": "michael king",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "edgar quero",
       "pitcher": "michael king",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "jake cronenworth",
@@ -1672,12 +1678,6 @@
     }
   },
   "mil @ stl": {
-    "26": {
-      "player": "lars nootbaar",
-      "pitcher": "robert gasser",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "25": {
       "player": "alec burleson",
       "pitcher": "robert gasser",
@@ -1833,7 +1833,7 @@
     "13": {
       "player": "cody freeman",
       "pitcher": "eury perez",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "12": {
