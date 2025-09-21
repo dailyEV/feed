@@ -2957,8 +2957,8 @@
     "59": {
       "player": "michael helman",
       "pitcher": "tyler phillips",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "ezequiel duran",
@@ -3310,12 +3310,6 @@
     }
   },
   "nyy @ bal": {
-    "56": {
-      "player": "jeremiah jackson",
-      "pitcher": "carlos rodon",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "55": {
       "player": "ryan mountcastle",
       "pitcher": "carlos rodon",
@@ -3651,7 +3645,7 @@
     "50": {
       "player": "carlos correa",
       "pitcher": "george kirby",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "49": {
@@ -4297,8 +4291,8 @@
     "52": {
       "player": "fernando tatis",
       "pitcher": "steven wilson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "51": {
       "player": "edgar quero",
@@ -4967,7 +4961,7 @@
     "32": {
       "player": "bryce teodosio",
       "pitcher": "german marquez",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Knuckle Curve"
     },
     "31": {
@@ -5161,8 +5155,8 @@
     "33": {
       "player": "ildemaro vargas",
       "pitcher": "aaron nola",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "32": {
       "player": "alek thomas",
@@ -5358,6 +5352,12 @@
     }
   },
   "sf @ lad": {
+    "2": {
+      "player": "rafael devers",
+      "pitcher": "tyler glasnow",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "heliot ramos",
       "pitcher": "tyler glasnow",
