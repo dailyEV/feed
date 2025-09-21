@@ -967,7 +967,7 @@
     "76": {
       "player": "austin slater",
       "pitcher": "keegan akin",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "75": {
@@ -3068,6 +3068,12 @@
     }
   },
   "sd @ chw": {
+    "74": {
+      "player": "fernando tatis",
+      "pitcher": "jordan leasure",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "73": {
       "player": "will wagner",
       "pitcher": "jordan leasure",
@@ -3942,6 +3948,12 @@
     }
   },
   "mia @ tex": {
+    "55": {
+      "player": "agustin ramirez",
+      "pitcher": "robert garcia",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "54": {
       "player": "jakob marsee",
       "pitcher": "robert garcia",
@@ -4271,8 +4283,8 @@
     "49": {
       "player": "oswald peraza",
       "pitcher": "jimmy herget",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "48": {
       "player": "christian moore",
