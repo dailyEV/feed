@@ -949,7 +949,7 @@
     "73": {
       "player": "aaron judge",
       "pitcher": "kade strowd",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "72": {
@@ -2969,7 +2969,7 @@
     "71": {
       "player": "ryan ohearn",
       "pitcher": "brandon eisert",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "70": {
@@ -3804,6 +3804,12 @@
     }
   },
   "mia @ tex": {
+    "51": {
+      "player": "ezequiel duran",
+      "pitcher": "lake bachar",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "jonah heim",
       "pitcher": "lake bachar",
@@ -4109,8 +4115,8 @@
     "45": {
       "player": "hunter goodman",
       "pitcher": "caden dana",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "44": {
       "player": "ezequiel tovar",
@@ -4470,6 +4476,12 @@
     }
   },
   "phi @ ari": {
+    "16": {
+      "player": "jordan lawlar",
+      "pitcher": "ranger suarez",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "15": {
       "player": "tim tawa",
       "pitcher": "ranger suarez",
