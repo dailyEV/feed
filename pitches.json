@@ -320,6 +320,12 @@
     }
   },
   "ath @ pit": {
+    "42": {
+      "player": "brent rooker",
+      "pitcher": "carmen mlodzinski",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "41": {
       "player": "lawrence butler",
       "pitcher": "carmen mlodzinski",
@@ -568,6 +574,12 @@
     }
   },
   "nyy @ bal": {
+    "37": {
+      "player": "trent grisham",
+      "pitcher": "kyle bradish",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "ryan mcmahon",
       "pitcher": "kyle bradish",
@@ -786,10 +798,16 @@
     }
   },
   "chc @ cin": {
+    "7": {
+      "player": "spencer steer",
+      "pitcher": "jameson taillon",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "6": {
       "player": "noelvi marte",
       "pitcher": "jameson taillon",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "5": {
@@ -1045,8 +1063,8 @@
     "27": {
       "player": "andres gimenez",
       "pitcher": "michael wacha",
-      "result": "Foul Bunt",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "ernie clement",
@@ -1361,7 +1379,7 @@
     "27": {
       "player": "ramon laureano",
       "pitcher": "sean burke",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -1525,7 +1543,7 @@
     "21": {
       "player": "rhys hoskins",
       "pitcher": "matthew liberatore",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "Changeup"
     },
     "20": {
