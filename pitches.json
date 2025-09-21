@@ -1,5 +1,11 @@
 {
   "atl @ det": {
+    "52": {
+      "player": "wenceel perez",
+      "pitcher": "pierce johnson",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "51": {
       "player": "jurickson profar",
       "pitcher": "brant hurter",
@@ -553,8 +559,8 @@
     "36": {
       "player": "ryan mcmahon",
       "pitcher": "kyle bradish",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "35": {
       "player": "dylan carlson",
@@ -768,10 +774,16 @@
     }
   },
   "chc @ cin": {
+    "6": {
+      "player": "noelvi marte",
+      "pitcher": "jameson taillon",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "gavin lux",
       "pitcher": "jameson taillon",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "4": {
@@ -1018,6 +1030,12 @@
     }
   },
   "tor @ kc": {
+    "26": {
+      "player": "ernie clement",
+      "pitcher": "michael wacha",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "25": {
       "player": "nathan lukes",
       "pitcher": "michael wacha",
@@ -1173,8 +1191,8 @@
     "25": {
       "player": "austin martin",
       "pitcher": "joey cantillo",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "kody clemens",
@@ -1483,8 +1501,8 @@
     "20": {
       "player": "andrew vaughn",
       "pitcher": "matthew liberatore",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "19": {
       "player": "isaac collins",
