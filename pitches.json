@@ -868,12 +868,6 @@
     }
   },
   "cle-gm2 @ min-gm2": {
-    "62": {
-      "player": "daniel schneemann",
-      "pitcher": "mick abel",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "61": {
       "player": "steven kwan",
       "pitcher": "mick abel",
@@ -1784,6 +1778,12 @@
     }
   },
   "chc @ cin": {
+    "68": {
+      "player": "dansby swanson",
+      "pitcher": "emilio pagan",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "67": {
       "player": "matt mclain",
       "pitcher": "andrew kittredge",
@@ -2550,6 +2550,12 @@
     }
   },
   "bos @ tb": {
+    "57": {
+      "player": "carson williams",
+      "pitcher": "justin wilson",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "56": {
       "player": "nick fortes",
       "pitcher": "justin wilson",
@@ -3833,8 +3839,8 @@
     "55": {
       "player": "nathan lukes",
       "pitcher": "taylor clarke",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "54": {
       "player": "carter jensen",
@@ -4452,11 +4458,17 @@
     }
   },
   "mil @ stl": {
+    "56": {
+      "player": "william contreras",
+      "pitcher": "kyle leahy",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "christian yelich",
       "pitcher": "kyle leahy",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "54": {
       "player": "jackson chourio",
@@ -4954,6 +4966,12 @@
     }
   },
   "phi @ ari": {
+    "30": {
+      "player": "blaze alexander",
+      "pitcher": "aaron nola",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "max kepler",
       "pitcher": "zac gallen",
