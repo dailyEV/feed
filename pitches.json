@@ -871,8 +871,8 @@
     "42": {
       "player": "edouard julien",
       "pitcher": "logan allen",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "41": {
       "player": "carson mccusker",
@@ -1664,6 +1664,12 @@
     }
   },
   "chc @ cin": {
+    "53": {
+      "player": "tj friedl",
+      "pitcher": "aaron civale",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "52": {
       "player": "matt shaw",
       "pitcher": "chase burns",
@@ -2576,16 +2582,10 @@
     }
   },
   "mia @ tex": {
-    "40": {
-      "player": "liam hicks",
-      "pitcher": "jack leiter",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "39": {
       "player": "xavier edwards",
       "pitcher": "jack leiter",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "38": {
@@ -2818,6 +2818,12 @@
     }
   },
   "nyy @ bal": {
+    "36": {
+      "player": "cody bellinger",
+      "pitcher": "jose castillo",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "35": {
       "player": "ryan mountcastle",
       "pitcher": "carlos rodon",
@@ -3236,6 +3242,12 @@
     }
   },
   "tor @ kc": {
+    "42": {
+      "player": "vinnie pasquantino",
+      "pitcher": "shane bieber",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "bobby witt",
       "pitcher": "shane bieber",
@@ -3487,8 +3499,8 @@
     "35": {
       "player": "will robertson",
       "pitcher": "yu darvish",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "34": {
       "player": "freddy fermin",
@@ -3699,8 +3711,8 @@
     "38": {
       "player": "brice turang",
       "pitcher": "miles mikolas",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "37": {
       "player": "william contreras",
@@ -3929,8 +3941,8 @@
     "11": {
       "player": "logan ohoppe",
       "pitcher": "german marquez",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "10": {
       "player": "christian moore",
