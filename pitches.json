@@ -871,7 +871,7 @@
     "36": {
       "player": "kyle manzardo",
       "pitcher": "bailey ober",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "35": {
@@ -2441,8 +2441,8 @@
     "33": {
       "player": "jakob marsee",
       "pitcher": "jack leiter",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "eric wagaman",
@@ -2641,8 +2641,8 @@
     "31": {
       "player": "ben rice",
       "pitcher": "jose castillo",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "trent grisham",
@@ -2826,6 +2826,12 @@
     }
   },
   "sea @ hou": {
+    "30": {
+      "player": "isaac paredes",
+      "pitcher": "george kirby",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "29": {
       "player": "jp crawford",
       "pitcher": "framber valdez",
@@ -3602,6 +3608,18 @@
     }
   },
   "laa @ col": {
+    "5": {
+      "player": "mickey moniak",
+      "pitcher": "kyle hendricks",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "4": {
+      "player": "tyler freeman",
+      "pitcher": "kyle hendricks",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "3": {
       "player": "yoan moncada",
       "pitcher": "german marquez",
