@@ -990,6 +990,12 @@
     }
   },
   "chc @ cin": {
+    "20": {
+      "player": "jose trevino",
+      "pitcher": "jameson taillon",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "19": {
       "player": "seiya suzuki",
       "pitcher": "andrew abbott",
@@ -1110,7 +1116,7 @@
       "player": "mark vientos",
       "pitcher": "mitchell parker",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "jeff mcneil",
@@ -1656,6 +1662,12 @@
     }
   },
   "cle @ min": {
+    "39": {
+      "player": "ryan fitzgerald",
+      "pitcher": "joey cantillo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "jhonny pereda",
       "pitcher": "joey cantillo",
@@ -1889,7 +1901,7 @@
     "42": {
       "player": "jackson merrill",
       "pitcher": "mike vasil",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "41": {
@@ -2486,11 +2498,17 @@
     }
   },
   "laa @ col": {
-    "11": {
-      "player": "denzer guzman",
+    "12": {
+      "player": "bryce teodosio",
       "pitcher": "kyle freeland",
       "result": "Foul",
       "pitch": "Cutter"
+    },
+    "11": {
+      "player": "denzer guzman",
+      "pitcher": "kyle freeland",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "10": {
       "player": "oswald peraza",
