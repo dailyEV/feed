@@ -871,8 +871,8 @@
     "50": {
       "player": "jose ramirez",
       "pitcher": "mick abel",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "49": {
       "player": "daniel schneemann",
@@ -1715,7 +1715,7 @@
     "60": {
       "player": "nico hoerner",
       "pitcher": "chase burns",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -2439,8 +2439,8 @@
     "50": {
       "player": "christopher morel",
       "pitcher": "kyle harrison",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "jake mangum",
@@ -3518,6 +3518,12 @@
     }
   },
   "tor @ kc": {
+    "48": {
+      "player": "addison barger",
+      "pitcher": "john schreiber",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "ernie clement",
       "pitcher": "john schreiber",
@@ -4322,6 +4328,12 @@
     }
   },
   "laa @ col": {
+    "18": {
+      "player": "yanquiel fernandez",
+      "pitcher": "kyle hendricks",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "17": {
       "player": "nolan schanuel",
       "pitcher": "german marquez",
@@ -4426,6 +4438,12 @@
     }
   },
   "phi @ ari": {
+    "20": {
+      "player": "bryce harper",
+      "pitcher": "zac gallen",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "19": {
       "player": "kyle schwarber",
       "pitcher": "zac gallen",
