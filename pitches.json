@@ -2496,17 +2496,11 @@
     }
   },
   "cle @ min": {
-    "65": {
-      "player": "brooks lee",
-      "pitcher": "zak kent",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "64": {
       "player": "james outman",
       "pitcher": "zak kent",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "63": {
       "player": "kyle manzardo",
@@ -2891,7 +2885,7 @@
     "68": {
       "player": "dominic fletcher",
       "pitcher": "wandy peralta",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Sinker"
     },
     "67": {
@@ -4249,8 +4243,8 @@
     "12": {
       "player": "drew gilbert",
       "pitcher": "emmet sheehan",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "christian koss",
@@ -4320,6 +4314,12 @@
     }
   },
   "phi @ ari": {
+    "12": {
+      "player": "nick castellanos",
+      "pitcher": "eduardo rodriguez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "alec bohm",
       "pitcher": "eduardo rodriguez",
