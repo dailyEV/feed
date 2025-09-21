@@ -3,8 +3,8 @@
     "79": {
       "player": "marcell ozuna",
       "pitcher": "paul sewald",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "78": {
       "player": "ha seong kim",
@@ -2523,8 +2523,8 @@
     "67": {
       "player": "ryan fitzgerald",
       "pitcher": "zak kent",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "66": {
       "player": "jhonny pereda",
@@ -3753,7 +3753,7 @@
     "50": {
       "player": "jonah heim",
       "pitcher": "lake bachar",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -4052,10 +4052,16 @@
     }
   },
   "laa @ col": {
+    "45": {
+      "player": "hunter goodman",
+      "pitcher": "caden dana",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "44": {
       "player": "ezequiel tovar",
       "pitcher": "caden dana",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "43": {
@@ -4407,7 +4413,7 @@
     "14": {
       "player": "bryson stott",
       "pitcher": "eduardo rodriguez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "13": {
