@@ -871,7 +871,7 @@
     "59": {
       "player": "petey halpin",
       "pitcher": "mick abel",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "58": {
@@ -1769,7 +1769,7 @@
     "65": {
       "player": "tyler stephenson",
       "pitcher": "andrew kittredge",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "64": {
@@ -3187,7 +3187,7 @@
     "50": {
       "player": "gunnar henderson",
       "pitcher": "carlos rodon",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "49": {
@@ -3489,8 +3489,8 @@
     "46": {
       "player": "cal raleigh",
       "pitcher": "jayden murray",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "45": {
       "player": "randy arozarena",
@@ -3764,6 +3764,12 @@
     }
   },
   "tor @ kc": {
+    "54": {
+      "player": "carter jensen",
+      "pitcher": "mason fluharty",
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
+    },
     "53": {
       "player": "tyler tolbert",
       "pitcher": "mason fluharty",
