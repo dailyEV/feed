@@ -269,8 +269,8 @@
     "30": {
       "player": "carlos cortes",
       "pitcher": "mike burrows",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "29": {
       "player": "nick gonzales",
@@ -616,7 +616,7 @@
     "26": {
       "player": "paul dejong",
       "pitcher": "clay holmes",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "25": {
@@ -1102,7 +1102,14 @@
       "pitch": "Curveball"
     }
   },
-  "mia @ tex": {},
+  "mia @ tex": {
+    "1": {
+      "player": "jakob marsee",
+      "pitcher": "merrill kelly",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    }
+  },
   "laa @ col": {},
   "sf @ lad": {},
   "phi @ ari": {},
