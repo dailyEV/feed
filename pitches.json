@@ -2618,12 +2618,6 @@
     }
   },
   "mia @ tex": {
-    "41": {
-      "player": "joc pederson",
-      "pitcher": "cade gibson",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "40": {
       "player": "liam hicks",
       "pitcher": "jack leiter",
@@ -2869,8 +2863,8 @@
     "37": {
       "player": "giancarlo stanton",
       "pitcher": "jose castillo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "36": {
       "player": "cody bellinger",
@@ -3093,8 +3087,8 @@
     "37": {
       "player": "jorge polanco",
       "pitcher": "framber valdez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul Tip",
+      "pitch": "Curveball"
     },
     "36": {
       "player": "eugenio suarez",
@@ -3314,6 +3308,12 @@
     }
   },
   "tor @ kc": {
+    "43": {
+      "player": "maikel garcia",
+      "pitcher": "shane bieber",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "42": {
       "player": "vinnie pasquantino",
       "pitcher": "shane bieber",
@@ -3792,6 +3792,12 @@
     }
   },
   "mil @ stl": {
+    "40": {
+      "player": "jordan walker",
+      "pitcher": "chad patrick",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "39": {
       "player": "pedro pages",
       "pitcher": "chad patrick",
@@ -4102,6 +4108,12 @@
     }
   },
   "phi @ ari": {
+    "14": {
+      "player": "blaze alexander",
+      "pitcher": "aaron nola",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "13": {
       "player": "bryson stott",
       "pitcher": "zac gallen",
