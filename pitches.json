@@ -1,5 +1,11 @@
 {
   "atl @ det": {
+    "42": {
+      "player": "parker meadows",
+      "pitcher": "spencer strider",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "41": {
       "player": "ozzie albies",
       "pitcher": "casey mize",
@@ -251,8 +257,8 @@
     "28": {
       "player": "andrew mccutchen",
       "pitcher": "mitch spence",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "27": {
       "player": "spencer horwitz",
@@ -726,8 +732,8 @@
     "14": {
       "player": "george springer",
       "pitcher": "michael wacha",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "13": {
       "player": "tyler heineman",
@@ -877,6 +883,12 @@
     }
   },
   "sd @ chw": {
+    "12": {
+      "player": "jake cronenworth",
+      "pitcher": "sean burke",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "ryan ohearn",
       "pitcher": "sean burke",
@@ -948,8 +960,8 @@
     "11": {
       "player": "andruw monasterio",
       "pitcher": "matthew liberatore",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "caleb durbin",
