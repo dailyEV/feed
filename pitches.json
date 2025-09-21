@@ -1799,7 +1799,7 @@
     "71": {
       "player": "seiya suzuki",
       "pitcher": "emilio pagan",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "70": {
@@ -3618,6 +3618,12 @@
     }
   },
   "sea @ hou": {
+    "50": {
+      "player": "carlos correa",
+      "pitcher": "george kirby",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "49": {
       "player": "jeremy pena",
       "pitcher": "george kirby",
@@ -3917,8 +3923,8 @@
     "57": {
       "player": "andres gimenez",
       "pitcher": "taylor clarke",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "56": {
       "player": "george springer",
@@ -4566,6 +4572,12 @@
     }
   },
   "mil @ stl": {
+    "59": {
+      "player": "brendan donovan",
+      "pitcher": "aaron ashby",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "58": {
       "player": "victor scott",
       "pitcher": "aaron ashby",
@@ -4919,7 +4931,7 @@
     "32": {
       "player": "bryce teodosio",
       "pitcher": "german marquez",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -5110,6 +5122,12 @@
     }
   },
   "phi @ ari": {
+    "33": {
+      "player": "ildemaro vargas",
+      "pitcher": "aaron nola",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "alek thomas",
       "pitcher": "aaron nola",
