@@ -1784,10 +1784,16 @@
     }
   },
   "chc @ cin": {
+    "70": {
+      "player": "matt shaw",
+      "pitcher": "emilio pagan",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "69": {
       "player": "pete crow armstrong",
       "pitcher": "emilio pagan",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "68": {
@@ -2565,7 +2571,7 @@
     "58": {
       "player": "chandler simpson",
       "pitcher": "justin wilson",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -3250,12 +3256,6 @@
     }
   },
   "nyy @ bal": {
-    "54": {
-      "player": "tyler oneill",
-      "pitcher": "carlos rodon",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "53": {
       "player": "giancarlo stanton",
       "pitcher": "jose espada",
@@ -3579,8 +3579,8 @@
     "48": {
       "player": "cam smith",
       "pitcher": "george kirby",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "47": {
       "player": "julio rodriguez",
@@ -4841,8 +4841,8 @@
     "30": {
       "player": "logan ohoppe",
       "pitcher": "german marquez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "29": {
       "player": "christian moore",
