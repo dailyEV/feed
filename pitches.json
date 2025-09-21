@@ -1,5 +1,17 @@
 {
   "atl @ det": {
+    "73": {
+      "player": "zach mckinstry",
+      "pitcher": "tyler kinley",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
+    "72": {
+      "player": "dillon dingler",
+      "pitcher": "tyler kinley",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "71": {
       "player": "wenceel perez",
       "pitcher": "tyler kinley",
@@ -889,8 +901,8 @@
     "66": {
       "player": "paul goldschmidt",
       "pitcher": "kade strowd",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "65": {
       "player": "ryan mountcastle",
@@ -1281,8 +1293,8 @@
     "46": {
       "player": "spencer steer",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "45": {
       "player": "noelvi marte",
@@ -1972,12 +1984,6 @@
     }
   },
   "tor @ kc": {
-    "64": {
-      "player": "myles straw",
-      "pitcher": "angel zerpa",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
     "63": {
       "player": "salvador perez",
       "pitcher": "seranthony dominguez",
@@ -2723,7 +2729,7 @@
     "63": {
       "player": "lenyn sosa",
       "pitcher": "mason miller",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "62": {
@@ -3728,6 +3734,12 @@
     }
   },
   "laa @ col": {
+    "38": {
+      "player": "mickey moniak",
+      "pitcher": "caden dana",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "ryan ritter",
       "pitcher": "caden dana",
@@ -3952,11 +3964,17 @@
     }
   },
   "sf @ lad": {
+    "6": {
+      "player": "mookie betts",
+      "pitcher": "trevor mcdonald",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "shohei ohtani",
       "pitcher": "trevor mcdonald",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "4": {
       "player": "matt chapman",
