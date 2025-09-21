@@ -3041,7 +3041,7 @@
     "66": {
       "player": "jake burger",
       "pitcher": "ronny henriquez",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -3825,7 +3825,7 @@
     "60": {
       "player": "jesus sanchez",
       "pitcher": "carlos vargas",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "59": {
@@ -4187,8 +4187,8 @@
     "65": {
       "player": "daulton varsho",
       "pitcher": "carlos estevez",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "64": {
       "player": "ty france",
@@ -4579,8 +4579,8 @@
     "59": {
       "player": "ramon laureano",
       "pitcher": "cam booser",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "58": {
       "player": "jackson merrill",
@@ -5336,6 +5336,12 @@
     }
   },
   "laa @ col": {
+    "45": {
+      "player": "christian moore",
+      "pitcher": "german marquez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "jo adell",
       "pitcher": "german marquez",
@@ -5856,6 +5862,12 @@
     }
   },
   "sf @ lad": {
+    "11": {
+      "player": "shohei ohtani",
+      "pitcher": "kai wei teng",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "heliot ramos",
       "pitcher": "tyler glasnow",
