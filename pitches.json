@@ -1622,6 +1622,12 @@
     }
   },
   "chc @ cin": {
+    "48": {
+      "player": "kebryan hayes",
+      "pitcher": "aaron civale",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "tyler stephenson",
       "pitcher": "aaron civale",
@@ -1906,11 +1912,23 @@
     }
   },
   "ath @ pit": {
+    "51": {
+      "player": "henry davis",
+      "pitcher": "tyler ferguson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "50": {
+      "player": "nick yorke",
+      "pitcher": "tyler ferguson",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "49": {
       "player": "nick gonzales",
       "pitcher": "tyler ferguson",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "48": {
       "player": "shea langeliers",
@@ -2614,12 +2632,6 @@
     }
   },
   "nyy @ bal": {
-    "31": {
-      "player": "ben rice",
-      "pitcher": "jose castillo",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "30": {
       "player": "trent grisham",
       "pitcher": "jose castillo",
@@ -3196,11 +3208,17 @@
     }
   },
   "sd @ chw": {
+    "30": {
+      "player": "lenyn sosa",
+      "pitcher": "yu darvish",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "29": {
       "player": "edgar quero",
       "pitcher": "yu darvish",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "mike tauchman",
@@ -3375,8 +3393,8 @@
     "33": {
       "player": "nolan gorman",
       "pitcher": "chad patrick",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "thomas saggese",
@@ -3572,6 +3590,12 @@
     }
   },
   "laa @ col": {
+    "3": {
+      "player": "yoan moncada",
+      "pitcher": "german marquez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "mike trout",
       "pitcher": "german marquez",
