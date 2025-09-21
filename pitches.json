@@ -377,7 +377,7 @@
     "65": {
       "player": "brent rooker",
       "pitcher": "yohan ramirez",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "64": {
@@ -1092,10 +1092,16 @@
     }
   },
   "chc @ cin": {
+    "35": {
+      "player": "ian happ",
+      "pitcher": "andrew abbott",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "34": {
       "player": "nico hoerner",
       "pitcher": "andrew abbott",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -1301,8 +1307,8 @@
     "60": {
       "player": "robert hassell",
       "pitcher": "gregory soto",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "59": {
       "player": "andres chaparro",
@@ -2274,7 +2280,7 @@
       "player": "jake cronenworth",
       "pitcher": "mike vasil",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "ryan ohearn",
@@ -3068,12 +3074,6 @@
     }
   },
   "laa @ col": {
-    "24": {
-      "player": "ezequiel tovar",
-      "pitcher": "caden dana",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "23": {
       "player": "mickey moniak",
       "pitcher": "caden dana",
