@@ -3,7 +3,7 @@
     "69": {
       "player": "matt olson",
       "pitcher": "tyler holton",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "68": {
@@ -1490,11 +1490,17 @@
     }
   },
   "wsh @ nym": {
-    "66": {
-      "player": "jorge alfaro",
+    "67": {
+      "player": "brady house",
       "pitcher": "edwin diaz",
       "result": "Ball",
       "pitch": "4-Seam Fastball"
+    },
+    "66": {
+      "player": "jorge alfaro",
+      "pitcher": "edwin diaz",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "65": {
       "player": "jeff mcneil",
@@ -3536,11 +3542,17 @@
     }
   },
   "laa @ col": {
+    "34": {
+      "player": "bryce teodosio",
+      "pitcher": "kyle freeland",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "33": {
       "player": "denzer guzman",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "32": {
       "player": "kyle karros",
@@ -3739,8 +3751,8 @@
     "3": {
       "player": "willy adames",
       "pitcher": "emmet sheehan",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "2": {
       "player": "rafael devers",
