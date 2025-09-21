@@ -419,8 +419,8 @@
     "74": {
       "player": "carlos cortes",
       "pitcher": "dauri moreta",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "73": {
       "player": "andrew mccutchen",
@@ -865,7 +865,7 @@
     "65": {
       "player": "ryan mountcastle",
       "pitcher": "devin williams",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "64": {
@@ -1251,7 +1251,7 @@
     "43": {
       "player": "tj friedl",
       "pitcher": "jameson taillon",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -1511,7 +1511,7 @@
     "68": {
       "player": "nasim nunez",
       "pitcher": "edwin diaz",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "67": {
@@ -1921,7 +1921,7 @@
     "62": {
       "player": "maikel garcia",
       "pitcher": "seranthony dominguez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -2292,10 +2292,16 @@
     }
   },
   "cle @ min": {
+    "59": {
+      "player": "luke keaschall",
+      "pitcher": "hunter gaddis",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "royce lewis",
       "pitcher": "hunter gaddis",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "57": {
@@ -2645,7 +2651,7 @@
     "61": {
       "player": "edgar quero",
       "pitcher": "mason miller",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "60": {
@@ -3013,7 +3019,7 @@
     "60": {
       "player": "caleb durbin",
       "pitcher": "ryan fernandez",
-      "result": "Ball",
+      "result": "Hit By Pitch",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -3375,8 +3381,8 @@
     "40": {
       "player": "michael helman",
       "pitcher": "lake bachar",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "ezequiel duran",
@@ -3614,10 +3620,16 @@
     }
   },
   "laa @ col": {
+    "35": {
+      "player": "mike trout",
+      "pitcher": "kyle freeland",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "34": {
       "player": "bryce teodosio",
       "pitcher": "kyle freeland",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Knuckle Curve"
     },
     "33": {
@@ -3820,6 +3832,12 @@
     }
   },
   "sf @ lad": {
+    "4": {
+      "player": "matt chapman",
+      "pitcher": "emmet sheehan",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "willy adames",
       "pitcher": "emmet sheehan",
@@ -3843,8 +3861,8 @@
     "4": {
       "player": "jt realmuto",
       "pitcher": "eduardo rodriguez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "3": {
       "player": "bryce harper",
