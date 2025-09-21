@@ -1386,6 +1386,12 @@
     }
   },
   "chc @ cin": {
+    "55": {
+      "player": "ian happ",
+      "pitcher": "graham ashcraft",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "54": {
       "player": "nico hoerner",
       "pitcher": "graham ashcraft",
@@ -2574,6 +2580,12 @@
     }
   },
   "cle @ min": {
+    "68": {
+      "player": "bo naylor",
+      "pitcher": "travis adams",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "67": {
       "player": "ryan fitzgerald",
       "pitcher": "zak kent",
@@ -4127,8 +4139,8 @@
     "46": {
       "player": "blaine crim",
       "pitcher": "caden dana",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "45": {
       "player": "hunter goodman",
@@ -4402,10 +4414,22 @@
     }
   },
   "sf @ lad": {
+    "18": {
+      "player": "rafael devers",
+      "pitcher": "emmet sheehan",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "17": {
+      "player": "heliot ramos",
+      "pitcher": "emmet sheehan",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "16": {
       "player": "andrew knizner",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
+      "result": "Hit By Pitch",
       "pitch": "4-Seam Fastball"
     },
     "15": {
@@ -4503,8 +4527,8 @@
     "16": {
       "player": "jordan lawlar",
       "pitcher": "ranger suarez",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "15": {
       "player": "tim tawa",
