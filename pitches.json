@@ -359,8 +359,8 @@
     "51": {
       "player": "jacob wilson",
       "pitcher": "carmen mlodzinski",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "50": {
       "player": "jj bleday",
@@ -664,12 +664,6 @@
     }
   },
   "nyy @ bal": {
-    "44": {
-      "player": "gunnar henderson",
-      "pitcher": "tim hill",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "43": {
       "player": "dylan beavers",
       "pitcher": "cam schlittler",
@@ -930,11 +924,17 @@
     }
   },
   "chc @ cin": {
+    "17": {
+      "player": "nico hoerner",
+      "pitcher": "andrew abbott",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "16": {
       "player": "kevin alcantara",
       "pitcher": "andrew abbott",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "15": {
       "player": "michael busch",
@@ -1304,7 +1304,7 @@
       "player": "tyler heineman",
       "pitcher": "michael wacha",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "35": {
       "player": "john rave",
@@ -1951,7 +1951,7 @@
     "31": {
       "player": "nolan gorman",
       "pitcher": "erick fedde",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Sweeper"
     },
     "30": {
@@ -2252,6 +2252,12 @@
     }
   },
   "laa @ col": {
+    "7": {
+      "player": "mickey moniak",
+      "pitcher": "caden dana",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "christian moore",
       "pitcher": "kyle freeland",
