@@ -416,17 +416,11 @@
     }
   },
   "ath @ pit": {
-    "74": {
-      "player": "carlos cortes",
-      "pitcher": "dauri moreta",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "73": {
       "player": "andrew mccutchen",
       "pitcher": "scott mcgough",
       "result": "Called Strike",
-      "pitch": ""
+      "pitch": "Splitter"
     },
     "72": {
       "player": "spencer horwitz",
@@ -1900,6 +1894,12 @@
     }
   },
   "tor @ kc": {
+    "61": {
+      "player": "vinnie pasquantino",
+      "pitcher": "seranthony dominguez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "addison barger",
       "pitcher": "jonathan bowlan",
@@ -2262,6 +2262,12 @@
     }
   },
   "cle @ min": {
+    "58": {
+      "player": "royce lewis",
+      "pitcher": "hunter gaddis",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "57": {
       "player": "austin martin",
       "pitcher": "tim herrin",
@@ -3333,8 +3339,8 @@
     "39": {
       "player": "ezequiel duran",
       "pitcher": "lake bachar",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "liam hicks",
@@ -3569,8 +3575,8 @@
     "34": {
       "player": "bryce teodosio",
       "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "33": {
       "player": "denzer guzman",
