@@ -1434,6 +1434,12 @@
     }
   },
   "chc @ cin": {
+    "60": {
+      "player": "gavin lux",
+      "pitcher": "brad keller",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "tj friedl",
       "pitcher": "brad keller",
@@ -3125,8 +3131,8 @@
     "76": {
       "player": "colson montgomery",
       "pitcher": "robert suarez",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "75": {
       "player": "kyle teel",
@@ -4014,11 +4020,17 @@
     }
   },
   "mia @ tex": {
+    "57": {
+      "player": "joc pederson",
+      "pitcher": "ronny henriquez",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "56": {
       "player": "michael helman",
       "pitcher": "ronny henriquez",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "55": {
       "player": "agustin ramirez",
@@ -4791,8 +4803,8 @@
     "23": {
       "player": "ildemaro vargas",
       "pitcher": "ranger suarez",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "22": {
       "player": "blaze alexander",
