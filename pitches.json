@@ -868,6 +868,12 @@
     }
   },
   "cle-gm2 @ min-gm2": {
+    "60": {
+      "player": "austin hedges",
+      "pitcher": "mick abel",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "petey halpin",
       "pitcher": "mick abel",
@@ -2529,8 +2535,8 @@
     "56": {
       "player": "nick fortes",
       "pitcher": "justin wilson",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "55": {
       "player": "josh lowe",
@@ -2868,7 +2874,7 @@
       "player": "liam hicks",
       "pitcher": "danny coulombe",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Cutter"
     },
     "54": {
       "player": "xavier edwards",
@@ -3498,6 +3504,12 @@
     }
   },
   "sea @ hou": {
+    "47": {
+      "player": "julio rodriguez",
+      "pitcher": "jayden murray",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "46": {
       "player": "cal raleigh",
       "pitcher": "jayden murray",
@@ -4709,7 +4721,7 @@
     "27": {
       "player": "blaine crim",
       "pitcher": "kyle hendricks",
-      "result": "In play, no out",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "26": {
@@ -4870,11 +4882,17 @@
     }
   },
   "phi @ ari": {
+    "29": {
+      "player": "max kepler",
+      "pitcher": "zac gallen",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "28": {
       "player": "alec bohm",
       "pitcher": "zac gallen",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Knuckle Curve"
     },
     "27": {
       "player": "brandon marsh",
