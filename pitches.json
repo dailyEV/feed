@@ -377,7 +377,7 @@
     "63": {
       "player": "joey bart",
       "pitcher": "osvaldo bido",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "62": {
@@ -1077,8 +1077,8 @@
     "30": {
       "player": "spencer steer",
       "pitcher": "jameson taillon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "29": {
       "player": "michael busch",
@@ -1597,7 +1597,7 @@
     "50": {
       "player": "andres gimenez",
       "pitcher": "steven cruz",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -2473,8 +2473,8 @@
     "44": {
       "player": "rhys hoskins",
       "pitcher": "matt svanson",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "43": {
       "player": "andrew vaughn",
@@ -2739,8 +2739,8 @@
     "30": {
       "player": "rowdy tellez",
       "pitcher": "eury perez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "29": {
       "player": "alejandro osuna",
@@ -2918,6 +2918,12 @@
     }
   },
   "laa @ col": {
+    "20": {
+      "player": "taylor ward",
+      "pitcher": "kyle freeland",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "19": {
       "player": "ryan ritter",
       "pitcher": "caden dana",
