@@ -871,8 +871,8 @@
     "68": {
       "player": "gabriel arias",
       "pitcher": "mick abel",
-      "result": "Foul Tip",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "kyle manzardo",
@@ -2610,11 +2610,17 @@
     }
   },
   "bos @ tb": {
+    "62": {
+      "player": "romy gonzalez",
+      "pitcher": "jesse scholtens",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "61": {
       "player": "masataka yoshida",
       "pitcher": "jesse scholtens",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "junior caminero",
@@ -3693,7 +3699,7 @@
     "51": {
       "player": "isaac paredes",
       "pitcher": "george kirby",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -4348,6 +4354,12 @@
     }
   },
   "sd @ chw": {
+    "54": {
+      "player": "manny machado",
+      "pitcher": "steven wilson",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "53": {
       "player": "luis arraez",
       "pitcher": "steven wilson",
@@ -4671,8 +4683,8 @@
     "61": {
       "player": "alec burleson",
       "pitcher": "aaron ashby",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "ivan herrera",
@@ -5036,6 +5048,12 @@
     }
   },
   "laa @ col": {
+    "35": {
+      "player": "yanquiel fernandez",
+      "pitcher": "kyle hendricks",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "34": {
       "player": "brenton doyle",
       "pitcher": "kyle hendricks",
@@ -5448,6 +5466,12 @@
     }
   },
   "sf @ lad": {
+    "4": {
+      "player": "matt chapman",
+      "pitcher": "tyler glasnow",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "willy adames",
       "pitcher": "tyler glasnow",
