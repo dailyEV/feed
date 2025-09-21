@@ -592,12 +592,6 @@
     }
   },
   "nyy @ bal": {
-    "40": {
-      "player": "ben rice",
-      "pitcher": "kyle bradish",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
-    },
     "39": {
       "player": "cody bellinger",
       "pitcher": "kyle bradish",
@@ -834,11 +828,17 @@
     }
   },
   "chc @ cin": {
+    "9": {
+      "player": "carlos santana",
+      "pitcher": "andrew abbott",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "carson kelly",
       "pitcher": "andrew abbott",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "spencer steer",
@@ -1123,8 +1123,8 @@
     "29": {
       "player": "vinnie pasquantino",
       "pitcher": "trey yesavage",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "bobby witt",
@@ -1299,8 +1299,8 @@
     "28": {
       "player": "angel martinez",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "gabriel arias",
@@ -1466,6 +1466,12 @@
     }
   },
   "sd @ chw": {
+    "31": {
+      "player": "edgar quero",
+      "pitcher": "michael king",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "30": {
       "player": "jake cronenworth",
       "pitcher": "sean burke",
