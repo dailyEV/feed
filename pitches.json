@@ -5795,8 +5795,8 @@
     "67": {
       "player": "hunter goodman",
       "pitcher": "luis garcia",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "66": {
       "player": "mickey moniak",
@@ -6196,11 +6196,17 @@
     }
   },
   "phi @ ari": {
+    "64": {
+      "player": "bryce harper",
+      "pitcher": "brandyn garcia",
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
+    },
     "63": {
       "player": "kyle schwarber",
       "pitcher": "brandyn garcia",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "62": {
       "player": "adrian del castillo",
@@ -6579,7 +6585,7 @@
     "32": {
       "player": "tommy edman",
       "pitcher": "kai wei teng",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "31": {
