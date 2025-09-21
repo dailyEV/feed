@@ -272,12 +272,6 @@
     }
   },
   "ath @ pit": {
-    "33": {
-      "player": "jack suwinski",
-      "pitcher": "mitch spence",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "32": {
       "player": "willie maciver",
       "pitcher": "mike burrows",
@@ -652,8 +646,8 @@
     "28": {
       "player": "brady house",
       "pitcher": "clay holmes",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "27": {
       "player": "jorge alfaro",
@@ -819,6 +813,12 @@
     }
   },
   "tor @ kc": {
+    "18": {
+      "player": "carter jensen",
+      "pitcher": "trey yesavage",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "17": {
       "player": "adam frazier",
       "pitcher": "trey yesavage",
@@ -927,7 +927,7 @@
       "player": "edouard julien",
       "pitcher": "joey cantillo",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "15": {
       "player": "luke keaschall",
@@ -1128,7 +1128,7 @@
     "13": {
       "player": "nolan gorman",
       "pitcher": "robert gasser",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "12": {
