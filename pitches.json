@@ -281,7 +281,7 @@
     "35": {
       "player": "nick yorke",
       "pitcher": "mitch spence",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "34": {
@@ -490,6 +490,12 @@
     }
   },
   "nyy @ bal": {
+    "31": {
+      "player": "samuel basallo",
+      "pitcher": "cam schlittler",
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
+    },
     "30": {
       "player": "austin wells",
       "pitcher": "kyle bradish",
@@ -1268,8 +1274,8 @@
     "4": {
       "player": "joc pederson",
       "pitcher": "eury perez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "3": {
       "player": "xavier edwards",
