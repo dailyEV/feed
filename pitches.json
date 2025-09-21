@@ -715,8 +715,8 @@
     "48": {
       "player": "paul goldschmidt",
       "pitcher": "dietrich enns",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "jose caballero",
@@ -1142,6 +1142,12 @@
     }
   },
   "wsh @ nym": {
+    "50": {
+      "player": "brady house",
+      "pitcher": "clay holmes",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "49": {
       "player": "mark vientos",
       "pitcher": "mitchell parker",
@@ -1701,8 +1707,8 @@
     "40": {
       "player": "byron buxton",
       "pitcher": "joey cantillo",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "39": {
       "player": "ryan fitzgerald",
@@ -1944,7 +1950,7 @@
       "player": "gavin sheets",
       "pitcher": "mike vasil",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "43": {
       "player": "ramon laureano",
@@ -2206,11 +2212,17 @@
     }
   },
   "mil @ stl": {
+    "37": {
+      "player": "joey ortiz",
+      "pitcher": "matthew liberatore",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "blake perkins",
       "pitcher": "matthew liberatore",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "35": {
       "player": "thomas saggese",
@@ -2424,6 +2436,12 @@
     }
   },
   "mia @ tex": {
+    "24": {
+      "player": "liam hicks",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "23": {
       "player": "xavier edwards",
       "pitcher": "merrill kelly",
@@ -2567,8 +2585,8 @@
     "13": {
       "player": "mike trout",
       "pitcher": "kyle freeland",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "12": {
       "player": "bryce teodosio",
