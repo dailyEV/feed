@@ -871,8 +871,8 @@
     "61": {
       "player": "steven kwan",
       "pitcher": "mick abel",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "austin hedges",
@@ -2577,7 +2577,7 @@
     "51": {
       "player": "ceddanne rafaela",
       "pitcher": "jesse scholtens",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Sweeper"
     },
     "50": {
@@ -3223,8 +3223,8 @@
     "53": {
       "player": "giancarlo stanton",
       "pitcher": "jose espada",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "52": {
       "player": "cody bellinger",
@@ -3827,8 +3827,8 @@
     "55": {
       "player": "nathan lukes",
       "pitcher": "taylor clarke",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "54": {
       "player": "carter jensen",
@@ -4446,6 +4446,12 @@
     }
   },
   "mil @ stl": {
+    "55": {
+      "player": "christian yelich",
+      "pitcher": "kyle leahy",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "54": {
       "player": "jackson chourio",
       "pitcher": "kyle leahy",
