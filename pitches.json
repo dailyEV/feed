@@ -871,7 +871,7 @@
     "58": {
       "player": "brayan rocchio",
       "pitcher": "mick abel",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -1763,8 +1763,8 @@
     "64": {
       "player": "elly de la cruz",
       "pitcher": "andrew kittredge",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "63": {
       "player": "noelvi marte",
@@ -2834,6 +2834,12 @@
     }
   },
   "mia @ tex": {
+    "54": {
+      "player": "xavier edwards",
+      "pitcher": "danny coulombe",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "53": {
       "player": "agustin ramirez",
       "pitcher": "danny coulombe",
@@ -3154,12 +3160,6 @@
     }
   },
   "nyy @ bal": {
-    "49": {
-      "player": "jordan westburg",
-      "pitcher": "carlos rodon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "48": {
       "player": "jackson holliday",
       "pitcher": "carlos rodon",
@@ -4036,6 +4036,12 @@
     }
   },
   "sd @ chw": {
+    "47": {
+      "player": "jake cronenworth",
+      "pitcher": "fraser ellard",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "ryan ohearn",
       "pitcher": "fraser ellard",
