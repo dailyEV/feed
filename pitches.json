@@ -553,7 +553,7 @@
     "35": {
       "player": "dylan carlson",
       "pitcher": "cam schlittler",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "34": {
@@ -765,8 +765,8 @@
     "4": {
       "player": "tj friedl",
       "pitcher": "jameson taillon",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "seiya suzuki",
@@ -791,8 +791,8 @@
     "35": {
       "player": "james wood",
       "pitcher": "clay holmes",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "jacob young",
@@ -1146,12 +1146,6 @@
     }
   },
   "cle @ min": {
-    "24": {
-      "player": "kody clemens",
-      "pitcher": "joey cantillo",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "23": {
       "player": "byron buxton",
       "pitcher": "joey cantillo",
@@ -1566,6 +1560,12 @@
     }
   },
   "mia @ tex": {
+    "10": {
+      "player": "otto lopez",
+      "pitcher": "merrill kelly",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "liam hicks",
       "pitcher": "merrill kelly",
