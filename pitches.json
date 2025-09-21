@@ -3843,7 +3843,7 @@
     "61": {
       "player": "jake meyers",
       "pitcher": "carlos vargas",
-      "result": "Foul Bunt",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "60": {
@@ -4609,8 +4609,8 @@
     "61": {
       "player": "ryan ohearn",
       "pitcher": "cam booser",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "gavin sheets",
@@ -5378,11 +5378,17 @@
     }
   },
   "laa @ col": {
+    "47": {
+      "player": "denzer guzman",
+      "pitcher": "german marquez",
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
+    },
     "46": {
       "player": "logan ohoppe",
       "pitcher": "german marquez",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
       "player": "christian moore",
@@ -5659,8 +5665,8 @@
     "44": {
       "player": "brandon marsh",
       "pitcher": "zac gallen",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "43": {
       "player": "jt realmuto",
@@ -5922,6 +5928,12 @@
     }
   },
   "sf @ lad": {
+    "12": {
+      "player": "mookie betts",
+      "pitcher": "kai wei teng",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "shohei ohtani",
       "pitcher": "kai wei teng",
