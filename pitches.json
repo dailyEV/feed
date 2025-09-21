@@ -374,12 +374,6 @@
     }
   },
   "ath @ pit": {
-    "65": {
-      "player": "brent rooker",
-      "pitcher": "yohan ramirez",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "64": {
       "player": "nick yorke",
       "pitcher": "osvaldo bido",
@@ -769,8 +763,8 @@
     "55": {
       "player": "dylan carlson",
       "pitcher": "luke weaver",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "coby mayo",
@@ -1092,6 +1086,18 @@
     }
   },
   "chc @ cin": {
+    "34": {
+      "player": "nico hoerner",
+      "pitcher": "andrew abbott",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "33": {
+      "player": "kevin alcantara",
+      "pitcher": "andrew abbott",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "32": {
       "player": "elly de la cruz",
       "pitcher": "jameson taillon",
@@ -1286,6 +1292,12 @@
     }
   },
   "wsh @ nym": {
+    "60": {
+      "player": "robert hassell",
+      "pitcher": "gregory soto",
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
+    },
     "59": {
       "player": "andres chaparro",
       "pitcher": "gregory soto",
@@ -3053,8 +3065,8 @@
     "23": {
       "player": "mickey moniak",
       "pitcher": "caden dana",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "22": {
       "player": "nolan schanuel",
