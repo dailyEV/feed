@@ -3,8 +3,8 @@
     "70": {
       "player": "spencer torkelson",
       "pitcher": "tyler kinley",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul Tip",
+      "pitch": "Curveball"
     },
     "69": {
       "player": "matt olson",
@@ -425,7 +425,7 @@
     "75": {
       "player": "darell hernaiz",
       "pitcher": "dauri moreta",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "74": {
@@ -438,7 +438,7 @@
       "player": "andrew mccutchen",
       "pitcher": "scott mcgough",
       "result": "Called Strike",
-      "pitch": ""
+      "pitch": "Splitter"
     },
     "72": {
       "player": "spencer horwitz",
@@ -877,8 +877,8 @@
     "65": {
       "player": "ryan mountcastle",
       "pitcher": "devin williams",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "gunnar henderson",
@@ -1260,6 +1260,12 @@
     }
   },
   "chc @ cin": {
+    "44": {
+      "player": "gavin lux",
+      "pitcher": "jameson taillon",
+      "result": "In play, no out",
+      "pitch": "Curveball"
+    },
     "43": {
       "player": "tj friedl",
       "pitcher": "jameson taillon",
@@ -2666,11 +2672,17 @@
     }
   },
   "sd @ chw": {
+    "62": {
+      "player": "andrew benintendi",
+      "pitcher": "mason miller",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "61": {
       "player": "edgar quero",
       "pitcher": "mason miller",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "60": {
       "player": "miguel vargas",
@@ -3399,8 +3411,8 @@
     "40": {
       "player": "michael helman",
       "pitcher": "lake bachar",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "ezequiel duran",
