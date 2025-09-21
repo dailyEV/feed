@@ -4,7 +4,7 @@
       "player": "kerry carpenter",
       "pitcher": "jose suarez",
       "result": "Called Strike",
-      "pitch": "Curveball"
+      "pitch": "Sinker"
     },
     "63": {
       "player": "gleyber torres",
@@ -2070,12 +2070,6 @@
     }
   },
   "cle @ min": {
-    "52": {
-      "player": "cj kayfus",
-      "pitcher": "pierson ohl",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "51": {
       "player": "angel martinez",
       "pitcher": "pierson ohl",
@@ -2716,10 +2710,16 @@
     }
   },
   "mil @ stl": {
+    "52": {
+      "player": "joey ortiz",
+      "pitcher": "matt svanson",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "blake perkins",
       "pitcher": "matt svanson",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Cutter"
     },
     "50": {
@@ -3027,8 +3027,8 @@
     "35": {
       "player": "jakob marsee",
       "pitcher": "merrill kelly",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "34": {
       "player": "brian navarreto",
@@ -3236,6 +3236,12 @@
     }
   },
   "laa @ col": {
+    "27": {
+      "player": "christian moore",
+      "pitcher": "kyle freeland",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "26": {
       "player": "logan ohoppe",
       "pitcher": "kyle freeland",
