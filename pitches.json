@@ -3,7 +3,7 @@
     "36": {
       "player": "javier baez",
       "pitcher": "spencer strider",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "35": {
@@ -221,8 +221,8 @@
     "24": {
       "player": "nick kurtz",
       "pitcher": "mike burrows",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "brent rooker",
@@ -630,8 +630,8 @@
     "7": {
       "player": "vinnie pasquantino",
       "pitcher": "trey yesavage",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "6": {
       "player": "bobby witt",
@@ -671,6 +671,12 @@
     }
   },
   "cle @ min": {
+    "6": {
+      "player": "gabriel arias",
+      "pitcher": "simeon woods richardson",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "5": {
       "player": "bo naylor",
       "pitcher": "simeon woods richardson",
@@ -706,8 +712,8 @@
     "8": {
       "player": "jackson merrill",
       "pitcher": "sean burke",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "miguel vargas",
@@ -753,6 +759,12 @@
     }
   },
   "mil @ stl": {
+    "5": {
+      "player": "ivan herrera",
+      "pitcher": "robert gasser",
+      "result": "Hit By Pitch",
+      "pitch": "Cutter"
+    },
     "4": {
       "player": "thomas saggese",
       "pitcher": "robert gasser",
