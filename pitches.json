@@ -550,7 +550,7 @@
     "23": {
       "player": "juan soto",
       "pitcher": "jake irvin",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "22": {
@@ -687,6 +687,12 @@
     }
   },
   "tor @ kc": {
+    "11": {
+      "player": "ernie clement",
+      "pitcher": "michael wacha",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "10": {
       "player": "nathan lukes",
       "pitcher": "michael wacha",
@@ -749,6 +755,12 @@
     }
   },
   "cle @ min": {
+    "9": {
+      "player": "austin martin",
+      "pitcher": "joey cantillo",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "8": {
       "player": "kody clemens",
       "pitcher": "joey cantillo",
@@ -870,8 +882,8 @@
     "9": {
       "player": "rhys hoskins",
       "pitcher": "matthew liberatore",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "8": {
       "player": "jordan walker",
