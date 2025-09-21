@@ -3,7 +3,7 @@
     "73": {
       "player": "zach mckinstry",
       "pitcher": "tyler kinley",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "72": {
@@ -898,11 +898,17 @@
     }
   },
   "nyy @ bal": {
+    "67": {
+      "player": "anthony volpe",
+      "pitcher": "kade strowd",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "66": {
       "player": "paul goldschmidt",
       "pitcher": "kade strowd",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "65": {
       "player": "ryan mountcastle",
@@ -1987,8 +1993,8 @@
     "65": {
       "player": "davis schneider",
       "pitcher": "angel zerpa",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "myles straw",
@@ -3118,6 +3124,12 @@
     }
   },
   "mil @ stl": {
+    "63": {
+      "player": "ivan herrera",
+      "pitcher": "erick fedde",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "62": {
       "player": "danny jansen",
       "pitcher": "ryan fernandez",
@@ -4020,6 +4032,12 @@
     }
   },
   "phi @ ari": {
+    "7": {
+      "player": "corbin carroll",
+      "pitcher": "ranger suarez",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "6": {
       "player": "geraldo perdomo",
       "pitcher": "ranger suarez",
