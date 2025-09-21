@@ -3,8 +3,8 @@
     "45": {
       "player": "riley greene",
       "pitcher": "spencer strider",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "44": {
       "player": "kerry carpenter",
@@ -466,10 +466,16 @@
     }
   },
   "nyy @ bal": {
+    "30": {
+      "player": "austin wells",
+      "pitcher": "kyle bradish",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "jose caballero",
       "pitcher": "kyle bradish",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "28": {
@@ -927,7 +933,7 @@
       "player": "edouard julien",
       "pitcher": "joey cantillo",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "luke keaschall",
