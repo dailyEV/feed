@@ -4382,6 +4382,12 @@
     }
   },
   "lad @ ari": {
+    "56": {
+      "player": "geraldo perdomo",
+      "pitcher": "edgardo henriquez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "55": {
       "player": "adrian del castillo",
       "pitcher": "edgardo henriquez",
@@ -4714,10 +4720,16 @@
     }
   },
   "col @ sea": {
+    "54": {
+      "player": "hunter goodman",
+      "pitcher": "gabe speier",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "53": {
       "player": "mickey moniak",
       "pitcher": "gabe speier",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "52": {
@@ -5037,7 +5049,7 @@
     "62": {
       "player": "jose iglesias",
       "pitcher": "tobias myers",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -5122,7 +5134,7 @@
       "player": "mason mccoy",
       "pitcher": "bruce zimmermann",
       "result": "In play, out(s)",
-      "pitch": "Splitter"
+      "pitch": "Changeup"
     },
     "47": {
       "player": "freddy fermin",
@@ -5134,7 +5146,7 @@
       "player": "bryce johnson",
       "pitcher": "bruce zimmermann",
       "result": "In play, no out",
-      "pitch": "Splitter"
+      "pitch": "Changeup"
     },
     "45": {
       "player": "jose iglesias",
@@ -5212,13 +5224,13 @@
       "player": "mason mccoy",
       "pitcher": "bruce zimmermann",
       "result": "In play, out(s)",
-      "pitch": "Splitter"
+      "pitch": "Changeup"
     },
     "32": {
       "player": "freddy fermin",
       "pitcher": "bruce zimmermann",
       "result": "In play, out(s)",
-      "pitch": "Splitter"
+      "pitch": "Changeup"
     },
     "31": {
       "player": "caleb durbin",
@@ -5248,7 +5260,7 @@
       "player": "jose iglesias",
       "pitcher": "bruce zimmermann",
       "result": "In play, out(s)",
-      "pitch": "Splitter"
+      "pitch": "Changeup"
     },
     "26": {
       "player": "ryan ohearn",
@@ -5356,7 +5368,7 @@
       "player": "ryan ohearn",
       "pitcher": "bruce zimmermann",
       "result": "In play, run(s)",
-      "pitch": "Splitter"
+      "pitch": "Changeup"
     },
     "8": {
       "player": "ramon laureano",
@@ -5374,7 +5386,7 @@
       "player": "xander bogaerts",
       "pitcher": "bruce zimmermann",
       "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "pitch": "Changeup"
     },
     "5": {
       "player": "luis arraez",
@@ -5411,8 +5423,8 @@
     "55": {
       "player": "rafael devers",
       "pitcher": "chris roycroft",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "54": {
       "player": "heliot ramos",
