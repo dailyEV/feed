@@ -4675,8 +4675,8 @@
     "50": {
       "player": "jorge polanco",
       "pitcher": "jimmy herget",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "ryan ritter",
@@ -4974,10 +4974,16 @@
     }
   },
   "mil @ sd": {
+    "58": {
+      "player": "joey ortiz",
+      "pitcher": "wandy peralta",
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "blake perkins",
       "pitcher": "wandy peralta",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "56": {
@@ -5318,6 +5324,12 @@
     }
   },
   "stl @ sf": {
+    "51": {
+      "player": "lars nootbaar",
+      "pitcher": "logan webb",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "50": {
       "player": "drew gilbert",
       "pitcher": "jorge alcala",
