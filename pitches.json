@@ -1233,7 +1233,7 @@
     "80": {
       "player": "nick castellanos",
       "pitcher": "josh simpson",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "79": {
@@ -3960,6 +3960,12 @@
     }
   },
   "kc @ laa": {
+    "41": {
+      "player": "denzer guzman",
+      "pitcher": "cole ragans",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "40": {
       "player": "christian moore",
       "pitcher": "cole ragans",
@@ -4205,7 +4211,7 @@
     "39": {
       "player": "max muncy",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
+      "result": "Ball In Dirt",
       "pitch": "Curveball"
     },
     "38": {
@@ -4441,8 +4447,8 @@
     "38": {
       "player": "mickey moniak",
       "pitcher": "bryce miller",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "37": {
       "player": "randy arozarena",
@@ -4668,11 +4674,17 @@
     }
   },
   "mil @ sd": {
+    "41": {
+      "player": "ryan ohearn",
+      "pitcher": "bruce zimmermann",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "ramon laureano",
       "pitcher": "bruce zimmermann",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "gavin sheets",
@@ -4913,8 +4925,8 @@
     "37": {
       "player": "drew gilbert",
       "pitcher": "john king",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "36": {
       "player": "christian koss",
@@ -5137,8 +5149,8 @@
     "26": {
       "player": "tyler soderstrom",
       "pitcher": "cristian javier",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "shea langeliers",
