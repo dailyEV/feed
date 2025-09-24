@@ -4011,7 +4011,7 @@
     "47": {
       "player": "maikel garcia",
       "pitcher": "sam bachman",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "46": {
@@ -4295,8 +4295,8 @@
     "45": {
       "player": "corbin carroll",
       "pitcher": "shohei ohtani",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "ketel marte",
@@ -4567,8 +4567,8 @@
     "43": {
       "player": "brenton doyle",
       "pitcher": "eduard bazardo",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "ezequiel tovar",
@@ -4824,6 +4824,12 @@
     }
   },
   "mil @ sd": {
+    "48": {
+      "player": "mason mccoy",
+      "pitcher": "bruce zimmermann",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "47": {
       "player": "freddy fermin",
       "pitcher": "bruce zimmermann",
@@ -5111,8 +5117,8 @@
     "42": {
       "player": "ivan herrera",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "brendan donovan",
@@ -5362,6 +5368,12 @@
     }
   },
   "hou @ ath": {
+    "33": {
+      "player": "lawrence butler",
+      "pitcher": "cristian javier",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "32": {
       "player": "jacob wilson",
       "pitcher": "cristian javier",
