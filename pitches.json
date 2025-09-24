@@ -988,7 +988,7 @@
     "15": {
       "player": "nick yorke",
       "pitcher": "hunter greene",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -1157,11 +1157,17 @@
     }
   },
   "chw @ nyy": {
+    "3": {
+      "player": "edgar quero",
+      "pitcher": "max fried",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "curtis mead",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "1": {
       "player": "chase meidroth",
@@ -1174,8 +1180,8 @@
     "3": {
       "player": "alex bregman",
       "pitcher": "max scherzer",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "2": {
       "player": "trevor story",
