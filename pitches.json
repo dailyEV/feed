@@ -2954,6 +2954,12 @@
     }
   },
   "nym @ chc": {
+    "74": {
+      "player": "nico hoerner",
+      "pitcher": "edwin diaz",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "73": {
       "player": "francisco lindor",
       "pitcher": "caleb thielbar",
@@ -3851,7 +3857,7 @@
     "19": {
       "player": "james mccann",
       "pitcher": "shohei ohtani",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "18": {
@@ -4056,11 +4062,17 @@
     }
   },
   "mil @ sd": {
+    "20": {
+      "player": "gavin sheets",
+      "pitcher": "bruce zimmermann",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "19": {
       "player": "xander bogaerts",
       "pitcher": "bruce zimmermann",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "18": {
       "player": "luis arraez",
@@ -4279,8 +4291,8 @@
     "6": {
       "player": "tyler soderstrom",
       "pitcher": "cristian javier",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "5": {
       "player": "shea langeliers",
