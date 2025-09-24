@@ -3977,8 +3977,8 @@
     "25": {
       "player": "michael conforto",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul Tip",
+      "pitch": "Cutter"
     },
     "24": {
       "player": "teoscar hernandez",
@@ -4409,7 +4409,7 @@
     "24": {
       "player": "drew gilbert",
       "pitcher": "andre pallante",
-      "result": "Ball In Dirt",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "23": {
@@ -4552,11 +4552,17 @@
     }
   },
   "hou @ ath": {
+    "12": {
+      "player": "jake meyers",
+      "pitcher": "jeffrey springs",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "yainer diaz",
       "pitcher": "jeffrey springs",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "christian walker",
