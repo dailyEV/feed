@@ -1230,12 +1230,6 @@
     }
   },
   "mia @ phi": {
-    "87": {
-      "player": "weston wilson",
-      "pitcher": "josh simpson",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "86": {
       "player": "max kepler",
       "pitcher": "josh simpson",
@@ -4591,7 +4585,7 @@
     "45": {
       "player": "julio rodriguez",
       "pitcher": "jaden hill",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "44": {
@@ -4863,7 +4857,7 @@
     "50": {
       "player": "william contreras",
       "pitcher": "randy vasquez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -5165,8 +5159,8 @@
     "43": {
       "player": "alec burleson",
       "pitcher": "logan webb",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "42": {
       "player": "ivan herrera",
@@ -5422,11 +5416,17 @@
     }
   },
   "hou @ ath": {
+    "35": {
+      "player": "carlos cortes",
+      "pitcher": "cristian javier",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "34": {
       "player": "darell hernaiz",
       "pitcher": "cristian javier",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "33": {
       "player": "lawrence butler",
