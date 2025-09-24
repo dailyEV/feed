@@ -1233,8 +1233,8 @@
     "84": {
       "player": "eric wagaman",
       "pitcher": "lou trivino",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "83": {
       "player": "xavier edwards",
@@ -4005,8 +4005,8 @@
     "45": {
       "player": "carter jensen",
       "pitcher": "sam bachman",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "44": {
       "player": "adam frazier",
@@ -4543,7 +4543,7 @@
     "42": {
       "player": "ezequiel tovar",
       "pitcher": "eduard bazardo",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "41": {
@@ -4794,6 +4794,18 @@
     }
   },
   "mil @ sd": {
+    "47": {
+      "player": "freddy fermin",
+      "pitcher": "bruce zimmermann",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "46": {
+      "player": "bryce johnson",
+      "pitcher": "bruce zimmermann",
+      "result": "In play, no out",
+      "pitch": "Splitter"
+    },
     "45": {
       "player": "jose iglesias",
       "pitcher": "bruce zimmermann",
