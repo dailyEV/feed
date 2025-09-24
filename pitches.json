@@ -3430,6 +3430,12 @@
     }
   },
   "min @ tex": {
+    "63": {
+      "player": "christian vazquez",
+      "pitcher": "danny coulombe",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "kody clemens",
       "pitcher": "danny coulombe",
@@ -3807,8 +3813,8 @@
     "24": {
       "player": "bryce teodosio",
       "pitcher": "cole ragans",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "denzer guzman",
@@ -4093,7 +4099,7 @@
     "20": {
       "player": "victor robles",
       "pitcher": "mccade brown",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "19": {
@@ -4358,10 +4364,16 @@
     }
   },
   "stl @ sf": {
+    "23": {
+      "player": "christian koss",
+      "pitcher": "andre pallante",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "22": {
       "player": "patrick bailey",
       "pitcher": "andre pallante",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "21": {
@@ -4492,6 +4504,12 @@
     }
   },
   "hou @ ath": {
+    "10": {
+      "player": "christian walker",
+      "pitcher": "jeffrey springs",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "lawrence butler",
       "pitcher": "cristian javier",
