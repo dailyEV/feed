@@ -880,11 +880,17 @@
     }
   },
   "tb @ bal": {
+    "30": {
+      "player": "chandler simpson",
+      "pitcher": "tyler wells",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "bob seymour",
       "pitcher": "tyler wells",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "28": {
       "player": "hunter feduccia",
@@ -1056,6 +1062,12 @@
     }
   },
   "det @ cle": {
+    "11": {
+      "player": "bo naylor",
+      "pitcher": "jack flaherty",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "wenceel perez",
       "pitcher": "tanner bibee",
@@ -1291,8 +1303,8 @@
     "25": {
       "player": "heriberto hernandez",
       "pitcher": "jesus luzardo",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "nick castellanos",
@@ -1443,8 +1455,8 @@
     "13": {
       "player": "corey julks",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "12": {
       "player": "lenyn sosa",
