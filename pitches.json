@@ -1233,7 +1233,7 @@
     "71": {
       "player": "troy johnston",
       "pitcher": "orion kerkering",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "70": {
@@ -3475,8 +3475,8 @@
     "69": {
       "player": "ryan jeffers",
       "pitcher": "danny coulombe",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "dylan moore",
@@ -4076,12 +4076,6 @@
     }
   },
   "lad @ ari": {
-    "31": {
-      "player": "andy pages",
-      "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "Cutter"
-    },
     "30": {
       "player": "tommy edman",
       "pitcher": "brandon pfaadt",
@@ -4267,8 +4261,8 @@
     "29": {
       "player": "jorge polanco",
       "pitcher": "mccade brown",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "josh naylor",
@@ -4443,8 +4437,8 @@
     "30": {
       "player": "sal frelick",
       "pitcher": "randy vasquez",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "29": {
       "player": "william contreras",
@@ -4622,6 +4616,12 @@
     }
   },
   "stl @ sf": {
+    "29": {
+      "player": "bryce eldridge",
+      "pitcher": "andre pallante",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
+    },
     "28": {
       "player": "matt chapman",
       "pitcher": "andre pallante",
