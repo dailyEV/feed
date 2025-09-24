@@ -2957,7 +2957,7 @@
     "76": {
       "player": "seiya suzuki",
       "pitcher": "edwin diaz",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "75": {
@@ -3412,6 +3412,12 @@
     }
   },
   "min @ tex": {
+    "60": {
+      "player": "cody freeman",
+      "pitcher": "zebby matthews",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "kyle higashioka",
       "pitcher": "zebby matthews",
@@ -3772,7 +3778,7 @@
       "player": "mike yastrzemski",
       "pitcher": "sam aldegheri",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "20": {
       "player": "salvador perez",
@@ -3899,8 +3905,8 @@
     "21": {
       "player": "geraldo perdomo",
       "pitcher": "shohei ohtani",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "jake mccarthy",
@@ -4027,8 +4033,8 @@
     "18": {
       "player": "hunter goodman",
       "pitcher": "bryce miller",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "mickey moniak",
@@ -4382,7 +4388,7 @@
       "player": "jacob wilson",
       "pitcher": "cristian javier",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "7": {
       "player": "brent rooker",
