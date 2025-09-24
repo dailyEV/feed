@@ -1233,7 +1233,7 @@
     "70": {
       "player": "bryson stott",
       "pitcher": "michael petersen",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "69": {
@@ -3469,8 +3469,8 @@
     "66": {
       "player": "jonah heim",
       "pitcher": "kody funderburk",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "65": {
       "player": "austin martin",
@@ -4037,8 +4037,8 @@
     "27": {
       "player": "corbin carroll",
       "pitcher": "shohei ohtani",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "26": {
       "player": "ketel marte",
@@ -4350,6 +4350,12 @@
     }
   },
   "mil @ sd": {
+    "28": {
+      "player": "bryce johnson",
+      "pitcher": "bruce zimmermann",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
     "27": {
       "player": "jose iglesias",
       "pitcher": "bruce zimmermann",
@@ -4675,7 +4681,7 @@
     "15": {
       "player": "mauricio dubon",
       "pitcher": "jeffrey springs",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "14": {
