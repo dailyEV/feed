@@ -1233,8 +1233,8 @@
     "68": {
       "player": "max kepler",
       "pitcher": "michael petersen",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "67": {
       "player": "rafael marchan",
@@ -2957,8 +2957,8 @@
     "81": {
       "player": "carson kelly",
       "pitcher": "edwin diaz",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "80": {
       "player": "mark vientos",
@@ -3834,11 +3834,17 @@
     }
   },
   "kc @ laa": {
+    "28": {
+      "player": "tyler tolbert",
+      "pitcher": "sam aldegheri",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "27": {
       "player": "carter jensen",
       "pitcher": "sam aldegheri",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "26": {
       "player": "adam frazier",
@@ -4002,7 +4008,7 @@
       "player": "corbin carroll",
       "pitcher": "shohei ohtani",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "26": {
       "player": "ketel marte",
@@ -4165,7 +4171,7 @@
     "24": {
       "player": "ezequiel tovar",
       "pitcher": "bryce miller",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "23": {
@@ -4308,6 +4314,12 @@
     }
   },
   "mil @ sd": {
+    "27": {
+      "player": "jose iglesias",
+      "pitcher": "bruce zimmermann",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "26": {
       "player": "ryan ohearn",
       "pitcher": "bruce zimmermann",
@@ -4469,7 +4481,7 @@
     "25": {
       "player": "heliot ramos",
       "pitcher": "andre pallante",
-      "result": "In play, run(s)",
+      "result": "Ball In Dirt",
       "pitch": "Sinker"
     },
     "24": {
@@ -4618,6 +4630,12 @@
     }
   },
   "hou @ ath": {
+    "14": {
+      "player": "cam smith",
+      "pitcher": "jeffrey springs",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "13": {
       "player": "zach cole",
       "pitcher": "jeffrey springs",
