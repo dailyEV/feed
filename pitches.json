@@ -1233,8 +1233,8 @@
     "88": {
       "player": "bryson stott",
       "pitcher": "josh simpson",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "87": {
       "player": "weston wilson",
@@ -4026,11 +4026,17 @@
     }
   },
   "kc @ laa": {
+    "51": {
+      "player": "jo adell",
+      "pitcher": "john schreiber",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "50": {
       "player": "taylor ward",
       "pitcher": "john schreiber",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "49": {
       "player": "nolan schanuel",
@@ -4331,8 +4337,8 @@
     "49": {
       "player": "ben rortvedt",
       "pitcher": "john curtiss",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "andy pages",
@@ -5216,6 +5222,12 @@
     }
   },
   "stl @ sf": {
+    "46": {
+      "player": "bryce eldridge",
+      "pitcher": "jorge alcala",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "45": {
       "player": "matt chapman",
       "pitcher": "jorge alcala",
@@ -5488,6 +5500,18 @@
     }
   },
   "hou @ ath": {
+    "37": {
+      "player": "jose altuve",
+      "pitcher": "jeffrey springs",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "36": {
+      "player": "mauricio dubon",
+      "pitcher": "jeffrey springs",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "35": {
       "player": "carlos cortes",
       "pitcher": "cristian javier",
