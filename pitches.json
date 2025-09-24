@@ -1048,7 +1048,7 @@
       "player": "riley greene",
       "pitcher": "tanner bibee",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Cutter"
     },
     "8": {
       "player": "spencer torkelson",
@@ -1103,8 +1103,8 @@
     "27": {
       "player": "tommy pham",
       "pitcher": "hunter greene",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "andrew mccutchen",
@@ -1267,7 +1267,7 @@
     "22": {
       "player": "kyle schwarber",
       "pitcher": "ryan weathers",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "21": {
@@ -1401,8 +1401,8 @@
     "10": {
       "player": "miguel vargas",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "9": {
       "player": "paul goldschmidt",
@@ -1460,6 +1460,12 @@
     }
   },
   "bos @ tor": {
+    "14": {
+      "player": "jarren duran",
+      "pitcher": "max scherzer",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "13": {
       "player": "carlos narvaez",
       "pitcher": "max scherzer",
