@@ -449,8 +449,8 @@
     "70": {
       "player": "jackson chourio",
       "pitcher": "jeremiah estrada",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "69": {
       "player": "christian yelich",
@@ -862,6 +862,12 @@
     }
   },
   "tb @ bal": {
+    "9": {
+      "player": "tyler oneill",
+      "pitcher": "shane baz",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "8": {
       "player": "gunnar henderson",
       "pitcher": "shane baz",
@@ -945,10 +951,16 @@
     }
   },
   "mia @ phi": {
+    "3": {
+      "player": "heriberto hernandez",
+      "pitcher": "jesus luzardo",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "2": {
       "player": "agustin ramirez",
       "pitcher": "jesus luzardo",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "1": {
