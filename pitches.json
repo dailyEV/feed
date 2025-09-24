@@ -1556,12 +1556,6 @@
     }
   },
   "chw @ nyy": {
-    "72": {
-      "player": "austin wells",
-      "pitcher": "brandon eisert",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "71": {
       "player": "anthony volpe",
       "pitcher": "brandon eisert",
@@ -1988,7 +1982,7 @@
       "player": "carlos narvaez",
       "pitcher": "mason fluharty",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Cutter"
     },
     "69": {
       "player": "joey loperfido",
@@ -3184,11 +3178,17 @@
     }
   },
   "min @ tex": {
+    "45": {
+      "player": "brooks lee",
+      "pitcher": "hoby milner",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "44": {
       "player": "carson mccusker",
       "pitcher": "hoby milner",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "43": {
       "player": "michael helman",
@@ -3453,7 +3453,7 @@
     "4": {
       "player": "salvador perez",
       "pitcher": "sam aldegheri",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "3": {
@@ -3505,8 +3505,8 @@
     "2": {
       "player": "hunter goodman",
       "pitcher": "bryce miller",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "1": {
       "player": "mickey moniak",
@@ -3519,7 +3519,7 @@
     "3": {
       "player": "brice turang",
       "pitcher": "randy vasquez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "2": {
@@ -3539,8 +3539,8 @@
     "1": {
       "player": "brendan donovan",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     }
   },
   "hou @ ath": {}
