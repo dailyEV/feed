@@ -1232,9 +1232,9 @@
   "mia @ phi": {
     "68": {
       "player": "max kepler",
-      "pitcher": "calvin faucher",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "pitcher": "michael petersen",
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "67": {
       "player": "rafael marchan",
@@ -3837,8 +3837,8 @@
     "26": {
       "player": "adam frazier",
       "pitcher": "sam aldegheri",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "25": {
       "player": "mike trout",
@@ -4144,6 +4144,12 @@
     }
   },
   "col @ sea": {
+    "24": {
+      "player": "ezequiel tovar",
+      "pitcher": "bryce miller",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "jordan beck",
       "pitcher": "bryce miller",
@@ -4287,8 +4293,8 @@
     "25": {
       "player": "ramon laureano",
       "pitcher": "bruce zimmermann",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "24": {
       "player": "brice turang",
@@ -4439,8 +4445,8 @@
     "25": {
       "player": "heliot ramos",
       "pitcher": "andre pallante",
-      "result": "Foul Tip",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Knuckle Curve"
     },
     "24": {
       "player": "drew gilbert",
@@ -4591,7 +4597,7 @@
     "12": {
       "player": "jake meyers",
       "pitcher": "jeffrey springs",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "11": {
