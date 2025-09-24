@@ -1,11 +1,5 @@
 {
   "tb @ bal": {
-    "38": {
-      "player": "gunnar henderson",
-      "pitcher": "ian seymour",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "37": {
       "player": "jordan westburg",
       "pitcher": "ian seymour",
@@ -643,7 +637,7 @@
     "67": {
       "player": "spencer steer",
       "pitcher": "dennis santana",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "66": {
@@ -1765,8 +1759,8 @@
     "55": {
       "player": "ernie clement",
       "pitcher": "justin wilson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "54": {
       "player": "andres gimenez",
@@ -2097,8 +2091,8 @@
     "59": {
       "player": "james wood",
       "pitcher": "dylan lee",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "58": {
       "player": "matt olson",
@@ -2734,6 +2728,12 @@
     }
   },
   "min @ tex": {
+    "28": {
+      "player": "carson mccusker",
+      "pitcher": "patrick corbin",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "27": {
       "player": "jake burger",
       "pitcher": "zebby matthews",
