@@ -3651,7 +3651,7 @@
     "13": {
       "player": "tyler tolbert",
       "pitcher": "sam aldegheri",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "12": {
@@ -3731,8 +3731,8 @@
     "13": {
       "player": "blaze alexander",
       "pitcher": "shohei ohtani",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "gabriel moreno",
@@ -4035,5 +4035,12 @@
       "pitch": "Sinker"
     }
   },
-  "hou @ ath": {}
+  "hou @ ath": {
+    "1": {
+      "player": "jose altuve",
+      "pitcher": "jeffrey springs",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  }
 }
