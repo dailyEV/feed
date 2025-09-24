@@ -883,7 +883,7 @@
     "33": {
       "player": "samuel basallo",
       "pitcher": "shane baz",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Changeup"
     },
     "32": {
@@ -1080,6 +1080,12 @@
     }
   },
   "det @ cle": {
+    "15": {
+      "player": "zach mckinstry",
+      "pitcher": "tanner bibee",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "14": {
       "player": "cj kayfus",
       "pitcher": "jack flaherty",
@@ -1366,11 +1372,17 @@
     }
   },
   "mia @ phi": {
+    "31": {
+      "player": "bryson stott",
+      "pitcher": "ryan weathers",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "30": {
       "player": "weston wilson",
       "pitcher": "ryan weathers",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "edmundo sosa",
@@ -1551,8 +1563,8 @@
     "16": {
       "player": "jazz chisholm",
       "pitcher": "jonathan cannon",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "15": {
       "player": "michael a taylor",
