@@ -3,7 +3,7 @@
     "51": {
       "player": "josh lowe",
       "pitcher": "jose castillo",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "50": {
@@ -3434,6 +3434,12 @@
     }
   },
   "lad @ ari": {
+    "3": {
+      "player": "freddie freeman",
+      "pitcher": "brandon pfaadt",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "mookie betts",
       "pitcher": "brandon pfaadt",
@@ -3448,19 +3454,31 @@
     }
   },
   "col @ sea": {
+    "2": {
+      "player": "hunter goodman",
+      "pitcher": "bryce miller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "mickey moniak",
       "pitcher": "bryce miller",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     }
   },
   "mil @ sd": {
+    "2": {
+      "player": "jackson chourio",
+      "pitcher": "randy vasquez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "christian yelich",
       "pitcher": "randy vasquez",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     }
   },
   "stl @ sf": {},
