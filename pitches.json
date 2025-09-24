@@ -1,5 +1,11 @@
 {
   "tb @ bal": {
+    "60": {
+      "player": "chandler simpson",
+      "pitcher": "colin selby",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "bob seymour",
       "pitcher": "colin selby",
@@ -1595,7 +1601,7 @@
     "76": {
       "player": "jose caballero",
       "pitcher": "steven wilson",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Sweeper"
     },
     "75": {
@@ -3314,7 +3320,7 @@
       "player": "ryan jeffers",
       "pitcher": "cole winn",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "49": {
       "player": "austin martin",
@@ -3615,7 +3621,7 @@
     "11": {
       "player": "jo adell",
       "pitcher": "cole ragans",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -3680,12 +3686,6 @@
     }
   },
   "lad @ ari": {
-    "11": {
-      "player": "andy pages",
-      "pitcher": "brandon pfaadt",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
     "10": {
       "player": "tommy edman",
       "pitcher": "brandon pfaadt",
@@ -3851,8 +3851,8 @@
     "9": {
       "player": "rafael devers",
       "pitcher": "andre pallante",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "8": {
       "player": "heliot ramos",
