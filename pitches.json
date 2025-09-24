@@ -880,6 +880,12 @@
     }
   },
   "tb @ bal": {
+    "27": {
+      "player": "jordan westburg",
+      "pitcher": "shane baz",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "26": {
       "player": "dylan beavers",
       "pitcher": "shane baz",
@@ -1038,11 +1044,17 @@
     }
   },
   "det @ cle": {
-    "8": {
-      "player": "spencer torkelson",
+    "9": {
+      "player": "riley greene",
       "pitcher": "tanner bibee",
       "result": "Ball",
       "pitch": "Cutter"
+    },
+    "8": {
+      "player": "spencer torkelson",
+      "pitcher": "tanner bibee",
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "kyle manzardo",
@@ -1246,11 +1258,17 @@
     }
   },
   "mia @ phi": {
+    "22": {
+      "player": "kyle schwarber",
+      "pitcher": "ryan weathers",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "21": {
       "player": "harrison bader",
       "pitcher": "ryan weathers",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "agustin ramirez",
