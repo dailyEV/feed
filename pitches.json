@@ -1,5 +1,11 @@
 {
   "tb @ bal": {
+    "43": {
+      "player": "dylan beavers",
+      "pitcher": "ian seymour",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "42": {
       "player": "yandy diaz",
       "pitcher": "dean kremer",
@@ -1080,10 +1086,16 @@
     }
   },
   "mia @ phi": {
+    "68": {
+      "player": "max kepler",
+      "pitcher": "calvin faucher",
+      "result": "Foul Bunt",
+      "pitch": "Curveball"
+    },
     "67": {
       "player": "rafael marchan",
       "pitcher": "calvin faucher",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Cutter"
     },
     "66": {
@@ -1846,6 +1858,12 @@
     }
   },
   "bos @ tor": {
+    "60": {
+      "player": "daulton varsho",
+      "pitcher": "garrett whitlock",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "59": {
       "player": "masataka yoshida",
       "pitcher": "louis varland",
@@ -2598,7 +2616,7 @@
       "player": "starling marte",
       "pitcher": "taylor rogers",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "49": {
       "player": "brett baty",
