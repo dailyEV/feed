@@ -883,7 +883,7 @@
     "22": {
       "player": "richie palacios",
       "pitcher": "tyler wells",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "21": {
@@ -1034,11 +1034,17 @@
     }
   },
   "pit @ cin": {
+    "21": {
+      "player": "tj friedl",
+      "pitcher": "paul skenes",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "matt mclain",
       "pitcher": "paul skenes",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "will benson",
@@ -1156,6 +1162,12 @@
     }
   },
   "mia @ phi": {
+    "16": {
+      "player": "bryson stott",
+      "pitcher": "ryan weathers",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "weston wilson",
       "pitcher": "ryan weathers",
@@ -1283,7 +1295,7 @@
     "8": {
       "player": "wilyer abreu",
       "pitcher": "max scherzer",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "7": {
