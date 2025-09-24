@@ -3,8 +3,8 @@
     "58": {
       "player": "carson williams",
       "pitcher": "colin selby",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "57": {
       "player": "dylan beavers",
@@ -2035,7 +2035,7 @@
     "73": {
       "player": "isiah kiner falefa",
       "pitcher": "aroldis chapman",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "72": {
@@ -3582,6 +3582,18 @@
     }
   },
   "kc @ laa": {
+    "10": {
+      "player": "taylor ward",
+      "pitcher": "cole ragans",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
+    "9": {
+      "player": "nolan schanuel",
+      "pitcher": "cole ragans",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "mike trout",
       "pitcher": "cole ragans",
@@ -3632,6 +3644,12 @@
     }
   },
   "lad @ ari": {
+    "10": {
+      "player": "tommy edman",
+      "pitcher": "brandon pfaadt",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "michael conforto",
       "pitcher": "brandon pfaadt",
@@ -3735,7 +3753,7 @@
     "9": {
       "player": "ryan ohearn",
       "pitcher": "bruce zimmermann",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "8": {
@@ -3788,6 +3806,12 @@
     }
   },
   "stl @ sf": {
+    "8": {
+      "player": "heliot ramos",
+      "pitcher": "andre pallante",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "jimmy crooks",
       "pitcher": "logan webb",
