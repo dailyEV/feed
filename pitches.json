@@ -1230,6 +1230,12 @@
     }
   },
   "mia @ phi": {
+    "87": {
+      "player": "weston wilson",
+      "pitcher": "josh simpson",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "86": {
       "player": "max kepler",
       "pitcher": "josh simpson",
@@ -4585,7 +4591,7 @@
     "45": {
       "player": "julio rodriguez",
       "pitcher": "jaden hill",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "44": {
@@ -4854,6 +4860,12 @@
     }
   },
   "mil @ sd": {
+    "51": {
+      "player": "sal frelick",
+      "pitcher": "randy vasquez",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "50": {
       "player": "william contreras",
       "pitcher": "randy vasquez",
@@ -5156,6 +5168,12 @@
     }
   },
   "stl @ sf": {
+    "44": {
+      "player": "nolan arenado",
+      "pitcher": "logan webb",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "43": {
       "player": "alec burleson",
       "pitcher": "logan webb",
@@ -5419,8 +5437,8 @@
     "35": {
       "player": "carlos cortes",
       "pitcher": "cristian javier",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "darell hernaiz",
