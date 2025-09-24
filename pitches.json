@@ -598,11 +598,17 @@
     }
   },
   "pit @ cin": {
+    "66": {
+      "player": "alexander canario",
+      "pitcher": "scott barlow",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "65": {
       "player": "nick yorke",
       "pitcher": "scott barlow",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "64": {
       "player": "jack suwinski",
@@ -993,8 +999,8 @@
     "61": {
       "player": "brandon marsh",
       "pitcher": "valente bellozo",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "60": {
       "player": "alec bohm",
@@ -1358,6 +1364,12 @@
     }
   },
   "chw @ nyy": {
+    "55": {
+      "player": "austin wells",
+      "pitcher": "jordan leasure",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "54": {
       "player": "chase meidroth",
       "pitcher": "fernando cruz",
@@ -2605,8 +2617,8 @@
     "25": {
       "player": "wyatt langford",
       "pitcher": "zebby matthews",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "24": {
       "player": "joc pederson",
