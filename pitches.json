@@ -3,7 +3,7 @@
     "23": {
       "player": "chandler simpson",
       "pitcher": "dean kremer",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Splitter"
     },
     "22": {
@@ -143,8 +143,8 @@
     "56": {
       "player": "daniel schneemann",
       "pitcher": "kyle finnegan",
-      "result": "In play, run(s)",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "55": {
       "player": "steven kwan",
@@ -478,6 +478,12 @@
     }
   },
   "pit @ cin": {
+    "54": {
+      "player": "will benson",
+      "pitcher": "justin lawrence",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "53": {
       "player": "oneil cruz",
       "pitcher": "connor phillips",
@@ -1632,11 +1638,17 @@
     }
   },
   "wsh @ atl": {
+    "46": {
+      "player": "matt olson",
+      "pitcher": "brad lord",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "45": {
       "player": "jurickson profar",
       "pitcher": "brad lord",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "riley adams",
@@ -2092,12 +2104,6 @@
     }
   },
   "min @ tex": {
-    "15": {
-      "player": "cody freeman",
-      "pitcher": "zebby matthews",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "14": {
       "player": "kyle higashioka",
       "pitcher": "zebby matthews",
