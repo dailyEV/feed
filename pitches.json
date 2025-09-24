@@ -3415,8 +3415,8 @@
     "60": {
       "player": "cody freeman",
       "pitcher": "zebby matthews",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "59": {
       "player": "kyle higashioka",
@@ -3774,11 +3774,17 @@
     }
   },
   "kc @ laa": {
+    "22": {
+      "player": "randal grichuk",
+      "pitcher": "sam aldegheri",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "mike yastrzemski",
       "pitcher": "sam aldegheri",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "salvador perez",
@@ -4033,8 +4039,8 @@
     "18": {
       "player": "hunter goodman",
       "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "17": {
       "player": "mickey moniak",
@@ -4262,6 +4268,12 @@
     }
   },
   "stl @ sf": {
+    "21": {
+      "player": "thomas saggese",
+      "pitcher": "logan webb",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "lars nootbaar",
       "pitcher": "logan webb",
@@ -4388,7 +4400,7 @@
       "player": "jacob wilson",
       "pitcher": "cristian javier",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "brent rooker",
