@@ -4666,6 +4666,12 @@
     }
   },
   "col @ sea": {
+    "50": {
+      "player": "jorge polanco",
+      "pitcher": "jimmy herget",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "49": {
       "player": "ryan ritter",
       "pitcher": "carlos vargas",
@@ -4962,10 +4968,16 @@
     }
   },
   "mil @ sd": {
+    "57": {
+      "player": "blake perkins",
+      "pitcher": "wandy peralta",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "56": {
       "player": "rhys hoskins",
       "pitcher": "wandy peralta",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "55": {
@@ -5303,8 +5315,8 @@
     "50": {
       "player": "drew gilbert",
       "pitcher": "jorge alcala",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "49": {
       "player": "christian koss",
@@ -5605,8 +5617,8 @@
     "40": {
       "player": "nick kurtz",
       "pitcher": "cristian javier",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "39": {
       "player": "brett harris",
