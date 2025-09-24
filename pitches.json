@@ -1,5 +1,11 @@
 {
   "tb @ bal": {
+    "39": {
+      "player": "tyler oneill",
+      "pitcher": "ian seymour",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "gunnar henderson",
       "pitcher": "ian seymour",
@@ -643,7 +649,7 @@
     "69": {
       "player": "matt mclain",
       "pitcher": "dennis santana",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "68": {
@@ -1056,11 +1062,17 @@
     }
   },
   "mia @ phi": {
+    "64": {
+      "player": "xavier edwards",
+      "pitcher": "jhoan duran",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "63": {
       "player": "heriberto hernandez",
       "pitcher": "jhoan duran",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "connor norby",
@@ -1439,7 +1451,7 @@
     "58": {
       "player": "kyle teel",
       "pitcher": "tim hill",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "57": {
@@ -2483,8 +2495,8 @@
     "47": {
       "player": "dansby swanson",
       "pitcher": "ryne stanek",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "michael busch",
@@ -2764,6 +2776,12 @@
     }
   },
   "min @ tex": {
+    "30": {
+      "player": "kody clemens",
+      "pitcher": "patrick corbin",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "brooks lee",
       "pitcher": "patrick corbin",
