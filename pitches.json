@@ -1,5 +1,11 @@
 {
   "tb @ bal": {
+    "25": {
+      "player": "brandon lowe",
+      "pitcher": "dean kremer",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "24": {
       "player": "yandy diaz",
       "pitcher": "dean kremer",
@@ -149,7 +155,7 @@
     "57": {
       "player": "jose ramirez",
       "pitcher": "kyle finnegan",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Splitter"
     },
     "56": {
@@ -493,7 +499,7 @@
     "54": {
       "player": "will benson",
       "pitcher": "justin lawrence",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "53": {
@@ -1656,10 +1662,16 @@
     }
   },
   "wsh @ atl": {
+    "47": {
+      "player": "ronald acuna",
+      "pitcher": "brad lord",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "matt olson",
       "pitcher": "brad lord",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -1937,8 +1949,8 @@
     "32": {
       "player": "matt shaw",
       "pitcher": "huascar brazoban",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "brett baty",
