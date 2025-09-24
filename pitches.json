@@ -3,8 +3,8 @@
     "62": {
       "player": "samuel basallo",
       "pitcher": "ian seymour",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "61": {
       "player": "adley rutschman",
@@ -3334,6 +3334,12 @@
     }
   },
   "min @ tex": {
+    "51": {
+      "player": "alejandro osuna",
+      "pitcher": "zebby matthews",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "50": {
       "player": "ryan jeffers",
       "pitcher": "cole winn",
@@ -3639,7 +3645,7 @@
     "12": {
       "player": "carter jensen",
       "pitcher": "sam aldegheri",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "11": {
@@ -3713,7 +3719,7 @@
     "12": {
       "player": "gabriel moreno",
       "pitcher": "shohei ohtani",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "11": {
@@ -3914,6 +3920,18 @@
     }
   },
   "stl @ sf": {
+    "12": {
+      "player": "victor scott",
+      "pitcher": "logan webb",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
+    "11": {
+      "player": "jordan walker",
+      "pitcher": "logan webb",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "10": {
       "player": "willy adames",
       "pitcher": "andre pallante",
