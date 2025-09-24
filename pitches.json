@@ -1011,8 +1011,8 @@
     "2": {
       "player": "gleyber torres",
       "pitcher": "tanner bibee",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "1": {
       "player": "parker meadows",
@@ -1126,11 +1126,17 @@
     }
   },
   "mia @ phi": {
+    "15": {
+      "player": "weston wilson",
+      "pitcher": "ryan weathers",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "14": {
       "player": "edmundo sosa",
       "pitcher": "ryan weathers",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "13": {
       "player": "joey wiemer",
@@ -1238,6 +1244,12 @@
     }
   },
   "bos @ tor": {
+    "7": {
+      "player": "nathaniel lowe",
+      "pitcher": "max scherzer",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "ceddanne rafaela",
       "pitcher": "max scherzer",
