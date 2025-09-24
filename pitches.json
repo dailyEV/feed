@@ -1987,8 +1987,8 @@
     "70": {
       "player": "carlos narvaez",
       "pitcher": "mason fluharty",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "69": {
       "player": "joey loperfido",
@@ -3526,11 +3526,17 @@
     }
   },
   "col @ sea": {
+    "3": {
+      "player": "blaine crim",
+      "pitcher": "bryce miller",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "hunter goodman",
       "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "1": {
       "player": "mickey moniak",
@@ -3543,8 +3549,8 @@
     "4": {
       "player": "william contreras",
       "pitcher": "randy vasquez",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "brice turang",
@@ -3566,6 +3572,12 @@
     }
   },
   "stl @ sf": {
+    "3": {
+      "player": "alec burleson",
+      "pitcher": "logan webb",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "ivan herrera",
       "pitcher": "logan webb",
