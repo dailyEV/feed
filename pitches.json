@@ -3,8 +3,8 @@
     "34": {
       "player": "colton cowser",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "33": {
       "player": "carson williams",
@@ -1364,10 +1364,16 @@
     }
   },
   "chw @ nyy": {
+    "56": {
+      "player": "trent grisham",
+      "pitcher": "jordan leasure",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "55": {
       "player": "austin wells",
       "pitcher": "jordan leasure",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -1690,6 +1696,12 @@
     }
   },
   "bos @ tor": {
+    "53": {
+      "player": "jarren duran",
+      "pitcher": "louis varland",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "52": {
       "player": "carlos narvaez",
       "pitcher": "kevin gausman",
@@ -2354,6 +2366,12 @@
     }
   },
   "nym @ chc": {
+    "45": {
+      "player": "carson kelly",
+      "pitcher": "ryne stanek",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "mark vientos",
       "pitcher": "taylor rogers",
@@ -2620,11 +2638,17 @@
     }
   },
   "min @ tex": {
+    "26": {
+      "player": "alejandro osuna",
+      "pitcher": "zebby matthews",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "wyatt langford",
       "pitcher": "zebby matthews",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "24": {
       "player": "joc pederson",
