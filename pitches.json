@@ -1053,8 +1053,8 @@
     "10": {
       "player": "wenceel perez",
       "pitcher": "tanner bibee",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "9": {
       "player": "riley greene",
@@ -1279,8 +1279,8 @@
     "23": {
       "player": "alec bohm",
       "pitcher": "ryan weathers",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "22": {
       "player": "kyle schwarber",
@@ -1484,11 +1484,17 @@
     }
   },
   "bos @ tor": {
+    "16": {
+      "player": "alex bregman",
+      "pitcher": "max scherzer",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "trevor story",
       "pitcher": "max scherzer",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "jarren duran",
