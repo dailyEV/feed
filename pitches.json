@@ -1,10 +1,16 @@
 {
   "tb @ bal": {
+    "56": {
+      "player": "tyler oneill",
+      "pitcher": "ian seymour",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "55": {
       "player": "gunnar henderson",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "54": {
       "player": "jordan westburg",
@@ -1568,6 +1574,12 @@
     }
   },
   "chw @ nyy": {
+    "75": {
+      "player": "cody bellinger",
+      "pitcher": "brandon eisert",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "73": {
       "player": "trent grisham",
       "pitcher": "brandon eisert",
@@ -3229,7 +3241,7 @@
     "46": {
       "player": "kody clemens",
       "pitcher": "hoby milner",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "45": {
@@ -3545,8 +3557,8 @@
     "6": {
       "player": "ketel marte",
       "pitcher": "shohei ohtani",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "geraldo perdomo",
@@ -3609,8 +3621,8 @@
     "6": {
       "player": "xander bogaerts",
       "pitcher": "bruce zimmermann",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "5": {
       "player": "luis arraez",
