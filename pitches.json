@@ -1,11 +1,5 @@
 {
   "tb @ bal": {
-    "60": {
-      "player": "chandler simpson",
-      "pitcher": "colin selby",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "59": {
       "player": "bob seymour",
       "pitcher": "colin selby",
@@ -2044,6 +2038,12 @@
     }
   },
   "bos @ tor": {
+    "75": {
+      "player": "george springer",
+      "pitcher": "aroldis chapman",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "74": {
       "player": "ernie clement",
       "pitcher": "aroldis chapman",
@@ -2906,6 +2906,12 @@
     }
   },
   "nym @ chc": {
+    "67": {
+      "player": "matt shaw",
+      "pitcher": "tyler rogers",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "66": {
       "player": "justin turner",
       "pitcher": "tyler rogers",
@@ -3307,8 +3313,8 @@
     "50": {
       "player": "ryan jeffers",
       "pitcher": "cole winn",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "austin martin",
@@ -3674,10 +3680,16 @@
     }
   },
   "lad @ ari": {
+    "11": {
+      "player": "andy pages",
+      "pitcher": "brandon pfaadt",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "10": {
       "player": "tommy edman",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "Curveball"
     },
     "9": {
