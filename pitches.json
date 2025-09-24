@@ -1469,8 +1469,8 @@
     "61": {
       "player": "edgar quero",
       "pitcher": "luke weaver",
-      "result": "Ball In Dirt",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "60": {
       "player": "miguel vargas",
@@ -1828,10 +1828,16 @@
     }
   },
   "bos @ tor": {
+    "59": {
+      "player": "masataka yoshida",
+      "pitcher": "louis varland",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "58": {
       "player": "alex bregman",
       "pitcher": "louis varland",
-      "result": "In play, no out",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -2178,6 +2184,12 @@
     }
   },
   "wsh @ atl": {
+    "63": {
+      "player": "ronald acuna",
+      "pitcher": "julian fernandez",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "luis garcia",
       "pitcher": "dylan lee",
@@ -2845,8 +2857,8 @@
     "32": {
       "player": "byron buxton",
       "pitcher": "jacob webb",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "christian vazquez",
