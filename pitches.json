@@ -161,7 +161,7 @@
     "59": {
       "player": "gleyber torres",
       "pitcher": "hunter gaddis",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -1184,12 +1184,6 @@
     }
   },
   "chw @ nyy": {
-    "48": {
-      "player": "jazz chisholm",
-      "pitcher": "tyler gilbert",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "47": {
       "player": "brooks baldwin",
       "pitcher": "luis gil",
@@ -1471,7 +1465,7 @@
     "46": {
       "player": "davis schneider",
       "pitcher": "justin wilson",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "45": {
@@ -1746,11 +1740,17 @@
     }
   },
   "wsh @ atl": {
-    "50": {
-      "player": "brady house",
+    "51": {
+      "player": "jacob young",
       "pitcher": "joel payamps",
       "result": "Foul",
       "pitch": "Sinker"
+    },
+    "50": {
+      "player": "brady house",
+      "pitcher": "joel payamps",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "49": {
       "player": "ha seong kim",
