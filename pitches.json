@@ -179,8 +179,8 @@
     "61": {
       "player": "spencer torkelson",
       "pitcher": "hunter gaddis",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "60": {
       "player": "kerry carpenter",
@@ -547,8 +547,8 @@
     "60": {
       "player": "nick gonzales",
       "pitcher": "graham ashcraft",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "59": {
       "player": "spencer horwitz",
@@ -1543,7 +1543,7 @@
     "48": {
       "player": "romy gonzalez",
       "pitcher": "kevin gausman",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -2144,6 +2144,12 @@
     }
   },
   "nym @ chc": {
+    "38": {
+      "player": "jeff mcneil",
+      "pitcher": "michael soroka",
+      "result": "Ball",
+      "pitch": "Slurve"
+    },
     "37": {
       "player": "starling marte",
       "pitcher": "michael soroka",
