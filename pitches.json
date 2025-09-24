@@ -1233,7 +1233,7 @@
     "74": {
       "player": "jakob marsee",
       "pitcher": "orion kerkering",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "73": {
@@ -3492,7 +3492,7 @@
   "min @ tex": {
     "71": {
       "player": "royce lewis",
-      "pitcher": "danny coulombe",
+      "pitcher": "chris martin",
       "result": "Ball In Dirt",
       "pitch": "Sweeper"
     },
@@ -4128,7 +4128,7 @@
       "player": "ildemaro vargas",
       "pitcher": "shohei ohtani",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "32": {
       "player": "ben rortvedt",
@@ -4324,6 +4324,12 @@
     }
   },
   "col @ sea": {
+    "32": {
+      "player": "ryan ritter",
+      "pitcher": "bryce miller",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "31": {
       "player": "kyle farmer",
       "pitcher": "bryce miller",
@@ -4903,8 +4909,8 @@
     "20": {
       "player": "carlos correa",
       "pitcher": "jeffrey springs",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "19": {
       "player": "jose altuve",
