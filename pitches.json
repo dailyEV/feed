@@ -1233,7 +1233,7 @@
     "80": {
       "player": "nick castellanos",
       "pitcher": "josh simpson",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "79": {
@@ -3523,8 +3523,8 @@
     "73": {
       "player": "brooks lee",
       "pitcher": "chris martin",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "72": {
       "player": "james outman",
@@ -3963,8 +3963,8 @@
     "41": {
       "player": "denzer guzman",
       "pitcher": "cole ragans",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Knuckle Curve"
     },
     "40": {
       "player": "christian moore",
@@ -4677,8 +4677,8 @@
     "41": {
       "player": "ryan ohearn",
       "pitcher": "bruce zimmermann",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "40": {
       "player": "ramon laureano",
@@ -4925,8 +4925,8 @@
     "37": {
       "player": "drew gilbert",
       "pitcher": "john king",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "christian koss",
@@ -5146,6 +5146,12 @@
     }
   },
   "hou @ ath": {
+    "27": {
+      "player": "brent rooker",
+      "pitcher": "cristian javier",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "26": {
       "player": "tyler soderstrom",
       "pitcher": "cristian javier",
@@ -5263,7 +5269,7 @@
     "7": {
       "player": "brent rooker",
       "pitcher": "cristian javier",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "Sweeper"
     },
     "6": {
