@@ -2930,6 +2930,12 @@
     }
   },
   "nym @ chc": {
+    "69": {
+      "player": "brett baty",
+      "pitcher": "caleb thielbar",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "68": {
       "player": "pete crow armstrong",
       "pitcher": "brooks raley",
@@ -3343,8 +3349,8 @@
     "52": {
       "player": "jake burger",
       "pitcher": "zebby matthews",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "51": {
       "player": "alejandro osuna",
@@ -3657,7 +3663,7 @@
     "14": {
       "player": "maikel garcia",
       "pitcher": "sam aldegheri",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "13": {
@@ -3829,8 +3835,8 @@
     "11": {
       "player": "kyle karros",
       "pitcher": "bryce miller",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "10": {
       "player": "brenton doyle",
@@ -4066,11 +4072,17 @@
     }
   },
   "hou @ ath": {
+    "2": {
+      "player": "carlos correa",
+      "pitcher": "jeffrey springs",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "jose altuve",
       "pitcher": "jeffrey springs",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     }
   }
 }
