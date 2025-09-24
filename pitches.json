@@ -2783,7 +2783,7 @@
     "58": {
       "player": "ian happ",
       "pitcher": "tyler rogers",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "57": {
@@ -3407,12 +3407,19 @@
     "1": {
       "player": "shohei ohtani",
       "pitcher": "brandon pfaadt",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Curveball"
     }
   },
   "col @ sea": {},
-  "mil @ sd": {},
+  "mil @ sd": {
+    "1": {
+      "player": "christian yelich",
+      "pitcher": "randy vasquez",
+      "result": "Ball",
+      "pitch": "Cutter"
+    }
+  },
   "stl @ sf": {},
   "hou @ ath": {}
 }
