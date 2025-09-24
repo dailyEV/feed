@@ -449,7 +449,7 @@
     "66": {
       "player": "xander bogaerts",
       "pitcher": "jared koenig",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "65": {
@@ -858,7 +858,14 @@
     }
   },
   "det @ cle": {},
-  "pit @ cin": {},
+  "pit @ cin": {
+    "1": {
+      "player": "oneil cruz",
+      "pitcher": "hunter greene",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "mia @ phi": {},
   "chw @ nyy": {},
   "bos @ tor": {},
