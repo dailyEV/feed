@@ -449,8 +449,8 @@
     "70": {
       "player": "jackson chourio",
       "pitcher": "jeremiah estrada",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "69": {
       "player": "christian yelich",
@@ -919,11 +919,17 @@
   },
   "det @ cle": {},
   "pit @ cin": {
+    "6": {
+      "player": "gavin lux",
+      "pitcher": "paul skenes",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "noelvi marte",
       "pitcher": "paul skenes",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "tj friedl",
