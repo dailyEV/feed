@@ -880,11 +880,17 @@
     }
   },
   "tb @ bal": {
+    "32": {
+      "player": "tyler oneill",
+      "pitcher": "shane baz",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "31": {
       "player": "gunnar henderson",
       "pitcher": "shane baz",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "chandler simpson",
@@ -1068,12 +1074,6 @@
     }
   },
   "det @ cle": {
-    "14": {
-      "player": "cj kayfus",
-      "pitcher": "jack flaherty",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
-    },
     "13": {
       "player": "daniel schneemann",
       "pitcher": "jack flaherty",
@@ -1342,6 +1342,12 @@
     }
   },
   "mia @ phi": {
+    "28": {
+      "player": "otto kemp",
+      "pitcher": "ryan weathers",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "27": {
       "player": "xavier edwards",
       "pitcher": "jesus luzardo",
@@ -1509,8 +1515,8 @@
     "15": {
       "player": "michael a taylor",
       "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "brooks baldwin",
@@ -1598,6 +1604,12 @@
     }
   },
   "bos @ tor": {
+    "20": {
+      "player": "masataka yoshida",
+      "pitcher": "max scherzer",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "19": {
       "player": "daulton varsho",
       "pitcher": "garrett crochet",
