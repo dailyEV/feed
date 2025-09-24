@@ -3914,6 +3914,12 @@
     }
   },
   "lad @ ari": {
+    "22": {
+      "player": "freddie freeman",
+      "pitcher": "brandon pfaadt",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "21": {
       "player": "geraldo perdomo",
       "pitcher": "shohei ohtani",
@@ -4045,8 +4051,8 @@
     "19": {
       "player": "blaine crim",
       "pitcher": "bryce miller",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "hunter goodman",
@@ -4158,11 +4164,17 @@
     }
   },
   "mil @ sd": {
+    "23": {
+      "player": "jackson chourio",
+      "pitcher": "randy vasquez",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "22": {
       "player": "christian yelich",
       "pitcher": "randy vasquez",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "21": {
       "player": "joey ortiz",
@@ -4295,8 +4307,8 @@
     "21": {
       "player": "thomas saggese",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "lars nootbaar",
@@ -4423,8 +4435,8 @@
     "9": {
       "player": "lawrence butler",
       "pitcher": "cristian javier",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "8": {
       "player": "jacob wilson",
