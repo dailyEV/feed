@@ -1,5 +1,11 @@
 {
   "tb @ bal": {
+    "33": {
+      "player": "carson williams",
+      "pitcher": "dean kremer",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "32": {
       "player": "hunter feduccia",
       "pitcher": "dean kremer",
@@ -580,11 +586,17 @@
     }
   },
   "pit @ cin": {
+    "63": {
+      "player": "miguel andujar",
+      "pitcher": "isaac mattson",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "noelvi marte",
       "pitcher": "isaac mattson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "61": {
       "player": "tj friedl",
@@ -2521,8 +2533,8 @@
     "24": {
       "player": "joc pederson",
       "pitcher": "zebby matthews",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "23": {
       "player": "ezequiel duran",
