@@ -4029,7 +4029,7 @@
     "61": {
       "player": "john rave",
       "pitcher": "jose urena",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "60": {
@@ -4732,6 +4732,12 @@
     }
   },
   "col @ sea": {
+    "56": {
+      "player": "jordan beck",
+      "pitcher": "gabe speier",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "55": {
       "player": "blaine crim",
       "pitcher": "gabe speier",
@@ -5067,8 +5073,8 @@
     "64": {
       "player": "freddy fermin",
       "pitcher": "tobias myers",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "63": {
       "player": "bryce johnson",
@@ -5453,8 +5459,8 @@
     "56": {
       "player": "willy adames",
       "pitcher": "chris roycroft",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "55": {
       "player": "rafael devers",
@@ -5792,7 +5798,7 @@
       "player": "isaac paredes",
       "pitcher": "tyler ferguson",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "45": {
       "player": "lawrence butler",
