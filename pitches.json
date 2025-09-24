@@ -1945,8 +1945,8 @@
     "67": {
       "player": "alejandro kirk",
       "pitcher": "justin slaten",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "66": {
       "player": "rob refsnyder",
@@ -3109,8 +3109,8 @@
     "41": {
       "player": "ezequiel duran",
       "pitcher": "zebby matthews",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "40": {
       "player": "royce lewis",
@@ -3353,7 +3353,14 @@
       "pitch": "Cutter"
     }
   },
-  "kc @ laa": {},
+  "kc @ laa": {
+    "1": {
+      "player": "maikel garcia",
+      "pitcher": "sam aldegheri",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "lad @ ari": {},
   "col @ sea": {},
   "mil @ sd": {},
