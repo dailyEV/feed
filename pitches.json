@@ -1233,7 +1233,7 @@
     "84": {
       "player": "eric wagaman",
       "pitcher": "lou trivino",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "83": {
@@ -4002,6 +4002,12 @@
     }
   },
   "kc @ laa": {
+    "45": {
+      "player": "carter jensen",
+      "pitcher": "sam bachman",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "adam frazier",
       "pitcher": "sam bachman",
@@ -4268,6 +4274,12 @@
     }
   },
   "lad @ ari": {
+    "44": {
+      "player": "ketel marte",
+      "pitcher": "shohei ohtani",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "geraldo perdomo",
       "pitcher": "shohei ohtani",
@@ -4776,11 +4788,17 @@
     }
   },
   "mil @ sd": {
+    "46": {
+      "player": "bryce johnson",
+      "pitcher": "bruce zimmermann",
+      "result": "In play, no out",
+      "pitch": "Splitter"
+    },
     "45": {
       "player": "jose iglesias",
       "pitcher": "bruce zimmermann",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "44": {
       "player": "brice turang",
@@ -5048,6 +5066,12 @@
     }
   },
   "stl @ sf": {
+    "41": {
+      "player": "brendan donovan",
+      "pitcher": "logan webb",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "40": {
       "player": "willy adames",
       "pitcher": "jorge alcala",
