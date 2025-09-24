@@ -1,5 +1,11 @@
 {
   "tb @ bal": {
+    "31": {
+      "player": "jake mangum",
+      "pitcher": "dean kremer",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "30": {
       "player": "josh lowe",
       "pitcher": "dean kremer",
@@ -185,8 +191,8 @@
     "63": {
       "player": "gabriel arias",
       "pitcher": "brant hurter",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "62": {
       "player": "george valera",
@@ -565,8 +571,8 @@
     "61": {
       "player": "tj friedl",
       "pitcher": "isaac mattson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "60": {
       "player": "nick gonzales",
@@ -2210,11 +2216,17 @@
     }
   },
   "nym @ chc": {
+    "41": {
+      "player": "juan soto",
+      "pitcher": "michael soroka",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "40": {
       "player": "francisco lindor",
       "pitcher": "michael soroka",
-      "result": "Swinging Strike",
-      "pitch": "Slurve"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "39": {
       "player": "francisco alvarez",
