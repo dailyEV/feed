@@ -1233,7 +1233,7 @@
     "69": {
       "player": "weston wilson",
       "pitcher": "michael petersen",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "68": {
@@ -2963,8 +2963,8 @@
     "82": {
       "player": "michael busch",
       "pitcher": "edwin diaz",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "81": {
       "player": "carson kelly",
@@ -4183,7 +4183,7 @@
     "25": {
       "player": "brenton doyle",
       "pitcher": "bryce miller",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -4335,8 +4335,8 @@
     "27": {
       "player": "jose iglesias",
       "pitcher": "bruce zimmermann",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "26": {
       "player": "ryan ohearn",
@@ -4496,6 +4496,12 @@
     }
   },
   "stl @ sf": {
+    "26": {
+      "player": "rafael devers",
+      "pitcher": "andre pallante",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "heliot ramos",
       "pitcher": "andre pallante",
