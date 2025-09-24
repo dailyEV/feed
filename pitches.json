@@ -1065,8 +1065,8 @@
     "11": {
       "player": "bo naylor",
       "pitcher": "jack flaherty",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
     },
     "10": {
       "player": "wenceel perez",
@@ -1306,10 +1306,16 @@
     }
   },
   "mia @ phi": {
+    "27": {
+      "player": "xavier edwards",
+      "pitcher": "jesus luzardo",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "26": {
       "player": "connor norby",
       "pitcher": "jesus luzardo",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "25": {
@@ -1467,8 +1473,8 @@
     "14": {
       "player": "brooks baldwin",
       "pitcher": "max fried",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "corey julks",
@@ -1550,6 +1556,12 @@
     }
   },
   "bos @ tor": {
+    "18": {
+      "player": "davis schneider",
+      "pitcher": "garrett crochet",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "17": {
       "player": "anthony santander",
       "pitcher": "garrett crochet",
