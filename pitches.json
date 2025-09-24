@@ -3,8 +3,8 @@
     "27": {
       "player": "dylan beavers",
       "pitcher": "kevin kelly",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "26": {
       "player": "junior caminero",
@@ -1223,8 +1223,8 @@
     "49": {
       "player": "amed rosario",
       "pitcher": "tyler gilbert",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "jazz chisholm",
@@ -1513,7 +1513,7 @@
     "47": {
       "player": "masataka yoshida",
       "pitcher": "kevin gausman",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "46": {
@@ -1797,7 +1797,7 @@
     "52": {
       "player": "nasim nunez",
       "pitcher": "joel payamps",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "51": {
@@ -2111,8 +2111,8 @@
     "37": {
       "player": "starling marte",
       "pitcher": "michael soroka",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "seiya suzuki",
@@ -2332,6 +2332,12 @@
     }
   },
   "min @ tex": {
+    "20": {
+      "player": "ryan jeffers",
+      "pitcher": "patrick corbin",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
+    },
     "19": {
       "player": "austin martin",
       "pitcher": "patrick corbin",
