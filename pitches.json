@@ -2891,7 +2891,7 @@
     "65": {
       "player": "dansby swanson",
       "pitcher": "tyler rogers",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "64": {
@@ -3284,7 +3284,7 @@
       "player": "austin martin",
       "pitcher": "cole winn",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Splitter"
     },
     "48": {
       "player": "byron buxton",
@@ -3576,6 +3576,12 @@
     }
   },
   "kc @ laa": {
+    "8": {
+      "player": "mike trout",
+      "pitcher": "cole ragans",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "7": {
       "player": "adam frazier",
       "pitcher": "sam aldegheri",
@@ -3623,7 +3629,7 @@
     "8": {
       "player": "teoscar hernandez",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sweeper"
     },
     "7": {
@@ -3711,8 +3717,8 @@
     "8": {
       "player": "ramon laureano",
       "pitcher": "bruce zimmermann",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "7": {
       "player": "gavin sheets",
