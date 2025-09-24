@@ -3,8 +3,8 @@
     "23": {
       "player": "chandler simpson",
       "pitcher": "dean kremer",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "22": {
       "player": "tyler oneill",
@@ -143,8 +143,8 @@
     "56": {
       "player": "daniel schneemann",
       "pitcher": "kyle finnegan",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Splitter"
     },
     "55": {
       "player": "steven kwan",
@@ -478,12 +478,6 @@
     }
   },
   "pit @ cin": {
-    "54": {
-      "player": "will benson",
-      "pitcher": "justin lawrence",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "53": {
       "player": "oneil cruz",
       "pitcher": "connor phillips",
@@ -1112,10 +1106,16 @@
     }
   },
   "chw @ nyy": {
+    "44": {
+      "player": "colson montgomery",
+      "pitcher": "luis gil",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "kyle teel",
       "pitcher": "luis gil",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -1369,7 +1369,7 @@
     "44": {
       "player": "alejandro kirk",
       "pitcher": "lucas giolito",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -2092,6 +2092,12 @@
     }
   },
   "min @ tex": {
+    "15": {
+      "player": "cody freeman",
+      "pitcher": "zebby matthews",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "kyle higashioka",
       "pitcher": "zebby matthews",
