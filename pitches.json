@@ -4591,8 +4591,8 @@
     "45": {
       "player": "julio rodriguez",
       "pitcher": "jaden hill",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "cal raleigh",
@@ -4860,11 +4860,17 @@
     }
   },
   "mil @ sd": {
+    "52": {
+      "player": "caleb durbin",
+      "pitcher": "randy vasquez",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "51": {
       "player": "sal frelick",
       "pitcher": "randy vasquez",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "50": {
       "player": "william contreras",
@@ -5437,7 +5443,7 @@
     "35": {
       "player": "carlos cortes",
       "pitcher": "cristian javier",
-      "result": "Called Strike",
+      "result": "Ball In Dirt",
       "pitch": "Changeup"
     },
     "34": {
