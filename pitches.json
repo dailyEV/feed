@@ -883,8 +883,8 @@
     "37": {
       "player": "josh lowe",
       "pitcher": "dietrich enns",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "junior caminero",
@@ -1217,7 +1217,7 @@
     "38": {
       "player": "tj friedl",
       "pitcher": "paul skenes",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Changeup"
     },
     "37": {
@@ -1444,11 +1444,17 @@
     }
   },
   "mia @ phi": {
+    "35": {
+      "player": "jakob marsee",
+      "pitcher": "jesus luzardo",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "34": {
       "player": "eric wagaman",
       "pitcher": "jesus luzardo",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "33": {
       "player": "harrison bader",
