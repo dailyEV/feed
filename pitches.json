@@ -880,11 +880,17 @@
     }
   },
   "tb @ bal": {
+    "45": {
+      "player": "bob seymour",
+      "pitcher": "dietrich enns",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "44": {
       "player": "hunter feduccia",
       "pitcher": "dietrich enns",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
       "player": "tristan gray",
@@ -1301,8 +1307,8 @@
     "45": {
       "player": "gavin lux",
       "pitcher": "paul skenes",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "44": {
       "player": "noelvi marte",
@@ -1824,6 +1830,12 @@
     }
   },
   "chw @ nyy": {
+    "27": {
+      "player": "paul goldschmidt",
+      "pitcher": "jonathan cannon",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "26": {
       "player": "ben rice",
       "pitcher": "jonathan cannon",
@@ -2191,15 +2203,15 @@
     "1": {
       "player": "francisco lindor",
       "pitcher": "matthew boyd",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     }
   },
   "min @ tex": {
     "2": {
       "player": "kody clemens",
       "pitcher": "jacob degrom",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "1": {
