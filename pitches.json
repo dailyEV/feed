@@ -3565,7 +3565,7 @@
     "50": {
       "player": "michael busch",
       "pitcher": "sean manaea",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -3867,8 +3867,8 @@
     "59": {
       "player": "byron buxton",
       "pitcher": "shawn armstrong",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "james outman",
@@ -4315,7 +4315,7 @@
     "13": {
       "player": "miguel rojas",
       "pitcher": "ryne nelson",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -4484,6 +4484,12 @@
     }
   },
   "stl @ sf": {
+    "13": {
+      "player": "christian koss",
+      "pitcher": "sonny gray",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "jung hoo lee",
       "pitcher": "sonny gray",
@@ -4558,6 +4564,12 @@
     }
   },
   "hou @ ath": {
+    "2": {
+      "player": "isaac paredes",
+      "pitcher": "luis severino",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "jose altuve",
       "pitcher": "luis severino",
