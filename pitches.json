@@ -4398,7 +4398,7 @@
       "player": "luis rengifo",
       "pitcher": "jonathan bowlan",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "60": {
       "player": "bobby witt",
@@ -5118,6 +5118,12 @@
     }
   },
   "col @ sea": {
+    "62": {
+      "player": "randy arozarena",
+      "pitcher": "angel chivilli",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "61": {
       "player": "jp crawford",
       "pitcher": "angel chivilli",
@@ -5489,8 +5495,8 @@
     "64": {
       "player": "nolan arenado",
       "pitcher": "jose butto",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "63": {
       "player": "alec burleson",
@@ -5872,11 +5878,17 @@
     }
   },
   "hou @ ath": {
+    "53": {
+      "player": "shea langeliers",
+      "pitcher": "bryan king",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "nick kurtz",
       "pitcher": "bryan king",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "51": {
       "player": "brett harris",
