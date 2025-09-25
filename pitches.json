@@ -883,8 +883,8 @@
     "40": {
       "player": "jeremiah jackson",
       "pitcher": "edwin uceta",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "39": {
       "player": "colton cowser",
@@ -1253,8 +1253,8 @@
     "42": {
       "player": "spencer horwitz",
       "pitcher": "hunter greene",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "bryan reynolds",
@@ -1504,6 +1504,12 @@
     }
   },
   "mia @ phi": {
+    "39": {
+      "player": "nick castellanos",
+      "pitcher": "ryan weathers",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "38": {
       "player": "alec bohm",
       "pitcher": "ryan weathers",
@@ -1734,17 +1740,11 @@
     }
   },
   "chw @ nyy": {
-    "23": {
-      "player": "curtis mead",
-      "pitcher": "max fried",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "22": {
       "player": "chase meidroth",
       "pitcher": "max fried",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "cody bellinger",
@@ -1874,6 +1874,12 @@
     }
   },
   "bos @ tor": {
+    "30": {
+      "player": "trevor story",
+      "pitcher": "max scherzer",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "jarren duran",
       "pitcher": "max scherzer",
