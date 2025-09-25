@@ -2460,10 +2460,16 @@
     }
   },
   "det @ cle": {
+    "21": {
+      "player": "spencer torkelson",
+      "pitcher": "parker messick",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "20": {
       "player": "wenceel perez",
       "pitcher": "parker messick",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "19": {
@@ -2582,6 +2588,12 @@
     }
   },
   "chw @ nyy": {
+    "4": {
+      "player": "edgar quero",
+      "pitcher": "carlos rodon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "colson montgomery",
       "pitcher": "carlos rodon",
@@ -2605,8 +2617,8 @@
     "4": {
       "player": "george springer",
       "pitcher": "brayan bello",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "alex bregman",
