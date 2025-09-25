@@ -2260,6 +2260,12 @@
     }
   },
   "mia @ phi": {
+    "45": {
+      "player": "griffin conine",
+      "pitcher": "taijuan walker",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "44": {
       "player": "otto lopez",
       "pitcher": "taijuan walker",
@@ -2732,6 +2738,12 @@
     }
   },
   "chw @ nyy": {
+    "16": {
+      "player": "austin wells",
+      "pitcher": "davis martin",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "15": {
       "player": "derek hill",
       "pitcher": "carlos rodon",
@@ -2827,8 +2839,8 @@
     "17": {
       "player": "connor wong",
       "pitcher": "eric lauer",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul Tip",
+      "pitch": "Cutter"
     },
     "16": {
       "player": "rob refsnyder",
@@ -2927,7 +2939,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "nym @ chc": {},
+  "nym @ chc": {
+    "1": {
+      "player": "francisco lindor",
+      "pitcher": "shota imanaga",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "kc @ laa": {},
   "col @ sea": {}
 }
