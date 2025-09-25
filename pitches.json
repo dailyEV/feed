@@ -1739,7 +1739,7 @@
     "91": {
       "player": "noelvi marte",
       "pitcher": "yohan ramirez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "90": {
@@ -3903,8 +3903,8 @@
     "62": {
       "player": "ezequiel duran",
       "pitcher": "cody laweryson",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "61": {
       "player": "alejandro osuna",
@@ -4271,8 +4271,8 @@
     "19": {
       "player": "nolan schanuel",
       "pitcher": "stephen kolek",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "18": {
       "player": "tyler tolbert",
@@ -4387,7 +4387,7 @@
     "15": {
       "player": "tim tawa",
       "pitcher": "blake snell",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "14": {
@@ -4476,6 +4476,12 @@
     }
   },
   "col @ sea": {
+    "19": {
+      "player": "yanquiel fernandez",
+      "pitcher": "luis castillo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "julio rodriguez",
       "pitcher": "tanner gordon",
