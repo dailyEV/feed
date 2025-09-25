@@ -3583,8 +3583,8 @@
     "56": {
       "player": "francisco alvarez",
       "pitcher": "aaron civale",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "55": {
       "player": "brandon nimmo",
@@ -4530,10 +4530,16 @@
     }
   },
   "col @ sea": {
+    "21": {
+      "player": "orlando arcia",
+      "pitcher": "luis castillo",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "warming bernabel",
       "pitcher": "luis castillo",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -4750,6 +4756,12 @@
     }
   },
   "hou @ ath": {
+    "7": {
+      "player": "tyler soderstrom",
+      "pitcher": "hunter brown",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "6": {
       "player": "shea langeliers",
       "pitcher": "hunter brown",
