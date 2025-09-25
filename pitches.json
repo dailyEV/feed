@@ -1736,10 +1736,16 @@
     }
   },
   "pit @ cin": {
+    "88": {
+      "player": "will benson",
+      "pitcher": "yohan ramirez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "87": {
       "player": "tyler stephenson",
       "pitcher": "yohan ramirez",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "86": {
@@ -3849,8 +3855,8 @@
     "57": {
       "player": "ryan fitzgerald",
       "pitcher": "shawn armstrong",
-      "result": "Ball In Dirt",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "royce lewis",
@@ -4279,7 +4285,7 @@
     "11": {
       "player": "tommy edman",
       "pitcher": "ryne nelson",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -4495,7 +4501,7 @@
     "1": {
       "player": "jose altuve",
       "pitcher": "luis severino",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     }
   }
