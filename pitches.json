@@ -883,7 +883,7 @@
     "45": {
       "player": "bob seymour",
       "pitcher": "dietrich enns",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -1304,6 +1304,12 @@
     }
   },
   "pit @ cin": {
+    "46": {
+      "player": "spencer steer",
+      "pitcher": "paul skenes",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "gavin lux",
       "pitcher": "paul skenes",
@@ -1836,6 +1842,12 @@
     }
   },
   "chw @ nyy": {
+    "28": {
+      "player": "jazz chisholm",
+      "pitcher": "jonathan cannon",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "27": {
       "player": "paul goldschmidt",
       "pitcher": "jonathan cannon",
@@ -2206,11 +2218,17 @@
     }
   },
   "nym @ chc": {
+    "3": {
+      "player": "pete alonso",
+      "pitcher": "matthew boyd",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "2": {
       "player": "juan soto",
       "pitcher": "matthew boyd",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "1": {
       "player": "francisco lindor",
@@ -2223,7 +2241,7 @@
     "3": {
       "player": "trevor larnach",
       "pitcher": "jacob degrom",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "2": {
