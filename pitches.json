@@ -2607,8 +2607,8 @@
     "71": {
       "player": "colson montgomery",
       "pitcher": "paul blackburn",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "70": {
       "player": "miguel vargas",
@@ -3469,8 +3469,8 @@
     "41": {
       "player": "moises ballesteros",
       "pitcher": "richard lovelady",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "40": {
       "player": "francisco lindor",
@@ -3714,6 +3714,12 @@
     }
   },
   "min @ tex": {
+    "49": {
+      "player": "billy mckinney",
+      "pitcher": "travis adams",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "48": {
       "player": "ezequiel duran",
       "pitcher": "travis adams",
@@ -4039,8 +4045,8 @@
     "4": {
       "player": "max muncy",
       "pitcher": "ryne nelson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "3": {
       "player": "freddie freeman",
@@ -4081,6 +4087,13 @@
       "pitch": "Slider"
     }
   },
-  "stl @ sf": {},
+  "stl @ sf": {
+    "1": {
+      "player": "brendan donovan",
+      "pitcher": "jt brubaker",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  },
   "hou @ ath": {}
 }
