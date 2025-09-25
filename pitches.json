@@ -883,8 +883,8 @@
     "42": {
       "player": "richie palacios",
       "pitcher": "dietrich enns",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "jake mangum",
@@ -1283,8 +1283,8 @@
     "44": {
       "player": "noelvi marte",
       "pitcher": "paul skenes",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "43": {
       "player": "andrew mccutchen",
@@ -1794,6 +1794,12 @@
     }
   },
   "chw @ nyy": {
+    "25": {
+      "player": "giancarlo stanton",
+      "pitcher": "jonathan cannon",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "edgar quero",
       "pitcher": "max fried",
@@ -1940,6 +1946,12 @@
     }
   },
   "bos @ tor": {
+    "32": {
+      "player": "ernie clement",
+      "pitcher": "garrett crochet",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "31": {
       "player": "alex bregman",
       "pitcher": "max scherzer",
@@ -2128,7 +2140,14 @@
     }
   },
   "nym @ chc": {},
-  "min @ tex": {},
+  "min @ tex": {
+    "1": {
+      "player": "byron buxton",
+      "pitcher": "jacob degrom",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    }
+  },
   "kc @ laa": {},
   "lad @ ari": {},
   "col @ sea": {},
