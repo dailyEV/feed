@@ -1736,6 +1736,12 @@
     }
   },
   "pit @ cin": {
+    "89": {
+      "player": "matt mclain",
+      "pitcher": "yohan ramirez",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "88": {
       "player": "will benson",
       "pitcher": "yohan ramirez",
@@ -3565,8 +3571,8 @@
     "50": {
       "player": "michael busch",
       "pitcher": "sean manaea",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "49": {
       "player": "matt shaw",
@@ -3867,8 +3873,8 @@
     "59": {
       "player": "byron buxton",
       "pitcher": "shawn armstrong",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "58": {
       "player": "james outman",
@@ -4214,6 +4220,12 @@
     }
   },
   "kc @ laa": {
+    "17": {
+      "player": "jac caglianone",
+      "pitcher": "yusei kikuchi",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "luke maile",
       "pitcher": "yusei kikuchi",
@@ -4316,7 +4328,7 @@
       "player": "miguel rojas",
       "pitcher": "ryne nelson",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Slider"
     },
     "12": {
       "player": "andy pages",
@@ -4392,6 +4404,12 @@
     }
   },
   "col @ sea": {
+    "16": {
+      "player": "randy arozarena",
+      "pitcher": "tanner gordon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "15": {
       "player": "jp crawford",
       "pitcher": "tanner gordon",
@@ -4487,8 +4505,8 @@
     "13": {
       "player": "christian koss",
       "pitcher": "sonny gray",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "12": {
       "player": "jung hoo lee",
@@ -4564,11 +4582,17 @@
     }
   },
   "hou @ ath": {
+    "3": {
+      "player": "carlos correa",
+      "pitcher": "luis severino",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "2": {
       "player": "isaac paredes",
       "pitcher": "luis severino",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "1": {
       "player": "jose altuve",
