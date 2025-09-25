@@ -3921,8 +3921,8 @@
     "63": {
       "player": "kody clemens",
       "pitcher": "phil maton",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "62": {
       "player": "ezequiel duran",
@@ -4292,6 +4292,12 @@
     }
   },
   "kc @ laa": {
+    "22": {
+      "player": "jo adell",
+      "pitcher": "stephen kolek",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "yoan moncada",
       "pitcher": "stephen kolek",
@@ -4423,8 +4429,8 @@
     "17": {
       "player": "jorge barrosa",
       "pitcher": "blake snell",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "16": {
       "player": "ildemaro vargas",
@@ -4524,16 +4530,10 @@
     }
   },
   "col @ sea": {
-    "21": {
-      "player": "orlando arcia",
-      "pitcher": "luis castillo",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "20": {
       "player": "warming bernabel",
       "pitcher": "luis castillo",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "19": {
@@ -4753,7 +4753,7 @@
     "6": {
       "player": "shea langeliers",
       "pitcher": "hunter brown",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "5": {
