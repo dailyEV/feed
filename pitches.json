@@ -3583,7 +3583,7 @@
     "63": {
       "player": "juan soto",
       "pitcher": "aaron civale",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Cutter"
     },
     "62": {
@@ -4528,11 +4528,17 @@
     }
   },
   "lad @ ari": {
-    "24": {
-      "player": "geraldo perdomo",
+    "25": {
+      "player": "corbin carroll",
       "pitcher": "blake snell",
       "result": "Ball",
       "pitch": "4-Seam Fastball"
+    },
+    "24": {
+      "player": "geraldo perdomo",
+      "pitcher": "blake snell",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "ketel marte",
@@ -4674,6 +4680,12 @@
     }
   },
   "col @ sea": {
+    "27": {
+      "player": "hunter goodman",
+      "pitcher": "luis castillo",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "26": {
       "player": "mickey moniak",
       "pitcher": "luis castillo",
