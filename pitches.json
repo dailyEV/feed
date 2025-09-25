@@ -880,6 +880,12 @@
     }
   },
   "tb @ bal": {
+    "47": {
+      "player": "jordan westburg",
+      "pitcher": "garrett cleavinger",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "dylan beavers",
       "pitcher": "garrett cleavinger",
@@ -1161,8 +1167,8 @@
     "27": {
       "player": "riley greene",
       "pitcher": "tanner bibee",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "spencer torkelson",
@@ -1325,8 +1331,8 @@
     "47": {
       "player": "tommy pham",
       "pitcher": "chase burns",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "46": {
       "player": "spencer steer",
@@ -1609,8 +1615,8 @@
     "46": {
       "player": "bryson stott",
       "pitcher": "lake bachar",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "45": {
       "player": "agustin ramirez",
@@ -2069,7 +2075,7 @@
     "38": {
       "player": "nathaniel lowe",
       "pitcher": "max scherzer",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "Slider"
     },
     "37": {
@@ -2296,10 +2302,16 @@
     }
   },
   "nym @ chc": {
+    "5": {
+      "player": "nico hoerner",
+      "pitcher": "jonah tong",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "michael busch",
       "pitcher": "jonah tong",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "3": {
