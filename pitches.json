@@ -1739,7 +1739,7 @@
     "87": {
       "player": "tyler stephenson",
       "pitcher": "yohan ramirez",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "86": {
@@ -4344,6 +4344,12 @@
     }
   },
   "col @ sea": {
+    "14": {
+      "player": "victor robles",
+      "pitcher": "tanner gordon",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "dominic canzone",
       "pitcher": "tanner gordon",
@@ -4427,8 +4433,8 @@
     "10": {
       "player": "bryce eldridge",
       "pitcher": "sonny gray",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "9": {
       "player": "thomas saggese",
@@ -4485,5 +4491,12 @@
       "pitch": "Changeup"
     }
   },
-  "hou @ ath": {}
+  "hou @ ath": {
+    "1": {
+      "player": "jose altuve",
+      "pitcher": "luis severino",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  }
 }
