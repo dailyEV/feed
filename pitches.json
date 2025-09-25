@@ -3583,8 +3583,8 @@
     "65": {
       "player": "dansby swanson",
       "pitcher": "ryan helsley",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "pete alonso",
@@ -4358,12 +4358,6 @@
     }
   },
   "kc @ laa": {
-    "32": {
-      "player": "nolan schanuel",
-      "pitcher": "stephen kolek",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "31": {
       "player": "bryce teodosio",
       "pitcher": "stephen kolek",
@@ -4555,7 +4549,7 @@
     "27": {
       "player": "teoscar hernandez",
       "pitcher": "ryne nelson",
-      "result": "Called Strike",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -4716,6 +4710,12 @@
     }
   },
   "col @ sea": {
+    "31": {
+      "player": "jp crawford",
+      "pitcher": "tanner gordon",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "30": {
       "player": "victor robles",
       "pitcher": "tanner gordon",
