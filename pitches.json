@@ -1125,8 +1125,8 @@
     "21": {
       "player": "brayan rocchio",
       "pitcher": "jack flaherty",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "kerry carpenter",
@@ -1253,7 +1253,7 @@
     "42": {
       "player": "spencer horwitz",
       "pitcher": "hunter greene",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "41": {
@@ -1740,11 +1740,17 @@
     }
   },
   "chw @ nyy": {
+    "23": {
+      "player": "curtis mead",
+      "pitcher": "max fried",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "chase meidroth",
       "pitcher": "max fried",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "21": {
       "player": "cody bellinger",
@@ -1874,12 +1880,6 @@
     }
   },
   "bos @ tor": {
-    "30": {
-      "player": "trevor story",
-      "pitcher": "max scherzer",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "29": {
       "player": "jarren duran",
       "pitcher": "max scherzer",
