@@ -449,7 +449,7 @@
     "28": {
       "player": "nick castellanos",
       "pitcher": "joe ryan",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "27": {
@@ -619,8 +619,8 @@
     "31": {
       "player": "colson montgomery",
       "pitcher": "cade cavalli",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "kyle teel",
@@ -1140,6 +1140,12 @@
     }
   },
   "tex @ cle": {
+    "17": {
+      "player": "daniel schneemann",
+      "pitcher": "jack leiter",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "16": {
       "player": "gabriel arias",
       "pitcher": "jack leiter",
@@ -1342,6 +1348,12 @@
     }
   },
   "pit @ atl": {
+    "16": {
+      "player": "nick gonzales",
+      "pitcher": "joey wentz",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "jared triolo",
       "pitcher": "joey wentz",
