@@ -735,7 +735,7 @@
     "13": {
       "player": "anthony volpe",
       "pitcher": "trevor rogers",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -816,7 +816,7 @@
       "player": "alejandro kirk",
       "pitcher": "adrian houser",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "hunter feduccia",
@@ -898,6 +898,12 @@
     }
   },
   "det @ bos": {
+    "12": {
+      "player": "javier baez",
+      "pitcher": "kyle harrison",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "parker meadows",
       "pitcher": "kyle harrison",
@@ -966,6 +972,12 @@
     }
   },
   "tex @ cle": {
+    "13": {
+      "player": "billy mckinney",
+      "pitcher": "slade cecconi",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "12": {
       "player": "bo naylor",
       "pitcher": "jack leiter",
@@ -1040,6 +1052,12 @@
     }
   },
   "nym @ mia": {
+    "13": {
+      "player": "luis torrens",
+      "pitcher": "sandy alcantara",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "cedric mullins",
       "pitcher": "sandy alcantara",
