@@ -446,10 +446,16 @@
     }
   },
   "min @ phi": {
+    "33": {
+      "player": "edmundo sosa",
+      "pitcher": "joe ryan",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "32": {
       "player": "bryson stott",
       "pitcher": "joe ryan",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "31": {
@@ -643,7 +649,7 @@
     "36": {
       "player": "edgar quero",
       "pitcher": "orlando ribalta",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "35": {
@@ -862,7 +868,7 @@
       "player": "jose caballero",
       "pitcher": "trevor rogers",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "21": {
       "player": "tyler oneill",
@@ -1144,11 +1150,17 @@
     }
   },
   "det @ bos": {
+    "25": {
+      "player": "trevor story",
+      "pitcher": "casey mize",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "jarren duran",
       "pitcher": "casey mize",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slurve"
     },
     "23": {
       "player": "carlos narvaez",
@@ -1543,7 +1555,7 @@
     "21": {
       "player": "brett wisely",
       "pitcher": "mitch keller",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "20": {
