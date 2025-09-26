@@ -535,7 +535,7 @@
     "16": {
       "player": "colson montgomery",
       "pitcher": "cade cavalli",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "15": {
@@ -630,6 +630,12 @@
     }
   },
   "bal @ nyy": {
+    "3": {
+      "player": "gunnar henderson",
+      "pitcher": "will warren",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "2": {
       "player": "jordan westburg",
       "pitcher": "will warren",
@@ -664,6 +670,12 @@
     }
   },
   "det @ bos": {
+    "3": {
+      "player": "wenceel perez",
+      "pitcher": "kyle harrison",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "gleyber torres",
       "pitcher": "kyle harrison",
@@ -689,8 +701,8 @@
     "3": {
       "player": "brandon nimmo",
       "pitcher": "sandy alcantara",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "2": {
       "player": "juan soto",
