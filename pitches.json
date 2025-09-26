@@ -449,7 +449,7 @@
     "16": {
       "player": "james outman",
       "pitcher": "aaron nola",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "15": {
@@ -651,7 +651,7 @@
     "4": {
       "player": "paul goldschmidt",
       "pitcher": "trevor rogers",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -744,6 +744,12 @@
     }
   },
   "tex @ cle": {
+    "4": {
+      "player": "rowdy tellez",
+      "pitcher": "slade cecconi",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "josh jung",
       "pitcher": "slade cecconi",
@@ -767,7 +773,7 @@
     "5": {
       "player": "jeff mcneil",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "4": {
@@ -796,11 +802,17 @@
     }
   },
   "pit @ atl": {
+    "3": {
+      "player": "bryan reynolds",
+      "pitcher": "joey wentz",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "nick gonzales",
       "pitcher": "joey wentz",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "jared triolo",
