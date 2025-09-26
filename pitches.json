@@ -449,8 +449,8 @@
     "33": {
       "player": "edmundo sosa",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "32": {
       "player": "bryson stott",
@@ -646,10 +646,16 @@
     }
   },
   "chw @ wsh": {
+    "37": {
+      "player": "brooks baldwin",
+      "pitcher": "orlando ribalta",
+      "result": "Foul Bunt",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "edgar quero",
       "pitcher": "orlando ribalta",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "35": {
@@ -864,6 +870,12 @@
     }
   },
   "bal @ nyy": {
+    "24": {
+      "player": "aaron judge",
+      "pitcher": "trevor rogers",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "23": {
       "player": "paul goldschmidt",
       "pitcher": "trevor rogers",
@@ -1165,7 +1177,7 @@
     "25": {
       "player": "trevor story",
       "pitcher": "casey mize",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -1317,8 +1329,8 @@
     "21": {
       "player": "josh jung",
       "pitcher": "slade cecconi",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "20": {
       "player": "cody freeman",
@@ -1446,7 +1458,7 @@
       "player": "heriberto hernandez",
       "pitcher": "brandon sproat",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "21": {
       "player": "jeff mcneil",
