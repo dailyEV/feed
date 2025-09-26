@@ -574,6 +574,12 @@
     }
   },
   "chw @ wsh": {
+    "22": {
+      "player": "brooks baldwin",
+      "pitcher": "cade cavalli",
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
+    },
     "21": {
       "player": "edgar quero",
       "pitcher": "cade cavalli",
@@ -702,12 +708,6 @@
     }
   },
   "bal @ nyy": {
-    "9": {
-      "player": "tyler oneill",
-      "pitcher": "will warren",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "8": {
       "player": "amed rosario",
       "pitcher": "trevor rogers",
@@ -758,6 +758,12 @@
     }
   },
   "tb @ tor": {
+    "11": {
+      "player": "josh lowe",
+      "pitcher": "shane bieber",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "jake mangum",
       "pitcher": "shane bieber",
@@ -870,10 +876,16 @@
     }
   },
   "tex @ cle": {
+    "9": {
+      "player": "george valera",
+      "pitcher": "jack leiter",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "steven kwan",
       "pitcher": "jack leiter",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "7": {
@@ -923,8 +935,8 @@
     "9": {
       "player": "xavier edwards",
       "pitcher": "brandon sproat",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Hit By Pitch",
+      "pitch": "Sweeper"
     },
     "8": {
       "player": "agustin ramirez",
