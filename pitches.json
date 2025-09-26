@@ -616,8 +616,8 @@
     "2": {
       "player": "yandy diaz",
       "pitcher": "shane bieber",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "1": {
       "player": "chandler simpson",
@@ -628,7 +628,14 @@
   },
   "det @ bos": {},
   "tex @ cle": {},
-  "nym @ mia": {},
+  "nym @ mia": {
+    "1": {
+      "player": "francisco lindor",
+      "pitcher": "sandy alcantara",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    }
+  },
   "pit @ atl": {},
   "cin @ mil": {},
   "hou @ laa": {},
