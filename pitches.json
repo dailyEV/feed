@@ -446,6 +446,12 @@
     }
   },
   "min @ phi": {
+    "32": {
+      "player": "bryson stott",
+      "pitcher": "joe ryan",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "edouard julien",
       "pitcher": "aaron nola",
@@ -980,11 +986,17 @@
     }
   },
   "tb @ tor": {
+    "25": {
+      "player": "addison barger",
+      "pitcher": "adrian houser",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "24": {
       "player": "vladimir guerrero",
       "pitcher": "adrian houser",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "23": {
       "player": "nathan lukes",
@@ -1397,8 +1409,8 @@
     "21": {
       "player": "jeff mcneil",
       "pitcher": "sandy alcantara",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "pete alonso",
@@ -1525,8 +1537,8 @@
     "20": {
       "player": "nacho alvarez",
       "pitcher": "mitch keller",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "marcell ozuna",
