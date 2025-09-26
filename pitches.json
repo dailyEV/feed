@@ -449,8 +449,8 @@
     "20": {
       "player": "kyle schwarber",
       "pitcher": "joe ryan",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "19": {
       "player": "harrison bader",
@@ -737,8 +737,8 @@
     "9": {
       "player": "jonathan aranda",
       "pitcher": "shane bieber",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "junior caminero",
@@ -837,7 +837,7 @@
     "7": {
       "player": "jonah heim",
       "pitcher": "slade cecconi",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -878,6 +878,12 @@
     }
   },
   "nym @ mia": {
+    "8": {
+      "player": "agustin ramirez",
+      "pitcher": "brandon sproat",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "jakob marsee",
       "pitcher": "brandon sproat",
