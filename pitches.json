@@ -446,11 +446,17 @@
     }
   },
   "min @ phi": {
+    "21": {
+      "player": "bryce harper",
+      "pitcher": "joe ryan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "kyle schwarber",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "harrison bader",
@@ -568,6 +574,12 @@
     }
   },
   "chw @ wsh": {
+    "20": {
+      "player": "miguel vargas",
+      "pitcher": "cade cavalli",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "19": {
       "player": "riley adams",
       "pitcher": "yoendrys gomez",
@@ -734,10 +746,16 @@
     }
   },
   "tb @ tor": {
+    "10": {
+      "player": "jake mangum",
+      "pitcher": "shane bieber",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "jonathan aranda",
       "pitcher": "shane bieber",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "8": {
@@ -937,7 +955,7 @@
     "5": {
       "player": "jurickson profar",
       "pitcher": "mitch keller",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "4": {
