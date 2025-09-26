@@ -553,7 +553,7 @@
     "17": {
       "player": "dylan crews",
       "pitcher": "yoendrys gomez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "16": {
@@ -658,7 +658,7 @@
       "player": "aaron judge",
       "pitcher": "trevor rogers",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "4": {
       "player": "paul goldschmidt",
@@ -686,6 +686,12 @@
     }
   },
   "tb @ tor": {
+    "7": {
+      "player": "addison barger",
+      "pitcher": "adrian houser",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "vladimir guerrero",
       "pitcher": "adrian houser",
@@ -727,7 +733,7 @@
     "6": {
       "player": "andy ibanez",
       "pitcher": "kyle harrison",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slurve"
     },
     "5": {
@@ -765,8 +771,8 @@
     "4": {
       "player": "rowdy tellez",
       "pitcher": "slade cecconi",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "3": {
       "player": "josh jung",
@@ -788,6 +794,12 @@
     }
   },
   "nym @ mia": {
+    "6": {
+      "player": "brett baty",
+      "pitcher": "sandy alcantara",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "jeff mcneil",
       "pitcher": "sandy alcantara",
@@ -823,8 +835,8 @@
     "4": {
       "player": "andrew mccutchen",
       "pitcher": "joey wentz",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "3": {
       "player": "bryan reynolds",
