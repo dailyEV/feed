@@ -583,7 +583,7 @@
     "24": {
       "player": "paul dejong",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "23": {
@@ -803,7 +803,7 @@
     "14": {
       "player": "alejandro kirk",
       "pitcher": "adrian houser",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "13": {
@@ -889,8 +889,8 @@
     "11": {
       "player": "parker meadows",
       "pitcher": "kyle harrison",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slurve"
     },
     "10": {
       "player": "dillon dingler",
@@ -1031,8 +1031,8 @@
     "12": {
       "player": "cedric mullins",
       "pitcher": "sandy alcantara",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "francisco alvarez",
@@ -1102,6 +1102,12 @@
     }
   },
   "pit @ atl": {
+    "10": {
+      "player": "spencer horwitz",
+      "pitcher": "joey wentz",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "ha seong kim",
       "pitcher": "mitch keller",
