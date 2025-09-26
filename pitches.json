@@ -995,8 +995,8 @@
     "25": {
       "player": "addison barger",
       "pitcher": "adrian houser",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "24": {
       "player": "vladimir guerrero",
@@ -1293,8 +1293,8 @@
     "20": {
       "player": "cody freeman",
       "pitcher": "slade cecconi",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "19": {
       "player": "brayan rocchio",
@@ -1540,6 +1540,12 @@
     }
   },
   "pit @ atl": {
+    "21": {
+      "player": "brett wisely",
+      "pitcher": "mitch keller",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "nacho alvarez",
       "pitcher": "mitch keller",
