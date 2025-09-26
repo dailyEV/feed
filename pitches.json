@@ -449,7 +449,7 @@
     "18": {
       "player": "edmundo sosa",
       "pitcher": "joe ryan",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "17": {
@@ -556,17 +556,11 @@
     }
   },
   "chw @ wsh": {
-    "19": {
-      "player": "riley adams",
-      "pitcher": "yoendrys gomez",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "18": {
       "player": "luis garcia",
       "pitcher": "yoendrys gomez",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "17": {
       "player": "dylan crews",
@@ -672,11 +666,17 @@
     }
   },
   "bal @ nyy": {
+    "7": {
+      "player": "giancarlo stanton",
+      "pitcher": "trevor rogers",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "cody bellinger",
       "pitcher": "trevor rogers",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "aaron judge",
@@ -874,6 +874,12 @@
     }
   },
   "pit @ atl": {
+    "5": {
+      "player": "jurickson profar",
+      "pitcher": "mitch keller",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "andrew mccutchen",
       "pitcher": "joey wentz",
