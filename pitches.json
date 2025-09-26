@@ -449,8 +449,8 @@
     "22": {
       "player": "alec bohm",
       "pitcher": "joe ryan",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "bryce harper",
@@ -583,7 +583,7 @@
     "23": {
       "player": "robert hassell",
       "pitcher": "yoendrys gomez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "22": {
@@ -871,7 +871,7 @@
     "10": {
       "player": "dillon dingler",
       "pitcher": "kyle harrison",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "9": {
@@ -930,6 +930,12 @@
     }
   },
   "tex @ cle": {
+    "12": {
+      "player": "bo naylor",
+      "pitcher": "jack leiter",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "kyle manzardo",
       "pitcher": "jack leiter",
