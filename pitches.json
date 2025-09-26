@@ -450,7 +450,7 @@
       "player": "bryce harper",
       "pitcher": "joe ryan",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "Slider"
     },
     "20": {
       "player": "kyle schwarber",
@@ -835,7 +835,7 @@
     "8": {
       "player": "trevor story",
       "pitcher": "casey mize",
-      "result": "Foul Tip",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "7": {
@@ -882,10 +882,16 @@
     }
   },
   "tex @ cle": {
+    "9": {
+      "player": "george valera",
+      "pitcher": "jack leiter",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "steven kwan",
       "pitcher": "jack leiter",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "7": {
