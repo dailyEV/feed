@@ -449,7 +449,7 @@
     "31": {
       "player": "edouard julien",
       "pitcher": "aaron nola",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Knuckle Curve"
     },
     "30": {
@@ -637,7 +637,7 @@
     "34": {
       "player": "daylen lile",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "33": {
@@ -1227,7 +1227,7 @@
     "19": {
       "player": "brayan rocchio",
       "pitcher": "jack leiter",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -1462,6 +1462,12 @@
     }
   },
   "pit @ atl": {
+    "18": {
+      "player": "michael harris",
+      "pitcher": "mitch keller",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "17": {
       "player": "bryan reynolds",
       "pitcher": "joey wentz",
