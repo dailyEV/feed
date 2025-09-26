@@ -446,6 +446,12 @@
     }
   },
   "min @ phi": {
+    "17": {
+      "player": "christian vazquez",
+      "pitcher": "aaron nola",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "16": {
       "player": "james outman",
       "pitcher": "aaron nola",
@@ -547,8 +553,8 @@
     "17": {
       "player": "dylan crews",
       "pitcher": "yoendrys gomez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "16": {
       "player": "colson montgomery",
@@ -674,10 +680,16 @@
     }
   },
   "tb @ tor": {
+    "7": {
+      "player": "addison barger",
+      "pitcher": "adrian houser",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "vladimir guerrero",
       "pitcher": "adrian houser",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "5": {
@@ -712,6 +724,12 @@
     }
   },
   "det @ bos": {
+    "6": {
+      "player": "andy ibanez",
+      "pitcher": "kyle harrison",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "riley greene",
       "pitcher": "kyle harrison",
@@ -747,8 +765,8 @@
     "4": {
       "player": "rowdy tellez",
       "pitcher": "slade cecconi",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "3": {
       "player": "josh jung",
@@ -773,7 +791,7 @@
     "5": {
       "player": "jeff mcneil",
       "pitcher": "sandy alcantara",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "4": {
@@ -802,6 +820,12 @@
     }
   },
   "pit @ atl": {
+    "4": {
+      "player": "andrew mccutchen",
+      "pitcher": "joey wentz",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "3": {
       "player": "bryan reynolds",
       "pitcher": "joey wentz",
