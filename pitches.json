@@ -446,12 +446,6 @@
     }
   },
   "min @ phi": {
-    "32": {
-      "player": "bryson stott",
-      "pitcher": "joe ryan",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "31": {
       "player": "edouard julien",
       "pitcher": "aaron nola",
@@ -640,6 +634,12 @@
     }
   },
   "chw @ wsh": {
+    "36": {
+      "player": "edgar quero",
+      "pitcher": "orlando ribalta",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "miguel vargas",
       "pitcher": "orlando ribalta",
@@ -983,8 +983,8 @@
     "24": {
       "player": "vladimir guerrero",
       "pitcher": "adrian houser",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "23": {
       "player": "nathan lukes",
@@ -1130,7 +1130,7 @@
       "player": "jarren duran",
       "pitcher": "casey mize",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "carlos narvaez",
@@ -1525,8 +1525,8 @@
     "20": {
       "player": "nacho alvarez",
       "pitcher": "mitch keller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "marcell ozuna",
