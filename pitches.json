@@ -449,8 +449,8 @@
     "21": {
       "player": "bryce harper",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "kyle schwarber",
@@ -708,6 +708,12 @@
     }
   },
   "bal @ nyy": {
+    "10": {
+      "player": "dylan beavers",
+      "pitcher": "will warren",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "tyler oneill",
       "pitcher": "will warren",
@@ -767,8 +773,8 @@
     "11": {
       "player": "josh lowe",
       "pitcher": "shane bieber",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "10": {
       "player": "jake mangum",
@@ -832,10 +838,16 @@
     }
   },
   "det @ bos": {
+    "9": {
+      "player": "alex bregman",
+      "pitcher": "casey mize",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "8": {
       "player": "trevor story",
       "pitcher": "casey mize",
-      "result": "Foul Tip",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "7": {
@@ -882,6 +894,12 @@
     }
   },
   "tex @ cle": {
+    "10": {
+      "player": "jose ramirez",
+      "pitcher": "jack leiter",
+      "result": "Ball",
+      "pitch": ""
+    },
     "9": {
       "player": "george valera",
       "pitcher": "jack leiter",
@@ -997,7 +1015,7 @@
     "7": {
       "player": "ronald acuna",
       "pitcher": "mitch keller",
-      "result": "Called Strike",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "6": {
