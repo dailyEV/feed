@@ -446,10 +446,16 @@
     }
   },
   "min @ phi": {
+    "16": {
+      "player": "james outman",
+      "pitcher": "aaron nola",
+      "result": "Called Strike",
+      "pitch": "Knuckle Curve"
+    },
     "15": {
       "player": "royce lewis",
       "pitcher": "aaron nola",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -659,8 +665,8 @@
     "4": {
       "player": "george springer",
       "pitcher": "adrian houser",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "3": {
       "player": "brandon lowe",
@@ -708,11 +714,17 @@
     }
   },
   "tex @ cle": {
+    "3": {
+      "player": "josh jung",
+      "pitcher": "slade cecconi",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "cody freeman",
       "pitcher": "slade cecconi",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "1": {
       "player": "joc pederson",
@@ -747,7 +759,14 @@
       "pitch": "Sinker"
     }
   },
-  "pit @ atl": {},
+  "pit @ atl": {
+    "1": {
+      "player": "jared triolo",
+      "pitcher": "joey wentz",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "cin @ mil": {},
   "hou @ laa": {},
   "ari @ sd": {},
