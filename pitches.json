@@ -2613,7 +2613,7 @@
     "49": {
       "player": "jose ramirez",
       "pitcher": "tommy kahnle",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "48": {
@@ -3094,11 +3094,17 @@
     }
   },
   "bos @ tor": {
+    "32": {
+      "player": "ceddanne rafaela",
+      "pitcher": "eric lauer",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "romy gonzalez",
       "pitcher": "eric lauer",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "30": {
       "player": "masataka yoshida",
@@ -3282,6 +3288,12 @@
     }
   },
   "nym @ chc": {
+    "16": {
+      "player": "pete crow armstrong",
+      "pitcher": "nolan mclean",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "15": {
       "player": "carson kelly",
       "pitcher": "nolan mclean",
