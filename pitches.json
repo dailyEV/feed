@@ -3125,8 +3125,8 @@
     "69": {
       "player": "miguel vargas",
       "pitcher": "devin williams",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "68": {
       "player": "edgar quero",
@@ -3921,7 +3921,7 @@
     "57": {
       "player": "pete alonso",
       "pitcher": "drew pomeranz",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "56": {
@@ -4262,12 +4262,25 @@
     }
   },
   "kc @ laa": {
+    "2": {
+      "player": "bobby witt",
+      "pitcher": "mitch farris",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "maikel garcia",
       "pitcher": "mitch farris",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     }
   },
-  "col @ sea": {}
+  "col @ sea": {
+    "1": {
+      "player": "mickey moniak",
+      "pitcher": "emerson hancock",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    }
+  }
 }
