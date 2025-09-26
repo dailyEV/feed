@@ -741,7 +741,7 @@
     "14": {
       "player": "austin wells",
       "pitcher": "trevor rogers",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "13": {
@@ -827,8 +827,8 @@
     "15": {
       "player": "daulton varsho",
       "pitcher": "adrian houser",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "alejandro kirk",
@@ -996,6 +996,12 @@
     }
   },
   "tex @ cle": {
+    "14": {
+      "player": "michael helman",
+      "pitcher": "slade cecconi",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "billy mckinney",
       "pitcher": "slade cecconi",
@@ -1162,6 +1168,12 @@
     }
   },
   "pit @ atl": {
+    "12": {
+      "player": "alexander canario",
+      "pitcher": "joey wentz",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "tommy pham",
       "pitcher": "joey wentz",
