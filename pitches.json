@@ -449,8 +449,8 @@
     "26": {
       "player": "brandon marsh",
       "pitcher": "joe ryan",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "25": {
       "player": "ryan jeffers",
@@ -604,6 +604,12 @@
     }
   },
   "chw @ wsh": {
+    "30": {
+      "player": "kyle teel",
+      "pitcher": "cade cavalli",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "29": {
       "player": "chase meidroth",
       "pitcher": "cade cavalli",
@@ -894,7 +900,7 @@
       "player": "andres gimenez",
       "pitcher": "adrian houser",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "17": {
       "player": "ernie clement",
@@ -1000,11 +1006,17 @@
     }
   },
   "det @ bos": {
+    "17": {
+      "player": "nathaniel lowe",
+      "pitcher": "casey mize",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "ceddanne rafaela",
       "pitcher": "casey mize",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slurve"
     },
     "15": {
       "player": "romy gonzalez",
@@ -1297,8 +1309,8 @@
     "15": {
       "player": "jared triolo",
       "pitcher": "joey wentz",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "henry davis",
