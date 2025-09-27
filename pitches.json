@@ -841,8 +841,8 @@
     "71": {
       "player": "robert hassell",
       "pitcher": "fraser ellard",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "70": {
       "player": "riley adams",
@@ -2367,8 +2367,8 @@
     "58": {
       "player": "cj kayfus",
       "pitcher": "jack leiter",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "57": {
       "player": "daniel schneemann",
@@ -3432,11 +3432,17 @@
     }
   },
   "cin @ mil": {
+    "36": {
+      "player": "tj friedl",
+      "pitcher": "quinn priester",
+      "result": "In play, no out",
+      "pitch": "Cutter"
+    },
     "35": {
       "player": "matt mclain",
       "pitcher": "quinn priester",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "34": {
       "player": "andruw monasterio",
