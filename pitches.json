@@ -4451,7 +4451,7 @@
     "41": {
       "player": "nolan schanuel",
       "pitcher": "steven okert",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "40": {
@@ -4696,10 +4696,16 @@
     }
   },
   "ari @ sd": {
+    "40": {
+      "player": "ketel marte",
+      "pitcher": "yu darvish",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "39": {
       "player": "geraldo perdomo",
       "pitcher": "yu darvish",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "38": {
@@ -4932,10 +4938,16 @@
     }
   },
   "lad @ sea": {
+    "39": {
+      "player": "randy arozarena",
+      "pitcher": "will klein",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "cole young",
       "pitcher": "will klein",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "37": {
@@ -5162,6 +5174,12 @@
     }
   },
   "kc @ ath": {
+    "32": {
+      "player": "colby thomas",
+      "pitcher": "noah cameron",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "31": {
       "player": "adam frazier",
       "pitcher": "mason barnett",
@@ -5350,10 +5368,16 @@
     }
   },
   "col @ sf": {
+    "30": {
+      "player": "yanquiel fernandez",
+      "pitcher": "trevor mcdonald",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "jordan beck",
       "pitcher": "trevor mcdonald",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "28": {
