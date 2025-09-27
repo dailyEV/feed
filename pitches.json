@@ -3538,6 +3538,12 @@
     }
   },
   "pit @ atl": {
+    "63": {
+      "player": "ronald acuna",
+      "pitcher": "isaac mattson",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "matt olson",
       "pitcher": "isaac mattson",
@@ -4394,7 +4400,7 @@
       "player": "jake mccarthy",
       "pitcher": "yu darvish",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sinker"
     },
     "16": {
       "player": "ildemaro vargas",
@@ -4629,5 +4635,18 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "col @ sf": {}
+  "col @ sf": {
+    "2": {
+      "player": "hunter goodman",
+      "pitcher": "trevor mcdonald",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "1": {
+      "player": "ezequiel tovar",
+      "pitcher": "trevor mcdonald",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    }
+  }
 }
