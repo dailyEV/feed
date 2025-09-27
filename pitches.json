@@ -4451,7 +4451,7 @@
     "49": {
       "player": "ramon urias",
       "pitcher": "jose fermin",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "48": {
@@ -4744,10 +4744,16 @@
     }
   },
   "ari @ sd": {
+    "50": {
+      "player": "blaze alexander",
+      "pitcher": "bradgley rodriguez",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "49": {
       "player": "gabriel moreno",
       "pitcher": "bradgley rodriguez",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "48": {
@@ -5575,8 +5581,8 @@
     "41": {
       "player": "willy adames",
       "pitcher": "german marquez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Hit By Pitch",
+      "pitch": "Knuckle Curve"
     },
     "40": {
       "player": "rafael devers",
