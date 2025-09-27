@@ -656,7 +656,7 @@
       "player": "brooks baldwin",
       "pitcher": "orlando ribalta",
       "result": "Called Strike",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "36": {
       "player": "edgar quero",
@@ -1180,6 +1180,12 @@
     }
   },
   "det @ bos": {
+    "26": {
+      "player": "andy ibanez",
+      "pitcher": "kyle harrison",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "25": {
       "player": "trevor story",
       "pitcher": "casey mize",
@@ -1332,11 +1338,17 @@
     }
   },
   "tex @ cle": {
+    "23": {
+      "player": "ezequiel duran",
+      "pitcher": "slade cecconi",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "22": {
       "player": "rowdy tellez",
       "pitcher": "slade cecconi",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "21": {
       "player": "josh jung",
@@ -1603,7 +1615,7 @@
     "22": {
       "player": "andrew mccutchen",
       "pitcher": "joey wentz",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "21": {
