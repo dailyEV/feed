@@ -449,8 +449,8 @@
     "40": {
       "player": "byron buxton",
       "pitcher": "aaron nola",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "christian vazquez",
@@ -939,8 +939,8 @@
     "29": {
       "player": "dylan beavers",
       "pitcher": "will warren",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "28": {
       "player": "austin slater",
@@ -1115,7 +1115,7 @@
     "30": {
       "player": "josh lowe",
       "pitcher": "shane bieber",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "29": {
@@ -1476,6 +1476,12 @@
     }
   },
   "tex @ cle": {
+    "27": {
+      "player": "kyle manzardo",
+      "pitcher": "jack leiter",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "26": {
       "player": "jose ramirez",
       "pitcher": "jack leiter",
@@ -1795,7 +1801,7 @@
     "27": {
       "player": "matt olson",
       "pitcher": "mitch keller",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -1955,7 +1961,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "cin @ mil": {},
+  "cin @ mil": {
+    "1": {
+      "player": "tj friedl",
+      "pitcher": "quinn priester",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  },
   "hou @ laa": {},
   "ari @ sd": {},
   "lad @ sea": {},
