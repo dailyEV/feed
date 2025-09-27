@@ -844,11 +844,17 @@
     }
   },
   "tb @ tor": {
+    "53": {
+      "player": "bob seymour",
+      "pitcher": "justin bruihl",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "52": {
       "player": "chandler simpson",
       "pitcher": "justin bruihl",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "51": {
       "player": "daulton varsho",
@@ -1161,7 +1167,7 @@
     "28": {
       "player": "kyle karros",
       "pitcher": "justin verlander",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "27": {
@@ -1328,6 +1334,12 @@
     }
   },
   "chw @ wsh": {
+    "9": {
+      "player": "brooks baldwin",
+      "pitcher": "jake irvin",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "edgar quero",
       "pitcher": "jake irvin",
@@ -1521,8 +1533,8 @@
     "24": {
       "player": "jakob marsee",
       "pitcher": "clay holmes",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "23": {
       "player": "xavier edwards",
