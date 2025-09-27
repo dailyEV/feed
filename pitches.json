@@ -1329,7 +1329,7 @@
     "71": {
       "player": "austin wells",
       "pitcher": "jose castillo",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "70": {
@@ -2185,7 +2185,7 @@
     "73": {
       "player": "ceddanne rafaela",
       "pitcher": "tommy kahnle",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "72": {
@@ -2625,8 +2625,8 @@
     "71": {
       "player": "kyle manzardo",
       "pitcher": "phil maton",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "70": {
       "player": "jose ramirez",
@@ -4165,8 +4165,8 @@
     "5": {
       "player": "fernando tatis",
       "pitcher": "zac gallen",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "4": {
       "player": "gabriel moreno",
@@ -4194,11 +4194,17 @@
     }
   },
   "lad @ sea": {
+    "5": {
+      "player": "cal raleigh",
+      "pitcher": "emmet sheehan",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "randy arozarena",
       "pitcher": "emmet sheehan",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "3": {
       "player": "michael conforto",
