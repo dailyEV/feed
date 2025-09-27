@@ -1616,11 +1616,17 @@
     }
   },
   "chw @ wsh": {
+    "43": {
+      "player": "brooks baldwin",
+      "pitcher": "jake irvin",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "edgar quero",
       "pitcher": "jake irvin",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "miguel vargas",
@@ -1870,6 +1876,12 @@
     }
   },
   "det @ bos": {
+    "55": {
+      "player": "david hamilton",
+      "pitcher": "tyler holton",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "54": {
       "player": "nick sogard",
       "pitcher": "rafael montero",
@@ -2513,8 +2525,8 @@
     "1": {
       "player": "byron buxton",
       "pitcher": "ranger suarez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     }
   },
   "tex @ cle": {},
