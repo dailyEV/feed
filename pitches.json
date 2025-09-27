@@ -1131,7 +1131,7 @@
     "48": {
       "player": "samuel basallo",
       "pitcher": "mark leiter",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Splitter"
     },
     "47": {
@@ -1708,6 +1708,12 @@
     }
   },
   "det @ bos": {
+    "48": {
+      "player": "wenceel perez",
+      "pitcher": "greg weissert",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "gleyber torres",
       "pitcher": "greg weissert",
@@ -1992,6 +1998,12 @@
     }
   },
   "tex @ cle": {
+    "43": {
+      "player": "ezequiel duran",
+      "pitcher": "matt festa",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "42": {
       "player": "jake burger",
       "pitcher": "erik sabrowski",
@@ -2515,7 +2527,7 @@
     "43": {
       "player": "spencer horwitz",
       "pitcher": "hunter stratton",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "42": {
@@ -2772,6 +2784,18 @@
     }
   },
   "cin @ mil": {
+    "21": {
+      "player": "christian yelich",
+      "pitcher": "zack littell",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
+    "20": {
+      "player": "joey ortiz",
+      "pitcher": "zack littell",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "19": {
       "player": "noelvi marte",
       "pitcher": "quinn priester",
