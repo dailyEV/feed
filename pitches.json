@@ -1667,7 +1667,7 @@
     "68": {
       "player": "james wood",
       "pitcher": "cam booser",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sweeper"
     },
     "67": {
@@ -3123,9 +3123,23 @@
       "pitch": "Cutter"
     }
   },
-  "tex @ cle": {},
+  "tex @ cle": {
+    "1": {
+      "player": "michael helman",
+      "pitcher": "joey cantillo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "pit @ atl": {},
-  "cin @ mil": {},
+  "cin @ mil": {
+    "1": {
+      "player": "tj friedl",
+      "pitcher": "robert gasser",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  },
   "ari @ sd": {},
   "hou @ laa": {},
   "lad @ sea": {},
