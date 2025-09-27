@@ -3541,8 +3541,8 @@
     "66": {
       "player": "jack suwinski",
       "pitcher": "dylan dodd",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "65": {
       "player": "ha seong kim",
@@ -4334,11 +4334,17 @@
     }
   },
   "hou @ laa": {
+    "23": {
+      "player": "christian walker",
+      "pitcher": "kyle hendricks",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "22": {
       "player": "carlos correa",
       "pitcher": "kyle hendricks",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "21": {
       "player": "nolan schanuel",
@@ -4584,17 +4590,11 @@
     }
   },
   "lad @ sea": {
-    "20": {
-      "player": "shohei ohtani",
-      "pitcher": "george kirby",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
-    },
     "19": {
       "player": "ben rortvedt",
       "pitcher": "george kirby",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "18": {
       "player": "enrique hernandez",
@@ -4774,6 +4774,12 @@
     }
   },
   "col @ sf": {
+    "6": {
+      "player": "rafael devers",
+      "pitcher": "german marquez",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "heliot ramos",
       "pitcher": "german marquez",
