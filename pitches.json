@@ -4355,7 +4355,7 @@
     "23": {
       "player": "christian walker",
       "pitcher": "kyle hendricks",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Changeup"
     },
     "22": {
@@ -4495,8 +4495,8 @@
     "20": {
       "player": "freddy fermin",
       "pitcher": "zac gallen",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "19": {
       "player": "ketel marte",
@@ -4739,8 +4739,8 @@
     "12": {
       "player": "jonathan india",
       "pitcher": "mason barnett",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "11": {
       "player": "carter jensen",
@@ -4810,6 +4810,12 @@
     }
   },
   "col @ sf": {
+    "7": {
+      "player": "willy adames",
+      "pitcher": "german marquez",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "rafael devers",
       "pitcher": "german marquez",
