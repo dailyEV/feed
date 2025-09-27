@@ -1727,8 +1727,8 @@
     "68": {
       "player": "carson williams",
       "pitcher": "jeff hoffman",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "67": {
       "player": "josh lowe",
@@ -2137,8 +2137,8 @@
     "68": {
       "player": "gleyber torres",
       "pitcher": "aroldis chapman",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "67": {
       "player": "justyn henry malloy",
@@ -2544,6 +2544,12 @@
     }
   },
   "tex @ cle": {
+    "67": {
+      "player": "cody freeman",
+      "pitcher": "zak kent",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "66": {
       "player": "joc pederson",
       "pitcher": "zak kent",
@@ -2945,8 +2951,8 @@
     "68": {
       "player": "heriberto hernandez",
       "pitcher": "kevin herget",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "67": {
       "player": "troy johnston",
@@ -3979,7 +3985,14 @@
       "pitch": "Sinker"
     }
   },
-  "hou @ laa": {},
+  "hou @ laa": {
+    "1": {
+      "player": "jose altuve",
+      "pitcher": "kyle hendricks",
+      "result": "Foul",
+      "pitch": "Sinker"
+    }
+  },
   "ari @ sd": {},
   "lad @ sea": {},
   "kc @ ath": {},
