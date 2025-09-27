@@ -404,6 +404,12 @@
     }
   },
   "stl @ chc": {
+    "58": {
+      "player": "kyle tucker",
+      "pitcher": "matt svanson",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "57": {
       "player": "ian happ",
       "pitcher": "matt svanson",
@@ -954,11 +960,17 @@
     }
   },
   "col @ sf": {
+    "9": {
+      "player": "yanquiel fernandez",
+      "pitcher": "justin verlander",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "brenton doyle",
       "pitcher": "justin verlander",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "7": {
       "player": "willy adames",
@@ -1008,8 +1020,8 @@
     "5": {
       "player": "david hamilton",
       "pitcher": "keider montero",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "spencer torkelson",
