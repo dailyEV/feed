@@ -1236,10 +1236,16 @@
     }
   },
   "bal @ nyy": {
+    "57": {
+      "player": "gunnar henderson",
+      "pitcher": "tim hill",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "56": {
       "player": "jordan westburg",
       "pitcher": "tim hill",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "55": {
@@ -1577,8 +1583,8 @@
     "58": {
       "player": "vladimir guerrero",
       "pitcher": "cole sulser",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "57": {
       "player": "nathan lukes",
@@ -2262,12 +2268,6 @@
     }
   },
   "tex @ cle": {
-    "53": {
-      "player": "josh jung",
-      "pitcher": "jakob junis",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "52": {
       "player": "cody freeman",
       "pitcher": "jakob junis",
@@ -2923,8 +2923,8 @@
     "54": {
       "player": "marcell ozuna",
       "pitcher": "mike burrows",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "53": {
       "player": "michael harris",
