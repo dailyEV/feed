@@ -1263,7 +1263,7 @@
     "65": {
       "player": "warming bernabel",
       "pitcher": "spencer bivens",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "64": {
@@ -1655,7 +1655,7 @@
     "48": {
       "player": "luis garcia",
       "pitcher": "sean burke",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -1945,8 +1945,8 @@
     "60": {
       "player": "rob refsnyder",
       "pitcher": "tyler holton",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "59": {
       "player": "wilyer abreu",
@@ -2307,8 +2307,8 @@
     "57": {
       "player": "starling marte",
       "pitcher": "josh simpson",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "brandon nimmo",
@@ -2648,6 +2648,12 @@
     }
   },
   "min @ phi": {
+    "7": {
+      "player": "harrison bader",
+      "pitcher": "mick abel",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "brooks lee",
       "pitcher": "ranger suarez",
