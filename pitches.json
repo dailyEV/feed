@@ -3541,7 +3541,7 @@
     "66": {
       "player": "jack suwinski",
       "pitcher": "dylan dodd",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "65": {
@@ -4584,11 +4584,17 @@
     }
   },
   "lad @ sea": {
+    "20": {
+      "player": "shohei ohtani",
+      "pitcher": "george kirby",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "19": {
       "player": "ben rortvedt",
       "pitcher": "george kirby",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "18": {
       "player": "enrique hernandez",
@@ -4703,8 +4709,8 @@
     "11": {
       "player": "carter jensen",
       "pitcher": "mason barnett",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "salvador perez",
@@ -4768,6 +4774,12 @@
     }
   },
   "col @ sf": {
+    "5": {
+      "player": "heliot ramos",
+      "pitcher": "german marquez",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "jordan beck",
       "pitcher": "trevor mcdonald",
