@@ -769,7 +769,7 @@
     "56": {
       "player": "miguel vargas",
       "pitcher": "sauryn lao",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "55": {
@@ -1385,8 +1385,8 @@
     "46": {
       "player": "jonathan aranda",
       "pitcher": "mason fluharty",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "45": {
       "player": "alejandro kirk",
@@ -2434,6 +2434,12 @@
     }
   },
   "pit @ atl": {
+    "42": {
+      "player": "andrew mccutchen",
+      "pitcher": "joey wentz",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "41": {
       "player": "bryan reynolds",
       "pitcher": "joey wentz",
@@ -2685,8 +2691,8 @@
     "17": {
       "player": "matt mclain",
       "pitcher": "quinn priester",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "16": {
       "player": "kebryan hayes",
