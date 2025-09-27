@@ -1329,8 +1329,8 @@
     "75": {
       "player": "jordan westburg",
       "pitcher": "david bednar",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Splitter"
     },
     "74": {
       "player": "jackson holliday",
@@ -3885,7 +3885,7 @@
     "52": {
       "player": "tj friedl",
       "pitcher": "tobias myers",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "51": {
@@ -4196,6 +4196,12 @@
     }
   },
   "hou @ laa": {
+    "9": {
+      "player": "zach cole",
+      "pitcher": "kyle hendricks",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "yainer diaz",
       "pitcher": "kyle hendricks",
