@@ -404,6 +404,12 @@
     }
   },
   "stl @ chc": {
+    "63": {
+      "player": "carson kelly",
+      "pitcher": "jorge alcala",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "62": {
       "player": "seiya suzuki",
       "pitcher": "jorge alcala",
@@ -778,10 +784,16 @@
     }
   },
   "tb @ tor": {
+    "41": {
+      "player": "george springer",
+      "pitcher": "joe boyle",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "40": {
       "player": "andres gimenez",
       "pitcher": "joe boyle",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "39": {
@@ -1116,8 +1128,8 @@
     "11": {
       "player": "andy ibanez",
       "pitcher": "connelly early",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "dillon dingler",
@@ -1184,7 +1196,7 @@
     "11": {
       "player": "ronny mauricio",
       "pitcher": "eury perez",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "10": {
