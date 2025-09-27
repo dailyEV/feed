@@ -449,7 +449,7 @@
     "42": {
       "player": "brandon marsh",
       "pitcher": "travis adams",
-      "result": "In play, run(s)",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "41": {
@@ -700,6 +700,12 @@
     }
   },
   "chw @ wsh": {
+    "45": {
+      "player": "james wood",
+      "pitcher": "yoendrys gomez",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "44": {
       "player": "paul dejong",
       "pitcher": "yoendrys gomez",
@@ -1160,11 +1166,17 @@
     }
   },
   "tb @ tor": {
+    "34": {
+      "player": "ernie clement",
+      "pitcher": "adrian houser",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "33": {
       "player": "anthony santander",
       "pitcher": "adrian houser",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "32": {
       "player": "daulton varsho",
@@ -1569,8 +1581,8 @@
     "30": {
       "player": "billy mckinney",
       "pitcher": "slade cecconi",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "jonah heim",
