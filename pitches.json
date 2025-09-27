@@ -1263,7 +1263,7 @@
     "62": {
       "player": "brenton doyle",
       "pitcher": "ryan walker",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "61": {
@@ -2244,10 +2244,16 @@
     }
   },
   "nym @ mia": {
+    "55": {
+      "player": "otto lopez",
+      "pitcher": "brooks raley",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "54": {
       "player": "eric wagaman",
       "pitcher": "brooks raley",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "53": {
@@ -2570,6 +2576,12 @@
     }
   },
   "min @ phi": {
+    "4": {
+      "player": "royce lewis",
+      "pitcher": "ranger suarez",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "3": {
       "player": "ryan jeffers",
       "pitcher": "ranger suarez",
