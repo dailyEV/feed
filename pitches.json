@@ -784,16 +784,10 @@
     }
   },
   "tb @ tor": {
-    "41": {
-      "player": "george springer",
-      "pitcher": "joe boyle",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "40": {
       "player": "andres gimenez",
       "pitcher": "joe boyle",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "39": {
@@ -1128,8 +1122,8 @@
     "11": {
       "player": "andy ibanez",
       "pitcher": "connelly early",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "10": {
       "player": "dillon dingler",
@@ -1193,10 +1187,16 @@
     }
   },
   "nym @ mia": {
+    "12": {
+      "player": "tyrone taylor",
+      "pitcher": "eury perez",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "ronny mauricio",
       "pitcher": "eury perez",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "10": {
