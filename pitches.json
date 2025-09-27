@@ -715,7 +715,7 @@
     "46": {
       "player": "dominic fletcher",
       "pitcher": "shinnosuke ogasawara",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -993,8 +993,8 @@
     "34": {
       "player": "austin wells",
       "pitcher": "colin selby",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "anthony volpe",
@@ -2011,7 +2011,7 @@
     "33": {
       "player": "henry davis",
       "pitcher": "joey wentz",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "32": {
@@ -2208,6 +2208,12 @@
     }
   },
   "cin @ mil": {
+    "7": {
+      "player": "brice turang",
+      "pitcher": "zack littell",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "jackson chourio",
       "pitcher": "zack littell",
