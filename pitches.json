@@ -449,7 +449,7 @@
     "47": {
       "player": "kody clemens",
       "pitcher": "aaron nola",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Knuckle Curve"
     },
     "46": {
@@ -1026,6 +1026,12 @@
     }
   },
   "bal @ nyy": {
+    "37": {
+      "player": "jackson holliday",
+      "pitcher": "will warren",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "36": {
       "player": "coby mayo",
       "pitcher": "will warren",
@@ -1480,6 +1486,12 @@
     }
   },
   "det @ bos": {
+    "41": {
+      "player": "parker meadows",
+      "pitcher": "steven matz",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "40": {
       "player": "dillon dingler",
       "pitcher": "steven matz",
@@ -2358,11 +2370,17 @@
     }
   },
   "cin @ mil": {
+    "10": {
+      "player": "spencer steer",
+      "pitcher": "quinn priester",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "elly de la cruz",
       "pitcher": "quinn priester",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "8": {
       "player": "william contreras",
