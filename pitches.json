@@ -446,12 +446,6 @@
     }
   },
   "min @ phi": {
-    "35": {
-      "player": "kyle schwarber",
-      "pitcher": "joe ryan",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "34": {
       "player": "harrison bader",
       "pitcher": "joe ryan",
@@ -661,8 +655,8 @@
     "38": {
       "player": "lenyn sosa",
       "pitcher": "orlando ribalta",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
     },
     "37": {
       "player": "brooks baldwin",
@@ -1365,7 +1359,7 @@
     "23": {
       "player": "ezequiel duran",
       "pitcher": "slade cecconi",
-      "result": "Ball In Dirt",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "22": {
@@ -1651,8 +1645,8 @@
     "23": {
       "player": "spencer horwitz",
       "pitcher": "joey wentz",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "22": {
       "player": "andrew mccutchen",
