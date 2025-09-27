@@ -838,12 +838,6 @@
     }
   },
   "chw @ wsh": {
-    "74": {
-      "player": "colson montgomery",
-      "pitcher": "jose a ferrer",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "73": {
       "player": "kyle teel",
       "pitcher": "jose a ferrer",
@@ -1661,7 +1655,7 @@
     "63": {
       "player": "christopher morel",
       "pitcher": "brendon little",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Knuckle Curve"
     },
     "62": {
@@ -2038,6 +2032,12 @@
     }
   },
   "det @ bos": {
+    "63": {
+      "player": "carlos narvaez",
+      "pitcher": "kyle finnegan",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "62": {
       "player": "javier baez",
       "pitcher": "garrett whitlock",
@@ -2415,8 +2415,8 @@
     "61": {
       "player": "billy mckinney",
       "pitcher": "zak kent",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "jonah heim",
@@ -2783,8 +2783,8 @@
     "63": {
       "player": "jeff mcneil",
       "pitcher": "cade gibson",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "pete alonso",
@@ -3525,7 +3525,7 @@
     "39": {
       "player": "christian yelich",
       "pitcher": "zack littell",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "38": {
