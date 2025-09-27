@@ -805,8 +805,8 @@
     "44": {
       "player": "jonathan aranda",
       "pitcher": "yariel rodriguez",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "43": {
       "player": "vladimir guerrero",
@@ -1068,6 +1068,12 @@
     }
   },
   "col @ sf": {
+    "19": {
+      "player": "ezequiel tovar",
+      "pitcher": "justin verlander",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "ryan ritter",
       "pitcher": "justin verlander",
@@ -1179,11 +1185,17 @@
   },
   "chw @ wsh": {},
   "det @ bos": {
+    "16": {
+      "player": "nick sogard",
+      "pitcher": "keider montero",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "nate eaton",
       "pitcher": "keider montero",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "14": {
       "player": "carlos narvaez",
@@ -1271,12 +1283,6 @@
     }
   },
   "nym @ mia": {
-    "16": {
-      "player": "francisco lindor",
-      "pitcher": "eury perez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "15": {
       "player": "griffin conine",
       "pitcher": "clay holmes",
