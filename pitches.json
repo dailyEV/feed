@@ -1263,8 +1263,8 @@
     "59": {
       "player": "rafael devers",
       "pitcher": "victor vodnik",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "heliot ramos",
@@ -1619,7 +1619,7 @@
     "41": {
       "player": "miguel vargas",
       "pitcher": "jake irvin",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "40": {
@@ -2503,7 +2503,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "min @ phi": {},
+  "min @ phi": {
+    "1": {
+      "player": "byron buxton",
+      "pitcher": "ranger suarez",
+      "result": "Ball",
+      "pitch": "Cutter"
+    }
+  },
   "tex @ cle": {},
   "pit @ atl": {},
   "cin @ mil": {},
