@@ -655,8 +655,8 @@
     "37": {
       "player": "brooks baldwin",
       "pitcher": "orlando ribalta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "36": {
       "player": "edgar quero",
@@ -1335,7 +1335,7 @@
     "22": {
       "player": "rowdy tellez",
       "pitcher": "slade cecconi",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "21": {
@@ -1600,6 +1600,12 @@
     }
   },
   "pit @ atl": {
+    "22": {
+      "player": "andrew mccutchen",
+      "pitcher": "joey wentz",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "21": {
       "player": "brett wisely",
       "pitcher": "mitch keller",
