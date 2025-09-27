@@ -1215,7 +1215,7 @@
     "54": {
       "player": "austin wells",
       "pitcher": "yennier cano",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Splitter"
     },
     "53": {
@@ -2495,8 +2495,8 @@
     "54": {
       "player": "luis torrens",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "53": {
       "player": "cedric mullins",
@@ -2818,6 +2818,12 @@
     }
   },
   "pit @ atl": {
+    "52": {
+      "player": "nick gonzales",
+      "pitcher": "joel payamps",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "jared triolo",
       "pitcher": "joel payamps",
