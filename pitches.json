@@ -691,8 +691,8 @@
     "43": {
       "player": "robert hassell",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "riley adams",
@@ -1127,7 +1127,7 @@
     "31": {
       "player": "carson williams",
       "pitcher": "shane bieber",
-      "result": "Ball In Dirt",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "30": {
@@ -1315,8 +1315,8 @@
     "31": {
       "player": "gleyber torres",
       "pitcher": "justin slaten",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "30": {
       "player": "jahmai jones",
@@ -1503,8 +1503,8 @@
     "27": {
       "player": "kyle manzardo",
       "pitcher": "jack leiter",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "jose ramirez",
@@ -1667,7 +1667,7 @@
     "28": {
       "player": "cedric mullins",
       "pitcher": "sandy alcantara",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "27": {
@@ -1834,6 +1834,12 @@
     }
   },
   "pit @ atl": {
+    "29": {
+      "player": "drake baldwin",
+      "pitcher": "mitch keller",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "ronald acuna",
       "pitcher": "mitch keller",
