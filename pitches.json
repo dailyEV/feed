@@ -407,7 +407,7 @@
     "74": {
       "player": "nathan church",
       "pitcher": "brad keller",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "73": {
@@ -1155,8 +1155,8 @@
     "27": {
       "player": "yanquiel fernandez",
       "pitcher": "justin verlander",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "26": {
       "player": "brenton doyle",
@@ -1488,11 +1488,17 @@
     }
   },
   "nym @ mia": {
+    "23": {
+      "player": "xavier edwards",
+      "pitcher": "clay holmes",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "22": {
       "player": "heriberto hernandez",
       "pitcher": "clay holmes",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "21": {
       "player": "graham pauley",
