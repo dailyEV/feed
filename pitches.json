@@ -733,8 +733,8 @@
     "49": {
       "player": "cj abrams",
       "pitcher": "yoendrys gomez",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "kyle teel",
@@ -1026,6 +1026,12 @@
     }
   },
   "bal @ nyy": {
+    "38": {
+      "player": "jordan westburg",
+      "pitcher": "will warren",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "37": {
       "player": "jackson holliday",
       "pitcher": "will warren",
@@ -1253,7 +1259,7 @@
     "39": {
       "player": "junior caminero",
       "pitcher": "shane bieber",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "38": {
@@ -1486,12 +1492,6 @@
     }
   },
   "det @ bos": {
-    "41": {
-      "player": "parker meadows",
-      "pitcher": "steven matz",
-      "result": "Foul",
-      "pitch": "Sinker"
-    },
     "40": {
       "player": "dillon dingler",
       "pitcher": "steven matz",
@@ -1737,7 +1737,7 @@
     "34": {
       "player": "daniel schneemann",
       "pitcher": "jack leiter",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "33": {
@@ -2373,8 +2373,8 @@
     "10": {
       "player": "spencer steer",
       "pitcher": "quinn priester",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "9": {
       "player": "elly de la cruz",
