@@ -407,8 +407,8 @@
     "70": {
       "player": "nolan gorman",
       "pitcher": "brad keller",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "69": {
       "player": "nolan arenado",
@@ -820,10 +820,16 @@
     }
   },
   "tb @ tor": {
+    "48": {
+      "player": "carson williams",
+      "pitcher": "yariel rodriguez",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "47": {
       "player": "nick fortes",
       "pitcher": "yariel rodriguez",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "Slider"
     },
     "46": {
@@ -1365,8 +1371,8 @@
     "18": {
       "player": "pete alonso",
       "pitcher": "eury perez",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "juan soto",
