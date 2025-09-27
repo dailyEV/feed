@@ -3951,7 +3951,7 @@
     "69": {
       "player": "andrew vaughn",
       "pitcher": "emilio pagan",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "68": {
@@ -4653,8 +4653,8 @@
     "22": {
       "player": "michael conforto",
       "pitcher": "george kirby",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "21": {
       "player": "andy pages",
@@ -4787,7 +4787,7 @@
     "13": {
       "player": "adam frazier",
       "pitcher": "mason barnett",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -4864,6 +4864,12 @@
     }
   },
   "col @ sf": {
+    "8": {
+      "player": "matt chapman",
+      "pitcher": "german marquez",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "7": {
       "player": "willy adames",
       "pitcher": "german marquez",
