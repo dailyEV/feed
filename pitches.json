@@ -3541,8 +3541,8 @@
     "81": {
       "player": "matt olson",
       "pitcher": "dennis santana",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "80": {
       "player": "jurickson profar",
@@ -4658,7 +4658,7 @@
       "player": "freddy fermin",
       "pitcher": "zac gallen",
       "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "pitch": "Cutter"
     },
     "33": {
       "player": "jake cronenworth",
@@ -4863,7 +4863,7 @@
     "31": {
       "player": "luke raley",
       "pitcher": "will klein",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "30": {
@@ -5048,11 +5048,17 @@
     }
   },
   "kc @ ath": {
+    "24": {
+      "player": "tyler soderstrom",
+      "pitcher": "noah cameron",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "brent rooker",
       "pitcher": "noah cameron",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "22": {
       "player": "nick kurtz",
