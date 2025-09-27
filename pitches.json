@@ -1739,8 +1739,8 @@
     "69": {
       "player": "hunter feduccia",
       "pitcher": "jeff hoffman",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "carson williams",
@@ -2152,6 +2152,12 @@
     }
   },
   "det @ bos": {
+    "70": {
+      "player": "spencer torkelson",
+      "pitcher": "aroldis chapman",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "69": {
       "player": "wenceel perez",
       "pitcher": "aroldis chapman",
@@ -4043,7 +4049,14 @@
       "pitch": "Slider"
     }
   },
-  "lad @ sea": {},
+  "lad @ sea": {
+    "1": {
+      "player": "shohei ohtani",
+      "pitcher": "george kirby",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    }
+  },
   "kc @ ath": {},
   "col @ sf": {}
 }
