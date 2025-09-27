@@ -829,8 +829,8 @@
     "63": {
       "player": "derek hill",
       "pitcher": "pj poulin",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Hit By Pitch",
+      "pitch": "Sweeper"
     },
     "62": {
       "player": "lenyn sosa",
@@ -1206,10 +1206,16 @@
     }
   },
   "bal @ nyy": {
+    "54": {
+      "player": "austin wells",
+      "pitcher": "yennier cano",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "53": {
       "player": "anthony volpe",
       "pitcher": "yennier cano",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Splitter"
     },
     "52": {
@@ -1855,7 +1861,7 @@
     "54": {
       "player": "andy ibanez",
       "pitcher": "zack kelly",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "53": {
@@ -2794,6 +2800,18 @@
     }
   },
   "pit @ atl": {
+    "51": {
+      "player": "jared triolo",
+      "pitcher": "joel payamps",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "50": {
+      "player": "henry davis",
+      "pitcher": "joel payamps",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "49": {
       "player": "ha seong kim",
       "pitcher": "mike burrows",
@@ -3093,8 +3111,8 @@
     "29": {
       "player": "tyler stephenson",
       "pitcher": "quinn priester",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "spencer steer",
