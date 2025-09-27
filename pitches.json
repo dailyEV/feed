@@ -841,7 +841,7 @@
     "79": {
       "player": "james wood",
       "pitcher": "grant taylor",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "78": {
@@ -1317,7 +1317,7 @@
     "66": {
       "player": "jazz chisholm",
       "pitcher": "jose castillo",
-      "result": "In play, run(s)",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "65": {
@@ -1712,6 +1712,12 @@
     }
   },
   "tb @ tor": {
+    "67": {
+      "player": "josh lowe",
+      "pitcher": "jeff hoffman",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "66": {
       "player": "daulton varsho",
       "pitcher": "cole sulser",
@@ -2113,8 +2119,8 @@
     "67": {
       "player": "justyn henry malloy",
       "pitcher": "aroldis chapman",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "66": {
       "player": "alex bregman",
@@ -2514,6 +2520,18 @@
     }
   },
   "tex @ cle": {
+    "66": {
+      "player": "joc pederson",
+      "pitcher": "zak kent",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
+    "65": {
+      "player": "michael helman",
+      "pitcher": "zak kent",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "george valera",
       "pitcher": "shawn armstrong",
