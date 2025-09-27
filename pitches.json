@@ -847,8 +847,8 @@
     "54": {
       "player": "brandon lowe",
       "pitcher": "justin bruihl",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "53": {
       "player": "bob seymour",
@@ -1402,10 +1402,16 @@
     }
   },
   "det @ bos": {
+    "25": {
+      "player": "wenceel perez",
+      "pitcher": "connelly early",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "24": {
       "player": "gleyber torres",
       "pitcher": "connelly early",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "23": {
@@ -1551,7 +1557,7 @@
     "25": {
       "player": "starling marte",
       "pitcher": "eury perez",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "24": {
