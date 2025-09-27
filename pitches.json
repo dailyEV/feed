@@ -838,10 +838,16 @@
     }
   },
   "chw @ wsh": {
+    "74": {
+      "player": "colson montgomery",
+      "pitcher": "jose a ferrer",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "73": {
       "player": "kyle teel",
       "pitcher": "jose a ferrer",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "72": {
@@ -1655,7 +1661,7 @@
     "63": {
       "player": "christopher morel",
       "pitcher": "brendon little",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Knuckle Curve"
     },
     "62": {
@@ -2409,8 +2415,8 @@
     "61": {
       "player": "billy mckinney",
       "pitcher": "zak kent",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "60": {
       "player": "jonah heim",
@@ -3516,6 +3522,12 @@
     }
   },
   "cin @ mil": {
+    "39": {
+      "player": "christian yelich",
+      "pitcher": "zack littell",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "joey ortiz",
       "pitcher": "zack littell",
