@@ -1757,7 +1757,7 @@
     "71": {
       "player": "yandy diaz",
       "pitcher": "jeff hoffman",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "70": {
@@ -2182,10 +2182,16 @@
     }
   },
   "det @ bos": {
+    "72": {
+      "player": "romy gonzalez",
+      "pitcher": "tommy kahnle",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "71": {
       "player": "masataka yoshida",
       "pitcher": "tommy kahnle",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "70": {
@@ -2610,6 +2616,12 @@
     }
   },
   "tex @ cle": {
+    "71": {
+      "player": "kyle manzardo",
+      "pitcher": "phil maton",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "70": {
       "player": "jose ramirez",
       "pitcher": "phil maton",
