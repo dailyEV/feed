@@ -449,8 +449,8 @@
     "57": {
       "player": "alec bohm",
       "pitcher": "michael tonkin",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "56": {
       "player": "james outman",
@@ -790,11 +790,17 @@
     }
   },
   "chw @ wsh": {
+    "60": {
+      "player": "james wood",
+      "pitcher": "brandon eisert",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "59": {
       "player": "paul dejong",
       "pitcher": "brandon eisert",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "robert hassell",
@@ -1445,8 +1451,8 @@
     "50": {
       "player": "anthony santander",
       "pitcher": "adrian houser",
-      "result": "Foul Tip",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "daulton varsho",
@@ -1744,6 +1750,12 @@
     }
   },
   "det @ bos": {
+    "49": {
+      "player": "jarren duran",
+      "pitcher": "casey mize",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "48": {
       "player": "wenceel perez",
       "pitcher": "greg weissert",
