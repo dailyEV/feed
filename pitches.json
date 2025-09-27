@@ -446,6 +446,12 @@
     }
   },
   "min @ phi": {
+    "58": {
+      "player": "brandon marsh",
+      "pitcher": "michael tonkin",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "57": {
       "player": "alec bohm",
       "pitcher": "michael tonkin",
@@ -794,7 +800,7 @@
       "player": "james wood",
       "pitcher": "brandon eisert",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "paul dejong",
@@ -1756,10 +1762,16 @@
     }
   },
   "det @ bos": {
+    "51": {
+      "player": "alex bregman",
+      "pitcher": "casey mize",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "50": {
       "player": "trevor story",
       "pitcher": "casey mize",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -2339,8 +2351,8 @@
     "47": {
       "player": "jeff mcneil",
       "pitcher": "sandy alcantara",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "46": {
       "player": "pete alonso",
@@ -2620,6 +2632,12 @@
     }
   },
   "pit @ atl": {
+    "46": {
+      "player": "nick yorke",
+      "pitcher": "hunter stratton",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "jack suwinski",
       "pitcher": "hunter stratton",
@@ -2895,8 +2913,8 @@
     "24": {
       "player": "william contreras",
       "pitcher": "zack littell",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "23": {
       "player": "brice turang",
