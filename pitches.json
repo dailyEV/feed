@@ -844,12 +844,6 @@
     }
   },
   "tb @ tor": {
-    "66": {
-      "player": "jake mangum",
-      "pitcher": "seranthony dominguez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "65": {
       "player": "myles straw",
       "pitcher": "pete fairbanks",
@@ -1245,8 +1239,8 @@
     "41": {
       "player": "brenton doyle",
       "pitcher": "justin verlander",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "40": {
       "player": "jordan beck",
@@ -1490,6 +1484,12 @@
     }
   },
   "chw @ wsh": {
+    "23": {
+      "player": "miguel vargas",
+      "pitcher": "jake irvin",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "22": {
       "player": "colson montgomery",
       "pitcher": "jake irvin",
@@ -1627,8 +1627,8 @@
     "38": {
       "player": "nick sogard",
       "pitcher": "keider montero",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "gleyber torres",
