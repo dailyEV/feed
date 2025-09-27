@@ -1505,7 +1505,7 @@
     "54": {
       "player": "chandler simpson",
       "pitcher": "mason fluharty",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "53": {
@@ -2142,6 +2142,12 @@
     }
   },
   "tex @ cle": {
+    "49": {
+      "player": "billy mckinney",
+      "pitcher": "matt festa",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "jonah heim",
       "pitcher": "matt festa",
@@ -2740,6 +2746,12 @@
     }
   },
   "pit @ atl": {
+    "49": {
+      "player": "ha seong kim",
+      "pitcher": "mike burrows",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "48": {
       "player": "drake baldwin",
       "pitcher": "mike burrows",
@@ -3033,8 +3045,8 @@
     "27": {
       "player": "elly de la cruz",
       "pitcher": "quinn priester",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "26": {
       "player": "miguel andujar",
