@@ -1326,12 +1326,6 @@
     }
   },
   "bal @ nyy": {
-    "68": {
-      "player": "colton cowser",
-      "pitcher": "camilo doval",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "67": {
       "player": "anthony volpe",
       "pitcher": "jose castillo",
@@ -1739,8 +1733,8 @@
     "69": {
       "player": "hunter feduccia",
       "pitcher": "jeff hoffman",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "68": {
       "player": "carson williams",
@@ -4019,11 +4013,18 @@
     "1": {
       "player": "jose altuve",
       "pitcher": "kyle hendricks",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     }
   },
-  "ari @ sd": {},
+  "ari @ sd": {
+    "1": {
+      "player": "geraldo perdomo",
+      "pitcher": "yu darvish",
+      "result": "Ball",
+      "pitch": "Slider"
+    }
+  },
   "lad @ sea": {},
   "kc @ ath": {},
   "col @ sf": {}
