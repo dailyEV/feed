@@ -2155,7 +2155,7 @@
     "70": {
       "player": "spencer torkelson",
       "pitcher": "aroldis chapman",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "69": {
@@ -4040,11 +4040,17 @@
     }
   },
   "hou @ laa": {
-    "2": {
-      "player": "isaac paredes",
+    "3": {
+      "player": "carlos correa",
       "pitcher": "kyle hendricks",
       "result": "Called Strike",
       "pitch": "Sinker"
+    },
+    "2": {
+      "player": "isaac paredes",
+      "pitcher": "kyle hendricks",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "jose altuve",
@@ -4054,6 +4060,12 @@
     }
   },
   "ari @ sd": {
+    "2": {
+      "player": "ketel marte",
+      "pitcher": "yu darvish",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "geraldo perdomo",
       "pitcher": "yu darvish",
