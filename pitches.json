@@ -1664,8 +1664,14 @@
     }
   },
   "chw @ wsh": {
-    "70": {
+    "71": {
       "player": "curtis mead",
+      "pitcher": "jose a ferrer",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
+    "70": {
+      "player": "edgar quero",
       "pitcher": "jose a ferrer",
       "result": "In play, no out",
       "pitch": "Sinker"
@@ -3186,6 +3192,12 @@
     }
   },
   "pit @ atl": {
+    "4": {
+      "player": "jurickson profar",
+      "pitcher": "bubba chandler",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "bryan reynolds",
       "pitcher": "spencer strider",
@@ -3206,12 +3218,6 @@
     }
   },
   "cin @ mil": {
-    "5": {
-      "player": "sal stewart",
-      "pitcher": "robert gasser",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "4": {
       "player": "spencer steer",
       "pitcher": "robert gasser",
