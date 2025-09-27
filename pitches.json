@@ -449,8 +449,8 @@
     "54": {
       "player": "edouard julien",
       "pitcher": "aaron nola",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "53": {
       "player": "bryce harper",
@@ -1116,6 +1116,12 @@
     }
   },
   "bal @ nyy": {
+    "48": {
+      "player": "samuel basallo",
+      "pitcher": "mark leiter",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "47": {
       "player": "colton cowser",
       "pitcher": "mark leiter",
@@ -1403,7 +1409,7 @@
     "48": {
       "player": "josh lowe",
       "pitcher": "mason fluharty",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "47": {
@@ -1690,11 +1696,17 @@
     }
   },
   "det @ bos": {
+    "47": {
+      "player": "gleyber torres",
+      "pitcher": "greg weissert",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "kerry carpenter",
       "pitcher": "greg weissert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "carlos narvaez",
@@ -2222,6 +2234,12 @@
     }
   },
   "nym @ mia": {
+    "44": {
+      "player": "otto lopez",
+      "pitcher": "gregory soto",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "43": {
       "player": "connor norby",
       "pitcher": "gregory soto",
