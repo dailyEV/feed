@@ -1263,8 +1263,8 @@
     "66": {
       "player": "ryan ritter",
       "pitcher": "spencer bivens",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "65": {
       "player": "warming bernabel",
@@ -1951,7 +1951,7 @@
     "61": {
       "player": "masataka yoshida",
       "pitcher": "tyler holton",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "60": {
@@ -2319,7 +2319,7 @@
     "58": {
       "player": "jeff mcneil",
       "pitcher": "josh simpson",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "57": {
@@ -2666,11 +2666,17 @@
     }
   },
   "min @ phi": {
+    "8": {
+      "player": "kyle schwarber",
+      "pitcher": "mick abel",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "7": {
       "player": "harrison bader",
       "pitcher": "mick abel",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "6": {
       "player": "brooks lee",
