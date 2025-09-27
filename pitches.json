@@ -407,7 +407,7 @@
     "64": {
       "player": "pete crow armstrong",
       "pitcher": "jorge alcala",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "63": {
@@ -793,8 +793,8 @@
     "41": {
       "player": "george springer",
       "pitcher": "joe boyle",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "40": {
       "player": "andres gimenez",
@@ -1038,12 +1038,6 @@
     }
   },
   "col @ sf": {
-    "17": {
-      "player": "andrew knizner",
-      "pitcher": "kyle freeland",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "16": {
       "player": "jerar encarnacion",
       "pitcher": "kyle freeland",
@@ -1146,8 +1140,8 @@
     "12": {
       "player": "ceddanne rafaela",
       "pitcher": "keider montero",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "11": {
       "player": "andy ibanez",
@@ -1217,6 +1211,12 @@
     }
   },
   "nym @ mia": {
+    "13": {
+      "player": "liam hicks",
+      "pitcher": "clay holmes",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "12": {
       "player": "tyrone taylor",
       "pitcher": "eury perez",
