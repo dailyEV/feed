@@ -449,7 +449,7 @@
     "65": {
       "player": "trevor larnach",
       "pitcher": "jhoan duran",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -841,7 +841,7 @@
     "66": {
       "player": "josh bell",
       "pitcher": "jordan leasure",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "65": {
@@ -1236,16 +1236,10 @@
     }
   },
   "bal @ nyy": {
-    "57": {
-      "player": "gunnar henderson",
-      "pitcher": "tim hill",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
     "56": {
       "player": "jordan westburg",
       "pitcher": "tim hill",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "55": {
@@ -1933,7 +1927,7 @@
     "56": {
       "player": "romy gonzalez",
       "pitcher": "casey mize",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "55": {
@@ -2268,6 +2262,12 @@
     }
   },
   "tex @ cle": {
+    "53": {
+      "player": "josh jung",
+      "pitcher": "jakob junis",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "52": {
       "player": "cody freeman",
       "pitcher": "jakob junis",
@@ -2585,8 +2585,8 @@
     "56": {
       "player": "agustin ramirez",
       "pitcher": "huascar brazoban",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "55": {
       "player": "jakob marsee",
@@ -2923,8 +2923,8 @@
     "54": {
       "player": "marcell ozuna",
       "pitcher": "mike burrows",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "53": {
       "player": "michael harris",
