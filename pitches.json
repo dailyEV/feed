@@ -446,12 +446,6 @@
     }
   },
   "min @ phi": {
-    "45": {
-      "player": "bryson stott",
-      "pitcher": "travis adams",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "44": {
       "player": "nick castellanos",
       "pitcher": "travis adams",
@@ -718,6 +712,12 @@
     }
   },
   "chw @ wsh": {
+    "47": {
+      "player": "chase meidroth",
+      "pitcher": "shinnosuke ogasawara",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "46": {
       "player": "dominic fletcher",
       "pitcher": "shinnosuke ogasawara",
@@ -1000,7 +1000,7 @@
       "player": "austin wells",
       "pitcher": "colin selby",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Knuckle Curve"
     },
     "33": {
       "player": "anthony volpe",
@@ -1420,10 +1420,16 @@
     }
   },
   "det @ bos": {
+    "38": {
+      "player": "ceddanne rafaela",
+      "pitcher": "casey mize",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "romy gonzalez",
       "pitcher": "casey mize",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "36": {
@@ -2032,6 +2038,12 @@
     }
   },
   "pit @ atl": {
+    "34": {
+      "player": "jared triolo",
+      "pitcher": "joey wentz",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "33": {
       "player": "henry davis",
       "pitcher": "joey wentz",
