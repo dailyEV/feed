@@ -2975,7 +2975,7 @@
     "51": {
       "player": "ryan jeffers",
       "pitcher": "max lazar",
-      "result": "Swinging Strike",
+      "result": "Ball In Dirt",
       "pitch": "Splitter"
     },
     "50": {
@@ -3280,10 +3280,16 @@
     }
   },
   "tex @ cle": {
+    "19": {
+      "player": "cody freeman",
+      "pitcher": "joey cantillo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "michael helman",
       "pitcher": "joey cantillo",
-      "result": "In play, no out",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "17": {
@@ -3390,6 +3396,12 @@
     }
   },
   "pit @ atl": {
+    "23": {
+      "player": "matt olson",
+      "pitcher": "bubba chandler",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "22": {
       "player": "jurickson profar",
       "pitcher": "bubba chandler",
