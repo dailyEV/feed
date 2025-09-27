@@ -847,7 +847,7 @@
     "63": {
       "player": "vladimir guerrero",
       "pitcher": "pete fairbanks",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "62": {
@@ -1445,8 +1445,8 @@
     "18": {
       "player": "nasim nunez",
       "pitcher": "sean burke",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "chase meidroth",
@@ -1555,8 +1555,8 @@
     "34": {
       "player": "javier baez",
       "pitcher": "connelly early",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "33": {
       "player": "andy ibanez",
@@ -1758,6 +1758,12 @@
     }
   },
   "nym @ mia": {
+    "34": {
+      "player": "juan soto",
+      "pitcher": "eury perez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "33": {
       "player": "francisco lindor",
       "pitcher": "eury perez",
