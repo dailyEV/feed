@@ -841,7 +841,7 @@
     "77": {
       "player": "brooks baldwin",
       "pitcher": "jose a ferrer",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "76": {
@@ -1305,8 +1305,8 @@
     "64": {
       "player": "giancarlo stanton",
       "pitcher": "jose castillo",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "63": {
       "player": "cody bellinger",
@@ -1691,8 +1691,8 @@
     "65": {
       "player": "alejandro kirk",
       "pitcher": "cole sulser",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "addison barger",
@@ -2080,6 +2080,12 @@
     }
   },
   "det @ bos": {
+    "65": {
+      "player": "trevor story",
+      "pitcher": "kyle finnegan",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "jarren duran",
       "pitcher": "kyle finnegan",
@@ -2470,7 +2476,7 @@
       "player": "george valera",
       "pitcher": "shawn armstrong",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Sweeper"
     },
     "63": {
       "player": "steven kwan",
@@ -2855,8 +2861,8 @@
     "64": {
       "player": "mark vientos",
       "pitcher": "tyler phillips",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "63": {
       "player": "jeff mcneil",
