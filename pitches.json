@@ -4609,8 +4609,8 @@
     "31": {
       "player": "gavin sheets",
       "pitcher": "zac gallen",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "30": {
       "player": "xander bogaerts",
@@ -4797,7 +4797,7 @@
     "27": {
       "player": "teoscar hernandez",
       "pitcher": "george kirby",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -4958,11 +4958,17 @@
     }
   },
   "kc @ ath": {
+    "20": {
+      "player": "mike yastrzemski",
+      "pitcher": "mason barnett",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "19": {
       "player": "jac caglianone",
       "pitcher": "mason barnett",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "18": {
       "player": "shea langeliers",
@@ -5077,7 +5083,7 @@
     "17": {
       "player": "grant mccray",
       "pitcher": "german marquez",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "16": {
