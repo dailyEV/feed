@@ -1260,6 +1260,12 @@
     }
   },
   "col @ sf": {
+    "64": {
+      "player": "kyle karros",
+      "pitcher": "ryan walker",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "63": {
       "player": "yanquiel fernandez",
       "pitcher": "ryan walker",
@@ -1643,8 +1649,8 @@
     "46": {
       "player": "daylen lile",
       "pitcher": "sean burke",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "josh bell",
@@ -2600,11 +2606,17 @@
     }
   },
   "min @ phi": {
+    "6": {
+      "player": "brooks lee",
+      "pitcher": "ranger suarez",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "kody clemens",
       "pitcher": "ranger suarez",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "4": {
       "player": "royce lewis",
