@@ -446,6 +446,12 @@
     }
   },
   "min @ phi": {
+    "45": {
+      "player": "bryson stott",
+      "pitcher": "travis adams",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "44": {
       "player": "nick castellanos",
       "pitcher": "travis adams",
@@ -715,8 +721,8 @@
     "47": {
       "player": "chase meidroth",
       "pitcher": "shinnosuke ogasawara",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "46": {
       "player": "dominic fletcher",
@@ -1206,7 +1212,7 @@
       "player": "chandler simpson",
       "pitcher": "shane bieber",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Cutter"
     },
     "35": {
       "player": "hunter feduccia",
@@ -1650,6 +1656,12 @@
     }
   },
   "tex @ cle": {
+    "32": {
+      "player": "bo naylor",
+      "pitcher": "jack leiter",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "michael helman",
       "pitcher": "slade cecconi",
@@ -2041,8 +2053,8 @@
     "34": {
       "player": "jared triolo",
       "pitcher": "joey wentz",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "33": {
       "player": "henry davis",
@@ -2247,8 +2259,8 @@
     "7": {
       "player": "brice turang",
       "pitcher": "zack littell",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "6": {
       "player": "jackson chourio",
