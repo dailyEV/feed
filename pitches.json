@@ -446,12 +446,6 @@
     }
   },
   "min @ phi": {
-    "44": {
-      "player": "nick castellanos",
-      "pitcher": "travis adams",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "43": {
       "player": "jt realmuto",
       "pitcher": "travis adams",
@@ -712,6 +706,12 @@
     }
   },
   "chw @ wsh": {
+    "46": {
+      "player": "dominic fletcher",
+      "pitcher": "shinnosuke ogasawara",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "james wood",
       "pitcher": "yoendrys gomez",
@@ -987,7 +987,7 @@
     "34": {
       "player": "austin wells",
       "pitcher": "colin selby",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "Sinker"
     },
     "33": {
@@ -1190,6 +1190,12 @@
     }
   },
   "tb @ tor": {
+    "35": {
+      "player": "hunter feduccia",
+      "pitcher": "shane bieber",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "34": {
       "player": "ernie clement",
       "pitcher": "adrian houser",
@@ -1396,11 +1402,17 @@
     }
   },
   "det @ bos": {
+    "36": {
+      "player": "masataka yoshida",
+      "pitcher": "casey mize",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "alex bregman",
       "pitcher": "casey mize",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "riley greene",
@@ -1990,6 +2002,12 @@
     }
   },
   "pit @ atl": {
+    "33": {
+      "player": "henry davis",
+      "pitcher": "joey wentz",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "nick yorke",
       "pitcher": "joey wentz",
