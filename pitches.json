@@ -449,8 +449,8 @@
     "50": {
       "player": "brooks lee",
       "pitcher": "aaron nola",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "49": {
       "player": "trevor larnach",
@@ -1555,8 +1555,8 @@
     "42": {
       "player": "javier baez",
       "pitcher": "greg weissert",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
       "player": "parker meadows",
@@ -2027,8 +2027,8 @@
     "39": {
       "player": "graham pauley",
       "pitcher": "brandon sproat",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "heriberto hernandez",
@@ -2496,6 +2496,12 @@
     }
   },
   "cin @ mil": {
+    "13": {
+      "player": "andrew vaughn",
+      "pitcher": "zack littell",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "12": {
       "player": "sal frelick",
       "pitcher": "zack littell",
