@@ -1667,7 +1667,7 @@
     "69": {
       "player": "cj abrams",
       "pitcher": "cam booser",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "68": {
@@ -3145,18 +3145,19 @@
     "1": {
       "player": "michael helman",
       "pitcher": "joey cantillo",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     }
   },
-  "pit @ atl": {},
-  "cin @ mil": {
-    "2": {
-      "player": "noelvi marte",
-      "pitcher": "robert gasser",
-      "result": "Ball",
+  "pit @ atl": {
+    "1": {
+      "player": "oneil cruz",
+      "pitcher": "spencer strider",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
-    },
+    }
+  },
+  "cin @ mil": {
     "1": {
       "player": "tj friedl",
       "pitcher": "robert gasser",
