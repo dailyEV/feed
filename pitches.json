@@ -715,8 +715,8 @@
     "29": {
       "player": "jake mangum",
       "pitcher": "trey yesavage",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "28": {
       "player": "christopher morel",
@@ -887,7 +887,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "col @ sf": {},
+  "col @ sf": {
+    "1": {
+      "player": "ezequiel tovar",
+      "pitcher": "justin verlander",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "chw @ wsh": {},
   "det @ bos": {},
   "nym @ mia": {},
