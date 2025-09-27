@@ -1667,7 +1667,7 @@
     "70": {
       "player": "curtis mead",
       "pitcher": "jose a ferrer",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "69": {
@@ -3163,8 +3163,8 @@
     "4": {
       "player": "adolis garcia",
       "pitcher": "joey cantillo",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "josh jung",
@@ -3206,11 +3206,17 @@
     }
   },
   "cin @ mil": {
+    "5": {
+      "player": "sal stewart",
+      "pitcher": "robert gasser",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "4": {
       "player": "spencer steer",
       "pitcher": "robert gasser",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "3": {
       "player": "miguel andujar",
