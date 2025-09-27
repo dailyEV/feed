@@ -446,10 +446,16 @@
     }
   },
   "min @ phi": {
+    "45": {
+      "player": "bryson stott",
+      "pitcher": "travis adams",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "44": {
       "player": "nick castellanos",
       "pitcher": "travis adams",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "43": {
@@ -1196,11 +1202,17 @@
     }
   },
   "tb @ tor": {
+    "36": {
+      "player": "chandler simpson",
+      "pitcher": "shane bieber",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "hunter feduccia",
       "pitcher": "shane bieber",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "34": {
       "player": "ernie clement",
@@ -1411,7 +1423,7 @@
     "37": {
       "player": "romy gonzalez",
       "pitcher": "casey mize",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "36": {
@@ -1823,8 +1835,8 @@
     "33": {
       "player": "francisco lindor",
       "pitcher": "sandy alcantara",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "32": {
       "player": "otto lopez",
