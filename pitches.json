@@ -252,6 +252,12 @@
     }
   },
   "min @ phi": {
+    "13": {
+      "player": "ryan fitzgerald",
+      "pitcher": "cristopher sanchez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "12": {
       "player": "nick castellanos",
       "pitcher": "simeon woods richardson",
@@ -326,6 +332,12 @@
     }
   },
   "chw @ wsh": {
+    "15": {
+      "player": "luis garcia",
+      "pitcher": "shane smith",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "dylan crews",
       "pitcher": "shane smith",
@@ -619,8 +631,8 @@
     "11": {
       "player": "jake cronenworth",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "10": {
       "player": "gavin sheets",
@@ -687,7 +699,7 @@
     "11": {
       "player": "hyeseong kim",
       "pitcher": "bryce miller",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -808,12 +820,6 @@
     }
   },
   "nym @ mia": {
-    "12": {
-      "player": "connor norby",
-      "pitcher": "sean manaea",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "11": {
       "player": "otto lopez",
       "pitcher": "sean manaea",
@@ -948,7 +954,7 @@
       "player": "ha seong kim",
       "pitcher": "johan oviedo",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "9": {
       "player": "drake baldwin",
