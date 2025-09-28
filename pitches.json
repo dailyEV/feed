@@ -766,12 +766,6 @@
     }
   },
   "col @ sf": {
-    "62": {
-      "player": "jung hoo lee",
-      "pitcher": "juan mejia",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "61": {
       "player": "bryce eldridge",
       "pitcher": "juan mejia",
@@ -1140,6 +1134,12 @@
     }
   },
   "min @ phi": {
+    "58": {
+      "player": "garrett stubbs",
+      "pitcher": "genesis cabrera",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "bryson stott",
       "pitcher": "genesis cabrera",
@@ -1846,6 +1846,12 @@
     }
   },
   "bal @ nyy": {
+    "53": {
+      "player": "ryan mcmahon",
+      "pitcher": "dean kremer",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "coby mayo",
       "pitcher": "luke weaver",
@@ -2160,6 +2166,12 @@
     }
   },
   "hou @ laa": {
+    "62": {
+      "player": "sebastian  rivero",
+      "pitcher": "colton gordon",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "61": {
       "player": "carter kieboom",
       "pitcher": "colton gordon",
@@ -2528,6 +2540,12 @@
     }
   },
   "tb @ tor": {
+    "59": {
+      "player": "vladimir guerrero",
+      "pitcher": "kevin kelly",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "58": {
       "player": "andres gimenez",
       "pitcher": "kevin kelly",
@@ -2881,8 +2899,8 @@
     "52": {
       "player": "jake mccarthy",
       "pitcher": "jp sears",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "51": {
       "player": "alek thomas",
@@ -3527,8 +3545,8 @@
     "58": {
       "player": "ezequiel duran",
       "pitcher": "kolby allard",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "57": {
       "player": "jake burger",
@@ -3877,7 +3895,7 @@
     "55": {
       "player": "juan soto",
       "pitcher": "ronny henriquez",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "54": {
@@ -4210,7 +4228,7 @@
       "player": "tyler stephenson",
       "pitcher": "chad patrick",
       "result": "Called Strike",
-      "pitch": "Sinker"
+      "pitch": "Cutter"
     },
     "57": {
       "player": "kebryan hayes",
@@ -4556,11 +4574,17 @@
     }
   },
   "pit @ atl": {
+    "54": {
+      "player": "nacho alvarez",
+      "pitcher": "hunter barco",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "53": {
       "player": "marcell ozuna",
       "pitcher": "hunter barco",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "52": {
       "player": "michael harris",
