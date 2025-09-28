@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "48": {
+      "player": "nick sogard",
+      "pitcher": "paul sewald",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "47": {
       "player": "david hamilton",
       "pitcher": "paul sewald",
@@ -287,7 +293,7 @@
     "48": {
       "player": "maikel garcia",
       "pitcher": "mitch spence",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "47": {
@@ -1623,8 +1629,8 @@
     "47": {
       "player": "luis rengifo",
       "pitcher": "colton gordon",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "46": {
       "player": "bryce teodosio",
@@ -2158,10 +2164,16 @@
     }
   },
   "ari @ sd": {
+    "40": {
+      "player": "tim tawa",
+      "pitcher": "jp sears",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "39": {
       "player": "geraldo perdomo",
       "pitcher": "jp sears",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "38": {
@@ -2394,6 +2406,12 @@
     }
   },
   "lad @ sea": {
+    "43": {
+      "player": "michael conforto",
+      "pitcher": "caleb ferguson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "42": {
       "player": "cal raleigh",
       "pitcher": "clayton kershaw",
@@ -3404,6 +3422,12 @@
     }
   },
   "pit @ atl": {
+    "40": {
+      "player": "tommy pham",
+      "pitcher": "chris sale",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "jurickson profar",
       "pitcher": "johan oviedo",
@@ -3643,7 +3667,7 @@
     "39": {
       "player": "willi castro",
       "pitcher": "matt svanson",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "38": {
