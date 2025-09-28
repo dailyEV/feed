@@ -3,7 +3,7 @@
     "13": {
       "player": "nathaniel lowe",
       "pitcher": "chris paddack",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -169,8 +169,8 @@
     "14": {
       "player": "patrick bailey",
       "pitcher": "mccade brown",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "13": {
       "player": "jung hoo lee",
@@ -326,12 +326,6 @@
     }
   },
   "chw @ wsh": {
-    "15": {
-      "player": "luis garcia",
-      "pitcher": "shane smith",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "14": {
       "player": "dylan crews",
       "pitcher": "shane smith",
@@ -693,7 +687,7 @@
     "11": {
       "player": "hyeseong kim",
       "pitcher": "bryce miller",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -814,11 +808,17 @@
     }
   },
   "nym @ mia": {
+    "12": {
+      "player": "connor norby",
+      "pitcher": "sean manaea",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "11": {
       "player": "otto lopez",
       "pitcher": "sean manaea",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "francisco alvarez",
@@ -944,6 +944,12 @@
     }
   },
   "pit @ atl": {
+    "10": {
+      "player": "ha seong kim",
+      "pitcher": "johan oviedo",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "drake baldwin",
       "pitcher": "johan oviedo",
@@ -1004,7 +1010,7 @@
       "player": "nico hoerner",
       "pitcher": "kyle leahy",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Curveball"
     },
     "4": {
       "player": "michael busch",
