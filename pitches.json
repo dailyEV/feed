@@ -29,7 +29,7 @@
     "7": {
       "player": "nick kurtz",
       "pitcher": "cole ragans",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -136,6 +136,12 @@
     }
   },
   "bal @ nyy": {
+    "3": {
+      "player": "gunnar henderson",
+      "pitcher": "luis gil",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "jordan westburg",
       "pitcher": "luis gil",
@@ -187,8 +193,8 @@
     "1": {
       "player": "ketel marte",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     }
   },
   "lad @ sea": {
@@ -203,8 +209,8 @@
     "2": {
       "player": "cody freeman",
       "pitcher": "logan allen",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "1": {
       "player": "michael helman",
@@ -214,10 +220,16 @@
     }
   },
   "nym @ mia": {
+    "2": {
+      "player": "juan soto",
+      "pitcher": "edward cabrera",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "francisco lindor",
       "pitcher": "edward cabrera",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     }
   },
