@@ -107,7 +107,7 @@
     "19": {
       "player": "vinnie pasquantino",
       "pitcher": "elvis alvarado",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -321,7 +321,7 @@
     "16": {
       "player": "max kepler",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "15": {
@@ -704,6 +704,12 @@
     }
   },
   "tb @ tor": {
+    "15": {
+      "player": "tristan gray",
+      "pitcher": "kevin gausman",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "14": {
       "player": "hunter feduccia",
       "pitcher": "kevin gausman",
@@ -876,6 +882,12 @@
     }
   },
   "lad @ sea": {
+    "16": {
+      "player": "leo rivas",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "jp crawford",
       "pitcher": "clayton kershaw",
@@ -1288,12 +1300,6 @@
     }
   },
   "stl @ chc": {
-    "9": {
-      "player": "jimmy crooks",
-      "pitcher": "javier assad",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "8": {
       "player": "jordan walker",
       "pitcher": "javier assad",
