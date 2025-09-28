@@ -343,8 +343,8 @@
     "27": {
       "player": "bryce eldridge",
       "pitcher": "mccade brown",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "26": {
       "player": "matt chapman",
@@ -504,11 +504,17 @@
     }
   },
   "min @ phi": {
+    "26": {
+      "player": "alec bohm",
+      "pitcher": "simeon woods richardson",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "25": {
       "player": "bryce harper",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "24": {
       "player": "kyle schwarber",
@@ -826,6 +832,12 @@
     }
   },
   "bal @ nyy": {
+    "25": {
+      "player": "adley rutschman",
+      "pitcher": "luis gil",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "tyler oneill",
       "pitcher": "luis gil",
@@ -972,6 +984,12 @@
     }
   },
   "hou @ laa": {
+    "26": {
+      "player": "ramon urias",
+      "pitcher": "sam aldegheri",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "25": {
       "player": "cam smith",
       "pitcher": "sam aldegheri",
@@ -1280,7 +1298,7 @@
       "player": "geraldo perdomo",
       "pitcher": "jp sears",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sweeper"
     },
     "22": {
       "player": "jordan lawlar",
@@ -1419,8 +1437,8 @@
     "24": {
       "player": "cole young",
       "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "23": {
       "player": "enrique hernandez",
@@ -1565,8 +1583,8 @@
     "23": {
       "player": "adolis garcia",
       "pitcher": "logan allen",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Sweeper"
     },
     "22": {
       "player": "josh jung",
