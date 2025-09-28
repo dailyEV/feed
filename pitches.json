@@ -1284,6 +1284,12 @@
     }
   },
   "min @ phi": {
+    "67": {
+      "player": "james outman",
+      "pitcher": "orion kerkering",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "66": {
       "player": "alec bohm",
       "pitcher": "cole sands",
@@ -2095,7 +2101,7 @@
     "61": {
       "player": "aaron judge",
       "pitcher": "rico garcia",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "60": {
@@ -3666,17 +3672,11 @@
     }
   },
   "lad @ sea": {
-    "62": {
-      "player": "randy arozarena",
-      "pitcher": "landon knack",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "61": {
       "player": "miles mastrobuoni",
       "pitcher": "landon knack",
-      "result": "Swinging Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "60": {
       "player": "enrique hernandez",
@@ -4040,16 +4040,10 @@
     }
   },
   "tex @ cle": {
-    "66": {
-      "player": "billy mckinney",
-      "pitcher": "kolby allard",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "65": {
       "player": "jonah heim",
       "pitcher": "kolby allard",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "64": {
@@ -4821,8 +4815,8 @@
     "67": {
       "player": "austin hays",
       "pitcher": "jared koenig",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "66": {
       "player": "noelvi marte",
@@ -5225,8 +5219,8 @@
     "63": {
       "player": "ha seong kim",
       "pitcher": "yohan ramirez",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "drake baldwin",
