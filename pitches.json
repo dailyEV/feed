@@ -381,7 +381,7 @@
     "19": {
       "player": "trea turner",
       "pitcher": "simeon woods richardson",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "18": {
@@ -729,7 +729,7 @@
     "17": {
       "player": "christian moore",
       "pitcher": "lance mccullers",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "16": {
@@ -833,8 +833,8 @@
     "18": {
       "player": "davis schneider",
       "pitcher": "ian seymour",
-      "result": "Foul Tip",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "17": {
       "player": "george springer",
@@ -1047,8 +1047,8 @@
     "17": {
       "player": "shohei ohtani",
       "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Splitter"
     },
     "16": {
       "player": "leo rivas",
@@ -1442,6 +1442,12 @@
     }
   },
   "pit @ atl": {
+    "14": {
+      "player": "rafael flores",
+      "pitcher": "chris sale",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "13": {
       "player": "nick yorke",
       "pitcher": "chris sale",
@@ -1525,8 +1531,8 @@
     "12": {
       "player": "seiya suzuki",
       "pitcher": "kyle leahy",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "11": {
       "player": "kyle tucker",
