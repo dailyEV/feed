@@ -3,8 +3,8 @@
     "34": {
       "player": "connor wong",
       "pitcher": "chris paddack",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "33": {
       "player": "nathaniel lowe",
@@ -809,8 +809,8 @@
     "34": {
       "player": "miguel vargas",
       "pitcher": "shinnosuke ogasawara",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "33": {
       "player": "colson montgomery",
@@ -1015,8 +1015,8 @@
     "31": {
       "player": "anthony volpe",
       "pitcher": "kyle bradish",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "austin wells",
@@ -1203,8 +1203,8 @@
     "32": {
       "player": "zach cole",
       "pitcher": "sam aldegheri",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "jacob melton",
@@ -1749,8 +1749,8 @@
     "29": {
       "player": "hyeseong kim",
       "pitcher": "bryce miller",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "28": {
       "player": "eugenio suarez",
@@ -1922,6 +1922,12 @@
     }
   },
   "tex @ cle": {
+    "30": {
+      "player": "bo naylor",
+      "pitcher": "patrick corbin",
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
+    },
     "29": {
       "player": "johnathan rodriguez",
       "pitcher": "patrick corbin",
@@ -2274,6 +2280,18 @@
     }
   },
   "cin @ mil": {
+    "30": {
+      "player": "spencer steer",
+      "pitcher": "trevor megill",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
+    "29": {
+      "player": "elly de la cruz",
+      "pitcher": "trevor megill",
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
+    },
     "28": {
       "player": "caleb durbin",
       "pitcher": "brady singer",
@@ -2606,7 +2624,7 @@
       "player": "michael busch",
       "pitcher": "john king",
       "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "pitch": "Slider"
     },
     "23": {
       "player": "jordan walker",
