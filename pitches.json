@@ -66,6 +66,12 @@
     }
   },
   "min @ phi": {
+    "3": {
+      "player": "royce lewis",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "2": {
       "player": "ryan jeffers",
       "pitcher": "cristopher sanchez",
@@ -83,8 +89,8 @@
     "4": {
       "player": "miguel vargas",
       "pitcher": "brad lord",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "3": {
       "player": "colson montgomery",
@@ -106,10 +112,16 @@
     }
   },
   "bal @ nyy": {
+    "2": {
+      "player": "jordan westburg",
+      "pitcher": "luis gil",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "jackson holliday",
       "pitcher": "luis gil",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     }
   },
