@@ -3,8 +3,8 @@
     "71": {
       "player": "trey sweeney",
       "pitcher": "greg weissert",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "70": {
       "player": "javier baez",
@@ -432,7 +432,7 @@
       "player": "darell hernaiz",
       "pitcher": "sam long",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "74": {
       "player": "max schuemann",
@@ -1272,12 +1272,6 @@
     }
   },
   "min @ phi": {
-    "66": {
-      "player": "alec bohm",
-      "pitcher": "cole sands",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "65": {
       "player": "bryce harper",
       "pitcher": "cole sands",
@@ -2436,6 +2430,12 @@
     }
   },
   "hou @ laa": {
+    "71": {
+      "player": "jesus sanchez",
+      "pitcher": "sammy peralta",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "70": {
       "player": "logan ohoppe",
       "pitcher": "colton gordon",
@@ -3621,8 +3621,8 @@
     "61": {
       "player": "miles mastrobuoni",
       "pitcher": "landon knack",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "60": {
       "player": "enrique hernandez",
@@ -4372,12 +4372,6 @@
     }
   },
   "nym @ mia": {
-    "61": {
-      "player": "pete alonso",
-      "pitcher": "calvin faucher",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "60": {
       "player": "otto lopez",
       "pitcher": "ryan helsley",
