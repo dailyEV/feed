@@ -281,7 +281,7 @@
     "47": {
       "player": "nick kurtz",
       "pitcher": "daniel lynch",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "46": {
@@ -556,12 +556,6 @@
     }
   },
   "col @ sf": {
-    "44": {
-      "player": "bryce eldridge",
-      "pitcher": "jaden hill",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "43": {
       "player": "matt chapman",
       "pitcher": "jaden hill",
@@ -1091,8 +1085,8 @@
     "44": {
       "player": "kyle teel",
       "pitcher": "pj poulin",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Foul Tip",
+      "pitch": "Sweeper"
     },
     "43": {
       "player": "chase meidroth",
@@ -1354,11 +1348,17 @@
     }
   },
   "bal @ nyy": {
+    "40": {
+      "player": "aaron judge",
+      "pitcher": "keegan akin",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "ben rice",
       "pitcher": "keegan akin",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "38": {
       "player": "trent grisham",
@@ -1590,6 +1590,12 @@
     }
   },
   "hou @ laa": {
+    "45": {
+      "player": "denzer guzman",
+      "pitcher": "colton gordon",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "44": {
       "player": "zach cole",
       "pitcher": "connor brogdon",
@@ -1856,6 +1862,12 @@
     }
   },
   "tb @ tor": {
+    "41": {
+      "player": "andres gimenez",
+      "pitcher": "edwin uceta",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
+    },
     "40": {
       "player": "george springer",
       "pitcher": "ian seymour",
@@ -2328,6 +2340,12 @@
     }
   },
   "lad @ sea": {
+    "42": {
+      "player": "cal raleigh",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "41": {
       "player": "randy arozarena",
       "pitcher": "clayton kershaw",
@@ -2580,7 +2598,7 @@
       "player": "adolis garcia",
       "pitcher": "logan allen",
       "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "pitch": "Sweeper"
     },
     "40": {
       "player": "josh jung",
@@ -3324,7 +3342,7 @@
       "player": "jurickson profar",
       "pitcher": "johan oviedo",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "38": {
       "player": "nick allen",
@@ -3559,7 +3577,7 @@
     "38": {
       "player": "nolan gorman",
       "pitcher": "michael soroka",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slurve"
     },
     "37": {
