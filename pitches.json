@@ -3,8 +3,8 @@
     "70": {
       "player": "javier baez",
       "pitcher": "greg weissert",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "69": {
       "player": "jarren duran",
@@ -426,7 +426,7 @@
       "player": "max schuemann",
       "pitcher": "sam long",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "73": {
       "player": "carlos cortes",
@@ -1263,8 +1263,8 @@
     "64": {
       "player": "kyle schwarber",
       "pitcher": "cole sands",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "63": {
       "player": "christian vazquez",
@@ -2059,8 +2059,8 @@
     "59": {
       "player": "tyler oneill",
       "pitcher": "devin williams",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "gunnar henderson",
@@ -2834,6 +2834,12 @@
     }
   },
   "tb @ tor": {
+    "66": {
+      "player": "alejandro kirk",
+      "pitcher": "kevin kelly",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "65": {
       "player": "daulton varsho",
       "pitcher": "kevin kelly",
