@@ -409,8 +409,8 @@
     "31": {
       "player": "brenton doyle",
       "pitcher": "logan webb",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "30": {
       "player": "christian koss",
@@ -779,8 +779,8 @@
     "32": {
       "player": "kyle teel",
       "pitcher": "shinnosuke ogasawara",
-      "result": "Called Strike",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "31": {
       "player": "josh bell",
@@ -1501,8 +1501,8 @@
     "27": {
       "player": "manny machado",
       "pitcher": "brandon pfaadt",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "26": {
       "player": "ildemaro vargas",
@@ -1832,6 +1832,12 @@
     }
   },
   "tex @ cle": {
+    "29": {
+      "player": "johnathan rodriguez",
+      "pitcher": "patrick corbin",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "28": {
       "player": "jose ramirez",
       "pitcher": "patrick corbin",
@@ -2002,6 +2008,12 @@
     }
   },
   "nym @ mia": {
+    "28": {
+      "player": "otto lopez",
+      "pitcher": "brooks raley",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "27": {
       "player": "jeff mcneil",
       "pitcher": "edward cabrera",
@@ -2339,7 +2351,7 @@
     "25": {
       "player": "ronald acuna",
       "pitcher": "johan oviedo",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Curveball"
     },
     "24": {
@@ -2491,7 +2503,7 @@
     "23": {
       "player": "jordan walker",
       "pitcher": "javier assad",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "22": {
