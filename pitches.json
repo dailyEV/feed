@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "9": {
+      "player": "kerry carpenter",
+      "pitcher": "jose de leon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "wilyer abreu",
       "pitcher": "chris paddack",
@@ -50,12 +56,6 @@
     }
   },
   "kc @ ath": {
-    "11": {
-      "player": "adam frazier",
-      "pitcher": "brady basso",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "10": {
       "player": "carter jensen",
       "pitcher": "brady basso",
@@ -112,6 +112,12 @@
     }
   },
   "col @ sf": {
+    "9": {
+      "player": "brenton doyle",
+      "pitcher": "logan webb",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "8": {
       "player": "jordan beck",
       "pitcher": "logan webb",
@@ -359,8 +365,8 @@
     "6": {
       "player": "davis schneider",
       "pitcher": "ian seymour",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "george springer",
@@ -394,6 +400,12 @@
     }
   },
   "ari @ sd": {
+    "5": {
+      "player": "fernando tatis",
+      "pitcher": "brandon pfaadt",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "tim tawa",
       "pitcher": "jp sears",
@@ -423,8 +435,8 @@
     "5": {
       "player": "randy arozarena",
       "pitcher": "clayton kershaw",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "4": {
       "player": "teoscar hernandez",
@@ -455,8 +467,8 @@
     "6": {
       "player": "angel martinez",
       "pitcher": "patrick corbin",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "5": {
       "player": "steven kwan",
@@ -531,8 +543,8 @@
     "5": {
       "player": "christian yelich",
       "pitcher": "brady singer",
-      "result": "Hit By Pitch",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "4": {
       "player": "miguel andujar",
