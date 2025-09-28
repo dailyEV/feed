@@ -103,8 +103,8 @@
     "7": {
       "player": "matt chapman",
       "pitcher": "mccade brown",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "6": {
       "player": "rafael devers",
@@ -226,10 +226,16 @@
     }
   },
   "bal @ nyy": {
+    "5": {
+      "player": "ben rice",
+      "pitcher": "kyle bradish",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "trent grisham",
       "pitcher": "kyle bradish",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "3": {
@@ -342,6 +348,12 @@
     }
   },
   "lad @ sea": {
+    "4": {
+      "player": "teoscar hernandez",
+      "pitcher": "bryce miller",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "freddie freeman",
       "pitcher": "bryce miller",
@@ -444,7 +456,7 @@
       "player": "jared triolo",
       "pitcher": "charlie morton",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     }
   },
   "stl @ chc": {}
