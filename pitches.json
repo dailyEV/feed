@@ -275,7 +275,7 @@
     "46": {
       "player": "colby thomas",
       "pitcher": "steven cruz",
-      "result": "Foul Tip",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -547,7 +547,7 @@
     "41": {
       "player": "blaine crim",
       "pitcher": "jose butto",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -792,6 +792,12 @@
     }
   },
   "min @ phi": {
+    "41": {
+      "player": "kody clemens",
+      "pitcher": "taijuan walker",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "otto kemp",
       "pitcher": "simeon woods richardson",
@@ -1524,6 +1530,12 @@
     }
   },
   "hou @ laa": {
+    "42": {
+      "player": "brice matthews",
+      "pitcher": "connor brogdon",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "41": {
       "player": "ramon urias",
       "pitcher": "sam aldegheri",
@@ -2012,7 +2024,7 @@
       "player": "freddy fermin",
       "pitcher": "brandon pfaadt",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "36": {
       "player": "jose iglesias",
@@ -2477,7 +2489,7 @@
     "39": {
       "player": "cody freeman",
       "pitcher": "logan allen",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "38": {
@@ -2710,6 +2722,12 @@
     }
   },
   "nym @ mia": {
+    "38": {
+      "player": "tyrone taylor",
+      "pitcher": "edward cabrera",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "ronny mauricio",
       "pitcher": "edward cabrera",
@@ -2934,11 +2952,17 @@
     }
   },
   "cin @ mil": {
-    "40": {
-      "player": "jose trevino",
+    "41": {
+      "player": "matt mclain",
       "pitcher": "aaron ashby",
       "result": "Called Strike",
       "pitch": "Sinker"
+    },
+    "40": {
+      "player": "jose trevino",
+      "pitcher": "aaron ashby",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "39": {
       "player": "sal frelick",
