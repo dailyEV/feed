@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "55": {
+      "player": "trey sweeney",
+      "pitcher": "jose de leon",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "54": {
       "player": "masataka yoshida",
       "pitcher": "paul sewald",
@@ -326,12 +332,6 @@
     }
   },
   "kc @ ath": {
-    "57": {
-      "player": "adam frazier",
-      "pitcher": "michael kelly",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
     "56": {
       "player": "carter jensen",
       "pitcher": "michael kelly",
@@ -667,8 +667,8 @@
     "52": {
       "player": "christian koss",
       "pitcher": "antonio senzatela",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "51": {
       "player": "patrick bailey",
@@ -2177,7 +2177,7 @@
     "48": {
       "player": "alejandro kirk",
       "pitcher": "edwin uceta",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "47": {
@@ -3023,8 +3023,8 @@
     "48": {
       "player": "billy mckinney",
       "pitcher": "matt festa",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "johnathan rodriguez",
@@ -3313,7 +3313,7 @@
     "47": {
       "player": "jeff mcneil",
       "pitcher": "cade gibson",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "46": {
@@ -3896,12 +3896,6 @@
     }
   },
   "pit @ atl": {
-    "46": {
-      "player": "drake baldwin",
-      "pitcher": "hunter barco",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "45": {
       "player": "ronald acuna",
       "pitcher": "hunter barco",
@@ -4174,6 +4168,12 @@
     }
   },
   "stl @ chc": {
+    "46": {
+      "player": "kevin alcantara",
+      "pitcher": "ryan fernandez",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "yohel pozo",
       "pitcher": "jordan wicks",
