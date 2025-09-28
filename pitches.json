@@ -658,11 +658,17 @@
     }
   },
   "col @ sf": {
+    "52": {
+      "player": "christian koss",
+      "pitcher": "antonio senzatela",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "patrick bailey",
       "pitcher": "antonio senzatela",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "50": {
       "player": "jung hoo lee",
@@ -969,8 +975,8 @@
     "49": {
       "player": "alec bohm",
       "pitcher": "anthony misiewicz",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "48": {
       "player": "bryce harper",
@@ -1265,7 +1271,7 @@
     "50": {
       "player": "miguel vargas",
       "pitcher": "sauryn lao",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "49": {
@@ -2706,6 +2712,12 @@
     }
   },
   "lad @ sea": {
+    "48": {
+      "player": "luke raley",
+      "pitcher": "landon knack",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "mitch garver",
       "pitcher": "landon knack",
@@ -3280,6 +3292,12 @@
     }
   },
   "nym @ mia": {
+    "47": {
+      "player": "jeff mcneil",
+      "pitcher": "cade gibson",
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
+    },
     "46": {
       "player": "mark vientos",
       "pitcher": "cade gibson",
@@ -3561,8 +3579,8 @@
     "49": {
       "player": "miguel andujar",
       "pitcher": "aaron ashby",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "48": {
       "player": "gavin lux",
@@ -3857,8 +3875,8 @@
     "45": {
       "player": "ronald acuna",
       "pitcher": "hunter barco",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "44": {
       "player": "matt olson",
