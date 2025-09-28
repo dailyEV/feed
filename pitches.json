@@ -495,8 +495,8 @@
     "25": {
       "player": "bryce harper",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "kyle schwarber",
@@ -811,7 +811,7 @@
     "24": {
       "player": "tyler oneill",
       "pitcher": "luis gil",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "23": {
@@ -954,6 +954,12 @@
     }
   },
   "hou @ laa": {
+    "25": {
+      "player": "cam smith",
+      "pitcher": "sam aldegheri",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "24": {
       "player": "jesus sanchez",
       "pitcher": "sam aldegheri",
@@ -1100,6 +1106,12 @@
     }
   },
   "tb @ tor": {
+    "25": {
+      "player": "josh lowe",
+      "pitcher": "kevin gausman",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "jonathan aranda",
       "pitcher": "kevin gausman",
@@ -1520,12 +1532,6 @@
     }
   },
   "tex @ cle": {
-    "23": {
-      "player": "adolis garcia",
-      "pitcher": "logan allen",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "22": {
       "player": "josh jung",
       "pitcher": "logan allen",
@@ -1794,11 +1800,17 @@
     }
   },
   "cin @ mil": {
+    "23": {
+      "player": "miguel andujar",
+      "pitcher": "dl hall",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "22": {
       "player": "gavin lux",
       "pitcher": "dl hall",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "21": {
       "player": "noelvi marte",
