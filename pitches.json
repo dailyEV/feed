@@ -449,7 +449,7 @@
     "79": {
       "player": "jac caglianone",
       "pitcher": "scott mcgough",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Splitter"
     },
     "78": {
@@ -2523,7 +2523,7 @@
     "76": {
       "player": "christian moore",
       "pitcher": "jayden murray",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "75": {
@@ -2981,8 +2981,8 @@
     "70": {
       "player": "george springer",
       "pitcher": "bryan baker",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "69": {
       "player": "myles straw",
@@ -3404,7 +3404,7 @@
       "player": "mason mccoy",
       "pitcher": "brandyn garcia",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "62": {
       "player": "jackson merrill",
@@ -3784,7 +3784,7 @@
       "player": "mitch garver",
       "pitcher": "landon knack",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "64": {
       "player": "eugenio suarez",
@@ -4175,8 +4175,8 @@
     "68": {
       "player": "bo naylor",
       "pitcher": "luis curvelo",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "67": {
       "player": "alejandro osuna",
@@ -4977,8 +4977,8 @@
     "70": {
       "player": "andrew vaughn",
       "pitcher": "connor phillips",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "69": {
       "player": "brice turang",
@@ -5396,6 +5396,12 @@
     }
   },
   "pit @ atl": {
+    "66": {
+      "player": "nick yorke",
+      "pitcher": "raisel iglesias",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "65": {
       "player": "oneil cruz",
       "pitcher": "raisel iglesias",
