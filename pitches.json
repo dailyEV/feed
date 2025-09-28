@@ -4,7 +4,7 @@
       "player": "justyn henry malloy",
       "pitcher": "jose de leon",
       "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "pitch": "Curveball"
     },
     "41": {
       "player": "zach mckinstry",
@@ -1879,8 +1879,8 @@
     "34": {
       "player": "ketel marte",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "33": {
       "player": "jorge barrosa",
@@ -2304,7 +2304,7 @@
       "player": "daniel schneemann",
       "pitcher": "patrick corbin",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "35": {
       "player": "michael helman",
@@ -2948,11 +2948,17 @@
     }
   },
   "pit @ atl": {
+    "34": {
+      "player": "cam devanney",
+      "pitcher": "chris sale",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "33": {
       "player": "rafael flores",
       "pitcher": "chris sale",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "32": {
       "player": "marcell ozuna",
@@ -3148,6 +3154,12 @@
     }
   },
   "stl @ chc": {
+    "33": {
+      "player": "moises ballesteros",
+      "pitcher": "john king",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "32": {
       "player": "seiya suzuki",
       "pitcher": "john king",
