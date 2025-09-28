@@ -371,8 +371,8 @@
     "65": {
       "player": "max muncy",
       "pitcher": "daniel lynch",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "jj bleday",
@@ -1457,7 +1457,7 @@
     "59": {
       "player": "chase meidroth",
       "pitcher": "mitchell parker",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "58": {
@@ -2830,6 +2830,12 @@
     }
   },
   "ari @ sd": {
+    "51": {
+      "player": "alek thomas",
+      "pitcher": "jp sears",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "50": {
       "player": "ildemaro vargas",
       "pitcher": "jp sears",
@@ -3458,6 +3464,12 @@
     }
   },
   "tex @ cle": {
+    "57": {
+      "player": "jake burger",
+      "pitcher": "kolby allard",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "56": {
       "player": "adolis garcia",
       "pitcher": "kolby allard",
@@ -3796,11 +3808,17 @@
     }
   },
   "nym @ mia": {
+    "54": {
+      "player": "francisco lindor",
+      "pitcher": "ronny henriquez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "53": {
       "player": "jared young",
       "pitcher": "ronny henriquez",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "52": {
       "player": "ronny mauricio",
@@ -4116,6 +4134,12 @@
     }
   },
   "cin @ mil": {
+    "57": {
+      "player": "kebryan hayes",
+      "pitcher": "chad patrick",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "56": {
       "player": "spencer steer",
       "pitcher": "chad patrick",
@@ -4765,8 +4789,8 @@
     "56": {
       "player": "willi castro",
       "pitcher": "riley obrien",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "55": {
       "player": "justin turner",
