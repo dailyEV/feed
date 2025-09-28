@@ -3,8 +3,8 @@
     "12": {
       "player": "trey sweeney",
       "pitcher": "jose de leon",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "javier baez",
@@ -74,12 +74,6 @@
     }
   },
   "kc @ ath": {
-    "14": {
-      "player": "maikel garcia",
-      "pitcher": "tyler ferguson",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "13": {
       "player": "john rave",
       "pitcher": "brady basso",
@@ -154,6 +148,12 @@
     }
   },
   "col @ sf": {
+    "12": {
+      "player": "wilmer flores",
+      "pitcher": "mccade brown",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "11": {
       "player": "kyle karros",
       "pitcher": "logan webb",
@@ -222,12 +222,6 @@
     }
   },
   "min @ phi": {
-    "12": {
-      "player": "nick castellanos",
-      "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "11": {
       "player": "brandon marsh",
       "pitcher": "simeon woods richardson",
@@ -435,8 +429,8 @@
     "10": {
       "player": "jo adell",
       "pitcher": "lance mccullers",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "mike trout",
@@ -604,7 +598,7 @@
       "player": "michael conforto",
       "pitcher": "bryce miller",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Knuckle Curve"
     },
     "7": {
       "player": "eugenio suarez",
@@ -653,8 +647,8 @@
     "8": {
       "player": "johnathan rodriguez",
       "pitcher": "patrick corbin",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "jose ramirez",
@@ -704,7 +698,7 @@
       "player": "francisco alvarez",
       "pitcher": "edward cabrera",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Curveball"
     },
     "9": {
       "player": "jeff mcneil",
@@ -818,11 +812,17 @@
     }
   },
   "pit @ atl": {
-    "6": {
-      "player": "jurickson profar",
+    "7": {
+      "player": "matt olson",
       "pitcher": "johan oviedo",
       "result": "Ball",
       "pitch": "4-Seam Fastball"
+    },
+    "6": {
+      "player": "jurickson profar",
+      "pitcher": "johan oviedo",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "5": {
       "player": "joey bart",
