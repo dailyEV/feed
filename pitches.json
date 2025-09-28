@@ -3,8 +3,8 @@
     "59": {
       "player": "zach mckinstry",
       "pitcher": "steven matz",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "parker meadows",
@@ -356,6 +356,12 @@
     }
   },
   "kc @ ath": {
+    "61": {
+      "player": "bobby witt",
+      "pitcher": "osvaldo bido",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "maikel garcia",
       "pitcher": "osvaldo bido",
@@ -715,7 +721,7 @@
     "57": {
       "player": "hunter goodman",
       "pitcher": "spencer bivens",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "56": {
@@ -1373,8 +1379,8 @@
     "55": {
       "player": "daylen lile",
       "pitcher": "tyler alexander",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "54": {
       "player": "andres chaparro",
@@ -2004,11 +2010,17 @@
     }
   },
   "hou @ laa": {
+    "59": {
+      "player": "brice matthews",
+      "pitcher": "ryan zeferjahn",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "58": {
       "player": "ramon urias",
       "pitcher": "ryan zeferjahn",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "cam smith",
@@ -3598,16 +3610,10 @@
     }
   },
   "nym @ mia": {
-    "50": {
-      "player": "heriberto hernandez",
-      "pitcher": "edwin diaz",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "49": {
       "player": "eric wagaman",
       "pitcher": "edwin diaz",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "48": {
@@ -3903,8 +3909,8 @@
     "54": {
       "player": "andrew vaughn",
       "pitcher": "chase burns",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "53": {
       "player": "brice turang",
@@ -4531,8 +4537,8 @@
     "52": {
       "player": "nathan church",
       "pitcher": "jordan wicks",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "51": {
       "player": "victor scott",
