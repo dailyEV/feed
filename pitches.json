@@ -3,7 +3,7 @@
     "72": {
       "player": "andy ibanez",
       "pitcher": "greg weissert",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "71": {
@@ -434,6 +434,12 @@
     }
   },
   "kc @ ath": {
+    "76": {
+      "player": "michael massey",
+      "pitcher": "scott mcgough",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "75": {
       "player": "darell hernaiz",
       "pitcher": "sam long",
@@ -2089,8 +2095,8 @@
     "61": {
       "player": "aaron judge",
       "pitcher": "rico garcia",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "60": {
       "player": "ben rice",
@@ -2454,6 +2460,12 @@
     }
   },
   "hou @ laa": {
+    "72": {
+      "player": "cam smith",
+      "pitcher": "sammy peralta",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "71": {
       "player": "jesus sanchez",
       "pitcher": "sammy peralta",
@@ -2885,7 +2897,7 @@
     "68": {
       "player": "ernie clement",
       "pitcher": "kevin kelly",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "67": {
@@ -3654,11 +3666,17 @@
     }
   },
   "lad @ sea": {
+    "62": {
+      "player": "randy arozarena",
+      "pitcher": "landon knack",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "miles mastrobuoni",
       "pitcher": "landon knack",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "60": {
       "player": "enrique hernandez",
@@ -4022,6 +4040,12 @@
     }
   },
   "tex @ cle": {
+    "66": {
+      "player": "billy mckinney",
+      "pitcher": "kolby allard",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "65": {
       "player": "jonah heim",
       "pitcher": "kolby allard",
@@ -4417,8 +4441,8 @@
     "63": {
       "player": "mark vientos",
       "pitcher": "calvin faucher",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "62": {
       "player": "brandon nimmo",
@@ -5202,7 +5226,7 @@
       "player": "ha seong kim",
       "pitcher": "yohan ramirez",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "62": {
       "player": "drake baldwin",
