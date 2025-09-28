@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "2": {
+      "player": "zach mckinstry",
+      "pitcher": "jose de leon",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "1": {
       "player": "parker meadows",
       "pitcher": "jose de leon",
@@ -8,6 +14,12 @@
     }
   },
   "kc @ ath": {
+    "5": {
+      "player": "mike yastrzemski",
+      "pitcher": "brady basso",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "3": {
       "player": "vinnie pasquantino",
       "pitcher": "brady basso",
@@ -45,7 +57,7 @@
     "1": {
       "player": "austin martin",
       "pitcher": "cristopher sanchez",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Changeup"
     }
   },
@@ -78,7 +90,14 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "tb @ tor": {},
+  "tb @ tor": {
+    "1": {
+      "player": "richie palacios",
+      "pitcher": "kevin gausman",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "ari @ sd": {},
   "lad @ sea": {},
   "tex @ cle": {},
