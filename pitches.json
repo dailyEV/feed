@@ -254,10 +254,16 @@
     }
   },
   "kc @ ath": {
+    "43": {
+      "player": "jj bleday",
+      "pitcher": "cole ragans",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "brett harris",
       "pitcher": "cole ragans",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "41": {
@@ -732,6 +738,12 @@
     }
   },
   "min @ phi": {
+    "38": {
+      "player": "bryson stott",
+      "pitcher": "simeon woods richardson",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "37": {
       "player": "royce lewis",
       "pitcher": "lou trivino",
@@ -956,6 +968,12 @@
     }
   },
   "chw @ wsh": {
+    "39": {
+      "player": "daylen lile",
+      "pitcher": "shane smith",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "38": {
       "player": "dominic fletcher",
       "pitcher": "jackson rutledge",
@@ -1189,7 +1207,7 @@
     "36": {
       "player": "jackson holliday",
       "pitcher": "luis gil",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "35": {
@@ -1852,12 +1870,6 @@
     }
   },
   "ari @ sd": {
-    "34": {
-      "player": "ketel marte",
-      "pitcher": "jp sears",
-      "result": "Foul",
-      "pitch": "Sweeper"
-    },
     "33": {
       "player": "jorge barrosa",
       "pitcher": "jp sears",
@@ -2700,6 +2712,12 @@
     }
   },
   "cin @ mil": {
+    "37": {
+      "player": "brice turang",
+      "pitcher": "nick lodolo",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "36": {
       "player": "jackson chourio",
       "pitcher": "nick lodolo",
@@ -2728,7 +2746,7 @@
       "player": "isaac collins",
       "pitcher": "brady singer",
       "result": "In play, no out",
-      "pitch": "Sinker"
+      "pitch": "Sweeper"
     },
     "31": {
       "player": "kebryan hayes",
@@ -2922,7 +2940,7 @@
       "player": "rafael flores",
       "pitcher": "chris sale",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "32": {
       "player": "marcell ozuna",
