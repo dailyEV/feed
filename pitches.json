@@ -497,7 +497,7 @@
     "21": {
       "player": "jacob young",
       "pitcher": "shane smith",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "20": {
@@ -729,7 +729,7 @@
     "17": {
       "player": "christian moore",
       "pitcher": "lance mccullers",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "16": {
@@ -833,8 +833,8 @@
     "18": {
       "player": "davis schneider",
       "pitcher": "ian seymour",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "george springer",
@@ -1151,8 +1151,8 @@
     "16": {
       "player": "michael helman",
       "pitcher": "logan allen",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "15": {
       "player": "alejandro osuna",
@@ -1246,10 +1246,16 @@
     }
   },
   "nym @ mia": {
+    "17": {
+      "player": "tyrone taylor",
+      "pitcher": "edward cabrera",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "ronny mauricio",
       "pitcher": "edward cabrera",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "15": {
