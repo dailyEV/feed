@@ -3,8 +3,8 @@
     "12": {
       "player": "trey sweeney",
       "pitcher": "jose de leon",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "javier baez",
@@ -74,6 +74,12 @@
     }
   },
   "kc @ ath": {
+    "15": {
+      "player": "bobby witt",
+      "pitcher": "tyler ferguson",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "maikel garcia",
       "pitcher": "tyler ferguson",
@@ -305,7 +311,7 @@
     "13": {
       "player": "daylen lile",
       "pitcher": "shane smith",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -385,7 +391,7 @@
     "11": {
       "player": "giancarlo stanton",
       "pitcher": "kyle bradish",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "10": {
@@ -518,6 +524,12 @@
     }
   },
   "tb @ tor": {
+    "10": {
+      "player": "alejandro kirk",
+      "pitcher": "ian seymour",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "9": {
       "player": "daulton varsho",
       "pitcher": "ian seymour",
@@ -636,6 +648,12 @@
     }
   },
   "lad @ sea": {
+    "10": {
+      "player": "enrique hernandez",
+      "pitcher": "bryce miller",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "9": {
       "player": "andy pages",
       "pitcher": "bryce miller",
@@ -692,6 +710,12 @@
     }
   },
   "tex @ cle": {
+    "9": {
+      "player": "bo naylor",
+      "pitcher": "patrick corbin",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
     "8": {
       "player": "johnathan rodriguez",
       "pitcher": "patrick corbin",
@@ -860,11 +884,17 @@
     }
   },
   "pit @ atl": {
+    "8": {
+      "player": "ronald acuna",
+      "pitcher": "johan oviedo",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "matt olson",
       "pitcher": "johan oviedo",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
       "player": "jurickson profar",
@@ -904,6 +934,12 @@
     }
   },
   "stl @ chc": {
+    "4": {
+      "player": "michael busch",
+      "pitcher": "kyle leahy",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "3": {
       "player": "nolan gorman",
       "pitcher": "javier assad",
