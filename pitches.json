@@ -1662,12 +1662,6 @@
     }
   },
   "hou @ laa": {
-    "48": {
-      "player": "zach cole",
-      "pitcher": "connor brogdon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "47": {
       "player": "luis rengifo",
       "pitcher": "colton gordon",
@@ -2209,7 +2203,7 @@
     "41": {
       "player": "james mccann",
       "pitcher": "jp sears",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -2454,6 +2448,12 @@
     }
   },
   "lad @ sea": {
+    "44": {
+      "player": "andy pages",
+      "pitcher": "caleb ferguson",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "michael conforto",
       "pitcher": "caleb ferguson",
@@ -3225,8 +3225,8 @@
     "45": {
       "player": "isaac collins",
       "pitcher": "nick lodolo",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "44": {
       "player": "caleb durbin",
@@ -3494,10 +3494,16 @@
     }
   },
   "pit @ atl": {
+    "41": {
+      "player": "bryan reynolds",
+      "pitcher": "chris sale",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "40": {
       "player": "tommy pham",
       "pitcher": "chris sale",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -3736,6 +3742,12 @@
     }
   },
   "stl @ chc": {
+    "41": {
+      "player": "nico hoerner",
+      "pitcher": "matt svanson",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "40": {
       "player": "michael busch",
       "pitcher": "matt svanson",
