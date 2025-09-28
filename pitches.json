@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "70": {
+      "player": "javier baez",
+      "pitcher": "greg weissert",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "69": {
       "player": "jarren duran",
       "pitcher": "tanner rainey",
@@ -1257,7 +1263,7 @@
     "64": {
       "player": "kyle schwarber",
       "pitcher": "cole sands",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "63": {
@@ -1643,8 +1649,8 @@
     "68": {
       "player": "nasim nunez",
       "pitcher": "jonathan cannon",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "67": {
       "player": "robert hassell",
@@ -2822,10 +2828,16 @@
     }
   },
   "tb @ tor": {
+    "65": {
+      "player": "daulton varsho",
+      "pitcher": "kevin kelly",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "64": {
       "player": "nathan lukes",
       "pitcher": "kevin kelly",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "63": {
@@ -3211,8 +3223,8 @@
     "58": {
       "player": "jordan lawlar",
       "pitcher": "bradgley rodriguez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "57": {
       "player": "gabriel moreno",
