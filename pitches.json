@@ -107,7 +107,7 @@
     "19": {
       "player": "vinnie pasquantino",
       "pitcher": "elvis alvarado",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -214,6 +214,12 @@
     }
   },
   "col @ sf": {
+    "17": {
+      "player": "ezequiel tovar",
+      "pitcher": "logan webb",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "16": {
       "player": "ryan ritter",
       "pitcher": "logan webb",
@@ -520,6 +526,12 @@
     }
   },
   "bal @ nyy": {
+    "15": {
+      "player": "dylan beavers",
+      "pitcher": "luis gil",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "ryan mcmahon",
       "pitcher": "kyle bradish",
@@ -781,8 +793,8 @@
     "14": {
       "player": "ildemaro vargas",
       "pitcher": "jp sears",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "13": {
       "player": "james mccann",
@@ -956,6 +968,12 @@
     }
   },
   "tex @ cle": {
+    "13": {
+      "player": "jonah heim",
+      "pitcher": "logan allen",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "ezequiel duran",
       "pitcher": "logan allen",
@@ -1270,11 +1288,17 @@
     }
   },
   "stl @ chc": {
+    "9": {
+      "player": "jimmy crooks",
+      "pitcher": "javier assad",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "8": {
       "player": "jordan walker",
       "pitcher": "javier assad",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "7": {
       "player": "thomas saggese",
