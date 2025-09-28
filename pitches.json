@@ -155,8 +155,8 @@
     "25": {
       "player": "colby thomas",
       "pitcher": "cole ragans",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "24": {
       "player": "willie maciver",
@@ -301,7 +301,7 @@
     "22": {
       "player": "hunter goodman",
       "pitcher": "logan webb",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "21": {
@@ -1099,8 +1099,8 @@
     "19": {
       "player": "freddy fermin",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "18": {
       "player": "ketel marte",
@@ -1215,8 +1215,8 @@
     "21": {
       "player": "michael conforto",
       "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "20": {
       "player": "teoscar hernandez",
@@ -1340,11 +1340,17 @@
     }
   },
   "tex @ cle": {
+    "20": {
+      "player": "steven kwan",
+      "pitcher": "patrick corbin",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "19": {
       "player": "jhonkensy noel",
       "pitcher": "patrick corbin",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "18": {
       "player": "daniel schneemann",
@@ -1789,8 +1795,8 @@
     "15": {
       "player": "nathan church",
       "pitcher": "javier assad",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "14": {
       "player": "victor scott",
