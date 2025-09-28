@@ -104,6 +104,12 @@
     }
   },
   "kc @ ath": {
+    "21": {
+      "player": "mike yastrzemski",
+      "pitcher": "elvis alvarado",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "20": {
       "player": "salvador perez",
       "pitcher": "elvis alvarado",
@@ -223,8 +229,8 @@
     "17": {
       "player": "ezequiel tovar",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "16": {
       "player": "ryan ritter",
@@ -725,8 +731,8 @@
     "15": {
       "player": "tristan gray",
       "pitcher": "kevin gausman",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "14": {
       "player": "hunter feduccia",
@@ -817,8 +823,8 @@
     "15": {
       "player": "alek thomas",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "14": {
       "player": "ildemaro vargas",
@@ -909,8 +915,8 @@
     "16": {
       "player": "leo rivas",
       "pitcher": "clayton kershaw",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "15": {
       "player": "jp crawford",
@@ -1176,10 +1182,16 @@
     }
   },
   "cin @ mil": {
+    "14": {
+      "player": "matt mclain",
+      "pitcher": "freddy peralta",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "jose trevino",
       "pitcher": "freddy peralta",
-      "result": "In play, no out",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "12": {
