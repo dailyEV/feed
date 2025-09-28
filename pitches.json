@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "62": {
+      "player": "nathaniel lowe",
+      "pitcher": "tanner rainey",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "wilyer abreu",
       "pitcher": "tanner rainey",
@@ -371,7 +377,7 @@
     "65": {
       "player": "max muncy",
       "pitcher": "daniel lynch",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -1116,12 +1122,6 @@
     }
   },
   "min @ phi": {
-    "57": {
-      "player": "bryson stott",
-      "pitcher": "genesis cabrera",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "56": {
       "player": "max kepler",
       "pitcher": "genesis cabrera",
@@ -2495,8 +2495,8 @@
     "57": {
       "player": "george springer",
       "pitcher": "kevin kelly",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "56": {
       "player": "junior caminero",
@@ -2836,6 +2836,12 @@
     }
   },
   "ari @ sd": {
+    "52": {
+      "player": "jake mccarthy",
+      "pitcher": "jp sears",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "51": {
       "player": "alek thomas",
       "pitcher": "jp sears",
@@ -3473,8 +3479,8 @@
     "57": {
       "player": "jake burger",
       "pitcher": "kolby allard",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "56": {
       "player": "adolis garcia",
@@ -3817,8 +3823,8 @@
     "54": {
       "player": "francisco lindor",
       "pitcher": "ronny henriquez",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "53": {
       "player": "jared young",
@@ -4484,6 +4490,12 @@
     }
   },
   "pit @ atl": {
+    "52": {
+      "player": "michael harris",
+      "pitcher": "hunter barco",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "51": {
       "player": "jared triolo",
       "pitcher": "chris sale",
@@ -4792,11 +4804,17 @@
     }
   },
   "stl @ chc": {
+    "57": {
+      "player": "reese mcguire",
+      "pitcher": "riley obrien",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "56": {
       "player": "willi castro",
       "pitcher": "riley obrien",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "55": {
       "player": "justin turner",
