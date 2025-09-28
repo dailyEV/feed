@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "6": {
+      "player": "masataka yoshida",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "trevor story",
       "pitcher": "chris paddack",
@@ -35,8 +41,8 @@
     "8": {
       "player": "brent rooker",
       "pitcher": "cole ragans",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "7": {
       "player": "nick kurtz",
@@ -79,8 +85,8 @@
     "6": {
       "player": "rafael devers",
       "pitcher": "mccade brown",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "heliot ramos",
@@ -117,8 +123,8 @@
     "5": {
       "player": "kyle schwarber",
       "pitcher": "simeon woods richardson",
-      "result": "Called Strike",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "4": {
       "player": "trea turner",
@@ -184,12 +190,6 @@
     }
   },
   "bal @ nyy": {
-    "4": {
-      "player": "trent grisham",
-      "pitcher": "kyle bradish",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "3": {
       "player": "gunnar henderson",
       "pitcher": "luis gil",
@@ -245,7 +245,7 @@
     "4": {
       "player": "josh lowe",
       "pitcher": "kevin gausman",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Splitter"
     },
     "3": {
@@ -268,6 +268,12 @@
     }
   },
   "ari @ sd": {
+    "2": {
+      "player": "jordan lawlar",
+      "pitcher": "jp sears",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "ketel marte",
       "pitcher": "jp sears",
@@ -290,6 +296,12 @@
     }
   },
   "tex @ cle": {
+    "4": {
+      "player": "adolis garcia",
+      "pitcher": "logan allen",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "3": {
       "player": "josh jung",
       "pitcher": "logan allen",
