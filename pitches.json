@@ -1,9 +1,15 @@
 {
   "det @ bos": {
+    "12": {
+      "player": "trey sweeney",
+      "pitcher": "jose de leon",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "javier baez",
       "pitcher": "jose de leon",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "10": {
@@ -275,7 +281,7 @@
     "12": {
       "player": "michael a taylor",
       "pitcher": "brad lord",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "11": {
@@ -349,8 +355,8 @@
     "10": {
       "player": "ryan mountcastle",
       "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "9": {
       "player": "adley rutschman",
@@ -411,8 +417,8 @@
     "9": {
       "player": "mike trout",
       "pitcher": "lance mccullers",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "8": {
       "player": "luis rengifo",
@@ -508,6 +514,12 @@
     }
   },
   "ari @ sd": {
+    "8": {
+      "player": "jackson merrill",
+      "pitcher": "brandon pfaadt",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "manny machado",
       "pitcher": "brandon pfaadt",
@@ -596,11 +608,17 @@
     }
   },
   "tex @ cle": {
+    "8": {
+      "player": "johnathan rodriguez",
+      "pitcher": "patrick corbin",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
     "7": {
       "player": "jose ramirez",
       "pitcher": "patrick corbin",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "6": {
       "player": "angel martinez",
