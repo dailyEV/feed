@@ -329,8 +329,8 @@
     "55": {
       "player": "mike yastrzemski",
       "pitcher": "michael kelly",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Sweeper"
     },
     "54": {
       "player": "darell hernaiz",
@@ -652,6 +652,18 @@
     }
   },
   "col @ sf": {
+    "51": {
+      "player": "patrick bailey",
+      "pitcher": "antonio senzatela",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "50": {
+      "player": "jung hoo lee",
+      "pitcher": "antonio senzatela",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "warming bernabel",
       "pitcher": "tristan beck",
@@ -1821,8 +1833,8 @@
     "52": {
       "player": "logan ohoppe",
       "pitcher": "colton gordon",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "51": {
       "player": "yainer diaz",
@@ -2132,6 +2144,12 @@
     }
   },
   "tb @ tor": {
+    "48": {
+      "player": "alejandro kirk",
+      "pitcher": "edwin uceta",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "daulton varsho",
       "pitcher": "edwin uceta",
@@ -2679,7 +2697,7 @@
     "47": {
       "player": "mitch garver",
       "pitcher": "landon knack",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "46": {
@@ -3247,8 +3265,8 @@
     "46": {
       "player": "mark vientos",
       "pitcher": "cade gibson",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "45": {
       "player": "brandon nimmo",
@@ -3821,8 +3839,8 @@
     "45": {
       "player": "ronald acuna",
       "pitcher": "hunter barco",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "44": {
       "player": "matt olson",
