@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "4": {
+      "player": "jarren duran",
+      "pitcher": "chris paddack",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
     "3": {
       "player": "justyn henry malloy",
       "pitcher": "jose de leon",
@@ -20,6 +26,12 @@
     }
   },
   "kc @ ath": {
+    "7": {
+      "player": "nick kurtz",
+      "pitcher": "cole ragans",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "colby thomas",
       "pitcher": "cole ragans",
@@ -72,6 +84,12 @@
     }
   },
   "min @ phi": {
+    "4": {
+      "player": "trea turner",
+      "pitcher": "simeon woods richardson",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "royce lewis",
       "pitcher": "cristopher sanchez",
@@ -121,7 +139,7 @@
     "2": {
       "player": "jordan westburg",
       "pitcher": "luis gil",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "1": {
@@ -165,12 +183,19 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "ari @ sd": {},
+  "ari @ sd": {
+    "1": {
+      "player": "ketel marte",
+      "pitcher": "jp sears",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "lad @ sea": {
     "1": {
       "player": "shohei ohtani",
       "pitcher": "bryce miller",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     }
   },
@@ -186,15 +211,15 @@
     "1": {
       "player": "francisco lindor",
       "pitcher": "edward cabrera",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     }
   },
   "cin @ mil": {
     "1": {
       "player": "tj friedl",
       "pitcher": "freddy peralta",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     }
   },
