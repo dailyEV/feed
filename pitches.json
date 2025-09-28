@@ -53,7 +53,7 @@
     "10": {
       "player": "carter jensen",
       "pitcher": "brady basso",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "9": {
@@ -338,6 +338,12 @@
     }
   },
   "tb @ tor": {
+    "6": {
+      "player": "davis schneider",
+      "pitcher": "ian seymour",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "5": {
       "player": "george springer",
       "pitcher": "ian seymour",
@@ -428,6 +434,12 @@
     }
   },
   "tex @ cle": {
+    "6": {
+      "player": "angel martinez",
+      "pitcher": "patrick corbin",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "5": {
       "player": "steven kwan",
       "pitcher": "patrick corbin",
@@ -492,6 +504,12 @@
     }
   },
   "cin @ mil": {
+    "5": {
+      "player": "christian yelich",
+      "pitcher": "brady singer",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "miguel andujar",
       "pitcher": "freddy peralta",
@@ -521,7 +539,7 @@
     "2": {
       "player": "nick gonzales",
       "pitcher": "charlie morton",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Curveball"
     },
     "1": {
