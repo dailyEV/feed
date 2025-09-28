@@ -185,8 +185,8 @@
     "7": {
       "player": "cj abrams",
       "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "6": {
       "player": "james wood",
@@ -261,7 +261,7 @@
     "6": {
       "player": "cam smith",
       "pitcher": "sam aldegheri",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "5": {
@@ -331,7 +331,7 @@
     "3": {
       "player": "geraldo perdomo",
       "pitcher": "jp sears",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "2": {
@@ -403,7 +403,7 @@
     "4": {
       "player": "xavier edwards",
       "pitcher": "sean manaea",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -452,11 +452,17 @@
     }
   },
   "pit @ atl": {
+    "2": {
+      "player": "nick gonzales",
+      "pitcher": "charlie morton",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "jared triolo",
       "pitcher": "charlie morton",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     }
   },
   "stl @ chc": {}
