@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "36": {
+      "player": "nick sogard",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "35": {
       "player": "david hamilton",
       "pitcher": "chris paddack",
@@ -424,6 +430,12 @@
     }
   },
   "col @ sf": {
+    "35": {
+      "player": "ryan ritter",
+      "pitcher": "logan webb",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "34": {
       "player": "warming bernabel",
       "pitcher": "logan webb",
@@ -1045,8 +1057,8 @@
     "32": {
       "player": "ryan mcmahon",
       "pitcher": "kyle bradish",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "31": {
       "player": "anthony volpe",
@@ -1439,8 +1451,8 @@
     "31": {
       "player": "addison barger",
       "pitcher": "ian seymour",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "alejandro kirk",
@@ -1628,7 +1640,7 @@
       "player": "gavin sheets",
       "pitcher": "brandon pfaadt",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "29": {
       "player": "xander bogaerts",
@@ -1809,8 +1821,8 @@
     "30": {
       "player": "ben rortvedt",
       "pitcher": "bryce miller",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Knuckle Curve"
     },
     "29": {
       "player": "hyeseong kim",
@@ -2528,6 +2540,18 @@
     }
   },
   "pit @ atl": {
+    "28": {
+      "player": "nick yorke",
+      "pitcher": "chris sale",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "27": {
+      "player": "alexander canario",
+      "pitcher": "chris sale",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "26": {
       "player": "joey bart",
       "pitcher": "chris sale",
