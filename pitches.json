@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "34": {
+      "player": "connor wong",
+      "pitcher": "chris paddack",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "nathaniel lowe",
       "pitcher": "chris paddack",
@@ -409,7 +415,7 @@
     "32": {
       "player": "yanquiel fernandez",
       "pitcher": "logan webb",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "31": {
@@ -797,7 +803,7 @@
     "34": {
       "player": "miguel vargas",
       "pitcher": "shinnosuke ogasawara",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "33": {
@@ -1191,8 +1197,8 @@
     "32": {
       "player": "zach cole",
       "pitcher": "sam aldegheri",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "jacob melton",
@@ -1385,8 +1391,8 @@
     "30": {
       "player": "alejandro kirk",
       "pitcher": "ian seymour",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "29": {
       "player": "daulton varsho",
@@ -1910,6 +1916,12 @@
     }
   },
   "tex @ cle": {
+    "30": {
+      "player": "bo naylor",
+      "pitcher": "patrick corbin",
+      "result": "Ball In Dirt",
+      "pitch": "Cutter"
+    },
     "29": {
       "player": "johnathan rodriguez",
       "pitcher": "patrick corbin",
@@ -2089,8 +2101,8 @@
     "29": {
       "player": "connor norby",
       "pitcher": "brooks raley",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "28": {
       "player": "otto lopez",
@@ -2587,8 +2599,8 @@
     "24": {
       "player": "michael busch",
       "pitcher": "john king",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "23": {
       "player": "jordan walker",
