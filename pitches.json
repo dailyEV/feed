@@ -353,7 +353,7 @@
     "59": {
       "player": "john rave",
       "pitcher": "osvaldo bido",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -704,7 +704,7 @@
       "player": "ryan ritter",
       "pitcher": "spencer bivens",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "54": {
       "player": "casey schmitt",
@@ -1343,8 +1343,8 @@
     "54": {
       "player": "andres chaparro",
       "pitcher": "tyler alexander",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "53": {
       "player": "cj abrams",
@@ -3203,7 +3203,7 @@
     "52": {
       "player": "josh jung",
       "pitcher": "matt festa",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sweeper"
     },
     "51": {
@@ -3804,10 +3804,16 @@
     }
   },
   "cin @ mil": {
+    "53": {
+      "player": "brice turang",
+      "pitcher": "chase burns",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "52": {
       "player": "jackson chourio",
       "pitcher": "chase burns",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "51": {
@@ -4417,7 +4423,7 @@
     "50": {
       "player": "pete crow armstrong",
       "pitcher": "ryan fernandez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "49": {
