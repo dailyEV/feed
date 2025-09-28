@@ -3,7 +3,7 @@
     "45": {
       "player": "nathaniel lowe",
       "pitcher": "chris paddack",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "44": {
@@ -275,7 +275,7 @@
     "46": {
       "player": "colby thomas",
       "pitcher": "steven cruz",
-      "result": "Foul Tip",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "45": {
@@ -2011,8 +2011,8 @@
     "37": {
       "player": "freddy fermin",
       "pitcher": "brandon pfaadt",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "36": {
       "player": "jose iglesias",
@@ -2468,6 +2468,12 @@
     }
   },
   "tex @ cle": {
+    "39": {
+      "player": "cody freeman",
+      "pitcher": "logan allen",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "38": {
       "player": "steven kwan",
       "pitcher": "patrick corbin",
@@ -2701,8 +2707,8 @@
     "37": {
       "player": "ronny mauricio",
       "pitcher": "edward cabrera",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "36": {
       "player": "francisco alvarez",
@@ -2922,6 +2928,12 @@
     }
   },
   "cin @ mil": {
+    "40": {
+      "player": "jose trevino",
+      "pitcher": "aaron ashby",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "sal frelick",
       "pitcher": "nick lodolo",
