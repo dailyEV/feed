@@ -251,7 +251,7 @@
     "42": {
       "player": "brett harris",
       "pitcher": "cole ragans",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "41": {
@@ -1407,8 +1407,8 @@
     "38": {
       "player": "yainer diaz",
       "pitcher": "sam aldegheri",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "37": {
       "player": "victor caratini",
@@ -2479,7 +2479,7 @@
     "34": {
       "player": "xavier edwards",
       "pitcher": "tyler rogers",
-      "result": "Called Strike",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "33": {
@@ -2682,6 +2682,12 @@
     }
   },
   "cin @ mil": {
+    "36": {
+      "player": "jackson chourio",
+      "pitcher": "nick lodolo",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "35": {
       "player": "christian yelich",
       "pitcher": "nick lodolo",
@@ -3097,8 +3103,8 @@
     "32": {
       "player": "seiya suzuki",
       "pitcher": "john king",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "nathan church",
