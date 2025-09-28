@@ -766,12 +766,6 @@
     }
   },
   "col @ sf": {
-    "63": {
-      "player": "patrick bailey",
-      "pitcher": "juan mejia",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "62": {
       "player": "jung hoo lee",
       "pitcher": "juan mejia",
@@ -1146,6 +1140,12 @@
     }
   },
   "min @ phi": {
+    "59": {
+      "player": "otto kemp",
+      "pitcher": "genesis cabrera",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "58": {
       "player": "garrett stubbs",
       "pitcher": "genesis cabrera",
@@ -1499,7 +1499,7 @@
     "61": {
       "player": "luis garcia",
       "pitcher": "jordan leasure",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "60": {
@@ -2187,8 +2187,8 @@
     "63": {
       "player": "denzer guzman",
       "pitcher": "colton gordon",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "62": {
       "player": "sebastian  rivero",
@@ -3237,7 +3237,7 @@
     "56": {
       "player": "dalton rushing",
       "pitcher": "eduard bazardo",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "55": {
@@ -4257,8 +4257,8 @@
     "59": {
       "player": "matt mclain",
       "pitcher": "chad patrick",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "58": {
       "player": "tyler stephenson",
@@ -4939,8 +4939,8 @@
     "58": {
       "player": "nico hoerner",
       "pitcher": "riley obrien",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "57": {
       "player": "reese mcguire",
