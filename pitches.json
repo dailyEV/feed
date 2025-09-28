@@ -4,7 +4,7 @@
       "player": "trey sweeney",
       "pitcher": "greg weissert",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "70": {
       "player": "javier baez",
@@ -1275,8 +1275,8 @@
     "66": {
       "player": "alec bohm",
       "pitcher": "cole sands",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "65": {
       "player": "bryce harper",
@@ -2083,8 +2083,8 @@
     "60": {
       "player": "ben rice",
       "pitcher": "rico garcia",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "tyler oneill",
@@ -2445,8 +2445,8 @@
     "71": {
       "player": "jesus sanchez",
       "pitcher": "sammy peralta",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "70": {
       "player": "logan ohoppe",
@@ -2873,7 +2873,7 @@
     "67": {
       "player": "addison barger",
       "pitcher": "kevin kelly",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "66": {
@@ -3277,7 +3277,7 @@
     "60": {
       "player": "tim tawa",
       "pitcher": "bradgley rodriguez",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "59": {
@@ -3639,7 +3639,7 @@
     "61": {
       "player": "miles mastrobuoni",
       "pitcher": "landon knack",
-      "result": "In play, no out",
+      "result": "Foul",
       "pitch": "Changeup"
     },
     "60": {
@@ -4004,6 +4004,12 @@
     }
   },
   "tex @ cle": {
+    "65": {
+      "player": "jonah heim",
+      "pitcher": "kolby allard",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "george valera",
       "pitcher": "luis curvelo",
@@ -4393,7 +4399,7 @@
     "61": {
       "player": "pete alonso",
       "pitcher": "calvin faucher",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "60": {
@@ -4761,8 +4767,8 @@
     "65": {
       "player": "tj friedl",
       "pitcher": "jared koenig",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "64": {
       "player": "christian yelich",
