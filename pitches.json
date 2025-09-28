@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "34": {
+      "player": "connor wong",
+      "pitcher": "chris paddack",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "33": {
       "player": "nathaniel lowe",
       "pitcher": "chris paddack",
@@ -409,7 +415,7 @@
     "32": {
       "player": "yanquiel fernandez",
       "pitcher": "logan webb",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Changeup"
     },
     "31": {
@@ -603,8 +609,8 @@
     "31": {
       "player": "nick castellanos",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "30": {
       "player": "brandon marsh",
@@ -788,6 +794,12 @@
     }
   },
   "chw @ wsh": {
+    "33": {
+      "player": "colson montgomery",
+      "pitcher": "shinnosuke ogasawara",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "kyle teel",
       "pitcher": "shinnosuke ogasawara",
@@ -1358,6 +1370,12 @@
     }
   },
   "tb @ tor": {
+    "30": {
+      "player": "alejandro kirk",
+      "pitcher": "ian seymour",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "daulton varsho",
       "pitcher": "ian seymour",
@@ -1877,8 +1895,8 @@
     "29": {
       "player": "johnathan rodriguez",
       "pitcher": "patrick corbin",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "28": {
       "player": "jose ramirez",
@@ -2054,7 +2072,7 @@
       "player": "connor norby",
       "pitcher": "brooks raley",
       "result": "Ball",
-      "pitch": "Cutter"
+      "pitch": "Changeup"
     },
     "28": {
       "player": "otto lopez",
