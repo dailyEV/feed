@@ -3,7 +3,7 @@
     "73": {
       "player": "jake rogers",
       "pitcher": "greg weissert",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "72": {
@@ -443,8 +443,8 @@
     "77": {
       "player": "john rave",
       "pitcher": "scott mcgough",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "76": {
       "player": "michael massey",
@@ -1299,7 +1299,7 @@
     "68": {
       "player": "austin martin",
       "pitcher": "orion kerkering",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "67": {
@@ -2493,8 +2493,8 @@
     "73": {
       "player": "ramon urias",
       "pitcher": "sammy peralta",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "72": {
       "player": "cam smith",
@@ -2933,7 +2933,7 @@
     "69": {
       "player": "myles straw",
       "pitcher": "kevin kelly",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Sinker"
     },
     "68": {
@@ -3349,8 +3349,8 @@
     "61": {
       "player": "will wagner",
       "pitcher": "brandyn garcia",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "60": {
       "player": "tim tawa",
@@ -4498,10 +4498,16 @@
     }
   },
   "nym @ mia": {
+    "65": {
+      "player": "francisco alvarez",
+      "pitcher": "calvin faucher",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "64": {
       "player": "jeff mcneil",
       "pitcher": "calvin faucher",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "63": {
