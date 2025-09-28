@@ -1705,8 +1705,8 @@
     "50": {
       "player": "dylan beavers",
       "pitcher": "luke weaver",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "anthony volpe",
@@ -2008,7 +2008,7 @@
       "player": "ramon urias",
       "pitcher": "ryan zeferjahn",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "57": {
       "player": "cam smith",
@@ -3281,8 +3281,8 @@
     "53": {
       "player": "bo naylor",
       "pitcher": "hoby milner",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "52": {
       "player": "josh jung",
@@ -3598,10 +3598,16 @@
     }
   },
   "nym @ mia": {
+    "50": {
+      "player": "heriberto hernandez",
+      "pitcher": "edwin diaz",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "eric wagaman",
       "pitcher": "edwin diaz",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "48": {
