@@ -293,7 +293,7 @@
     "48": {
       "player": "maikel garcia",
       "pitcher": "mitch spence",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "47": {
@@ -843,8 +843,8 @@
     "45": {
       "player": "christian vazquez",
       "pitcher": "taijuan walker",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "44": {
       "player": "ryan fitzgerald",
@@ -1384,6 +1384,12 @@
     }
   },
   "bal @ nyy": {
+    "41": {
+      "player": "jordan westburg",
+      "pitcher": "fernando cruz",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "40": {
       "player": "aaron judge",
       "pitcher": "keegan akin",
@@ -1913,8 +1919,8 @@
     "42": {
       "player": "vladimir guerrero",
       "pitcher": "edwin uceta",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "41": {
       "player": "andres gimenez",
@@ -2164,11 +2170,17 @@
     }
   },
   "ari @ sd": {
+    "40": {
+      "player": "tim tawa",
+      "pitcher": "jp sears",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "39": {
       "player": "geraldo perdomo",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "jordan lawlar",
@@ -3419,8 +3431,8 @@
     "40": {
       "player": "tommy pham",
       "pitcher": "chris sale",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "39": {
       "player": "jurickson profar",
@@ -3658,10 +3670,16 @@
     }
   },
   "stl @ chc": {
+    "40": {
+      "player": "michael busch",
+      "pitcher": "matt svanson",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "39": {
       "player": "willi castro",
       "pitcher": "matt svanson",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "38": {
