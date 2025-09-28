@@ -4,7 +4,7 @@
       "player": "andy ibanez",
       "pitcher": "jose de leon",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Slider"
     },
     "30": {
       "player": "trey sweeney",
@@ -191,7 +191,7 @@
     "31": {
       "player": "vinnie pasquantino",
       "pitcher": "mitch spence",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "30": {
@@ -370,12 +370,6 @@
     }
   },
   "col @ sf": {
-    "28": {
-      "player": "jung hoo lee",
-      "pitcher": "luis peralta",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "27": {
       "player": "bryce eldridge",
       "pitcher": "mccade brown",
@@ -1199,8 +1193,8 @@
     "26": {
       "player": "jake mangum",
       "pitcher": "kevin gausman",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "25": {
       "player": "josh lowe",
@@ -1354,6 +1348,12 @@
     }
   },
   "ari @ sd": {
+    "25": {
+      "player": "james mccann",
+      "pitcher": "jp sears",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "24": {
       "player": "tim tawa",
       "pitcher": "jp sears",
@@ -1959,8 +1959,8 @@
     "24": {
       "player": "jackson chourio",
       "pitcher": "brady singer",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "23": {
       "player": "miguel andujar",
@@ -2230,6 +2230,12 @@
     }
   },
   "stl @ chc": {
+    "20": {
+      "player": "willi castro",
+      "pitcher": "kyle leahy",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "19": {
       "player": "dansby swanson",
       "pitcher": "kyle leahy",
