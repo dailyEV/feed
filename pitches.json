@@ -3,8 +3,8 @@
     "65": {
       "player": "kerry carpenter",
       "pitcher": "zack kelly",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "64": {
       "player": "justyn henry malloy",
@@ -1523,8 +1523,8 @@
     "62": {
       "player": "riley adams",
       "pitcher": "jordan leasure",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "61": {
       "player": "luis garcia",
@@ -2597,8 +2597,8 @@
     "60": {
       "player": "jonathan aranda",
       "pitcher": "brendon little",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "59": {
       "player": "vladimir guerrero",
@@ -2959,7 +2959,7 @@
     "53": {
       "player": "jorge barrosa",
       "pitcher": "bradgley rodriguez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "52": {
@@ -3279,8 +3279,8 @@
     "57": {
       "player": "teoscar hernandez",
       "pitcher": "eduard bazardo",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "dalton rushing",
@@ -4658,6 +4658,12 @@
     }
   },
   "pit @ atl": {
+    "56": {
+      "player": "jack suwinski",
+      "pitcher": "tyler kinley",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "55": {
       "player": "nick gonzales",
       "pitcher": "tyler kinley",
@@ -4993,8 +4999,8 @@
     "59": {
       "player": "nolan gorman",
       "pitcher": "jordan wicks",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "nico hoerner",
