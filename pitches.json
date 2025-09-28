@@ -326,6 +326,12 @@
     }
   },
   "kc @ ath": {
+    "56": {
+      "player": "carter jensen",
+      "pitcher": "michael kelly",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "55": {
       "player": "mike yastrzemski",
       "pitcher": "michael kelly",
@@ -1833,8 +1839,8 @@
     "52": {
       "player": "logan ohoppe",
       "pitcher": "colton gordon",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "51": {
       "player": "yainer diaz",
@@ -2147,8 +2153,8 @@
     "48": {
       "player": "alejandro kirk",
       "pitcher": "edwin uceta",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "47": {
       "player": "daulton varsho",
@@ -2434,6 +2440,12 @@
     }
   },
   "ari @ sd": {
+    "44": {
+      "player": "will wagner",
+      "pitcher": "philip abner",
+      "result": "Foul Bunt",
+      "pitch": "Slider"
+    },
     "43": {
       "player": "ryan ohearn",
       "pitcher": "brandon pfaadt",
@@ -2978,6 +2990,12 @@
     }
   },
   "tex @ cle": {
+    "48": {
+      "player": "billy mckinney",
+      "pitcher": "matt festa",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "47": {
       "player": "johnathan rodriguez",
       "pitcher": "danny coulombe",
@@ -3029,7 +3047,7 @@
     "39": {
       "player": "cody freeman",
       "pitcher": "logan allen",
-      "result": "In play, out(s)",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "38": {
@@ -3262,12 +3280,6 @@
     }
   },
   "nym @ mia": {
-    "47": {
-      "player": "jeff mcneil",
-      "pitcher": "cade gibson",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "46": {
       "player": "mark vientos",
       "pitcher": "cade gibson",
