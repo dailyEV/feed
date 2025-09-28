@@ -3,7 +3,7 @@
     "24": {
       "player": "ceddanne rafaela",
       "pitcher": "chris paddack",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "23": {
@@ -417,8 +417,8 @@
     "21": {
       "player": "ryan jeffers",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "austin martin",
@@ -542,11 +542,23 @@
     }
   },
   "chw @ wsh": {
+    "24": {
+      "player": "brooks baldwin",
+      "pitcher": "brad lord",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "23": {
+      "player": "edgar quero",
+      "pitcher": "brad lord",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "22": {
       "player": "miguel vargas",
       "pitcher": "brad lord",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "jacob young",
@@ -679,8 +691,8 @@
     "20": {
       "player": "ben rice",
       "pitcher": "kyle bradish",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "19": {
       "player": "trent grisham",
@@ -1152,12 +1164,6 @@
     }
   },
   "lad @ sea": {
-    "21": {
-      "player": "michael conforto",
-      "pitcher": "bryce miller",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "20": {
       "player": "teoscar hernandez",
       "pitcher": "bryce miller",
@@ -1393,8 +1399,8 @@
     "19": {
       "player": "juan soto",
       "pitcher": "edward cabrera",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "18": {
       "player": "francisco lindor",
@@ -1616,6 +1622,12 @@
     }
   },
   "pit @ atl": {
+    "16": {
+      "player": "nacho alvarez",
+      "pitcher": "johan oviedo",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "15": {
       "player": "marcell ozuna",
       "pitcher": "johan oviedo",
