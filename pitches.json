@@ -3,7 +3,7 @@
     "4": {
       "player": "jarren duran",
       "pitcher": "chris paddack",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "3": {
@@ -26,12 +26,6 @@
     }
   },
   "kc @ ath": {
-    "8": {
-      "player": "brent rooker",
-      "pitcher": "cole ragans",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
-    },
     "7": {
       "player": "nick kurtz",
       "pitcher": "cole ragans",
@@ -174,6 +168,12 @@
     }
   },
   "hou @ laa": {
+    "4": {
+      "player": "yainer diaz",
+      "pitcher": "sam aldegheri",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "3": {
       "player": "victor caratini",
       "pitcher": "sam aldegheri",
@@ -194,11 +194,17 @@
     }
   },
   "tb @ tor": {
+    "3": {
+      "player": "jonathan aranda",
+      "pitcher": "kevin gausman",
+      "result": "Foul",
+      "pitch": "Splitter"
+    },
     "2": {
       "player": "junior caminero",
       "pitcher": "kevin gausman",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "richie palacios",
@@ -211,16 +217,16 @@
     "1": {
       "player": "ketel marte",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     }
   },
   "lad @ sea": {
     "2": {
       "player": "mookie betts",
       "pitcher": "bryce miller",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "1": {
       "player": "shohei ohtani",
@@ -233,8 +239,8 @@
     "2": {
       "player": "cody freeman",
       "pitcher": "logan allen",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "1": {
       "player": "michael helman",
@@ -244,6 +250,12 @@
     }
   },
   "nym @ mia": {
+    "3": {
+      "player": "pete alonso",
+      "pitcher": "edward cabrera",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "2": {
       "player": "juan soto",
       "pitcher": "edward cabrera",
@@ -261,7 +273,7 @@
     "1": {
       "player": "tj friedl",
       "pitcher": "freddy peralta",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     }
   },
