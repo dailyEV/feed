@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "8": {
+      "player": "wilyer abreu",
+      "pitcher": "chris paddack",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "ceddanne rafaela",
       "pitcher": "chris paddack",
@@ -47,8 +53,8 @@
     "9": {
       "player": "tyler soderstrom",
       "pitcher": "cole ragans",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "8": {
       "player": "brent rooker",
@@ -179,8 +185,8 @@
     "7": {
       "player": "cj abrams",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "6": {
       "player": "james wood",
@@ -249,8 +255,8 @@
     "6": {
       "player": "cam smith",
       "pitcher": "sam aldegheri",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "5": {
       "player": "jesus sanchez",
@@ -284,6 +290,12 @@
     }
   },
   "tb @ tor": {
+    "5": {
+      "player": "george springer",
+      "pitcher": "ian seymour",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "4": {
       "player": "josh lowe",
       "pitcher": "kevin gausman",
@@ -313,7 +325,7 @@
     "3": {
       "player": "geraldo perdomo",
       "pitcher": "jp sears",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "2": {
@@ -376,6 +388,12 @@
     }
   },
   "nym @ mia": {
+    "4": {
+      "player": "xavier edwards",
+      "pitcher": "sean manaea",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "pete alonso",
       "pitcher": "edward cabrera",
@@ -399,8 +417,8 @@
     "4": {
       "player": "miguel andujar",
       "pitcher": "freddy peralta",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "3": {
       "player": "gavin lux",
