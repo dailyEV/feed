@@ -100,12 +100,6 @@
     }
   },
   "col @ sf": {
-    "8": {
-      "player": "jordan beck",
-      "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "7": {
       "player": "matt chapman",
       "pitcher": "mccade brown",
@@ -247,7 +241,7 @@
     "6": {
       "player": "aaron judge",
       "pitcher": "kyle bradish",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "5": {
@@ -285,8 +279,8 @@
     "6": {
       "player": "cam smith",
       "pitcher": "sam aldegheri",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Hit By Pitch",
+      "pitch": "Slider"
     },
     "5": {
       "player": "jesus sanchez",
@@ -355,8 +349,8 @@
     "4": {
       "player": "tim tawa",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "3": {
       "player": "geraldo perdomo",
@@ -378,6 +372,12 @@
     }
   },
   "lad @ sea": {
+    "5": {
+      "player": "randy arozarena",
+      "pitcher": "clayton kershaw",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "teoscar hernandez",
       "pitcher": "bryce miller",
