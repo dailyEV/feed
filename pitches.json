@@ -3,7 +3,7 @@
     "58": {
       "player": "parker meadows",
       "pitcher": "jose de leon",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "57": {
@@ -354,7 +354,7 @@
       "player": "john rave",
       "pitcher": "osvaldo bido",
       "result": "Called Strike",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "58": {
       "player": "michael massey",
@@ -704,7 +704,7 @@
       "player": "ryan ritter",
       "pitcher": "spencer bivens",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "54": {
       "player": "casey schmitt",
@@ -1035,7 +1035,7 @@
     "51": {
       "player": "nick castellanos",
       "pitcher": "travis adams",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "50": {
@@ -3200,6 +3200,12 @@
     }
   },
   "tex @ cle": {
+    "52": {
+      "player": "josh jung",
+      "pitcher": "matt festa",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "51": {
       "player": "cody freeman",
       "pitcher": "matt festa",
@@ -4112,6 +4118,12 @@
     }
   },
   "pit @ atl": {
+    "49": {
+      "player": "rafael flores",
+      "pitcher": "chris sale",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "48": {
       "player": "nick yorke",
       "pitcher": "chris sale",
