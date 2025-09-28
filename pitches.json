@@ -212,12 +212,6 @@
     }
   },
   "kc @ ath": {
-    "36": {
-      "player": "salvador perez",
-      "pitcher": "mitch spence",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "35": {
       "player": "darell hernaiz",
       "pitcher": "cole ragans",
@@ -427,8 +421,8 @@
     "34": {
       "player": "warming bernabel",
       "pitcher": "logan webb",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "33": {
       "player": "kyle karros",
@@ -1030,6 +1024,12 @@
     }
   },
   "bal @ nyy": {
+    "32": {
+      "player": "ryan mcmahon",
+      "pitcher": "kyle bradish",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "31": {
       "player": "anthony volpe",
       "pitcher": "kyle bradish",
@@ -1421,7 +1421,7 @@
     "30": {
       "player": "alejandro kirk",
       "pitcher": "ian seymour",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Cutter"
     },
     "29": {
@@ -1603,8 +1603,8 @@
     "29": {
       "player": "xander bogaerts",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "Cutter"
     },
     "28": {
       "player": "jackson merrill",
@@ -2319,8 +2319,8 @@
     "30": {
       "player": "spencer steer",
       "pitcher": "trevor megill",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
     },
     "29": {
       "player": "elly de la cruz",
@@ -2501,8 +2501,8 @@
     "26": {
       "player": "joey bart",
       "pitcher": "chris sale",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "25": {
       "player": "ronald acuna",
@@ -2659,8 +2659,8 @@
     "25": {
       "player": "nico hoerner",
       "pitcher": "john king",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "24": {
       "player": "michael busch",
