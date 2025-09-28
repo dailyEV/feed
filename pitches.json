@@ -401,8 +401,8 @@
     "68": {
       "player": "carter jensen",
       "pitcher": "osvaldo bido",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "67": {
       "player": "mike yastrzemski",
@@ -1921,7 +1921,7 @@
     "55": {
       "player": "trent grisham",
       "pitcher": "rico garcia",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -2639,8 +2639,8 @@
     "61": {
       "player": "josh lowe",
       "pitcher": "brendon little",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "60": {
       "player": "jonathan aranda",
@@ -3674,6 +3674,12 @@
     }
   },
   "tex @ cle": {
+    "60": {
+      "player": "jhonkensy noel",
+      "pitcher": "hoby milner",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "59": {
       "player": "daniel schneemann",
       "pitcher": "hoby milner",
@@ -4033,7 +4039,7 @@
     "57": {
       "player": "xavier edwards",
       "pitcher": "ryan helsley",
-      "result": "Foul Bunt",
+      "result": "In play, no out",
       "pitch": "Slider"
     },
     "56": {
@@ -4733,8 +4739,8 @@
     "56": {
       "player": "jack suwinski",
       "pitcher": "tyler kinley",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "55": {
       "player": "nick gonzales",
@@ -5068,6 +5074,12 @@
     }
   },
   "stl @ chc": {
+    "61": {
+      "player": "jordan walker",
+      "pitcher": "jordan wicks",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "thomas saggese",
       "pitcher": "jordan wicks",
