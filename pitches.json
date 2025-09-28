@@ -293,8 +293,8 @@
     "49": {
       "player": "bobby witt",
       "pitcher": "mitch spence",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "48": {
       "player": "maikel garcia",
@@ -580,6 +580,12 @@
     }
   },
   "col @ sf": {
+    "45": {
+      "player": "jordan beck",
+      "pitcher": "tristan beck",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "bryce eldridge",
       "pitcher": "jaden hill",
@@ -1118,6 +1124,12 @@
     }
   },
   "chw @ wsh": {
+    "46": {
+      "player": "riley adams",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "45": {
       "player": "colson montgomery",
       "pitcher": "pj poulin",
@@ -1390,12 +1402,6 @@
     }
   },
   "bal @ nyy": {
-    "41": {
-      "player": "jordan westburg",
-      "pitcher": "fernando cruz",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "40": {
       "player": "aaron judge",
       "pitcher": "keegan akin",
@@ -2179,8 +2185,8 @@
     "40": {
       "player": "tim tawa",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "geraldo perdomo",
@@ -2421,7 +2427,7 @@
     "43": {
       "player": "michael conforto",
       "pitcher": "caleb ferguson",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "42": {
@@ -3455,8 +3461,8 @@
     "40": {
       "player": "tommy pham",
       "pitcher": "chris sale",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "jurickson profar",
