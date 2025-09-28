@@ -3,8 +3,8 @@
     "4": {
       "player": "jarren duran",
       "pitcher": "chris paddack",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "justyn henry malloy",
@@ -29,7 +29,7 @@
     "7": {
       "player": "nick kurtz",
       "pitcher": "cole ragans",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -64,6 +64,12 @@
     }
   },
   "col @ sf": {
+    "4": {
+      "player": "willy adames",
+      "pitcher": "mccade brown",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "blaine crim",
       "pitcher": "logan webb",
@@ -136,12 +142,6 @@
     }
   },
   "bal @ nyy": {
-    "3": {
-      "player": "gunnar henderson",
-      "pitcher": "luis gil",
-      "result": "Foul",
-      "pitch": "Changeup"
-    },
     "2": {
       "player": "jordan westburg",
       "pitcher": "luis gil",
@@ -193,16 +193,22 @@
     "1": {
       "player": "ketel marte",
       "pitcher": "jp sears",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     }
   },
   "lad @ sea": {
+    "2": {
+      "player": "mookie betts",
+      "pitcher": "bryce miller",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "shohei ohtani",
       "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Splitter"
     }
   },
   "tex @ cle": {
@@ -220,12 +226,6 @@
     }
   },
   "nym @ mia": {
-    "2": {
-      "player": "juan soto",
-      "pitcher": "edward cabrera",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "1": {
       "player": "francisco lindor",
       "pitcher": "edward cabrera",
