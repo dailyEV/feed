@@ -3,8 +3,8 @@
     "33": {
       "player": "nathaniel lowe",
       "pitcher": "chris paddack",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "32": {
       "player": "jake rogers",
@@ -406,11 +406,17 @@
     }
   },
   "col @ sf": {
+    "32": {
+      "player": "yanquiel fernandez",
+      "pitcher": "logan webb",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "31": {
       "player": "brenton doyle",
       "pitcher": "logan webb",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "christian koss",
@@ -785,8 +791,8 @@
     "32": {
       "player": "kyle teel",
       "pitcher": "shinnosuke ogasawara",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "josh bell",
@@ -1152,6 +1158,12 @@
     }
   },
   "hou @ laa": {
+    "31": {
+      "player": "jacob melton",
+      "pitcher": "sam aldegheri",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "30": {
       "player": "chris taylor",
       "pitcher": "lance mccullers",
@@ -1337,8 +1349,8 @@
     "28": {
       "player": "anthony santander",
       "pitcher": "ian seymour",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "27": {
       "player": "hunter feduccia",
@@ -1504,6 +1516,12 @@
     }
   },
   "ari @ sd": {
+    "28": {
+      "player": "jackson merrill",
+      "pitcher": "brandon pfaadt",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "27": {
       "player": "manny machado",
       "pitcher": "brandon pfaadt",
@@ -1841,8 +1859,8 @@
     "29": {
       "player": "johnathan rodriguez",
       "pitcher": "patrick corbin",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "28": {
       "player": "jose ramirez",
@@ -2357,8 +2375,8 @@
     "25": {
       "player": "ronald acuna",
       "pitcher": "johan oviedo",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "24": {
       "player": "matt olson",
