@@ -3,8 +3,8 @@
     "28": {
       "player": "wenceel perez",
       "pitcher": "jose de leon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "27": {
       "player": "kerry carpenter",
@@ -334,6 +334,12 @@
     }
   },
   "col @ sf": {
+    "26": {
+      "player": "matt chapman",
+      "pitcher": "mccade brown",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "25": {
       "player": "rafael devers",
       "pitcher": "mccade brown",
@@ -489,8 +495,8 @@
     "25": {
       "player": "bryce harper",
       "pitcher": "simeon woods richardson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "24": {
       "player": "kyle schwarber",
@@ -641,8 +647,8 @@
     "27": {
       "player": "michael a taylor",
       "pitcher": "brad lord",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "26": {
       "player": "dominic fletcher",
@@ -1244,7 +1250,7 @@
       "player": "jordan lawlar",
       "pitcher": "jp sears",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "ryan ohearn",
@@ -1514,6 +1520,18 @@
     }
   },
   "tex @ cle": {
+    "23": {
+      "player": "adolis garcia",
+      "pitcher": "logan allen",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "22": {
+      "player": "josh jung",
+      "pitcher": "logan allen",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "cody freeman",
       "pitcher": "logan allen",
@@ -1779,8 +1797,8 @@
     "22": {
       "player": "gavin lux",
       "pitcher": "dl hall",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "noelvi marte",
@@ -1914,7 +1932,7 @@
       "player": "nick gonzales",
       "pitcher": "chris sale",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "19": {
       "player": "jared triolo",
