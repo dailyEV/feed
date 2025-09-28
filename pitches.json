@@ -1,11 +1,5 @@
 {
   "det @ bos": {
-    "54": {
-      "player": "masataka yoshida",
-      "pitcher": "paul sewald",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "53": {
       "player": "trevor story",
       "pitcher": "paul sewald",
@@ -646,6 +640,12 @@
     }
   },
   "col @ sf": {
+    "50": {
+      "player": "jung hoo lee",
+      "pitcher": "antonio senzatela",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "warming bernabel",
       "pitcher": "tristan beck",
@@ -1235,8 +1235,8 @@
     "50": {
       "player": "miguel vargas",
       "pitcher": "sauryn lao",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "james wood",
@@ -2114,6 +2114,12 @@
     }
   },
   "tb @ tor": {
+    "46": {
+      "player": "anthony santander",
+      "pitcher": "edwin uceta",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "45": {
       "player": "hunter feduccia",
       "pitcher": "mason fluharty",
@@ -3480,10 +3486,16 @@
     }
   },
   "cin @ mil": {
+    "49": {
+      "player": "miguel andujar",
+      "pitcher": "aaron ashby",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "48": {
       "player": "gavin lux",
       "pitcher": "aaron ashby",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "47": {
@@ -3770,12 +3782,6 @@
     }
   },
   "pit @ atl": {
-    "45": {
-      "player": "ronald acuna",
-      "pitcher": "hunter barco",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "44": {
       "player": "matt olson",
       "pitcher": "hunter barco",
