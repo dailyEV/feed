@@ -65,7 +65,7 @@
     "13": {
       "player": "john rave",
       "pitcher": "brady basso",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -139,8 +139,8 @@
     "10": {
       "player": "yanquiel fernandez",
       "pitcher": "logan webb",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "brenton doyle",
@@ -375,8 +375,8 @@
     "8": {
       "player": "luis rengifo",
       "pitcher": "lance mccullers",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Knuckle Curve"
     },
     "7": {
       "player": "ramon urias",
@@ -507,8 +507,8 @@
     "7": {
       "player": "eugenio suarez",
       "pitcher": "clayton kershaw",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Curveball"
     },
     "6": {
       "player": "cal raleigh",
@@ -551,8 +551,8 @@
     "7": {
       "player": "jose ramirez",
       "pitcher": "patrick corbin",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "6": {
       "player": "angel martinez",
@@ -592,6 +592,12 @@
     }
   },
   "nym @ mia": {
+    "7": {
+      "player": "brandon nimmo",
+      "pitcher": "edward cabrera",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "6": {
       "player": "jakob marsee",
       "pitcher": "sean manaea",
@@ -633,8 +639,8 @@
     "6": {
       "player": "jackson chourio",
       "pitcher": "brady singer",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Foul Tip",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "christian yelich",
