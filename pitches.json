@@ -740,12 +740,6 @@
     }
   },
   "chw @ wsh": {
-    "31": {
-      "player": "josh bell",
-      "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
-    },
     "30": {
       "player": "cj abrams",
       "pitcher": "shane smith",
@@ -1101,8 +1095,8 @@
     "29": {
       "player": "jo adell",
       "pitcher": "lance mccullers",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "logan ohoppe",
@@ -1277,7 +1271,7 @@
     "27": {
       "player": "hunter feduccia",
       "pitcher": "kevin gausman",
-      "result": "Foul",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -1927,8 +1921,8 @@
     "26": {
       "player": "mark vientos",
       "pitcher": "edward cabrera",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "25": {
       "player": "brandon nimmo",
@@ -2082,10 +2076,16 @@
     }
   },
   "cin @ mil": {
+    "27": {
+      "player": "sal frelick",
+      "pitcher": "brady singer",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "26": {
       "player": "jake bauers",
       "pitcher": "brady singer",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "25": {
