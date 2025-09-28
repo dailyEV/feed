@@ -1331,7 +1331,7 @@
     "53": {
       "player": "cj abrams",
       "pitcher": "tyler alexander",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "52": {
@@ -1651,8 +1651,8 @@
     "48": {
       "player": "austin wells",
       "pitcher": "dean kremer",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "47": {
       "player": "giancarlo stanton",
@@ -2270,6 +2270,12 @@
     }
   },
   "tb @ tor": {
+    "51": {
+      "player": "myles straw",
+      "pitcher": "edwin uceta",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "50": {
       "player": "ernie clement",
       "pitcher": "edwin uceta",
@@ -3760,7 +3766,7 @@
       "player": "jackson chourio",
       "pitcher": "chase burns",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "christian yelich",
@@ -4073,8 +4079,8 @@
     "48": {
       "player": "nick yorke",
       "pitcher": "chris sale",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "ha seong kim",
@@ -4360,6 +4366,12 @@
     }
   },
   "stl @ chc": {
+    "49": {
+      "player": "moises ballesteros",
+      "pitcher": "ryan fernandez",
+      "result": "In play, run(s)",
+      "pitch": "Changeup"
+    },
     "48": {
       "player": "seiya suzuki",
       "pitcher": "ryan fernandez",
