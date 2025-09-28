@@ -298,11 +298,17 @@
     }
   },
   "col @ sf": {
+    "23": {
+      "player": "blaine crim",
+      "pitcher": "logan webb",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "22": {
       "player": "hunter goodman",
       "pitcher": "logan webb",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "heliot ramos",
@@ -718,6 +724,12 @@
     }
   },
   "bal @ nyy": {
+    "21": {
+      "player": "jackson holliday",
+      "pitcher": "luis gil",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "20": {
       "player": "ben rice",
       "pitcher": "kyle bradish",
@@ -968,6 +980,12 @@
     }
   },
   "tb @ tor": {
+    "22": {
+      "player": "richie palacios",
+      "pitcher": "kevin gausman",
+      "result": "Called Strike",
+      "pitch": "Splitter"
+    },
     "21": {
       "player": "bob seymour",
       "pitcher": "kevin gausman",
@@ -1100,7 +1118,7 @@
       "player": "freddy fermin",
       "pitcher": "brandon pfaadt",
       "result": "Foul",
-      "pitch": "Sweeper"
+      "pitch": "Sinker"
     },
     "18": {
       "player": "ketel marte",
@@ -1215,8 +1233,8 @@
     "21": {
       "player": "michael conforto",
       "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "20": {
       "player": "teoscar hernandez",
@@ -1340,12 +1358,6 @@
     }
   },
   "tex @ cle": {
-    "20": {
-      "player": "steven kwan",
-      "pitcher": "patrick corbin",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
     "19": {
       "player": "jhonkensy noel",
       "pitcher": "patrick corbin",
@@ -1694,6 +1706,12 @@
     }
   },
   "pit @ atl": {
+    "17": {
+      "player": "nick allen",
+      "pitcher": "johan oviedo",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "nacho alvarez",
       "pitcher": "johan oviedo",
@@ -1792,11 +1810,17 @@
     }
   },
   "stl @ chc": {
+    "16": {
+      "player": "jose fermin",
+      "pitcher": "javier assad",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "15": {
       "player": "nathan church",
       "pitcher": "javier assad",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "victor scott",
