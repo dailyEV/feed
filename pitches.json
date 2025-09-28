@@ -59,8 +59,8 @@
     "12": {
       "player": "michael massey",
       "pitcher": "brady basso",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "11": {
       "player": "adam frazier",
@@ -127,8 +127,8 @@
     "9": {
       "player": "brenton doyle",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "8": {
       "player": "jordan beck",
@@ -180,6 +180,12 @@
     }
   },
   "min @ phi": {
+    "9": {
+      "player": "carson mccusker",
+      "pitcher": "cristopher sanchez",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "8": {
       "player": "brooks lee",
       "pitcher": "cristopher sanchez",
@@ -384,7 +390,7 @@
       "player": "davis schneider",
       "pitcher": "ian seymour",
       "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "5": {
       "player": "george springer",
@@ -456,6 +462,12 @@
     }
   },
   "lad @ sea": {
+    "6": {
+      "player": "cal raleigh",
+      "pitcher": "clayton kershaw",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "randy arozarena",
       "pitcher": "clayton kershaw",
@@ -567,8 +579,8 @@
     "6": {
       "player": "jackson chourio",
       "pitcher": "brady singer",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "christian yelich",
@@ -637,7 +649,7 @@
     "1": {
       "player": "jose fermin",
       "pitcher": "javier assad",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     }
   }
