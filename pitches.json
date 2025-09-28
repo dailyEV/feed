@@ -4,7 +4,7 @@
       "player": "andy ibanez",
       "pitcher": "jose de leon",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "trey sweeney",
@@ -191,8 +191,8 @@
     "31": {
       "player": "vinnie pasquantino",
       "pitcher": "mitch spence",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "30": {
       "player": "bobby witt",
@@ -370,6 +370,12 @@
     }
   },
   "col @ sf": {
+    "28": {
+      "player": "jung hoo lee",
+      "pitcher": "luis peralta",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "27": {
       "player": "bryce eldridge",
       "pitcher": "mccade brown",
@@ -698,6 +704,12 @@
     }
   },
   "chw @ wsh": {
+    "29": {
+      "player": "james wood",
+      "pitcher": "shane smith",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "chase meidroth",
       "pitcher": "brad lord",
@@ -1029,7 +1041,7 @@
     "27": {
       "player": "brice matthews",
       "pitcher": "sam aldegheri",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "26": {
@@ -1167,7 +1179,7 @@
     "4": {
       "player": "yainer diaz",
       "pitcher": "sam aldegheri",
-      "result": "In play, no out",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "3": {
@@ -1193,8 +1205,8 @@
     "26": {
       "player": "jake mangum",
       "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "25": {
       "player": "josh lowe",
@@ -1956,6 +1968,12 @@
     }
   },
   "cin @ mil": {
+    "25": {
+      "player": "brice turang",
+      "pitcher": "brady singer",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "jackson chourio",
       "pitcher": "brady singer",
@@ -2102,6 +2120,12 @@
     }
   },
   "pit @ atl": {
+    "22": {
+      "player": "andrew mccutchen",
+      "pitcher": "chris sale",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "21": {
       "player": "tommy pham",
       "pitcher": "chris sale",
@@ -2230,12 +2254,6 @@
     }
   },
   "stl @ chc": {
-    "20": {
-      "player": "willi castro",
-      "pitcher": "kyle leahy",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "19": {
       "player": "dansby swanson",
       "pitcher": "kyle leahy",
