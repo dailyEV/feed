@@ -3,8 +3,8 @@
     "56": {
       "player": "andy ibanez",
       "pitcher": "jose de leon",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "55": {
       "player": "trey sweeney",
@@ -338,17 +338,11 @@
     }
   },
   "kc @ ath": {
-    "58": {
-      "player": "michael massey",
-      "pitcher": "michael kelly",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
     "57": {
       "player": "adam frazier",
       "pitcher": "michael kelly",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "56": {
       "player": "carter jensen",
@@ -682,12 +676,6 @@
     }
   },
   "col @ sf": {
-    "54": {
-      "player": "casey schmitt",
-      "pitcher": "antonio senzatela",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
-    },
     "53": {
       "player": "drew gilbert",
       "pitcher": "antonio senzatela",
@@ -1011,8 +999,8 @@
     "50": {
       "player": "weston wilson",
       "pitcher": "travis adams",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "alec bohm",
@@ -1624,6 +1612,12 @@
     }
   },
   "bal @ nyy": {
+    "47": {
+      "player": "giancarlo stanton",
+      "pitcher": "dean kremer",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "46": {
       "player": "cody bellinger",
       "pitcher": "dean kremer",
@@ -1905,7 +1899,7 @@
     "55": {
       "player": "christian moore",
       "pitcher": "colton gordon",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "54": {
