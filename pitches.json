@@ -1287,8 +1287,8 @@
     "67": {
       "player": "james outman",
       "pitcher": "orion kerkering",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "66": {
       "player": "alec bohm",
@@ -2098,6 +2098,12 @@
     }
   },
   "bal @ nyy": {
+    "62": {
+      "player": "cody bellinger",
+      "pitcher": "rico garcia",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "aaron judge",
       "pitcher": "rico garcia",
@@ -2469,8 +2475,8 @@
     "72": {
       "player": "cam smith",
       "pitcher": "sammy peralta",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "jesus sanchez",
@@ -2900,10 +2906,16 @@
     }
   },
   "tb @ tor": {
+    "69": {
+      "player": "myles straw",
+      "pitcher": "kevin kelly",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "68": {
       "player": "ernie clement",
       "pitcher": "kevin kelly",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "67": {
@@ -3675,7 +3687,7 @@
     "62": {
       "player": "randy arozarena",
       "pitcher": "landon knack",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -4046,10 +4058,16 @@
     }
   },
   "tex @ cle": {
+    "66": {
+      "player": "billy mckinney",
+      "pitcher": "kolby allard",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "65": {
       "player": "jonah heim",
       "pitcher": "kolby allard",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "64": {
@@ -4438,6 +4456,12 @@
     }
   },
   "nym @ mia": {
+    "64": {
+      "player": "jeff mcneil",
+      "pitcher": "calvin faucher",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "63": {
       "player": "mark vientos",
       "pitcher": "calvin faucher",
@@ -5225,8 +5249,8 @@
     "63": {
       "player": "ha seong kim",
       "pitcher": "yohan ramirez",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "62": {
       "player": "drake baldwin",
