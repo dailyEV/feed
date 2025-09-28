@@ -362,11 +362,17 @@
     }
   },
   "kc @ ath": {
+    "65": {
+      "player": "max muncy",
+      "pitcher": "daniel lynch",
+      "result": "Ball",
+      "pitch": "Knuckle Curve"
+    },
     "64": {
       "player": "jj bleday",
       "pitcher": "daniel lynch",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "63": {
       "player": "brett harris",
@@ -745,8 +751,8 @@
     "60": {
       "player": "matt chapman",
       "pitcher": "juan mejia",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "59": {
       "player": "rafael devers",
@@ -1104,12 +1110,6 @@
     }
   },
   "min @ phi": {
-    "56": {
-      "player": "max kepler",
-      "pitcher": "genesis cabrera",
-      "result": "In play, run(s)",
-      "pitch": "Sinker"
-    },
     "55": {
       "player": "kody clemens",
       "pitcher": "david robertson",
@@ -1442,12 +1442,6 @@
     }
   },
   "chw @ wsh": {
-    "59": {
-      "player": "chase meidroth",
-      "pitcher": "mitchell parker",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "58": {
       "player": "michael a taylor",
       "pitcher": "mitchell parker",
@@ -2474,6 +2468,12 @@
     }
   },
   "tb @ tor": {
+    "57": {
+      "player": "george springer",
+      "pitcher": "kevin kelly",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "56": {
       "player": "junior caminero",
       "pitcher": "louis varland",
@@ -3449,8 +3449,8 @@
     "56": {
       "player": "adolis garcia",
       "pitcher": "kolby allard",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "55": {
       "player": "brayan rocchio",
@@ -3784,11 +3784,17 @@
     }
   },
   "nym @ mia": {
+    "54": {
+      "player": "francisco lindor",
+      "pitcher": "ronny henriquez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "53": {
       "player": "jared young",
       "pitcher": "ronny henriquez",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "52": {
       "player": "ronny mauricio",
@@ -4108,7 +4114,7 @@
       "player": "spencer steer",
       "pitcher": "chad patrick",
       "result": "Ball",
-      "pitch": "Slurve"
+      "pitch": "Sinker"
     },
     "55": {
       "player": "sal frelick",
