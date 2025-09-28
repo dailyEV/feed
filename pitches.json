@@ -50,6 +50,12 @@
     }
   },
   "kc @ ath": {
+    "10": {
+      "player": "carter jensen",
+      "pitcher": "brady basso",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "9": {
       "player": "tyler soderstrom",
       "pitcher": "cole ragans",
@@ -104,7 +110,7 @@
       "player": "jordan beck",
       "pitcher": "logan webb",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "7": {
       "player": "matt chapman",
@@ -253,7 +259,7 @@
     "6": {
       "player": "aaron judge",
       "pitcher": "kyle bradish",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "5": {
@@ -288,6 +294,12 @@
     }
   },
   "hou @ laa": {
+    "7": {
+      "player": "ramon urias",
+      "pitcher": "sam aldegheri",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "6": {
       "player": "cam smith",
       "pitcher": "sam aldegheri",
@@ -329,8 +341,8 @@
     "5": {
       "player": "george springer",
       "pitcher": "ian seymour",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "4": {
       "player": "josh lowe",
@@ -361,8 +373,8 @@
     "4": {
       "player": "tim tawa",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "3": {
       "player": "geraldo perdomo",
@@ -387,8 +399,8 @@
     "5": {
       "player": "randy arozarena",
       "pitcher": "clayton kershaw",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "4": {
       "player": "teoscar hernandez",
@@ -416,12 +428,6 @@
     }
   },
   "tex @ cle": {
-    "6": {
-      "player": "angel martinez",
-      "pitcher": "patrick corbin",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "5": {
       "player": "steven kwan",
       "pitcher": "patrick corbin",
