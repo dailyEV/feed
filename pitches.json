@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "63": {
+      "player": "connor wong",
+      "pitcher": "tanner rainey",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "62": {
       "player": "nathaniel lowe",
       "pitcher": "tanner rainey",
@@ -760,17 +766,11 @@
     }
   },
   "col @ sf": {
-    "61": {
-      "player": "bryce eldridge",
-      "pitcher": "juan mejia",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
     "60": {
       "player": "matt chapman",
       "pitcher": "juan mejia",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "59": {
       "player": "rafael devers",
@@ -1131,7 +1131,7 @@
     "57": {
       "player": "bryson stott",
       "pitcher": "genesis cabrera",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Cutter"
     },
     "56": {
@@ -2510,6 +2510,12 @@
     }
   },
   "tb @ tor": {
+    "58": {
+      "player": "andres gimenez",
+      "pitcher": "kevin kelly",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "george springer",
       "pitcher": "kevin kelly",
@@ -3168,6 +3174,12 @@
     }
   },
   "lad @ sea": {
+    "55": {
+      "player": "cole young",
+      "pitcher": "landon knack",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "54": {
       "player": "leo rivas",
       "pitcher": "landon knack",
@@ -3494,6 +3506,12 @@
     }
   },
   "tex @ cle": {
+    "58": {
+      "player": "ezequiel duran",
+      "pitcher": "kolby allard",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "57": {
       "player": "jake burger",
       "pitcher": "kolby allard",
@@ -3838,11 +3856,17 @@
     }
   },
   "nym @ mia": {
+    "55": {
+      "player": "juan soto",
+      "pitcher": "ronny henriquez",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "54": {
       "player": "francisco lindor",
       "pitcher": "ronny henriquez",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Slider"
     },
     "53": {
       "player": "jared young",
@@ -4167,8 +4191,8 @@
     "57": {
       "player": "kebryan hayes",
       "pitcher": "chad patrick",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "spencer steer",
@@ -4508,6 +4532,12 @@
     }
   },
   "pit @ atl": {
+    "53": {
+      "player": "marcell ozuna",
+      "pitcher": "hunter barco",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "52": {
       "player": "michael harris",
       "pitcher": "hunter barco",
@@ -4822,16 +4852,10 @@
     }
   },
   "stl @ chc": {
-    "58": {
-      "player": "nico hoerner",
-      "pitcher": "riley obrien",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
     "57": {
       "player": "reese mcguire",
       "pitcher": "riley obrien",
-      "result": "In play, no out",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "56": {
