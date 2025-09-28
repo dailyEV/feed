@@ -266,6 +266,12 @@
     }
   },
   "kc @ ath": {
+    "45": {
+      "player": "willie maciver",
+      "pitcher": "steven cruz",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "max muncy",
       "pitcher": "steven cruz",
@@ -771,7 +777,7 @@
     "40": {
       "player": "otto kemp",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "39": {
@@ -1963,8 +1969,8 @@
     "35": {
       "player": "jake cronenworth",
       "pitcher": "brandon pfaadt",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "34": {
       "player": "ketel marte",
@@ -2632,11 +2638,17 @@
     }
   },
   "nym @ mia": {
+    "37": {
+      "player": "ronny mauricio",
+      "pitcher": "edward cabrera",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "36": {
       "player": "francisco alvarez",
       "pitcher": "edward cabrera",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Slider"
     },
     "35": {
       "player": "agustin ramirez",
@@ -2853,8 +2865,8 @@
     "39": {
       "player": "sal frelick",
       "pitcher": "nick lodolo",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "38": {
       "player": "andrew vaughn",
@@ -3086,6 +3098,12 @@
     }
   },
   "pit @ atl": {
+    "36": {
+      "player": "nick gonzales",
+      "pitcher": "chris sale",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "35": {
       "player": "jared triolo",
       "pitcher": "chris sale",
@@ -3301,8 +3319,8 @@
     "35": {
       "player": "justin turner",
       "pitcher": "matt svanson",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "34": {
       "player": "pete crow armstrong",
