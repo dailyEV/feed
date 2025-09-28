@@ -1068,12 +1068,6 @@
     }
   },
   "min @ phi": {
-    "54": {
-      "player": "royce lewis",
-      "pitcher": "david robertson",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
     "53": {
       "player": "ryan jeffers",
       "pitcher": "david robertson",
@@ -1397,7 +1391,7 @@
     "56": {
       "player": "lenyn sosa",
       "pitcher": "mitchell parker",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "55": {
@@ -1735,8 +1729,8 @@
     "51": {
       "player": "colton cowser",
       "pitcher": "luke weaver",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "dylan beavers",
@@ -2043,8 +2037,8 @@
     "59": {
       "player": "brice matthews",
       "pitcher": "ryan zeferjahn",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "58": {
       "player": "ramon urias",
@@ -3024,6 +3018,12 @@
     }
   },
   "lad @ sea": {
+    "53": {
+      "player": "jp crawford",
+      "pitcher": "landon knack",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "mookie betts",
       "pitcher": "gabe speier",
@@ -3338,6 +3338,12 @@
     }
   },
   "tex @ cle": {
+    "55": {
+      "player": "brayan rocchio",
+      "pitcher": "hoby milner",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "54": {
       "player": "gabriel arias",
       "pitcher": "hoby milner",
@@ -4612,6 +4618,12 @@
     }
   },
   "stl @ chc": {
+    "53": {
+      "player": "jose fermin",
+      "pitcher": "jordan wicks",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "52": {
       "player": "nathan church",
       "pitcher": "jordan wicks",
