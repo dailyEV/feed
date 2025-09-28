@@ -3,7 +3,7 @@
     "62": {
       "player": "nathaniel lowe",
       "pitcher": "tanner rainey",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -377,7 +377,7 @@
     "65": {
       "player": "max muncy",
       "pitcher": "daniel lynch",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -763,8 +763,8 @@
     "60": {
       "player": "matt chapman",
       "pitcher": "juan mejia",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "59": {
       "player": "rafael devers",
@@ -1122,6 +1122,12 @@
     }
   },
   "min @ phi": {
+    "57": {
+      "player": "bryson stott",
+      "pitcher": "genesis cabrera",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "56": {
       "player": "max kepler",
       "pitcher": "genesis cabrera",
@@ -2840,7 +2846,7 @@
       "player": "jake mccarthy",
       "pitcher": "jp sears",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "alek thomas",
@@ -3153,7 +3159,7 @@
     "54": {
       "player": "leo rivas",
       "pitcher": "landon knack",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     },
     "53": {
@@ -4149,8 +4155,8 @@
     "57": {
       "player": "kebryan hayes",
       "pitcher": "chad patrick",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "56": {
       "player": "spencer steer",
@@ -4490,6 +4496,12 @@
     }
   },
   "pit @ atl": {
+    "53": {
+      "player": "marcell ozuna",
+      "pitcher": "hunter barco",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
     "52": {
       "player": "michael harris",
       "pitcher": "hunter barco",
