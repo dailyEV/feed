@@ -77,8 +77,8 @@
     "15": {
       "player": "bobby witt",
       "pitcher": "tyler ferguson",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "14": {
       "player": "maikel garcia",
@@ -163,8 +163,8 @@
     "13": {
       "player": "jung hoo lee",
       "pitcher": "mccade brown",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "12": {
       "player": "wilmer flores",
@@ -397,8 +397,8 @@
     "12": {
       "player": "austin wells",
       "pitcher": "kyle bradish",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "giancarlo stanton",
@@ -598,6 +598,12 @@
     }
   },
   "ari @ sd": {
+    "11": {
+      "player": "jake cronenworth",
+      "pitcher": "brandon pfaadt",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "10": {
       "player": "gavin sheets",
       "pitcher": "brandon pfaadt",
@@ -725,7 +731,7 @@
     "9": {
       "player": "bo naylor",
       "pitcher": "patrick corbin",
-      "result": "Ball In Dirt",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "8": {
@@ -946,6 +952,12 @@
     }
   },
   "stl @ chc": {
+    "5": {
+      "player": "nico hoerner",
+      "pitcher": "kyle leahy",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "4": {
       "player": "michael busch",
       "pitcher": "kyle leahy",
