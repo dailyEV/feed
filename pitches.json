@@ -267,8 +267,8 @@
     "14": {
       "player": "christian vazquez",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "13": {
       "player": "ryan fitzgerald",
@@ -445,8 +445,8 @@
     "13": {
       "player": "anthony volpe",
       "pitcher": "kyle bradish",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "12": {
       "player": "austin wells",
@@ -602,11 +602,17 @@
     }
   },
   "tb @ tor": {
+    "12": {
+      "player": "ernie clement",
+      "pitcher": "ian seymour",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "11": {
       "player": "addison barger",
       "pitcher": "ian seymour",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "alejandro kirk",
@@ -884,7 +890,7 @@
       "player": "connor norby",
       "pitcher": "sean manaea",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "otto lopez",
@@ -1016,11 +1022,17 @@
     }
   },
   "pit @ atl": {
+    "11": {
+      "player": "michael harris",
+      "pitcher": "johan oviedo",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "10": {
       "player": "ha seong kim",
       "pitcher": "johan oviedo",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "9": {
       "player": "drake baldwin",
@@ -1078,6 +1090,12 @@
     }
   },
   "stl @ chc": {
+    "6": {
+      "player": "ian happ",
+      "pitcher": "kyle leahy",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "5": {
       "player": "nico hoerner",
       "pitcher": "kyle leahy",
