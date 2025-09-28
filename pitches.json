@@ -197,8 +197,8 @@
     "32": {
       "player": "nick kurtz",
       "pitcher": "cole ragans",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "31": {
       "player": "vinnie pasquantino",
@@ -385,7 +385,7 @@
     "30": {
       "player": "christian koss",
       "pitcher": "luis peralta",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "29": {
@@ -567,8 +567,8 @@
     "29": {
       "player": "ryan fitzgerald",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "carson mccusker",
@@ -740,6 +740,12 @@
     }
   },
   "chw @ wsh": {
+    "31": {
+      "player": "josh bell",
+      "pitcher": "shane smith",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "30": {
       "player": "cj abrams",
       "pitcher": "shane smith",
@@ -1092,6 +1098,12 @@
     }
   },
   "hou @ laa": {
+    "30": {
+      "player": "chris taylor",
+      "pitcher": "lance mccullers",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "jo adell",
       "pitcher": "lance mccullers",
@@ -1271,7 +1283,7 @@
     "27": {
       "player": "hunter feduccia",
       "pitcher": "kevin gausman",
-      "result": "Foul Tip",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "26": {
@@ -1593,8 +1605,8 @@
     "27": {
       "player": "cal raleigh",
       "pitcher": "clayton kershaw",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "26": {
       "player": "randy arozarena",
@@ -1754,6 +1766,12 @@
     }
   },
   "tex @ cle": {
+    "28": {
+      "player": "jose ramirez",
+      "pitcher": "patrick corbin",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "27": {
       "player": "angel martinez",
       "pitcher": "patrick corbin",
@@ -2383,8 +2401,8 @@
     "21": {
       "player": "nolan gorman",
       "pitcher": "javier assad",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "20": {
       "player": "willi castro",
