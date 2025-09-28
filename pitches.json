@@ -329,8 +329,8 @@
     "56": {
       "player": "carter jensen",
       "pitcher": "michael kelly",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
     },
     "55": {
       "player": "mike yastrzemski",
@@ -661,8 +661,8 @@
     "52": {
       "player": "christian koss",
       "pitcher": "antonio senzatela",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "patrick bailey",
@@ -975,7 +975,7 @@
     "49": {
       "player": "alec bohm",
       "pitcher": "anthony misiewicz",
-      "result": "Called Strike",
+      "result": "In play, no out",
       "pitch": "Cutter"
     },
     "48": {
@@ -1268,6 +1268,12 @@
     }
   },
   "chw @ wsh": {
+    "51": {
+      "player": "edgar quero",
+      "pitcher": "sauryn lao",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "50": {
       "player": "miguel vargas",
       "pitcher": "sauryn lao",
@@ -2165,8 +2171,8 @@
     "48": {
       "player": "alejandro kirk",
       "pitcher": "edwin uceta",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "daulton varsho",
@@ -2722,7 +2728,7 @@
       "player": "luke raley",
       "pitcher": "landon knack",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "mitch garver",
@@ -3012,7 +3018,7 @@
       "player": "billy mckinney",
       "pitcher": "matt festa",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "4-Seam Fastball"
     },
     "47": {
       "player": "johnathan rodriguez",
@@ -3301,8 +3307,8 @@
     "47": {
       "player": "jeff mcneil",
       "pitcher": "cade gibson",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "46": {
       "player": "mark vientos",
@@ -3582,6 +3588,12 @@
     }
   },
   "cin @ mil": {
+    "50": {
+      "player": "elly de la cruz",
+      "pitcher": "aaron ashby",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "49": {
       "player": "miguel andujar",
       "pitcher": "aaron ashby",
@@ -3878,11 +3890,17 @@
     }
   },
   "pit @ atl": {
+    "46": {
+      "player": "drake baldwin",
+      "pitcher": "hunter barco",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "45": {
       "player": "ronald acuna",
       "pitcher": "hunter barco",
       "result": "Swinging Strike",
-      "pitch": "Slider"
+      "pitch": "Splitter"
     },
     "44": {
       "player": "matt olson",
