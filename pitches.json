@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "3": {
+      "player": "justyn henry malloy",
+      "pitcher": "jose de leon",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "2": {
       "player": "zach mckinstry",
       "pitcher": "jose de leon",
@@ -17,7 +23,7 @@
     "5": {
       "player": "mike yastrzemski",
       "pitcher": "brady basso",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Cutter"
     },
     "3": {
@@ -43,8 +49,8 @@
     "3": {
       "player": "blaine crim",
       "pitcher": "logan webb",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "2": {
       "player": "hunter goodman",
@@ -99,12 +105,19 @@
       "pitch": "Sinker"
     }
   },
-  "bal @ nyy": {},
+  "bal @ nyy": {
+    "1": {
+      "player": "jackson holliday",
+      "pitcher": "luis gil",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "hou @ laa": {
     "1": {
       "player": "zach cole",
       "pitcher": "sam aldegheri",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     }
   },
