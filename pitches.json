@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "29": {
+      "player": "javier baez",
+      "pitcher": "jose de leon",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "28": {
       "player": "wenceel perez",
       "pitcher": "jose de leon",
@@ -170,6 +176,12 @@
     }
   },
   "kc @ ath": {
+    "30": {
+      "player": "bobby witt",
+      "pitcher": "mitch spence",
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
+    },
     "29": {
       "player": "maikel garcia",
       "pitcher": "mitch spence",
@@ -504,12 +516,6 @@
     }
   },
   "min @ phi": {
-    "26": {
-      "player": "alec bohm",
-      "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "25": {
       "player": "bryce harper",
       "pitcher": "simeon woods richardson",
@@ -665,8 +671,8 @@
     "28": {
       "player": "chase meidroth",
       "pitcher": "brad lord",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "27": {
       "player": "michael a taylor",
@@ -832,10 +838,16 @@
     }
   },
   "bal @ nyy": {
+    "26": {
+      "player": "ryan mountcastle",
+      "pitcher": "luis gil",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "adley rutschman",
       "pitcher": "luis gil",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "24": {
@@ -988,7 +1000,7 @@
       "player": "ramon urias",
       "pitcher": "sam aldegheri",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Slider"
     },
     "25": {
       "player": "cam smith",
@@ -1145,7 +1157,7 @@
     "25": {
       "player": "josh lowe",
       "pitcher": "kevin gausman",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -1434,10 +1446,16 @@
     }
   },
   "lad @ sea": {
+    "25": {
+      "player": "miles mastrobuoni",
+      "pitcher": "clayton kershaw",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "24": {
       "player": "cole young",
       "pitcher": "clayton kershaw",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "23": {
@@ -1580,6 +1598,12 @@
     }
   },
   "tex @ cle": {
+    "24": {
+      "player": "jake burger",
+      "pitcher": "logan allen",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "23": {
       "player": "adolis garcia",
       "pitcher": "logan allen",
@@ -1720,6 +1744,12 @@
     }
   },
   "nym @ mia": {
+    "23": {
+      "player": "jakob marsee",
+      "pitcher": "brooks raley",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "22": {
       "player": "agustin ramirez",
       "pitcher": "huascar brazoban",
