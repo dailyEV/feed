@@ -747,7 +747,7 @@
     "38": {
       "player": "bryson stott",
       "pitcher": "simeon woods richardson",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "37": {
@@ -977,8 +977,8 @@
     "40": {
       "player": "dylan crews",
       "pitcher": "shane smith",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "daylen lile",
@@ -1434,6 +1434,12 @@
     }
   },
   "hou @ laa": {
+    "40": {
+      "player": "cam smith",
+      "pitcher": "sam aldegheri",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "39": {
       "player": "jesus sanchez",
       "pitcher": "sam aldegheri",
@@ -1891,8 +1897,8 @@
     "34": {
       "player": "ketel marte",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "33": {
       "player": "jorge barrosa",
@@ -2094,11 +2100,17 @@
     }
   },
   "lad @ sea": {
-    "36": {
-      "player": "mookie betts",
+    "37": {
+      "player": "dalton rushing",
       "pitcher": "caleb ferguson",
       "result": "Ball",
       "pitch": "Sinker"
+    },
+    "36": {
+      "player": "mookie betts",
+      "pitcher": "caleb ferguson",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "35": {
       "player": "leo rivas",
@@ -2312,11 +2324,17 @@
     }
   },
   "tex @ cle": {
+    "37": {
+      "player": "jhonkensy noel",
+      "pitcher": "patrick corbin",
+      "result": "Called Strike",
+      "pitch": "Cutter"
+    },
     "36": {
       "player": "daniel schneemann",
       "pitcher": "patrick corbin",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "35": {
       "player": "michael helman",
@@ -2966,6 +2984,12 @@
     }
   },
   "pit @ atl": {
+    "34": {
+      "player": "cam devanney",
+      "pitcher": "chris sale",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "33": {
       "player": "rafael flores",
       "pitcher": "chris sale",
