@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "13": {
+      "player": "nathaniel lowe",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "12": {
       "player": "trey sweeney",
       "pitcher": "jose de leon",
@@ -163,7 +169,7 @@
     "14": {
       "player": "patrick bailey",
       "pitcher": "mccade brown",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "13": {
@@ -320,11 +326,17 @@
     }
   },
   "chw @ wsh": {
+    "14": {
+      "player": "dylan crews",
+      "pitcher": "shane smith",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "daylen lile",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "michael a taylor",
@@ -607,8 +619,8 @@
     "11": {
       "player": "jake cronenworth",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "gavin sheets",
@@ -672,6 +684,12 @@
     }
   },
   "lad @ sea": {
+    "11": {
+      "player": "hyeseong kim",
+      "pitcher": "bryce miller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "enrique hernandez",
       "pitcher": "bryce miller",
@@ -793,8 +811,8 @@
     "11": {
       "player": "otto lopez",
       "pitcher": "sean manaea",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "10": {
       "player": "francisco alvarez",
@@ -914,6 +932,12 @@
     }
   },
   "pit @ atl": {
+    "9": {
+      "player": "drake baldwin",
+      "pitcher": "johan oviedo",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "ronald acuna",
       "pitcher": "johan oviedo",
