@@ -107,7 +107,7 @@
     "19": {
       "player": "vinnie pasquantino",
       "pitcher": "elvis alvarado",
-      "result": "Foul Tip",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "18": {
@@ -321,8 +321,8 @@
     "16": {
       "player": "max kepler",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "15": {
       "player": "james outman",
@@ -419,7 +419,7 @@
     "18": {
       "player": "colson montgomery",
       "pitcher": "brad lord",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "17": {
@@ -529,7 +529,7 @@
     "15": {
       "player": "dylan beavers",
       "pitcher": "luis gil",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "14": {
@@ -618,6 +618,12 @@
     }
   },
   "hou @ laa": {
+    "15": {
+      "player": "mauricio dubon",
+      "pitcher": "sam aldegheri",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "14": {
       "player": "zach cole",
       "pitcher": "sam aldegheri",
@@ -796,6 +802,12 @@
     }
   },
   "ari @ sd": {
+    "15": {
+      "player": "alek thomas",
+      "pitcher": "jp sears",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "ildemaro vargas",
       "pitcher": "jp sears",
@@ -885,7 +897,7 @@
     "16": {
       "player": "leo rivas",
       "pitcher": "clayton kershaw",
-      "result": "Called Strike",
+      "result": "Ball In Dirt",
       "pitch": "Slider"
     },
     "15": {
@@ -1300,6 +1312,12 @@
     }
   },
   "stl @ chc": {
+    "9": {
+      "player": "jimmy crooks",
+      "pitcher": "javier assad",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "8": {
       "player": "jordan walker",
       "pitcher": "javier assad",
