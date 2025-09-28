@@ -849,8 +849,8 @@
     "45": {
       "player": "christian vazquez",
       "pitcher": "taijuan walker",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
       "player": "ryan fitzgerald",
@@ -1393,8 +1393,8 @@
     "41": {
       "player": "jordan westburg",
       "pitcher": "fernando cruz",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Splitter"
     },
     "40": {
       "player": "aaron judge",
@@ -2421,8 +2421,8 @@
     "43": {
       "player": "michael conforto",
       "pitcher": "caleb ferguson",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "cal raleigh",
@@ -2678,6 +2678,18 @@
     }
   },
   "tex @ cle": {
+    "43": {
+      "player": "ezequiel duran",
+      "pitcher": "matt festa",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
+    "42": {
+      "player": "jake burger",
+      "pitcher": "matt festa",
+      "result": "Hit By Pitch",
+      "pitch": "Sweeper"
+    },
     "41": {
       "player": "adolis garcia",
       "pitcher": "logan allen",
@@ -3177,7 +3189,7 @@
     "44": {
       "player": "caleb durbin",
       "pitcher": "nick lodolo",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "43": {
@@ -3682,12 +3694,6 @@
     }
   },
   "stl @ chc": {
-    "40": {
-      "player": "michael busch",
-      "pitcher": "matt svanson",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "39": {
       "player": "willi castro",
       "pitcher": "matt svanson",
