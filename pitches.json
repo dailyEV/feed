@@ -1,11 +1,5 @@
 {
   "det @ bos": {
-    "34": {
-      "player": "connor wong",
-      "pitcher": "chris paddack",
-      "result": "Foul",
-      "pitch": "Cutter"
-    },
     "33": {
       "player": "nathaniel lowe",
       "pitcher": "chris paddack",
@@ -416,7 +410,7 @@
       "player": "yanquiel fernandez",
       "pitcher": "logan webb",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "31": {
       "player": "brenton doyle",
@@ -609,8 +603,8 @@
     "32": {
       "player": "max kepler",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "31": {
       "player": "nick castellanos",
@@ -800,6 +794,12 @@
     }
   },
   "chw @ wsh": {
+    "34": {
+      "player": "miguel vargas",
+      "pitcher": "shinnosuke ogasawara",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "33": {
       "player": "colson montgomery",
       "pitcher": "shinnosuke ogasawara",
@@ -1000,6 +1000,12 @@
     }
   },
   "bal @ nyy": {
+    "31": {
+      "player": "anthony volpe",
+      "pitcher": "kyle bradish",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "30": {
       "player": "austin wells",
       "pitcher": "kyle bradish",
@@ -1376,6 +1382,12 @@
     }
   },
   "tb @ tor": {
+    "30": {
+      "player": "alejandro kirk",
+      "pitcher": "ian seymour",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "daulton varsho",
       "pitcher": "ian seymour",
@@ -1722,6 +1734,12 @@
     }
   },
   "lad @ sea": {
+    "29": {
+      "player": "hyeseong kim",
+      "pitcher": "bryce miller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "28": {
       "player": "eugenio suarez",
       "pitcher": "clayton kershaw",
@@ -2071,8 +2089,8 @@
     "29": {
       "player": "connor norby",
       "pitcher": "brooks raley",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "28": {
       "player": "otto lopez",
@@ -2566,6 +2584,12 @@
     }
   },
   "stl @ chc": {
+    "24": {
+      "player": "michael busch",
+      "pitcher": "john king",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "23": {
       "player": "jordan walker",
       "pitcher": "javier assad",
