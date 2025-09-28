@@ -74,6 +74,12 @@
     }
   },
   "kc @ ath": {
+    "14": {
+      "player": "maikel garcia",
+      "pitcher": "tyler ferguson",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "john rave",
       "pitcher": "brady basso",
@@ -151,7 +157,7 @@
     "12": {
       "player": "wilmer flores",
       "pitcher": "mccade brown",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "11": {
@@ -222,6 +228,12 @@
     }
   },
   "min @ phi": {
+    "12": {
+      "player": "nick castellanos",
+      "pitcher": "simeon woods richardson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "brandon marsh",
       "pitcher": "simeon woods richardson",
@@ -364,6 +376,12 @@
     }
   },
   "bal @ nyy": {
+    "11": {
+      "player": "giancarlo stanton",
+      "pitcher": "kyle bradish",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "10": {
       "player": "ryan mountcastle",
       "pitcher": "luis gil",
@@ -491,8 +509,8 @@
     "9": {
       "player": "daulton varsho",
       "pitcher": "ian seymour",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "anthony santander",
@@ -544,6 +562,18 @@
     }
   },
   "ari @ sd": {
+    "10": {
+      "player": "gavin sheets",
+      "pitcher": "brandon pfaadt",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "9": {
+      "player": "xander bogaerts",
+      "pitcher": "brandon pfaadt",
+      "result": "In play, run(s)",
+      "pitch": "Curveball"
+    },
     "8": {
       "player": "jackson merrill",
       "pitcher": "brandon pfaadt",
@@ -594,11 +624,17 @@
     }
   },
   "lad @ sea": {
+    "9": {
+      "player": "andy pages",
+      "pitcher": "bryce miller",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "michael conforto",
       "pitcher": "bryce miller",
       "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "pitch": "4-Seam Fastball"
     },
     "7": {
       "player": "eugenio suarez",
@@ -697,8 +733,8 @@
     "10": {
       "player": "francisco alvarez",
       "pitcher": "edward cabrera",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "9": {
       "player": "jeff mcneil",
@@ -760,7 +796,7 @@
       "player": "sal frelick",
       "pitcher": "brady singer",
       "result": "Foul",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "8": {
       "player": "jake bauers",
