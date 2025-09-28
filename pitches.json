@@ -362,17 +362,11 @@
     }
   },
   "kc @ ath": {
-    "65": {
-      "player": "max muncy",
-      "pitcher": "daniel lynch",
-      "result": "Ball",
-      "pitch": "Knuckle Curve"
-    },
     "64": {
       "player": "jj bleday",
       "pitcher": "daniel lynch",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "63": {
       "player": "brett harris",
@@ -1110,6 +1104,12 @@
     }
   },
   "min @ phi": {
+    "56": {
+      "player": "max kepler",
+      "pitcher": "genesis cabrera",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "kody clemens",
       "pitcher": "david robertson",
@@ -1442,6 +1442,12 @@
     }
   },
   "chw @ wsh": {
+    "59": {
+      "player": "chase meidroth",
+      "pitcher": "mitchell parker",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "58": {
       "player": "michael a taylor",
       "pitcher": "mitchell parker",
@@ -2806,6 +2812,12 @@
     }
   },
   "ari @ sd": {
+    "51": {
+      "player": "alek thomas",
+      "pitcher": "jp sears",
+      "result": "In play, no out",
+      "pitch": "Sweeper"
+    },
     "50": {
       "player": "ildemaro vargas",
       "pitcher": "jp sears",
@@ -3111,8 +3123,8 @@
     "54": {
       "player": "leo rivas",
       "pitcher": "landon knack",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "53": {
       "player": "jp crawford",
@@ -3775,8 +3787,8 @@
     "53": {
       "player": "jared young",
       "pitcher": "ronny henriquez",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "52": {
       "player": "ronny mauricio",
@@ -4095,8 +4107,8 @@
     "56": {
       "player": "spencer steer",
       "pitcher": "chad patrick",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slurve"
     },
     "55": {
       "player": "sal frelick",
@@ -4738,11 +4750,17 @@
     }
   },
   "stl @ chc": {
+    "56": {
+      "player": "willi castro",
+      "pitcher": "riley obrien",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "55": {
       "player": "justin turner",
       "pitcher": "riley obrien",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "54": {
       "player": "ivan herrera",
