@@ -281,7 +281,7 @@
     "47": {
       "player": "nick kurtz",
       "pitcher": "daniel lynch",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "46": {
@@ -556,11 +556,17 @@
     }
   },
   "col @ sf": {
+    "44": {
+      "player": "bryce eldridge",
+      "pitcher": "jaden hill",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "matt chapman",
       "pitcher": "jaden hill",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "42": {
       "player": "rafael devers",
@@ -816,6 +822,12 @@
     }
   },
   "min @ phi": {
+    "44": {
+      "player": "ryan fitzgerald",
+      "pitcher": "taijuan walker",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "43": {
       "player": "trevor larnach",
       "pitcher": "taijuan walker",
@@ -2567,7 +2579,7 @@
     "41": {
       "player": "adolis garcia",
       "pitcher": "logan allen",
-      "result": "Ball",
+      "result": "Ball In Dirt",
       "pitch": "Changeup"
     },
     "40": {
@@ -2816,7 +2828,7 @@
       "player": "francisco lindor",
       "pitcher": "edward cabrera",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Curveball"
     },
     "38": {
       "player": "tyrone taylor",
@@ -3052,7 +3064,7 @@
       "player": "noelvi marte",
       "pitcher": "aaron ashby",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Sinker"
     },
     "42": {
       "player": "tj friedl",
@@ -3547,7 +3559,7 @@
     "38": {
       "player": "nolan gorman",
       "pitcher": "michael soroka",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slurve"
     },
     "37": {
