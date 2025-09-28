@@ -398,10 +398,16 @@
     }
   },
   "kc @ ath": {
+    "69": {
+      "player": "adam frazier",
+      "pitcher": "osvaldo bido",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "68": {
       "player": "carter jensen",
       "pitcher": "osvaldo bido",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "67": {
@@ -1933,7 +1939,7 @@
     "55": {
       "player": "trent grisham",
       "pitcher": "rico garcia",
-      "result": "Swinging Strike",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -2262,6 +2268,12 @@
     }
   },
   "hou @ laa": {
+    "65": {
+      "player": "mauricio dubon",
+      "pitcher": "sam bachman",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "64": {
       "player": "zach cole",
       "pitcher": "sam bachman",
@@ -2651,7 +2663,7 @@
     "61": {
       "player": "josh lowe",
       "pitcher": "brendon little",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Knuckle Curve"
     },
     "60": {
@@ -3016,6 +3028,12 @@
     }
   },
   "ari @ sd": {
+    "54": {
+      "player": "freddy fermin",
+      "pitcher": "john curtiss",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "53": {
       "player": "jorge barrosa",
       "pitcher": "bradgley rodriguez",
@@ -3336,11 +3354,17 @@
     }
   },
   "lad @ sea": {
+    "59": {
+      "player": "andy pages",
+      "pitcher": "eduard bazardo",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "58": {
       "player": "michael conforto",
       "pitcher": "eduard bazardo",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "57": {
       "player": "teoscar hernandez",
@@ -4748,10 +4772,16 @@
     }
   },
   "pit @ atl": {
+    "57": {
+      "player": "spencer horwitz",
+      "pitcher": "tyler kinley",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "56": {
       "player": "jack suwinski",
       "pitcher": "tyler kinley",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "55": {
@@ -5086,6 +5116,12 @@
     }
   },
   "stl @ chc": {
+    "61": {
+      "player": "jordan walker",
+      "pitcher": "jordan wicks",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "thomas saggese",
       "pitcher": "jordan wicks",
