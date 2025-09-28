@@ -167,7 +167,7 @@
     "28": {
       "player": "john rave",
       "pitcher": "mitch spence",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Curveball"
     },
     "27": {
@@ -328,6 +328,12 @@
     }
   },
   "col @ sf": {
+    "25": {
+      "player": "rafael devers",
+      "pitcher": "mccade brown",
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
+    },
     "24": {
       "player": "jordan beck",
       "pitcher": "logan webb",
@@ -474,11 +480,17 @@
     }
   },
   "min @ phi": {
+    "25": {
+      "player": "bryce harper",
+      "pitcher": "simeon woods richardson",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "24": {
       "player": "kyle schwarber",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "23": {
       "player": "kody clemens",
@@ -1064,6 +1076,12 @@
     }
   },
   "tb @ tor": {
+    "24": {
+      "player": "jonathan aranda",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "23": {
       "player": "junior caminero",
       "pitcher": "kevin gausman",
@@ -1204,6 +1222,12 @@
     }
   },
   "ari @ sd": {
+    "22": {
+      "player": "jordan lawlar",
+      "pitcher": "jp sears",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "ryan ohearn",
       "pitcher": "brandon pfaadt",
@@ -1472,10 +1496,16 @@
     }
   },
   "tex @ cle": {
+    "22": {
+      "player": "josh jung",
+      "pitcher": "logan allen",
+      "result": "In play, no out",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "cody freeman",
       "pitcher": "logan allen",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Cutter"
     },
     "20": {
@@ -1737,8 +1767,8 @@
     "22": {
       "player": "gavin lux",
       "pitcher": "dl hall",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "noelvi marte",
