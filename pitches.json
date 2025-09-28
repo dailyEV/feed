@@ -3,8 +3,8 @@
     "51": {
       "player": "javier baez",
       "pitcher": "jose de leon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "50": {
       "player": "wenceel perez",
@@ -311,7 +311,7 @@
     "52": {
       "player": "carlos cortes",
       "pitcher": "daniel lynch",
-      "result": "Foul",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "51": {
@@ -620,7 +620,7 @@
       "player": "kyle karros",
       "pitcher": "tristan beck",
       "result": "Ball",
-      "pitch": "Sweeper"
+      "pitch": "Slider"
     },
     "47": {
       "player": "yanquiel fernandez",
@@ -1474,6 +1474,12 @@
     }
   },
   "bal @ nyy": {
+    "43": {
+      "player": "tyler oneill",
+      "pitcher": "fernando cruz",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "42": {
       "player": "gunnar henderson",
       "pitcher": "fernando cruz",
@@ -1728,6 +1734,12 @@
     }
   },
   "hou @ laa": {
+    "50": {
+      "player": "victor caratini",
+      "pitcher": "connor brogdon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "mauricio dubon",
       "pitcher": "connor brogdon",
@@ -2027,7 +2039,7 @@
     "45": {
       "player": "hunter feduccia",
       "pitcher": "mason fluharty",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "44": {
@@ -2296,6 +2308,12 @@
     }
   },
   "ari @ sd": {
+    "42": {
+      "player": "bryce johnson",
+      "pitcher": "brandon pfaadt",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "41": {
       "player": "james mccann",
       "pitcher": "jp sears",
@@ -3614,12 +3632,6 @@
     }
   },
   "pit @ atl": {
-    "43": {
-      "player": "alexander canario",
-      "pitcher": "chris sale",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "42": {
       "player": "joey bart",
       "pitcher": "chris sale",
