@@ -29,7 +29,7 @@
     "7": {
       "player": "nick kurtz",
       "pitcher": "cole ragans",
-      "result": "Swinging Strike",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "6": {
@@ -84,12 +84,6 @@
     }
   },
   "min @ phi": {
-    "4": {
-      "player": "trea turner",
-      "pitcher": "simeon woods richardson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "3": {
       "player": "royce lewis",
       "pitcher": "cristopher sanchez",
@@ -110,6 +104,12 @@
     }
   },
   "chw @ wsh": {
+    "5": {
+      "player": "edgar quero",
+      "pitcher": "brad lord",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "miguel vargas",
       "pitcher": "brad lord",
@@ -153,8 +153,8 @@
     "3": {
       "player": "victor caratini",
       "pitcher": "sam aldegheri",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Hit By Pitch",
+      "pitch": "Slider"
     },
     "2": {
       "player": "mauricio dubon",
@@ -173,7 +173,7 @@
     "2": {
       "player": "junior caminero",
       "pitcher": "kevin gausman",
-      "result": "Foul",
+      "result": "Ball In Dirt",
       "pitch": "Splitter"
     },
     "1": {
@@ -187,8 +187,8 @@
     "1": {
       "player": "ketel marte",
       "pitcher": "jp sears",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sweeper"
     }
   },
   "lad @ sea": {
@@ -200,6 +200,12 @@
     }
   },
   "tex @ cle": {
+    "2": {
+      "player": "cody freeman",
+      "pitcher": "logan allen",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "michael helman",
       "pitcher": "logan allen",
@@ -219,8 +225,8 @@
     "1": {
       "player": "tj friedl",
       "pitcher": "freddy peralta",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Curveball"
     }
   },
   "pit @ atl": {},
