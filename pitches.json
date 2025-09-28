@@ -3,8 +3,8 @@
     "22": {
       "player": "trevor story",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "zach mckinstry",
@@ -138,7 +138,7 @@
       "player": "max muncy",
       "pitcher": "cole ragans",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "22": {
       "player": "carter jensen",
@@ -268,6 +268,12 @@
     }
   },
   "col @ sf": {
+    "21": {
+      "player": "heliot ramos",
+      "pitcher": "mccade brown",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "20": {
       "player": "willy adames",
       "pitcher": "mccade brown",
@@ -744,11 +750,17 @@
     }
   },
   "hou @ laa": {
-    "18": {
-      "player": "carter kieboom",
+    "19": {
+      "player": "sebastian  rivero",
       "pitcher": "lance mccullers",
       "result": "Foul",
       "pitch": "Sinker"
+    },
+    "18": {
+      "player": "carter kieboom",
+      "pitcher": "lance mccullers",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "17": {
       "player": "christian moore",
@@ -857,8 +869,8 @@
     "19": {
       "player": "vladimir guerrero",
       "pitcher": "ian seymour",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "davis schneider",
@@ -1193,8 +1205,8 @@
     "16": {
       "player": "michael helman",
       "pitcher": "logan allen",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "15": {
       "player": "alejandro osuna",
@@ -1401,8 +1413,8 @@
     "17": {
       "player": "andruw monasterio",
       "pitcher": "brady singer",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "16": {
       "player": "isaac collins",
@@ -1588,6 +1600,12 @@
     }
   },
   "stl @ chc": {
+    "13": {
+      "player": "moises ballesteros",
+      "pitcher": "kyle leahy",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "12": {
       "player": "seiya suzuki",
       "pitcher": "kyle leahy",
