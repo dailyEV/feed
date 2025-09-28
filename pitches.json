@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "5": {
+      "player": "trevor story",
+      "pitcher": "chris paddack",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "4": {
       "player": "jarren duran",
       "pitcher": "chris paddack",
@@ -70,6 +76,12 @@
     }
   },
   "col @ sf": {
+    "5": {
+      "player": "heliot ramos",
+      "pitcher": "mccade brown",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "4": {
       "player": "willy adames",
       "pitcher": "mccade brown",
@@ -99,8 +111,8 @@
     "4": {
       "player": "trea turner",
       "pitcher": "simeon woods richardson",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "3": {
       "player": "royce lewis",
@@ -174,6 +186,12 @@
     }
   },
   "hou @ laa": {
+    "5": {
+      "player": "jesus sanchez",
+      "pitcher": "sam aldegheri",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "4": {
       "player": "yainer diaz",
       "pitcher": "sam aldegheri",
@@ -200,10 +218,16 @@
     }
   },
   "tb @ tor": {
+    "4": {
+      "player": "josh lowe",
+      "pitcher": "kevin gausman",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
     "3": {
       "player": "jonathan aranda",
       "pitcher": "kevin gausman",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "Splitter"
     },
     "2": {
@@ -232,7 +256,7 @@
       "player": "mookie betts",
       "pitcher": "bryce miller",
       "result": "Foul",
-      "pitch": "Splitter"
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "shohei ohtani",
@@ -242,11 +266,17 @@
     }
   },
   "tex @ cle": {
+    "3": {
+      "player": "josh jung",
+      "pitcher": "logan allen",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "cody freeman",
       "pitcher": "logan allen",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "1": {
       "player": "michael helman",
@@ -276,6 +306,12 @@
     }
   },
   "cin @ mil": {
+    "2": {
+      "player": "noelvi marte",
+      "pitcher": "freddy peralta",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "1": {
       "player": "tj friedl",
       "pitcher": "freddy peralta",
