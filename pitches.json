@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "7": {
+      "player": "ceddanne rafaela",
+      "pitcher": "chris paddack",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "masataka yoshida",
       "pitcher": "chris paddack",
@@ -88,6 +94,12 @@
     }
   },
   "col @ sf": {
+    "7": {
+      "player": "matt chapman",
+      "pitcher": "mccade brown",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "6": {
       "player": "rafael devers",
       "pitcher": "mccade brown",
@@ -387,8 +399,8 @@
     "4": {
       "player": "miguel andujar",
       "pitcher": "freddy peralta",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "3": {
       "player": "gavin lux",
@@ -409,6 +421,13 @@
       "pitch": "4-Seam Fastball"
     }
   },
-  "pit @ atl": {},
+  "pit @ atl": {
+    "1": {
+      "player": "jared triolo",
+      "pitcher": "charlie morton",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
   "stl @ chc": {}
 }
