@@ -766,10 +766,16 @@
     }
   },
   "col @ sf": {
+    "63": {
+      "player": "patrick bailey",
+      "pitcher": "juan mejia",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "62": {
       "player": "jung hoo lee",
       "pitcher": "juan mejia",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "61": {
@@ -1143,8 +1149,8 @@
     "58": {
       "player": "garrett stubbs",
       "pitcher": "genesis cabrera",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "57": {
       "player": "bryson stott",
@@ -1490,6 +1496,12 @@
     }
   },
   "chw @ wsh": {
+    "61": {
+      "player": "luis garcia",
+      "pitcher": "jordan leasure",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "dylan crews",
       "pitcher": "jordan leasure",
@@ -1855,7 +1867,7 @@
     "53": {
       "player": "ryan mcmahon",
       "pitcher": "dean kremer",
-      "result": "Called Strike",
+      "result": "Foul Tip",
       "pitch": "4-Seam Fastball"
     },
     "52": {
@@ -2172,6 +2184,12 @@
     }
   },
   "hou @ laa": {
+    "63": {
+      "player": "denzer guzman",
+      "pitcher": "colton gordon",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "62": {
       "player": "sebastian  rivero",
       "pitcher": "colton gordon",
@@ -2549,8 +2567,8 @@
     "59": {
       "player": "vladimir guerrero",
       "pitcher": "kevin kelly",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "58": {
       "player": "andres gimenez",
@@ -3216,6 +3234,12 @@
     }
   },
   "lad @ sea": {
+    "56": {
+      "player": "dalton rushing",
+      "pitcher": "eduard bazardo",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "55": {
       "player": "cole young",
       "pitcher": "landon knack",
@@ -3551,8 +3575,8 @@
     "58": {
       "player": "ezequiel duran",
       "pitcher": "kolby allard",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "57": {
       "player": "jake burger",
@@ -3901,7 +3925,7 @@
     "55": {
       "player": "juan soto",
       "pitcher": "ronny henriquez",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "54": {
@@ -4230,6 +4254,12 @@
     }
   },
   "cin @ mil": {
+    "59": {
+      "player": "matt mclain",
+      "pitcher": "chad patrick",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "58": {
       "player": "tyler stephenson",
       "pitcher": "chad patrick",
@@ -4583,8 +4613,8 @@
     "54": {
       "player": "nacho alvarez",
       "pitcher": "hunter barco",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "53": {
       "player": "marcell ozuna",
@@ -4909,8 +4939,8 @@
     "58": {
       "player": "nico hoerner",
       "pitcher": "riley obrien",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "57": {
       "player": "reese mcguire",
