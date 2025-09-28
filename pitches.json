@@ -775,7 +775,7 @@
     "63": {
       "player": "patrick bailey",
       "pitcher": "juan mejia",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -1155,8 +1155,8 @@
     "59": {
       "player": "otto kemp",
       "pitcher": "genesis cabrera",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Called Strike",
+      "pitch": "Curveball"
     },
     "58": {
       "player": "garrett stubbs",
@@ -3255,7 +3255,7 @@
     "57": {
       "player": "teoscar hernandez",
       "pitcher": "eduard bazardo",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "56": {
@@ -4634,6 +4634,12 @@
     }
   },
   "pit @ atl": {
+    "55": {
+      "player": "nick gonzales",
+      "pitcher": "tyler kinley",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "54": {
       "player": "nacho alvarez",
       "pitcher": "hunter barco",
