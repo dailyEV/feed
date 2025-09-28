@@ -3,8 +3,8 @@
     "51": {
       "player": "javier baez",
       "pitcher": "jose de leon",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "wenceel perez",
@@ -311,8 +311,8 @@
     "52": {
       "player": "carlos cortes",
       "pitcher": "daniel lynch",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "51": {
       "player": "salvador perez",
@@ -2045,7 +2045,7 @@
     "45": {
       "player": "hunter feduccia",
       "pitcher": "mason fluharty",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "44": {
@@ -3118,6 +3118,12 @@
     }
   },
   "nym @ mia": {
+    "44": {
+      "player": "connor norby",
+      "pitcher": "edwin diaz",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "43": {
       "player": "otto lopez",
       "pitcher": "edwin diaz",
@@ -3378,11 +3384,17 @@
     }
   },
   "cin @ mil": {
+    "47": {
+      "player": "danny jansen",
+      "pitcher": "chase burns",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "46": {
       "player": "joey ortiz",
       "pitcher": "chase burns",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "45": {
       "player": "isaac collins",
@@ -3916,6 +3928,18 @@
     }
   },
   "stl @ chc": {
+    "44": {
+      "player": "jimmy crooks",
+      "pitcher": "jordan wicks",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
+    "43": {
+      "player": "jordan walker",
+      "pitcher": "jordan wicks",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "42": {
       "player": "thomas saggese",
       "pitcher": "jordan wicks",
