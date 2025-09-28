@@ -137,7 +137,7 @@
     "23": {
       "player": "max muncy",
       "pitcher": "cole ragans",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "22": {
@@ -634,6 +634,12 @@
     }
   },
   "bal @ nyy": {
+    "18": {
+      "player": "jose caballero",
+      "pitcher": "kyle bradish",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "17": {
       "player": "coby mayo",
       "pitcher": "luis gil",
@@ -964,6 +970,12 @@
     }
   },
   "ari @ sd": {
+    "18": {
+      "player": "ketel marte",
+      "pitcher": "jp sears",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "17": {
       "player": "jorge barrosa",
       "pitcher": "jp sears",
@@ -1181,8 +1193,8 @@
     "16": {
       "player": "michael helman",
       "pitcher": "logan allen",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Foul",
+      "pitch": "Sweeper"
     },
     "15": {
       "player": "alejandro osuna",
@@ -1276,11 +1288,17 @@
     }
   },
   "nym @ mia": {
+    "18": {
+      "player": "francisco lindor",
+      "pitcher": "edward cabrera",
+      "result": "Ball In Dirt",
+      "pitch": "Changeup"
+    },
     "17": {
       "player": "tyrone taylor",
       "pitcher": "edward cabrera",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "16": {
       "player": "ronny mauricio",
@@ -1380,6 +1398,12 @@
     }
   },
   "cin @ mil": {
+    "17": {
+      "player": "andruw monasterio",
+      "pitcher": "brady singer",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "isaac collins",
       "pitcher": "brady singer",
