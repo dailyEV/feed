@@ -169,7 +169,7 @@
     "14": {
       "player": "patrick bailey",
       "pitcher": "mccade brown",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "13": {
@@ -255,7 +255,7 @@
     "13": {
       "player": "ryan fitzgerald",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "12": {
@@ -427,7 +427,7 @@
     "13": {
       "player": "anthony volpe",
       "pitcher": "kyle bradish",
-      "result": "Swinging Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "12": {
@@ -507,8 +507,8 @@
     "12": {
       "player": "brice matthews",
       "pitcher": "sam aldegheri",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "chris taylor",
@@ -640,6 +640,12 @@
     }
   },
   "ari @ sd": {
+    "12": {
+      "player": "jose iglesias",
+      "pitcher": "brandon pfaadt",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "11": {
       "player": "jake cronenworth",
       "pitcher": "brandon pfaadt",
@@ -711,7 +717,7 @@
     "11": {
       "player": "hyeseong kim",
       "pitcher": "bryce miller",
-      "result": "Foul",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -835,7 +841,7 @@
     "12": {
       "player": "connor norby",
       "pitcher": "sean manaea",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sweeper"
     },
     "11": {
@@ -1034,7 +1040,7 @@
       "player": "nico hoerner",
       "pitcher": "kyle leahy",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "michael busch",
