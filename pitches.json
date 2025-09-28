@@ -3,8 +3,8 @@
     "16": {
       "player": "nick sogard",
       "pitcher": "chris paddack",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "15": {
       "player": "david hamilton",
@@ -389,7 +389,7 @@
     "17": {
       "player": "kyle teel",
       "pitcher": "brad lord",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "16": {
@@ -662,12 +662,6 @@
     }
   },
   "tb @ tor": {
-    "13": {
-      "player": "jake mangum",
-      "pitcher": "kevin gausman",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
     "12": {
       "player": "ernie clement",
       "pitcher": "ian seymour",
@@ -902,6 +896,12 @@
     }
   },
   "tex @ cle": {
+    "12": {
+      "player": "ezequiel duran",
+      "pitcher": "logan allen",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "jake burger",
       "pitcher": "logan allen",
@@ -970,16 +970,10 @@
     }
   },
   "nym @ mia": {
-    "14": {
-      "player": "heriberto hernandez",
-      "pitcher": "sean manaea",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "13": {
       "player": "eric wagaman",
       "pitcher": "sean manaea",
-      "result": "Foul Tip",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "12": {
@@ -1056,6 +1050,12 @@
     }
   },
   "cin @ mil": {
+    "13": {
+      "player": "jose trevino",
+      "pitcher": "freddy peralta",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "12": {
       "player": "kebryan hayes",
       "pitcher": "freddy peralta",
