@@ -3,7 +3,7 @@
     "67": {
       "player": "david hamilton",
       "pitcher": "tanner rainey",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Slider"
     },
     "66": {
@@ -1206,6 +1206,12 @@
     }
   },
   "min @ phi": {
+    "62": {
+      "player": "ryan fitzgerald",
+      "pitcher": "tanner banks",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "61": {
       "player": "dashawn keirsey",
       "pitcher": "tanner banks",
@@ -2286,11 +2292,17 @@
     }
   },
   "hou @ laa": {
+    "66": {
+      "player": "victor caratini",
+      "pitcher": "sam bachman",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "65": {
       "player": "mauricio dubon",
       "pitcher": "sam bachman",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "64": {
       "player": "zach cole",
@@ -2678,6 +2690,12 @@
     }
   },
   "tb @ tor": {
+    "62": {
+      "player": "jake mangum",
+      "pitcher": "brendon little",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "61": {
       "player": "josh lowe",
       "pitcher": "brendon little",
@@ -3731,7 +3749,7 @@
     "61": {
       "player": "steven kwan",
       "pitcher": "hoby milner",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sweeper"
     },
     "60": {
@@ -4099,7 +4117,7 @@
     "58": {
       "player": "agustin ramirez",
       "pitcher": "ryan helsley",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "57": {
@@ -4449,8 +4467,8 @@
     "60": {
       "player": "caleb durbin",
       "pitcher": "scott barlow",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Hit By Pitch",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "matt mclain",
@@ -5152,11 +5170,17 @@
     }
   },
   "stl @ chc": {
+    "62": {
+      "player": "jimmy crooks",
+      "pitcher": "jordan wicks",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "61": {
       "player": "jordan walker",
       "pitcher": "jordan wicks",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "60": {
       "player": "thomas saggese",
