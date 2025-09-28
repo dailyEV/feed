@@ -287,7 +287,7 @@
     "47": {
       "player": "nick kurtz",
       "pitcher": "daniel lynch",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "46": {
@@ -565,8 +565,8 @@
     "44": {
       "player": "bryce eldridge",
       "pitcher": "jaden hill",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "43": {
       "player": "matt chapman",
@@ -1094,12 +1094,6 @@
     }
   },
   "chw @ wsh": {
-    "45": {
-      "player": "colson montgomery",
-      "pitcher": "pj poulin",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "44": {
       "player": "kyle teel",
       "pitcher": "pj poulin",
@@ -2128,6 +2122,12 @@
     }
   },
   "ari @ sd": {
+    "39": {
+      "player": "geraldo perdomo",
+      "pitcher": "jp sears",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "jordan lawlar",
       "pitcher": "jp sears",
@@ -2361,8 +2361,8 @@
     "42": {
       "player": "cal raleigh",
       "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "41": {
       "player": "randy arozarena",
@@ -2615,8 +2615,8 @@
     "41": {
       "player": "adolis garcia",
       "pitcher": "logan allen",
-      "result": "Ball In Dirt",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "40": {
       "player": "josh jung",
@@ -3099,7 +3099,7 @@
     "43": {
       "player": "noelvi marte",
       "pitcher": "aaron ashby",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "42": {
@@ -3359,8 +3359,8 @@
     "39": {
       "player": "jurickson profar",
       "pitcher": "johan oviedo",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "38": {
       "player": "nick allen",
