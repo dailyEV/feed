@@ -587,8 +587,8 @@
     "26": {
       "player": "dominic fletcher",
       "pitcher": "brad lord",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "lenyn sosa",
@@ -1007,8 +1007,8 @@
     "22": {
       "player": "richie palacios",
       "pitcher": "kevin gausman",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "21": {
       "player": "bob seymour",
@@ -1141,7 +1141,7 @@
     "21": {
       "player": "ryan ohearn",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Changeup"
     },
     "20": {
@@ -1400,6 +1400,12 @@
     }
   },
   "tex @ cle": {
+    "21": {
+      "player": "cody freeman",
+      "pitcher": "logan allen",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "20": {
       "player": "steven kwan",
       "pitcher": "patrick corbin",
@@ -1522,12 +1528,6 @@
     }
   },
   "nym @ mia": {
-    "21": {
-      "player": "xavier edwards",
-      "pitcher": "huascar brazoban",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "20": {
       "player": "javier sanoja",
       "pitcher": "huascar brazoban",
@@ -1650,6 +1650,12 @@
     }
   },
   "cin @ mil": {
+    "20": {
+      "player": "tj friedl",
+      "pitcher": "dl hall",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "19": {
       "player": "christian yelich",
       "pitcher": "brady singer",
