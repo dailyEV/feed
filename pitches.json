@@ -401,7 +401,7 @@
     "68": {
       "player": "carter jensen",
       "pitcher": "osvaldo bido",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "67": {
@@ -802,11 +802,17 @@
     }
   },
   "col @ sf": {
+    "65": {
+      "player": "jordan beck",
+      "pitcher": "spencer bivens",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "64": {
       "player": "blaine crim",
       "pitcher": "spencer bivens",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "63": {
       "player": "patrick bailey",
@@ -1188,6 +1194,12 @@
     }
   },
   "min @ phi": {
+    "60": {
+      "player": "brooks lee",
+      "pitcher": "tanner banks",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "59": {
       "player": "otto kemp",
       "pitcher": "genesis cabrera",
@@ -2253,8 +2265,8 @@
     "64": {
       "player": "zach cole",
       "pitcher": "sam bachman",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "63": {
       "player": "denzer guzman",
@@ -5074,12 +5086,6 @@
     }
   },
   "stl @ chc": {
-    "61": {
-      "player": "jordan walker",
-      "pitcher": "jordan wicks",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "60": {
       "player": "thomas saggese",
       "pitcher": "jordan wicks",
