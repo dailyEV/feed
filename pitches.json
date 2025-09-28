@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "54": {
+      "player": "masataka yoshida",
+      "pitcher": "paul sewald",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "53": {
       "player": "trevor story",
       "pitcher": "paul sewald",
@@ -939,8 +945,8 @@
     "48": {
       "player": "bryce harper",
       "pitcher": "anthony misiewicz",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "47": {
       "player": "kyle schwarber",
@@ -2108,12 +2114,6 @@
     }
   },
   "tb @ tor": {
-    "46": {
-      "player": "anthony santander",
-      "pitcher": "edwin uceta",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
     "45": {
       "player": "hunter feduccia",
       "pitcher": "mason fluharty",
@@ -3770,11 +3770,17 @@
     }
   },
   "pit @ atl": {
+    "45": {
+      "player": "ronald acuna",
+      "pitcher": "hunter barco",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "44": {
       "player": "matt olson",
       "pitcher": "hunter barco",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "43": {
       "player": "alexander canario",
