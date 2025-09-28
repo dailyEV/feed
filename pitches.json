@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "18": {
+      "player": "andy ibanez",
+      "pitcher": "jose de leon",
+      "result": "In play, no out",
+      "pitch": "Slider"
+    },
     "17": {
       "player": "jarren duran",
       "pitcher": "chris paddack",
@@ -334,7 +340,7 @@
       "player": "bryson stott",
       "pitcher": "simeon woods richardson",
       "result": "Foul",
-      "pitch": "Splitter"
+      "pitch": "4-Seam Fastball"
     },
     "16": {
       "player": "max kepler",
@@ -434,6 +440,12 @@
     }
   },
   "chw @ wsh": {
+    "19": {
+      "player": "riley adams",
+      "pitcher": "shane smith",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
     "18": {
       "player": "colson montgomery",
       "pitcher": "brad lord",
@@ -544,6 +556,12 @@
     }
   },
   "bal @ nyy": {
+    "16": {
+      "player": "colton cowser",
+      "pitcher": "luis gil",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "15": {
       "player": "dylan beavers",
       "pitcher": "luis gil",
@@ -829,8 +847,8 @@
     "15": {
       "player": "alek thomas",
       "pitcher": "jp sears",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "14": {
       "player": "ildemaro vargas",
@@ -1016,11 +1034,17 @@
     }
   },
   "tex @ cle": {
+    "15": {
+      "player": "alejandro osuna",
+      "pitcher": "logan allen",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "14": {
       "player": "dylan moore",
       "pitcher": "logan allen",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Hit By Pitch",
+      "pitch": "Cutter"
     },
     "13": {
       "player": "jonah heim",
@@ -1102,6 +1126,12 @@
     }
   },
   "nym @ mia": {
+    "15": {
+      "player": "brian navarreto",
+      "pitcher": "huascar brazoban",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "heriberto hernandez",
       "pitcher": "sean manaea",
