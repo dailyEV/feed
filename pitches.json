@@ -35,7 +35,7 @@
     "8": {
       "player": "brent rooker",
       "pitcher": "cole ragans",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "7": {
@@ -80,7 +80,7 @@
       "player": "rafael devers",
       "pitcher": "mccade brown",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Curveball"
     },
     "5": {
       "player": "heliot ramos",
@@ -117,8 +117,8 @@
     "5": {
       "player": "kyle schwarber",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Splitter"
     },
     "4": {
       "player": "trea turner",
@@ -146,6 +146,12 @@
     }
   },
   "chw @ wsh": {
+    "6": {
+      "player": "james wood",
+      "pitcher": "shane smith",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "5": {
       "player": "edgar quero",
       "pitcher": "brad lord",
@@ -178,6 +184,12 @@
     }
   },
   "bal @ nyy": {
+    "4": {
+      "player": "trent grisham",
+      "pitcher": "kyle bradish",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "3": {
       "player": "gunnar henderson",
       "pitcher": "luis gil",
@@ -233,7 +245,7 @@
     "4": {
       "player": "josh lowe",
       "pitcher": "kevin gausman",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Splitter"
     },
     "3": {
@@ -256,12 +268,6 @@
     }
   },
   "ari @ sd": {
-    "2": {
-      "player": "jordan lawlar",
-      "pitcher": "jp sears",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "1": {
       "player": "ketel marte",
       "pitcher": "jp sears",
@@ -273,8 +279,8 @@
     "2": {
       "player": "mookie betts",
       "pitcher": "bryce miller",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Splitter"
     },
     "1": {
       "player": "shohei ohtani",
@@ -324,11 +330,17 @@
     }
   },
   "cin @ mil": {
+    "3": {
+      "player": "gavin lux",
+      "pitcher": "freddy peralta",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "noelvi marte",
       "pitcher": "freddy peralta",
       "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "pitch": "Curveball"
     },
     "1": {
       "player": "tj friedl",
