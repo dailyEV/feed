@@ -194,6 +194,12 @@
     }
   },
   "kc @ ath": {
+    "32": {
+      "player": "nick kurtz",
+      "pitcher": "cole ragans",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "31": {
       "player": "vinnie pasquantino",
       "pitcher": "mitch spence",
@@ -379,8 +385,8 @@
     "30": {
       "player": "christian koss",
       "pitcher": "luis peralta",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Curveball"
     },
     "29": {
       "player": "patrick bailey",
@@ -561,8 +567,8 @@
     "29": {
       "player": "ryan fitzgerald",
       "pitcher": "cristopher sanchez",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "carson mccusker",
@@ -919,8 +925,8 @@
     "28": {
       "player": "cody bellinger",
       "pitcher": "kyle bradish",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "27": {
       "player": "aaron judge",
@@ -1086,12 +1092,6 @@
     }
   },
   "hou @ laa": {
-    "29": {
-      "player": "jo adell",
-      "pitcher": "lance mccullers",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "28": {
       "player": "logan ohoppe",
       "pitcher": "lance mccullers",
@@ -1429,8 +1429,8 @@
     "26": {
       "player": "ildemaro vargas",
       "pitcher": "jp sears",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "25": {
       "player": "james mccann",
@@ -1745,7 +1745,7 @@
     "27": {
       "player": "angel martinez",
       "pitcher": "patrick corbin",
-      "result": "Swinging Strike",
+      "result": "In play, no out",
       "pitch": "Changeup"
     },
     "26": {
@@ -2360,7 +2360,7 @@
       "player": "nolan gorman",
       "pitcher": "javier assad",
       "result": "Foul",
-      "pitch": "Curveball"
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "willi castro",
