@@ -426,7 +426,7 @@
       "player": "max schuemann",
       "pitcher": "sam long",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Curveball"
     },
     "73": {
       "player": "carlos cortes",
@@ -2059,8 +2059,8 @@
     "59": {
       "player": "tyler oneill",
       "pitcher": "devin williams",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "58": {
       "player": "gunnar henderson",
@@ -2415,8 +2415,8 @@
     "70": {
       "player": "logan ohoppe",
       "pitcher": "colton gordon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "69": {
       "player": "luis rengifo",
@@ -3235,7 +3235,7 @@
     "59": {
       "player": "geraldo perdomo",
       "pitcher": "bradgley rodriguez",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "58": {
@@ -3953,8 +3953,8 @@
     "64": {
       "player": "george valera",
       "pitcher": "luis curvelo",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "63": {
       "player": "jose ramirez",
@@ -5084,6 +5084,12 @@
     }
   },
   "pit @ atl": {
+    "61": {
+      "player": "ronald acuna",
+      "pitcher": "yohan ramirez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "matt olson",
       "pitcher": "yohan ramirez",
