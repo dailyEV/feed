@@ -1,10 +1,16 @@
 {
   "det @ bos": {
+    "39": {
+      "player": "masataka yoshida",
+      "pitcher": "chris paddack",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "38": {
       "player": "trevor story",
       "pitcher": "chris paddack",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "37": {
       "player": "jarren duran",
@@ -230,10 +236,22 @@
     }
   },
   "kc @ ath": {
+    "41": {
+      "player": "john rave",
+      "pitcher": "mitch spence",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
+    "40": {
+      "player": "michael massey",
+      "pitcher": "mitch spence",
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
+    },
     "39": {
       "player": "adam frazier",
       "pitcher": "mitch spence",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Curveball"
     },
     "38": {
@@ -460,6 +478,18 @@
     }
   },
   "col @ sf": {
+    "37": {
+      "player": "willy adames",
+      "pitcher": "zach agnos",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
+    "36": {
+      "player": "drew gilbert",
+      "pitcher": "luis peralta",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "35": {
       "player": "ryan ritter",
       "pitcher": "logan webb",
@@ -672,6 +702,24 @@
     }
   },
   "min @ phi": {
+    "37": {
+      "player": "royce lewis",
+      "pitcher": "lou trivino",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
+    "36": {
+      "player": "ryan jeffers",
+      "pitcher": "lou trivino",
+      "result": "In play, run(s)",
+      "pitch": "4-Seam Fastball"
+    },
+    "35": {
+      "player": "austin martin",
+      "pitcher": "lou trivino",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "34": {
       "player": "james outman",
       "pitcher": "cristopher sanchez",
@@ -878,6 +926,18 @@
     }
   },
   "chw @ wsh": {
+    "38": {
+      "player": "dominic fletcher",
+      "pitcher": "jackson rutledge",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "37": {
+      "player": "lenyn sosa",
+      "pitcher": "jackson rutledge",
+      "result": "In play, out(s)",
+      "pitch": "Slider"
+    },
     "36": {
       "player": "brooks baldwin",
       "pitcher": "shinnosuke ogasawara",
@@ -1096,11 +1156,17 @@
     }
   },
   "bal @ nyy": {
+    "34": {
+      "player": "colton cowser",
+      "pitcher": "luis gil",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "33": {
       "player": "dylan beavers",
       "pitcher": "luis gil",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "32": {
       "player": "ryan mcmahon",
@@ -1296,11 +1362,29 @@
     }
   },
   "hou @ laa": {
+    "37": {
+      "player": "victor caratini",
+      "pitcher": "sam aldegheri",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "36": {
+      "player": "sebastian  rivero",
+      "pitcher": "colton gordon",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
+    "35": {
+      "player": "carter kieboom",
+      "pitcher": "colton gordon",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "34": {
       "player": "christian moore",
       "pitcher": "colton gordon",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "33": {
       "player": "mauricio dubon",
@@ -1502,11 +1586,29 @@
     }
   },
   "tb @ tor": {
+    "35": {
+      "player": "richie palacios",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "Splitter"
+    },
+    "34": {
+      "player": "bob seymour",
+      "pitcher": "kevin gausman",
+      "result": "In play, no out",
+      "pitch": "Splitter"
+    },
+    "33": {
+      "player": "carson williams",
+      "pitcher": "kevin gausman",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "32": {
       "player": "tristan gray",
       "pitcher": "kevin gausman",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "31": {
       "player": "addison barger",
@@ -1696,6 +1798,24 @@
     }
   },
   "ari @ sd": {
+    "33": {
+      "player": "jorge barrosa",
+      "pitcher": "jp sears",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "32": {
+      "player": "jake mccarthy",
+      "pitcher": "jp sears",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
+    "31": {
+      "player": "alek thomas",
+      "pitcher": "jp sears",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "30": {
       "player": "gavin sheets",
       "pitcher": "brandon pfaadt",
@@ -1735,7 +1855,7 @@
     "24": {
       "player": "tim tawa",
       "pitcher": "jp sears",
-      "result": "In play, out(s)",
+      "result": "In play, run(s)",
       "pitch": "4-Seam Fastball"
     },
     "23": {
@@ -1878,6 +1998,24 @@
     }
   },
   "lad @ sea": {
+    "34": {
+      "player": "jp crawford",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
+    "33": {
+      "player": "luke raley",
+      "pitcher": "clayton kershaw",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "32": {
+      "player": "mitch garver",
+      "pitcher": "clayton kershaw",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
     "31": {
       "player": "shohei ohtani",
       "pitcher": "bryce miller",
@@ -2066,11 +2204,29 @@
     }
   },
   "tex @ cle": {
+    "35": {
+      "player": "michael helman",
+      "pitcher": "logan allen",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "34": {
+      "player": "alejandro osuna",
+      "pitcher": "logan allen",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "33": {
+      "player": "dylan moore",
+      "pitcher": "logan allen",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
     "32": {
       "player": "brayan rocchio",
       "pitcher": "patrick corbin",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "31": {
       "player": "gabriel arias",
@@ -2260,11 +2416,23 @@
     }
   },
   "nym @ mia": {
+    "33": {
+      "player": "javier sanoja",
+      "pitcher": "tyler rogers",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "32": {
+      "player": "brian navarreto",
+      "pitcher": "ryne stanek",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
     "31": {
       "player": "heriberto hernandez",
       "pitcher": "ryne stanek",
-      "result": "Ball In Dirt",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "30": {
       "player": "eric wagaman",
@@ -2448,6 +2616,24 @@
     }
   },
   "cin @ mil": {
+    "34": {
+      "player": "danny jansen",
+      "pitcher": "brady singer",
+      "result": "In play, run(s)",
+      "pitch": "Slider"
+    },
+    "33": {
+      "player": "andruw monasterio",
+      "pitcher": "brady singer",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
+    "32": {
+      "player": "isaac collins",
+      "pitcher": "brady singer",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "31": {
       "player": "kebryan hayes",
       "pitcher": "trevor megill",
@@ -2636,6 +2822,24 @@
     }
   },
   "pit @ atl": {
+    "31": {
+      "player": "michael harris",
+      "pitcher": "johan oviedo",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
+    "30": {
+      "player": "ha seong kim",
+      "pitcher": "johan oviedo",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "29": {
+      "player": "drake baldwin",
+      "pitcher": "johan oviedo",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "nick yorke",
       "pitcher": "chris sale",
@@ -2806,10 +3010,28 @@
     }
   },
   "stl @ chc": {
+    "31": {
+      "player": "nathan church",
+      "pitcher": "javier assad",
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
+    },
+    "30": {
+      "player": "victor scott",
+      "pitcher": "javier assad",
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
+    },
+    "29": {
+      "player": "yohel pozo",
+      "pitcher": "javier assad",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "28": {
       "player": "jimmy crooks",
       "pitcher": "javier assad",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "27": {
