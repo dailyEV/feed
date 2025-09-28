@@ -71,7 +71,7 @@
     "13": {
       "player": "john rave",
       "pitcher": "brady basso",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -145,8 +145,8 @@
     "11": {
       "player": "kyle karros",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "10": {
       "player": "yanquiel fernandez",
@@ -213,7 +213,7 @@
     "10": {
       "player": "alec bohm",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Slider"
     },
     "9": {
@@ -275,7 +275,7 @@
     "12": {
       "player": "michael a taylor",
       "pitcher": "brad lord",
-      "result": "In play, out(s)",
+      "result": "Foul",
       "pitch": "Slider"
     },
     "11": {
@@ -349,8 +349,8 @@
     "10": {
       "player": "ryan mountcastle",
       "pitcher": "luis gil",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "adley rutschman",
@@ -411,8 +411,8 @@
     "9": {
       "player": "mike trout",
       "pitcher": "lance mccullers",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "8": {
       "player": "luis rengifo",
@@ -599,8 +599,8 @@
     "7": {
       "player": "jose ramirez",
       "pitcher": "patrick corbin",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "6": {
       "player": "angel martinez",
@@ -644,7 +644,7 @@
       "player": "mark vientos",
       "pitcher": "edward cabrera",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "7": {
       "player": "brandon nimmo",
@@ -690,6 +690,12 @@
     }
   },
   "cin @ mil": {
+    "8": {
+      "player": "jake bauers",
+      "pitcher": "brady singer",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "7": {
       "player": "brice turang",
       "pitcher": "brady singer",
@@ -769,8 +775,8 @@
     "3": {
       "player": "nolan gorman",
       "pitcher": "javier assad",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "2": {
       "player": "ivan herrera",
