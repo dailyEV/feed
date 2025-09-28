@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "40": {
+      "player": "parker meadows",
+      "pitcher": "jose de leon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "39": {
       "player": "masataka yoshida",
       "pitcher": "chris paddack",
@@ -481,7 +487,7 @@
     "37": {
       "player": "willy adames",
       "pitcher": "zach agnos",
-      "result": "In play, out(s)",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "36": {
@@ -1159,8 +1165,8 @@
     "35": {
       "player": "coby mayo",
       "pitcher": "luis gil",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "34": {
       "player": "colton cowser",
@@ -1368,6 +1374,12 @@
     }
   },
   "hou @ laa": {
+    "38": {
+      "player": "yainer diaz",
+      "pitcher": "sam aldegheri",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "37": {
       "player": "victor caratini",
       "pitcher": "sam aldegheri",
@@ -1592,11 +1604,17 @@
     }
   },
   "tb @ tor": {
+    "36": {
+      "player": "junior caminero",
+      "pitcher": "kevin gausman",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "35": {
       "player": "richie palacios",
       "pitcher": "kevin gausman",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "34": {
       "player": "bob seymour",
@@ -2004,12 +2022,6 @@
     }
   },
   "lad @ sea": {
-    "35": {
-      "player": "leo rivas",
-      "pitcher": "clayton kershaw",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
     "34": {
       "player": "jp crawford",
       "pitcher": "clayton kershaw",
@@ -2431,8 +2443,8 @@
     "33": {
       "player": "javier sanoja",
       "pitcher": "tyler rogers",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, run(s)",
+      "pitch": "Slider"
     },
     "32": {
       "player": "brian navarreto",
