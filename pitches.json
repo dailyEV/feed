@@ -1068,12 +1068,6 @@
     }
   },
   "min @ phi": {
-    "55": {
-      "player": "kody clemens",
-      "pitcher": "david robertson",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "54": {
       "player": "royce lewis",
       "pitcher": "david robertson",
@@ -1400,6 +1394,12 @@
     }
   },
   "chw @ wsh": {
+    "57": {
+      "player": "dominic fletcher",
+      "pitcher": "mitchell parker",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "56": {
       "player": "lenyn sosa",
       "pitcher": "mitchell parker",
@@ -1741,8 +1741,8 @@
     "51": {
       "player": "colton cowser",
       "pitcher": "luke weaver",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "50": {
       "player": "dylan beavers",
@@ -2046,6 +2046,12 @@
     }
   },
   "hou @ laa": {
+    "60": {
+      "player": "jacob melton",
+      "pitcher": "ryan zeferjahn",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "59": {
       "player": "brice matthews",
       "pitcher": "ryan zeferjahn",
@@ -2405,7 +2411,7 @@
     "55": {
       "player": "richie palacios",
       "pitcher": "louis varland",
-      "result": "Foul",
+      "result": "In play, no out",
       "pitch": "Knuckle Curve"
     },
     "54": {
@@ -3033,8 +3039,8 @@
     "53": {
       "player": "jp crawford",
       "pitcher": "landon knack",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "52": {
       "player": "mookie betts",
@@ -4325,8 +4331,8 @@
     "51": {
       "player": "jared triolo",
       "pitcher": "chris sale",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "50": {
       "player": "cam devanney",
