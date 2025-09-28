@@ -3,7 +3,7 @@
     "59": {
       "player": "zach mckinstry",
       "pitcher": "steven matz",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "58": {
@@ -721,8 +721,8 @@
     "57": {
       "player": "hunter goodman",
       "pitcher": "spencer bivens",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "56": {
       "player": "ezequiel tovar",
@@ -1065,8 +1065,8 @@
     "52": {
       "player": "austin martin",
       "pitcher": "david robertson",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
     },
     "51": {
       "player": "nick castellanos",
@@ -2366,6 +2366,12 @@
     }
   },
   "tb @ tor": {
+    "54": {
+      "player": "bob seymour",
+      "pitcher": "louis varland",
+      "result": "Foul",
+      "pitch": "Changeup"
+    },
     "53": {
       "player": "carson williams",
       "pitcher": "louis varland",
@@ -3610,10 +3616,16 @@
     }
   },
   "nym @ mia": {
+    "50": {
+      "player": "heriberto hernandez",
+      "pitcher": "edwin diaz",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "49": {
       "player": "eric wagaman",
       "pitcher": "edwin diaz",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "Slider"
     },
     "48": {
@@ -4235,8 +4247,8 @@
     "50": {
       "player": "cam devanney",
       "pitcher": "chris sale",
-      "result": "Foul",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "49": {
       "player": "rafael flores",
@@ -4537,8 +4549,8 @@
     "52": {
       "player": "nathan church",
       "pitcher": "jordan wicks",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "51": {
       "player": "victor scott",
