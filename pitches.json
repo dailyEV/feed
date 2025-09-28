@@ -205,8 +205,8 @@
     "15": {
       "player": "warming bernabel",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
     },
     "14": {
       "player": "patrick bailey",
@@ -298,7 +298,7 @@
       "player": "james outman",
       "pitcher": "cristopher sanchez",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Changeup"
     },
     "14": {
       "player": "christian vazquez",
@@ -493,8 +493,8 @@
     "14": {
       "player": "ryan mcmahon",
       "pitcher": "kyle bradish",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "13": {
       "player": "anthony volpe",
@@ -576,6 +576,12 @@
     }
   },
   "hou @ laa": {
+    "14": {
+      "player": "zach cole",
+      "pitcher": "sam aldegheri",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "jacob melton",
       "pitcher": "sam aldegheri",
@@ -656,6 +662,12 @@
     }
   },
   "tb @ tor": {
+    "13": {
+      "player": "jake mangum",
+      "pitcher": "kevin gausman",
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
+    },
     "12": {
       "player": "ernie clement",
       "pitcher": "ian seymour",
@@ -733,8 +745,8 @@
     "13": {
       "player": "james mccann",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "12": {
       "player": "jose iglesias",
@@ -958,10 +970,16 @@
     }
   },
   "nym @ mia": {
+    "14": {
+      "player": "heriberto hernandez",
+      "pitcher": "sean manaea",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "13": {
       "player": "eric wagaman",
       "pitcher": "sean manaea",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "Sweeper"
     },
     "12": {
