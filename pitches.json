@@ -219,7 +219,7 @@
     "11": {
       "player": "brandon marsh",
       "pitcher": "simeon woods richardson",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "10": {
@@ -420,12 +420,6 @@
     }
   },
   "hou @ laa": {
-    "10": {
-      "player": "jo adell",
-      "pitcher": "lance mccullers",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
     "9": {
       "player": "mike trout",
       "pitcher": "lance mccullers",
@@ -582,6 +576,12 @@
     }
   },
   "lad @ sea": {
+    "8": {
+      "player": "michael conforto",
+      "pitcher": "bryce miller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "7": {
       "player": "eugenio suarez",
       "pitcher": "clayton kershaw",
@@ -630,7 +630,7 @@
       "player": "johnathan rodriguez",
       "pitcher": "patrick corbin",
       "result": "Ball",
-      "pitch": "Sinker"
+      "pitch": "Cutter"
     },
     "7": {
       "player": "jose ramirez",
@@ -732,11 +732,17 @@
     }
   },
   "cin @ mil": {
+    "9": {
+      "player": "sal frelick",
+      "pitcher": "brady singer",
+      "result": "Foul",
+      "pitch": "Slider"
+    },
     "8": {
       "player": "jake bauers",
       "pitcher": "brady singer",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "7": {
       "player": "brice turang",
