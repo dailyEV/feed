@@ -663,8 +663,8 @@
     "16": {
       "player": "victor caratini",
       "pitcher": "sam aldegheri",
-      "result": "Called Strike",
-      "pitch": "Curveball"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "15": {
       "player": "mauricio dubon",
@@ -1040,6 +1040,12 @@
     }
   },
   "tex @ cle": {
+    "15": {
+      "player": "alejandro osuna",
+      "pitcher": "logan allen",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "14": {
       "player": "dylan moore",
       "pitcher": "logan allen",
@@ -1129,7 +1135,7 @@
     "15": {
       "player": "brian navarreto",
       "pitcher": "huascar brazoban",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "14": {
@@ -1221,8 +1227,8 @@
     "14": {
       "player": "matt mclain",
       "pitcher": "freddy peralta",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "13": {
       "player": "jose trevino",
@@ -1381,8 +1387,8 @@
     "10": {
       "player": "yohel pozo",
       "pitcher": "javier assad",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "9": {
       "player": "jimmy crooks",
