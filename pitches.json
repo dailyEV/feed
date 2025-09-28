@@ -173,8 +173,8 @@
     "29": {
       "player": "maikel garcia",
       "pitcher": "mitch spence",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "28": {
       "player": "john rave",
@@ -823,8 +823,8 @@
     "24": {
       "player": "tyler oneill",
       "pitcher": "luis gil",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "gunnar henderson",
@@ -969,8 +969,8 @@
     "25": {
       "player": "cam smith",
       "pitcher": "sam aldegheri",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "24": {
       "player": "jesus sanchez",
@@ -1118,6 +1118,12 @@
     }
   },
   "tb @ tor": {
+    "25": {
+      "player": "josh lowe",
+      "pitcher": "kevin gausman",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "jonathan aranda",
       "pitcher": "kevin gausman",
@@ -1264,6 +1270,12 @@
     }
   },
   "ari @ sd": {
+    "23": {
+      "player": "geraldo perdomo",
+      "pitcher": "jp sears",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "22": {
       "player": "jordan lawlar",
       "pitcher": "jp sears",
@@ -1955,7 +1967,7 @@
     "20": {
       "player": "nick gonzales",
       "pitcher": "chris sale",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "19": {
