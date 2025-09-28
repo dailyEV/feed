@@ -359,8 +359,8 @@
     "61": {
       "player": "bobby witt",
       "pitcher": "osvaldo bido",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Cutter"
     },
     "60": {
       "player": "maikel garcia",
@@ -1717,8 +1717,8 @@
     "50": {
       "player": "dylan beavers",
       "pitcher": "luke weaver",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Changeup"
     },
     "49": {
       "player": "anthony volpe",
@@ -2376,7 +2376,7 @@
       "player": "bob seymour",
       "pitcher": "louis varland",
       "result": "Ball",
-      "pitch": "Knuckle Curve"
+      "pitch": "4-Seam Fastball"
     },
     "53": {
       "player": "carson williams",
@@ -3308,12 +3308,6 @@
     }
   },
   "tex @ cle": {
-    "54": {
-      "player": "gabriel arias",
-      "pitcher": "hoby milner",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "53": {
       "player": "bo naylor",
       "pitcher": "hoby milner",
@@ -3634,6 +3628,12 @@
     }
   },
   "nym @ mia": {
+    "51": {
+      "player": "brian navarreto",
+      "pitcher": "edwin diaz",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "50": {
       "player": "heriberto hernandez",
       "pitcher": "edwin diaz",
@@ -4268,6 +4268,12 @@
     }
   },
   "pit @ atl": {
+    "51": {
+      "player": "jared triolo",
+      "pitcher": "chris sale",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
     "50": {
       "player": "cam devanney",
       "pitcher": "chris sale",
@@ -4573,8 +4579,8 @@
     "52": {
       "player": "nathan church",
       "pitcher": "jordan wicks",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "victor scott",
