@@ -461,7 +461,7 @@
     "77": {
       "player": "john rave",
       "pitcher": "scott mcgough",
-      "result": "Foul Tip",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "76": {
@@ -1314,6 +1314,12 @@
     }
   },
   "min @ phi": {
+    "70": {
+      "player": "weston wilson",
+      "pitcher": "cody laweryson",
+      "result": "Foul Bunt",
+      "pitch": "4-Seam Fastball"
+    },
     "69": {
       "player": "ryan jeffers",
       "pitcher": "orion kerkering",
@@ -2987,8 +2993,8 @@
     "72": {
       "player": "vladimir guerrero",
       "pitcher": "bryan baker",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
       "player": "andres gimenez",
@@ -3418,6 +3424,12 @@
     }
   },
   "ari @ sd": {
+    "64": {
+      "player": "gavin sheets",
+      "pitcher": "brandyn garcia",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "63": {
       "player": "mason mccoy",
       "pitcher": "brandyn garcia",
@@ -4609,8 +4621,8 @@
     "66": {
       "player": "connor norby",
       "pitcher": "gregory soto",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "65": {
       "player": "francisco alvarez",
