@@ -3,8 +3,8 @@
     "9": {
       "player": "kerry carpenter",
       "pitcher": "jose de leon",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "8": {
       "player": "wilyer abreu",
@@ -127,8 +127,8 @@
     "10": {
       "player": "yanquiel fernandez",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "brenton doyle",
@@ -398,6 +398,12 @@
     }
   },
   "tb @ tor": {
+    "7": {
+      "player": "vladimir guerrero",
+      "pitcher": "ian seymour",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "6": {
       "player": "davis schneider",
       "pitcher": "ian seymour",
@@ -439,8 +445,8 @@
     "6": {
       "player": "ryan ohearn",
       "pitcher": "brandon pfaadt",
-      "result": "Foul",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "fernando tatis",
@@ -474,12 +480,6 @@
     }
   },
   "lad @ sea": {
-    "7": {
-      "player": "eugenio suarez",
-      "pitcher": "clayton kershaw",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "6": {
       "player": "cal raleigh",
       "pitcher": "clayton kershaw",
@@ -638,6 +638,12 @@
     }
   },
   "pit @ atl": {
+    "5": {
+      "player": "joey bart",
+      "pitcher": "charlie morton",
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
+    },
     "4": {
       "player": "andrew mccutchen",
       "pitcher": "charlie morton",
@@ -664,6 +670,12 @@
     }
   },
   "stl @ chc": {
+    "2": {
+      "player": "ivan herrera",
+      "pitcher": "javier assad",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "1": {
       "player": "jose fermin",
       "pitcher": "javier assad",
