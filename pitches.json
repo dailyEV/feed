@@ -149,8 +149,8 @@
     "24": {
       "player": "willie maciver",
       "pitcher": "cole ragans",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "23": {
       "player": "max muncy",
@@ -414,12 +414,6 @@
     }
   },
   "min @ phi": {
-    "22": {
-      "player": "royce lewis",
-      "pitcher": "cristopher sanchez",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
     "21": {
       "player": "ryan jeffers",
       "pitcher": "cristopher sanchez",
@@ -697,8 +691,8 @@
     "20": {
       "player": "ben rice",
       "pitcher": "kyle bradish",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
     },
     "19": {
       "player": "trent grisham",
@@ -1316,10 +1310,16 @@
     }
   },
   "tex @ cle": {
+    "19": {
+      "player": "jhonkensy noel",
+      "pitcher": "patrick corbin",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "18": {
       "player": "daniel schneemann",
       "pitcher": "patrick corbin",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "17": {
@@ -1429,7 +1429,7 @@
     "19": {
       "player": "juan soto",
       "pitcher": "edward cabrera",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "18": {
@@ -1542,6 +1542,12 @@
     }
   },
   "cin @ mil": {
+    "19": {
+      "player": "christian yelich",
+      "pitcher": "brady singer",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
     "18": {
       "player": "danny jansen",
       "pitcher": "brady singer",
