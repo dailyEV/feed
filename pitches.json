@@ -1,11 +1,5 @@
 {
   "det @ bos": {
-    "48": {
-      "player": "nick sogard",
-      "pitcher": "paul sewald",
-      "result": "Called Strike",
-      "pitch": "Sweeper"
-    },
     "47": {
       "player": "david hamilton",
       "pitcher": "paul sewald",
@@ -293,7 +287,7 @@
     "48": {
       "player": "maikel garcia",
       "pitcher": "mitch spence",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "Cutter"
     },
     "47": {
@@ -840,6 +834,12 @@
     }
   },
   "min @ phi": {
+    "45": {
+      "player": "christian vazquez",
+      "pitcher": "taijuan walker",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "44": {
       "player": "ryan fitzgerald",
       "pitcher": "taijuan walker",
@@ -1620,6 +1620,12 @@
     }
   },
   "hou @ laa": {
+    "47": {
+      "player": "luis rengifo",
+      "pitcher": "colton gordon",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "46": {
       "player": "bryce teodosio",
       "pitcher": "colton gordon",
@@ -2155,8 +2161,8 @@
     "39": {
       "player": "geraldo perdomo",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "jordan lawlar",
@@ -2388,12 +2394,6 @@
     }
   },
   "lad @ sea": {
-    "43": {
-      "player": "michael conforto",
-      "pitcher": "caleb ferguson",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "42": {
       "player": "cal raleigh",
       "pitcher": "clayton kershaw",
@@ -2899,8 +2899,8 @@
     "40": {
       "player": "juan soto",
       "pitcher": "edward cabrera",
-      "result": "Ball In Dirt",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "francisco lindor",
@@ -3138,6 +3138,12 @@
     }
   },
   "cin @ mil": {
+    "44": {
+      "player": "caleb durbin",
+      "pitcher": "nick lodolo",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "43": {
       "player": "noelvi marte",
       "pitcher": "aaron ashby",
@@ -3398,12 +3404,6 @@
     }
   },
   "pit @ atl": {
-    "40": {
-      "player": "tommy pham",
-      "pitcher": "chris sale",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "39": {
       "player": "jurickson profar",
       "pitcher": "johan oviedo",
@@ -3640,6 +3640,12 @@
     }
   },
   "stl @ chc": {
+    "39": {
+      "player": "willi castro",
+      "pitcher": "matt svanson",
+      "result": "Foul",
+      "pitch": "Sinker"
+    },
     "38": {
       "player": "nolan gorman",
       "pitcher": "michael soroka",
