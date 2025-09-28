@@ -3,7 +3,7 @@
     "24": {
       "player": "ceddanne rafaela",
       "pitcher": "chris paddack",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "23": {
@@ -150,7 +150,7 @@
       "player": "willie maciver",
       "pitcher": "cole ragans",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "4-Seam Fastball"
     },
     "23": {
       "player": "max muncy",
@@ -417,8 +417,8 @@
     "21": {
       "player": "ryan jeffers",
       "pitcher": "cristopher sanchez",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "In play, no out",
+      "pitch": "Changeup"
     },
     "20": {
       "player": "austin martin",
@@ -801,7 +801,7 @@
     "20": {
       "player": "denzer guzman",
       "pitcher": "lance mccullers",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "19": {
@@ -1155,8 +1155,8 @@
     "20": {
       "player": "teoscar hernandez",
       "pitcher": "bryce miller",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "In play, no out",
+      "pitch": "Sweeper"
     },
     "19": {
       "player": "freddie freeman",
@@ -1384,6 +1384,12 @@
     }
   },
   "nym @ mia": {
+    "19": {
+      "player": "juan soto",
+      "pitcher": "edward cabrera",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
     "18": {
       "player": "francisco lindor",
       "pitcher": "edward cabrera",
@@ -1497,8 +1503,8 @@
     "18": {
       "player": "danny jansen",
       "pitcher": "brady singer",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "17": {
       "player": "andruw monasterio",
@@ -1607,8 +1613,8 @@
     "15": {
       "player": "marcell ozuna",
       "pitcher": "johan oviedo",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "14": {
       "player": "rafael flores",
@@ -1696,6 +1702,12 @@
     }
   },
   "stl @ chc": {
+    "14": {
+      "player": "victor scott",
+      "pitcher": "javier assad",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "13": {
       "player": "moises ballesteros",
       "pitcher": "kyle leahy",
