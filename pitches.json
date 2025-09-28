@@ -3,8 +3,8 @@
     "67": {
       "player": "david hamilton",
       "pitcher": "tanner rainey",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "66": {
       "player": "wenceel perez",
@@ -407,8 +407,8 @@
     "69": {
       "player": "adam frazier",
       "pitcher": "osvaldo bido",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "68": {
       "player": "carter jensen",
@@ -814,11 +814,17 @@
     }
   },
   "col @ sf": {
+    "66": {
+      "player": "brenton doyle",
+      "pitcher": "spencer bivens",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
     "65": {
       "player": "jordan beck",
       "pitcher": "spencer bivens",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "64": {
       "player": "blaine crim",
@@ -2699,7 +2705,7 @@
     "62": {
       "player": "jake mangum",
       "pitcher": "brendon little",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "61": {
@@ -3070,6 +3076,12 @@
     }
   },
   "ari @ sd": {
+    "55": {
+      "player": "bryce johnson",
+      "pitcher": "john curtiss",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "54": {
       "player": "freddy fermin",
       "pitcher": "john curtiss",
@@ -4473,7 +4485,7 @@
     "61": {
       "player": "blake perkins",
       "pitcher": "scott barlow",
-      "result": "Ball",
+      "result": "Foul Tip",
       "pitch": "Curveball"
     },
     "60": {
@@ -5185,8 +5197,8 @@
     "62": {
       "player": "jimmy crooks",
       "pitcher": "jordan wicks",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "61": {
       "player": "jordan walker",
