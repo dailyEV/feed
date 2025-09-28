@@ -4,7 +4,7 @@
       "player": "javier baez",
       "pitcher": "jose de leon",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Slider"
     },
     "10": {
       "player": "wenceel perez",
@@ -71,7 +71,7 @@
     "13": {
       "player": "john rave",
       "pitcher": "brady basso",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -142,10 +142,16 @@
     }
   },
   "col @ sf": {
+    "11": {
+      "player": "kyle karros",
+      "pitcher": "logan webb",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
     "10": {
       "player": "yanquiel fernandez",
       "pitcher": "logan webb",
-      "result": "Ball",
+      "result": "Swinging Strike",
       "pitch": "Changeup"
     },
     "9": {
@@ -260,6 +266,12 @@
     }
   },
   "chw @ wsh": {
+    "12": {
+      "player": "michael a taylor",
+      "pitcher": "brad lord",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "11": {
       "player": "dominic fletcher",
       "pitcher": "brad lord",
@@ -384,6 +396,12 @@
     }
   },
   "hou @ laa": {
+    "9": {
+      "player": "mike trout",
+      "pitcher": "lance mccullers",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "8": {
       "player": "luis rengifo",
       "pitcher": "lance mccullers",
@@ -569,8 +587,8 @@
     "7": {
       "player": "jose ramirez",
       "pitcher": "patrick corbin",
-      "result": "Ball In Dirt",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "6": {
       "player": "angel martinez",
@@ -663,8 +681,8 @@
     "7": {
       "player": "brice turang",
       "pitcher": "brady singer",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "6": {
       "player": "jackson chourio",
