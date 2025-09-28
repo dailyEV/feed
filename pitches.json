@@ -1321,8 +1321,8 @@
     "39": {
       "player": "ben rice",
       "pitcher": "keegan akin",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "trent grisham",
@@ -2289,7 +2289,7 @@
     "41": {
       "player": "randy arozarena",
       "pitcher": "clayton kershaw",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "40": {
@@ -2779,8 +2779,8 @@
     "39": {
       "player": "francisco lindor",
       "pitcher": "edward cabrera",
-      "result": "Foul",
-      "pitch": "Curveball"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "38": {
       "player": "tyrone taylor",
@@ -3015,8 +3015,8 @@
     "41": {
       "player": "matt mclain",
       "pitcher": "aaron ashby",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "40": {
       "player": "jose trevino",
@@ -3260,6 +3260,12 @@
     }
   },
   "pit @ atl": {
+    "38": {
+      "player": "nick allen",
+      "pitcher": "johan oviedo",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "37": {
       "player": "nacho alvarez",
       "pitcher": "johan oviedo",
