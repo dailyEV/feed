@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "16": {
+      "player": "nick sogard",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "15": {
       "player": "david hamilton",
       "pitcher": "chris paddack",
@@ -95,8 +101,8 @@
     "17": {
       "player": "brett harris",
       "pitcher": "cole ragans",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "16": {
       "player": "darell hernaiz",
@@ -190,6 +196,12 @@
     }
   },
   "col @ sf": {
+    "15": {
+      "player": "warming bernabel",
+      "pitcher": "logan webb",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "14": {
       "player": "patrick bailey",
       "pitcher": "mccade brown",
@@ -279,8 +291,8 @@
     "15": {
       "player": "james outman",
       "pitcher": "cristopher sanchez",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "14": {
       "player": "christian vazquez",
@@ -372,7 +384,7 @@
       "player": "chase meidroth",
       "pitcher": "brad lord",
       "result": "Foul",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "15": {
       "player": "luis garcia",
@@ -555,7 +567,7 @@
     "13": {
       "player": "jacob melton",
       "pitcher": "sam aldegheri",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -706,6 +718,12 @@
     }
   },
   "ari @ sd": {
+    "13": {
+      "player": "james mccann",
+      "pitcher": "jp sears",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "12": {
       "player": "jose iglesias",
       "pitcher": "brandon pfaadt",
@@ -780,6 +798,12 @@
     }
   },
   "lad @ sea": {
+    "13": {
+      "player": "mitch garver",
+      "pitcher": "clayton kershaw",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "12": {
       "player": "ben rortvedt",
       "pitcher": "bryce miller",
@@ -854,6 +878,12 @@
     }
   },
   "tex @ cle": {
+    "11": {
+      "player": "jake burger",
+      "pitcher": "logan allen",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "10": {
       "player": "gabriel arias",
       "pitcher": "patrick corbin",
@@ -919,8 +949,8 @@
     "13": {
       "player": "eric wagaman",
       "pitcher": "sean manaea",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "12": {
       "player": "connor norby",
@@ -999,8 +1029,8 @@
     "12": {
       "player": "kebryan hayes",
       "pitcher": "freddy peralta",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball In Dirt",
+      "pitch": "Curveball"
     },
     "11": {
       "player": "spencer steer",
@@ -1073,8 +1103,8 @@
     "11": {
       "player": "michael harris",
       "pitcher": "johan oviedo",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "10": {
       "player": "ha seong kim",
