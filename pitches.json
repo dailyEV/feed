@@ -511,8 +511,8 @@
     "39": {
       "player": "ezequiel tovar",
       "pitcher": "logan webb",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "In play, out(s)",
+      "pitch": "Cutter"
     },
     "38": {
       "player": "heliot ramos",
@@ -747,8 +747,8 @@
     "39": {
       "player": "rafael marchan",
       "pitcher": "simeon woods richardson",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Splitter"
     },
     "38": {
       "player": "bryson stott",
@@ -983,8 +983,8 @@
     "40": {
       "player": "dylan crews",
       "pitcher": "shane smith",
-      "result": "Ball",
-      "pitch": "Curveball"
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "39": {
       "player": "daylen lile",
@@ -1232,7 +1232,7 @@
       "player": "coby mayo",
       "pitcher": "luis gil",
       "result": "In play, out(s)",
-      "pitch": "Slider"
+      "pitch": "Changeup"
     },
     "34": {
       "player": "colton cowser",
@@ -1443,8 +1443,8 @@
     "40": {
       "player": "cam smith",
       "pitcher": "sam aldegheri",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "4-Seam Fastball"
     },
     "39": {
       "player": "jesus sanchez",
@@ -1682,6 +1682,12 @@
     }
   },
   "tb @ tor": {
+    "37": {
+      "player": "jonathan aranda",
+      "pitcher": "mason fluharty",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "36": {
       "player": "junior caminero",
       "pitcher": "kevin gausman",
@@ -2109,7 +2115,7 @@
     "37": {
       "player": "dalton rushing",
       "pitcher": "caleb ferguson",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "36": {
@@ -2333,8 +2339,8 @@
     "37": {
       "player": "jhonkensy noel",
       "pitcher": "patrick corbin",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "36": {
       "player": "daniel schneemann",
@@ -2794,7 +2800,7 @@
       "player": "andruw monasterio",
       "pitcher": "brady singer",
       "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "pitch": ""
     },
     "32": {
       "player": "isaac collins",
