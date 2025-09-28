@@ -100,6 +100,12 @@
     }
   },
   "col @ sf": {
+    "8": {
+      "player": "jordan beck",
+      "pitcher": "logan webb",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "7": {
       "player": "matt chapman",
       "pitcher": "mccade brown",
@@ -144,6 +150,12 @@
     }
   },
   "min @ phi": {
+    "8": {
+      "player": "brooks lee",
+      "pitcher": "cristopher sanchez",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
     "7": {
       "player": "kody clemens",
       "pitcher": "cristopher sanchez",
@@ -241,7 +253,7 @@
     "6": {
       "player": "aaron judge",
       "pitcher": "kyle bradish",
-      "result": "In play, out(s)",
+      "result": "Ball",
       "pitch": "Sinker"
     },
     "5": {
@@ -349,8 +361,8 @@
     "4": {
       "player": "tim tawa",
       "pitcher": "jp sears",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
       "player": "geraldo perdomo",
@@ -404,11 +416,17 @@
     }
   },
   "tex @ cle": {
+    "6": {
+      "player": "angel martinez",
+      "pitcher": "patrick corbin",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "5": {
       "player": "steven kwan",
       "pitcher": "patrick corbin",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "4": {
       "player": "adolis garcia",
@@ -439,8 +457,8 @@
     "5": {
       "player": "agustin ramirez",
       "pitcher": "sean manaea",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
     },
     "4": {
       "player": "xavier edwards",
