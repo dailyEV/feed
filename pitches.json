@@ -1,5 +1,11 @@
 {
   "det @ bos": {
+    "25": {
+      "player": "wilyer abreu",
+      "pitcher": "chris paddack",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "24": {
       "player": "ceddanne rafaela",
       "pitcher": "chris paddack",
@@ -414,6 +420,12 @@
     }
   },
   "min @ phi": {
+    "22": {
+      "player": "royce lewis",
+      "pitcher": "cristopher sanchez",
+      "result": "In play, out(s)",
+      "pitch": "Changeup"
+    },
     "21": {
       "player": "ryan jeffers",
       "pitcher": "cristopher sanchez",
@@ -545,7 +557,7 @@
     "24": {
       "player": "brooks baldwin",
       "pitcher": "brad lord",
-      "result": "Swinging Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "23": {
@@ -941,8 +953,8 @@
     "21": {
       "player": "bob seymour",
       "pitcher": "kevin gausman",
-      "result": "Called Strike",
-      "pitch": "Splitter"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "20": {
       "player": "carson williams",
@@ -1069,8 +1081,8 @@
     "19": {
       "player": "freddy fermin",
       "pitcher": "brandon pfaadt",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "ketel marte",
@@ -1310,16 +1322,10 @@
     }
   },
   "tex @ cle": {
-    "19": {
-      "player": "jhonkensy noel",
-      "pitcher": "patrick corbin",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
     "18": {
       "player": "daniel schneemann",
       "pitcher": "patrick corbin",
-      "result": "Swinging Strike",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "17": {
@@ -1429,7 +1435,7 @@
     "19": {
       "player": "juan soto",
       "pitcher": "edward cabrera",
-      "result": "In play, out(s)",
+      "result": "Called Strike",
       "pitch": "Sinker"
     },
     "18": {
