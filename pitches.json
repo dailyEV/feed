@@ -71,7 +71,7 @@
     "13": {
       "player": "john rave",
       "pitcher": "brady basso",
-      "result": "Foul",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "12": {
@@ -145,8 +145,8 @@
     "10": {
       "player": "yanquiel fernandez",
       "pitcher": "logan webb",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "9": {
       "player": "brenton doyle",
@@ -331,7 +331,7 @@
     "9": {
       "player": "adley rutschman",
       "pitcher": "luis gil",
-      "result": "Ball",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "8": {
@@ -387,8 +387,8 @@
     "8": {
       "player": "luis rengifo",
       "pitcher": "lance mccullers",
-      "result": "Foul",
-      "pitch": "Knuckle Curve"
+      "result": "In play, out(s)",
+      "pitch": "Slider"
     },
     "7": {
       "player": "ramon urias",
@@ -610,6 +610,12 @@
     }
   },
   "nym @ mia": {
+    "8": {
+      "player": "mark vientos",
+      "pitcher": "edward cabrera",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
     "7": {
       "player": "brandon nimmo",
       "pitcher": "edward cabrera",
@@ -730,6 +736,12 @@
     }
   },
   "stl @ chc": {
+    "3": {
+      "player": "nolan gorman",
+      "pitcher": "javier assad",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "2": {
       "player": "ivan herrera",
       "pitcher": "javier assad",
