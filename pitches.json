@@ -40,6 +40,12 @@
     }
   },
   "col @ sf": {
+    "3": {
+      "player": "blaine crim",
+      "pitcher": "logan webb",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "2": {
       "player": "hunter goodman",
       "pitcher": "logan webb",
@@ -68,11 +74,17 @@
     }
   },
   "chw @ wsh": {
+    "4": {
+      "player": "miguel vargas",
+      "pitcher": "brad lord",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "3": {
       "player": "colson montgomery",
       "pitcher": "brad lord",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "4-Seam Fastball"
     },
     "2": {
       "player": "kyle teel",
@@ -92,7 +104,7 @@
     "1": {
       "player": "zach cole",
       "pitcher": "sam aldegheri",
-      "result": "Ball",
+      "result": "Called Strike",
       "pitch": "4-Seam Fastball"
     }
   },
