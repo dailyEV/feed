@@ -449,7 +449,7 @@
     "83": {
       "player": "willie maciver",
       "pitcher": "luinder avila",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Curveball"
     },
     "82": {
@@ -2179,8 +2179,8 @@
     "65": {
       "player": "ryan mountcastle",
       "pitcher": "david bednar",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "Curveball"
     },
     "64": {
       "player": "adley rutschman",
@@ -2571,8 +2571,8 @@
     "79": {
       "player": "denzer guzman",
       "pitcher": "jayden murray",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "78": {
       "player": "sebastian  rivero",
@@ -3044,6 +3044,12 @@
     }
   },
   "tb @ tor": {
+    "74": {
+      "player": "carson williams",
+      "pitcher": "braydon fisher",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
     "73": {
       "player": "tristan gray",
       "pitcher": "braydon fisher",
@@ -4295,7 +4301,7 @@
     "70": {
       "player": "brayan rocchio",
       "pitcher": "luis curvelo",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "69": {
@@ -4717,8 +4723,8 @@
     "69": {
       "player": "brian navarreto",
       "pitcher": "gregory soto",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "68": {
       "player": "heriberto hernandez",
