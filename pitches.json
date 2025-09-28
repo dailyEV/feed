@@ -3,7 +3,7 @@
     "29": {
       "player": "javier baez",
       "pitcher": "jose de leon",
-      "result": "Ball",
+      "result": "In play, run(s)",
       "pitch": "Slider"
     },
     "28": {
@@ -356,7 +356,7 @@
       "player": "bryce eldridge",
       "pitcher": "mccade brown",
       "result": "Ball",
-      "pitch": "Changeup"
+      "pitch": "Sinker"
     },
     "26": {
       "player": "matt chapman",
@@ -516,6 +516,12 @@
     }
   },
   "min @ phi": {
+    "26": {
+      "player": "alec bohm",
+      "pitcher": "simeon woods richardson",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "bryce harper",
       "pitcher": "simeon woods richardson",
@@ -838,12 +844,6 @@
     }
   },
   "bal @ nyy": {
-    "26": {
-      "player": "ryan mountcastle",
-      "pitcher": "luis gil",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
     "25": {
       "player": "adley rutschman",
       "pitcher": "luis gil",
@@ -1446,12 +1446,6 @@
     }
   },
   "lad @ sea": {
-    "25": {
-      "player": "miles mastrobuoni",
-      "pitcher": "clayton kershaw",
-      "result": "Foul",
-      "pitch": "Slider"
-    },
     "24": {
       "player": "cole young",
       "pitcher": "clayton kershaw",
@@ -1884,6 +1878,12 @@
     }
   },
   "cin @ mil": {
+    "24": {
+      "player": "jackson chourio",
+      "pitcher": "brady singer",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "23": {
       "player": "miguel andujar",
       "pitcher": "dl hall",
@@ -2027,8 +2027,8 @@
     "21": {
       "player": "tommy pham",
       "pitcher": "chris sale",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "20": {
       "player": "nick gonzales",
@@ -2152,6 +2152,12 @@
     }
   },
   "stl @ chc": {
+    "19": {
+      "player": "dansby swanson",
+      "pitcher": "kyle leahy",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "18": {
       "player": "pete crow armstrong",
       "pitcher": "kyle leahy",
