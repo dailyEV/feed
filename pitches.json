@@ -3,8 +3,8 @@
     "36": {
       "player": "nick sogard",
       "pitcher": "chris paddack",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Curveball"
     },
     "35": {
       "player": "david hamilton",
@@ -222,7 +222,7 @@
       "player": "mike yastrzemski",
       "pitcher": "mitch spence",
       "result": "Ball",
-      "pitch": "Curveball"
+      "pitch": "Cutter"
     },
     "36": {
       "player": "salvador perez",
@@ -439,8 +439,8 @@
     "35": {
       "player": "ryan ritter",
       "pitcher": "logan webb",
-      "result": "Foul Bunt",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "34": {
       "player": "warming bernabel",
@@ -858,7 +858,7 @@
       "player": "edgar quero",
       "pitcher": "shinnosuke ogasawara",
       "result": "Called Strike",
-      "pitch": "Changeup"
+      "pitch": "Knuckle Curve"
     },
     "34": {
       "player": "miguel vargas",
@@ -1069,8 +1069,8 @@
     "32": {
       "player": "ryan mcmahon",
       "pitcher": "kyle bradish",
-      "result": "Called Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "31": {
       "player": "anthony volpe",
@@ -1651,8 +1651,8 @@
     "30": {
       "player": "gavin sheets",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul",
+      "pitch": "Cutter"
     },
     "29": {
       "player": "xander bogaerts",
@@ -2018,6 +2018,12 @@
     }
   },
   "tex @ cle": {
+    "31": {
+      "player": "gabriel arias",
+      "pitcher": "patrick corbin",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "30": {
       "player": "bo naylor",
       "pitcher": "patrick corbin",
@@ -2203,8 +2209,8 @@
     "30": {
       "player": "eric wagaman",
       "pitcher": "ryne stanek",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Ball In Dirt",
+      "pitch": "Sweeper"
     },
     "29": {
       "player": "connor norby",
@@ -2386,7 +2392,7 @@
       "player": "kebryan hayes",
       "pitcher": "trevor megill",
       "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Knuckle Curve"
     },
     "30": {
       "player": "spencer steer",
@@ -2740,6 +2746,12 @@
     }
   },
   "stl @ chc": {
+    "27": {
+      "player": "kyle tucker",
+      "pitcher": "john king",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "26": {
       "player": "ian happ",
       "pitcher": "john king",
