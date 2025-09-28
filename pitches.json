@@ -963,8 +963,8 @@
     "49": {
       "player": "alec bohm",
       "pitcher": "anthony misiewicz",
-      "result": "Called Strike",
-      "pitch": "Cutter"
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "48": {
       "player": "bryce harper",
@@ -1259,8 +1259,8 @@
     "50": {
       "player": "miguel vargas",
       "pitcher": "sauryn lao",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "49": {
       "player": "james wood",
@@ -1833,8 +1833,8 @@
     "52": {
       "player": "logan ohoppe",
       "pitcher": "colton gordon",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "Sweeper"
     },
     "51": {
       "player": "yainer diaz",
@@ -3262,11 +3262,17 @@
     }
   },
   "nym @ mia": {
-    "46": {
-      "player": "mark vientos",
+    "47": {
+      "player": "jeff mcneil",
       "pitcher": "cade gibson",
       "result": "Called Strike",
       "pitch": "Curveball"
+    },
+    "46": {
+      "player": "mark vientos",
+      "pitcher": "cade gibson",
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "45": {
       "player": "brandon nimmo",
@@ -3543,7 +3549,7 @@
     "49": {
       "player": "miguel andujar",
       "pitcher": "aaron ashby",
-      "result": "Ball",
+      "result": "Foul",
       "pitch": "Sinker"
     },
     "48": {
