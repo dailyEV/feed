@@ -377,7 +377,7 @@
     "65": {
       "player": "max muncy",
       "pitcher": "daniel lynch",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "64": {
@@ -760,11 +760,17 @@
     }
   },
   "col @ sf": {
+    "61": {
+      "player": "bryce eldridge",
+      "pitcher": "juan mejia",
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
+    },
     "60": {
       "player": "matt chapman",
       "pitcher": "juan mejia",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "rafael devers",
@@ -2136,6 +2142,12 @@
     }
   },
   "hou @ laa": {
+    "61": {
+      "player": "carter kieboom",
+      "pitcher": "colton gordon",
+      "result": "Foul",
+      "pitch": "Sweeper"
+    },
     "60": {
       "player": "jacob melton",
       "pitcher": "ryan zeferjahn",
@@ -2846,7 +2858,7 @@
       "player": "jake mccarthy",
       "pitcher": "jp sears",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "51": {
       "player": "alek thomas",
@@ -4155,8 +4167,8 @@
     "57": {
       "player": "kebryan hayes",
       "pitcher": "chad patrick",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Cutter"
     },
     "56": {
       "player": "spencer steer",
@@ -4496,12 +4508,6 @@
     }
   },
   "pit @ atl": {
-    "53": {
-      "player": "marcell ozuna",
-      "pitcher": "hunter barco",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
     "52": {
       "player": "michael harris",
       "pitcher": "hunter barco",
@@ -4816,10 +4822,16 @@
     }
   },
   "stl @ chc": {
+    "58": {
+      "player": "nico hoerner",
+      "pitcher": "riley obrien",
+      "result": "Called Strike",
+      "pitch": "Curveball"
+    },
     "57": {
       "player": "reese mcguire",
       "pitcher": "riley obrien",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "56": {
