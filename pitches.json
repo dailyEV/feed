@@ -3,8 +3,8 @@
     "24": {
       "player": "ceddanne rafaela",
       "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "Foul Tip",
+      "pitch": "Curveball"
     },
     "23": {
       "player": "masataka yoshida",
@@ -414,6 +414,12 @@
     }
   },
   "min @ phi": {
+    "21": {
+      "player": "ryan jeffers",
+      "pitcher": "cristopher sanchez",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "20": {
       "player": "austin martin",
       "pitcher": "cristopher sanchez",
@@ -1128,12 +1134,6 @@
     }
   },
   "lad @ sea": {
-    "20": {
-      "player": "teoscar hernandez",
-      "pitcher": "bryce miller",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
     "19": {
       "player": "freddie freeman",
       "pitcher": "bryce miller",
@@ -1250,6 +1250,18 @@
     }
   },
   "tex @ cle": {
+    "18": {
+      "player": "daniel schneemann",
+      "pitcher": "patrick corbin",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "17": {
+      "player": "brayan rocchio",
+      "pitcher": "patrick corbin",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    },
     "16": {
       "player": "michael helman",
       "pitcher": "logan allen",
