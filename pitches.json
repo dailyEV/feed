@@ -2319,8 +2319,8 @@
     "66": {
       "player": "victor caratini",
       "pitcher": "sam bachman",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "65": {
       "player": "mauricio dubon",
@@ -2717,7 +2717,7 @@
     "63": {
       "player": "hunter feduccia",
       "pitcher": "brendon little",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "62": {
@@ -3097,7 +3097,7 @@
     "55": {
       "player": "bryce johnson",
       "pitcher": "john curtiss",
-      "result": "Foul",
+      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "54": {
@@ -3782,6 +3782,12 @@
     }
   },
   "tex @ cle": {
+    "62": {
+      "player": "angel martinez",
+      "pitcher": "hoby milner",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "61": {
       "player": "steven kwan",
       "pitcher": "hoby milner",
@@ -4506,6 +4512,12 @@
     }
   },
   "cin @ mil": {
+    "62": {
+      "player": "joey ortiz",
+      "pitcher": "scott barlow",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
     "61": {
       "player": "blake perkins",
       "pitcher": "scott barlow",
