@@ -3,8 +3,8 @@
     "32": {
       "player": "jake rogers",
       "pitcher": "jose de leon",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "31": {
       "player": "andy ibanez",
@@ -376,6 +376,12 @@
     }
   },
   "col @ sf": {
+    "30": {
+      "player": "christian koss",
+      "pitcher": "luis peralta",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "29": {
       "player": "patrick bailey",
       "pitcher": "luis peralta",
@@ -552,12 +558,6 @@
     }
   },
   "min @ phi": {
-    "29": {
-      "player": "ryan fitzgerald",
-      "pitcher": "cristopher sanchez",
-      "result": "Ball",
-      "pitch": "Sinker"
-    },
     "28": {
       "player": "carson mccusker",
       "pitcher": "cristopher sanchez",
@@ -1408,10 +1408,16 @@
     }
   },
   "ari @ sd": {
+    "26": {
+      "player": "ildemaro vargas",
+      "pitcher": "jp sears",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
     "25": {
       "player": "james mccann",
       "pitcher": "jp sears",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "4-Seam Fastball"
     },
     "24": {
@@ -1885,8 +1891,8 @@
     "26": {
       "player": "mark vientos",
       "pitcher": "edward cabrera",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "25": {
       "player": "brandon nimmo",
@@ -2332,6 +2338,12 @@
     }
   },
   "stl @ chc": {
+    "21": {
+      "player": "nolan gorman",
+      "pitcher": "javier assad",
+      "result": "Foul",
+      "pitch": "Curveball"
+    },
     "20": {
       "player": "willi castro",
       "pitcher": "kyle leahy",
