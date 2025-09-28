@@ -826,7 +826,7 @@
       "player": "bryce teodosio",
       "pitcher": "lance mccullers",
       "result": "Ball",
-      "pitch": "Slider"
+      "pitch": "Sinker"
     },
     "20": {
       "player": "denzer guzman",
@@ -1198,7 +1198,7 @@
       "player": "michael conforto",
       "pitcher": "bryce miller",
       "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Knuckle Curve"
     },
     "20": {
       "player": "teoscar hernandez",
@@ -1322,10 +1322,16 @@
     }
   },
   "tex @ cle": {
+    "19": {
+      "player": "jhonkensy noel",
+      "pitcher": "patrick corbin",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
     "18": {
       "player": "daniel schneemann",
       "pitcher": "patrick corbin",
-      "result": "Called Strike",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "17": {
@@ -1435,7 +1441,7 @@
     "19": {
       "player": "juan soto",
       "pitcher": "edward cabrera",
-      "result": "Called Strike",
+      "result": "In play, out(s)",
       "pitch": "Sinker"
     },
     "18": {
@@ -1762,6 +1768,12 @@
     }
   },
   "stl @ chc": {
+    "15": {
+      "player": "nathan church",
+      "pitcher": "javier assad",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "14": {
       "player": "victor scott",
       "pitcher": "javier assad",
