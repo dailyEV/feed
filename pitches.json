@@ -1311,8 +1311,8 @@
     "69": {
       "player": "ryan jeffers",
       "pitcher": "orion kerkering",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Called Strike",
+      "pitch": "Sweeper"
     },
     "68": {
       "player": "austin martin",
@@ -2137,7 +2137,7 @@
     "63": {
       "player": "giancarlo stanton",
       "pitcher": "kade strowd",
-      "result": "Called Strike",
+      "result": "Ball",
       "pitch": "Sweeper"
     },
     "62": {
@@ -2514,6 +2514,18 @@
     }
   },
   "hou @ laa": {
+    "75": {
+      "player": "chris taylor",
+      "pitcher": "jayden murray",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
+    "74": {
+      "player": "jo adell",
+      "pitcher": "jayden murray",
+      "result": "In play, no out",
+      "pitch": "Sinker"
+    },
     "73": {
       "player": "ramon urias",
       "pitcher": "sammy peralta",
@@ -3750,6 +3762,12 @@
     }
   },
   "lad @ sea": {
+    "65": {
+      "player": "mitch garver",
+      "pitcher": "landon knack",
+      "result": "Called Strike",
+      "pitch": "Changeup"
+    },
     "64": {
       "player": "eugenio suarez",
       "pitcher": "landon knack",
@@ -4139,8 +4157,8 @@
     "68": {
       "player": "bo naylor",
       "pitcher": "luis curvelo",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Foul",
+      "pitch": "Sinker"
     },
     "67": {
       "player": "alejandro osuna",
@@ -4938,12 +4956,6 @@
     }
   },
   "cin @ mil": {
-    "70": {
-      "player": "andrew vaughn",
-      "pitcher": "connor phillips",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
     "69": {
       "player": "brice turang",
       "pitcher": "connor phillips",
@@ -5363,8 +5375,8 @@
     "65": {
       "player": "oneil cruz",
       "pitcher": "raisel iglesias",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "64": {
       "player": "joey bart",
