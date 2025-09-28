@@ -20,6 +20,12 @@
     }
   },
   "kc @ ath": {
+    "6": {
+      "player": "colby thomas",
+      "pitcher": "cole ragans",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
     "5": {
       "player": "mike yastrzemski",
       "pitcher": "brady basso",
@@ -89,8 +95,8 @@
     "4": {
       "player": "miguel vargas",
       "pitcher": "brad lord",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "In play, run(s)",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "colson montgomery",
@@ -154,10 +160,38 @@
     }
   },
   "ari @ sd": {},
-  "lad @ sea": {},
-  "tex @ cle": {},
-  "nym @ mia": {},
-  "cin @ mil": {},
+  "lad @ sea": {
+    "1": {
+      "player": "shohei ohtani",
+      "pitcher": "bryce miller",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    }
+  },
+  "tex @ cle": {
+    "1": {
+      "player": "michael helman",
+      "pitcher": "logan allen",
+      "result": "In play, out(s)",
+      "pitch": "Sinker"
+    }
+  },
+  "nym @ mia": {
+    "1": {
+      "player": "francisco lindor",
+      "pitcher": "edward cabrera",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    }
+  },
+  "cin @ mil": {
+    "1": {
+      "player": "tj friedl",
+      "pitcher": "freddy peralta",
+      "result": "Ball",
+      "pitch": "Changeup"
+    }
+  },
   "pit @ atl": {},
   "stl @ chc": {}
 }
