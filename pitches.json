@@ -301,8 +301,8 @@
     "23": {
       "player": "blaine crim",
       "pitcher": "logan webb",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "result": "Foul",
+      "pitch": "Changeup"
     },
     "22": {
       "player": "hunter goodman",
@@ -861,8 +861,8 @@
     "22": {
       "player": "luis rengifo",
       "pitcher": "lance mccullers",
-      "result": "Ball In Dirt",
-      "pitch": "Cutter"
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "21": {
       "player": "bryce teodosio",
@@ -1126,11 +1126,17 @@
     }
   },
   "ari @ sd": {
+    "20": {
+      "player": "fernando tatis",
+      "pitcher": "brandon pfaadt",
+      "result": "In play, out(s)",
+      "pitch": "Sweeper"
+    },
     "19": {
       "player": "freddy fermin",
       "pitcher": "brandon pfaadt",
-      "result": "Foul",
-      "pitch": "Sweeper"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
       "player": "ketel marte",
