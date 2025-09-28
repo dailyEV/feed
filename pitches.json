@@ -160,11 +160,17 @@
     }
   },
   "col @ sf": {
+    "14": {
+      "player": "patrick bailey",
+      "pitcher": "mccade brown",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
     "13": {
       "player": "jung hoo lee",
       "pitcher": "mccade brown",
-      "result": "Ball",
-      "pitch": "Changeup"
+      "result": "In play, no out",
+      "pitch": "Sinker"
     },
     "12": {
       "player": "wilmer flores",
@@ -314,17 +320,11 @@
     }
   },
   "chw @ wsh": {
-    "14": {
-      "player": "dylan crews",
-      "pitcher": "shane smith",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
     "13": {
       "player": "daylen lile",
       "pitcher": "shane smith",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "12": {
       "player": "michael a taylor",
@@ -404,7 +404,7 @@
       "player": "austin wells",
       "pitcher": "kyle bradish",
       "result": "Foul",
-      "pitch": "Sinker"
+      "pitch": "4-Seam Fastball"
     },
     "11": {
       "player": "giancarlo stanton",
@@ -545,8 +545,8 @@
     "10": {
       "player": "alejandro kirk",
       "pitcher": "ian seymour",
-      "result": "Called Strike",
-      "pitch": "Changeup"
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "9": {
       "player": "daulton varsho",
@@ -967,8 +967,8 @@
     "5": {
       "player": "nico hoerner",
       "pitcher": "kyle leahy",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "result": "Foul",
+      "pitch": "Slider"
     },
     "4": {
       "player": "michael busch",
