@@ -1,11 +1,5 @@
 {
   "det @ bos": {
-    "6": {
-      "player": "masataka yoshida",
-      "pitcher": "chris paddack",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
     "5": {
       "player": "trevor story",
       "pitcher": "chris paddack",
@@ -38,11 +32,17 @@
     }
   },
   "kc @ ath": {
+    "9": {
+      "player": "tyler soderstrom",
+      "pitcher": "cole ragans",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
     "8": {
       "player": "brent rooker",
       "pitcher": "cole ragans",
-      "result": "Foul",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Changeup"
     },
     "7": {
       "player": "nick kurtz",
@@ -85,7 +85,7 @@
     "6": {
       "player": "rafael devers",
       "pitcher": "mccade brown",
-      "result": "Foul",
+      "result": "Swinging Strike",
       "pitch": "Sinker"
     },
     "5": {
@@ -155,8 +155,8 @@
     "6": {
       "player": "james wood",
       "pitcher": "shane smith",
-      "result": "Foul",
-      "pitch": "Sinker"
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
     },
     "5": {
       "player": "edgar quero",
@@ -193,8 +193,8 @@
     "4": {
       "player": "trent grisham",
       "pitcher": "kyle bradish",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "result": "Ball",
+      "pitch": "Sinker"
     },
     "3": {
       "player": "gunnar henderson",
@@ -278,7 +278,7 @@
       "player": "jordan lawlar",
       "pitcher": "jp sears",
       "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sweeper"
     },
     "1": {
       "player": "ketel marte",
@@ -291,8 +291,8 @@
     "2": {
       "player": "mookie betts",
       "pitcher": "bryce miller",
-      "result": "Foul",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "1": {
       "player": "shohei ohtani",
