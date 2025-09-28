@@ -3,7 +3,7 @@
     "9": {
       "player": "kerry carpenter",
       "pitcher": "jose de leon",
-      "result": "Called Strike",
+      "result": "Foul",
       "pitch": "4-Seam Fastball"
     },
     "8": {
@@ -180,12 +180,6 @@
     }
   },
   "min @ phi": {
-    "9": {
-      "player": "carson mccusker",
-      "pitcher": "cristopher sanchez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
     "8": {
       "player": "brooks lee",
       "pitcher": "cristopher sanchez",
@@ -424,11 +418,17 @@
     }
   },
   "ari @ sd": {
+    "6": {
+      "player": "ryan ohearn",
+      "pitcher": "brandon pfaadt",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "5": {
       "player": "fernando tatis",
       "pitcher": "brandon pfaadt",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "result": "In play, no out",
+      "pitch": "Cutter"
     },
     "4": {
       "player": "tim tawa",
@@ -459,8 +459,8 @@
     "5": {
       "player": "randy arozarena",
       "pitcher": "clayton kershaw",
-      "result": "Ball",
-      "pitch": "Splitter"
+      "result": "In play, out(s)",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
       "player": "teoscar hernandez",
@@ -491,8 +491,8 @@
     "6": {
       "player": "angel martinez",
       "pitcher": "patrick corbin",
-      "result": "Foul",
-      "pitch": "Slider"
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
     },
     "5": {
       "player": "steven kwan",
@@ -564,6 +564,12 @@
     }
   },
   "cin @ mil": {
+    "6": {
+      "player": "jackson chourio",
+      "pitcher": "brady singer",
+      "result": "Foul",
+      "pitch": "Cutter"
+    },
     "5": {
       "player": "christian yelich",
       "pitcher": "brady singer",
