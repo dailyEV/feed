@@ -769,8 +769,8 @@
     "60": {
       "player": "matt chapman",
       "pitcher": "juan mejia",
-      "result": "Ball",
-      "pitch": "Slider"
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "59": {
       "player": "rafael devers",
@@ -2863,8 +2863,8 @@
     "52": {
       "player": "jake mccarthy",
       "pitcher": "jp sears",
-      "result": "Ball",
-      "pitch": "Sweeper"
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
       "player": "alek thomas",
@@ -3859,8 +3859,8 @@
     "55": {
       "player": "juan soto",
       "pitcher": "ronny henriquez",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
     },
     "54": {
       "player": "francisco lindor",
@@ -4852,10 +4852,16 @@
     }
   },
   "stl @ chc": {
+    "58": {
+      "player": "nico hoerner",
+      "pitcher": "riley obrien",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
     "57": {
       "player": "reese mcguire",
       "pitcher": "riley obrien",
-      "result": "Ball",
+      "result": "In play, no out",
       "pitch": "Sinker"
     },
     "56": {
