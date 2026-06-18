@@ -11,7 +11,7 @@ import nodriver as uc
 
 from bs4 import BeautifulSoup as BS
 from shared import *
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -32,6 +32,17 @@ def commitChanges():
 
 	origin = repo.remote(name="origin")
 	origin.push()
+
+def is_past_2am_est(start_date):
+	est = timezone(timedelta(hours=-5))
+	now = datetime.now(est)
+	return now.date() > start_date and now.hour >= 2
+
+def exit_2am(driver):
+	with open("feed_times.json", "w") as fh:
+		json.dump({}, fh)
+	driver.quit()
+	exit()
 
 def writePitchFeed(date, loop):
 	url = f"https://baseballsavant.mlb.com/gamefeed?date={date}&hf=pitchVelocity"
@@ -56,7 +67,12 @@ def writePitchFeed(date, loop):
 
 	time.sleep(1)
 
+	est = timezone(timedelta(hours=-5))
+	start_date = datetime.now(est).date()
 	while True:
+		if loop and is_past_2am_est(start_date):
+			exit_2am(driver)
+
 		pitches = parsePitch(driver)
 
 		with open("pitches.json", "w") as fh:
@@ -111,8 +127,13 @@ def writeFeed(date, loop):
 	schedule = response.json()
 	inserted = {}
 
+	est = timezone(timedelta(hours=-5))
+	start_date = datetime.now(est).date()
 	i = 0
 	while True:
+		if loop and is_past_2am_est(start_date):
+			exit_2am(driver)
+
 		html = driver.page_source
 		soup = BS(html, "html.parser")
 		
@@ -139,22 +160,19 @@ def writeFeed(date, loop):
 			liveGames = len(games)
 		data = {}
 		#pitches = parsePitch(driver)
-		parseFeed(date, data, pitches, times, games, totGames, soup, inserted, leftOrRight)
+		feed = parseFeed(date, data, pitches, times, games, totGames, soup, inserted, leftOrRight)
 		
 		i += 1
 
 		if not loop:
+			uploadFile("feed", feed)
 			break
 
-		#upsertFeed(psql, data, inserted)
-
 		time.sleep(1)
-		if i >= 5:
+		if i >= 15:
 			try:
-				commitChanges()
+				uploadFile("feed", feed)
 			except:
-				if os.path.exists("/mnt/c/Users/zhech/Documents/feed/.git/index.lock"):
-					os.system("rm /mnt/c/Users/zhech/Documents/feed/.git/index.lock")
 				pass
 			i = 0
 
@@ -217,7 +235,7 @@ def parsePitch(driver):
 				"player": batter,
 				"pitcher": pitcher,
 				"result": tds[9].text.strip(),
-				"pitch": tds[10].text.strip()
+				"pitch": parsePitchType(tds[10].text.strip())
 			}
 
 	#btn = driver.find_elements(By.CSS_SELECTOR, "#nav-buttons div")[0]
@@ -227,7 +245,7 @@ def parsePitch(driver):
 
 def parseFeed(date, data, pitches, times, games, totGames, soup, inserted, leftOrRight):
 	allTable = soup.find("div", id="allMetrics")
-	hdrs = [th.text.lower() for th in allTable.find_all("th")]
+	hdrs = [th.text.lower().strip().split("\n")[0] for th in allTable.find_all("th")]
 	starts = {}
 	for game in games:
 		starts[game["game"]] = game["start"]
@@ -309,6 +327,8 @@ def parseFeed(date, data, pitches, times, games, totGames, soup, inserted, leftO
 	hist[str(datetime.now())[:10]] = times
 	with open("feed_times_historical.json", "w") as fh:
 		json.dump(hist, fh)
+
+	return data
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()

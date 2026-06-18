@@ -2,6 +2,12 @@ from collections import defaultdict
 import nodriver as uc
 import unicodedata
 import git
+import os, gzip, json, io
+from supabase import create_client, Client
+from datetime import datetime, UTC
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def commitChanges():
 	repo = git.Repo(".")
@@ -12,6 +18,43 @@ def commitChanges():
 		origin = repo.remote(name="origin")
 		origin.push()
 		#print("Successful commit")
+
+SUPABASE_URL = os.environ["SUPABASE_URL"]
+SUPABASE_KEY = os.environ["SUPABASE_SECRET"]
+
+def uploadFile(file, data, noIndex=False):
+	sb: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
+
+	buf = io.BytesIO()
+	with gzip.GzipFile(fileobj=buf, mode="wb") as gz:
+		gz.write(json.dumps(data, separators=(",", ":")).encode("utf-8"))
+
+	sb.storage.from_("odds").upload(
+		f"{file}.json.gz",
+		buf.getvalue(),
+		file_options={
+			"content-type": "application/json",
+			"content-encoding": "gzip",
+			"cache-control": "60",
+			"upsert": "true"
+		}
+	)
+
+	if not noIndex:
+		index = {
+			"version": datetime.utcnow().isoformat(),
+			"current": f"{file}.json.gz"
+		}
+		index_bytes = json.dumps(index).encode("utf-8")
+		sb.storage.from_("odds").upload(
+			f"indexes/{file}.json",
+			index_bytes,
+			{
+				"content-type": "application/json",
+				"cache-control": "60",
+				"upsert": "true"
+			}
+		)
 
 def parsePitchType(pitch):
 	pitch = pitch.lower().replace(" ", "")
