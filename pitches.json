@@ -1,1756 +1,4584 @@
 {
-  "det @ cle": {
+  "nym @ cin": {
+    "81": {
+      "player": "edwin arroyo",
+      "pitcher": "austin warren",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "80": {
+      "player": "matt mclain",
+      "pitcher": "austin warren",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
+    "79": {
+      "player": "jose trevino",
+      "pitcher": "austin warren",
+      "result": "Groundout",
+      "pitch": "Sweeper"
+    },
+    "78": {
+      "player": "noelvi marte",
+      "pitcher": "austin warren",
+      "result": "Double",
+      "pitch": "Sinker"
+    },
+    "77": {
+      "player": "spencer steer",
+      "pitcher": "austin warren",
+      "result": "Pop Out",
+      "pitch": "Curveball"
+    },
     "76": {
-      "player": "dillon dingler",
-      "pitcher": "cade smith",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "player": "luis torrens",
+      "pitcher": "chris paddack",
+      "result": "Groundout",
+      "pitch": "Changeup"
     },
     "75": {
-      "player": "wenceel perez",
-      "pitcher": "cade smith",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "player": "aj ewing",
+      "pitcher": "chris paddack",
+      "result": "Groundout",
+      "pitch": "Changeup"
     },
     "74": {
-      "player": "justyn henry malloy",
-      "pitcher": "cade smith",
+      "player": "francisco alvarez",
+      "pitcher": "chris paddack",
+      "result": "Groundout",
+      "pitch": "Cutter"
+    },
+    "73": {
+      "player": "eugenio suarez",
+      "pitcher": "brooks raley",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "72": {
+      "player": "dane myers",
+      "pitcher": "brooks raley",
+      "result": "Pop Out",
+      "pitch": "Cutter"
+    },
+    "71": {
+      "player": "sal stewart",
+      "pitcher": "brooks raley",
+      "result": "Double",
+      "pitch": "Sweeper"
+    },
+    "70": {
+      "player": "jj bleday",
+      "pitcher": "brooks raley",
+      "result": "Forceout",
+      "pitch": "Sweeper"
+    },
+    "69": {
+      "player": "edwin arroyo",
+      "pitcher": "brooks raley",
+      "result": "Field Error",
+      "pitch": "Sinker"
+    },
+    "68": {
+      "player": "mark vientos",
+      "pitcher": "chris paddack",
+      "result": "Flyout",
+      "pitch": "Cutter"
+    },
+    "67": {
+      "player": "marcus semien",
+      "pitcher": "chris paddack",
+      "result": "Groundout",
+      "pitch": "Cutter"
+    },
+    "66": {
+      "player": "juan soto",
+      "pitcher": "chris paddack",
+      "result": "Double",
+      "pitch": "4-Seam Fastball"
+    },
+    "65": {
+      "player": "bo bichette",
+      "pitcher": "chris paddack",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "64": {
+      "player": "carson benge",
+      "pitcher": "chris paddack",
+      "result": "Triple",
+      "pitch": "Changeup"
+    },
+    "63": {
+      "player": "zack short",
+      "pitcher": "chris paddack",
       "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "62": {
+      "player": "matt mclain",
+      "pitcher": "nolan mclean",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "61": {
+      "player": "jose trevino",
+      "pitcher": "nolan mclean",
+      "result": "Single",
+      "pitch": "Cutter"
+    },
+    "60": {
+      "player": "noelvi marte",
+      "pitcher": "nolan mclean",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "59": {
+      "player": "spencer steer",
+      "pitcher": "nolan mclean",
+      "result": "Foul Tip",
+      "pitch": "Curveball"
+    },
+    "58": {
+      "player": "luis torrens",
+      "pitcher": "chris paddack",
+      "result": "Lineout",
+      "pitch": "Sinker"
+    },
+    "57": {
+      "player": "aj ewing",
+      "pitcher": "chris paddack",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "56": {
+      "player": "francisco alvarez",
+      "pitcher": "chris paddack",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "55": {
+      "player": "mark vientos",
+      "pitcher": "chris paddack",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "54": {
+      "player": "marcus semien",
+      "pitcher": "chris paddack",
+      "result": "Groundout",
+      "pitch": "Cutter"
+    },
+    "53": {
+      "player": "eugenio suarez",
+      "pitcher": "nolan mclean",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "52": {
+      "player": "nathaniel lowe",
+      "pitcher": "nolan mclean",
+      "result": "Double",
+      "pitch": "Changeup"
+    },
+    "51": {
+      "player": "sal stewart",
+      "pitcher": "nolan mclean",
+      "result": "Forceout",
+      "pitch": "Sinker"
+    },
+    "50": {
+      "player": "jj bleday",
+      "pitcher": "nolan mclean",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "49": {
+      "player": "edwin arroyo",
+      "pitcher": "nolan mclean",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "48": {
+      "player": "juan soto",
+      "pitcher": "chris paddack",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "47": {
+      "player": "bo bichette",
+      "pitcher": "chris paddack",
+      "result": "Lineout",
+      "pitch": "4-Seam Fastball"
+    },
+    "46": {
+      "player": "carson benge",
+      "pitcher": "chris paddack",
+      "result": "Field Error",
+      "pitch": "Cutter"
+    },
+    "45": {
+      "player": "zack short",
+      "pitcher": "chris paddack",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "44": {
+      "player": "matt mclain",
+      "pitcher": "nolan mclean",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
+    "43": {
+      "player": "jose trevino",
+      "pitcher": "nolan mclean",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "42": {
+      "player": "noelvi marte",
+      "pitcher": "nolan mclean",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "41": {
+      "player": "luis torrens",
+      "pitcher": "chris paddack",
+      "result": "Lineout",
+      "pitch": "4-Seam Fastball"
+    },
+    "40": {
+      "player": "aj ewing",
+      "pitcher": "nick lodolo",
+      "result": "Double",
+      "pitch": "Sinker"
+    },
+    "39": {
+      "player": "francisco alvarez",
+      "pitcher": "nick lodolo",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "38": {
+      "player": "mark vientos",
+      "pitcher": "nick lodolo",
+      "result": "Sac Fly",
+      "pitch": "Changeup"
+    },
+    "37": {
+      "player": "marcus semien",
+      "pitcher": "nick lodolo",
+      "result": "Single",
+      "pitch": "Curveball"
+    },
+    "36": {
+      "player": "juan soto",
+      "pitcher": "nick lodolo",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "35": {
+      "player": "bo bichette",
+      "pitcher": "nick lodolo",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "34": {
+      "player": "carson benge",
+      "pitcher": "nick lodolo",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "33": {
+      "player": "spencer steer",
+      "pitcher": "nolan mclean",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "32": {
+      "player": "eugenio suarez",
+      "pitcher": "nolan mclean",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "31": {
+      "player": "nathaniel lowe",
+      "pitcher": "nolan mclean",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "30": {
+      "player": "zack short",
+      "pitcher": "nick lodolo",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "29": {
+      "player": "luis torrens",
+      "pitcher": "nick lodolo",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "28": {
+      "player": "aj ewing",
+      "pitcher": "nick lodolo",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "27": {
+      "player": "sal stewart",
+      "pitcher": "nolan mclean",
+      "result": "Forceout",
+      "pitch": "Sinker"
+    },
+    "26": {
+      "player": "jj bleday",
+      "pitcher": "nolan mclean",
+      "result": "Sac Fly",
+      "pitch": "4-Seam Fastball"
+    },
+    "25": {
+      "player": "edwin arroyo",
+      "pitcher": "nolan mclean",
+      "result": "Hit By Pitch",
+      "pitch": "Sweeper"
+    },
+    "24": {
+      "player": "matt mclain",
+      "pitcher": "nolan mclean",
+      "result": "Double",
+      "pitch": "Sinker"
+    },
+    "23": {
+      "player": "jose trevino",
+      "pitcher": "nolan mclean",
+      "result": "Field Error",
+      "pitch": "Sinker"
+    },
+    "22": {
+      "player": "noelvi marte",
+      "pitcher": "nolan mclean",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "21": {
+      "player": "francisco alvarez",
+      "pitcher": "nick lodolo",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "20": {
+      "player": "mark vientos",
+      "pitcher": "nick lodolo",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "19": {
+      "player": "marcus semien",
+      "pitcher": "nick lodolo",
+      "result": "Single",
+      "pitch": "Curveball"
+    },
+    "18": {
+      "player": "juan soto",
+      "pitcher": "nick lodolo",
+      "result": "Single",
+      "pitch": "Curveball"
+    },
+    "17": {
+      "player": "bo bichette",
+      "pitcher": "nick lodolo",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "16": {
+      "player": "carson benge",
+      "pitcher": "nick lodolo",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "15": {
+      "player": "zack short",
+      "pitcher": "nick lodolo",
+      "result": "Sac Bunt",
+      "pitch": "Sinker"
+    },
+    "14": {
+      "player": "luis torrens",
+      "pitcher": "nick lodolo",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "13": {
+      "player": "spencer steer",
+      "pitcher": "nolan mclean",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "12": {
+      "player": "eugenio suarez",
+      "pitcher": "nolan mclean",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "11": {
+      "player": "nathaniel lowe",
+      "pitcher": "nolan mclean",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "10": {
+      "player": "aj ewing",
+      "pitcher": "nick lodolo",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "9": {
+      "player": "francisco alvarez",
+      "pitcher": "nick lodolo",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "8": {
+      "player": "mark vientos",
+      "pitcher": "nick lodolo",
+      "result": "GIDP",
+      "pitch": "Changeup"
+    },
+    "7": {
+      "player": "marcus semien",
+      "pitcher": "nick lodolo",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "6": {
+      "player": "sal stewart",
+      "pitcher": "nolan mclean",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "5": {
+      "player": "jj bleday",
+      "pitcher": "nolan mclean",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "4": {
+      "player": "edwin arroyo",
+      "pitcher": "nolan mclean",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "3": {
+      "player": "juan soto",
+      "pitcher": "nick lodolo",
+      "result": "GIDP",
+      "pitch": "4-Seam Fastball"
+    },
+    "2": {
+      "player": "bo bichette",
+      "pitcher": "nick lodolo",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "1": {
+      "player": "carson benge",
+      "pitcher": "nick lodolo",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    }
+  },
+  "kc @ wsh": {
+    "76": {
+      "player": "daylen lile",
+      "pitcher": "alex lange",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "75": {
+      "player": "dylan crews",
+      "pitcher": "alex lange",
+      "result": "Lineout",
+      "pitch": "Cutter"
+    },
+    "74": {
+      "player": "cj abrams",
+      "pitcher": "alex lange",
+      "result": "Pop Out",
       "pitch": "4-Seam Fastball"
     },
     "73": {
-      "player": "spencer torkelson",
-      "pitcher": "cade smith",
+      "player": "curtis mead",
+      "pitcher": "alex lange",
       "result": "Hit By Pitch",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Changeup"
     },
     "72": {
-      "player": "kerry carpenter",
-      "pitcher": "cade smith",
+      "player": "john rave",
+      "pitcher": "paxton schultz",
       "result": "Ball",
-      "pitch": "Splitter"
-    },
-    "71": {
-      "player": "gleyber torres",
-      "pitcher": "cade smith",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
-    "70": {
-      "player": "gabriel arias",
-      "pitcher": "brant hurter",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "69": {
-      "player": "bo naylor",
-      "pitcher": "brant hurter",
-      "result": "In play, run(s)",
-      "pitch": "Sweeper"
-    },
-    "68": {
-      "player": "kyle manzardo",
-      "pitcher": "brant hurter",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
-    "66": {
-      "player": "daniel schneemann",
-      "pitcher": "troy melton",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "65": {
-      "player": "steven kwan",
-      "pitcher": "troy melton",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
-    "64": {
-      "player": "brayan rocchio",
-      "pitcher": "troy melton",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "63": {
-      "player": "cj kayfus",
-      "pitcher": "troy melton",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
-    "62": {
-      "player": "parker meadows",
-      "pitcher": "cade smith",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
-    },
-    "61": {
-      "player": "javier baez",
-      "pitcher": "jakob junis",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
-    "60": {
-      "player": "zach mckinstry",
-      "pitcher": "jakob junis",
-      "result": "Ball",
-      "pitch": "Changeup"
-    },
-    "59": {
-      "player": "dillon dingler",
-      "pitcher": "jakob junis",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
-    "58": {
-      "player": "chase delauter",
-      "pitcher": "kyle finnegan",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "57": {
-      "player": "gabriel arias",
-      "pitcher": "kyle finnegan",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "56": {
-      "player": "bo naylor",
-      "pitcher": "kyle finnegan",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "55": {
-      "player": "wenceel perez",
-      "pitcher": "tim herrin",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "54": {
-      "player": "jahmai jones",
-      "pitcher": "tim herrin",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
-    },
-    "53": {
-      "player": "spencer torkelson",
-      "pitcher": "hunter gaddis",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
-    "52": {
-      "player": "kerry carpenter",
-      "pitcher": "hunter gaddis",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
-    "51": {
-      "player": "gleyber torres",
-      "pitcher": "hunter gaddis",
-      "result": "Hit By Pitch",
-      "pitch": "4-Seam Fastball"
-    },
-    "50": {
-      "player": "kyle manzardo",
-      "pitcher": "kyle finnegan",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
-    "49": {
-      "player": "jose ramirez",
-      "pitcher": "kyle finnegan",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
-    "48": {
-      "player": "daniel schneemann",
-      "pitcher": "kyle finnegan",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
-    },
-    "47": {
-      "player": "steven kwan",
-      "pitcher": "tyler holton",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
-    "46": {
-      "player": "parker meadows",
-      "pitcher": "hunter gaddis",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
-    "45": {
-      "player": "javier baez",
-      "pitcher": "hunter gaddis",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
-    "44": {
-      "player": "zach mckinstry",
-      "pitcher": "erik sabrowski",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "43": {
-      "player": "dillon dingler",
-      "pitcher": "erik sabrowski",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
-    "42": {
-      "player": "wenceel perez",
-      "pitcher": "erik sabrowski",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "41": {
-      "player": "brayan rocchio",
-      "pitcher": "tyler holton",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
-    "40": {
-      "player": "cj kayfus",
-      "pitcher": "tyler holton",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
-    "39": {
-      "player": "chase delauter",
-      "pitcher": "tyler holton",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
-    "38": {
-      "player": "gabriel arias",
-      "pitcher": "tyler holton",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
-    "37": {
-      "player": "riley greene",
-      "pitcher": "erik sabrowski",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "36": {
-      "player": "spencer torkelson",
-      "pitcher": "tanner bibee",
-      "result": "Ball",
-      "pitch": "Cutter"
-    },
-    "35": {
-      "player": "kerry carpenter",
-      "pitcher": "tanner bibee",
-      "result": "In play, no out",
-      "pitch": "Cutter"
-    },
-    "34": {
-      "player": "gleyber torres",
-      "pitcher": "tanner bibee",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
-    "33": {
-      "player": "parker meadows",
-      "pitcher": "tanner bibee",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "32": {
-      "player": "bo naylor",
-      "pitcher": "tyler holton",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "31": {
-      "player": "kyle manzardo",
-      "pitcher": "tyler holton",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
-    "30": {
-      "player": "jose ramirez",
-      "pitcher": "casey mize",
-      "result": "Ball",
-      "pitch": "Splitter"
-    },
-    "29": {
-      "player": "javier baez",
-      "pitcher": "tanner bibee",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "28": {
-      "player": "zach mckinstry",
-      "pitcher": "tanner bibee",
-      "result": "Ball In Dirt",
-      "pitch": "Curveball"
-    },
-    "27": {
-      "player": "dillon dingler",
-      "pitcher": "tanner bibee",
-      "result": "Ball In Dirt",
-      "pitch": "Cutter"
-    },
-    "26": {
-      "player": "wenceel perez",
-      "pitcher": "tanner bibee",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "25": {
-      "player": "riley greene",
-      "pitcher": "tanner bibee",
-      "result": "In play, no out",
-      "pitch": "Changeup"
-    },
-    "24": {
-      "player": "spencer torkelson",
-      "pitcher": "tanner bibee",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
-    },
-    "23": {
-      "player": "george valera",
-      "pitcher": "casey mize",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
-    "22": {
-      "player": "steven kwan",
-      "pitcher": "casey mize",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "21": {
-      "player": "brayan rocchio",
-      "pitcher": "casey mize",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "20": {
-      "player": "kerry carpenter",
-      "pitcher": "tanner bibee",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
-    "19": {
-      "player": "gleyber torres",
-      "pitcher": "tanner bibee",
-      "result": "In play, no out",
-      "pitch": "Cutter"
-    },
-    "18": {
-      "player": "parker meadows",
-      "pitcher": "tanner bibee",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
-    "17": {
-      "player": "javier baez",
-      "pitcher": "tanner bibee",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
-    "16": {
-      "player": "cj kayfus",
-      "pitcher": "casey mize",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
-    "15": {
-      "player": "chase delauter",
-      "pitcher": "casey mize",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
-    "14": {
-      "player": "gabriel arias",
-      "pitcher": "casey mize",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
-    "13": {
-      "player": "bo naylor",
-      "pitcher": "casey mize",
-      "result": "Foul Tip",
-      "pitch": "Slider"
-    },
-    "12": {
-      "player": "zach mckinstry",
-      "pitcher": "tanner bibee",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "11": {
-      "player": "dillon dingler",
-      "pitcher": "tanner bibee",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
-    },
-    "10": {
-      "player": "wenceel perez",
-      "pitcher": "tanner bibee",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "9": {
-      "player": "kyle manzardo",
-      "pitcher": "casey mize",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
-    "8": {
-      "player": "jose ramirez",
-      "pitcher": "casey mize",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
-    "7": {
-      "player": "george valera",
-      "pitcher": "casey mize",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "6": {
-      "player": "steven kwan",
-      "pitcher": "casey mize",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "5": {
-      "player": "riley greene",
-      "pitcher": "tanner bibee",
-      "result": "Foul Tip",
-      "pitch": "Changeup"
-    },
-    "4": {
-      "player": "spencer torkelson",
-      "pitcher": "tanner bibee",
-      "result": "Swinging Strike",
-      "pitch": "Cutter"
-    },
-    "3": {
-      "player": "kerry carpenter",
-      "pitcher": "tanner bibee",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
-    "2": {
-      "player": "gleyber torres",
-      "pitcher": "tanner bibee",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
-    "1": {
-      "player": "parker meadows",
-      "pitcher": "tanner bibee",
-      "result": "In play, no out",
-      "pitch": "Sweeper"
-    }
-  },
-  "sd @ chc": {
-    "69": {
-      "player": "seiya suzuki",
-      "pitcher": "robert suarez",
-      "result": "In play, out(s)",
-      "pitch": ""
-    },
-    "68": {
-      "player": "kyle tucker",
-      "pitcher": "robert suarez",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
-    "67": {
-      "player": "ian happ",
-      "pitcher": "robert suarez",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "66": {
-      "player": "fernando tatis",
-      "pitcher": "michael soroka",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "65": {
-      "player": "freddy fermin",
-      "pitcher": "michael soroka",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "64": {
-      "player": "jake cronenworth",
-      "pitcher": "taylor rogers",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "63": {
-      "player": "nico hoerner",
-      "pitcher": "robert suarez",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "62": {
-      "player": "michael busch",
-      "pitcher": "mason miller",
-      "result": "Hit By Pitch",
-      "pitch": "Slider"
-    },
-    "61": {
-      "player": "moises ballesteros",
-      "pitcher": "mason miller",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
-    "60": {
-      "player": "dansby swanson",
-      "pitcher": "mason miller",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "59": {
-      "player": "bryce johnson",
-      "pitcher": "taylor rogers",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
-    "58": {
-      "player": "ryan ohearn",
-      "pitcher": "taylor rogers",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
-    "57": {
-      "player": "xander bogaerts",
-      "pitcher": "colin rea",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "56": {
-      "player": "pete crow armstrong",
-      "pitcher": "mason miller",
-      "result": "Called Strike",
-      "pitch": "Slider"
-    },
-    "55": {
-      "player": "carson kelly",
-      "pitcher": "mason miller",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "54": {
-      "player": "seiya suzuki",
-      "pitcher": "mason miller",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "53": {
-      "player": "jackson merrill",
-      "pitcher": "colin rea",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
-    },
-    "52": {
-      "player": "manny machado",
-      "pitcher": "colin rea",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
-    "51": {
-      "player": "luis arraez",
-      "pitcher": "colin rea",
-      "result": "In play, no out",
-      "pitch": "Cutter"
-    },
-    "50": {
-      "player": "fernando tatis",
-      "pitcher": "colin rea",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
-    "49": {
-      "player": "kyle tucker",
-      "pitcher": "adrian morejon",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "48": {
-      "player": "ian happ",
-      "pitcher": "adrian morejon",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "47": {
-      "player": "nico hoerner",
-      "pitcher": "adrian morejon",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "46": {
-      "player": "freddy fermin",
-      "pitcher": "colin rea",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "45": {
-      "player": "jake cronenworth",
-      "pitcher": "caleb thielbar",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "44": {
-      "player": "bryce johnson",
-      "pitcher": "caleb thielbar",
-      "result": "Called Strike",
-      "pitch": "Curveball"
-    },
-    "43": {
-      "player": "ryan ohearn",
-      "pitcher": "caleb thielbar",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
-    "42": {
-      "player": "xander bogaerts",
-      "pitcher": "caleb thielbar",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
-    "41": {
-      "player": "michael busch",
-      "pitcher": "adrian morejon",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "40": {
-      "player": "matt shaw",
-      "pitcher": "adrian morejon",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
-    "39": {
-      "player": "dansby swanson",
-      "pitcher": "adrian morejon",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
-    },
-    "38": {
-      "player": "jackson merrill",
-      "pitcher": "shota imanaga",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "37": {
-      "player": "manny machado",
-      "pitcher": "shota imanaga",
-      "result": "In play, run(s)",
-      "pitch": "Splitter"
-    },
-    "36": {
-      "player": "luis arraez",
-      "pitcher": "shota imanaga",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "35": {
-      "player": "fernando tatis",
-      "pitcher": "shota imanaga",
-      "result": "Ball",
-      "pitch": "Sweeper"
-    },
-    "34": {
-      "player": "freddy fermin",
-      "pitcher": "shota imanaga",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
-    },
-    "33": {
-      "player": "pete crow armstrong",
-      "pitcher": "adrian morejon",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "31": {
-      "player": "seiya suzuki",
-      "pitcher": "dylan cease",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
-    "30": {
-      "player": "kyle tucker",
-      "pitcher": "dylan cease",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "29": {
-      "player": "ian happ",
-      "pitcher": "dylan cease",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
-    "28": {
-      "player": "jake cronenworth",
-      "pitcher": "shota imanaga",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "27": {
-      "player": "jose iglesias",
-      "pitcher": "shota imanaga",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "26": {
-      "player": "ryan ohearn",
-      "pitcher": "shota imanaga",
-      "result": "In play, no out",
-      "pitch": "Sweeper"
-    },
-    "25": {
-      "player": "xander bogaerts",
-      "pitcher": "shota imanaga",
-      "result": "Swinging Strike",
-      "pitch": "Sweeper"
-    },
-    "24": {
-      "player": "jackson merrill",
-      "pitcher": "shota imanaga",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
-    "23": {
-      "player": "nico hoerner",
-      "pitcher": "dylan cease",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "22": {
-      "player": "michael busch",
-      "pitcher": "dylan cease",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "21": {
-      "player": "matt shaw",
-      "pitcher": "dylan cease",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "20": {
-      "player": "dansby swanson",
-      "pitcher": "dylan cease",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
-    "19": {
-      "player": "manny machado",
-      "pitcher": "shota imanaga",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "18": {
-      "player": "luis arraez",
-      "pitcher": "shota imanaga",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
-    "17": {
-      "player": "fernando tatis",
-      "pitcher": "shota imanaga",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "16": {
-      "player": "freddy fermin",
-      "pitcher": "shota imanaga",
-      "result": "In play, no out",
-      "pitch": "Splitter"
-    },
-    "15": {
-      "player": "pete crow armstrong",
-      "pitcher": "dylan cease",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
-    "14": {
-      "player": "carson kelly",
-      "pitcher": "dylan cease",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "13": {
-      "player": "seiya suzuki",
-      "pitcher": "dylan cease",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
-    "12": {
-      "player": "jake cronenworth",
-      "pitcher": "shota imanaga",
-      "result": "Swinging Strike",
-      "pitch": "Splitter"
-    },
-    "11": {
-      "player": "gavin sheets",
-      "pitcher": "shota imanaga",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "10": {
-      "player": "ryan ohearn",
-      "pitcher": "shota imanaga",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "9": {
-      "player": "kyle tucker",
-      "pitcher": "dylan cease",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "8": {
-      "player": "ian happ",
-      "pitcher": "dylan cease",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "7": {
-      "player": "nico hoerner",
-      "pitcher": "dylan cease",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
-    "6": {
-      "player": "michael busch",
-      "pitcher": "dylan cease",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "5": {
-      "player": "xander bogaerts",
-      "pitcher": "andrew kittredge",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
-    "4": {
-      "player": "jackson merrill",
-      "pitcher": "andrew kittredge",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
-    },
-    "3": {
-      "player": "manny machado",
-      "pitcher": "andrew kittredge",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
-    "2": {
-      "player": "luis arraez",
-      "pitcher": "andrew kittredge",
-      "result": "In play, no out",
-      "pitch": "Slider"
-    },
-    "1": {
-      "player": "fernando tatis",
-      "pitcher": "andrew kittredge",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    }
-  },
-  "bos @ nyy": {
-    "72": {
-      "player": "ceddanne rafaela",
-      "pitcher": "david bednar",
-      "result": "In play, out(s)",
       "pitch": "4-Seam Fastball"
     },
     "71": {
-      "player": "jarren duran",
-      "pitcher": "david bednar",
-      "result": "Called Strike",
-      "pitch": "4-Seam Fastball"
+      "player": "salvador perez",
+      "pitcher": "paxton schultz",
+      "result": "Single",
+      "pitch": "Slider"
     },
     "70": {
-      "player": "wilyer abreu",
-      "pitcher": "david bednar",
-      "result": "Swinging Strike",
+      "player": "michael massey",
+      "pitcher": "paxton schultz",
+      "result": "Groundout",
       "pitch": "4-Seam Fastball"
     },
     "69": {
-      "player": "trent grisham",
-      "pitcher": "payton tolle",
-      "result": "In play, out(s)",
+      "player": "lane thomas",
+      "pitcher": "paxton schultz",
+      "result": "Strike\u00a0BAT \u2716\u00a0Strike",
       "pitch": "4-Seam Fastball"
     },
     "68": {
-      "player": "ryan mcmahon",
-      "pitcher": "garrett whitlock",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "player": "luis garcia",
+      "pitcher": "john schreiber",
+      "result": "Groundout",
+      "pitch": "Changeup"
     },
     "67": {
-      "player": "anthony volpe",
-      "pitcher": "garrett whitlock",
-      "result": "In play, no out",
-      "pitch": "Slider"
+      "player": "james wood",
+      "pitcher": "john schreiber",
+      "result": "GIDP",
+      "pitch": "Sweeper"
     },
     "66": {
-      "player": "austin wells",
-      "pitcher": "garrett whitlock",
-      "result": "In play, run(s)",
-      "pitch": "Changeup"
+      "player": "nasim nunez",
+      "pitcher": "john schreiber",
+      "result": "Single",
+      "pitch": "Sweeper"
     },
     "65": {
-      "player": "jazz chisholm",
-      "pitcher": "garrett whitlock",
+      "player": "jac caglianone",
+      "pitcher": "pj poulin",
+      "result": "Flyout",
+      "pitch": "Sweeper"
+    },
+    "64": {
+      "player": "bobby witt",
+      "pitcher": "pj poulin",
       "result": "Ball",
       "pitch": "Sinker"
     },
-    "64": {
-      "player": "giancarlo stanton",
-      "pitcher": "garrett whitlock",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
     "63": {
-      "player": "ben rice",
-      "pitcher": "garrett whitlock",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "player": "carter jensen",
+      "pitcher": "pj poulin",
+      "result": "Double",
+      "pitch": "Sweeper"
     },
     "62": {
-      "player": "carlos narvaez",
-      "pitcher": "devin williams",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "player": "isaac collins",
+      "pitcher": "pj poulin",
+      "result": "Groundout",
+      "pitch": "Sinker"
     },
     "61": {
-      "player": "nathaniel lowe",
-      "pitcher": "devin williams",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "player": "nick loftin",
+      "pitcher": "pj poulin",
+      "result": "Groundout",
+      "pitch": "Sinker"
     },
     "60": {
-      "player": "alex bregman",
-      "pitcher": "devin williams",
-      "result": "In play, no out",
-      "pitch": "Changeup"
+      "player": "jose tena",
+      "pitcher": "lucas erceg",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "59": {
-      "player": "cody bellinger",
-      "pitcher": "garrett whitlock",
-      "result": "In play, out(s)",
+      "player": "keibert ruiz",
+      "pitcher": "lucas erceg",
+      "result": "Groundout",
       "pitch": "Slider"
     },
     "58": {
-      "player": "aaron judge",
-      "pitcher": "garrett whitlock",
-      "result": "Called Strike",
-      "pitch": "Sinker"
-    },
-    "57": {
-      "player": "trent grisham",
-      "pitcher": "garrett whitlock",
-      "result": "In play, no out",
+      "player": "daylen lile",
+      "pitcher": "lucas erceg",
+      "result": "Groundout",
       "pitch": "Changeup"
     },
+    "57": {
+      "player": "john rave",
+      "pitcher": "mitchell parker",
+      "result": "Flyout",
+      "pitch": "Curveball"
+    },
     "56": {
-      "player": "ryan mcmahon",
-      "pitcher": "garrett whitlock",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
+      "player": "salvador perez",
+      "pitcher": "mitchell parker",
+      "result": "Pop Out",
+      "pitch": "Curveball"
     },
     "55": {
-      "player": "trevor story",
-      "pitcher": "fernando cruz",
-      "result": "In play, out(s)",
+      "player": "michael massey",
+      "pitcher": "mitchell parker",
+      "result": "Sac Bunt",
       "pitch": "4-Seam Fastball"
     },
     "54": {
-      "player": "masataka yoshida",
-      "pitcher": "fernando cruz",
-      "result": "In play, no out",
+      "player": "lane thomas",
+      "pitcher": "mitchell parker",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "53": {
-      "player": "nick sogard",
-      "pitcher": "fernando cruz",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "player": "dylan crews",
+      "pitcher": "matt strahm",
+      "result": "Single",
+      "pitch": "Cutter"
     },
     "52": {
-      "player": "ceddanne rafaela",
-      "pitcher": "fernando cruz",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
+      "player": "cj abrams",
+      "pitcher": "matt strahm",
+      "result": "Double",
+      "pitch": "4-Seam Fastball"
     },
     "51": {
-      "player": "jarren duran",
-      "pitcher": "carlos rodon",
-      "result": "Hit By Pitch",
+      "player": "curtis mead",
+      "pitcher": "luinder avila",
+      "result": "Ball",
       "pitch": "4-Seam Fastball"
     },
     "50": {
-      "player": "nate eaton",
-      "pitcher": "carlos rodon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
-    "49": {
-      "player": "anthony volpe",
-      "pitcher": "zack kelly",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
-    },
-    "48": {
-      "player": "austin wells",
-      "pitcher": "steven matz",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
-    "47": {
-      "player": "jazz chisholm",
-      "pitcher": "steven matz",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
-    },
-    "46": {
-      "player": "giancarlo stanton",
-      "pitcher": "steven matz",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
-    "45": {
-      "player": "ben rice",
-      "pitcher": "steven matz",
-      "result": "In play, no out",
-      "pitch": "Sinker"
-    },
-    "44": {
-      "player": "carlos narvaez",
-      "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "43": {
-      "player": "romy gonzalez",
-      "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
-    },
-    "42": {
-      "player": "alex bregman",
-      "pitcher": "carlos rodon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
-    "41": {
-      "player": "trevor story",
-      "pitcher": "carlos rodon",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "40": {
-      "player": "cody bellinger",
-      "pitcher": "steven matz",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "39": {
-      "player": "aaron judge",
-      "pitcher": "justin slaten",
-      "result": "In play, run(s)",
-      "pitch": "Sweeper"
-    },
-    "38": {
-      "player": "trent grisham",
-      "pitcher": "justin slaten",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
-    "37": {
-      "player": "ryan mcmahon",
-      "pitcher": "justin slaten",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "36": {
-      "player": "anthony volpe",
-      "pitcher": "justin slaten",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
-    },
-    "35": {
-      "player": "rob refsnyder",
-      "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
+      "player": "luis garcia",
+      "pitcher": "luinder avila",
+      "result": "Lineout",
       "pitch": "Slider"
     },
-    "34": {
-      "player": "nick sogard",
-      "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
+    "49": {
+      "player": "james wood",
+      "pitcher": "luinder avila",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "48": {
+      "player": "jac caglianone",
+      "pitcher": "mitchell parker",
+      "result": "Double Play",
+      "pitch": "Slider"
+    },
+    "47": {
+      "player": "bobby witt",
+      "pitcher": "mitchell parker",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "46": {
+      "player": "carter jensen",
+      "pitcher": "mitchell parker",
+      "result": "Single",
+      "pitch": "Slider"
+    },
+    "45": {
+      "player": "isaac collins",
+      "pitcher": "mitchell parker",
+      "result": "Sac Bunt",
+      "pitch": "4-Seam Fastball"
+    },
+    "44": {
+      "player": "nick loftin",
+      "pitcher": "mitchell parker",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "43": {
+      "player": "john rave",
+      "pitcher": "mitchell parker",
+      "result": "Triple",
+      "pitch": "4-Seam Fastball"
+    },
+    "42": {
+      "player": "nasim nunez",
+      "pitcher": "luinder avila",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "41": {
+      "player": "jose tena",
+      "pitcher": "luinder avila",
+      "result": "Single",
       "pitch": "Changeup"
     },
+    "40": {
+      "player": "keibert ruiz",
+      "pitcher": "luinder avila",
+      "result": "Groundout",
+      "pitch": "Slider"
+    },
+    "39": {
+      "player": "daylen lile",
+      "pitcher": "luinder avila",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "38": {
+      "player": "salvador perez",
+      "pitcher": "zack littell",
+      "result": "Groundout",
+      "pitch": "Slider"
+    },
+    "37": {
+      "player": "michael massey",
+      "pitcher": "zack littell",
+      "result": "Groundout",
+      "pitch": "Slider"
+    },
+    "36": {
+      "player": "lane thomas",
+      "pitcher": "zack littell",
+      "result": "Pop Out",
+      "pitch": "Slider"
+    },
+    "35": {
+      "player": "dylan crews",
+      "pitcher": "luinder avila",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "34": {
+      "player": "cj abrams",
+      "pitcher": "luinder avila",
+      "result": "Flyout",
+      "pitch": "Slider"
+    },
     "33": {
-      "player": "ceddanne rafaela",
-      "pitcher": "carlos rodon",
-      "result": "Called Strike",
+      "player": "curtis mead",
+      "pitcher": "luinder avila",
+      "result": "Flyout",
       "pitch": "Slider"
     },
     "32": {
-      "player": "austin wells",
-      "pitcher": "justin wilson",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
+      "player": "jac caglianone",
+      "pitcher": "zack littell",
+      "result": "Called Strike",
+      "pitch": "Splitter"
     },
     "31": {
-      "player": "jazz chisholm",
-      "pitcher": "justin wilson",
-      "result": "In play, out(s)",
+      "player": "bobby witt",
+      "pitcher": "zack littell",
+      "result": "Flyout",
       "pitch": "4-Seam Fastball"
     },
     "30": {
-      "player": "giancarlo stanton",
-      "pitcher": "justin wilson",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "player": "carter jensen",
+      "pitcher": "zack littell",
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "29": {
-      "player": "jarren duran",
-      "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
+      "player": "isaac collins",
+      "pitcher": "zack littell",
+      "result": "Single",
+      "pitch": "Splitter"
     },
     "28": {
-      "player": "nate eaton",
-      "pitcher": "carlos rodon",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "player": "nick loftin",
+      "pitcher": "zack littell",
+      "result": "Lineout",
+      "pitch": "Splitter"
     },
     "27": {
-      "player": "carlos narvaez",
-      "pitcher": "carlos rodon",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "player": "luis garcia",
+      "pitcher": "luinder avila",
+      "result": "Lineout",
+      "pitch": "Slider"
     },
     "26": {
-      "player": "romy gonzalez",
-      "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "player": "james wood",
+      "pitcher": "luinder avila",
+      "result": "Groundout",
+      "pitch": "Changeup"
     },
     "25": {
-      "player": "ben rice",
-      "pitcher": "justin wilson",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "player": "nasim nunez",
+      "pitcher": "luinder avila",
+      "result": "Single",
+      "pitch": "Slider"
     },
     "24": {
-      "player": "cody bellinger",
-      "pitcher": "justin wilson",
-      "result": "In play, out(s)",
+      "player": "jose tena",
+      "pitcher": "luinder avila",
+      "result": "Swinging Strike",
       "pitch": "Slider"
     },
     "23": {
-      "player": "aaron judge",
-      "pitcher": "brayan bello",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "player": "keibert ruiz",
+      "pitcher": "luinder avila",
+      "result": "Single",
+      "pitch": "Changeup"
     },
     "22": {
-      "player": "trent grisham",
-      "pitcher": "brayan bello",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "player": "john rave",
+      "pitcher": "zack littell",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
     },
     "21": {
-      "player": "ryan mcmahon",
-      "pitcher": "brayan bello",
-      "result": "In play, no out",
-      "pitch": "Changeup"
+      "player": "salvador perez",
+      "pitcher": "zack littell",
+      "result": "Pop Out",
+      "pitch": "Splitter"
     },
     "20": {
-      "player": "alex bregman",
-      "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "player": "michael massey",
+      "pitcher": "zack littell",
+      "result": "Home Run",
+      "pitch": "Slider"
     },
     "19": {
-      "player": "trevor story",
-      "pitcher": "carlos rodon",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "player": "lane thomas",
+      "pitcher": "zack littell",
+      "result": "Home Run",
+      "pitch": "4-Seam Fastball"
     },
     "18": {
-      "player": "rob refsnyder",
-      "pitcher": "carlos rodon",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "player": "jac caglianone",
+      "pitcher": "zack littell",
+      "result": "Lineout",
+      "pitch": "Splitter"
     },
     "17": {
-      "player": "nick sogard",
-      "pitcher": "carlos rodon",
-      "result": "In play, no out",
-      "pitch": "Slider"
+      "player": "daylen lile",
+      "pitcher": "luinder avila",
+      "result": "Groundout",
+      "pitch": "Changeup"
     },
     "16": {
-      "player": "ceddanne rafaela",
-      "pitcher": "carlos rodon",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "player": "dylan crews",
+      "pitcher": "luinder avila",
+      "result": "Flyout",
+      "pitch": "Slider"
     },
     "15": {
-      "player": "jarren duran",
-      "pitcher": "carlos rodon",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "player": "cj abrams",
+      "pitcher": "luinder avila",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "14": {
-      "player": "anthony volpe",
-      "pitcher": "brayan bello",
-      "result": "In play, out(s)",
+      "player": "bobby witt",
+      "pitcher": "zack littell",
+      "result": "Pop Out",
       "pitch": "Sinker"
     },
     "13": {
-      "player": "austin wells",
-      "pitcher": "brayan bello",
-      "result": "Ball",
-      "pitch": "Sinker"
+      "player": "carter jensen",
+      "pitcher": "zack littell",
+      "result": "Single",
+      "pitch": "Sweeper"
     },
     "12": {
-      "player": "jazz chisholm",
-      "pitcher": "brayan bello",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "player": "isaac collins",
+      "pitcher": "zack littell",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
     },
     "11": {
-      "player": "nate eaton",
-      "pitcher": "carlos rodon",
-      "result": "Swinging Strike",
-      "pitch": "Changeup"
+      "player": "nick loftin",
+      "pitcher": "zack littell",
+      "result": "Ball",
+      "pitch": "Slider"
     },
     "10": {
-      "player": "carlos narvaez",
-      "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
+      "player": "john rave",
+      "pitcher": "zack littell",
+      "result": "Home Run",
       "pitch": "4-Seam Fastball"
     },
     "9": {
-      "player": "romy gonzalez",
-      "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "player": "salvador perez",
+      "pitcher": "zack littell",
+      "result": "Flyout",
+      "pitch": "Sweeper"
     },
     "8": {
-      "player": "giancarlo stanton",
-      "pitcher": "brayan bello",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "player": "curtis mead",
+      "pitcher": "luinder avila",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "7": {
-      "player": "ben rice",
-      "pitcher": "brayan bello",
-      "result": "In play, run(s)",
-      "pitch": "Cutter"
+      "player": "luis garcia",
+      "pitcher": "luinder avila",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
     },
     "6": {
-      "player": "cody bellinger",
-      "pitcher": "brayan bello",
-      "result": "In play, no out",
-      "pitch": "Sinker"
+      "player": "james wood",
+      "pitcher": "luinder avila",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "5": {
-      "player": "aaron judge",
-      "pitcher": "brayan bello",
-      "result": "In play, out(s)",
-      "pitch": "Sweeper"
+      "player": "michael massey",
+      "pitcher": "zack littell",
+      "result": "Flyout",
+      "pitch": "Splitter"
     },
     "4": {
-      "player": "trent grisham",
-      "pitcher": "brayan bello",
-      "result": "In play, out(s)",
+      "player": "lane thomas",
+      "pitcher": "zack littell",
+      "result": "Lineout",
       "pitch": "Sinker"
     },
     "3": {
-      "player": "alex bregman",
-      "pitcher": "carlos rodon",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "player": "jac caglianone",
+      "pitcher": "zack littell",
+      "result": "Single",
+      "pitch": "Slider"
     },
     "2": {
-      "player": "trevor story",
-      "pitcher": "carlos rodon",
-      "result": "Swinging Strike",
+      "player": "bobby witt",
+      "pitcher": "zack littell",
+      "result": "Groundout",
       "pitch": "Slider"
     },
     "1": {
-      "player": "rob refsnyder",
-      "pitcher": "carlos rodon",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
+      "player": "carter jensen",
+      "pitcher": "zack littell",
+      "result": "Home Run",
+      "pitch": "Splitter"
     }
   },
-  "cin @ lad": {
+  "mia @ phi": {
+    "85": {
+      "player": "rafael marchan",
+      "pitcher": "john king",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "84": {
+      "player": "trea turner",
+      "pitcher": "john king",
+      "result": "Double",
+      "pitch": "Sinker"
+    },
+    "83": {
+      "player": "garrett stubbs",
+      "pitcher": "john king",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
+    "82": {
+      "player": "justin crawford",
+      "pitcher": "john king",
+      "result": "Lineout",
+      "pitch": "Changeup"
+    },
+    "81": {
+      "player": "liam hicks",
+      "pitcher": "garrett stubbs",
+      "result": "Flyout",
+      "pitch": "Eephus"
+    },
+    "80": {
+      "player": "esteury ruiz",
+      "pitcher": "chase shugart",
+      "result": "Single",
+      "pitch": "Sweeper"
+    },
+    "79": {
+      "player": "joe mack",
+      "pitcher": "chase shugart",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
     "78": {
-      "player": "max muncy",
-      "pitcher": "chase burns",
-      "result": "In play, out(s)",
+      "player": "jakob marsee",
+      "pitcher": "chase shugart",
+      "result": "Home Run",
+      "pitch": "Sinker"
+    },
+    "77": {
+      "player": "owen caissie",
+      "pitcher": "chase shugart",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "76": {
+      "player": "gabriel rincones",
+      "pitcher": "tyler zuber",
+      "result": "GIDP",
+      "pitch": "4-Seam Fastball"
+    },
+    "75": {
+      "player": "bryson stott",
+      "pitcher": "tyler zuber",
+      "result": "Single",
+      "pitch": "Slider"
+    },
+    "74": {
+      "player": "alec bohm",
+      "pitcher": "tyler zuber",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
+    "73": {
+      "player": "javier sanoja",
+      "pitcher": "orion kerkering",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "72": {
+      "player": "xavier edwards",
+      "pitcher": "orion kerkering",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
+    "71": {
+      "player": "kyle stowers",
+      "pitcher": "orion kerkering",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "70": {
+      "player": "otto lopez",
+      "pitcher": "orion kerkering",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "69": {
+      "player": "liam hicks",
+      "pitcher": "orion kerkering",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "68": {
+      "player": "esteury ruiz",
+      "pitcher": "orion kerkering",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
+    "67": {
+      "player": "joe mack",
+      "pitcher": "orion kerkering",
+      "result": "Hit By Pitch",
+      "pitch": "Sweeper"
+    },
+    "66": {
+      "player": "brandon marsh",
+      "pitcher": "michael petersen",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "65": {
+      "player": "bryce harper",
+      "pitcher": "michael petersen",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "64": {
+      "player": "kyle schwarber",
+      "pitcher": "michael petersen",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "63": {
+      "player": "jakob marsee",
+      "pitcher": "max lazar",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
+    "62": {
+      "player": "owen caissie",
+      "pitcher": "max lazar",
+      "result": "Groundout",
+      "pitch": "Splitter"
+    },
+    "61": {
+      "player": "javier sanoja",
+      "pitcher": "max lazar",
+      "result": "Lineout",
+      "pitch": "Knuckle Curve"
+    },
+    "60": {
+      "player": "trea turner",
+      "pitcher": "sandy alcantara",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
+    "59": {
+      "player": "garrett stubbs",
+      "pitcher": "sandy alcantara",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "58": {
+      "player": "justin crawford",
+      "pitcher": "sandy alcantara",
+      "result": "Lineout",
+      "pitch": "Cutter"
+    },
+    "57": {
+      "player": "xavier edwards",
+      "pitcher": "tanner banks",
+      "result": "Lineout",
+      "pitch": "Sweeper"
+    },
+    "56": {
+      "player": "kyle stowers",
+      "pitcher": "tanner banks",
+      "result": "Home Run",
+      "pitch": "Slider"
+    },
+    "55": {
+      "player": "otto lopez",
+      "pitcher": "tanner banks",
+      "result": "Sac Fly",
+      "pitch": "Changeup"
+    },
+    "54": {
+      "player": "liam hicks",
+      "pitcher": "tanner banks",
+      "result": "Sac Bunt",
+      "pitch": "Slider"
+    },
+    "53": {
+      "player": "esteury ruiz",
+      "pitcher": "tanner banks",
+      "result": "Double",
+      "pitch": "Slider"
+    },
+    "52": {
+      "player": "joe mack",
+      "pitcher": "tanner banks",
+      "result": "Home Run",
+      "pitch": "4-Seam Fastball"
+    },
+    "51": {
+      "player": "jakob marsee",
+      "pitcher": "tanner banks",
+      "result": "Field Error",
+      "pitch": "Sinker"
+    },
+    "50": {
+      "player": "gabriel rincones",
+      "pitcher": "sandy alcantara",
+      "result": "Pop Out",
+      "pitch": "Cutter"
+    },
+    "49": {
+      "player": "bryson stott",
+      "pitcher": "sandy alcantara",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "48": {
+      "player": "alec bohm",
+      "pitcher": "sandy alcantara",
+      "result": "Single",
+      "pitch": "Cutter"
+    },
+    "47": {
+      "player": "brandon marsh",
+      "pitcher": "sandy alcantara",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
+    "46": {
+      "player": "jakob marsee",
+      "pitcher": "jonathan bowlan",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "45": {
+      "player": "owen caissie",
+      "pitcher": "jonathan bowlan",
+      "result": "Forceout",
+      "pitch": "Slider"
+    },
+    "44": {
+      "player": "javier sanoja",
+      "pitcher": "jonathan bowlan",
+      "result": "Field Error",
+      "pitch": "Sinker"
+    },
+    "43": {
+      "player": "xavier edwards",
+      "pitcher": "jonathan bowlan",
+      "result": "Flyout",
+      "pitch": "Slider"
+    },
+    "42": {
+      "player": "bryce harper",
+      "pitcher": "sandy alcantara",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
+    "41": {
+      "player": "kyle schwarber",
+      "pitcher": "sandy alcantara",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "40": {
+      "player": "trea turner",
+      "pitcher": "sandy alcantara",
+      "result": "Groundout",
+      "pitch": "Sweeper"
+    },
+    "39": {
+      "player": "kyle stowers",
+      "pitcher": "tim mayza",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
+    "38": {
+      "player": "otto lopez",
+      "pitcher": "tim mayza",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "37": {
+      "player": "liam hicks",
+      "pitcher": "tim mayza",
+      "result": "Called Strike",
+      "pitch": "Sinker"
+    },
+    "36": {
+      "player": "garrett stubbs",
+      "pitcher": "sandy alcantara",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "35": {
+      "player": "justin crawford",
+      "pitcher": "sandy alcantara",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "34": {
+      "player": "gabriel rincones",
+      "pitcher": "sandy alcantara",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "33": {
+      "player": "bryson stott",
+      "pitcher": "sandy alcantara",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "32": {
+      "player": "esteury ruiz",
+      "pitcher": "tim mayza",
+      "result": "Pop Out",
+      "pitch": "Slider"
+    },
+    "31": {
+      "player": "joe mack",
+      "pitcher": "tim mayza",
+      "result": "Single",
+      "pitch": "Slider"
+    },
+    "30": {
+      "player": "jakob marsee",
+      "pitcher": "tim mayza",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "29": {
+      "player": "owen caissie",
+      "pitcher": "tim mayza",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
+    "28": {
+      "player": "alec bohm",
+      "pitcher": "sandy alcantara",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "27": {
+      "player": "brandon marsh",
+      "pitcher": "sandy alcantara",
+      "result": "Lineout",
+      "pitch": "Changeup"
+    },
+    "26": {
+      "player": "bryce harper",
+      "pitcher": "sandy alcantara",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "25": {
+      "player": "kyle schwarber",
+      "pitcher": "sandy alcantara",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
+    "24": {
+      "player": "trea turner",
+      "pitcher": "sandy alcantara",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "23": {
+      "player": "garrett stubbs",
+      "pitcher": "sandy alcantara",
+      "result": "Fielders Choice",
+      "pitch": "Changeup"
+    },
+    "22": {
+      "player": "justin crawford",
+      "pitcher": "sandy alcantara",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "21": {
+      "player": "javier sanoja",
+      "pitcher": "andrew painter",
+      "result": "Pop Out",
+      "pitch": "Slider"
+    },
+    "20": {
+      "player": "xavier edwards",
+      "pitcher": "andrew painter",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "19": {
+      "player": "kyle stowers",
+      "pitcher": "andrew painter",
+      "result": "Double",
+      "pitch": "4-Seam Fastball"
+    },
+    "18": {
+      "player": "otto lopez",
+      "pitcher": "andrew painter",
+      "result": "Flyout",
+      "pitch": "Splitter"
+    },
+    "17": {
+      "player": "liam hicks",
+      "pitcher": "andrew painter",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "16": {
+      "player": "esteury ruiz",
+      "pitcher": "andrew painter",
+      "result": "Double",
+      "pitch": "Sweeper"
+    },
+    "15": {
+      "player": "joe mack",
+      "pitcher": "andrew painter",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
+    "14": {
+      "player": "jakob marsee",
+      "pitcher": "andrew painter",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "13": {
+      "player": "owen caissie",
+      "pitcher": "andrew painter",
+      "result": "Home Run",
+      "pitch": "4-Seam Fastball"
+    },
+    "12": {
+      "player": "gabriel rincones",
+      "pitcher": "sandy alcantara",
+      "result": "Groundout",
+      "pitch": "Cutter"
+    },
+    "11": {
+      "player": "bryson stott",
+      "pitcher": "sandy alcantara",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "10": {
+      "player": "alec bohm",
+      "pitcher": "sandy alcantara",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "9": {
+      "player": "brandon marsh",
+      "pitcher": "sandy alcantara",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "8": {
+      "player": "bryce harper",
+      "pitcher": "sandy alcantara",
+      "result": "Single",
+      "pitch": "Sweeper"
+    },
+    "7": {
+      "player": "kyle schwarber",
+      "pitcher": "sandy alcantara",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
+    "6": {
+      "player": "trea turner",
+      "pitcher": "sandy alcantara",
+      "result": "Single",
+      "pitch": "Cutter"
+    },
+    "5": {
+      "player": "javier sanoja",
+      "pitcher": "andrew painter",
+      "result": "Groundout",
+      "pitch": "Sweeper"
+    },
+    "4": {
+      "player": "xavier edwards",
+      "pitcher": "andrew painter",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "3": {
+      "player": "kyle stowers",
+      "pitcher": "andrew painter",
+      "result": "Home Run",
+      "pitch": "4-Seam Fastball"
+    },
+    "2": {
+      "player": "otto lopez",
+      "pitcher": "andrew painter",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "1": {
+      "player": "liam hicks",
+      "pitcher": "andrew painter",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    }
+  },
+  "sf @ atl": {
+    "78": {
+      "player": "eli white",
+      "pitcher": "caleb kilian",
+      "result": "Swinging Strike",
       "pitch": "4-Seam Fastball"
     },
     "77": {
-      "player": "tj friedl",
-      "pitcher": "alex vesia",
-      "result": "Called Strike",
-      "pitch": "Slider"
+      "player": "drake baldwin",
+      "pitcher": "caleb kilian",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "76": {
-      "player": "matt mclain",
-      "pitcher": "alex vesia",
+      "player": "ha seong kim",
+      "pitcher": "dylan smith",
       "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "pitch": "Sinker"
     },
     "75": {
-      "player": "miguel andujar",
-      "pitcher": "alex vesia",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
+      "player": "mike yastrzemski",
+      "pitcher": "dylan smith",
+      "result": "Single",
+      "pitch": "Sweeper"
     },
     "74": {
-      "player": "tyler stephenson",
-      "pitcher": "emmet sheehan",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
+      "player": "austin riley",
+      "pitcher": "dylan smith",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
     },
     "73": {
-      "player": "elly de la cruz",
-      "pitcher": "emmet sheehan",
-      "result": "Ball",
+      "player": "rafael devers",
+      "pitcher": "anthony molina",
+      "result": "Flyout",
       "pitch": "4-Seam Fastball"
     },
     "72": {
-      "player": "sal stewart",
-      "pitcher": "emmet sheehan",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
+      "player": "matt chapman",
+      "pitcher": "anthony molina",
+      "result": "Forceout",
+      "pitch": "4-Seam Fastball"
     },
     "71": {
-      "player": "austin hays",
-      "pitcher": "emmet sheehan",
-      "result": "Ball",
-      "pitch": "Slider"
-    },
-    "70": {
-      "player": "gavin lux",
-      "pitcher": "emmet sheehan",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
-    "69": {
-      "player": "teoscar hernandez",
-      "pitcher": "chase burns",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
-    "68": {
-      "player": "freddie freeman",
-      "pitcher": "chase burns",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "67": {
-      "player": "mookie betts",
-      "pitcher": "tony santillan",
-      "result": "In play, run(s)",
-      "pitch": "Slurve"
-    },
-    "65": {
-      "player": "ben rortvedt",
-      "pitcher": "tony santillan",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "64": {
-      "player": "miguel rojas",
-      "pitcher": "tony santillan",
-      "result": "In play, no out",
-      "pitch": "Slurve"
-    },
-    "63": {
-      "player": "spencer steer",
-      "pitcher": "blake treinen",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "62": {
-      "player": "tj friedl",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
-    },
-    "61": {
-      "player": "matt mclain",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "Called Strike",
+      "player": "bryce eldridge",
+      "pitcher": "anthony molina",
+      "result": "Single",
       "pitch": "Curveball"
     },
-    "60": {
-      "player": "will benson",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "Ball",
+    "70": {
+      "player": "luis arraez",
+      "pitcher": "anthony molina",
+      "result": "Single",
+      "pitch": "Curveball"
+    },
+    "69": {
+      "player": "daniel susac",
+      "pitcher": "anthony molina",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "68": {
+      "player": "mauricio dubon",
+      "pitcher": "dylan smith",
+      "result": "Lineout",
+      "pitch": "Sinker"
+    },
+    "67": {
+      "player": "dominic smith",
+      "pitcher": "dylan smith",
+      "result": "Single",
       "pitch": "4-Seam Fastball"
+    },
+    "66": {
+      "player": "ozzie albies",
+      "pitcher": "dylan smith",
+      "result": "Flyout",
+      "pitch": "Sweeper"
+    },
+    "65": {
+      "player": "matt olson",
+      "pitcher": "robbie ray",
+      "result": "Single",
+      "pitch": "Knuckle Curve"
+    },
+    "64": {
+      "player": "eli white",
+      "pitcher": "robbie ray",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "63": {
+      "player": "drew gilbert",
+      "pitcher": "anthony molina",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "62": {
+      "player": "casey schmitt",
+      "pitcher": "anthony molina",
+      "result": "Lineout",
+      "pitch": "Slider"
+    },
+    "61": {
+      "player": "willy adames",
+      "pitcher": "anthony molina",
+      "result": "Home Run",
+      "pitch": "4-Seam Fastball"
+    },
+    "60": {
+      "player": "jung hoo lee",
+      "pitcher": "anthony molina",
+      "result": "Flyout",
+      "pitch": "Curveball"
     },
     "59": {
-      "player": "tyler stephenson",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "player": "drake baldwin",
+      "pitcher": "robbie ray",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "58": {
-      "player": "enrique hernandez",
-      "pitcher": "tony santillan",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "player": "ha seong kim",
+      "pitcher": "robbie ray",
+      "result": "Flyout",
+      "pitch": "Changeup"
     },
     "57": {
-      "player": "andy pages",
-      "pitcher": "tony santillan",
-      "result": "In play, out(s)",
-      "pitch": "Slurve"
+      "player": "mike yastrzemski",
+      "pitcher": "robbie ray",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "56": {
-      "player": "max muncy",
-      "pitcher": "tony santillan",
-      "result": "Ball",
-      "pitch": "4-Seam Fastball"
+      "player": "austin riley",
+      "pitcher": "robbie ray",
+      "result": "Double",
+      "pitch": "Sinker"
     },
     "55": {
-      "player": "teoscar hernandez",
-      "pitcher": "nick martinez",
-      "result": "In play, run(s)",
-      "pitch": "Sinker"
+      "player": "rafael devers",
+      "pitcher": "reynaldo lopez",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "54": {
+      "player": "matt chapman",
+      "pitcher": "reynaldo lopez",
+      "result": "Groundout",
+      "pitch": "Slider"
     },
     "53": {
-      "player": "mookie betts",
-      "pitcher": "nick martinez",
-      "result": "In play, run(s)",
-      "pitch": "Sinker"
+      "player": "bryce eldridge",
+      "pitcher": "reynaldo lopez",
+      "result": "Groundout",
+      "pitch": "Curveball"
     },
     "52": {
-      "player": "shohei ohtani",
-      "pitcher": "nick martinez",
-      "result": "In play, run(s)",
+      "player": "mauricio dubon",
+      "pitcher": "robbie ray",
+      "result": "Groundout",
       "pitch": "Changeup"
     },
     "51": {
-      "player": "ben rortvedt",
-      "pitcher": "nick martinez",
-      "result": "In play, no out",
-      "pitch": "Cutter"
+      "player": "dominic smith",
+      "pitcher": "robbie ray",
+      "result": "Swinging Strike",
+      "pitch": "Knuckle Curve"
     },
     "50": {
-      "player": "miguel rojas",
-      "pitcher": "nick martinez",
-      "result": "In play, out(s)",
+      "player": "ozzie albies",
+      "pitcher": "robbie ray",
+      "result": "Lineout",
       "pitch": "Sinker"
     },
     "49": {
-      "player": "enrique hernandez",
-      "pitcher": "nick martinez",
-      "result": "In play, no out",
-      "pitch": "Cutter"
+      "player": "luis arraez",
+      "pitcher": "reynaldo lopez",
+      "result": "Flyout",
+      "pitch": "Curveball"
     },
     "48": {
-      "player": "elly de la cruz",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "player": "daniel susac",
+      "pitcher": "reynaldo lopez",
+      "result": "Flyout",
+      "pitch": "Slider"
     },
     "47": {
-      "player": "sal stewart",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "player": "drew gilbert",
+      "pitcher": "reynaldo lopez",
+      "result": "Lineout",
+      "pitch": "Slider"
     },
     "46": {
-      "player": "austin hays",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, out(s)",
-      "pitch": "Cutter"
+      "player": "casey schmitt",
+      "pitcher": "reynaldo lopez",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
     },
     "45": {
-      "player": "gavin lux",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, no out",
-      "pitch": "Curveball"
+      "player": "matt olson",
+      "pitcher": "robbie ray",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
     },
     "44": {
-      "player": "spencer steer",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, no out",
-      "pitch": "Splitter"
+      "player": "eli white",
+      "pitcher": "robbie ray",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "43": {
-      "player": "tj friedl",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, no out",
-      "pitch": "Curveball"
+      "player": "drake baldwin",
+      "pitcher": "robbie ray",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
     },
     "42": {
-      "player": "andy pages",
-      "pitcher": "nick lodolo",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "player": "ha seong kim",
+      "pitcher": "robbie ray",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     },
     "41": {
-      "player": "max muncy",
-      "pitcher": "nick lodolo",
-      "result": "Hit By Pitch",
-      "pitch": "Curveball"
+      "player": "willy adames",
+      "pitcher": "dylan dodd",
+      "result": "Pop Out",
+      "pitch": "Cutter"
     },
     "40": {
-      "player": "teoscar hernandez",
-      "pitcher": "nick lodolo",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "player": "jung hoo lee",
+      "pitcher": "dylan dodd",
+      "result": "Home Run",
+      "pitch": "Sinker"
     },
     "39": {
-      "player": "freddie freeman",
-      "pitcher": "nick lodolo",
-      "result": "In play, out(s)",
+      "player": "rafael devers",
+      "pitcher": "dylan dodd",
+      "result": "Home Run",
       "pitch": "Sinker"
     },
     "38": {
-      "player": "matt mclain",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "Foul Tip",
-      "pitch": "4-Seam Fastball"
+      "player": "matt chapman",
+      "pitcher": "dylan dodd",
+      "result": "Flyout",
+      "pitch": "Sinker"
     },
     "37": {
-      "player": "kebryan hayes",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
+      "player": "bryce eldridge",
+      "pitcher": "dylan dodd",
+      "result": "Groundout",
+      "pitch": "Sinker"
     },
     "36": {
-      "player": "tyler stephenson",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
+      "player": "mike yastrzemski",
+      "pitcher": "robbie ray",
+      "result": "Called Strike",
+      "pitch": "Sinker"
     },
     "35": {
-      "player": "mookie betts",
-      "pitcher": "nick lodolo",
-      "result": "In play, out(s)",
-      "pitch": "Changeup"
+      "player": "austin riley",
+      "pitcher": "robbie ray",
+      "result": "Groundout",
+      "pitch": "Sinker"
     },
     "34": {
-      "player": "shohei ohtani",
-      "pitcher": "nick lodolo",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
+      "player": "mauricio dubon",
+      "pitcher": "robbie ray",
+      "result": "Flyout",
+      "pitch": "Changeup"
     },
     "33": {
-      "player": "ben rortvedt",
-      "pitcher": "nick lodolo",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
+      "player": "luis arraez",
+      "pitcher": "dylan dodd",
+      "result": "Groundout",
+      "pitch": "Sinker"
     },
     "32": {
-      "player": "miguel rojas",
-      "pitcher": "zack littell",
-      "result": "In play, run(s)",
-      "pitch": "Splitter"
+      "player": "daniel susac",
+      "pitcher": "dylan dodd",
+      "result": "Lineout",
+      "pitch": "Sinker"
     },
     "31": {
-      "player": "enrique hernandez",
-      "pitcher": "zack littell",
-      "result": "In play, run(s)",
-      "pitch": "4-Seam Fastball"
+      "player": "drew gilbert",
+      "pitcher": "dylan dodd",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
     },
     "30": {
-      "player": "andy pages",
-      "pitcher": "zack littell",
+      "player": "dominic smith",
+      "pitcher": "robbie ray",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "29": {
+      "player": "ozzie albies",
+      "pitcher": "robbie ray",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "28": {
+      "player": "matt olson",
+      "pitcher": "robbie ray",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "27": {
+      "player": "eli white",
+      "pitcher": "robbie ray",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "26": {
+      "player": "casey schmitt",
+      "pitcher": "james karinchak",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "25": {
+      "player": "willy adames",
+      "pitcher": "james karinchak",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "24": {
+      "player": "jung hoo lee",
+      "pitcher": "james karinchak",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "23": {
+      "player": "drake baldwin",
+      "pitcher": "robbie ray",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "22": {
+      "player": "ha seong kim",
+      "pitcher": "robbie ray",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "21": {
+      "player": "mike yastrzemski",
+      "pitcher": "robbie ray",
+      "result": "Called Strike",
+      "pitch": "Slider"
+    },
+    "20": {
+      "player": "rafael devers",
+      "pitcher": "grant holmes",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "19": {
+      "player": "matt chapman",
+      "pitcher": "grant holmes",
+      "result": "Sac Fly",
+      "pitch": "Sinker"
+    },
+    "18": {
+      "player": "bryce eldridge",
+      "pitcher": "grant holmes",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
+    "17": {
+      "player": "luis arraez",
+      "pitcher": "grant holmes",
+      "result": "Single",
+      "pitch": "Slider"
+    },
+    "16": {
+      "player": "daniel susac",
+      "pitcher": "grant holmes",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "15": {
+      "player": "drew gilbert",
+      "pitcher": "grant holmes",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "14": {
+      "player": "casey schmitt",
+      "pitcher": "grant holmes",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "13": {
+      "player": "austin riley",
+      "pitcher": "adrian houser",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "12": {
+      "player": "mauricio dubon",
+      "pitcher": "adrian houser",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "11": {
+      "player": "dominic smith",
+      "pitcher": "adrian houser",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "10": {
+      "player": "ozzie albies",
+      "pitcher": "adrian houser",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "9": {
+      "player": "matt olson",
+      "pitcher": "adrian houser",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "8": {
+      "player": "michael harris",
+      "pitcher": "adrian houser",
+      "result": "Single",
+      "pitch": "Slider"
+    },
+    "7": {
+      "player": "drake baldwin",
+      "pitcher": "adrian houser",
+      "result": "Home Run",
+      "pitch": "Sinker"
+    },
+    "6": {
+      "player": "willy adames",
+      "pitcher": "grant holmes",
       "result": "Foul Tip",
       "pitch": "Slider"
     },
-    "29": {
-      "player": "max muncy",
-      "pitcher": "zack littell",
-      "result": "In play, no out",
-      "pitch": "Splitter"
-    },
-    "28": {
-      "player": "elly de la cruz",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, out(s)",
-      "pitch": "Curveball"
-    },
-    "27": {
-      "player": "sal stewart",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "26": {
-      "player": "austin hays",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "25": {
-      "player": "teoscar hernandez",
-      "pitcher": "zack littell",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "24": {
-      "player": "freddie freeman",
-      "pitcher": "zack littell",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
-    "23": {
-      "player": "mookie betts",
-      "pitcher": "zack littell",
-      "result": "In play, run(s)",
-      "pitch": "Slider"
-    },
-    "22": {
-      "player": "shohei ohtani",
-      "pitcher": "zack littell",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
-    "21": {
-      "player": "ben rortvedt",
-      "pitcher": "zack littell",
-      "result": "In play, no out",
-      "pitch": "4-Seam Fastball"
-    },
-    "20": {
-      "player": "gavin lux",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "19": {
-      "player": "spencer steer",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "18": {
-      "player": "tj friedl",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "17": {
-      "player": "miguel rojas",
-      "pitcher": "zack littell",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "16": {
-      "player": "enrique hernandez",
-      "pitcher": "zack littell",
-      "result": "In play, out(s)",
-      "pitch": "Sinker"
-    },
-    "15": {
-      "player": "andy pages",
-      "pitcher": "zack littell",
-      "result": "Hit By Pitch",
-      "pitch": "Sinker"
-    },
-    "14": {
-      "player": "max muncy",
-      "pitcher": "zack littell",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
-    "13": {
-      "player": "matt mclain",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "Swinging Strike",
-      "pitch": "Sinker"
-    },
-    "12": {
-      "player": "kebryan hayes",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, out(s)",
-      "pitch": "4-Seam Fastball"
-    },
-    "11": {
-      "player": "tyler stephenson",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "Swinging Strike",
-      "pitch": "4-Seam Fastball"
-    },
-    "10": {
-      "player": "teoscar hernandez",
-      "pitcher": "zack littell",
-      "result": "In play, out(s)",
-      "pitch": "Slider"
-    },
-    "9": {
-      "player": "freddie freeman",
-      "pitcher": "zack littell",
-      "result": "Swinging Strike",
-      "pitch": "Slider"
-    },
-    "8": {
-      "player": "mookie betts",
-      "pitcher": "zack littell",
-      "result": "In play, no out",
-      "pitch": "Splitter"
-    },
-    "7": {
-      "player": "shohei ohtani",
-      "pitcher": "zack littell",
-      "result": "In play, out(s)",
-      "pitch": "Splitter"
-    },
-    "6": {
-      "player": "elly de la cruz",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "Swinging Strike",
-      "pitch": "Curveball"
-    },
     "5": {
-      "player": "sal stewart",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, run(s)",
-      "pitch": "Splitter"
+      "player": "jung hoo lee",
+      "pitcher": "grant holmes",
+      "result": "Sac Fly",
+      "pitch": "4-Seam Fastball"
     },
     "4": {
-      "player": "austin hays",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, no out",
-      "pitch": "Slider"
+      "player": "rafael devers",
+      "pitcher": "grant holmes",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
     },
     "3": {
-      "player": "gavin lux",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, out(s)",
+      "player": "matt chapman",
+      "pitcher": "grant holmes",
+      "result": "Flyout",
       "pitch": "4-Seam Fastball"
     },
     "2": {
-      "player": "spencer steer",
-      "pitcher": "yoshinobu yamamoto",
+      "player": "bryce eldridge",
+      "pitcher": "grant holmes",
+      "result": "Single",
+      "pitch": "Slider"
+    },
+    "1": {
+      "player": "luis arraez",
+      "pitcher": "grant holmes",
+      "result": "Double",
+      "pitch": "Curveball"
+    }
+  },
+  "det @ hou": {
+    "66": {
+      "player": "spencer torkelson",
+      "pitcher": "josh hader",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
+    "65": {
+      "player": "riley greene",
+      "pitcher": "josh hader",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "64": {
+      "player": "dillon dingler",
+      "pitcher": "josh hader",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "63": {
+      "player": "kevin mcgonigle",
+      "pitcher": "josh hader",
+      "result": "Home Run",
+      "pitch": "Sinker"
+    },
+    "62": {
+      "player": "jake meyers",
+      "pitcher": "jacob waguespack",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "61": {
+      "player": "joey loperfido",
+      "pitcher": "jacob waguespack",
+      "result": "Pop Out",
+      "pitch": "Changeup"
+    },
+    "60": {
+      "player": "cam smith",
+      "pitcher": "jacob waguespack",
+      "result": "Lineout",
+      "pitch": "Cutter"
+    },
+    "59": {
+      "player": "jake rogers",
+      "pitcher": "enyel de los santos",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "58": {
+      "player": "hao yu  lee",
+      "pitcher": "enyel de los santos",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "57": {
+      "player": "matt vierling",
+      "pitcher": "enyel de los santos",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "56": {
+      "player": "jose altuve",
+      "pitcher": "jacob waguespack",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "55": {
+      "player": "isaac paredes",
+      "pitcher": "jacob waguespack",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "54": {
+      "player": "christian walker",
+      "pitcher": "jacob waguespack",
+      "result": "Groundout",
+      "pitch": "Cutter"
+    },
+    "53": {
+      "player": "colt keith",
+      "pitcher": "peter lambert",
+      "result": "Flyout",
+      "pitch": "Cutter"
+    },
+    "52": {
+      "player": "kerry carpenter",
+      "pitcher": "peter lambert",
+      "result": "Home Run",
+      "pitch": "4-Seam Fastball"
+    },
+    "51": {
+      "player": "spencer torkelson",
+      "pitcher": "peter lambert",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "50": {
+      "player": "riley greene",
+      "pitcher": "peter lambert",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "49": {
+      "player": "yordan alvarez",
+      "pitcher": "drew sommers",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "48": {
+      "player": "jeremy pena",
+      "pitcher": "kyle finnegan",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "47": {
+      "player": "christian vazquez",
+      "pitcher": "kyle finnegan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "46": {
+      "player": "jake meyers",
+      "pitcher": "kyle finnegan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "45": {
+      "player": "joey loperfido",
+      "pitcher": "kyle finnegan",
+      "result": "Double",
+      "pitch": "4-Seam Fastball"
+    },
+    "44": {
+      "player": "cam smith",
+      "pitcher": "kyle finnegan",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "43": {
+      "player": "dillon dingler",
+      "pitcher": "peter lambert",
+      "result": "Flyout",
+      "pitch": "Cutter"
+    },
+    "42": {
+      "player": "kevin mcgonigle",
+      "pitcher": "peter lambert",
+      "result": "Groundout",
+      "pitch": "Cutter"
+    },
+    "41": {
+      "player": "jake rogers",
+      "pitcher": "peter lambert",
+      "result": "Ball\u00a0CAT \u21ba\u00a0Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "40": {
+      "player": "jose altuve",
+      "pitcher": "kyle finnegan",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "39": {
+      "player": "isaac paredes",
+      "pitcher": "kyle finnegan",
+      "result": "Double",
+      "pitch": "4-Seam Fastball"
+    },
+    "38": {
+      "player": "christian walker",
+      "pitcher": "casey mize",
+      "result": "Lineout",
+      "pitch": "Sinker"
+    },
+    "37": {
+      "player": "yordan alvarez",
+      "pitcher": "casey mize",
+      "result": "Double",
+      "pitch": "Slider"
+    },
+    "36": {
+      "player": "jeremy pena",
+      "pitcher": "casey mize",
+      "result": "Groundout",
+      "pitch": "Slurve"
+    },
+    "35": {
+      "player": "christian vazquez",
+      "pitcher": "casey mize",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "34": {
+      "player": "hao yu  lee",
+      "pitcher": "peter lambert",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "33": {
+      "player": "matt vierling",
+      "pitcher": "peter lambert",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "32": {
+      "player": "colt keith",
+      "pitcher": "peter lambert",
+      "result": "Flyout",
+      "pitch": "Slider"
+    },
+    "31": {
+      "player": "jake meyers",
+      "pitcher": "casey mize",
+      "result": "Lineout",
+      "pitch": "4-Seam Fastball"
+    },
+    "30": {
+      "player": "joey loperfido",
+      "pitcher": "casey mize",
+      "result": "Ball In Dirt",
+      "pitch": "Slider"
+    },
+    "29": {
+      "player": "cam smith",
+      "pitcher": "casey mize",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "28": {
+      "player": "jose altuve",
+      "pitcher": "casey mize",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "27": {
+      "player": "isaac paredes",
+      "pitcher": "casey mize",
+      "result": "Fielders Choice Out",
+      "pitch": "Splitter"
+    },
+    "26": {
+      "player": "christian walker",
+      "pitcher": "casey mize",
+      "result": "Double",
+      "pitch": "Slider"
+    },
+    "25": {
+      "player": "kerry carpenter",
+      "pitcher": "peter lambert",
+      "result": "Flyout",
+      "pitch": "Slurve"
+    },
+    "24": {
+      "player": "spencer torkelson",
+      "pitcher": "peter lambert",
+      "result": "Flyout",
+      "pitch": "Slurve"
+    },
+    "23": {
+      "player": "riley greene",
+      "pitcher": "peter lambert",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
+    "22": {
+      "player": "dillon dingler",
+      "pitcher": "peter lambert",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "21": {
+      "player": "yordan alvarez",
+      "pitcher": "casey mize",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "20": {
+      "player": "jeremy pena",
+      "pitcher": "casey mize",
+      "result": "Home Run",
+      "pitch": "Slider"
+    },
+    "19": {
+      "player": "christian vazquez",
+      "pitcher": "casey mize",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "18": {
+      "player": "jake meyers",
+      "pitcher": "casey mize",
+      "result": "Lineout",
+      "pitch": "Slider"
+    },
+    "17": {
+      "player": "kevin mcgonigle",
+      "pitcher": "peter lambert",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "16": {
+      "player": "jake rogers",
+      "pitcher": "peter lambert",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "15": {
+      "player": "hao yu  lee",
+      "pitcher": "peter lambert",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "14": {
+      "player": "joey loperfido",
+      "pitcher": "casey mize",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "13": {
+      "player": "cam smith",
+      "pitcher": "casey mize",
+      "result": "Double",
+      "pitch": "Splitter"
+    },
+    "12": {
+      "player": "jose altuve",
+      "pitcher": "casey mize",
+      "result": "Groundout",
+      "pitch": "Slider"
+    },
+    "11": {
+      "player": "isaac paredes",
+      "pitcher": "casey mize",
+      "result": "Flyout",
+      "pitch": "Slurve"
+    },
+    "10": {
+      "player": "matt vierling",
+      "pitcher": "peter lambert",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "9": {
+      "player": "colt keith",
+      "pitcher": "peter lambert",
+      "result": "Hit By Pitch",
+      "pitch": "4-Seam Fastball"
+    },
+    "8": {
+      "player": "kerry carpenter",
+      "pitcher": "peter lambert",
+      "result": "Called Strike",
+      "pitch": "Slurve"
+    },
+    "7": {
+      "player": "spencer torkelson",
+      "pitcher": "peter lambert",
+      "result": "Flyout",
+      "pitch": "Cutter"
+    },
+    "6": {
+      "player": "christian walker",
+      "pitcher": "casey mize",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "5": {
+      "player": "yordan alvarez",
+      "pitcher": "casey mize",
+      "result": "Flyout",
+      "pitch": "Splitter"
+    },
+    "4": {
+      "player": "jeremy pena",
+      "pitcher": "casey mize",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "3": {
+      "player": "riley greene",
+      "pitcher": "peter lambert",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "2": {
+      "player": "dillon dingler",
+      "pitcher": "peter lambert",
+      "result": "Pop Out",
+      "pitch": "Sinker"
+    },
+    "1": {
+      "player": "kevin mcgonigle",
+      "pitcher": "peter lambert",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    }
+  },
+  "sd @ stl": {
+    "77": {
+      "player": "pedro pages",
+      "pitcher": "adrian morejon",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "76": {
+      "player": "masyn winn",
+      "pitcher": "adrian morejon",
+      "result": "GIDP",
+      "pitch": "Changeup"
+    },
+    "75": {
+      "player": "lars nootbaar",
+      "pitcher": "adrian morejon",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "74": {
+      "player": "ty france",
+      "pitcher": "chris roycroft",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "73": {
+      "player": "xander bogaerts",
+      "pitcher": "chris roycroft",
+      "result": "Field Error",
+      "pitch": "Sinker"
+    },
+    "72": {
+      "player": "gavin sheets",
+      "pitcher": "chris roycroft",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "71": {
+      "player": "manny machado",
+      "pitcher": "chris roycroft",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "70": {
+      "player": "jackson merrill",
+      "pitcher": "chris roycroft",
+      "result": "Home Run",
+      "pitch": "Sweeper"
+    },
+    "69": {
+      "player": "samad taylor",
+      "pitcher": "chris roycroft",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "68": {
+      "player": "fernando tatis",
+      "pitcher": "chris roycroft",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "67": {
+      "player": "rodolfo duran",
+      "pitcher": "chris roycroft",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "66": {
+      "player": "sung mun song",
+      "pitcher": "chris roycroft",
+      "result": "Single",
+      "pitch": "Cutter"
+    },
+    "65": {
+      "player": "jordan walker",
+      "pitcher": "jason adam",
+      "result": "Pop Out",
+      "pitch": "Changeup"
+    },
+    "64": {
+      "player": "alec burleson",
+      "pitcher": "jason adam",
+      "result": "GIDP",
+      "pitch": "Slider"
+    },
+    "63": {
+      "player": "ivan herrera",
+      "pitcher": "jason adam",
+      "result": "Hit By Pitch",
+      "pitch": "Sweeper"
+    },
+    "62": {
+      "player": "ty france",
+      "pitcher": "chris roycroft",
+      "result": "Lineout",
+      "pitch": "Sinker"
+    },
+    "61": {
+      "player": "xander bogaerts",
+      "pitcher": "chris roycroft",
+      "result": "Hit By Pitch",
+      "pitch": "Sinker"
+    },
+    "60": {
+      "player": "gavin sheets",
+      "pitcher": "justin bruihl",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "59": {
+      "player": "manny machado",
+      "pitcher": "justin bruihl",
+      "result": "Lineout",
+      "pitch": "Sinker"
+    },
+    "58": {
+      "player": "jackson merrill",
+      "pitcher": "justin bruihl",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "57": {
+      "player": "samad taylor",
+      "pitcher": "matt svanson",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
+    "56": {
+      "player": "jj wetherholt",
+      "pitcher": "kyle hart",
+      "result": "Groundout",
+      "pitch": "Sweeper"
+    },
+    "55": {
+      "player": "jose fermin",
+      "pitcher": "kyle hart",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "54": {
+      "player": "blaze jordan",
+      "pitcher": "kyle hart",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "53": {
+      "player": "fernando tatis",
+      "pitcher": "matt svanson",
+      "result": "Flyout",
+      "pitch": "Sweeper"
+    },
+    "52": {
+      "player": "rodolfo duran",
+      "pitcher": "matt svanson",
+      "result": "Double",
+      "pitch": "Sinker"
+    },
+    "51": {
+      "player": "will wagner",
+      "pitcher": "matt svanson",
+      "result": "Flyout",
+      "pitch": "Sweeper"
+    },
+    "50": {
+      "player": "ty france",
+      "pitcher": "matt svanson",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "49": {
+      "player": "nelson velazquez",
+      "pitcher": "kyle hart",
+      "result": "Swinging Strike",
+      "pitch": "Splitter"
+    },
+    "48": {
+      "player": "masyn winn",
+      "pitcher": "griffin canning",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "47": {
+      "player": "lars nootbaar",
+      "pitcher": "griffin canning",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "46": {
+      "player": "xander bogaerts",
+      "pitcher": "kyle leahy",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "45": {
+      "player": "gavin sheets",
+      "pitcher": "kyle leahy",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "44": {
+      "player": "manny machado",
+      "pitcher": "kyle leahy",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "43": {
+      "player": "jordan walker",
+      "pitcher": "griffin canning",
+      "result": "Forceout",
+      "pitch": "Knuckle Curve"
+    },
+    "42": {
+      "player": "alec burleson",
+      "pitcher": "griffin canning",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "41": {
+      "player": "ivan herrera",
+      "pitcher": "griffin canning",
+      "result": "Fielders Choice Out",
+      "pitch": "Knuckle Curve"
+    },
+    "40": {
+      "player": "jj wetherholt",
+      "pitcher": "griffin canning",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "39": {
+      "player": "nathan church",
+      "pitcher": "griffin canning",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "38": {
+      "player": "blaze jordan",
+      "pitcher": "griffin canning",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "37": {
+      "player": "jackson merrill",
+      "pitcher": "kyle leahy",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "36": {
+      "player": "samad taylor",
+      "pitcher": "kyle leahy",
+      "result": "Flyout",
+      "pitch": "Curveball"
+    },
+    "35": {
+      "player": "fernando tatis",
+      "pitcher": "kyle leahy",
+      "result": "Double",
+      "pitch": "Sweeper"
+    },
+    "34": {
+      "player": "rodolfo duran",
+      "pitcher": "kyle leahy",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
+    "33": {
+      "player": "will wagner",
+      "pitcher": "kyle leahy",
+      "result": "Single",
+      "pitch": "Sweeper"
+    },
+    "32": {
+      "player": "jimmy crooks",
+      "pitcher": "griffin canning",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "31": {
+      "player": "masyn winn",
+      "pitcher": "griffin canning",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "30": {
+      "player": "lars nootbaar",
+      "pitcher": "griffin canning",
+      "result": "Lineout",
+      "pitch": "Changeup"
+    },
+    "29": {
+      "player": "jordan walker",
+      "pitcher": "griffin canning",
+      "result": "Flyout",
+      "pitch": "Cutter"
+    },
+    "28": {
+      "player": "ty france",
+      "pitcher": "kyle leahy",
+      "result": "GIDP",
+      "pitch": "Curveball"
+    },
+    "27": {
+      "player": "xander bogaerts",
+      "pitcher": "kyle leahy",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "26": {
+      "player": "gavin sheets",
+      "pitcher": "kyle leahy",
+      "result": "Pop Out",
+      "pitch": "Slider"
+    },
+    "25": {
+      "player": "manny machado",
+      "pitcher": "kyle leahy",
+      "result": "Double",
+      "pitch": "Sweeper"
+    },
+    "24": {
+      "player": "alec burleson",
+      "pitcher": "griffin canning",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "23": {
+      "player": "ivan herrera",
+      "pitcher": "griffin canning",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "22": {
+      "player": "jj wetherholt",
+      "pitcher": "griffin canning",
+      "result": "Single",
+      "pitch": "Slider"
+    },
+    "21": {
+      "player": "nathan church",
+      "pitcher": "griffin canning",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "20": {
+      "player": "jackson merrill",
+      "pitcher": "kyle leahy",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "19": {
+      "player": "samad taylor",
+      "pitcher": "kyle leahy",
+      "result": "Foul Tip",
+      "pitch": "Curveball"
+    },
+    "18": {
+      "player": "fernando tatis",
+      "pitcher": "kyle leahy",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "17": {
+      "player": "rodolfo duran",
+      "pitcher": "kyle leahy",
+      "result": "Groundout",
+      "pitch": "Slider"
+    },
+    "16": {
+      "player": "blaze jordan",
+      "pitcher": "griffin canning",
+      "result": "Forceout",
+      "pitch": "Sinker"
+    },
+    "15": {
+      "player": "jimmy crooks",
+      "pitcher": "griffin canning",
+      "result": "Ball In Dirt",
+      "pitch": "Sinker"
+    },
+    "14": {
+      "player": "masyn winn",
+      "pitcher": "griffin canning",
+      "result": "Lineout",
+      "pitch": "Slider"
+    },
+    "13": {
+      "player": "lars nootbaar",
+      "pitcher": "griffin canning",
+      "result": "Swinging Strike",
+      "pitch": "Cutter"
+    },
+    "12": {
+      "player": "will wagner",
+      "pitcher": "kyle leahy",
+      "result": "GIDP",
+      "pitch": "Curveball"
+    },
+    "11": {
+      "player": "ty france",
+      "pitcher": "kyle leahy",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "10": {
+      "player": "xander bogaerts",
+      "pitcher": "kyle leahy",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "9": {
+      "player": "jordan walker",
+      "pitcher": "bradgley rodriguez",
+      "result": "Fielders Choice Out",
+      "pitch": "Changeup"
+    },
+    "8": {
+      "player": "alec burleson",
+      "pitcher": "bradgley rodriguez",
+      "result": "Foul Tip",
+      "pitch": "Changeup"
+    },
+    "7": {
+      "player": "ivan herrera",
+      "pitcher": "bradgley rodriguez",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "6": {
+      "player": "jj wetherholt",
+      "pitcher": "bradgley rodriguez",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "5": {
+      "player": "gavin sheets",
+      "pitcher": "kyle leahy",
+      "result": "Called Strike",
+      "pitch": "Sweeper"
+    },
+    "4": {
+      "player": "manny machado",
+      "pitcher": "kyle leahy",
+      "result": "Sac Fly",
+      "pitch": "4-Seam Fastball"
+    },
+    "3": {
+      "player": "jackson merrill",
+      "pitcher": "kyle leahy",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "2": {
+      "player": "samad taylor",
+      "pitcher": "kyle leahy",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "1": {
+      "player": "fernando tatis",
+      "pitcher": "kyle leahy",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    }
+  },
+  "tb @ lad": {
+    "79": {
+      "player": "cedric mullins",
+      "pitcher": "alex vesia",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "78": {
+      "player": "jonathan aranda",
+      "pitcher": "alex vesia",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "77": {
+      "player": "yandy diaz",
+      "pitcher": "alex vesia",
+      "result": "Intent Walk",
+      "pitch": ""
+    },
+    "76": {
+      "player": "taylor walls",
+      "pitcher": "alex vesia",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "75": {
+      "player": "ben williamson",
+      "pitcher": "alex vesia",
+      "result": "Flyout",
+      "pitch": "Slider"
+    },
+    "74": {
+      "player": "austin slater",
+      "pitcher": "alex vesia",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "73": {
+      "player": "mookie betts",
+      "pitcher": "cole sulser",
+      "result": "Groundout",
+      "pitch": "Cutter"
+    },
+    "72": {
+      "player": "freddie freeman",
+      "pitcher": "cole sulser",
+      "result": "Double Play",
+      "pitch": "Cutter"
+    },
+    "71": {
+      "player": "andy pages",
+      "pitcher": "cole sulser",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "70": {
+      "player": "chandler simpson",
+      "pitcher": "jack dreyer",
+      "result": "Groundout",
+      "pitch": "Slider"
+    },
+    "69": {
+      "player": "ryan vilade",
+      "pitcher": "jack dreyer",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "68": {
+      "player": "junior caminero",
+      "pitcher": "edgardo henriquez",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "67": {
+      "player": "max muncy",
+      "pitcher": "cole sulser",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "66": {
+      "player": "alex freeland",
+      "pitcher": "kevin kelly",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "65": {
+      "player": "dalton rushing",
+      "pitcher": "kevin kelly",
+      "result": "Double",
+      "pitch": "Sinker"
+    },
+    "64": {
+      "player": "alex call",
+      "pitcher": "kevin kelly",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "63": {
+      "player": "kyle tucker",
+      "pitcher": "kevin kelly",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "62": {
+      "player": "cedric mullins",
+      "pitcher": "edgardo henriquez",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "61": {
+      "player": "jonathan aranda",
+      "pitcher": "edgardo henriquez",
+      "result": "GIDP",
+      "pitch": "Sinker"
+    },
+    "60": {
+      "player": "yandy diaz",
+      "pitcher": "edgardo henriquez",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "59": {
+      "player": "shohei ohtani",
+      "pitcher": "kevin kelly",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "58": {
+      "player": "mookie betts",
+      "pitcher": "kevin kelly",
+      "result": "Lineout",
+      "pitch": "Sweeper"
+    },
+    "57": {
+      "player": "freddie freeman",
+      "pitcher": "kevin kelly",
+      "result": "Home Run",
+      "pitch": "Sinker"
+    },
+    "56": {
+      "player": "andy pages",
+      "pitcher": "kevin kelly",
+      "result": "Double",
+      "pitch": "Sinker"
+    },
+    "55": {
+      "player": "tommy edman",
+      "pitcher": "kevin kelly",
+      "result": "Lineout",
+      "pitch": "4-Seam Fastball"
+    },
+    "54": {
+      "player": "taylor walls",
+      "pitcher": "shohei ohtani",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "53": {
+      "player": "hunter feduccia",
+      "pitcher": "shohei ohtani",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "52": {
+      "player": "victor mesa",
+      "pitcher": "shohei ohtani",
+      "result": "Groundout",
+      "pitch": "Splitter"
+    },
+    "51": {
+      "player": "alex freeland",
+      "pitcher": "garrett cleavinger",
+      "result": "Foul Tip",
+      "pitch": "Slider"
+    },
+    "50": {
+      "player": "dalton rushing",
+      "pitcher": "garrett cleavinger",
+      "result": "Flyout",
+      "pitch": "Sweeper"
+    },
+    "49": {
+      "player": "alex call",
+      "pitcher": "garrett cleavinger",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "48": {
+      "player": "kyle tucker",
+      "pitcher": "garrett cleavinger",
+      "result": "Ball",
+      "pitch": "Sweeper"
+    },
+    "47": {
+      "player": "miguel rojas",
+      "pitcher": "casey legumina",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "46": {
+      "player": "mookie betts",
+      "pitcher": "casey legumina",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "45": {
+      "player": "freddie freeman",
+      "pitcher": "casey legumina",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "44": {
+      "player": "chandler simpson",
+      "pitcher": "shohei ohtani",
+      "result": "Bunt Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "43": {
+      "player": "richie palacios",
+      "pitcher": "shohei ohtani",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "42": {
+      "player": "junior caminero",
+      "pitcher": "shohei ohtani",
+      "result": "Forceout",
+      "pitch": "Sweeper"
+    },
+    "41": {
+      "player": "cedric mullins",
+      "pitcher": "shohei ohtani",
+      "result": "Single",
+      "pitch": "Curveball"
+    },
+    "40": {
+      "player": "jonathan aranda",
+      "pitcher": "shohei ohtani",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "39": {
+      "player": "yandy diaz",
+      "pitcher": "shohei ohtani",
+      "result": "Single",
+      "pitch": "Sweeper"
+    },
+    "38": {
+      "player": "taylor walls",
+      "pitcher": "shohei ohtani",
+      "result": "Sac Fly",
+      "pitch": "4-Seam Fastball"
+    },
+    "37": {
+      "player": "hunter feduccia",
+      "pitcher": "shohei ohtani",
+      "result": "Double",
+      "pitch": "4-Seam Fastball"
+    },
+    "36": {
+      "player": "victor mesa",
+      "pitcher": "shohei ohtani",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "35": {
+      "player": "andy pages",
+      "pitcher": "casey legumina",
+      "result": "Lineout",
+      "pitch": "Sinker"
+    },
+    "34": {
+      "player": "tommy edman",
+      "pitcher": "shane mcclanahan",
+      "result": "Ball",
+      "pitch": "Curveball"
+    },
+    "33": {
+      "player": "alex freeland",
+      "pitcher": "shane mcclanahan",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "32": {
+      "player": "dalton rushing",
+      "pitcher": "shane mcclanahan",
+      "result": "Strike\u00a0BAT \u21ba\u00a0Ball",
+      "pitch": "Curveball"
+    },
+    "31": {
+      "player": "alex call",
+      "pitcher": "shane mcclanahan",
+      "result": "Single",
+      "pitch": "Curveball"
+    },
+    "30": {
+      "player": "kyle tucker",
+      "pitcher": "shane mcclanahan",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "29": {
+      "player": "miguel rojas",
+      "pitcher": "shane mcclanahan",
+      "result": "Strike\u00a0BAT \u2716\u00a0Strike",
+      "pitch": "Curveball"
+    },
+    "28": {
+      "player": "mookie betts",
+      "pitcher": "shane mcclanahan",
+      "result": "Strike\u00a0BAT \u21ba\u00a0Ball",
+      "pitch": "Curveball"
+    },
+    "27": {
+      "player": "chandler simpson",
+      "pitcher": "shohei ohtani",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "26": {
+      "player": "richie palacios",
+      "pitcher": "shohei ohtani",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "25": {
+      "player": "junior caminero",
+      "pitcher": "shohei ohtani",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "24": {
+      "player": "freddie freeman",
+      "pitcher": "shane mcclanahan",
+      "result": "Groundout",
+      "pitch": "Slider"
+    },
+    "23": {
+      "player": "andy pages",
+      "pitcher": "shane mcclanahan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "22": {
+      "player": "tommy edman",
+      "pitcher": "shane mcclanahan",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "21": {
+      "player": "alex freeland",
+      "pitcher": "shane mcclanahan",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "20": {
+      "player": "cedric mullins",
+      "pitcher": "shohei ohtani",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "19": {
+      "player": "jonathan aranda",
+      "pitcher": "shohei ohtani",
+      "result": "Single",
+      "pitch": "Sweeper"
+    },
+    "18": {
+      "player": "yandy diaz",
+      "pitcher": "shohei ohtani",
       "result": "Hit By Pitch",
       "pitch": "Curveball"
     },
-    "1": {
-      "player": "tj friedl",
-      "pitcher": "yoshinobu yamamoto",
-      "result": "In play, out(s)",
+    "17": {
+      "player": "taylor walls",
+      "pitcher": "shohei ohtani",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "16": {
+      "player": "hunter feduccia",
+      "pitcher": "shohei ohtani",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
+    "15": {
+      "player": "dalton rushing",
+      "pitcher": "shane mcclanahan",
+      "result": "Forceout",
+      "pitch": "Slider"
+    },
+    "14": {
+      "player": "alex call",
+      "pitcher": "shane mcclanahan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "13": {
+      "player": "kyle tucker",
+      "pitcher": "shane mcclanahan",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "12": {
+      "player": "miguel rojas",
+      "pitcher": "shane mcclanahan",
+      "result": "Lineout",
+      "pitch": "4-Seam Fastball"
+    },
+    "11": {
+      "player": "mookie betts",
+      "pitcher": "shane mcclanahan",
+      "result": "Groundout",
+      "pitch": "Slider"
+    },
+    "10": {
+      "player": "victor mesa",
+      "pitcher": "shohei ohtani",
+      "result": "Pop Out",
+      "pitch": "Curveball"
+    },
+    "9": {
+      "player": "chandler simpson",
+      "pitcher": "shohei ohtani",
+      "result": "Flyout",
       "pitch": "Splitter"
+    },
+    "8": {
+      "player": "richie palacios",
+      "pitcher": "shohei ohtani",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "7": {
+      "player": "junior caminero",
+      "pitcher": "shohei ohtani",
+      "result": "Single",
+      "pitch": "Sweeper"
+    },
+    "6": {
+      "player": "freddie freeman",
+      "pitcher": "shane mcclanahan",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "5": {
+      "player": "andy pages",
+      "pitcher": "shane mcclanahan",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
+    "4": {
+      "player": "tommy edman",
+      "pitcher": "shane mcclanahan",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "3": {
+      "player": "cedric mullins",
+      "pitcher": "shohei ohtani",
+      "result": "Lineout",
+      "pitch": "4-Seam Fastball"
+    },
+    "2": {
+      "player": "jonathan aranda",
+      "pitcher": "shohei ohtani",
+      "result": "Groundout",
+      "pitch": "Splitter"
+    },
+    "1": {
+      "player": "yandy diaz",
+      "pitcher": "shohei ohtani",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
     }
-  }
+  },
+  "laa @ ari": {
+    "72": {
+      "player": "denzer guzman",
+      "pitcher": "juan morillo",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "71": {
+      "player": "vaughn grissom",
+      "pitcher": "juan morillo",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "70": {
+      "player": "oswald peraza",
+      "pitcher": "juan morillo",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "69": {
+      "player": "corbin carroll",
+      "pitcher": "brett kerry",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "68": {
+      "player": "geraldo perdomo",
+      "pitcher": "brett kerry",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "67": {
+      "player": "ketel marte",
+      "pitcher": "brett kerry",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "66": {
+      "player": "jo adell",
+      "pitcher": "taylor clarke",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "65": {
+      "player": "mike trout",
+      "pitcher": "taylor clarke",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "64": {
+      "player": "zach neto",
+      "pitcher": "taylor clarke",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "63": {
+      "player": "tommy troy",
+      "pitcher": "brett kerry",
+      "result": "Pop Out",
+      "pitch": "Slider"
+    },
+    "62": {
+      "player": "lujames groover",
+      "pitcher": "brett kerry",
+      "result": "Double Play",
+      "pitch": "Slider"
+    },
+    "61": {
+      "player": "jordan lawlar",
+      "pitcher": "brett kerry",
+      "result": "Field Error",
+      "pitch": "Slider"
+    },
+    "60": {
+      "player": "wade meckler",
+      "pitcher": "eduardo rodriguez",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "59": {
+      "player": "logan porter",
+      "pitcher": "eduardo rodriguez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "58": {
+      "player": "jose siri",
+      "pitcher": "eduardo rodriguez",
+      "result": "Flyout",
+      "pitch": "Curveball"
+    },
+    "57": {
+      "player": "denzer guzman",
+      "pitcher": "eduardo rodriguez",
+      "result": "Double",
+      "pitch": "Changeup"
+    },
+    "56": {
+      "player": "vaughn grissom",
+      "pitcher": "eduardo rodriguez",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "55": {
+      "player": "ildemaro vargas",
+      "pitcher": "brett kerry",
+      "result": "Forceout",
+      "pitch": "Slider"
+    },
+    "54": {
+      "player": "nolan arenado",
+      "pitcher": "brett kerry",
+      "result": "Forceout",
+      "pitch": "4-Seam Fastball"
+    },
+    "53": {
+      "player": "gabriel moreno",
+      "pitcher": "brett kerry",
+      "result": "Single",
+      "pitch": "Slider"
+    },
+    "52": {
+      "player": "corbin carroll",
+      "pitcher": "brett kerry",
+      "result": "Pop Out",
+      "pitch": "Changeup"
+    },
+    "51": {
+      "player": "oswald peraza",
+      "pitcher": "eduardo rodriguez",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
+    "50": {
+      "player": "jo adell",
+      "pitcher": "eduardo rodriguez",
+      "result": "GIDP",
+      "pitch": "Changeup"
+    },
+    "49": {
+      "player": "mike trout",
+      "pitcher": "eduardo rodriguez",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "48": {
+      "player": "zach neto",
+      "pitcher": "eduardo rodriguez",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "47": {
+      "player": "geraldo perdomo",
+      "pitcher": "brett kerry",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "46": {
+      "player": "ketel marte",
+      "pitcher": "brett kerry",
+      "result": "Double",
+      "pitch": "4-Seam Fastball"
+    },
+    "45": {
+      "player": "tommy troy",
+      "pitcher": "brett kerry",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "44": {
+      "player": "lujames groover",
+      "pitcher": "brett kerry",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "43": {
+      "player": "jordan lawlar",
+      "pitcher": "brett kerry",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "42": {
+      "player": "ildemaro vargas",
+      "pitcher": "brett kerry",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "41": {
+      "player": "wade meckler",
+      "pitcher": "eduardo rodriguez",
+      "result": "Lineout",
+      "pitch": "Curveball"
+    },
+    "40": {
+      "player": "logan porter",
+      "pitcher": "eduardo rodriguez",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "39": {
+      "player": "jose siri",
+      "pitcher": "eduardo rodriguez",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "38": {
+      "player": "nolan arenado",
+      "pitcher": "jose fermin",
+      "result": "Flyout",
+      "pitch": "Slider"
+    },
+    "37": {
+      "player": "gabriel moreno",
+      "pitcher": "jose fermin",
+      "result": "Single",
+      "pitch": "Slider"
+    },
+    "36": {
+      "player": "corbin carroll",
+      "pitcher": "jose fermin",
+      "result": "GIDP",
+      "pitch": "Sinker"
+    },
+    "35": {
+      "player": "geraldo perdomo",
+      "pitcher": "jose fermin",
+      "result": "Single",
+      "pitch": "Slider"
+    },
+    "34": {
+      "player": "denzer guzman",
+      "pitcher": "eduardo rodriguez",
+      "result": "Strike\u00a0BAT \u2716\u00a0Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "33": {
+      "player": "vaughn grissom",
+      "pitcher": "eduardo rodriguez",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "32": {
+      "player": "oswald peraza",
+      "pitcher": "eduardo rodriguez",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "31": {
+      "player": "jo adell",
+      "pitcher": "eduardo rodriguez",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "30": {
+      "player": "ketel marte",
+      "pitcher": "sam aldegheri",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "29": {
+      "player": "tommy troy",
+      "pitcher": "sam aldegheri",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "28": {
+      "player": "lujames groover",
+      "pitcher": "sam aldegheri",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "27": {
+      "player": "jordan lawlar",
+      "pitcher": "sam aldegheri",
+      "result": "Double",
+      "pitch": "Cutter"
+    },
+    "26": {
+      "player": "ildemaro vargas",
+      "pitcher": "sam aldegheri",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "25": {
+      "player": "mike trout",
+      "pitcher": "eduardo rodriguez",
+      "result": "GIDP",
+      "pitch": "4-Seam Fastball"
+    },
+    "24": {
+      "player": "zach neto",
+      "pitcher": "eduardo rodriguez",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "23": {
+      "player": "wade meckler",
+      "pitcher": "eduardo rodriguez",
+      "result": "Lineout",
+      "pitch": "Curveball"
+    },
+    "22": {
+      "player": "logan porter",
+      "pitcher": "eduardo rodriguez",
+      "result": "Double",
+      "pitch": "Curveball"
+    },
+    "21": {
+      "player": "nolan arenado",
+      "pitcher": "sam aldegheri",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "20": {
+      "player": "gabriel moreno",
+      "pitcher": "sam aldegheri",
+      "result": "Double",
+      "pitch": "Cutter"
+    },
+    "19": {
+      "player": "corbin carroll",
+      "pitcher": "sam aldegheri",
+      "result": "Home Run",
+      "pitch": "Changeup"
+    },
+    "18": {
+      "player": "geraldo perdomo",
+      "pitcher": "sam aldegheri",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "17": {
+      "player": "ketel marte",
+      "pitcher": "sam aldegheri",
+      "result": "Hit By Pitch",
+      "pitch": "Curveball"
+    },
+    "16": {
+      "player": "tommy troy",
+      "pitcher": "sam aldegheri",
+      "result": "Triple",
+      "pitch": "4-Seam Fastball"
+    },
+    "15": {
+      "player": "lujames groover",
+      "pitcher": "sam aldegheri",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "14": {
+      "player": "jordan lawlar",
+      "pitcher": "sam aldegheri",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "13": {
+      "player": "ildemaro vargas",
+      "pitcher": "sam aldegheri",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "12": {
+      "player": "jose siri",
+      "pitcher": "eduardo rodriguez",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "11": {
+      "player": "denzer guzman",
+      "pitcher": "eduardo rodriguez",
+      "result": "Foul Tip",
+      "pitch": "4-Seam Fastball"
+    },
+    "10": {
+      "player": "vaughn grissom",
+      "pitcher": "eduardo rodriguez",
+      "result": "Lineout",
+      "pitch": "Changeup"
+    },
+    "9": {
+      "player": "nolan arenado",
+      "pitcher": "sam aldegheri",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "8": {
+      "player": "gabriel moreno",
+      "pitcher": "sam aldegheri",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "7": {
+      "player": "corbin carroll",
+      "pitcher": "sam aldegheri",
+      "result": "Ball\u00a0CAT \u21ba\u00a0Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "6": {
+      "player": "geraldo perdomo",
+      "pitcher": "sam aldegheri",
+      "result": "Forceout",
+      "pitch": "4-Seam Fastball"
+    },
+    "5": {
+      "player": "ketel marte",
+      "pitcher": "sam aldegheri",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "4": {
+      "player": "oswald peraza",
+      "pitcher": "eduardo rodriguez",
+      "result": "GIDP",
+      "pitch": "Curveball"
+    },
+    "3": {
+      "player": "jo adell",
+      "pitcher": "eduardo rodriguez",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "2": {
+      "player": "mike trout",
+      "pitcher": "eduardo rodriguez",
+      "result": "Single",
+      "pitch": "Curveball"
+    },
+    "1": {
+      "player": "zach neto",
+      "pitcher": "eduardo rodriguez",
+      "result": "Home Run",
+      "pitch": "Changeup"
+    }
+  },
+  "tor @ bos": {
+    "39": {
+      "player": "wilyer abreu",
+      "pitcher": "mason fluharty",
+      "result": "Single",
+      "pitch": "Sweeper"
+    },
+    "38": {
+      "player": "ceddanne rafaela",
+      "pitcher": "simeon woods richardson",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "37": {
+      "player": "mickey gasper",
+      "pitcher": "simeon woods richardson",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "36": {
+      "player": "andres gimenez",
+      "pitcher": "jake bennett",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "35": {
+      "player": "myles straw",
+      "pitcher": "jake bennett",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "34": {
+      "player": "davis schneider",
+      "pitcher": "jake bennett",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "33": {
+      "player": "marcelo mayer",
+      "pitcher": "simeon woods richardson",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "32": {
+      "player": "andruw monasterio",
+      "pitcher": "simeon woods richardson",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "31": {
+      "player": "isiah kiner falefa",
+      "pitcher": "simeon woods richardson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "30": {
+      "player": "masataka yoshida",
+      "pitcher": "simeon woods richardson",
+      "result": "Single",
+      "pitch": "Splitter"
+    },
+    "29": {
+      "player": "jarren duran",
+      "pitcher": "simeon woods richardson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "28": {
+      "player": "jesus sanchez",
+      "pitcher": "jake bennett",
+      "result": "Lineout",
+      "pitch": "Sweeper"
+    },
+    "27": {
+      "player": "ernie clement",
+      "pitcher": "jake bennett",
+      "result": "Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "26": {
+      "player": "alejandro kirk",
+      "pitcher": "jake bennett",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "25": {
+      "player": "willson contreras",
+      "pitcher": "simeon woods richardson",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "24": {
+      "player": "wilyer abreu",
+      "pitcher": "simeon woods richardson",
+      "result": "Double",
+      "pitch": "4-Seam Fastball"
+    },
+    "23": {
+      "player": "ceddanne rafaela",
+      "pitcher": "simeon woods richardson",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "22": {
+      "player": "mickey gasper",
+      "pitcher": "simeon woods richardson",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "21": {
+      "player": "kazuma okamoto",
+      "pitcher": "jake bennett",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "20": {
+      "player": "vladimir guerrero",
+      "pitcher": "jake bennett",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "19": {
+      "player": "george springer",
+      "pitcher": "jake bennett",
+      "result": "Hit By Pitch",
+      "pitch": "Sweeper"
+    },
+    "18": {
+      "player": "andres gimenez",
+      "pitcher": "jake bennett",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "17": {
+      "player": "myles straw",
+      "pitcher": "jake bennett",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "16": {
+      "player": "davis schneider",
+      "pitcher": "jake bennett",
+      "result": "Double",
+      "pitch": "Sinker"
+    },
+    "15": {
+      "player": "marcelo mayer",
+      "pitcher": "simeon woods richardson",
+      "result": "Flyout",
+      "pitch": "Curveball"
+    },
+    "14": {
+      "player": "andruw monasterio",
+      "pitcher": "simeon woods richardson",
+      "result": "Flyout",
+      "pitch": "Slider"
+    },
+    "13": {
+      "player": "isiah kiner falefa",
+      "pitcher": "simeon woods richardson",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "12": {
+      "player": "masataka yoshida",
+      "pitcher": "braydon fisher",
+      "result": "Lineout",
+      "pitch": "4-Seam Fastball"
+    },
+    "11": {
+      "player": "jesus sanchez",
+      "pitcher": "jake bennett",
+      "result": "Pop Out",
+      "pitch": "Changeup"
+    },
+    "10": {
+      "player": "ernie clement",
+      "pitcher": "jake bennett",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "9": {
+      "player": "alejandro kirk",
+      "pitcher": "jake bennett",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "8": {
+      "player": "jarren duran",
+      "pitcher": "braydon fisher",
+      "result": "Forceout",
+      "pitch": "4-Seam Fastball"
+    },
+    "7": {
+      "player": "willson contreras",
+      "pitcher": "braydon fisher",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "6": {
+      "player": "wilyer abreu",
+      "pitcher": "braydon fisher",
+      "result": "Lineout",
+      "pitch": "Curveball"
+    },
+    "5": {
+      "player": "ceddanne rafaela",
+      "pitcher": "braydon fisher",
+      "result": "Flyout",
+      "pitch": "Slider"
+    },
+    "4": {
+      "player": "mickey gasper",
+      "pitcher": "braydon fisher",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "3": {
+      "player": "kazuma okamoto",
+      "pitcher": "jake bennett",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "2": {
+      "player": "vladimir guerrero",
+      "pitcher": "jake bennett",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "1": {
+      "player": "george springer",
+      "pitcher": "jake bennett",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    }
+  },
+  "chw @ nyy": {
+    "34": {
+      "player": "sam antonacci",
+      "pitcher": "carlos rodon",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "33": {
+      "player": "luisangel acuna",
+      "pitcher": "carlos rodon",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "32": {
+      "player": "braden montgomery",
+      "pitcher": "carlos rodon",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "31": {
+      "player": "edgar quero",
+      "pitcher": "carlos rodon",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "30": {
+      "player": "jose caballero",
+      "pitcher": "anthony kay",
+      "result": "Bunt Pop Out",
+      "pitch": "4-Seam Fastball"
+    },
+    "29": {
+      "player": "jazz chisholm",
+      "pitcher": "anthony kay",
+      "result": "Swinging Strike",
+      "pitch": "Sinker"
+    },
+    "28": {
+      "player": "jasson dominguez",
+      "pitcher": "anthony kay",
+      "result": "Groundout",
+      "pitch": "Cutter"
+    },
+    "27": {
+      "player": "cody bellinger",
+      "pitcher": "anthony kay",
+      "result": "Double",
+      "pitch": "Sweeper"
+    },
+    "26": {
+      "player": "everson pereira",
+      "pitcher": "carlos rodon",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "25": {
+      "player": "colson montgomery",
+      "pitcher": "carlos rodon",
+      "result": "Home Run",
+      "pitch": "Slider"
+    },
+    "24": {
+      "player": "miguel vargas",
+      "pitcher": "carlos rodon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "23": {
+      "player": "randal grichuk",
+      "pitcher": "carlos rodon",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "22": {
+      "player": "chase meidroth",
+      "pitcher": "carlos rodon",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "21": {
+      "player": "sam antonacci",
+      "pitcher": "carlos rodon",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "20": {
+      "player": "amed rosario",
+      "pitcher": "anthony kay",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "19": {
+      "player": "ben rice",
+      "pitcher": "anthony kay",
+      "result": "Ball",
+      "pitch": "Slider"
+    },
+    "18": {
+      "player": "paul goldschmidt",
+      "pitcher": "anthony kay",
+      "result": "Flyout",
+      "pitch": "Slider"
+    },
+    "17": {
+      "player": "ali sanchez",
+      "pitcher": "anthony kay",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "16": {
+      "player": "anthony volpe",
+      "pitcher": "anthony kay",
+      "result": "Triple",
+      "pitch": "4-Seam Fastball"
+    },
+    "15": {
+      "player": "jose caballero",
+      "pitcher": "anthony kay",
+      "result": "Hit By Pitch",
+      "pitch": "Cutter"
+    },
+    "14": {
+      "player": "jazz chisholm",
+      "pitcher": "anthony kay",
+      "result": "Ball\u00a0CAT \u21ba\u00a0Strike",
+      "pitch": "Slider"
+    },
+    "13": {
+      "player": "luisangel acuna",
+      "pitcher": "carlos rodon",
+      "result": "Swinging Strike",
+      "pitch": "Slider"
+    },
+    "12": {
+      "player": "braden montgomery",
+      "pitcher": "carlos rodon",
+      "result": "GIDP",
+      "pitch": "Changeup"
+    },
+    "11": {
+      "player": "edgar quero",
+      "pitcher": "carlos rodon",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "10": {
+      "player": "everson pereira",
+      "pitcher": "carlos rodon",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "9": {
+      "player": "jasson dominguez",
+      "pitcher": "anthony kay",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "8": {
+      "player": "cody bellinger",
+      "pitcher": "anthony kay",
+      "result": "Home Run",
+      "pitch": "Sinker"
+    },
+    "7": {
+      "player": "amed rosario",
+      "pitcher": "anthony kay",
+      "result": "Double",
+      "pitch": "Sweeper"
+    },
+    "6": {
+      "player": "ben rice",
+      "pitcher": "anthony kay",
+      "result": "Lineout",
+      "pitch": "Sweeper"
+    },
+    "5": {
+      "player": "paul goldschmidt",
+      "pitcher": "anthony kay",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "4": {
+      "player": "colson montgomery",
+      "pitcher": "carlos rodon",
+      "result": "Pop Out",
+      "pitch": "Slider"
+    },
+    "3": {
+      "player": "miguel vargas",
+      "pitcher": "carlos rodon",
+      "result": "Double",
+      "pitch": "Changeup"
+    },
+    "2": {
+      "player": "randal grichuk",
+      "pitcher": "carlos rodon",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "1": {
+      "player": "chase meidroth",
+      "pitcher": "carlos rodon",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    }
+  },
+  "sf-gm2 @ atl-gm2": {
+    "36": {
+      "player": "mike yastrzemski",
+      "pitcher": "carson whisenhunt",
+      "result": "Flyout",
+      "pitch": "Slider"
+    },
+    "35": {
+      "player": "jorge mateo",
+      "pitcher": "carson whisenhunt",
+      "result": "Lineout",
+      "pitch": "Slider"
+    },
+    "34": {
+      "player": "eli white",
+      "pitcher": "carson whisenhunt",
+      "result": "Forceout",
+      "pitch": "Changeup"
+    },
+    "33": {
+      "player": "austin riley",
+      "pitcher": "carson whisenhunt",
+      "result": "Single",
+      "pitch": "Changeup"
+    },
+    "32": {
+      "player": "luis arraez",
+      "pitcher": "jr ritchie",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "31": {
+      "player": "eric haase",
+      "pitcher": "jr ritchie",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "30": {
+      "player": "drew gilbert",
+      "pitcher": "jr ritchie",
+      "result": "Flyout",
+      "pitch": "Cutter"
+    },
+    "29": {
+      "player": "ozzie albies",
+      "pitcher": "carson whisenhunt",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "28": {
+      "player": "matt olson",
+      "pitcher": "carson whisenhunt",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "27": {
+      "player": "drake baldwin",
+      "pitcher": "carson whisenhunt",
+      "result": "Called Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "26": {
+      "player": "casey schmitt",
+      "pitcher": "jr ritchie",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "25": {
+      "player": "willy adames",
+      "pitcher": "jr ritchie",
+      "result": "Fielders Choice Out",
+      "pitch": "Curveball"
+    },
+    "24": {
+      "player": "jung hoo lee",
+      "pitcher": "jr ritchie",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "23": {
+      "player": "rafael devers",
+      "pitcher": "jr ritchie",
+      "result": "Ball",
+      "pitch": "Cutter"
+    },
+    "22": {
+      "player": "mauricio dubon",
+      "pitcher": "carson whisenhunt",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "21": {
+      "player": "sandy leon",
+      "pitcher": "carson whisenhunt",
+      "result": "Groundout",
+      "pitch": "Changeup"
+    },
+    "20": {
+      "player": "mike yastrzemski",
+      "pitcher": "carson whisenhunt",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "19": {
+      "player": "jorge mateo",
+      "pitcher": "carson whisenhunt",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "18": {
+      "player": "eli white",
+      "pitcher": "carson whisenhunt",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "17": {
+      "player": "matt chapman",
+      "pitcher": "jr ritchie",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "16": {
+      "player": "bryce eldridge",
+      "pitcher": "jr ritchie",
+      "result": "Home Run",
+      "pitch": "4-Seam Fastball"
+    },
+    "15": {
+      "player": "luis arraez",
+      "pitcher": "jr ritchie",
+      "result": "Home Run",
+      "pitch": "4-Seam Fastball"
+    },
+    "14": {
+      "player": "eric haase",
+      "pitcher": "jr ritchie",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "13": {
+      "player": "drew gilbert",
+      "pitcher": "jr ritchie",
+      "result": "Forceout",
+      "pitch": "Changeup"
+    },
+    "12": {
+      "player": "casey schmitt",
+      "pitcher": "jr ritchie",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "11": {
+      "player": "willy adames",
+      "pitcher": "jr ritchie",
+      "result": "Home Run",
+      "pitch": "Slider"
+    },
+    "10": {
+      "player": "austin riley",
+      "pitcher": "carson whisenhunt",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "9": {
+      "player": "ozzie albies",
+      "pitcher": "carson whisenhunt",
+      "result": "Single",
+      "pitch": "4-Seam Fastball"
+    },
+    "8": {
+      "player": "matt olson",
+      "pitcher": "carson whisenhunt",
+      "result": "Flyout",
+      "pitch": "Slider"
+    },
+    "7": {
+      "player": "drake baldwin",
+      "pitcher": "carson whisenhunt",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "6": {
+      "player": "mauricio dubon",
+      "pitcher": "carson whisenhunt",
+      "result": "Ball",
+      "pitch": "Changeup"
+    },
+    "5": {
+      "player": "jung hoo lee",
+      "pitcher": "jr ritchie",
+      "result": "Lineout",
+      "pitch": "Cutter"
+    },
+    "4": {
+      "player": "rafael devers",
+      "pitcher": "jr ritchie",
+      "result": "Double",
+      "pitch": "Changeup"
+    },
+    "3": {
+      "player": "matt chapman",
+      "pitcher": "jr ritchie",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "2": {
+      "player": "bryce eldridge",
+      "pitcher": "jr ritchie",
+      "result": "Swinging Strike",
+      "pitch": "Changeup"
+    },
+    "1": {
+      "player": "luis arraez",
+      "pitcher": "jr ritchie",
+      "result": "Ball",
+      "pitch": "Sinker"
+    }
+  },
+  "cle @ mil": {
+    "25": {
+      "player": "garrett mitchell",
+      "pitcher": "gavin williams",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "24": {
+      "player": "sal frelick",
+      "pitcher": "gavin williams",
+      "result": "Groundout",
+      "pitch": "Cutter"
+    },
+    "23": {
+      "player": "jake bauers",
+      "pitcher": "gavin williams",
+      "result": "Groundout",
+      "pitch": "Curveball"
+    },
+    "22": {
+      "player": "patrick bailey",
+      "pitcher": "brandon sproat",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "21": {
+      "player": "petey halpin",
+      "pitcher": "brandon sproat",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "20": {
+      "player": "steven kwan",
+      "pitcher": "brandon sproat",
+      "result": "Lineout",
+      "pitch": "Curveball"
+    },
+    "19": {
+      "player": "william contreras",
+      "pitcher": "gavin williams",
+      "result": "Lineout",
+      "pitch": "Sinker"
+    },
+    "18": {
+      "player": "brice turang",
+      "pitcher": "gavin williams",
+      "result": "Double",
+      "pitch": "Sweeper"
+    },
+    "17": {
+      "player": "jackson chourio",
+      "pitcher": "gavin williams",
+      "result": "Groundout",
+      "pitch": "Sweeper"
+    },
+    "16": {
+      "player": "christian yelich",
+      "pitcher": "gavin williams",
+      "result": "Single",
+      "pitch": "Curveball"
+    },
+    "15": {
+      "player": "david hamilton",
+      "pitcher": "gavin williams",
+      "result": "Sac Bunt",
+      "pitch": "Cutter"
+    },
+    "14": {
+      "player": "cooper pratt",
+      "pitcher": "gavin williams",
+      "result": "Single",
+      "pitch": "Sinker"
+    },
+    "13": {
+      "player": "david fry",
+      "pitcher": "brandon sproat",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "12": {
+      "player": "daniel schneemann",
+      "pitcher": "brandon sproat",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "11": {
+      "player": "rhys hoskins",
+      "pitcher": "brandon sproat",
+      "result": "Swinging Strike",
+      "pitch": "Sweeper"
+    },
+    "10": {
+      "player": "garrett mitchell",
+      "pitcher": "gavin williams",
+      "result": "Flyout",
+      "pitch": "Sweeper"
+    },
+    "9": {
+      "player": "sal frelick",
+      "pitcher": "gavin williams",
+      "result": "Double",
+      "pitch": "Sinker"
+    },
+    "8": {
+      "player": "jake bauers",
+      "pitcher": "gavin williams",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "7": {
+      "player": "william contreras",
+      "pitcher": "gavin williams",
+      "result": "Ball",
+      "pitch": "Sinker"
+    },
+    "6": {
+      "player": "brice turang",
+      "pitcher": "gavin williams",
+      "result": "Groundout",
+      "pitch": "Sweeper"
+    },
+    "5": {
+      "player": "jackson chourio",
+      "pitcher": "gavin williams",
+      "result": "Groundout",
+      "pitch": "Cutter"
+    },
+    "4": {
+      "player": "christian yelich",
+      "pitcher": "gavin williams",
+      "result": "Home Run",
+      "pitch": "Curveball"
+    },
+    "3": {
+      "player": "brayan rocchio",
+      "pitcher": "brandon sproat",
+      "result": "Swinging Strike",
+      "pitch": "Curveball"
+    },
+    "2": {
+      "player": "kyle manzardo",
+      "pitcher": "brandon sproat",
+      "result": "Swinging Strike",
+      "pitch": "4-Seam Fastball"
+    },
+    "1": {
+      "player": "travis bazzana",
+      "pitcher": "brandon sproat",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    }
+  },
+  "col @ chc": {
+    "11": {
+      "player": "alex bregman",
+      "pitcher": "sean sullivan",
+      "result": "Foul",
+      "pitch": "4-Seam Fastball"
+    },
+    "10": {
+      "player": "edouard julien",
+      "pitcher": "javier assad",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    },
+    "9": {
+      "player": "cole carrigg",
+      "pitcher": "javier assad",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "8": {
+      "player": "hunter goodman",
+      "pitcher": "javier assad",
+      "result": "Flyout",
+      "pitch": "Sinker"
+    },
+    "7": {
+      "player": "michael busch",
+      "pitcher": "sean sullivan",
+      "result": "Flyout",
+      "pitch": "Changeup"
+    },
+    "6": {
+      "player": "seiya suzuki",
+      "pitcher": "sean sullivan",
+      "result": "Ball",
+      "pitch": "4-Seam Fastball"
+    },
+    "5": {
+      "player": "nico hoerner",
+      "pitcher": "sean sullivan",
+      "result": "Pop Out",
+      "pitch": "Changeup"
+    },
+    "4": {
+      "player": "pete crow armstrong",
+      "pitcher": "sean sullivan",
+      "result": "Groundout",
+      "pitch": "4-Seam Fastball"
+    },
+    "3": {
+      "player": "tj rumfield",
+      "pitcher": "javier assad",
+      "result": "Flyout",
+      "pitch": "Cutter"
+    },
+    "2": {
+      "player": "tyler freeman",
+      "pitcher": "javier assad",
+      "result": "Groundout",
+      "pitch": "Sinker"
+    },
+    "1": {
+      "player": "jake mccarthy",
+      "pitcher": "javier assad",
+      "result": "Flyout",
+      "pitch": "4-Seam Fastball"
+    }
+  },
+  "pit @ ath": {},
+  "bal @ sea": {}
 }
